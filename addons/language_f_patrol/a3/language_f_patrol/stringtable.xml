@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><Project name="Arma3">
+  <Package name="Language_Patrol">
+    <Container name="Data_F">
+      <Key ID="str_a3_cfgeditorsubcategories_edsubcat_personnel_combatpatrol0">
+        <Original>Men (Combat Patrol)</Original>
+        <Chinese>人員 (戰鬥巡邏)</Chinese>
+        <French>Hommes (Combat Patrol)</French>
+        <Spanish>Hombres (Combat Patrol)</Spanish>
+        <Italian>Uomini (Combat Patrol)</Italian>
+        <Polish>Ludzie (Combat Patrol)</Polish>
+        <Russian>Люди (Combat Patrol)</Russian>
+        <German>Männer (Combat Patrol)</German>
+        <Czech>Vojáci (Combat Patrol)</Czech>
+        <English>Men (Combat Patrol)</English>
+        <Portuguese>Homens (Combat Patrol)</Portuguese>
+        <Korean>사람(Combat Patrol)</Korean>
+        <Chinesesimp>人员 (战斗巡逻)</Chinesesimp>
+        <Japanese>複数の人間（Combat Patrol）</Japanese>
+      </Key>
+    </Container>
+    <Container name="Modules_F">
+      <Key ID="str_a3_combatpatrol_modules_9">
+        <Original>Adds a new selectable location to the map.</Original>
+        <Chinese>新增一個可選位置在地圖上.</Chinese>
+        <French>Ajoute un nouveau lieu sélectionnable sur la carte.</French>
+        <Spanish>Añade una nueva ubicación seleccionable al mapa.</Spanish>
+        <Italian>Aggiungi una nuova postazione selezionabile sulla mappa.</Italian>
+        <Polish>Dodaje na mapie nową lokalizację, którą można wybrać.</Polish>
+        <Russian>Добавляет на карту новую локацию, которую можно выбрать.</Russian>
+        <German>Fügt auf der Karte einen neuen anwählbaren Ort hinzu.</German>
+        <Czech>Přidá na mapu nové místo, které lze vybrat.</Czech>
+        <English>Adds a new selectable location to the map.</English>
+        <Portuguese>Adiciona um novo local selecionável ao mapa.</Portuguese>
+        <Korean>선택 가능한 새로운 장소를 지도에 추가합니다.</Korean>
+        <Chinesesimp>新增一个可选位置在地图上.</Chinesesimp>
+        <Japanese>マップ上に選択可能なロケーションを新しく追加します。</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_8">
+        <Original>Large (city)</Original>
+        <Chinese>大型 (城市)</Chinese>
+        <French>Grande (ville)</French>
+        <Spanish>Grande (ciudad)</Spanish>
+        <Italian>Grande (città)</Italian>
+        <Polish>Duża (miasto)</Polish>
+        <Russian>Большая (город)</Russian>
+        <German>Groß (Stadt)</German>
+        <Czech>Velká (město)</Czech>
+        <English>Large (city)</English>
+        <Portuguese>Cidade (grande)</Portuguese>
+        <Korean>대규모(도시)</Korean>
+        <Chinesesimp>大型 (城市)</Chinesesimp>
+        <Japanese>大規模（都市）</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_7">
+        <Original>Medium (normal village)</Original>
+        <Chinese>中型 (普通村莊)</Chinese>
+        <French>Moyenne (village normal)</French>
+        <Spanish>Mediano (aldea normal)</Spanish>
+        <Italian>Media (paese)</Italian>
+        <Polish>Średnia (wioska)</Polish>
+        <Russian>Средняя (обычная деревня)</Russian>
+        <German>Mittel (normales Dorf)</German>
+        <Czech>Střední (běžná vesnice)</Czech>
+        <English>Medium (normal village)</English>
+        <Portuguese>Cidade (mediana)</Portuguese>
+        <Korean>중간 규모(일반 마을)</Korean>
+        <Chinesesimp>中型 (普通村庄)</Chinesesimp>
+        <Japanese>中規模（普通の村）</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_6">
+        <Original>Small (tiny village)</Original>
+        <Chinese>小型 (小村莊)</Chinese>
+        <French>Petite (petit village)</French>
+        <Spanish>Pequeño (aldea pequeña)</Spanish>
+        <Italian>Piccola (paesino)</Italian>
+        <Polish>Mała (mała wioska)</Polish>
+        <Russian>Маленькая (крошечная деревня)</Russian>
+        <German>Klein (kleines Dorf)</German>
+        <Czech>Malá (malá vesnice)</Czech>
+        <English>Small (tiny village)</English>
+        <Portuguese>Cidade (pequena)</Portuguese>
+        <Korean>소규모(작은 마을)</Korean>
+        <Chinesesimp>小型 (小村庄)</Chinesesimp>
+        <Japanese>小規模（小さな村）</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_5">
+        <Original>Location size</Original>
+        <Chinese>地點大小</Chinese>
+        <French>Taille du lieu</French>
+        <Spanish>Tamaño de ubicación</Spanish>
+        <Italian>Dimensione postazione</Italian>
+        <Polish>Wielkość lokalizacji</Polish>
+        <Russian>Размер локации</Russian>
+        <German>Größe des Ortes</German>
+        <Czech>Velikost místa</Czech>
+        <English>Location size</English>
+        <Portuguese>Tamanho do local</Portuguese>
+        <Korean>장소 규모</Korean>
+        <Chinesesimp>地点大小</Chinesesimp>
+        <Japanese>ロケーションサイズ</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_4">
+        <Original>Location name</Original>
+        <Chinese>地點名稱</Chinese>
+        <French>Nom du lieu</French>
+        <Spanish>Nombre de ubicación</Spanish>
+        <Italian>Nome postazione</Italian>
+        <Polish>Nazwa lokalizacji</Polish>
+        <Russian>Название локации</Russian>
+        <German>Name des Ortes</German>
+        <Czech>Název místa</Czech>
+        <English>Location name</English>
+        <Portuguese>Nome do local</Portuguese>
+        <Korean>장소 명</Korean>
+        <Chinesesimp>地点名称</Chinesesimp>
+        <Japanese>ロケーション名</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_3">
+        <Original>Combat Patrol Location Add</Original>
+        <Chinese>增加戰鬥巡邏地點</Chinese>
+        <French>Ajout de lieu à Combat Patrol</French>
+        <Spanish>Añadir ubicación de Combat Patrol</Spanish>
+        <Italian>Aggiungi postazione Combat Patrol</Italian>
+        <Polish>Dodanie lokalizacji Combat Patrol</Polish>
+        <Russian>Добавление локации Combat Patrol</Russian>
+        <German>Combat Patrol – Ort hinzufügen</German>
+        <Czech>Přidat místo režimu Combat Patrol</Czech>
+        <English>Combat Patrol Location Add</English>
+        <Portuguese>Adição de posição no Combat Patrol</Portuguese>
+        <Korean>Combat Patrol 장소 추가</Korean>
+        <Chinesesimp>增加战斗巡逻地点</Chinesesimp>
+        <Japanese>Combat Patrol ロケーション追加</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_2">
+        <Original>Initializes the Combat Patrol mode upon scenario start.</Original>
+        <Chinese>在任務開始後就初始化戰鬥巡邏的遊戲模式.</Chinese>
+        <French>Initialise le mode Combat Patrol au début du scénario.</French>
+        <Spanish>Inicia el modo Combat Patrol cuando empiece el escenario.</Spanish>
+        <Italian>Initializza la modalità Combat Patrol all'avvio dello scenario.</Italian>
+        <Polish>Uruchamia tryb Combat Patrol po rozpoczęciu scenariusza.</Polish>
+        <Russian>Инициализирует режим Combat Patrol при запуске сценария.</Russian>
+        <German>Initialisiert den Combat Patrol-Modus zu Beginn des Szenarios.</German>
+        <Czech>Po spuštění scénáře spustí režim Combat Patrol.</Czech>
+        <English>Initializes the Combat Patrol mode upon scenario start.</English>
+        <Portuguese>Quando o cenário começa, inicializa-se o modo Combat Patrol.</Portuguese>
+        <Korean>시나리오 시작 시 Combat Patrol 모드가 초기화됩니다.</Korean>
+        <Chinesesimp>在任务开始后就初始化战斗巡逻的游戏模式.</Chinesesimp>
+        <Japanese>シナリオ開始時に Combat Patrol モードを起動します。</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_16">
+        <Original>Blacklists the nearest location's in a 1000m radius azimuth range so it can't be used for the starting / ending position or reinforcements spawning point.</Original>
+        <Chinese>以模塊為中心, 半徑1公里以內最近的可用地點會被黑名單中的方位度數給限制, 使該方位不能作為出發點, 任務完成點與敵軍援軍產生點.</Chinese>
+        <French>Interdit l'utilisation comme position de début/fin ou lieu de réapparition du lieu le plus proche dans un rayon de 1 000 mètres et dans la gamme d'azimuts sélectionnée.</French>
+        <Spanish>Pone en la lista negra la ubicación más cercana en un azimut de 1000 m para que no se pueda usar como ubicación de inicio/final o como punto de reaparición de refuerzos.</Spanish>
+        <Italian>Inserisci nella lista nera la postazione più vicina in un raggio di 1000m nel range azimut in modo da non utilizzarla per le posizioni di inizio / fine o per il punto di apparizione dei rinforzi.</Italian>
+        <Polish>Blokuje azymuty do najbliższej lokalizacji w promieniu 1000 m, przez co nie może ona być pozycją początkową/końcową ani punktem odradzania posiłków.</Polish>
+        <Russian>Вносит в черный список ближайшую локацию в радиусе 1000 метров, чтобы ее нельзя было использовать в качестве начальной/конечной позиции для возрождения подкреплений.</Russian>
+        <German>Schließt den nächstliegenden Ort in einem 1000m-Radius (Azimuth-Bereich) als Start-/Endposition oder Spawnpunkt für Verstärkung aus.</German>
+        <Czech>Umístí na seznam zakázaných položek nejbližší místa v okruhu 1000 m od azimutu, takže tyto místa nelze použít jako počáteční/konečnou polohu bodu vytváření posil.</Czech>
+        <English>Blacklists the nearest location's in a 1000m radius azimuth range so it can't be used for the starting / ending position or reinforcements spawning point.</English>
+        <Portuguese>Inclui em uma lista proibida os locais mais próximos no alcance de 1000 m de raio (azimute), para que não possam ser usados de posição inicial/final ou como ponto de ressurgimento de reforços.</Portuguese>
+        <Korean>1000미터 반경 범위 내 가장 가까운 장소들은 블랙리스트에 올라 있습니다. 따라서 시작/마지막 장소 또는 증원 병력 투입 지점에 사용할 수 없습니다.</Korean>
+        <Chinesesimp>以模块为中心, 半径1公里以内最近的可用地点会被黑名单中的方位度数给限制, 使该方位不能作为出发点, 任务完成点与敌军援军产生点.</Chinesesimp>
+        <Japanese>半径 1000m の方位角内に存在する最寄り位置をブラックリスト化し、開始地点・終了地点や援軍のスポーン地点として使えなくします。</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_15">
+        <Original>Azimuth arrays</Original>
+        <Chinese>方位陣列</Chinese>
+        <French>Gamme d'azimuts</French>
+        <Spanish>Selecciones de azimut</Spanish>
+        <Italian>Matrici azimut</Italian>
+        <Polish>Tablice azymutów</Polish>
+        <Russian>Список азимутов</Russian>
+        <German>Azimuth-Arrays</German>
+        <Czech>Pole azimutu</Czech>
+        <English>Azimuth arrays</English>
+        <Portuguese>Matriz azimute</Portuguese>
+        <Korean>방위각 군</Korean>
+        <Chinesesimp>方位阵列</Chinesesimp>
+        <Japanese>方位角アレイ</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_14">
+        <Original>Combat Patrol Azimuth Blacklist</Original>
+        <Chinese>戰鬥巡邏方位黑名單</Chinese>
+        <French>Interdictions d'azimut en Combat Patrol</French>
+        <Spanish>Lista negra de azimut en Combat Patrol</Spanish>
+        <Italian>Lista nera azimut Combat Patrol</Italian>
+        <Polish>Lista blokowanych azymutów Combat Patrol</Polish>
+        <Russian>Черный список азимутов Combat Patrol</Russian>
+        <German>Combat Patrol – Azimuth-Blacklist</German>
+        <Czech>Seznam zakázaných položek azimutu režimu Combat Patrol</Czech>
+        <English>Combat Patrol Azimuth Blacklist</English>
+        <Portuguese>Lista proibida de azimute em Combat Patrol</Portuguese>
+        <Korean>Combat Patrol 방위각 블랙리스트</Korean>
+        <Chinesesimp>战斗巡逻方位黑名单</Chinesesimp>
+        <Japanese>Combat Patrol 方位角ブラックリスト</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_13">
+        <Original>Moves the nearest location in a 1000m radius to this module's position.</Original>
+        <Chinese>以模塊為中心, 移動半徑1公里以內最近的可用地點到此模塊的位置.</Chinese>
+        <French>Place le lieu le plus proche dans un rayon de 1 000 mètres sur la position de ce module.</French>
+        <Spanish>Se mueve a la ubicación más cercana en un radio de 1000 m desde la posición de este módulo.</Spanish>
+        <Italian>Sposta la postazione più vicina in un raggio di 1000m rispetto alla posizione di questo modulo.</Italian>
+        <Polish>Przesuwa najbliższą lokalizację w promieniu 1000 m do pozycji tego modułu.</Polish>
+        <Russian>Перемещает ближайшую локацию в радиусе 1000 м к позиции этого модуля.</Russian>
+        <German>Bewegt den nächstliegenden Ort in einem 1000m-Radius an die Position dieses Moduls.</German>
+        <Czech>Přesune nejbližší místo v okruhu 1000 m na polohu tohoto modulu.</Czech>
+        <English>Moves the nearest location in a 1000m radius to this module's position.</English>
+        <Portuguese>Move o local mais próximo em um raio de 1000 m para a posição deste módulo.</Portuguese>
+        <Korean>모듈의 위치에서 1000미터 반경 범위 내 가장 가까운 장소로 이동합니다.</Korean>
+        <Chinesesimp>以模块为中心, 移动半径1公里以内最近的可用地点到此模块的位置.</Chinesesimp>
+        <Japanese>半径 1000m 以内の最寄り位置をこのモジュールの位置へ動かします。</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_12">
+        <Original>Combat Patrol Location Reposition</Original>
+        <Chinese>移動戰鬥巡邏地點</Chinese>
+        <French>Repositionnement de lieu en Combat Patrol</French>
+        <Spanish>Ubicación nueva de Combat Patrol</Spanish>
+        <Italian>Reimposta posizione Combat Patrol</Italian>
+        <Polish>Zmiana położenia lokalizacji Combat Patrol</Polish>
+        <Russian>Перемещение локации Combat Patrol</Russian>
+        <German>Combat Patrol – Ort neu positionieren</German>
+        <Czech>Přemístění místa režimu Combat Patrol</Czech>
+        <English>Combat Patrol Location Reposition</English>
+        <Portuguese>Reposicionamento de local em Combat Patrol</Portuguese>
+        <Korean>Combat Patrol 장소 변경</Korean>
+        <Chinesesimp>移动战斗巡逻地点</Chinesesimp>
+        <Japanese>Combat Patrol ロケーション再配置</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_11">
+        <Original>Removes the nearest location in a 1000m radius from the map selection.</Original>
+        <Chinese>以模塊為中心, 移除半徑1公里以內最近的可用地點.</Chinese>
+        <French>Empêche de sélectionner sur la carte le lieu le plus proche dans un rayon de 1 000 mètres.</French>
+        <Spanish>Elimina la ubicación más cercana en un radio de 1000 m desde la selección del mapa.</Spanish>
+        <Italian>Elimina la postazione più vicina in un raggio di 1000m dalla selezione sulla mappa.</Italian>
+        <Polish>Usuwa najbliższą lokalizację w promieniu 1000 m z mapy.</Polish>
+        <Russian>Удаляет ближайшую локацию в радиусе 1000 м с выбора на карте.</Russian>
+        <German>Entfernt den nächstliegenden Ort in einem 1000m-Radius von der Kartenauswahl.</German>
+        <Czech>Odstraní nejbližší místo v okruhu 1000 m z výběru mapy.</Czech>
+        <English>Removes the nearest location in a 1000m radius from the map selection.</English>
+        <Portuguese>Remove o local mais próximo em um raio de 1000 m da seleção do mapa.  </Portuguese>
+        <Korean>선택한 지도에서 1000미터 반경 범위 내 가장 가까운 장소로 이동합니다.</Korean>
+        <Chinesesimp>以模块为中心, 移除半径1公里以内最近的可用地点.</Chinesesimp>
+        <Japanese>マップ選択から半径 1000m 以内の最寄り位置を除きます。</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_10">
+        <Original>Combat Patrol Location Remove</Original>
+        <Chinese>移除戰鬥巡邏地點</Chinese>
+        <French>Suppression de lieu de Combat Patrol</French>
+        <Spanish>Eliminación de ubicación de Combat Patrol</Spanish>
+        <Italian>Rimuovi postazione Combat Patrol</Italian>
+        <Polish>Usunięcie lokalizacji Combat Patrol</Polish>
+        <Russian>Удаление локации Combat Patrol</Russian>
+        <German>Combat Patrol – Ort entfernen</German>
+        <Czech>Odstranění místa režimu Combat Patrol</Czech>
+        <English>Combat Patrol Location Remove</English>
+        <Portuguese>Remoção de local em Combat Patrol</Portuguese>
+        <Korean>Combat Patrol 장소 제거</Korean>
+        <Chinesesimp>移除战斗巡逻地点</Chinesesimp>
+        <Japanese>Combat Patrol ロケーション削除</Japanese>
+      </Key>
+      <Key ID="str_a3_combatpatrol_modules_1">
+        <Original>Combat Patrol Init</Original>
+        <Chinese>初始化戰鬥巡邏</Chinese>
+        <French>Initialisation Combat Patrol</French>
+        <Spanish>Iniciar Combat Patrol</Spanish>
+        <Italian>Inizializza Combat Patrol</Italian>
+        <Polish>Inicjowanie Combat Patrol</Polish>
+        <Russian>Инициализация Combat Patrol</Russian>
+        <German>Combat Patrol Init</German>
+        <Czech>Inic. režimu Combat Patrol</Czech>
+        <English>Combat Patrol Init</English>
+        <Portuguese>Iniciar Combat Patrol</Portuguese>
+        <Korean>Combat Patrol 초기화</Korean>
+        <Chinesesimp>初始化战斗巡逻</Chinesesimp>
+        <Japanese>Combat Patrol 初期化</Japanese>
+      </Key>
+    </Container>
+    <Container name="Characters_F">
+      <Key ID="str_a3_cfgvehicles_b_patrol_soldier_mg_f0">
+        <Original>Machine Gunner</Original>
+        <Chinese>機槍手</Chinese>
+        <French>Mitrailleur</French>
+        <Spanish>Ametrallador</Spanish>
+        <Italian>Mitragliere</Italian>
+        <Polish>Strzelec karabinu maszynowego</Polish>
+        <Russian>Пулеметчик</Russian>
+        <German>Maschinengewehrschütze</German>
+        <Czech>Kulometčík</Czech>
+        <English>Machine Gunner</English>
+        <Portuguese>Artilheiro</Portuguese>
+        <Korean>기관총사수</Korean>
+        <Chinesesimp>机枪手</Chinesesimp>
+        <Japanese>機関銃手</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_b_patrol_respawn_bag_f0">
+        <Original>Camp (Dome Tent, Combat Patrol)</Original>
+        <Chinese>營地 (圓頂帳篷, 戰鬥巡邏)</Chinese>
+        <French>Camp (tente igloo, Combat Patrol)</French>
+        <Spanish>Campamento (tienda con cúpula, Combat Patrol)</Spanish>
+        <Italian>Accampamento (tenda igloo, Combat Patrol)</Italian>
+        <Polish>Obóz (namiot w kształcie kopuły, Combat Patrol)</Polish>
+        <Russian>Лагерь (купольная палатка, Combat Patrol)</Russian>
+        <German>Lager (Kuppelzelt, Combat Patrol)</German>
+        <Czech>Tábor (stan s kupolou, Combat Patrol)</Czech>
+        <English>Camp (Dome Tent, Combat Patrol)</English>
+        <Portuguese>Acampamento (cabana circular, Combat Patrol)</Portuguese>
+        <Korean>주둔지(돔 텐트, Combat Patrol)</Korean>
+        <Chinesesimp>营地 (圆顶帐篷, 战斗巡逻)</Chinesesimp>
+        <Japanese>キャンプ（ドームテント、Combat Patrol）</Japanese>
+      </Key>
+    </Container>
+  </Package>
+</Project>

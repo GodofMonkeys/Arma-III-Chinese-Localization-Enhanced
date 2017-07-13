@@ -1,0 +1,1134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><Project name="Arma3">
+  <Package name="Languagemissions_Kart">
+    <Container name="Missions">
+      <Container name="Scenarios">
+        <Container name="Time_Trials">
+          <Key ID="str_a3_time_trials_ui_restart">
+            <Original>Quickly restart the Time Trial.</Original>
+            <Chinese>快速重啟計時賽.</Chinese>
+            <French>Redémarrer rapidement le Défi temps.</French>
+            <Spanish>Reiniciar rápidamente la prueba contrarreloj.</Spanish>
+            <Italian>Riavvia rapidamente la gara a tempo.</Italian>
+            <Polish>Szybko zrestartuj wyścig czasowy.</Polish>
+            <Russian>Быстрый перезапуск гонок на время.</Russian>
+            <German>Starten Sie das Zeitrennen schnell neu.</German>
+            <Czech>Rychle restartujte Časovou zkoušku.</Czech>
+            <English>Quickly restart the Time Trial.</English>
+            <Portuguese>Reiniciar rapidamente o Desafio de Tempo.</Portuguese>
+            <Korean>타임트라이얼을 곧바로 다시 시작합니다.</Korean>
+            <Chinesesimp>快速重启计时赛.</Chinesesimp>
+            <Japanese>タイムトライアルをすぐに再スタートしてください。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_task_text">
+            <Original>Complete %1 as often as you'd like to improve your times!</Original>
+            <Chinese>完成%1, 並經常練習來提升你的成績!</Chinese>
+            <French>Terminez le %1 aussi souvent que vous le souhaitez pour améliorer vos chronos !</French>
+            <Spanish>¡Completa %1 todas las veces que quieras para mejorar tus marcas!</Spanish>
+            <Italian>Completa %1 tutte le volte che vuoi per migliorare i tempi!</Italian>
+            <Polish>Ukończ %1 tyle razy, ile chcesz, by poprawić swój czas!</Polish>
+            <Russian>Проходите %1 столько раз, сколько вам потребуется, чтобы улучшить результат!</Russian>
+            <German>Absolvieren Sie %1 so oft Sie wollen, um Ihre Zeiten zu verbessern.</German>
+            <Czech>Dokončete %1 tolikrát, kolikrát budete chtít, a vylepšete svůj čas.</Czech>
+            <English>Complete %1 as often as you'd like to improve your times!</English>
+            <Portuguese>Conclua %1 quantas vezes quiser para melhorar os seus tempos!</Portuguese>
+            <Korean>시간 기록을 갱신하고 싶을 때마다 %1을(를) 완료하십시오!</Korean>
+            <Chinesesimp>完成%1, 并经常练习来提升你的成绩!</Chinesesimp>
+            <Japanese>好きなだけやり遂げ%1タイムを更新しましょう！</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt05_overview">
+            <Original>A more traditional kart racing circuit built on the Altis airport premises. Find the ideal racing line and hit the apex of every corner to set record times.</Original>
+            <Chinese>一座設置在Altis機場旁的卡丁車賽道. 尋找最佳路線, 突破自己, 創造佳績.</Chinese>
+            <French>Un circuit de kart plus traditionnel construit dans les locaux de l'aéroport Altis. Trouvez la trajectoire idéale et empruntez toute la largeur des virages pour établir des temps records.</French>
+            <Spanish>Un circuito de karts más tradicional construido en las instalaciones del aeropuerto Altis. Encuentra la trazada ideal y toma las curvas al límite para establecer un tiempo récord.</Spanish>
+            <Italian>Un circuito per kart più tradizionale costruito sui fabbricati dell’aeroporto di Altis. Trova la traiettoria ideale e tocca il vertice di ogni angolo per segnare tempi da record.</Italian>
+            <Polish>Bardziej tradycyjny gokartowy tor wyścigowy zbudowany na terenie lotniska Altis. Znajdź optymalny tor jazdy i zalicz szczyt każdego zakrętu, aby ustanowić rekordowy czas.</Polish>
+            <Russian>Традиционный гоночный трек для картинга на территории аэропорта Алтиса. Найдите идеальную трассу и пройдите все повороты, чтобы установить свой рекорд.</Russian>
+            <German>Eine eher traditionelle Kart-Rennstrecke auf dem Flughafengelände von Altis. Finden Sie die optimale Rennlinie und durchfahren Sie den Scheitelpunkt jeder Kurve, um Rekordzeiten zu erreichen.</German>
+            <Czech>Tradičnější závodní okruh pro motokáry vybudovaný na pozemku letiště na Altisu. Najděte ideální dráhu a zatočte ve správném okamžiku, pokud chcete získat rekordní čas.</Czech>
+            <English>A more traditional kart racing circuit built on the Altis airport premises. Find the ideal racing line and hit the apex of every corner to set record times.</English>
+            <Portuguese>Um circuito de corridas de kart mais tradicional construído nas instalações aeroportuárias de Altis. Encontre a posição de corrida ideal e acelere até o limite de cada curva para obter tempos recordes.</Portuguese>
+            <Korean>더욱 전통적인 형식의 카트레이싱 서킷이 알티스 공항 부지에 건설되었습니다. 이상적인 주행선을 찾고 모든 코너를 완벽하게 공략하여 신기록을 세워보십시오.</Korean>
+            <Chinesesimp>一座设置在Altis机场旁的卡丁车赛道. 寻找最佳路线, 突破自己, 创造佳绩.</Chinesesimp>
+            <Japanese>アルティス空港の敷地内に建設された、伝統的なレーシングサーキット。理想的なレースラインを見つけすべてのコーナーで頂点に立ち、記録を打ち立ててください。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt05_name_short">
+            <Original>TT05</Original>
+            <Chinese>TT05</Chinese>
+            <French>DT05</French>
+            <Spanish>TT05</Spanish>
+            <Italian>TT05</Italian>
+            <Polish>W.Cz.05</Polish>
+            <Russian>TT05</Russian>
+            <German>TT05</German>
+            <Czech>TT05</Czech>
+            <English>TT05</English>
+            <Portuguese>TT05</Portuguese>
+            <Korean>타임트라이얼 05</Korean>
+            <Chinesesimp>TT05</Chinesesimp>
+            <Japanese>TT05</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt05_name">
+            <Original>TT5: Terminal Velocity</Original>
+            <Chinese>TT5: 終端速度</Chinese>
+            <French>DT5 : Vitesse terminale</French>
+            <Spanish>TT5: Velocidad terminal</Spanish>
+            <Italian>TT5: Velocità terminale</Italian>
+            <Polish>W. 5: Ostateczna prędkość</Polish>
+            <Russian>ТТ5: Предел скорости</Russian>
+            <German>TT5: Endgeschwindigkeit</German>
+            <Czech>TT5: Maximální rychlost</Czech>
+            <English>TT5: Terminal Velocity</English>
+            <Portuguese>TT5: Velocidade terminal</Portuguese>
+            <Korean>타임트라이얼 5: 터미널 벨로시티</Korean>
+            <Chinesesimp>TT5: 终端速度</Chinesesimp>
+            <Japanese>TT5：終端速度</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt04_overview">
+            <Original>This looped trial on the open roads near Negades has you racing both uphill and downhill. Don't be distracted by the stunning views!</Original>
+            <Chinese>這座靠近Negades的環形賽道, 有著上坡與下坡. 請注意, 別被驚人的風景給分心了!</Chinese>
+            <French>Cette séance d'essai sur les routes ouvertes près Negades vous fait piloter en montée et en descente. Ne vous laissez pas distraire par la vue imprenable !</French>
+            <Spanish>Este circuito en abierto cerca de Negades te hará subir y bajar pendientes. ¡No te distraigas con las impresionantes vistas!</Spanish>
+            <Italian>Questo circuito ad anello sulle ampie strade vicino a Negades presenta tratti sia in salita che in discesa. Non farti distrarre dal panorama mozzafiato!</Italian>
+            <Polish>Ta zapętlona trasa na otwartych drogach w pobliżu Negades pozwala ścigać się jeżdżąc w górę i w dół po zboczach. Nie daj się rozproszyć oszałamiającym widokom!</Polish>
+            <Russian>Эта замкнутая трасса для гонок на время возле Негадеса заставит вас прокатиться вверх и вниз. Не позволяйте себе отвлекаться на потрясающие виды!</Russian>
+            <German>Diese ringförmige Rennstrecke in der Nähe der offenen Straßen von Negades führt bergauf und bergab. Lassen Sie sich nicht von der atemberaubenden Aussicht ablenken!</German>
+            <Czech>Tato klopená zkouška na otevřených silnicích nedaleko Negades vás požene do kopce i z kopce. Nenechte se rozptýlit úžasným výhledem.</Czech>
+            <English>This looped trial on the open roads near Negades has you racing both uphill and downhill. Don't be distracted by the stunning views!</English>
+            <Portuguese>Este desafio de voltas nas estradas abertas perto de Negades irá levar a corrida tanto para subidas como para descidas. Não se distraia com as vistas deslumbrantes!</Portuguese>
+            <Korean>네가데스 부근의 개방 도로에서 펼쳐지는 이 순환형 트라이얼에서는 오르막길과 내리막길이 모두 포함되어 있습니다. 멋진 경치를 감상하느라 한눈팔면 안 됩니다!</Korean>
+            <Chinesesimp>这座靠近Negades的环形赛道, 有着上坡与下坡. 请注意, 别被惊人的风景给分心了!</Chinesesimp>
+            <Japanese>ネガデス近郊の一般道にある環状トライアルでは、上り坂と下り坂の両方のレースが行えます。素晴らしい景色に気を取られてはいけません！</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt04_name_short">
+            <Original>TT04</Original>
+            <Chinese>TT04</Chinese>
+            <French>DT04</French>
+            <Spanish>TT04</Spanish>
+            <Italian>TT04</Italian>
+            <Polish>W.Cz.04</Polish>
+            <Russian>TT04</Russian>
+            <German>TT04</German>
+            <Czech>TT04</Czech>
+            <English>TT04</English>
+            <Portuguese>TT04</Portuguese>
+            <Korean>타임트라이얼 04</Korean>
+            <Chinesesimp>TT04</Chinesesimp>
+            <Japanese>TT04</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt04_name">
+            <Original>TT4: Negades Speedway</Original>
+            <Chinese>TT4: Negades賽道</Chinese>
+            <French>DT4 : Circuit de Négades</French>
+            <Spanish>TT4: Circuito Negades</Spanish>
+            <Italian>TT4: Circuito in terra battuta di Negades</Italian>
+            <Polish>W. 4: Negades – tor żużlowy</Polish>
+            <Russian>ТТ4: Трек "Негадес"</Russian>
+            <German>TT4: Rennstrecke von Negades</German>
+            <Czech>TT4: Negadeská dráha</Czech>
+            <English>TT4: Negades Speedway</English>
+            <Portuguese>TT4: Pista de corrida Negades</Portuguese>
+            <Korean>타임트라이얼 4: 네가데스 고속도로</Korean>
+            <Chinesesimp>TT4: Negades赛道</Chinesesimp>
+            <Japanese>TT4：Negadesスピードウェイ</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt03_overview">
+            <Original>An improvised circuit set up in an abandoned factory complex. Watch out for the unprotected and unmarked obstacles!</Original>
+            <Chinese>建立在一座廢棄的工廠中. 請小心散落在四周的廢棄物!</Chinese>
+            <French>Un circuit improvisé dans un complexe d'usine abandonnée. Attention aux obstacles non protégés et non signalés !</French>
+            <Spanish>Un circuito improvisado instalado en el complejo de una fábrica abandonada. ¡Ten cuidado con los obstáculos sin protección y sin marcar!</Spanish>
+            <Italian>Un circuito improvvisato realizzato in una fabbrica abbandonata. Attenzione agli ostacoli non protetti e non segnalati!</Italian>
+            <Polish>Improwizowany tor zlokalizowany na terenie opuszczonej fabryki. Uważaj na nieosłonięte i nieoznakowane przeszkody!</Polish>
+            <Russian>Импровизированная трасса, созданная в заброшенном фабричном комплексе. Следите за необозначенными препятствиями!</Russian>
+            <German>Eine improvisierte Rennstrecke auf einem verlassenen Fabrikgelände. Achten Sie auf ungeschützte und nicht gekennzeichnete Hindernisse!</German>
+            <Czech>Improvizovaný okruh vytvořený v opuštěném továrním komplexu. Pozor na nechráněná místa a neoznačené překážky.</Czech>
+            <English>An improvised circuit set up in an abandoned factory complex. Watch out for the unprotected and unmarked obstacles!</English>
+            <Portuguese>Um circuito improvisado criado no complexo de uma fábrica abandonada. Cuidado com os obstáculos desprotegidos e não marcados!</Portuguese>
+            <Korean>버려진 공단 내에 만들어진 가설 서킷입니다. 눈에 잘 띄지 않게 무방비로 놓인 장애물을 조심하십시오!</Korean>
+            <Chinesesimp>建立在一座废弃的工厂中. 请小心散落在四周的废弃物!</Chinesesimp>
+            <Japanese>工業団地の廃墟に作られた急ごしらえのサーキット保護もマークもされていない障害物に気をつけて！</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt03_name_short">
+            <Original>TT03</Original>
+            <Chinese>TT03</Chinese>
+            <French>DT03</French>
+            <Spanish>TT03</Spanish>
+            <Italian>TT03</Italian>
+            <Polish>W.Cz.03</Polish>
+            <Russian>TT03</Russian>
+            <German>TT03</German>
+            <Czech>TT03</Czech>
+            <English>TT03</English>
+            <Portuguese>TT03</Portuguese>
+            <Korean>타임트라이얼 03</Korean>
+            <Chinesesimp>TT03</Chinesesimp>
+            <Japanese>TT03</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt03_name">
+            <Original>TT3: Industrial Loop</Original>
+            <Chinese>TT3: 工廠賽道</Chinese>
+            <French>DT3 : Boucle industrielle</French>
+            <Spanish>TT3: Circuito industrial</Spanish>
+            <Italian>TT3: Anello industriale</Italian>
+            <Polish>W. 3: Pętla przemysłowa</Polish>
+            <Russian>ТТ3: Промзона</Russian>
+            <German>TT3: Industrielle Rundfahrt</German>
+            <Czech>TT3: Tovární Okruh</Czech>
+            <English>TT3: Industrial Loop</English>
+            <Portuguese>TT3: Loop industrial</Portuguese>
+            <Korean>타임트라이얼 3: 공장 순환 트랙</Korean>
+            <Chinesesimp>TT3: 工厂赛道</Chinesesimp>
+            <Japanese>TT3：工業用ループ</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt02_overview">
+            <Original>Weave through the city of Kavala in an exciting and lengthy course. Frequent turns and narrow streets make this is a test of your spatial awareness.</Original>
+            <Chinese>穿梭在Kavala城市中. 這個賽道需要你繃緊神經, 小心每個轉彎, 挑戰你的駕駛技術.</Chinese>
+            <French>Serpentez à travers la ville de Kavala dans une longue course trépidante. Les virages fréquents et les rues étroites en font une véritable épreuve de maîtrise de l’espace.</French>
+            <Spanish>Ábrete paso por la ciudad de Kavala en una emocionante y larga ruta. Los giros frecuentes y las calles estrechas prueban tu conciencia espacial.</Spanish>
+            <Italian>Attraversa la città di Kavala guidando su un circuito lungo ed emozionante. Curve frequenti e strade strette per mettere alla prova la tua percezione dello spazio.</Italian>
+            <Polish>Lawiruj przez miasto Kavala, jadąc ekscytującą i długą trasą. Częste zakręty i wąskie uliczki będą testem twojego postrzegania przestrzennego.</Polish>
+            <Russian>Промчитесь через город Кавала в захватывающей и продолжительной гонке. Частые повороты и узкие улочки станут испытанием вашему умению ориентироваться.</Russian>
+            <German>Schlängeln Sie sich bei dieser langen und spannenden Strecke durch die Stadt Kavala. Häufige Kurven und enge Straßen stellen Ihre räumliche Wahrnehmung auf die Probe.</German>
+            <Czech>Kličkujte ulicemi Kavaly na tomto dlouhém a vzrušujícím okruhu. Díky častým zatáčkám a úzkým ulicím tento okruh vyzkouší vaše prostorové vnímání.</Czech>
+            <English>Weave through the city of Kavala in an exciting and lengthy course. Frequent turns and narrow streets make this is a test of your spatial awareness.</English>
+            <Portuguese>Acelere pela cidade de Kavala em um percurso longo e emocionante. As constantes voltas e as ruas estreitas fazem deste circuito um desafio para a sua consciência espacial.</Portuguese>
+            <Korean>열정적인 장거리 코스에서 카발라 시티 전역을 마음껏 누벼보십시오. 곡선 구간과 좁은 길이 빈번히 등장하여 드라이버의 공간지각력을 시험하는 코스입니다.</Korean>
+            <Chinesesimp>穿梭在Kavala城市中. 这个赛道需要你绷紧神经, 小心每个转弯, 挑战你的驾驶技术.</Chinesesimp>
+            <Japanese>長い刺激的なコース内にあるカバラの街を通り抜けます。頻繁にあらわれる曲がり角や狭い路地があなたの空間認識能力をためします。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt02_name_short">
+            <Original>TT02</Original>
+            <Chinese>TT02</Chinese>
+            <French>DT02</French>
+            <Spanish>TT02</Spanish>
+            <Italian>TT02</Italian>
+            <Polish>W.Cz.02</Polish>
+            <Russian>TT02</Russian>
+            <German>TT02</German>
+            <Czech>TT02</Czech>
+            <English>TT02</English>
+            <Portuguese>TT02</Portuguese>
+            <Korean>타임트라이얼 02</Korean>
+            <Chinesesimp>TT02</Chinesesimp>
+            <Japanese>TT02</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt02_name">
+            <Original>TT2: Kavala Chase</Original>
+            <Chinese>TT2: Kavala賽道</Chinese>
+            <French>DT2 : Poursuite de Kavala</French>
+            <Spanish>TT2: Persecución por Kavala</Spanish>
+            <Italian>TT2: Inseguimento di Kavala</Italian>
+            <Polish>W. 2: Kavala – pościg</Polish>
+            <Russian>ТТ2: Погоня в Кавала</Russian>
+            <German>TT2: Verfolgungsjagd in Kavala</German>
+            <Czech>TT2: Kavalská honička</Czech>
+            <English>TT2: Kavala Chase</English>
+            <Portuguese>TT2: Kavala - perseguição</Portuguese>
+            <Korean>타임트라이얼 2: 카발라 체이스</Korean>
+            <Chinesesimp>TT2: Kavala赛道</Chinesesimp>
+            <Japanese>TT2：カバラチェイス</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt01_overview">
+            <Original>This tight closed circuit sits right next to the Altis main airport terminal. Racing the quick loop often is ideal for getting a grip on the kart’s handling.</Original>
+            <Chinese>一個坐落在Altis機場旁的卡丁車賽車場. 在此場地中你可以快速掌握到卡丁車的駕駛精隨.</Chinese>
+            <French>Cet étroit circuit fermé se trouve juste à côté du terminal principal de l'aéroport d’Altis. Parcourez-le souvent pour vous familiariser avec le pilotage de votre kart.</French>
+            <Spanish>Este circuito cerrado estrecho se encuentra al lado de la terminal principal del aeropuerto de Altis. Hacer una vuelta rápida suele servir para conseguir un mejor manejo del kart.</Spanish>
+            <Italian>Questo circuito stretto e chiuso si trova proprio accanto al terminal principale dell’aeroporto di Altis. Correre lungo questo breve anello ti consente di prendere la mano con la manovra del kart.</Italian>
+            <Polish>Ta ściśle zamknięta trasa znajduje się tuż obok głównego terminalu lotniska Altis. Częste ściganie się na szybkich pętlach jest idealnym sposobem na opanowanie gokarta.</Polish>
+            <Russian>Эта небольшая замкнутая трасса находится рядом с главным терминалом аэропорта Алтиса. Быстрая гонка идеально подходит для того, чтобы освоиться с управлением карта.</Russian>
+            <German>Diese enge und geschlossene Rennstrecke befindet sich in der Nähe des Flughafen-Terminals von Altis. Fahren Sie die schnellen Kurven häufig, um das Handling des Karts in den Griff zu bekommen.</German>
+            <Czech>Tento úzký uzavřený okruh se nachází přímo vedle hlavního terminálu letiště na Altisu. Závodění na tomto rychlém okruhu vám umožní ideálně se sžít s ovládáním motokáry.</Czech>
+            <English>This tight closed circuit sits right next to the Altis main airport terminal. Racing the quick loop often is ideal for getting a grip on the kart’s handling.</English>
+            <Portuguese>Este circuito fechado apertado fica ao lado do terminal do aeroporto principal de Altis. Acelerar pelos loops rápidos é, normalmente, o ideal para ter um melhor controle sobre o manuseio do kart.</Portuguese>
+            <Korean>알티스 주 공항 터미널 바로 옆에 자리 잡은 폐쇄형 단거리 서킷입니다. 짧은 순환 코스를 자주 달리면 카트 운전에 대한 감각을 키우기 좋습니다.</Korean>
+            <Chinesesimp>一个坐落在Altis机场旁的卡丁车赛车场. 在此场地中你可以快速掌握到卡丁车的驾驶精随.</Chinesesimp>
+            <Japanese>この狭くて厳しいコースはアルティスの主要空港ターミナルのすぐ隣にあります。クイックループでのレースを重ねることはカートのハンドル操作習得にうってつけです。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt01_name_short">
+            <Original>TT01</Original>
+            <Chinese>TT01</Chinese>
+            <French>DT01</French>
+            <Spanish>TT01</Spanish>
+            <Italian>TT01</Italian>
+            <Polish>W.Cz.01</Polish>
+            <Russian>TT01</Russian>
+            <German>TT01</German>
+            <Czech>TT01</Czech>
+            <English>TT01</English>
+            <Portuguese>TT01</Portuguese>
+            <Korean>타임트라이얼 01</Korean>
+            <Chinesesimp>TT01</Chinesesimp>
+            <Japanese>TT01</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt01_name">
+            <Original>TT1: Circuit Training</Original>
+            <Chinese>TT1: 循環訓練</Chinese>
+            <French>DT1 : Circuit d’entraînement</French>
+            <Spanish>TT1: Entrenamiento en circuito</Spanish>
+            <Italian>TT1: Addestramento su circuito</Italian>
+            <Polish>W. 1: Trening okrążeń</Polish>
+            <Russian>ТТ1: Круговая тренировка</Russian>
+            <German>TT1: Parcourstraining</German>
+            <Czech>TT1: Cvičný okruh</Czech>
+            <English>TT1: Circuit Training</English>
+            <Portuguese>TT1: Circuito de treino</Portuguese>
+            <Korean>타임트라이얼 1: 서킷 트레이닝</Korean>
+            <Chinesesimp>TT1: 循环训练</Chinesesimp>
+            <Japanese>TT1：サーキットトレーニング</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_overview">
+            <Original>Beat the clock in a series of Check Point races. Put your vehicle handling, split-second decision making and course memorization skills to the test!</Original>
+            <Chinese>挑戰時間, 突破自我. 將你的駕駛技巧, 瞬間判斷與記憶力發揮到極致!</Chinese>
+            <French>Séries de courses au checkpoint contre la montre. Mettez à l’épreuve votre maîtrise du véhicule, votre prise de décision rapide et votre mémorisation des parcours !</French>
+            <Spanish>Bate el récord en una serie de carreras contrarreloj. ¡Pon a prueba tu conducción, toma de decisiones en fracciones de segundo y memorización de rutas!</Spanish>
+            <Italian>Sfida il tempo in una serie di gare con checkpoint. Metti alla prova la tua abilità di manovra col kart, di prendere decisioni al volo e di memorizzare il tracciato.</Italian>
+            <Polish>Wygraj z czasem w serii wyścigów z punktami kontrolnymi. Przetestuj swoje umiejętności prowadzenia pojazdu, podejmowania decyzji w ułamku sekundy i zapamiętywania trasy.</Polish>
+            <Russian>Побейте чужие рекорды в заездах с контрольными точками. Испытайте ваши навыки управления автомобилем, мгновенного принятия решений и запоминания трассы!</Russian>
+            <German>Fahren Sie in einer Reihe von Kontrollpunkt-Rennen gegen die Zeit an. Stellen Sie Ihr Fahrzeughandling, Ihre Fähigkeit zur schnellen Entscheidungsfindung und Ihr Erinnerungsvermögen auf die Probe!</German>
+            <Czech>Závoďte s časem v sérii závodů s kontrolními body. Otestujte své ovládání vozidla, okamžité rozhodování a schopnosti zapamatování si okruhu.</Czech>
+            <English>Beat the clock in a series of Check Point races. Put your vehicle handling, split-second decision making and course memorization skills to the test!</English>
+            <Portuguese>Vença o relógio numa série de corridas de Pontos de Verificação. Teste o seu manuseamento do veículo, tomadas de decisão em frações de segundos e a capacidade de memorização do circuito!</Portuguese>
+            <Korean>연속으로 진행되는 확인점 레이싱을 시간 내에 마치십시오. 운전 제어 능력 순간 판단력, 그리고 코스 기억 능력이 요구되는 코스입니다.</Korean>
+            <Chinesesimp>挑战时间, 突破自我. 将你的驾驶技巧, 瞬间判断与记忆力发挥到极致!</Chinesesimp>
+            <Japanese>チェックポイントレースのシリーズで時間より早く試合が終わりました。自動車のハンドル操作、瞬時の判断力、コース暗記力をテストします！</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_no_name">
+            <Original>Trial</Original>
+            <Chinese>比賽</Chinese>
+            <French>Défi</French>
+            <Spanish>Prueba</Spanish>
+            <Italian>Gara</Italian>
+            <Polish>Wyścig</Polish>
+            <Russian>Пробный заезд</Russian>
+            <German>Rennen</German>
+            <Czech>Zkouška</Czech>
+            <English>Trial</English>
+            <Portuguese>Desafio</Portuguese>
+            <Korean>트라이얼</Korean>
+            <Chinesesimp>比赛</Chinesesimp>
+            <Japanese>トライアル</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_name">
+            <Original>Time Trials</Original>
+            <Chinese>計時賽</Chinese>
+            <French>Défis temps</French>
+            <Spanish>Pruebas contrarreloj</Spanish>
+            <Italian>Gare a tempo</Italian>
+            <Polish>Wyścigi czasowe</Polish>
+            <Russian>Заезды на время</Russian>
+            <German>Zeitrennen</German>
+            <Czech>Časové zkoušky</Czech>
+            <English>Time Trials</English>
+            <Portuguese>Desafios de Tempo</Portuguese>
+            <Korean>타임트라이얼</Korean>
+            <Chinesesimp>计时赛</Chinesesimp>
+            <Japanese>タイムトライアル</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_module">
+            <Original>Time Trial</Original>
+            <Chinese>計時賽</Chinese>
+            <French>Défi temps</French>
+            <Spanish>Prueba contrarreloj</Spanish>
+            <Italian>Gara a tempo</Italian>
+            <Polish>Wyścig czasowy</Polish>
+            <Russian>Заезд на время</Russian>
+            <German>Zeitrennen</German>
+            <Czech>Časová zkouška</Czech>
+            <English>Time Trial</English>
+            <Portuguese>Desafio de Tempo</Portuguese>
+            <Korean>타임트라이얼</Korean>
+            <Chinesesimp>计时赛</Chinesesimp>
+            <Japanese>タイムトライアル</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_started">
+            <Original>Trial started!</Original>
+            <Chinese>比賽開始!</Chinese>
+            <French>Défi commencé !</French>
+            <Spanish>¡La prueba ha comenzado!</Spanish>
+            <Italian>La gara è iniziata!</Italian>
+            <Polish>Wyścig rozpoczęty!</Polish>
+            <Russian>Пробный заезд начался!</Russian>
+            <German>Rennen gestartet!</German>
+            <Czech>Zkouška zahájena!</Czech>
+            <English>Trial started!</English>
+            <Portuguese>Começou o Desafio!</Portuguese>
+            <Korean>트라이얼 시작!</Korean>
+            <Chinesesimp>比赛开始!</Chinesesimp>
+            <Japanese>トライアル開始です！</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_rules1">
+            <Original>Wait or turn on your engine(s) to quick-start!</Original>
+            <Chinese>等待或啟動你的引擎來快速開始比賽!</Chinese>
+            <French>Attendre ou allumer votre/vos moteur(s) pour démarrer rapidement !</French>
+            <Spanish>¡Espera o enciende tu motor para un inicio rápido!</Spanish>
+            <Italian>Aspetta o accendi il motore per partire al volo!</Italian>
+            <Polish>Czekaj lub włącz silnik(i), aby szybko rozpocząć!</Polish>
+            <Russian>Подождите или включите свой двигатель(-и) для быстрого старта!</Russian>
+            <German>Warten Sie oder schalten Sie Ihre(n) Motor(en) an, um schnell zu starten!</German>
+            <Czech>Čekejte nebo nastartováním rychle spusťte závod.</Czech>
+            <English>Wait or turn on your engine(s) to quick-start!</English>
+            <Portuguese>Espere ou ligue o(s) motor(es) para um começo mais rápido!</Portuguese>
+            <Korean>기다리거나 시동을 걸어 빨리 출발하십시오!</Korean>
+            <Chinesesimp>等待或启动你的引擎来快速开始比赛!</Chinesesimp>
+            <Japanese>待機するかエンジンをかけてクイックスタートします！</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_results_restart">
+            <Original>Restart by moving to the marked restart area, returning to the start itself, or by waiting 1 minute!</Original>
+            <Chinese>要重新開始的話, 請駛往標記區域中, 或自行返回起點, 或原地等待1分鐘!</Chinese>
+            <French>Recommencez en vous déplaçant à la zone de redémarrage indiquée, en retournant au départ ou en attendant 1 minute!</French>
+            <Spanish>¡Reinicia yendo a la zona de reinicio marcada, volviendo al inicio o esperando 1 minuto!</Spanish>
+            <Italian>Spostati nella zona di riavvio segnalata, torna al punto di partenza oppure aspetta 1 minuto per ripartire!</Italian>
+            <Polish>Zrestartuj, wjeżdżając w zaznaczony obszar restartu, wracając na sam początek albo czekając 1 minutę!</Polish>
+            <Russian>Начните снова, проехав в зону перезапуска, вернувшись к старту или подождав 1 минуту!</Russian>
+            <German>Starten Sie erneut, indem Sie sich zu dem entsprechend markierten Neustartbereich oder zum Start selbst begeben oder indem Sie 1 Minute warten!</German>
+            <Czech>Znovu spusťte závod dojetím do označené oblasti restartu, návratem na samotný start nebo vyčkáním po dobu 1 minuty.</Czech>
+            <English>Restart by moving to the marked restart area, returning to the start itself, or by waiting 1 minute!</English>
+            <Portuguese>Reinicie ao mover-se para a área de reinício marcada, voltando ao início propriamente dito, ou aguarde 1 minuto!</Portuguese>
+            <Korean>다시 출발하려면 표시된 재출발 지역으로 이동하거나 출발선으로 돌아가거나 1분간 대기하십시오!</Korean>
+            <Chinesesimp>要重新开始的话, 请驶往标记区域中, 或自行返回起点, 或原地等待1分钟!</Chinesesimp>
+            <Japanese>印の付いた再スタートエリアに移動するか、スタート地点に戻るか、あるいは１分待機して再スタートします。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_results_penalty1">
+            <Original>Check Points missed:</Original>
+            <Chinese>錯失檢查點:</Chinese>
+            <French>Vérifiez les points ratés :</French>
+            <Spanish>Puntos de control olvidados:</Spanish>
+            <Italian>Checkpoint mancati:</Italian>
+            <Polish>Pominięte punkty kontrolne:</Polish>
+            <Russian>Пропущено контрольных точек:</Russian>
+            <German>Verpasste Kontrollpunkte:</German>
+            <Czech>Netrefené kontrolní body:</Czech>
+            <English>Check Points missed:</English>
+            <Portuguese>Pontos de Verificação perdidos:</Portuguese>
+            <Korean>놓친 확인점:</Korean>
+            <Chinesesimp>错失检查点:</Chinesesimp>
+            <Japanese>チェックポイントを逃しました。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_restart">
+            <Original>Trial restarting ...</Original>
+            <Chinese>比賽重新開始中...</Chinese>
+            <French>Redémarrage du défi…</French>
+            <Spanish>Reiniciando prueba...</Spanish>
+            <Italian>Riavvio della gara...</Italian>
+            <Polish>Restartowanie wyścigu...</Polish>
+            <Russian>Пробный заезд начинается заново...</Russian>
+            <German>Rennen wird neu gestartet ...</German>
+            <Czech>Zkouška se znovu spouští...</Czech>
+            <English>Trial restarting ...</English>
+            <Portuguese>Reinício de Desafio...</Portuguese>
+            <Korean>트라이얼 다시 시작하는 중...</Korean>
+            <Chinesesimp>比赛重新开始中...</Chinesesimp>
+            <Japanese>トライアルを再スタートしています...</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_ready">
+            <Original>Get ready and prepare for time trial.</Original>
+            <Chinese>準備好開始計時賽.</Chinese>
+            <French>Préparez-vous au défi temps…</French>
+            <Spanish>¡Prepárate para la prueba contrarreloj!</Spanish>
+            <Italian>Preparati per la gara a tempo.</Italian>
+            <Polish>Przygotuj się do wyścigu czasowego.</Polish>
+            <Russian>Будьте готовы к гонке на время.</Russian>
+            <German>Machen Sie sich für das Zeitrennen bereit.</German>
+            <Czech>Připravte se na časovou zkoušku.</Czech>
+            <English>Get ready and prepare for time trial.</English>
+            <Portuguese>Prepare-se para o desafio de tempo.</Portuguese>
+            <Korean>타임트라이얼을 위한 준비를 하십시오.</Korean>
+            <Chinesesimp>准备好开始计时赛.</Chinesesimp>
+            <Japanese>準備をしてタイムトライアルに備えます。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_hint_exit">
+            <Original>Exited area: trial restarting ...</Original>
+            <Chinese>離開區域: 比賽重新開始中...</Chinese>
+            <French>Zone quittée : redémarrage du défi...</French>
+            <Spanish>Te has salido de la zona: reiniciando prueba...</Spanish>
+            <Italian>Uscita dall’area: riavvio della gara in corso...</Italian>
+            <Polish>Opuszczono obszar: restartowanie wyścigu...</Polish>
+            <Russian>Вне трассы: пробный заезд начинается заново ...</Russian>
+            <German>Verlassener Bereich: Rennen wird neu gestartet ...</German>
+            <Czech>Vyjeli jste z oblasti: zkouška se znovu spouští...</Czech>
+            <English>Exited area: trial restarting ...</English>
+            <Portuguese>Saiu da área: reinício de desafio ...</Portuguese>
+            <Korean>지역에서 나옴: 트라이얼 다시 시작하는 중...</Korean>
+            <Chinesesimp>离开区域: 比赛重新开始中...</Chinesesimp>
+            <Japanese>出口エリア：トライアルを再スタートしています...</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_function7">
+            <Original>Clearing a Check Point</Original>
+            <Chinese>正在肅清一個檢查點</Chinese>
+            <French>Franchissement d’un point de contrôle</French>
+            <Spanish>Pasar por un punto de control</Spanish>
+            <Italian>Passaggio a un checkpoint</Italian>
+            <Polish>Zaliczenie punktu kontrolnego</Polish>
+            <Russian>Контрольная точка взята</Russian>
+            <German>Einen Kontrollpunkt entfernen</German>
+            <Czech>Projetí kontrolního bodu</Czech>
+            <English>Clearing a Check Point</English>
+            <Portuguese>A limpar um Ponto de Verificação</Portuguese>
+            <Korean>확인점을 정리하는 중</Korean>
+            <Chinesesimp>正在肃清一个检查点</Chinesesimp>
+            <Japanese>チェックポイントのクリア</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_function6">
+            <Original>Detect competitors being behind Check Points</Original>
+            <Chinese>檢測到車手在檢查點之後</Chinese>
+            <French>Détection des concurrents derrière un checkpoint</French>
+            <Spanish>Detectar a los competidores que están en los puntos de control de atrás</Spanish>
+            <Italian>Rileva concorrenti dietro al checkpoint</Italian>
+            <Polish>Wykryj konkurentów, którzy są za punktami kontrolnymi.</Polish>
+            <Russian>Обнаружить соперников за контрольными точками</Russian>
+            <German>Entdecken Sie Konkurrenten hinter Kontrollpunkten</German>
+            <Czech>Detekujte protivníky, kteří jsou za kontrolními body</Czech>
+            <English>Detect competitors being behind Check Points</English>
+            <Portuguese>Detetar adversários atrás nos Pontos de Verificação</Portuguese>
+            <Korean>확인점보다 뒤에 있는 참가자들을 찾습니다.</Korean>
+            <Chinesesimp>检测到车手在检查点之后</Chinesesimp>
+            <Japanese>チェックポイントの後ろにいるライバルを見つける</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_function5">
+            <Original>Clear all profile statistics for Time Trials</Original>
+            <Chinese>清除所有計時賽個人紀錄</Chinese>
+            <French>Supprimer toutes les statistiques de profil des défis temps</French>
+            <Spanish>Borrar las estadísticas de las pruebas contrarreloj</Spanish>
+            <Italian>Cancella tutte le statistiche del profilo per le gare a tempo</Italian>
+            <Polish>Usuń wszystkie statystyki profilowe wyścigów czasowych.</Polish>
+            <Russian>Удалить статистику для заездов на время</Russian>
+            <German>Alle Profilstatistiken für Zeitrennen löschen</German>
+            <Czech>Vymažte všechny statistiky profilu týkající se časových zkoušek</Czech>
+            <English>Clear all profile statistics for Time Trials</English>
+            <Portuguese>Limpar todas as estatísticas de perfil para os Desafios de Tempo</Portuguese>
+            <Korean>타임트라이얼의 모든 프로필 통계를 삭제합니다.</Korean>
+            <Chinesesimp>清除所有计时赛个人纪录</Chinesesimp>
+            <Japanese>タイムトライアル用のプロファイルデータをすべて消去する</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_function4">
+            <Original>Detect competitors passing through Check Points</Original>
+            <Chinese>檢測到車手已經過檢查點</Chinese>
+            <French>Détection des concurrents traversant un checkpoint</French>
+            <Spanish>Detectar a los competidores cuando pasan por puntos de control</Spanish>
+            <Italian>Rileva concorrenti che hanno passato i checkpoint</Italian>
+            <Polish>Wykryj konkurentów przejeżdżających przez punkty kontrolne.</Polish>
+            <Russian>Обнаружить соперников, прошедших контрольные точки</Russian>
+            <German>Entdecken Sie Konkurrenten, die Kontrollpunkte passieren</German>
+            <Czech>Detekujte protivníky, kteří projíždějí kontrolními body</Czech>
+            <English>Detect competitors passing through Check Points</English>
+            <Portuguese>Detetar adversários a passar por Pontos de Verificação</Portuguese>
+            <Korean>확인점을 통과 중인 참가자들을 찾습니다.</Korean>
+            <Chinesesimp>检测到车手已经过检查点</Chinesesimp>
+            <Japanese>チェックポイントを通過するライバルを見つける</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_function3">
+            <Original>Exiting a Check Point</Original>
+            <Chinese>正在離開一個檢查點</Chinese>
+            <French>Sortie d'un point de contrôle</French>
+            <Spanish>Saliendo de un punto de control</Spanish>
+            <Italian>Uscita da un checkpoint</Italian>
+            <Polish>Opuszczasz punkt kontrolny</Polish>
+            <Russian>Выход за контрольную точку</Russian>
+            <German>Kontrollpunkt verlassen</German>
+            <Czech>Opuštění kontrolního bodu</Czech>
+            <English>Exiting a Check Point</English>
+            <Portuguese>A sair de um Ponto de Verificação</Portuguese>
+            <Korean>확인점 나가는 중</Korean>
+            <Chinesesimp>正在离开一个检查点</Chinesesimp>
+            <Japanese>チェックポイントを出る</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_function2">
+            <Original>Entering a Check Point</Original>
+            <Chinese>正在進入一個檢查點</Chinese>
+            <French>Arrivée à un point de contrôle</French>
+            <Spanish>Entrando en un punto de control</Spanish>
+            <Italian>Ingresso in un checkpoint</Italian>
+            <Polish>Wjeżdżasz do punktu kontrolnego</Polish>
+            <Russian>Контрольная точка близко</Russian>
+            <German>In Kontrollpunkt einfahren</German>
+            <Czech>Vjezd do kontrolního bodu</Czech>
+            <English>Entering a Check Point</English>
+            <Portuguese>A entrar num Ponto de Verificação</Portuguese>
+            <Korean>확인점으로 들어가는 중</Korean>
+            <Chinesesimp>正在进入一个检查点</Chinesesimp>
+            <Japanese>チェックポイントに入る</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_function1">
+            <Original>Main Time Trial function</Original>
+            <Chinese>主要計時賽功能</Chinese>
+            <French>Fonction principale du défi temps</French>
+            <Spanish>Función principal de las pruebas contrarreloj</Spanish>
+            <Italian>Funzione Gara a tempo principale</Italian>
+            <Polish>Funkcja głównego wyścigu czasowego</Polish>
+            <Russian>Главная функция заезда на время</Russian>
+            <German>Hauptfunktion des Zeitrennens</German>
+            <Czech>Hlavní funkce časové zkoušky</Czech>
+            <English>Main Time Trial function</English>
+            <Portuguese>Função principal de Desafio de Tempo</Portuguese>
+            <Korean>타임트라이얼 주 기능</Korean>
+            <Chinesesimp>主要计时赛功能</Chinesesimp>
+            <Japanese>メインのタイムトライアル機能</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_end2_desc">
+            <Original>You've failed to observe safety discipline.</Original>
+            <Chinese>你沒有遵守安全紀律.</Chinese>
+            <French>Vous n'avez pas respecté les consignes de sécurité.</French>
+            <Spanish>No has podido completar la disciplina de manera segura.</Spanish>
+            <Italian>Non ti sei attenuto alle regole di sicurezza.</Italian>
+            <Polish>Nie udało Ci się zachować procedur bezpieczeństwa.</Polish>
+            <Russian>Вы не соблюдали технику безопасности.</Russian>
+            <German>Sie haben die Sicherheitsrichtlinien nicht eingehalten.</German>
+            <Czech>Nedodrželi jste bezpečnostní pravidla.</Czech>
+            <English>You've failed to observe safety discipline.</English>
+            <Portuguese>Não prestou atenção à disciplina de segurança.</Portuguese>
+            <Korean>안전 규율을 준수하지 못했습니다.</Korean>
+            <Chinesesimp>你没有遵守安全纪律.</Chinesesimp>
+            <Japanese>安全上のルールを守ることに失敗しました。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_text1">
+            <Original>Welcome to %1!&lt;br /&gt;&lt;br /&gt;Compete in this Time Trial as often as you'd like and beat your best times!&lt;br /&gt;&lt;br /&gt;Find more information about Time Trials %2.</Original>
+            <Chinese>歡迎來到%1!&lt;br /&gt;&lt;br /&gt;想辦法在計時賽中突破自己, 創造佳績!&lt;br /&gt;&lt;br /&gt;想要得知更多的訊息請查詢計時賽%2.</Chinese>
+            <French>Bienvenue à %1 !&lt;br /&gt;&lt;br /&gt;Effectuez de Défi temps aussi souvent que vous le souhaitez et tentez de battre vos records !&lt;br /&gt;&lt;br /&gt;Vous trouverez plus d'informations sur les Défis temps %2.</French>
+            <Spanish>¡Te damos la bienvenida a %1!&lt;br /&gt;&lt;br /&gt;¡Compite en esta contrarreloj tantas veces como quieras y bate tus mejores tiempos!&lt;br /&gt;&lt;br /&gt;Más información sobre las pruebas contrarreloj %2.</Spanish>
+            <Italian>Benvenuto a %1!&lt;br /&gt;&lt;br /&gt;Gareggia in questa gara a tempo tutte le volte che vuoi e batti i tuoi tempi migliori!&lt;br /&gt;&lt;br /&gt;Ulteriori informazioni sulle gare a tempo in %2.</Italian>
+            <Polish>Witaj w %1!&lt;br /&gt;&lt;br /&gt;Rywalizuj w tym wyścigu czasowym tak często, jak masz na to ochotę i pobij swój najlepszy czas!&lt;br /&gt;&lt;br /&gt;Dowiedz się więcej na temat wyścigów czasowych %2.</Polish>
+            <Russian>Добро пожаловать на %1!&lt;br /&gt;&lt;br /&gt;Здесь вы можете участвовать в заездах на время столько, сколько вам потребуется, и даже бить собственные рекорды.&lt;br /&gt;&lt;br /&gt;Подробнее о заездах на время %2.</Russian>
+            <German>Willkommen bei %1!&lt;br /&gt;&lt;br /&gt;Nehmen Sie beliebig oft an diesem Zeitrennen teil und unterbieten Sie Ihre eigenen Bestzeiten!&lt;br /&gt;&lt;br /&gt;Weitere Informationen über Zeitrennen finden Sie hier: %2.</German>
+            <Czech>Vítejte v %1!&lt;br /&gt;&lt;br /&gt;Tuto časovou zkoušku můžete absolvovat tolikrát, kolikrát budete chtít, a překonat své nejlepší časy!&lt;br /&gt;&lt;br /&gt;Získejte další informace o časových zkouškách %2.</Czech>
+            <English>Welcome to %1!&lt;br /&gt;&lt;br /&gt;Compete in this Time Trial as often as you'd like and beat your best times!&lt;br /&gt;&lt;br /&gt;Find more information about Time Trials %2.</English>
+            <Portuguese>Bem-vindo a %1!&lt;br /&gt;&lt;br /&gt;Compita neste Desafio de Tempo as vezes que quiser e supere os seus recordes!&lt;br /&gt;&lt;br /&gt;Encontre mais informações sobre os Time Trials %2.</Portuguese>
+            <Korean>%1에 잘 오셨습니다!&lt;br /&gt;&lt;br /&gt;마음껏 타임트라이얼에서 경주하고 신기록을 세워보십시오!&lt;br /&gt;&lt;br /&gt;타임트라이얼 %2에 관한 자세한 정보를 찾아보십시오.</Korean>
+            <Chinesesimp>欢迎来到%1!&lt;br /&gt;&lt;br /&gt;想办法在计时赛中突破自己, 创造佳绩!&lt;br /&gt;&lt;br /&gt;想要得知更多的讯息请查询计时赛%2.</Chinesesimp>
+            <Japanese>%1へようこそ！&lt;br /&gt;&lt;br /&gt;このタイムトライアルではお好きなだけ競争しベストタイムを更新してください！&lt;br /&gt;&lt;br /&gt;タイムトライアル%2のさらに詳しい情報をご覧ください。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_subject_title">
+            <Original>Time Trials</Original>
+            <Chinese>計時賽</Chinese>
+            <French>Défis temps</French>
+            <Spanish>Pruebas contrarreloj</Spanish>
+            <Italian>Gare a tempo</Italian>
+            <Polish>Wyścigi czasowe</Polish>
+            <Russian>Заезды на время</Russian>
+            <German>Zeitrennen</German>
+            <Czech>Časové zkoušky</Czech>
+            <English>Time Trials</English>
+            <Portuguese>Desafios de Tempo</Portuguese>
+            <Korean>타임트라이얼</Korean>
+            <Chinesesimp>计时赛</Chinesesimp>
+            <Japanese>タイムトライアル</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_clear_stats2">
+            <Original>Removing Time Trials statistics cannot be undone!</Original>
+            <Chinese>清除計時賽紀錄將是不可逆的動作!</Chinese>
+            <French>La suppression des statistiques de Défi temps est irréversible !</French>
+            <Spanish>¡No puedes deshacer la eliminación de las estadísticas de las contrarreloj!</Spanish>
+            <Italian>La rimozione delle statistiche delle gare a tempo non può essere annullata!</Italian>
+            <Polish>Usunięcie statystyki wyścigów czasowych nie może zostać cofnięte!</Polish>
+            <Russian>Удаление статистики заездов на время не может быть отменено!</Russian>
+            <German>Das Löschen von Zeitrennen kann nicht rückgängig gemacht werden!</German>
+            <Czech>Odstranění statistik časových zkoušek nelze vrátit.</Czech>
+            <English>Removing Time Trials statistics cannot be undone!</English>
+            <Portuguese>A remoção de estatísticas de Desafios de Tempo não pode ser invertida!</Portuguese>
+            <Korean>타임트라이얼 통계 제거를 취소할 수 없습니다!</Korean>
+            <Chinesesimp>清除计时赛纪录将是不可逆的动作!</Chinesesimp>
+            <Japanese>タイムトライアルデータの削除は元に戻せません！</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_CALLSIGN1">
+            <Original>Marshal</Original>
+            <Chinese>賽車場工作人員</Chinese>
+            <French>Shérif</French>
+            <Spanish>Comisario</Spanish>
+            <Italian>Commissario di gara</Italian>
+            <Polish>Porządkowy</Polish>
+            <Russian>Маршал</Russian>
+            <German>Marschall</German>
+            <Czech>Maršál</Czech>
+            <English>Marshal</English>
+            <Portuguese>Marshal</Portuguese>
+            <Korean>진행 요원</Korean>
+            <Chinesesimp>赛车场工作人员</Chinesesimp>
+            <Japanese>マーシャル</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec1_text">
+            <Original>Time Trials are a series of vehicle-based races against the clock.&lt;br /&gt;&lt;br /&gt;Competitors navigate a string of Check Points in order to reach the finish line as quickly as possible.&lt;br /&gt;&lt;br /&gt;They refine their skills in the areas of vehicle handling, cornering, navigation, memorization and split-second decision-making.</Original>
+            <Chinese>計時賽必須突破時間紀錄.&lt;br /&gt;&lt;br /&gt;車手必須在最快的時間內抵達終點.&lt;br /&gt;&lt;br /&gt;車手必須使用自己的駕駛技巧, 瞬間判斷與記憶力, 才能創造佳績.</Chinese>
+            <French>Les Défis temps sont une série de courses motorisées contre la montre. &lt;br /&gt; &lt;br /&gt; Les concurrents suivent une série de checkpoints afin d'atteindre la ligne d'arrivée le plus rapidement possible. &lt;br /&gt; &lt;br /&gt; Ils affinent leurs compétences dans les domaines de la conduite du véhicule, des virages, de la navigation, de la mémorisation et de la prise de décision rapide.</French>
+            <Spanish>Las pruebas contrarreloj son una serie de carreras cronometradas.&lt;br /&gt;&lt;br /&gt;Los competidores atraviesan una serie de puntos de control para alcanzar la línea de meta lo antes posible.&lt;br /&gt;&lt;br /&gt;Este modo les permite mejorar sus habilidades de conducción de vehículos, toma de curvas, control, memorización y toma de decisiones en fracciones de segundo.</Spanish>
+            <Italian>Le gare a tempo sono una serie di gare contro il tempo a bordo di veicoli.&lt;br /&gt;&lt;br /&gt;I concorrenti percorrono una serie di checkpoint (punti di controllo) al fine di raggiungere il traguardo il prima possibile.&lt;br /&gt;&lt;br /&gt;Affinano le loro abilità a livello di controllo del veicolo, curve, guida, memorizzazione e decisioni prese in una frazione di secondo.</Italian>
+            <Polish>Wyścigi czasowe to serie wyścigów pojazdów na czas.&lt;br /&gt;&lt;br /&gt;Zawodnicy pokonują serię punktów kontrolnych, aby jak najszybciej dotrzeć do mety.&lt;br /&gt;&lt;br /&gt;Doskonalą swoje umiejętności w zakresie prowadzenia pojazdu, skręcania, nawigacji, zapamiętywania i podejmowania decyzji w ułamku sekundy.</Polish>
+            <Russian>Заезды на время - это несколько автомобильных гонок на время.&lt;br /&gt; &lt;br /&gt; Соперники должны проехать ряд контрольных точек, чтобы пересечь финишную линию как можно быстрее.&lt;br /&gt; &lt;br /&gt;Время отточит ваши навыки управления автомобилем, движений на поворотах, запоминания трассы и принятия мгновенных решений.</Russian>
+            <German>Bei den Zeitrennen handelt es sich um eine Reihe von Fahrzeugrennen gegen die Zeit.&lt;br /&gt;&lt;br /&gt;Die Wettkämpfer fahren durch verschiedene Kontrollpunkte, um die Ziellinie schnellstmöglich zu erreichen.&lt;br /&gt;&lt;br /&gt;Dabei verbessern sie ihre Fähigkeiten in den Bereichen Handling, Kurvenfahrt, Steuerung und reaktionsschnelle Entscheidungen.</German>
+            <Czech>Časové zkoušky představují sérii závodů s časem na vozidlech.&lt;br /&gt;&lt;br /&gt;Protivníci projíždějí sérií kontrolních bodů s cílem dostat se co nejrychleji do cíle.&lt;br /&gt;&lt;br /&gt;Vylepšují své schopnosti v oblastech řízení vozidla, projíždění zákrut, navigace, pamatování si okruhu a okamžitého rozhodování.</Czech>
+            <English>Time Trials are a series of vehicle-based races against the clock.&lt;br /&gt;&lt;br /&gt;Competitors navigate a string of Check Points in order to reach the finish line as quickly as possible.&lt;br /&gt;&lt;br /&gt;They refine their skills in the areas of vehicle handling, cornering, navigation, memorization and split-second decision-making.</English>
+            <Portuguese>Os Desafios de Tempo são uma série de corridas de veículos em contra-relógio.&lt;br /&gt;&lt;br /&gt;Os concorrentes passam por uma série de Pontos de Verificação de forma a alcançar a linha de chegada o mais rapidamente possível.&lt;br /&gt;&lt;br /&gt;Podem melhorar as suas habilidades em manuseamento de veículos, curvas, navegação, memorização e tomadas de decisão em frações de segundo.</Portuguese>
+            <Korean>타임트라이얼은 제한 시간이 있는 차량 기반 레이스입니다.&lt;br /&gt;&lt;br /&gt;가능한 한 신속하게 결승선에 도달하려면 연속적인 확인점을 따라 주행해야 합니다.&lt;br /&gt;&lt;br /&gt;또, 차량 제어 능력, 코너링, 주행 실력, 기억력과 순간 판단력에 관련된 기술을 갈고 닦을 필요가 있습니다.</Korean>
+            <Chinesesimp>计时赛必须突破时间纪录.&lt;br /&gt;&lt;br /&gt;车手必须在最快的时间内抵达终点.&lt;br /&gt;&lt;br /&gt;车手必须使用自己的驾驶技巧, 瞬间判断与记忆力, 才能创造佳绩.</Chinesesimp>
+            <Japanese>タイムトライアルは自動車レースのシリーズで時間との戦いになります。&lt;br /&gt;&lt;br /&gt;ライバルは出来るだけ早くゴールにたどり着こうと一連のチェックポイントを通過して行きます。&lt;br /&gt;&lt;br /&gt;彼らはハンドル操作、コーナリング、ナビ、記憶力、瞬時の判断力といった能力を磨いています。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec1_title">
+            <Original>Introduction</Original>
+            <Chinese>介紹</Chinese>
+            <French>Introduction</French>
+            <Spanish>Presentación</Spanish>
+            <Italian>Introduzione</Italian>
+            <Polish>Wprowadzenie</Polish>
+            <Russian>Введение</Russian>
+            <German>Einleitung</German>
+            <Czech>Úvod</Czech>
+            <English>Introduction</English>
+            <Portuguese>Introdução</Portuguese>
+            <Korean>소개</Korean>
+            <Chinesesimp>介绍</Chinesesimp>
+            <Japanese>イントロダクション</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec2_text">
+            <Original>A competitor's raw time is the amount of time it takes to reach the final Check Point.&lt;br /&gt;&lt;br /&gt;Time may be added when you are penalized, for missing a Check Point for example.&lt;br /&gt;&lt;br /&gt;Competitors compete for medals: beat the bronze, silver and gold times. Sometimes a special time is available.</Original>
+            <Chinese>最終成績來自於你能多快抵達終點.&lt;br /&gt;&lt;br /&gt;假如你做出犯規動作, 像是錯失檢查點, 最終時間有可能會增加.&lt;br /&gt;&lt;br /&gt;依據最終成績, 將頒發給你不同的獎牌以玆鼓勵.</Chinese>
+            <French>Le temps brut d'un concurrent est la quantité de temps qu'il faut pour atteindre le dernier checkpoint. &lt;br /&gt; &lt;br /&gt; Ce temps peut être augmenté en cas de pénalité, si vous ratez un checkpoint par exemple. &lt;br /&gt; &lt;br / &gt; Les concurrents se disputent des médailles : battez le temps requis pour décrocher l’or, l’argent et le bronze. Parfois, un temps spécial est disponible.</French>
+            <Spanish>El tiempo bruto del competidor es la cantidad de tiempo que tarda en llegar al último punto de control.&lt;br /&gt;&lt;br /&gt;Sin embargo, se pueden añadir segundos al tiempo si, por ejemplo, te penalizan por saltarte un punto de control.&lt;br /&gt;&lt;br /&gt;Los competidores se disputan por medallas: bate los tiempos de bronce, plata y oro. A veces está disponible un tiempo especial.</Spanish>
+            <Italian>Il tempo reale di un concorrente è la quantità di tempo necessario per raggiungere il checkpoint finale.&lt;br /&gt; &lt;br /&gt; Viene aggiunto del tempo come penalità per aver mancato un checkpoint, ad esempio.&lt;br /&gt;&lt;br /&gt;I concorrenti gareggiano per ottenere le medaglie: batti i tempi della medaglia di bronzo, d’argento e d’oro. A volte è disponibile un tempo speciale.</Italian>
+            <Polish>Całkowity czas zawodnika to czas, w którym dotrze do ostatniego punktu kontrolnego.&lt;br /&gt;&lt;br /&gt;Czas może zostać dodany, gdy zostaniesz ukarany na przykład za pominięcie punktu kontrolnego.&lt;br /&gt;&lt;br /&gt;Zawodnicy konkurują o medale: próbują pobić czasy na brąz, srebro i złoto. Czasami dostępny jest czas specjalny.</Polish>
+            <Russian>Нескорректированное время - это то время, которое требуется для того, чтобы пересечь последнюю контрольную точку.&lt;br /&gt; &lt;br /&gt;При пропуске контрольной точки вы будете оштрафованы дополнительным временем. &lt;br /&gt; &lt;br /&gt;Соперники сражаются за медали: побейте бронзовых, серебряных и золотых рекордсменов. Иногда доступно особое время.</Russian>
+            <German>Die Grundzeit eines Wettkämpfers ist die Zeit, die er benötigt, um den letzten Kontrollpunkt zu erreichen.&lt;br /&gt;&lt;br /&gt;Es kann Zeit als Strafe hinzugefügt werden, beispielsweise wenn Sie einen Kontrollpunkt verpassen.&lt;br /&gt;&lt;br /&gt;Wettkämpfer kämpfen um Medaillen: Schlagen Sie die Zeiten für Bronze, Silber und Gold. Gelegentlich ist eine Spezialzeit verfügbar.</German>
+            <Czech>Neupravený čas protivníka představuje dobu, za kterou se mu povede dosáhnout poslední kontrolní bod.&lt;br /&gt;&lt;br /&gt;Čas se může přičítat v případě penalizace, například za vynechání kontrolního bodu.&lt;br /&gt;&lt;br /&gt;Protivníci soutěží o medaile za pokoření bronzového, stříbrného a zlatého času. Někdy je k dispozici zvláštní čas.</Czech>
+            <English>A competitor's raw time is the amount of time it takes to reach the final Check Point.&lt;br /&gt;&lt;br /&gt;Time may be added when you are penalized, for missing a Check Point for example.&lt;br /&gt;&lt;br /&gt;Competitors compete for medals: beat the bronze, silver and gold times. Sometimes a special time is available.</English>
+            <Portuguese>O tempo bruto de um adversário é a quantidade de tempo que leva para a chegar ao Ponto de Verificação final.&lt;br /&gt;&lt;br /&gt;O tempo pode ser aumentado quando for penalizado por falhar um Ponto de Verificação, por exemplo.&lt;br /&gt;&lt;br / &gt;Os adversários competem por medalhas: de bronze, prata e ouro. Por vezes, está disponível um tempo especial.</Portuguese>
+            <Korean>드라이버의 순수 시간은 최종 확인점에 도달하는 데 걸린 시간입니다.&lt;br /&gt;&lt;br /&gt;확인점을 지나치는 등 페널티를 범했을 때 시간이 추가될 수 있습니다.&lt;br /&gt;&lt;br /&gt;모든 드라이버는 메달을 놓고 경쟁을 벌입니다. 금, 은, 동메달 시간을 돌파하여 메달을 획득하십시오. 간혹 특별 시간이 주어지는 경우도 있습니다.</Korean>
+            <Chinesesimp>最终成绩来自于你能多快抵达终点.&lt;br /&gt;&lt;br /&gt;假如你做出犯规动作, 像是错失检查点, 最终时间有可能会增加.&lt;br /&gt;&lt;br /&gt;依据最终成绩, 将颁发给你不同的奖牌以玆鼓励.</Chinesesimp>
+            <Japanese>ライバルのロータイムは、最終チェックポイントに到着するまでにかかった時間の合計です。&lt;br /&gt;&lt;br /&gt;チェックポイントを逃すなど、あなたにペナルティが課せられると時間は加算されます。&lt;br /&gt;&lt;br /&gt;ライバルたちはメダルを競い合います。金、銀、銅のタイムを破ってください。特別タイムが利用できる場合があります。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec2_title">
+            <Original>Timing</Original>
+            <Chinese>時間</Chinese>
+            <French>Chronométrage</French>
+            <Spanish>Cronometraje</Spanish>
+            <Italian>Tempi</Italian>
+            <Polish>Czas</Polish>
+            <Russian>Расчет времени</Russian>
+            <German>Timing</German>
+            <Czech>Časování</Czech>
+            <English>Timing</English>
+            <Portuguese>Tempo</Portuguese>
+            <Korean>시간</Korean>
+            <Chinesesimp>时间</Chinesesimp>
+            <Japanese>タイミング</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec3_text">
+            <Original>You will need to move through all Check Points in a trial for the best possible time.&lt;br /&gt;&lt;br /&gt;However, you are allowed to miss Check Points at the cost of a time penalty.&lt;br /&gt;&lt;br /&gt;Memorize the trial by training often. Some trials support immediate looping when you cross the start right after the final Check Point.</Original>
+            <Chinese>你必須盡快通過所有的檢查點.&lt;br /&gt;&lt;br /&gt;不過你是可繞過檢查點, 但是會伴隨著些許懲罰.&lt;br /&gt;&lt;br /&gt;不斷挑戰賽道, 才能從中創造突破口, 創造佳績.</Chinese>
+            <French>Pour obtenir le meilleur chrono possible dans un Défi temps, vous devrez franchir tous les checkpoints.&lt;br /&gt; &lt;br /&gt; Cependant, vous êtes autorisé à rater un checkpoint, au prix d’une pénalité de temps. &lt;br /&gt; &lt;br / &gt; Mémorisez le parcours en faisant souvent une course. Certains défis acceptent un redémarrage immédiat, lorsque vous traversez la ligne de départ juste après le dernier checkpoint.</French>
+            <Spanish>Tienes que atravesar todos los puntos de control en una prueba para conseguir el mejor tiempo posible.&lt;br /&gt;&lt;br /&gt;Puedes saltarte puntos de control si lo deseas, a cambio de una penalización de tiempo.&lt;br /&gt;&lt;br /&gt;Entrena a menudo y memoriza el circuito. En algunas pruebas puedes dar otra vuelta nada más cruzar la línea de meta tras el último punto de control.</Spanish>
+            <Italian>Per ottenere il miglior tempo possibile, dovrai passare tutti i checkpoint presenti in una gara.&lt;br /&gt;&lt;br /&gt;Tuttavia, ti è permesso di mancare un checkpoint in cambio di una penalità di tempo.&lt;br /&gt;&lt;br /&gt;Memorizza il percorso di gara allenandoti spesso. Alcune gare supportano un looping immediato non appena tagli il traguardo dopo il checkpoint finale.</Italian>
+            <Polish>Aby uzyskać możliwie najlepszy czas, musisz przejechać przez wszystkie punkty kontrolne na trasie.&lt;br /&gt;&lt;br /&gt;Możesz jednak ominąć punkty kontrolne i otrzymać karę czasową.&lt;br /&gt;&lt;br /&gt;Zapamiętaj trasę, trenując często przejazdy. Niektóre trasy zapętlają się po przekroczeniu linii startu zaraz po osiągnięciu ostatniego punktu kontrolnego.</Polish>
+            <Russian>Ваша цель - проехать все контрольные точки, показав лучшее время. &lt;br /&gt; &lt;br /&gt; Тем не менее вы можете пропускать контрольные точки, получая штрафное время. &lt;br /&gt; &lt;br / &gt; Запомните трассу, проехав ее несколько раз. На некоторых трассах вы можете начинать гонку заново сразу же после того, как проедете последнюю контрольную точку.</Russian>
+            <German>Um die mögliche Bestzeit zu erreichen, müssen Sie durch alle Kontrollpunkte in einem Zeitrennen fahren.&lt;br /&gt;&lt;br /&gt;Sie können Kontrollpunkte verpassen, dies wird jedoch mit zusätzlicher Zeit bestraft.&lt;br /&gt;&lt;br /&gt;Prägen Sie sich die Strecke ein, indem Sie häufig trainieren. In manchen Zeitrennen ist eine unmittelbare Wiederholung des Rennens möglich, wenn Sie den Start sofort nach dem letzten Kontrollpunkt überqueren.</German>
+            <Czech>V rámci zkoušky musíte projet všechny kontrolní body v co nejkratším čase.&lt;br /&gt;&lt;br /&gt;Můžete však vynechat kontrolní body výměnou za časovou penalizaci.&lt;br /&gt;&lt;br /&gt;Zapamatujte si trasu díky častému tréninku. Některé zkoušky podporují okamžité opakování, pokud projedete startem hned po konečném kontrolním bodu.</Czech>
+            <English>You will need to move through all Check Points in a trial for the best possible time.&lt;br /&gt;&lt;br /&gt;However, you are allowed to miss Check Points at the cost of a time penalty.&lt;br /&gt;&lt;br /&gt;Memorize the trial by training often. Some trials support immediate looping when you cross the start right after the final Check Point.</English>
+            <Portuguese>Terá que passar por todos os Pontos de Verificação num desafio para alcançar o melhor tempo possível.&lt;br /&gt;&lt;br /&gt;No entanto, é permitido perder Pontos de Verificação com o custo de uma penalidade de tempo.&lt;br /&gt;&lt;br /&gt;Decore o desafio ao treinar frequentemente. Alguns desafios permitem o looping imediato ao cruzar o início, logo após o Ponto de Verificação final.</Portuguese>
+            <Korean>신기록을 달성하려면 트라이얼 내의 모든 확인점을 통과해야 합니다.&lt;br /&gt;&lt;br /&gt;하지만 타임 페널티를 감수하고 확인점을 지나칠 수도 있습니다.&lt;br /&gt;&lt;br /&gt;자주 훈련하여 트라이얼 코스를 머릿속에 집어넣으십시오. 일부 트라이얼 코스는 최종 확인점 직후에 출발선이 있어 통과하는 즉시 다음 랩으로 돌입할 수 있습니다.</Korean>
+            <Chinesesimp>你必须尽快通过所有的检查点.&lt;br /&gt;&lt;br /&gt;不过你是可绕过检查点, 但是会伴随着些许惩罚.&lt;br /&gt;&lt;br /&gt;不断挑战赛道, 才能从中创造突破口, 创造佳绩.</Chinesesimp>
+            <Japanese>トライアルでは可能な限りベストのタイムですべてのチェックポイントを通過しなくてはなりません。&lt;br /&gt;&lt;br /&gt;ただし、時間のペナルティを代償にすべてのチェックポイントを逃すこともできます。&lt;br /&gt;&lt;br /&gt;何度も練習してトライアルを記憶してください。いくつかのトライアルでは、最終チェックポイントの後にスタート地点を通過したとき、すばやくルーピングをサポートします</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec3_title">
+            <Original>Check Points</Original>
+            <Chinese>檢查點</Chinese>
+            <French>Checkpoints</French>
+            <Spanish>Puntos de control</Spanish>
+            <Italian>Checkpoint</Italian>
+            <Polish>Punkty kontrolne</Polish>
+            <Russian>Контрольные точки</Russian>
+            <German>Kontrollpunkte</German>
+            <Czech>Kontrolní body</Czech>
+            <English>Check Points</English>
+            <Portuguese>Pontos de Verificação</Portuguese>
+            <Korean>확인점</Korean>
+            <Chinesesimp>检查点</Chinesesimp>
+            <Japanese>チェックポイント</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec4_text">
+            <Original>%1Time Trials are not intended to be mastered in one attempt. Study the trials, find shortcuts and repeat them often.&lt;br /&gt;&lt;br /&gt;%1Sometimes it is better to accept missing a Check Point, taking the penalty, and moving on.&lt;br /&gt;&lt;br /&gt;%1You can disable the on-screen Check Point indicators via difficulty flag 'HUD waypoints info'.</Original>
+            <Chinese>%1計時賽是一種重複的過程. 研究賽道, 記憶住他, 並尋找最佳捷徑.&lt;br /&gt;&lt;br /&gt;%1如果你不小心錯過檢查點, 建議您就直接朝下一個檢查點前進會比較好.&lt;br /&gt;&lt;br /&gt;%1你可以在'抬頭顯示器'設定中開關檢查點的顯示.</Chinese>
+            <French>%1Les Défis temps ne sont pas conçus pour qu’on les maîtrise en une seule tentative. Étudiez les parcours, trouvez des raccourcis et parcourez-les souvent. &lt;br /&gt; &lt;br /&gt;%1Il vaut parfois mieux accepter de rater un checkpoint et d’encaisser la pénalité pour continuer d’avancer. /&gt; &lt;br /&gt; &lt;br%1Vous pouvez désactiver les indicateurs de checkpoint à l’écran via l’option « info ATH checkpoint ».</French>
+            <Spanish>%1Las pruebas contrarreloj no están pensadas para que se dominen al primer intento. Estudia los circuitos, encuentra atajos y practica en ellos a menudo.&lt;br /&gt;&lt;br /&gt;%1A veces resulta mejor no atravesar un punto de control, a pesar de la penalización, y seguir adelante.&lt;br /&gt;&lt;br /&gt;%1Puedes desactivar la muestra de los puntos de control en pantalla mediante el indicador de dificultad «Información sobre puntos de ruta en pantalla».</Spanish>
+            <Italian>%1Le gare a tempo non possono essere affrontate con successo al primo tentativo. Studia i circuiti, trova le scorciatoie e ripetili spesso.&lt;br /&gt;&lt;br /&gt;%1A volte è meglio accettare di mancare un checkpoint, prendersi la penalità e andare avanti.&lt;br /&gt;&lt;br /&gt;%1Puoi disattivare gli indicatori a schermo dei checkpoint tramite la bandiera di difficoltà “Info HUD punti di passaggio”.</Italian>
+            <Polish>%1Z założenia nie da się opanować do perfekcji tras czasowych przy pierwszej próbie. Zapoznaj się z trasami, znajdź skróty i często je powtarzaj.&lt;br /&gt;&lt;br /&gt;%1Czasami lepiej jest ominąć punkt kontrolny, dostać karę i kontynuować przejazd.&lt;br /&gt;&lt;br /&gt;%1Możesz wyłączyć wskaźniki punktów kontrolnych wyświetlane na ekranie przy pomocy wskaźnika stopnia trudności „HUD – punkty kontrolne”.</Polish>
+            <Russian>%1Заезды на время не рассчитаны на то, что вы успешно завершите их за один раз. Изучите трассы, найдите кратчайшие пути и проезжайте по ним как можно чаще. &lt;br /&gt; &lt;br /&gt;%1Иногда лучше пропустить контрольную точку и двигаться дальше, получив штраф. &lt;br /&gt; &lt;br /&gt;%1Вы также можете отключить отображение контрольных точек на экране, сняв флажок с пункта «Информация о маршруте».</Russian>
+            <German>%1Zeitrennen können nicht im ersten Versuch gemeistert werden. Prägen Sie sich die Teststrecken ein, finden Sie Abkürzungen und fahren Sie sie häufig.&lt;br /&gt;&lt;br /&gt;%1Manchmal ist es besser, einen Kontrollpunkt zu verpassen und das Rennen mit einer Strafe fortzusetzen.&lt;br /&gt;&lt;br /&gt;%1Sie können die Kontrollpunktanzeigen auf dem Bildschirm über die Schwierigkeitseinstellung „Wegpunktinfo auf dem HUD“ deaktivieren.</German>
+            <Czech>%1Časové zkoušky nejsou navrženy tak, abyste je dokonale zvládli napoprvé. Učte se zkoušky, nacházejte zkratky a často okruh opakujte.&lt;br /&gt;&lt;br /&gt;%1Někdy je lepší smířit se s vynecháním kontrolního bodu, přijat penalizaci a pokračovat.&lt;br /&gt;&lt;br /&gt;%1Zobrazovaný ukazovatel kontrolních bodů můžete vypnout pomocí příznaku obtížnosti „informace o bodech cesty na displeji HUD“.</Czech>
+            <English>%1Time Trials are not intended to be mastered in one attempt. Study the trials, find shortcuts and repeat them often.&lt;br /&gt;&lt;br /&gt;%1Sometimes it is better to accept missing a Check Point, taking the penalty, and moving on.&lt;br /&gt;&lt;br /&gt;%1You can disable the on-screen Check Point indicators via difficulty flag 'HUD waypoints info'.</English>
+            <Portuguese>%1Os Desafios de Tempo não são supostamente dominados à primeira tentativa. Estude os desafios, encontre atalhos e repita-os frequentemente.&lt;br /&gt;&lt;br /&gt;%1Por vezes é melhor aceitar perder um Ponto de Verificação, mesmo com a sua penalização e seguir em frente.&lt;br /&gt;&lt;br /&gt;%1Pode desativar os indicadores de Pontos de Verificação no ecrã através da bandeira de dificuldade 'Informações de pontos de rota do HUD'.</Portuguese>
+            <Korean>%1타임트라이얼은 단번에 숙달할 수 있는 코스가 아닙니다. 코스를 연구하고 지름길을 찾아 자주 반복해서 훈련하십시오.&lt;br /&gt;&lt;br /&gt;%1때로는 페널티를 받더라도 확인점을 지나치고 계속 주행하는 것이 나을 때도 있습니다.&lt;br /&gt;&lt;br /&gt;%1난이도 설정의 ’HUD 경유지 정보’에서 화면에 표시되는 확인점 지시기를 끌 수 있습니다.</Korean>
+            <Chinesesimp>%1计时赛是一种重复的过程. 研究赛道, 记忆住他, 并寻找最佳捷径.&lt;br /&gt;&lt;br /&gt;%1如果你不小心错过检查点, 建议您就直接朝下一个检查点前进会比较好.&lt;br /&gt;&lt;br /&gt;%1你可以在'抬头显示器'设定中开关检查点的显示.</Chinesesimp>
+            <Japanese>%1タイムトライアルは１回の試みですべてをマスターすることを目的としていません。トライアルを研究し、ショートカットを見つけたらそれらを何度も繰り返して下さい。&lt;br /&gt;&lt;br /&gt;%1 時にはチェックポイントを逃してペナルティを受け、さらに先へ進む方が良い場合もあります。&lt;br /&gt;&lt;br /&gt;%1難易度フラグ'HUD中間ポイント情報'から画面のチェックポイント表示を無効にすることができます。</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_diary_rec4_title">
+            <Original>Tips</Original>
+            <Chinese>提示</Chinese>
+            <French>Astuces</French>
+            <Spanish>Consejos</Spanish>
+            <Italian>Consigli</Italian>
+            <Polish>Wskazówki</Polish>
+            <Russian>Подсказки</Russian>
+            <German>Tipps</German>
+            <Czech>Tipy</Czech>
+            <English>Tips</English>
+            <Portuguese>Dicas</Portuguese>
+            <Korean>팁</Korean>
+            <Chinesesimp>提示</Chinesesimp>
+            <Japanese>ヒント</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_END4_DESC">
+            <Original>You've suffered a terrible accident.</Original>
+            <Chinese>你遭遇了可怕的車禍.</Chinese>
+            <French>Vous avez subi un terrible accident.</French>
+            <Spanish>Has sufrido un terrible accidente.</Spanish>
+            <Italian>Sei rimasto vittima di un terribile incidente.</Italian>
+            <Polish>Uległeś poważnemu wypadkowi.</Polish>
+            <Russian>Вы пережили тяжелую аварию.</Russian>
+            <German>Sie haben einen üblen Unfall gehabt.</German>
+            <Czech>Stala se vám strašlivá věc.</Czech>
+            <English>You've suffered a terrible accident.</English>
+            <Portuguese>Sofreu um terrível acidente.</Portuguese>
+            <Korean>끔찍한 사고를 당했습니다.</Korean>
+            <Chinesesimp>你遭遇了可怕的车祸.</Chinesesimp>
+            <Japanese>あなたは悲惨な事故に遭いました。</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_END5_DESC">
+            <Original>You've run out of fuel.</Original>
+            <Chinese>你沒油了.</Chinese>
+            <French>Vous êtes en panne d'essence.</French>
+            <Spanish>Te has quedado sin combustible.</Spanish>
+            <Italian>Sei a corto di carburante.</Italian>
+            <Polish>Skończyło Ci się paliwo.</Polish>
+            <Russian>Закончилось топливо.</Russian>
+            <German>Sie haben keinen Treibstoff mehr.</German>
+            <Czech>Došlo vám palivo.</Czech>
+            <English>You've run out of fuel.</English>
+            <Portuguese>Ficou sem combustível.</Portuguese>
+            <Korean>연료가 바닥났습니다.</Korean>
+            <Chinesesimp>你没油了.</Chinesesimp>
+            <Japanese>あなたは燃料を使い切りました。</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_HINT_RETURN">
+            <Original>Returned to start: trial restarting ...</Original>
+            <Chinese>返回起點: 計時賽重新啟動中...</Chinese>
+            <French>Retour au départ : redémarrage du défi…</French>
+            <Spanish>Has vuelto al inicio: reiniciando prueba...</Spanish>
+            <Italian>Sei tornato all'inizio: riavvio della gara…</Italian>
+            <Polish>Powrócono na start: restartowanie wyścigu...</Polish>
+            <Russian>Снова на старт: заезд начинается заново ...</Russian>
+            <German>Zum Start zurückgekehrt: Rennen wird neu gestartet ...</German>
+            <Czech>Návrat na start: zkouška se znovu spouští...</Czech>
+            <English>Returned to start: trial restarting ...</English>
+            <Portuguese>Voltou ao início: desafio a reiniciar...</Portuguese>
+            <Korean>출발선으로 복귀함: 트라이얼 다시 시작하는 중...</Korean>
+            <Chinesesimp>返回起点: 计时赛重新启动中...</Chinesesimp>
+            <Japanese>スタートに戻りました：トライアルを再スタートしています…</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_IGUI_Quit">
+            <Original>Quit</Original>
+            <Chinese>離開</Chinese>
+            <French>Quitter</French>
+            <Spanish>Salir</Spanish>
+            <Italian>Esci</Italian>
+            <Polish>Wyjście</Polish>
+            <Russian>Выход</Russian>
+            <German>Verlassen</German>
+            <Czech>Konec</Czech>
+            <English>Quit</English>
+            <Portuguese>Sair</Portuguese>
+            <Korean>종료</Korean>
+            <Chinesesimp>离开</Chinesesimp>
+            <Japanese>終了</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_IGUI_Restart">
+            <Original>Restart</Original>
+            <Chinese>重新開始</Chinese>
+            <French>Relancer</French>
+            <Spanish>Reiniciar</Spanish>
+            <Italian>Ricomincia</Italian>
+            <Polish>Restart</Polish>
+            <Russian>Заново</Russian>
+            <German>Neustart</German>
+            <Czech>Restart</Czech>
+            <English>Restart</English>
+            <Portuguese>Reiniciar</Portuguese>
+            <Korean>다시 시작</Korean>
+            <Chinesesimp>重新开始</Chinesesimp>
+            <Japanese>再スタートする</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_KARTS_NAME">
+            <Original>Karts</Original>
+            <Chinese>卡丁車</Chinese>
+            <French>Karts</French>
+            <Spanish>Kart</Spanish>
+            <Italian>Kart</Italian>
+            <Polish>Gokarty</Polish>
+            <Russian>Карты</Russian>
+            <German>Kart</German>
+            <Czech>Motokáry</Czech>
+            <English>Karts</English>
+            <Portuguese>Kart</Portuguese>
+            <Korean>카트</Korean>
+            <Chinesesimp>卡丁车</Chinesesimp>
+            <Japanese>ゴーカート</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_KARTS_OVERVIEW">
+            <Original>Steer go-karts through a set of circuit and point-to-point trials. Precise steering and optimal use of the kart's low center of mass are key here!</Original>
+            <Chinese>駕駛卡丁車通過檢查點. 掌握住卡丁車低底盤以及煞車的慣性, 將是你致勝的關鍵!</Chinese>
+            <French>Menez votre kart dans une série de défis sur circuit ou route ouverte. Une trajectoire précise et une utilisation optimale du centre de gravité bas du kart sont essentielles !</French>
+            <Spanish>Conduce los karts a través de una serie de circuitos y pruebas a campo través. ¡La clave es la conducción precisa y el uso óptimo del bajo centro de masas de los karts!</Spanish>
+            <Italian>Guida i go-kart lungo una serie di gare su circuito e a tappe. I fattori chiave sono una guida precisa e un uso ottimale del basso centro di massa del kart!</Italian>
+            <Polish>Prowadź gokarty po serii okrążeń i odcinków. Precyzyjne kierowanie i optymalne wykorzystanie nisko położonego środka ciężkości gokarta jest tutaj kluczowe!</Polish>
+            <Russian>Проведите карты через все трассы и гонки по пересеченной местности. Точное управление и оптимальное использование низкого центра массы карта - ваш путь к успеху!</Russian>
+            <German>Steuern Sie die Go-Karts durch eine Reihe von Strecken und Rennfahrten. Hier sind präzise Steuerung und der optimale Einsatz der tief liegenden Masse des Karts ausschlaggebend!</German>
+            <Czech>Usedněte do motokár a projeďte se sérií okruhů a zkoušek s kontrolními body. Klíčem k úspěchu je přesné řízení a optimální využití nízkého těžiště motokáry.</Czech>
+            <English>Steer go-karts through a set of circuit and point-to-point trials. Precise steering and optimal use of the kart's low center of mass are key here!</English>
+            <Portuguese>Direcione os karts por um conjunto de desafios de circuitos. Aqui a chave é uma direção precisa e uma ótima utilização do baixo centro de gravidade do kart.</Portuguese>
+            <Korean>서킷 및 지점 간 경주 트라이얼에서 경주용 카트를 운전하십시오. 여기서는 정확한 운전과 카트의 낮은 무게중심을 최적으로 활용하는 것이 중요합니다!</Korean>
+            <Chinesesimp>驾驶卡丁车通过检查点. 掌握住卡丁车低底盘以及煞车的惯性, 将是你致胜的关键!</Chinesesimp>
+            <Japanese>サーキットと二地点トライアルでゴーカートを運転してください。ここでは正確なハンドル操作とカートの低い重心の最適な使用が重要です！</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_RESULTS">
+            <Original>Results</Original>
+            <Chinese>成績</Chinese>
+            <French>Résultats</French>
+            <Spanish>Resultados</Spanish>
+            <Italian>Risultati</Italian>
+            <Polish>Wyniki</Polish>
+            <Russian>Результаты</Russian>
+            <German>Ergebnisse</German>
+            <Czech>Výsledky</Czech>
+            <English>Results</English>
+            <Portuguese>Resultados</Portuguese>
+            <Korean>결과</Korean>
+            <Chinesesimp>成绩</Chinesesimp>
+            <Japanese>結果</Japanese>
+          </Key>
+          <Key ID="STR_A3_TIME_TRIALS_SESSION">
+            <Original>Session:</Original>
+            <Chinese>花費時間:</Chinese>
+            <French>Session :</French>
+            <Spanish>Sesión:</Spanish>
+            <Italian>Sessione:</Italian>
+            <Polish>Sesja:</Polish>
+            <Russian>Тренировка:</Russian>
+            <German>Sitzung:</German>
+            <Czech>Relace:</Czech>
+            <English>Session:</English>
+            <Portuguese>Sessão:</Portuguese>
+            <Korean>세션:</Korean>
+            <Chinesesimp>花费时间:</Chinesesimp>
+            <Japanese>セッション：</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt00_name">
+            <Original>TT: Introductory Trial</Original>
+            <Chinese>TT: 工廠賽道</Chinese>
+            <French>DT : Défi d'introduction</French>
+            <Spanish>TT: Prueba de presentación</Spanish>
+            <Italian>TT: Gara introduttiva</Italian>
+            <Polish>W.: Wyścig wprowadzający</Polish>
+            <Russian>TT: Начальная гонка</Russian>
+            <German>TT: Einführende Rennfahrt</German>
+            <Czech>TT: Úvodní zkouška</Czech>
+            <English>TT: Introductory Trial</English>
+            <Portuguese>TT: Desafio de Introdução</Portuguese>
+            <Korean>타임트라이얼: 입문 트라이얼</Korean>
+            <Chinesesimp>TT: 工厂赛道</Chinesesimp>
+            <Japanese>TT：初回トライアル</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt00_name_short">
+            <Original>TT</Original>
+            <Chinese>TT</Chinese>
+            <French>DT</French>
+            <Spanish>TT</Spanish>
+            <Italian>TT</Italian>
+            <Polish>W.Cz.</Polish>
+            <Russian>TT</Russian>
+            <German>TT</German>
+            <Czech>TT</Czech>
+            <English>TT</English>
+            <Portuguese>TT</Portuguese>
+            <Korean>타임트라이얼</Korean>
+            <Chinesesimp>TT</Chinesesimp>
+            <Japanese>TT</Japanese>
+          </Key>
+          <Key ID="str_a3_time_trials_sp_tt00_overview">
+            <Original>Get up to speed with Time Trials using this simple string of Check Points.</Original>
+            <Chinese>通過檢查點來提高你在此賽道中的成績.</Chinese>
+            <French>Devenir un pro des Défis temps avec ce simple enchaînement de checkpoints.</French>
+            <Spanish>Pisa el acelerador en las pruebas contrarreloj mediante este camino de puntos de control.</Spanish>
+            <Italian>Vai di velocità con le gare a tempo utilizzando questa semplice fila di checkpoint.</Italian>
+            <Polish>Osiągnij wysoką prędkość podczas wyścigów czasowych, wykorzystując serię punktów kontrolnych.</Polish>
+            <Russian>Окажитесь на нужном уровне, пройдя заезды на время со всеми контрольными точками.</Russian>
+            <German>Erlernen Sie das Zeitfahren, indem Sie sich an diesen Kontrollpunkten orientieren.</German>
+            <Czech>Rychle se seznamte s časovými zkouškami pomocí této jednoduché série kontrolních bodů.</Czech>
+            <English>Get up to speed with Time Trials using this simple string of Check Points.</English>
+            <Portuguese>Suba a velocidade nos Desafios de Tempo com esta série simples de Pontos de Verificação.</Portuguese>
+            <Korean>단순한 확인점 배치가 특징인 이 타임트라이얼에서 속도에 집중해보십시오.</Korean>
+            <Chinesesimp>通过检查点来提高你在此赛道中的成绩.</Chinesesimp>
+            <Japanese>一連のチェックポイントを使ってタイムトライアルでスピードを上げます。</Japanese>
+          </Key>
+        </Container>
+        <Container name="MP_ZR_8_Karts01">
+          <Key ID="STR_A3_MP_ZR_8_Karts01_overview">
+            <Original>Try out the new Zeus Race module in this pre-set scenario.</Original>
+            <Chinese>在預設的任務中嘗試宙斯新的賽車模塊.</Chinese>
+            <French>Essayez le nouveau module de course Zeus dans ce scénario prédéterminé.</French>
+            <Spanish>Prueba el módulo Carrera de Zeus en este escenario predeterminado.</Spanish>
+            <Italian>Prova il nuovo modulo Gara Zeus in questo scenario pre-impostato.</Italian>
+            <Polish>Wypróbuj nowy moduł wyścigów Zeus w tym gotowym scenariuszu.</Polish>
+            <Russian>Попробуйте новый гоночный модуль Zeus в этом варианте гонки.</Russian>
+            <German>Testen Sie das neuste Zeus-Rennmodul in diesem vorgegebenen Szenario.</German>
+            <Czech>Vyzkoušejte si nový modul závodů v režimu Zeus v tomto přednastaveném scénáři.</Czech>
+            <English>Try out the new Zeus Race module in this pre-set scenario.</English>
+            <Portuguese>Experimente o novo módulo de Corrida Zeus neste cenário pré-definido.</Portuguese>
+            <Korean>미리 준비된 본 시나리오에서 새 제우스 레이스를 즐겨보십시오.</Korean>
+            <Chinesesimp>在预设的任务中尝试宙斯新的赛车模块.</Chinesesimp>
+            <Japanese>このプリセットのシナリオでは新しいゼウスレースモジュールをお試しください。</Japanese>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_briefing_mission">
+            <Original>Pass all Check Points first to win the race.</Original>
+            <Chinese>經過所有的檢查點並奪得第一.</Chinese>
+            <French>Passez tous les checkpoints en premier pour gagner la course.</French>
+            <Spanish>Pasa por todos los puntos de control primero para ganar la carrera.</Spanish>
+            <Italian>Passa tutti i checkpoint prima di vincere la gara.</Italian>
+            <Polish>Najpierw zalicz wszystkie punkty kontrolne, aby wygrać wyścig.</Polish>
+            <Russian>Пройдите все контрольные точки первыми, чтобы победить в гонке.</Russian>
+            <German>Passieren Sie alle Kontrollpunkte als Erster, um das Rennen zu gewinnen.</German>
+            <Czech>Projeďte všemi kontrolními body jako první a zvítězte.</Czech>
+            <English>Pass all Check Points first to win the race.</English>
+            <Portuguese>Passe em primeiro lugar por todos os Pontos de Verificação para ganhar a corrida.</Portuguese>
+            <Korean>우승하려면 먼저 모든 확인점을 통과하십시오.</Korean>
+            <Chinesesimp>经过所有的检查点并夺得第一.</Chinesesimp>
+            <Japanese>レースに勝つにはまずすべてのチェックポイントをパスします。</Japanese>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_briefingName_short">
+            <Original>Race on Altis (Karts)</Original>
+            <Chinese>Altis賽車 (卡丁車)</Chinese>
+            <French>Course sur Altis (Karts)</French>
+            <Spanish>Carrera en Altis (Karts)</Spanish>
+            <Italian>Gara su Altis (Karts)</Italian>
+            <Polish>Wyścig na Altis (Karts)</Polish>
+            <Russian>Гонка на Altis (Karts)</Russian>
+            <German>Rennen am Altis (Karts)</German>
+            <Czech>Závod na Altisu (Karts)</Czech>
+            <English>Race on Altis (Karts)</English>
+            <Portuguese>Corrida no Altis (Karts)</Portuguese>
+            <Korean>알티스 레이스(Karts)</Korean>
+            <Chinesesimp>Altis赛车 (卡丁车)</Chinesesimp>
+            <Japanese>アルティスのレース（Karts）</Japanese>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_briefingName">
+            <Original>Zeus 8+1 Race on Altis (Karts)</Original>
+            <Chinese>宙斯 8+1 Altis賽車 (卡丁車)</Chinese>
+            <French>Zeus 8+1 Course sur Altis (Karts)</French>
+            <Spanish>Zeus 8+1 Carrera en Altis (Karts)</Spanish>
+            <Italian>Zeus 8+1 gara su Altis (Karts)</Italian>
+            <Polish>Zeus 8+1 Wyścig na Altis (Karts)</Polish>
+            <Russian>Zeus 8+1 Гонка на Altis (Karts)</Russian>
+            <German>Zeus 8+1 Rennen am Altis (Karts)</German>
+            <Czech>Zeus 8+1 Závod na Altisu (Karts)</Czech>
+            <English>Zeus 8+1 Race on Altis (Karts)</English>
+            <Portuguese>Zeus 8+1 Corrida no Altis (Karts)</Portuguese>
+            <Korean>알티스 Zeus 8+1 레이스(Karts)</Korean>
+            <Chinesesimp>宙斯 8+1 Altis赛车 (卡丁车)</Chinesesimp>
+            <Japanese>アルティスのZeus 8＋ 1レース（Karts）</Japanese>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_obj02_text">
+            <Original>Set up the race. When you're satisfied with the Check Points, place the 'Race - Finish' Objective to start the race.</Original>
+            <Chinese>設置賽道. 當你布置完賽道後, 請放置'賽車 - 完成'來開始賽車.</Chinese>
+            <French>Paramétrer la course. Lorsque vous êtes satisfait des Points de contrôle, placez l’objectif « Course - Arrivée » pour commencer la course.</French>
+            <Spanish>Prepara la carrera. Cuando hayas terminado con los puntos de control, coloca el objetivo “Fin de carrera” para empezar la carrera.</Spanish>
+            <Italian>Organizza il circuito. Quando sei soddisfatto dei checkpoint, posiziona il modulo “Gara - Traguardo” per iniziare la gara.</Italian>
+            <Polish>Ustaw wyścig. Jeżeli jesteś zadowolony z punktów kontrolnych, obierz za cel „Wyścig – finisz” i rozpocznij wyścig.</Polish>
+            <Russian>Параметры гонки. Когда контрольные точки будут указаны, укажите «Гонка - Финиш», чтобы начать гонку.</Russian>
+            <German>Das Rennen vorbereiten. Wenn Sie mit den Kontrollpunkten zufrieden sind, dann platzieren Sie das Ziel des Rennens, um das Rennen zu starten.</German>
+            <Czech>Nastavte závod. Až budete spokojeni s kontrolními body, umístěte cíl „Závod – Cíl“. Tím závod spustíte.</Czech>
+            <English>Set up the race. When you're satisfied with the Check Points, place the 'Race - Finish' Objective to start the race.</English>
+            <Portuguese>Configure a corrida. Quando estiver satisfeito com os Pontos de Verificação, coloque o objetivo 'Corrida - Final' para iniciar a corrida.</Portuguese>
+            <Korean>레이스를 설정합니다. 확인점에 확신이 들면 ‘레이스 - 결승선’이라는 목표를 두고 레이스를 시작하십시오.</Korean>
+            <Chinesesimp>设置赛道. 当你布置完赛道后, 请放置'赛车 - 完成'来开始赛车.</Chinesesimp>
+            <Japanese>レースを設定します。チェックポイントに満足したら「レース―フィニッシュ」の目標を配置してレースを開始します。</Japanese>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_obj02_title">
+            <Original>Set up the Race</Original>
+            <Chinese>設置賽道</Chinese>
+            <French>Paramétrer la course</French>
+            <Spanish>Configura la carrera</Spanish>
+            <Italian>Organizza la gara</Italian>
+            <Polish>Ustaw wyścig</Polish>
+            <Russian>Настроить параметры гонки</Russian>
+            <German>Das Rennen vorbereiten</German>
+            <Czech>Nastavte závod</Czech>
+            <English>Set up the Race</English>
+            <Portuguese>Configure a Corrida</Portuguese>
+            <Korean>레이스 설정</Korean>
+            <Chinesesimp>设置赛道</Chinesesimp>
+            <Japanese>レース設定</Japanese>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_debrief_title">
+            <Original>Race Over</Original>
+            <Chinese>賽車結束</Chinese>
+            <French>Course finie</French>
+            <Spanish>Carrera terminada</Spanish>
+            <Italian>Gara terminata</Italian>
+            <Polish>Wyścig zakończony</Polish>
+            <Russian>Гонка окончена</Russian>
+            <German>Rennen beendet</German>
+            <Czech>Závoďte</Czech>
+            <English>Race Over</English>
+            <Portuguese>Corrida Terminada</Portuguese>
+            <Korean>레이스 종료</Korean>
+            <Chinesesimp>赛车结束</Chinesesimp>
+            <Japanese>レース終了</Japanese>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts01_obj01_text">
+            <Original>Wait for Zeus to set up the race.</Original>
+            <Chinese>等待宙斯設置賽道.</Chinese>
+            <French>Attendez que Zeus paramètre la course.</French>
+            <Spanish>Espera a que Zeus configure la carrera</Spanish>
+            <Italian>Attendi Zeus per organizzare la gara.</Italian>
+            <Polish>Poczekaj, aż Zeus ustawi wyścig.</Polish>
+            <Russian>Подождите модуль Zeus, чтобы установить параметры гонки.</Russian>
+            <German>Warten Sie darauf, dass Zeus das Rennen vorbereitet.</German>
+            <Czech>Počkejte, až Zeus nastaví závod.</Czech>
+            <English>Wait for Zeus to set up the race.</English>
+            <Portuguese>Espere por Zeus para configurar a corrida.</Portuguese>
+            <Korean>레이스 설정을 위해 제우스를 기다립니다.</Korean>
+            <Chinesesimp>等待宙斯设置赛道.</Chinesesimp>
+            <Japanese>ゼウスを待ってレースを設定します。</Japanese>
+          </Key>
+        </Container>
+        <Container name="MP_ZR_8_Karts02">
+          <Key ID="STR_A3_MP_ZR_8_Karts02_briefingName_short">
+            <Original>Race on Stratis (Karts)</Original>
+            <Chinese>Stratis賽車 (卡丁車)</Chinese>
+            <French>Course sur Stratis (Karts)</French>
+            <Spanish>Carrera en Stratis (Karts)</Spanish>
+            <Italian>Gara su Stratis (Karts)</Italian>
+            <Polish>Wyścig na Stratis (Karts)</Polish>
+            <Russian>Гонка на Stratis (Karts)</Russian>
+            <German>Rennen am Stratis (Karts)</German>
+            <Czech>Závod na Stratisu (Karts)</Czech>
+            <English>Race on Stratis (Karts)</English>
+            <Portuguese>Corrida no Stratis (Karts)</Portuguese>
+            <Korean>스트라티스 레이스(Karts)</Korean>
+            <Chinesesimp>Stratis赛车 (卡丁车)</Chinesesimp>
+            <Japanese>ストラティスのレース（Karts）</Japanese>
+          </Key>
+          <Key ID="STR_A3_MP_ZR_8_Karts02_briefingName">
+            <Original>Zeus 8+1 Race on Stratis (Karts)</Original>
+            <Chinese>宙斯 8+1 Stratis賽車 (卡丁車)</Chinese>
+            <French>Zeus 8+1 Course sur Stratis (Karts)</French>
+            <Spanish>Zeus 8+1 Carrera en Stratis (Karts)</Spanish>
+            <Italian>Zeus 8+1 gara su Stratis (Karts)</Italian>
+            <Polish>Zeus 8+1 Wyścig na Stratis (Karts)</Polish>
+            <Russian>Zeus 8+1 Гонка на Stratis (Karts)</Russian>
+            <German>Zeus 8+1 Rennen am Stratis (Karts)</German>
+            <Czech>Zeus 8+1 Závod na Stratisu (Karts)</Czech>
+            <English>Zeus 8+1 Race on Stratis (Karts)</English>
+            <Portuguese>Zeus 8+1 Corrida no Stratis (Karts)</Portuguese>
+            <Korean>스트라티스 Zeus 8+1 레이스(Karts)</Korean>
+            <Chinesesimp>宙斯 8+1 Stratis赛车 (卡丁车)</Chinesesimp>
+            <Japanese>ストラティスのZeus 8＋ 1レース（Karts）</Japanese>
+          </Key>
+        </Container>
+      </Container>
+    </Container>
+  </Package>
+</Project>

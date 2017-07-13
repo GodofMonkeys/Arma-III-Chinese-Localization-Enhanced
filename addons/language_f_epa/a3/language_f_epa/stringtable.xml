@@ -1,0 +1,1745 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><Project name="Arma3">
+  <Package name="Language_EPA">
+    <Container name="Structures_F">
+      <Key ID="STR_A3_tree_stump">
+        <Original>Tree stump</Original>
+        <Chinese>樹樁</Chinese>
+        <French>Souche d'arbre</French>
+        <Spanish>Tocón</Spanish>
+        <Italian>Ceppo di albero</Italian>
+        <Polish>Pniak</Polish>
+        <Russian>Пень</Russian>
+        <German>Baumstumpf</German>
+        <Czech>Pařez</Czech>
+        <English>Tree stump</English>
+        <Portuguese>Toco de árvore</Portuguese>
+        <Korean>나무 그루터기</Korean>
+        <Chinesesimp>树桩</Chinesesimp>
+        <Japanese>切り株</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_scrap_mrap_01_f0">
+        <Original>Decommissioned Hunter</Original>
+        <Chinese>除役Hunter</Chinese>
+        <French>Hunter hors service</French>
+        <Spanish>Cazador de baja</Spanish>
+        <Italian>Hunter disattivato</Italian>
+        <Polish>Uszkodzony Hunter</Polish>
+        <Russian>Списанный Hunter</Russian>
+        <German>Stillgelegter Hunter</German>
+        <Czech>Vyřazený Hunter</Czech>
+        <English>Decommissioned Hunter</English>
+        <Portuguese>Caça desativado</Portuguese>
+        <Korean>해체된 헌터</Korean>
+        <Chinesesimp>除役Hunter</Chinesesimp>
+        <Japanese>廃棄されたハンター</Japanese>
+      </Key>
+      <Key ID="STR_A3_metal_ramp">
+        <Original>Metal ramp</Original>
+        <Chinese>金屬坡道</Chinese>
+        <French>Rampe en métal</French>
+        <Spanish>Rampa metálica</Spanish>
+        <Italian>Rampa di metallo</Italian>
+        <Polish>Metalowa rampa</Polish>
+        <Russian>Металлическая платформа</Russian>
+        <German>Metallrampe</German>
+        <Czech>Kovová rampa</Czech>
+        <English>Metal ramp</English>
+        <Portuguese>Rampa de metal</Portuguese>
+        <Korean>금속제 경사로</Korean>
+        <Chinesesimp>金属坡道</Chinesesimp>
+        <Japanese>金属製斜面</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_scrapheap_2_f0">
+        <Original>Vehicle Scrap</Original>
+        <Chinese>報廢載具</Chinese>
+        <French>Casse de véhicules</French>
+        <Spanish>Chatarra de vehículo</Spanish>
+        <Italian>Scarto di veicolo</Italian>
+        <Polish>Szczątki pojazdu</Polish>
+        <Russian>Обломки машин</Russian>
+        <German>Fahrzeugschrott</German>
+        <Czech>Vrak vozidla</Czech>
+        <English>Vehicle Scrap</English>
+        <Portuguese>Sucata de veículo</Portuguese>
+        <Korean>고철 차량</Korean>
+        <Chinesesimp>报废载具</Chinesesimp>
+        <Japanese>車両スクラップ</Japanese>
+      </Key>
+      <Key ID="STR_A3_wooden_table_small">
+        <Original>Wooden table (Small)</Original>
+        <Chinese>木桌 (小型)</Chinese>
+        <French>Table en bois (petite)</French>
+        <Spanish>Mesa de madera (pequeña)</Spanish>
+        <Italian>Tavolo di legno (piccolo)</Italian>
+        <Polish>Drewniany stół (mały)</Polish>
+        <Russian>Деревянный стол (малый)</Russian>
+        <German>Holztisch (klein)</German>
+        <Czech>Dřevěný stůl (malý)</Czech>
+        <English>Wooden table (Small)</English>
+        <Portuguese>Mesa de madeira (pequena)</Portuguese>
+        <Korean>목제 탁자(소형)</Korean>
+        <Chinesesimp>木桌 (小型)</Chinesesimp>
+        <Japanese>木製テーブル（小）</Japanese>
+      </Key>
+      <Key ID="STR_A3_crater">
+        <Original>Crater</Original>
+        <Chinese>彈坑</Chinese>
+        <French>Cratère</French>
+        <Spanish>Cráter</Spanish>
+        <Italian>Cratere</Italian>
+        <Polish>Krater</Polish>
+        <Russian>Воронка</Russian>
+        <German>Krater</German>
+        <Czech>Kráter</Czech>
+        <English>Crater</English>
+        <Portuguese>Cratera</Portuguese>
+        <Korean>크레이터</Korean>
+        <Chinesesimp>弹坑</Chinesesimp>
+        <Japanese>クレーター</Japanese>
+      </Key>
+      <Key ID="STR_A3_wooden_table_large">
+        <Original>Wooden table (Large)</Original>
+        <Chinese>木桌 (大型)</Chinese>
+        <French>Table en bois (grande)</French>
+        <Spanish>Mesa de madera (grande)</Spanish>
+        <Italian>Tavolo di legno (grande)</Italian>
+        <Polish>Drewniany stół (duży)</Polish>
+        <Russian>Деревянный стол (большой)</Russian>
+        <German>Holztisch (groß)</German>
+        <Czech>Dřevěný stůl (velký)</Czech>
+        <English>Wooden table (Large)</English>
+        <Portuguese>Mesa de madeira (grande)</Portuguese>
+        <Korean>목제 탁자(대형)</Korean>
+        <Chinesesimp>木桌 (大型)</Chinesesimp>
+        <Japanese>木製テーブル（大）</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_scrapheap_1_f0">
+        <Original>Vehicle Parts</Original>
+        <Chinese>載具零件</Chinese>
+        <French>Pièces de véhicules</French>
+        <Spanish>Partes de vehículo</Spanish>
+        <Italian>Parti di veicolo</Italian>
+        <Polish>Części pojazdu</Polish>
+        <Russian>Части машин</Russian>
+        <German>Fahrzeugteile</German>
+        <Czech>Díly vozidla</Czech>
+        <English>Vehicle Parts</English>
+        <Portuguese>Peças de veículo</Portuguese>
+        <Korean>차량 부품</Korean>
+        <Chinesesimp>载具零件</Chinesesimp>
+        <Japanese>車両パーツ</Japanese>
+      </Key>
+      <Key ID="STR_A3_wooden_log">
+        <Original>Wooden log</Original>
+        <Chinese>木質日誌</Chinese>
+        <French>Rondin</French>
+        <Spanish>Tronco de madera</Spanish>
+        <Italian>Ciocco di legno</Italian>
+        <Polish>Drewniany bal</Polish>
+        <Russian>Бревно</Russian>
+        <German>Holzklotz</German>
+        <Czech>Kláda</Czech>
+        <English>Wooden log</English>
+        <Portuguese>Lenha</Portuguese>
+        <Korean>통나무</Korean>
+        <Chinesesimp>木质日志</Chinesesimp>
+        <Japanese>丸太</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_paperbox_open_full_f0">
+        <Original>Box (Open, Full)</Original>
+        <Chinese>箱子 (開啟, 滿)</Chinese>
+        <French>Caisse (ouverte, pleine)</French>
+        <Spanish>Caja (abierta, llena)</Spanish>
+        <Italian>Scatola (aperta, piena)</Italian>
+        <Polish>Pudełko (otwarte, pełne)</Polish>
+        <Russian>Ящик (открытый, полный)</Russian>
+        <German>Kiste (offen, voll)</German>
+        <Czech>Krabice (otevřená, plná)</Czech>
+        <English>Box (Open, Full)</English>
+        <Portuguese>Caixa (aberta, cheia)</Portuguese>
+        <Korean>상자(열림, 꽉 참)</Korean>
+        <Chinesesimp>箱子 (开启, 满)</Chinesesimp>
+        <Japanese>箱（開、一杯）</Japanese>
+      </Key>
+      <Key ID="STR_A3_water_purification_tablets">
+        <Original>Water purification tablets</Original>
+        <Chinese>淨水藥片</Chinese>
+        <French>Tablettes de potabilisation</French>
+        <Spanish>Pastillas para purificar agua</Spanish>
+        <Italian>Pastiglie per purificare l'acqua</Italian>
+        <Polish>Tabletki do oczyszczania wody</Polish>
+        <Russian>Таблетки для очистки воды</Russian>
+        <German>Wasserpurifikationstabletten</German>
+        <Czech>Tablety na čištění vody</Czech>
+        <English>Water purification tablets</English>
+        <Portuguese>Pastilhas de purificação de água</Portuguese>
+        <Korean>정수용정제</Korean>
+        <Chinesesimp>净水药片</Chinesesimp>
+        <Japanese>浄水剤</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_paperbox_open_empty_f0">
+        <Original>Box (Open, Empty)</Original>
+        <Chinese>箱子 (開啟, 空)</Chinese>
+        <French>Caisse (ouverte, vide)</French>
+        <Spanish>Caja (abierta, vacía)</Spanish>
+        <Italian>Scatola (aperta, vuota)</Italian>
+        <Polish>Pudełko (otwarte, puste)</Polish>
+        <Russian>Ящик (открытый, пустой)</Russian>
+        <German>Kiste (offen, leer)</German>
+        <Czech>Krabice (otevřená, prázdná)</Czech>
+        <English>Box (Open, Empty)</English>
+        <Portuguese>Caixa (aberta, vazia)</Portuguese>
+        <Korean>상자(열림, 비어있음)</Korean>
+        <Chinesesimp>箱子 (开启, 空)</Chinesesimp>
+        <Japanese>箱（開、空）</Japanese>
+      </Key>
+      <Key ID="STR_A3_water_bottle">
+        <Original>Water bottle</Original>
+        <Chinese>水瓶</Chinese>
+        <French>Bouteille d'eau</French>
+        <Spanish>Botella de agua</Spanish>
+        <Italian>Bottiglia d'acqua</Italian>
+        <Polish>Butelka z wodą</Polish>
+        <Russian>Бутылка с водой</Russian>
+        <German>Wasserflasche</German>
+        <Czech>Láhev s vodou</Czech>
+        <English>Water bottle</English>
+        <Portuguese>Garrafa d'água</Portuguese>
+        <Korean>물병</Korean>
+        <Chinesesimp>水瓶</Chinesesimp>
+        <Japanese>水のボトル</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_paperbox_closed_f0">
+        <Original>Box (Closed)</Original>
+        <Chinese>箱子 (關閉)</Chinese>
+        <French>Caisse (fermée)</French>
+        <Spanish>Caja (cerrada)</Spanish>
+        <Italian>Scatola (chiusa)</Italian>
+        <Polish>Pudełko (zamknięte)</Polish>
+        <Russian>Ящик (закрытый)</Russian>
+        <German>Kiste (geschlossen)</German>
+        <Czech>Krabice (neotevřená)</Czech>
+        <English>Box (Closed)</English>
+        <Portuguese>Caixa (fechada)</Portuguese>
+        <Korean>상자(닫힘)</Korean>
+        <Chinesesimp>箱子 (关闭)</Chinesesimp>
+        <Japanese>箱（閉）</Japanese>
+      </Key>
+      <Key ID="STR_A3_vitamin_bottle">
+        <Original>Vitamin bottle</Original>
+        <Chinese>維生素瓶</Chinese>
+        <French>Flacon de vitamines</French>
+        <Spanish>Frasco de vitaminas</Spanish>
+        <Italian>Vitamine</Italian>
+        <Polish>Butelka z witaminami</Polish>
+        <Russian>Бутылек с витаминами</Russian>
+        <German>Vitaminfläschchen</German>
+        <Czech>Nádoba s vitamíny</Czech>
+        <English>Vitamin bottle</English>
+        <Portuguese>Garrafa de vitamina</Portuguese>
+        <Korean>비타민병</Korean>
+        <Chinesesimp>维生素瓶</Chinesesimp>
+        <Japanese>ビタミンボトル</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_pallets_stack_f0">
+        <Original>Stack of Pallets</Original>
+        <Chinese>堆疊貨盤</Chinese>
+        <French>Tas de palettes</French>
+        <Spanish>Montones de palés</Spanish>
+        <Italian>Pila di pallet</Italian>
+        <Polish>Stos palet</Polish>
+        <Russian>Стопка поддонов</Russian>
+        <German>Palettenstapel</German>
+        <Czech>Štos palet</Czech>
+        <English>Stack of Pallets</English>
+        <Portuguese>Pilha de páletes</Portuguese>
+        <Korean>화물운반대 더미</Korean>
+        <Chinesesimp>堆叠货盘</Chinesesimp>
+        <Japanese>大量のパレット</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_pallet_milboxes_f0">
+        <Original>Pallet (Military Boxes)</Original>
+        <Chinese>貨盤 (軍用箱)</Chinese>
+        <French>Palette (caisses militaires)</French>
+        <Spanish>Palé (cajas militares)</Spanish>
+        <Italian>Pallet (scatole militari)</Italian>
+        <Polish>Paleta (pudełka wojskowe)</Polish>
+        <Russian>Поддон (армейские ящики)</Russian>
+        <German>Palette (Militärkisten)</German>
+        <Czech>Paleta (vojenské bedny)</Czech>
+        <English>Pallet (Military Boxes)</English>
+        <Portuguese>Pálete (caixas militares)</Portuguese>
+        <Korean>화물운반대(군용상자)</Korean>
+        <Chinesesimp>货盘 (军用箱)</Chinesesimp>
+        <Japanese>パレット（ミリタリーボックス）</Japanese>
+      </Key>
+      <Key ID="STR_A3_tin_container">
+        <Original>Tin container</Original>
+        <Chinese>錫罐</Chinese>
+        <French>Conserve</French>
+        <Spanish>Contenedor (lata)</Spanish>
+        <Italian>Contenitore di latta</Italian>
+        <Polish>Blaszany pojemnik</Polish>
+        <Russian>Жестяная коробка</Russian>
+        <German>Blechbehälter</German>
+        <Czech>Plechová nádoba</Czech>
+        <English>Tin container</English>
+        <Portuguese>Lata</Portuguese>
+        <Korean>주석 용기</Korean>
+        <Chinesesimp>锡罐</Chinesesimp>
+        <Japanese>スズ製容器</Japanese>
+      </Key>
+      <Key ID="STR_A3_antibiotics">
+        <Original>Antibiotics</Original>
+        <Chinese>抗生素</Chinese>
+        <French>Antibiotiques</French>
+        <Spanish>Antibióticos</Spanish>
+        <Italian>Antibiotici</Italian>
+        <Polish>Antybiotyki</Polish>
+        <Russian>Антибиотики</Russian>
+        <German>Antibiotika</German>
+        <Czech>Antibiotika</Czech>
+        <English>Antibiotics</English>
+        <Portuguese>Antibióticos</Portuguese>
+        <Korean>항생제</Korean>
+        <Chinesesimp>抗生素</Chinesesimp>
+        <Japanese>抗生物質</Japanese>
+      </Key>
+      <Key ID="STR_A3_shovel">
+        <Original>Shovel</Original>
+        <Chinese>鏟子</Chinese>
+        <French>Pelle</French>
+        <Spanish>Pala</Spanish>
+        <Italian>Pala</Italian>
+        <Polish>Łopata</Polish>
+        <Russian>Лопата</Russian>
+        <German>Schaufel</German>
+        <Czech>Lopata</Czech>
+        <English>Shovel</English>
+        <Portuguese>Pá</Portuguese>
+        <Korean>삽</Korean>
+        <Chinesesimp>铲子</Chinesesimp>
+        <Japanese>シャベル</Japanese>
+      </Key>
+      <Key ID="STR_A3_baked_beens">
+        <Original>Baked Beans</Original>
+        <Chinese>焗豆</Chinese>
+        <French>Fayots</French>
+        <Spanish>Judías en lata</Spanish>
+        <Italian>Fagioli in umido</Italian>
+        <Polish>Gotowana fasola</Polish>
+        <Russian>Тушеные бобы</Russian>
+        <German>Gebackene Bohnen</German>
+        <Czech>Smažené fazole</Czech>
+        <English>Baked Beans</English>
+        <Portuguese>Feijão cozido</Portuguese>
+        <Korean>구운콩</Korean>
+        <Chinesesimp>焗豆</Chinesesimp>
+        <Japanese>ベイクドビーンズ</Japanese>
+      </Key>
+      <Key ID="STR_A3_rice">
+        <Original>Rice</Original>
+        <Chinese>米飯</Chinese>
+        <French>Riz</French>
+        <Spanish>Arroz</Spanish>
+        <Italian>Riso</Italian>
+        <Polish>Ryż</Polish>
+        <Russian>Рис</Russian>
+        <German>Reis</German>
+        <Czech>Rýže</Czech>
+        <English>Rice</English>
+        <Portuguese>Arroz</Portuguese>
+        <Korean>쌀</Korean>
+        <Chinesesimp>米饭</Chinesesimp>
+        <Japanese>米</Japanese>
+      </Key>
+      <Key ID="STR_A3_bandages">
+        <Original>Bandages</Original>
+        <Chinese>繃帶</Chinese>
+        <French>Bandages</French>
+        <Spanish>Vendas</Spanish>
+        <Italian>Bende</Italian>
+        <Polish>Bandaże</Polish>
+        <Russian>Бинты</Russian>
+        <German>Bandagen</German>
+        <Czech>Obvazy</Czech>
+        <English>Bandages</English>
+        <Portuguese>Ataduras</Portuguese>
+        <Korean>붕대</Korean>
+        <Chinesesimp>绷带</Chinesesimp>
+        <Japanese>包帯</Japanese>
+      </Key>
+      <Key ID="STR_A3_powdered_milk">
+        <Original>Powdered milk</Original>
+        <Chinese>奶粉</Chinese>
+        <French>Lait en poudre</French>
+        <Spanish>Leche en polvo</Spanish>
+        <Italian>Latte in polvere</Italian>
+        <Polish>Mleko w proszku</Polish>
+        <Russian>Сухое молоко</Russian>
+        <German>Milchpulver</German>
+        <Czech>Sušené mléko</Czech>
+        <English>Powdered milk</English>
+        <Portuguese>Leite em pó</Portuguese>
+        <Korean>분유</Korean>
+        <Chinesesimp>奶粉</Chinesesimp>
+        <Japanese>粉ミルク</Japanese>
+      </Key>
+      <Key ID="STR_A3_broken_tree">
+        <Original>Broken tree</Original>
+        <Chinese>斷掉的樹</Chinese>
+        <French>Arbre mort</French>
+        <Spanish>Árbol roto</Spanish>
+        <Italian>Albero rotto</Italian>
+        <Polish>Złamane drzewo</Polish>
+        <Russian>Сломанное дерево</Russian>
+        <German>Beschädigter Baum</German>
+        <Czech>Poničený strom</Czech>
+        <English>Broken tree</English>
+        <Portuguese>Árvore caída</Portuguese>
+        <Korean>부러진 나무</Korean>
+        <Chinesesimp>断掉的树</Chinesesimp>
+        <Japanese>折れた木</Japanese>
+      </Key>
+      <Key ID="STR_A3_portable_lights_single">
+        <Original>Portable Lights (Single)</Original>
+        <Chinese>手提燈 (單)</Chinese>
+        <French>Projecteur sur pied (simple)</French>
+        <Spanish>Luces portátiles (sencillas)</Spanish>
+        <Italian>Luci portatili (singola)</Italian>
+        <Polish>Oświetlenie przenośne (pojedyncze)</Polish>
+        <Russian>Переносной фонарь (одиночный)</Russian>
+        <German>Tragbares Licht (einzeln)</German>
+        <Czech>Přenosná světla (jednoduchá)</Czech>
+        <English>Portable Lights (Single)</English>
+        <Portuguese>Luz portátil (única)</Portuguese>
+        <Korean>휴대용 전등(단일)</Korean>
+        <Chinesesimp>手提灯 (单)</Chinesesimp>
+        <Japanese>携帯ライト（シングル）</Japanese>
+      </Key>
+      <Key ID="STR_A3_batteries">
+        <Original>Battery</Original>
+        <Chinese>電池</Chinese>
+        <French>Pile</French>
+        <Spanish>Batería</Spanish>
+        <Italian>Batteria</Italian>
+        <Polish>Bateria</Polish>
+        <Russian>Батарея</Russian>
+        <German>Batterie</German>
+        <Czech>Baterie</Czech>
+        <English>Battery</English>
+        <Portuguese>Bateria</Portuguese>
+        <Korean>전지</Korean>
+        <Chinesesimp>电池</Chinesesimp>
+        <Japanese>バッテリー</Japanese>
+      </Key>
+      <Key ID="STR_A3_portable_lights_double">
+        <Original>Portable Lights (Double)</Original>
+        <Chinese>手提燈 (雙)</Chinese>
+        <French>Projecteur sur pied (double)</French>
+        <Spanish>Luces portátiles (dobles)</Spanish>
+        <Italian>Luci portatili (doppie)</Italian>
+        <Polish>Oświetlenie przenośne (podwójne)</Polish>
+        <Russian>Переносной фонарь (двойной)</Russian>
+        <German>Tragbares Licht (doppelt)</German>
+        <Czech>Přenosná světla (dvojitá)</Czech>
+        <English>Portable Lights (Double)</English>
+        <Portuguese>Luzes portáteis (duplas)</Portuguese>
+        <Korean>휴대용 전등(이중)</Korean>
+        <Chinesesimp>手提灯 (双)</Chinesesimp>
+        <Japanese>携帯ライト（ダブル）</Japanese>
+      </Key>
+      <Key ID="STR_A3_blood_bag">
+        <Original>Blood bag</Original>
+        <Chinese>血袋</Chinese>
+        <French>Poche de sang</French>
+        <Spanish>Bolsa de sangre</Spanish>
+        <Italian>Sacca di sangue</Italian>
+        <Polish>Woreczek z krwią</Polish>
+        <Russian>Пакет с кровью</Russian>
+        <German>Blutbeutel</German>
+        <Czech>Krevní vak</Czech>
+        <English>Blood bag</English>
+        <Portuguese>Saco de sangue</Portuguese>
+        <Korean>혈액주머니</Korean>
+        <Chinesesimp>血袋</Chinesesimp>
+        <Japanese>血液バッグ</Japanese>
+      </Key>
+      <Key ID="STR_A3_pain_killers">
+        <Original>Pain killers</Original>
+        <Chinese>止痛藥</Chinese>
+        <French>Analgésiques</French>
+        <Spanish>Analgésicos</Spanish>
+        <Italian>Antidolorifici</Italian>
+        <Polish>Środki przeciwbólowe</Polish>
+        <Russian>Болеутоляющее</Russian>
+        <German>Schmerztabellen</German>
+        <Czech>Léky proti bolesti</Czech>
+        <English>Pain killers</English>
+        <Portuguese>Analgésicos</Portuguese>
+        <Korean>진통제</Korean>
+        <Chinesesimp>止痛药</Chinesesimp>
+        <Japanese>鎮痛剤</Japanese>
+      </Key>
+      <Key ID="STR_A3_box_of_matches">
+        <Original>Box of matches</Original>
+        <Chinese>火柴盒</Chinese>
+        <French>Boîte d'allumettes</French>
+        <Spanish>Caja de cerillas</Spanish>
+        <Italian>Scatola di fiammiferi</Italian>
+        <Polish>Pudełko zapałek</Polish>
+        <Russian>Коробок спичек</Russian>
+        <German>Streichholzschachtel</German>
+        <Czech>Krabička zápalek</Czech>
+        <English>Box of matches</English>
+        <Portuguese>Caixa de fósforos</Portuguese>
+        <Korean>성냥갑</Korean>
+        <Chinesesimp>火柴盒</Chinesesimp>
+        <Japanese>マッチ箱</Japanese>
+      </Key>
+      <Key ID="STR_A3_metal_wire">
+        <Original>Metal wire</Original>
+        <Chinese>金屬線</Chinese>
+        <French>Câble métallique</French>
+        <Spanish>Alambre de metal</Spanish>
+        <Italian>Filo metallico</Italian>
+        <Polish>Metalowy drut</Polish>
+        <Russian>Металлическая проволока</Russian>
+        <German>Metalldraht</German>
+        <Czech>Kovový drát</Czech>
+        <English>Metal wire</English>
+        <Portuguese>Fio de metal</Portuguese>
+        <Korean>금속 와이어</Korean>
+        <Chinesesimp>金属线</Chinesesimp>
+        <Japanese>金属線</Japanese>
+      </Key>
+      <Key ID="STR_A3_butane_canister">
+        <Original>Butane canister</Original>
+        <Chinese>丁烷罐</Chinese>
+        <French>Bonbonne de butane</French>
+        <Spanish>Lata de butano</Spanish>
+        <Italian>Latta di butano</Italian>
+        <Polish>Zbiornik z butanem</Polish>
+        <Russian>Баллон с бутаном</Russian>
+        <German>Butan-Kanister</German>
+        <Czech>Láhev s butanem</Czech>
+        <English>Butane canister</English>
+        <Portuguese>Lata de butano (óleo)</Portuguese>
+        <Korean>부탄가스통</Korean>
+        <Chinesesimp>丁烷罐</Chinesesimp>
+        <Japanese>ブタン缶</Japanese>
+      </Key>
+      <Key ID="STR_A3_cfgvehicles_invisible_wall">
+        <Original>Invisible Wall</Original>
+        <Chinese>隱形牆</Chinese>
+        <French>Mur invisible</French>
+        <Spanish>Pared invisible</Spanish>
+        <Italian>Parete invisibile</Italian>
+        <Polish>Niewidoczny Mur</Polish>
+        <Russian>Невидимая стена</Russian>
+        <German>Unsichtbare Wand</German>
+        <Czech>Neviditelná zeď</Czech>
+        <English>Invisible Wall</English>
+        <Portuguese>Parede Invisível</Portuguese>
+        <Korean>보이지 않는 벽</Korean>
+        <Chinesesimp>隐形墙</Chinesesimp>
+        <Japanese>見えない壁</Japanese>
+      </Key>
+      <Key ID="STR_A3_heatpack">
+        <Original>Heatpack</Original>
+        <Chinese>暖暖包</Chinese>
+        <French>Couverture de survie</French>
+        <Spanish>Calentador</Spanish>
+        <Italian>Sacca termica</Italian>
+        <Polish>Podgrzewacz</Polish>
+        <Russian>Термопакет</Russian>
+        <German>Hitzepack</German>
+        <Czech>Ohřívací balíček</Czech>
+        <English>Heatpack</English>
+        <Portuguese>Bolsa térmica</Portuguese>
+        <Korean>발열팩</Korean>
+        <Chinesesimp>暖暖包</Chinesesimp>
+        <Japanese>カイロ</Japanese>
+      </Key>
+      <Key ID="STR_A3_butane_torch">
+        <Original>Butane torch</Original>
+        <Chinese>丁烷噴槍</Chinese>
+        <French>Chalumeau au butane</French>
+        <Spanish>Linterna de butano</Spanish>
+        <Italian>Torcia al butano</Italian>
+        <Polish>Palnik butanowy</Polish>
+        <Russian>Бутановая горелка</Russian>
+        <German>Butan-Fackel</German>
+        <Czech>Butanová letlampa</Czech>
+        <English>Butane torch</English>
+        <Portuguese>Tocha de butano</Portuguese>
+        <Korean>부탄가스 토치</Korean>
+        <Chinesesimp>丁烷喷枪</Chinesesimp>
+        <Japanese>ブタントーチ</Japanese>
+      </Key>
+      <Key ID="STR_A3_gas_cooker">
+        <Original>Gas cooker</Original>
+        <Chinese>瓦斯爐</Chinese>
+        <French>Réchaud à gaz</French>
+        <Spanish>Cocina de gas</Spanish>
+        <Italian>Cucina a gas</Italian>
+        <Polish>Kuchenka gazowa</Polish>
+        <Russian>Газовая плита</Russian>
+        <German>Gaskocher</German>
+        <Czech>Plynový vařič</Czech>
+        <English>Gas cooker</English>
+        <Portuguese>Fogão a gás</Portuguese>
+        <Korean>가스레인지</Korean>
+        <Chinesesimp>瓦斯炉</Chinesesimp>
+        <Japanese>ガスオーブン</Japanese>
+      </Key>
+      <Key ID="STR_A3_can_opener">
+        <Original>Can opener</Original>
+        <Chinese>開罐器</Chinese>
+        <French>Ouvre-boîte</French>
+        <Spanish>Abrelatas</Spanish>
+        <Italian>Apriscatole</Italian>
+        <Polish>Otwieracz do puszek</Polish>
+        <Russian>Консервный нож</Russian>
+        <German>Dosenöffner</German>
+        <Czech>Otvírák</Czech>
+        <English>Can opener</English>
+        <Portuguese>Abridor de lata</Portuguese>
+        <Korean>병따개</Korean>
+        <Chinesesimp>开罐器</Chinesesimp>
+        <Japanese>缶切り</Japanese>
+      </Key>
+      <Key ID="STR_A3_gas_canister">
+        <Original>Gas canister</Original>
+        <Chinese>瓦斯罐</Chinese>
+        <French>Bonbonne de gaz</French>
+        <Spanish>Lata de gas</Spanish>
+        <Italian>Latta di gas</Italian>
+        <Polish>Zbiornik z gazem</Polish>
+        <Russian>Баллон с газом</Russian>
+        <German>Gaskanister</German>
+        <Czech>Plynová láhev</Czech>
+        <English>Gas canister</English>
+        <Portuguese>Lata de gás</Portuguese>
+        <Korean>가스통</Korean>
+        <Chinesesimp>瓦斯罐</Chinesesimp>
+        <Japanese>ガスボンベ</Japanese>
+      </Key>
+      <Key ID="STR_A3_canteen">
+        <Original>Canteen</Original>
+        <Chinese>水壺</Chinese>
+        <French>Gourde</French>
+        <Spanish>Cantina</Spanish>
+        <Italian>Mensa</Italian>
+        <Polish>Menażka</Polish>
+        <Russian>Фляжка</Russian>
+        <German>Feldflasche</German>
+        <Czech>Láhev na pití</Czech>
+        <English>Canteen</English>
+        <Portuguese>Cantil</Portuguese>
+        <Korean>수통</Korean>
+        <Chinesesimp>水壶</Chinesesimp>
+        <Japanese>食堂</Japanese>
+      </Key>
+      <Key ID="STR_A3_fire_extinguisher">
+        <Original>Fire extinguisher</Original>
+        <Chinese>滅火器</Chinese>
+        <French>Extincteur</French>
+        <Spanish>Extintor</Spanish>
+        <Italian>Estintore</Italian>
+        <Polish>Gaśnica</Polish>
+        <Russian>Огнетушитель</Russian>
+        <German>Feuerlöscher</German>
+        <Czech>Hasicí přístroj</Czech>
+        <English>Fire extinguisher</English>
+        <Portuguese>Extintor de incêndio</Portuguese>
+        <Korean>소화기</Korean>
+        <Chinesesimp>灭火器</Chinesesimp>
+        <Japanese>消火器</Japanese>
+      </Key>
+      <Key ID="STR_A3_cereal_box">
+        <Original>Cereal box</Original>
+        <Chinese>麥片盒</Chinese>
+        <French>Boîte de céréales</French>
+        <Spanish>Caja de cereales</Spanish>
+        <Italian>Scatola di cereali</Italian>
+        <Polish>Opakowanie płatków</Polish>
+        <Russian>Коробка с хлопьями</Russian>
+        <German>Zerealienschachtel</German>
+        <Czech>Balení cereálií</Czech>
+        <English>Cereal box</English>
+        <Portuguese>Caixa de cereal</Portuguese>
+        <Korean>시리얼 상자</Korean>
+        <Chinesesimp>麦片盒</Chinesesimp>
+        <Japanese>シリアルボックス</Japanese>
+      </Key>
+      <Key ID="STR_A3_duct_tape">
+        <Original>Duct tape</Original>
+        <Chinese>膠帶</Chinese>
+        <French>Ruban adhésif</French>
+        <Spanish>Cinta adhesiva</Spanish>
+        <Italian>Nastro adesivo</Italian>
+        <Polish>Taśma klejąca</Polish>
+        <Russian>Клейкая лента</Russian>
+        <German>Klebeband</German>
+        <Czech>Izolační páska</Czech>
+        <English>Duct tape</English>
+        <Portuguese>Fita isolante</Portuguese>
+        <Korean>배관용 테이프</Korean>
+        <Chinesesimp>胶带</Chinesesimp>
+        <Japanese>ダクトテープ</Japanese>
+      </Key>
+      <Key ID="STR_A3_defibrillator">
+        <Original>Defibrillator</Original>
+        <Chinese>除顫器</Chinese>
+        <French>Défibrillateur</French>
+        <Spanish>Desfibrilador</Spanish>
+        <Italian>Defibrillatore</Italian>
+        <Polish>Defibrylator</Polish>
+        <Russian>Дефибрилятор</Russian>
+        <German>Defibrillator</German>
+        <Czech>Defibrilátor</Czech>
+        <English>Defibrillator</English>
+        <Portuguese>Desfibrilador</Portuguese>
+        <Korean>제세동기</Korean>
+        <Chinesesimp>除颤器</Chinesesimp>
+        <Japanese>除細動器</Japanese>
+      </Key>
+      <Key ID="STR_A3_disinfectant_spray">
+        <Original>Disinfectant spray</Original>
+        <Chinese>消毒噴罐</Chinese>
+        <French>Désinfectant en spray</French>
+        <Spanish>Espray desinfectante</Spanish>
+        <Italian>Spray disinfettante</Italian>
+        <Polish>Spray do dezynfekcji</Polish>
+        <Russian>Дезинфицирующий спрей</Russian>
+        <German>Desinfektionsspray</German>
+        <Czech>Dezinfekční sprej</Czech>
+        <English>Disinfectant spray</English>
+        <Portuguese>Spray desinfetante</Portuguese>
+        <Korean>소독스프레이</Korean>
+        <Chinesesimp>消毒喷罐</Chinesesimp>
+        <Japanese>消毒スプレー</Japanese>
+      </Key>
+    </Container>
+    <Container name="Characters_F">
+      <Key ID="str_a3_v_platecarrierl_ctrg0">
+        <Original>CTRG Plate Carrier Rig Mk.1 (Light)</Original>
+        <Chinese>第一型戰研小組大容量胸掛背心 (輕型)</Chinese>
+        <French>Gilet modulable à plaque CTRG Mk.1 (léger)</French>
+        <Spanish>Transporte de placas CTRG Mk.1 (ligero)</Spanish>
+        <Italian>Giubbino CTRG 1 (leggero)</Italian>
+        <Polish>Kamizelka CTRG Mk.1 (lekka)</Polish>
+        <Russian>Бронежилет CTRG, мод. 1 (легкий)</Russian>
+        <German>CTRG-Platten-Tragegurt Mk.1 (leicht)</German>
+        <Czech>CTRG Nosič plátů Mk. 1 (lehký)</Czech>
+        <English>CTRG Plate Carrier Rig Mk.1 (Light)</English>
+        <Portuguese>Colete à prova de balas do CTRG Mk.1 (leve)</Portuguese>
+        <Korean>CTRG 플레이트 캐리어 리그 Mk.1(경)</Korean>
+        <Chinesesimp>第一型战研小组大容量胸挂背心 (轻型)</Chinesesimp>
+        <Japanese>CTRGプレートキャリアリグMk.1（ライト）</Japanese>
+      </Key>
+      <Key ID="str_a3_v_platecarrier1_rgr_v_platecarrier_kerry0">
+        <Original>US Plate Carrier Rig (Kerry)</Original>
+        <Chinese>美軍大容量胸掛背心 (Kerry)</Chinese>
+        <French>Gilet modulable léger à plaque US (Kerry)</French>
+        <Spanish>Transporte con matrícula de EE.UU. (Kerry)</Spanish>
+        <Italian>Giubbino USA (Kerry)</Italian>
+        <Polish>Kamizelka taktyczna USA (Kerry)</Polish>
+        <Russian>Амер. бронежилет (Керри)</Russian>
+        <German>US-Platten-Tragegurt (Kerry)</German>
+        <Czech>US nosič plátů (Kerry)</Czech>
+        <English>US Plate Carrier Rig (Kerry)</English>
+        <Portuguese>Colete à prova de balas dos EUA (Kerry)</Portuguese>
+        <Korean>US 플레이트 캐리어 리그(케리)</Korean>
+        <Chinesesimp>美军大容量胸挂背心 (Kerry)</Chinesesimp>
+        <Japanese>USプレートキャリアリグ（ケリー）</Japanese>
+      </Key>
+      <Key ID="str_a3_v_platecarrierh_ctrg0">
+        <Original>CTRG Plate Carrier Rig Mk.2 (Heavy)</Original>
+        <Chinese>第二型戰研小組大容量胸掛背心 (重型)</Chinese>
+        <French>Gilet modulable à plaque CTRG Mk.2 (lourd)</French>
+        <Spanish>Transporte de placas CTRG Mk.2 (pesado)</Spanish>
+        <Italian>Giubbino CTRG 2 (pesante)</Italian>
+        <Polish>Kamizelka CTRG Mk.2 (ciężka)</Polish>
+        <Russian>Бронежилет CTRG, мод. 2 (тяжелый)</Russian>
+        <German>CTRG-Platten-Tragegurt Mk.2 (schwer)</German>
+        <Czech>CTRG Nosič plátů Mk. 2 (těžký)</Czech>
+        <English>CTRG Plate Carrier Rig Mk.2 (Heavy)</English>
+        <Portuguese>Colete à prova de balas do CTRG Mk.2 (pesado)</Portuguese>
+        <Korean>CTRG 플레이트 캐리어 리그 Mk.2(중)</Korean>
+        <Chinesesimp>第二型战研小组大容量胸挂背心 (重型)</Chinesesimp>
+        <Japanese>CTRGプレートキャリアリグMk.2（ヘビー）</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_sand0">
+        <Original>Combat Helmet (Sand)</Original>
+        <Chinese>戰鬥頭盔 (沙色)</Chinese>
+        <French>Casque de combat (Sable)</French>
+        <Spanish>Casco de combate (arena)</Spanish>
+        <Italian>Elmetto da combattimento (sabbia)</Italian>
+        <Polish>Hełm bojowy (pisakowy)</Polish>
+        <Russian>Штурмовой шлем (песочный)</Russian>
+        <German>Kampfhelm (sandfarben)</German>
+        <Czech>Bojová přilba (písek)</Czech>
+        <English>Combat Helmet (Sand)</English>
+        <Portuguese>Capacete de combate (Areia)</Portuguese>
+        <Korean>전투 헬멧 (모래)</Korean>
+        <Chinesesimp>战斗头盔 (沙色)</Chinesesimp>
+        <Japanese>戦闘用ヘルメット（砂）</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_light_black_sand0">
+        <Original>Light Combat Helmet (Sand)</Original>
+        <Chinese>輕型戰鬥頭盔 (沙色)</Chinese>
+        <French>Casque léger de combat (Sable)</French>
+        <Spanish>Casco de combate ligero (arena)</Spanish>
+        <Italian>Elmetto da combattimento leggero (sabbia)</Italian>
+        <Polish>Lekki hełm bojowy (pisakowy)</Polish>
+        <Russian>Легкий штурмовой шлем (песочный)</Russian>
+        <German>Leichter Kampfhelm (sandfarben)</German>
+        <Czech>Lehká bojová přilba (písek)</Czech>
+        <English>Light Combat Helmet (Sand)</English>
+        <Portuguese>Capacete de combate leve (Areia)</Portuguese>
+        <Korean>경 전투 헬멧 (모래)</Korean>
+        <Chinesesimp>轻型战斗头盔 (沙色)</Chinesesimp>
+        <Japanese>軽量戦闘用ヘルメット（砂）</Japanese>
+      </Key>
+      <Key ID="STR_A3_survival_fatigues_F0">
+        <Original>Survival Fatigues</Original>
+        <Chinese>生存迷彩服</Chinese>
+        <French>Treillis de survie</French>
+        <Spanish>Ropa de supervivencia</Spanish>
+        <Italian>Fatiche di sopravvivenza</Italian>
+        <Polish>Mundur polowy</Polish>
+        <Russian>Одежда для выживания</Russian>
+        <German>Notfallmilitäranzug</German>
+        <Czech>Oděv pro přežití</Czech>
+        <English>Survival Fatigues</English>
+        <Portuguese>Uniformes de sobrevivência</Portuguese>
+        <Korean>생존복</Korean>
+        <Chinesesimp>生存迷彩服</Chinesesimp>
+        <Japanese>サバイバル服</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_light_snakeskin0">
+        <Original>Light Combat Helmet (Snakeskin)</Original>
+        <Chinese>輕型戰鬥頭盔 (蛇紋)</Chinese>
+        <French>Casque léger de combat (Peau de serpent)</French>
+        <Spanish>Casco de combate ligero (piel de serpiente)</Spanish>
+        <Italian>Elmetto da combattimento leggero (pelle di serpente)</Italian>
+        <Polish>Lekki hełm bojowy (skóra węża)</Polish>
+        <Russian>Легкий штурмовой шлем (змеиная кожа)</Russian>
+        <German>Leichter Kampfhelm (Schlangenhaut)</German>
+        <Czech>Lehká bojová přilba (hadí kůže)</Czech>
+        <English>Light Combat Helmet (Snakeskin)</English>
+        <Portuguese>Capacete de combate leve (Pele de cobra)</Portuguese>
+        <Korean>경 전투 헬멧 (스네이크스킨)</Korean>
+        <Chinesesimp>轻型战斗头盔 (蛇纹)</Chinesesimp>
+        <Japanese>軽量戦闘用ヘルメット（ヘビ皮）</Japanese>
+      </Key>
+      <Key ID="str_a3_b_ctrg_soldier_m_medic_f0">
+        <Original>James</Original>
+        <Chinese>James</Chinese>
+        <French>James</French>
+        <Spanish>James</Spanish>
+        <Italian>James</Italian>
+        <Polish>James</Polish>
+        <Russian>Джеймс</Russian>
+        <German>James</German>
+        <Czech>James</Czech>
+        <English>James</English>
+        <Portuguese>James</Portuguese>
+        <Korean>제임스</Korean>
+        <Chinesesimp>James</Chinesesimp>
+        <Japanese>ジェームズ</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_light_h_helmetb_light_grass0">
+        <Original>Light Combat Helmet (Grass)</Original>
+        <Chinese>輕型戰鬥頭盔 (草色)</Chinese>
+        <French>Casque léger de combat (Herbe)</French>
+        <Spanish>Casco de combate ligero (hierba)</Spanish>
+        <Italian>Elmetto da combattimento leggero (erba)</Italian>
+        <Polish>Lekki hełm bojowy (trawiasty)</Polish>
+        <Russian>Легкий штурмовой шлем (травяной)</Russian>
+        <German>Leichter Kampfhelm (Gras)</German>
+        <Czech>Lehká bojová přilba (tráva)</Czech>
+        <English>Light Combat Helmet (Grass)</English>
+        <Portuguese>Capacete de combate leve (Grama)</Portuguese>
+        <Korean>경 전투 헬멧 (그래스)</Korean>
+        <Chinesesimp>轻型战斗头盔 (草色)</Chinesesimp>
+        <Japanese>軽量戦闘用ヘルメット（草地）</Japanese>
+      </Key>
+      <Key ID="str_a3_b_assaultpack_kerry0">
+        <Original>US Assault Pack (Kerry)</Original>
+        <Chinese>美軍突擊背包 (Kerry)</Chinese>
+        <French>Paquetage d'assaut US (Kerry)</French>
+        <Spanish>Mochila de asalto de EE.UU. (Kerry)</Spanish>
+        <Italian>Zaino da assalto USA (Kerry)</Italian>
+        <Polish>Plecak szturmowy USA (Kerry)</Polish>
+        <Russian>Амер. штурмовой рюкзак (Керри)</Russian>
+        <German>US-Angriffspack (Kerry)</German>
+        <Czech>US průzkumnický batoh (Kerry)</Czech>
+        <English>US Assault Pack (Kerry)</English>
+        <Portuguese>Mochila de assalto dos EUA (Kerry)</Portuguese>
+        <Korean>US 강습군장(케리)</Korean>
+        <Chinesesimp>美军突击背包 (Kerry)</Chinesesimp>
+        <Japanese>USアサルトパック（ケリー）</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_light_desert0">
+        <Original>Light Combat Helmet (Desert)</Original>
+        <Chinese>輕型戰鬥頭盔 (沙漠迷彩)</Chinese>
+        <French>Casque léger de combat (Désert)</French>
+        <Spanish>Casco de combate ligero (desierto)</Spanish>
+        <Italian>Elmetto da combattimento leggero (deserto)</Italian>
+        <Polish>Lekki hełm bojowy (pustynny)</Polish>
+        <Russian>Легкий штурмовой шлем (пустынный)</Russian>
+        <German>Leichter Kampfhelm (Wüste)</German>
+        <Czech>Lehká bojová přilba (poušť)</Czech>
+        <English>Light Combat Helmet (Desert)</English>
+        <Portuguese>Capacete de combate leve (Deserto)</Portuguese>
+        <Korean>경 전투 헬멧 (사막)</Korean>
+        <Chinesesimp>轻型战斗头盔 (沙漠迷彩)</Chinesesimp>
+        <Japanese>軽量戦闘用ヘルメット（砂漠）</Japanese>
+      </Key>
+      <Key ID="str_a3_b_ctrg_soldier_gl_lat_f0">
+        <Original>Northgate</Original>
+        <Chinese>Northgate</Chinese>
+        <French>Northgate</French>
+        <Spanish>Northgate</Spanish>
+        <Italian>Northgate</Italian>
+        <Polish>Northgate</Polish>
+        <Russian>Northgate</Russian>
+        <German>Northgate</German>
+        <Czech>Northgate</Czech>
+        <English>Northgate</English>
+        <Portuguese>Northgate</Portuguese>
+        <Korean>Northgate</Korean>
+        <Chinesesimp>Northgate</Chinesesimp>
+        <Japanese>Northgate</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_snakeskin0">
+        <Original>Combat Helmet (Snakeskin)</Original>
+        <Chinese>戰鬥頭盔 (蛇紋)</Chinese>
+        <French>Casque de combat (Peau de serpent)</French>
+        <Spanish>Casco de combate (piel de serpiente)</Spanish>
+        <Italian>Elmetto da combattimento (pelle di serpente)</Italian>
+        <Polish>Hełm bojowy (skóra węża)</Polish>
+        <Russian>Штурмовой шлем (змеиная кожа)</Russian>
+        <German>Kampfhelm (Schlangenhaut)</German>
+        <Czech>Bojová přilba (hadí kůže)</Czech>
+        <English>Combat Helmet (Snakeskin)</English>
+        <Portuguese>Capacete de combate (Pele de cobra)</Portuguese>
+        <Korean>전투 헬멧 (스네이크스킨)</Korean>
+        <Chinesesimp>战斗头盔 (蛇纹)</Chinesesimp>
+        <Japanese>戦闘用ヘルメット（ヘビ皮）</Japanese>
+      </Key>
+      <Key ID="STR_A3_combat_uniform_csat_3">
+        <Original>CTRG Combat Uniform (Rolled-up)</Original>
+        <Chinese>戰研小組戰鬥制服 (捲袖)</Chinese>
+        <French>Uniforme de combat CTRG (T-shirt)</French>
+        <Spanish>Uniforme de combate CTRG (Tee)</Spanish>
+        <Italian>Uniforme da combattimento CTRG (maglietta)</Italian>
+        <Polish>Mundur bojowy CTRG (koszulka)</Polish>
+        <Russian>Боевая форма CTRG (Tee)</Russian>
+        <German>CTRG-Kampfuniform (T-Shirt)</German>
+        <Czech>Bojová uniforma CTRG (triko)</Czech>
+        <English>CTRG Combat Uniform (Rolled-up)</English>
+        <Portuguese>Uniforme de combate do CTRG (camisa)</Portuguese>
+        <Korean>CTRG 전투복(티)</Korean>
+        <Chinesesimp>战研小组战斗制服 (卷袖)</Chinesesimp>
+        <Japanese>CTRG戦闘服（Tシャツ）</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_light_black0">
+        <Original>Light Combat Helmet (Black)</Original>
+        <Chinese>輕型戰鬥頭盔 (黑色)</Chinese>
+        <French>Casque léger de combat (Noir)</French>
+        <Spanish>Casco de combate ligero (Black)</Spanish>
+        <Italian>Elmetto da combattimento leggero (nero)</Italian>
+        <Polish>Lekki hełm bojowy (czarny)</Polish>
+        <Russian>Легкий штурмовой шлем (черный)</Russian>
+        <German>Leichter Kampfhelm (schwarz)</German>
+        <Czech>Lehká bojová přilba (černá)</Czech>
+        <English>Light Combat Helmet (Black)</English>
+        <Portuguese>Capacete de combate leve (Preto)</Portuguese>
+        <Korean>경 전투 헬멧 (흑색)</Korean>
+        <Chinesesimp>轻型战斗头盔 (黑色)</Chinesesimp>
+        <Japanese>軽量戦闘用ヘルメット（黒）</Japanese>
+      </Key>
+      <Key ID="str_a3_b_ctrg_soldier_ar_a_f0">
+        <Original>McKay</Original>
+        <Chinese>McKay</Chinese>
+        <French>McKay</French>
+        <Spanish>McKay</Spanish>
+        <Italian>McKay</Italian>
+        <Polish>McKay</Polish>
+        <Russian>Маккей</Russian>
+        <German>McKay</German>
+        <Czech>McKay</Czech>
+        <English>McKay</English>
+        <Portuguese>McKay</Portuguese>
+        <Korean>맥케이</Korean>
+        <Chinesesimp>McKay</Chinesesimp>
+        <Japanese>マッケイ</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_grass0">
+        <Original>Combat Helmet (Grass)</Original>
+        <Chinese>戰鬥頭盔 (草色)</Chinese>
+        <French>Casque de combat (Herbe)</French>
+        <Spanish>Casco de combate (hierba)</Spanish>
+        <Italian>Elmetto da combattimento (erba)</Italian>
+        <Polish>Hełm bojowy (trawiasty)</Polish>
+        <Russian>Штурмовой шлем (травяной)</Russian>
+        <German>Kampfhelm (Gras)</German>
+        <Czech>Bojová přilba (tráva)</Czech>
+        <English>Combat Helmet (Grass)</English>
+        <Portuguese>Capacete de combate (Grama)</Portuguese>
+        <Korean>전투 헬멧 (그래스)</Korean>
+        <Chinesesimp>战斗头盔 (草色)</Chinesesimp>
+        <Japanese>戦闘用ヘルメット（草地）</Japanese>
+      </Key>
+      <Key ID="STR_A3_combat_uniform_csat_2">
+        <Original>CTRG Combat Uniform (Tee)</Original>
+        <Chinese>戰研小組戰鬥制服 (短袖)</Chinese>
+        <French>Uniforme de combat CTRG (UBACS2)</French>
+        <Spanish>Uniforme de combate CTRG (UBACS2)</Spanish>
+        <Italian>Uniforme da combattimento CTRG (UBACS2)</Italian>
+        <Polish>Mundur bojowy CTRG (UBACS2)</Polish>
+        <Russian>Боевая форма CTRG (UBACS2)</Russian>
+        <German>CTRG-Kampfuniform (UBACS2)</German>
+        <Czech>Bojová uniforma CTRG (UBACS2)</Czech>
+        <English>CTRG Combat Uniform (Tee)</English>
+        <Portuguese>Uniforme de combate do CTRG (UBACS2)</Portuguese>
+        <Korean>CTRG 전투복(UBACS2)</Korean>
+        <Chinesesimp>战研小组战斗制服 (短袖)</Chinesesimp>
+        <Japanese>CTRG戦闘服（UBACS2）</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_desert0">
+        <Original>Combat Helmet (Desert)</Original>
+        <Chinese>戰鬥頭盔 (沙漠迷彩)</Chinese>
+        <French>Casque de combat (Désert)</French>
+        <Spanish>Casco de combate (desierto)</Spanish>
+        <Italian>Elmetto da combattimento (deserto)</Italian>
+        <Polish>Hełm bojowy (pustynny)</Polish>
+        <Russian>Штурмовой шлем (пустынный)</Russian>
+        <German>Kampfhelm (Wüste)</German>
+        <Czech>Bojová přilba (poušť)</Czech>
+        <English>Combat Helmet (Desert)</English>
+        <Portuguese>Capacete de combate (Deserto)</Portuguese>
+        <Korean>전투 헬멧 (사막)</Korean>
+        <Chinesesimp>战斗头盔 (沙漠迷彩)</Chinesesimp>
+        <Japanese>戦闘用ヘルメット（砂漠）</Japanese>
+      </Key>
+      <Key ID="str_a3_b_ctrg_soldier_engineer_exp_f0">
+        <Original>Hardy</Original>
+        <Chinese>Hardy</Chinese>
+        <French>Hardy</French>
+        <Spanish>Hardy</Spanish>
+        <Italian>Hardy</Italian>
+        <Polish>Hardy</Polish>
+        <Russian>Харди</Russian>
+        <German>Hardy</German>
+        <Czech>Hardy</Czech>
+        <English>Hardy</English>
+        <Portuguese>Hardy</Portuguese>
+        <Korean>하디</Korean>
+        <Chinesesimp>Hardy</Chinesesimp>
+        <Japanese>ハーディ</Japanese>
+      </Key>
+      <Key ID="str_a3_h_helmetb_black0">
+        <Original>Combat Helmet (Black)</Original>
+        <Chinese>戰鬥頭盔 (黑色)</Chinese>
+        <French>Casque de combat (Noir)</French>
+        <Spanish>Casco de combate (Black)</Spanish>
+        <Italian>Elmetto da combattimento (nero)</Italian>
+        <Polish>Hełm bojowy (czarny)</Polish>
+        <Russian>Штурмовой шлем (черный)</Russian>
+        <German>Kampfhelm (schwarz)</German>
+        <Czech>Bojová přilba (černá)</Czech>
+        <English>Combat Helmet (Black)</English>
+        <Portuguese>Capacete de combate (Preto)</Portuguese>
+        <Korean>전투 헬멧 (흑색)</Korean>
+        <Chinesesimp>战斗头盔 (黑色)</Chinesesimp>
+        <Japanese>戦闘用ヘルメット（黒）</Japanese>
+      </Key>
+      <Key ID="STR_A3_combat_uniform_csat_1">
+        <Original>CTRG Combat Uniform</Original>
+        <Chinese>戰研小組戰鬥制服</Chinese>
+        <French>Uniforme de combat CTRG (UBACS)</French>
+        <Spanish>Uniforme de combate CTRG (UBACS)</Spanish>
+        <Italian>Uniforme da combattimento CTRG (UBACS)</Italian>
+        <Polish>Mundur bojowy CTRG (UBACS)</Polish>
+        <Russian>Боевая форма CTRG (UBACS)</Russian>
+        <German>CTRG-Kampfuniform (UBACS)</German>
+        <Czech>Bojová uniforma CTRG (UBACS)</Czech>
+        <English>CTRG Combat Uniform</English>
+        <Portuguese>Uniforme de combate do CTGR (UBACS)</Portuguese>
+        <Korean>CTRG 전투복(UBACS)</Korean>
+        <Chinesesimp>战研小组战斗制服</Chinesesimp>
+        <Japanese>CTRG戦闘服（UBACS）</Japanese>
+      </Key>
+    </Container>
+    <Container name="Music_F_EPA">
+      <Key ID="STR_A3_CfgMusic_LeadTrack01_F_EPA">
+        <Original>Stage A: Lead Track 01 (Conquistador)</Original>
+        <Chinese>第一章: 主音軌 01 (征服者)</Chinese>
+        <French>Niveau A : thème principal 01 (Conquistador)</French>
+        <Spanish>Fase A: Pista principal 01 (Conquistador)</Spanish>
+        <Italian>Fase A: Brano d'apertura 01 (Conquistador)</Italian>
+        <Polish>Etap A: główna ścieżka 01 (Konkwistador)</Polish>
+        <Russian>Stage A: Lead Track 01 (Conquistador)</Russian>
+        <German>Abschnitt A: Haupttrack 01 (Conquistador)</German>
+        <Czech>Scéna A: Stopa 01 (Conquistador)</Czech>
+        <English>Stage A: Lead Track 01 (Conquistador)</English>
+        <Portuguese>Estágio A: Trilha principal 01 (Conquistador)</Portuguese>
+        <Korean>Stage A: Lead Track 01 (Conquistador)</Korean>
+        <Chinesesimp>第一章: 主音轨 01 (征服者)</Chinesesimp>
+        <Japanese>ステージA：リードトラック01（コンキスタドール）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_LeadTrack02a_F_EPA">
+        <Original>Stage A: Lead Track 02 (Aegis Blues - Alternative 1)</Original>
+        <Chinese>第一章: 主音軌 02 (神盾藍 - 另類 1)</Chinese>
+        <French>Niveau A : thème principal 02 (Aegis Blues - Alternative 1)</French>
+        <Spanish>Fase A: Pista principal 02 (Aegis Blues, alternativa 1)</Spanish>
+        <Italian>Fase A: Brano d'apertura 02 (Aegis Blues - Alternative 1)</Italian>
+        <Polish>Etap A: główna ścieżka 02 (Aegis Blues - alternatywna 1)</Polish>
+        <Russian>Stage A: Lead Track 02 (Aegis Blues - Alternative 1)</Russian>
+        <German>Abschnitt A: Haupttrack 02 (Ägis-Blues - Alternative 1)</German>
+        <Czech>Scéna A: Stopa 02 (Aegis Blues - alternativní 1)</Czech>
+        <English>Stage A: Lead Track 02 (Aegis Blues - Alternative 1)</English>
+        <Portuguese>Estágio A: Trilha principal 02 (Aegis Blues – Alternativa 1)</Portuguese>
+        <Korean>Stage A: Lead Track 02 (Aegis Blues - Alternative 1)</Korean>
+        <Chinesesimp>第一章: 主音轨 02 (神盾蓝 - 另类 1)</Chinesesimp>
+        <Japanese>ステージA：リードトラック02（イージス・ブルース - オルタナティブ1）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_LeadTrack02b_F_EPA">
+        <Original>Stage A: Lead Track 02 (Aegis Blues - Alternative 2)</Original>
+        <Chinese>第一章: 主音軌 02 (神盾藍 - 另類 2)</Chinese>
+        <French>Niveau A : thème principal 02 (Aegis Blues - Alternative 2)</French>
+        <Spanish>Fase A: Pista principal 02 (Aegis Blues, alternativa 2)</Spanish>
+        <Italian>Fase A: Brano d'apertura 02 (Aegis Blues - Alternative 2)</Italian>
+        <Polish>Etap A: główna ścieżka 02 (Aegis Blues - alternatywna 2)</Polish>
+        <Russian>Stage A: Lead Track 02 (Aegis Blues - Alternative 2)</Russian>
+        <German>Abschnitt A: Haupttrack 02 (Ägis-Blues - Alternative 2)</German>
+        <Czech>Scéna A: Stopa 02 (Aegis Blues - alternativní 2)</Czech>
+        <English>Stage A: Lead Track 02 (Aegis Blues - Alternative 2)</English>
+        <Portuguese>Estágio A: Trilha principal 02 (Aegis Blues – Alternativa 2)</Portuguese>
+        <Korean>Stage A: Lead Track 02 (Aegis Blues - Alternative 2)</Korean>
+        <Chinesesimp>第一章: 主音轨 02 (神盾蓝 - 另类 2)</Chinesesimp>
+        <Japanese>ステージA：リードトラック02（イージス・ブルース - オルタナティブ2）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_LeadTrack02_F_EPA">
+        <Original>Stage A: Lead Track 02 (Aegis Blues)</Original>
+        <Chinese>第一章: 主音軌 02 (神盾藍)</Chinese>
+        <French>Niveau A : thème principal 02 (Aegis Blues)</French>
+        <Spanish>Fase A: Pista principal 02 (Aegis Blues)</Spanish>
+        <Italian>Fase A: Brano d'apertura 02 (Aegis Blues)</Italian>
+        <Polish>Etap A: główna ścieżka 02 (Aegis Blues)</Polish>
+        <Russian>Stage A: Lead Track 02 (Aegis Blues)</Russian>
+        <German>Abschnitt A: Haupttrack 02 (Ägis-Blues)</German>
+        <Czech>Scéna A: Stopa 02 (Aegis Blues)</Czech>
+        <English>Stage A: Lead Track 02 (Aegis Blues)</English>
+        <Portuguese>Estágio A: Trilha principal 02 (Aegis Blues)</Portuguese>
+        <Korean>Stage A: Lead Track 02 (Aegis Blues)</Korean>
+        <Chinesesimp>第一章: 主音轨 02 (神盾蓝)</Chinesesimp>
+        <Japanese>ステージA：リードトラック02（イージス・ブルース）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_LeadTrack03_F_EPA">
+        <Original>Stage A: Lead Track 03 (Survive the Hard Part)</Original>
+        <Chinese>第一章: 主音軌 03 (在困境中生存)</Chinese>
+        <French>Niveau A : thème principal 03 (Survive the Hard Part)</French>
+        <Spanish>Fase A: Pista principal 03 (Sobrevive a la parte difícil)</Spanish>
+        <Italian>Fase A: Brano d'apertura 03 (Survive the Hard Part)</Italian>
+        <Polish>Etap A: główna ścieżka 03 (Przetrwać najtrudniejsze)</Polish>
+        <Russian>Stage A: Lead Track 03 (Survive the Hard Part)</Russian>
+        <German>Abschnitt A: Haupttrack 03 (Den harten Teil überleben)</German>
+        <Czech>Scéna A: Stopa 03 (Survive the Hard Part)</Czech>
+        <English>Stage A: Lead Track 03 (Survive the Hard Part)</English>
+        <Portuguese>Estágio A: Trilha principal 03 (Survive the Hard Part)</Portuguese>
+        <Korean>Stage A: Lead Track 03 (Survive the Hard Part)</Korean>
+        <Chinesesimp>第一章: 主音轨 03 (在困境中生存)</Chinesesimp>
+        <Japanese>ステージA：リードトラック03（サバイブ・ザ・ハード・パート）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack01a_F_EPA">
+        <Original>Stage A: Event Track 01 (Fragmented - Alternative)</Original>
+        <Chinese>第一章: 事件音軌 01 (支離破碎 - 另類)</Chinese>
+        <French>Niveau A : événement 01 (Fragmented - Alternative)</French>
+        <Spanish>Fase A: Pista de evento 01 (Fragmentado, alternativa)</Spanish>
+        <Italian>Fase A: Brano evento 01 (Fragmented - Alternative)</Italian>
+        <Polish>Etap A: ścieżka wydarzeń 01 (Fragmenty - alternatywny)</Polish>
+        <Russian>Stage A: Event Track 01 (Fragmented - Alternative)</Russian>
+        <German>Abschnitt A: Event-Track 01 (Fragmentiert - Alternative)</German>
+        <Czech>Scéna A: Stopa události 01 (Fragmented - alternativní)</Czech>
+        <English>Stage A: Event Track 01 (Fragmented - Alternative)</English>
+        <Portuguese>Estágio A: Trilha de evento (Fragmented – Alternativa)</Portuguese>
+        <Korean>Stage A: Event Track 01 (Fragmented - Alternative)</Korean>
+        <Chinesesimp>第一章: 事件音轨 01 (支离破碎 - 另类)</Chinesesimp>
+        <Japanese>ステージA：イベントトラック01（フラグメンティド - オルタナティブ）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_LeadTrack03a_F_EPA">
+        <Original>Stage A: Lead Track 03 (Survive the Hard Part - Alternative)</Original>
+        <Chinese>第一章: 主音軌 03 (在困境中生存 - 另類)</Chinese>
+        <French>Niveau A : thème principal 03 (Survive the Hard Part - Alternative)</French>
+        <Spanish>Fase A: Pista principal 03 (Sobrevive a la parte difícil, alternativa)</Spanish>
+        <Italian>Fase A: Brano d'apertura 03 (Survive the Hard Part - Alternative)</Italian>
+        <Polish>Etap A: główna ścieżka 03 (Przetrwać najtrudniejsze - alternatywna)</Polish>
+        <Russian>Stage A: Lead Track 03 (Survive the Hard Part - Alternative)</Russian>
+        <German>Abschnitt A: Haupttrack 03 (Den harten Teil überleben - Alternative)</German>
+        <Czech>Scéna A: Stopa 03 (Survive the Hard Part - alternativní)</Czech>
+        <English>Stage A: Lead Track 03 (Survive the Hard Part - Alternative)</English>
+        <Portuguese>Estágio A: Trilha principal 03 (Survive the Hard Part – Alternativa)</Portuguese>
+        <Korean>Stage A: Lead Track 03 (Survive the Hard Part - Alternative)</Korean>
+        <Chinesesimp>第一章: 主音轨 03 (在困境中生存 - 另类)</Chinesesimp>
+        <Japanese>ステージA：リードトラック03（サバイブ・ザ・ハード・パート - オルタナティブ）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack01_F_EPA">
+        <Original>Stage A: Event Track 01 (Fragmented)</Original>
+        <Chinese>第一章: 事件音軌 01 (支離破碎)</Chinese>
+        <French>Niveau A : événement 01 (Fragmented)</French>
+        <Spanish>Fase A: Pista de evento 01 (Fragmentado)</Spanish>
+        <Italian>Fase A: Brano evento 01 (Fragmented)</Italian>
+        <Polish>Etap A: ścieżka wydarzeń 01 (Fragmenty)</Polish>
+        <Russian>Stage A: Event Track 01 (Fragmented)</Russian>
+        <German>Abschnitt A: Event-Track 01 (Fragmentiert)</German>
+        <Czech>Scéna A: Stopa události 01 (Fragmented)</Czech>
+        <English>Stage A: Event Track 01 (Fragmented)</English>
+        <Portuguese>Estágio A: Trilha de evento 01 (Fragmented)</Portuguese>
+        <Korean>Stage A: Event Track 01 (Fragmented)</Korean>
+        <Chinesesimp>第一章: 事件音轨 01 (支离破碎)</Chinesesimp>
+        <Japanese>ステージA：イベントトラック01（フラグメンティド）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack02a_F_EPA">
+        <Original>Stage A: Event Track 02 (Horizon Scan - Alternative)</Original>
+        <Chinese>第一章: 事件音軌 02 (掃視四周 - 另類)</Chinese>
+        <French>Niveau A : événement 02 (Horizon Scan - Alternative)</French>
+        <Spanish>Fase A: Pista de evento 02 (Escanear horizonte, alternativa)</Spanish>
+        <Italian>Fase A: Brano evento 02 (Horizon Scan - Alternative)</Italian>
+        <Polish>Etap A: ścieżka wydarzeń 02 (Przeszukać horyzont - alternatywna)</Polish>
+        <Russian>Stage A: Event Track 02 (Horizon Scan - Alternative)</Russian>
+        <German>Abschnitt A: Event-Track 02 (Horizontscan - Alternative)</German>
+        <Czech>Scéna A: Stopa události 02 (Horizon Scan - alternativní)</Czech>
+        <English>Stage A: Event Track 02 (Horizon Scan - Alternative)</English>
+        <Portuguese>Estágio A: Trilha de evento 02 (Horizon Scan – Alternativa)</Portuguese>
+        <Korean>Stage A: Event Track 02 (Horizon Scan - Alternative)</Korean>
+        <Chinesesimp>第一章: 事件音轨 02 (扫视四周 - 另类)</Chinesesimp>
+        <Japanese>ステージA：イベントトラック02（ホライゾンスキャン - オルタナティブ）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack02_F_EPA">
+        <Original>Stage A: Event Track 02 (Horizon Scan)</Original>
+        <Chinese>第一章: 事件音軌 02 (掃視四周)</Chinese>
+        <French>Niveau A : événement 02 (Horizon Scan)</French>
+        <Spanish>Fase A: Pista de evento 02 (Escanear horizonte)</Spanish>
+        <Italian>Fase A: Brano evento 02 (Horizon Scan)</Italian>
+        <Polish>Etap A: ścieżka wydarzeń 02 (Przeszukać horyzont)</Polish>
+        <Russian>Stage A: Event Track 02 (Horizon Scan)</Russian>
+        <German>Abschnitt A: Event-Track 02 (Horizontscan)</German>
+        <Czech>Scéna A: Stopa události 02 (Horizon Scan)</Czech>
+        <English>Stage A: Event Track 02 (Horizon Scan)</English>
+        <Portuguese>Estágio A: Trilha de evento 02 (Horizon Scan)</Portuguese>
+        <Korean>Stage A: Event Track 02 (Horizon Scan)</Korean>
+        <Chinesesimp>第一章: 事件音轨 02 (扫视四周)</Chinesesimp>
+        <Japanese>ステージA：イベントトラック02（ホライゾンスキャン）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack03a_F_EPA">
+        <Original>Stage A: Event Track 03 (Chemistry of War - Alternative)</Original>
+        <Chinese>第一章: 事件音軌 03 (化學戰爭 - 另類)</Chinese>
+        <French>Niveau A : événement 03 (Chemistry of War - Alternative)</French>
+        <Spanish>Fase A: Pista de evento 03 (Química de guerra, alternativa)</Spanish>
+        <Italian>Fase A: Brano evento 03 (Chemistry of War - Alternative)</Italian>
+        <Polish>Etap A: ścieżka wydarzeń 03 (Chemia wojny - alternatywna)</Polish>
+        <Russian>Stage A: Event Track 03 (Chemistry of War - Alternative)</Russian>
+        <German>Abschnitt A: Event-Track 03 (Chemie des Krieges - Alternative)</German>
+        <Czech>Scéna A: Stopa události 03 (Chemistry of War - alternativní)</Czech>
+        <English>Stage A: Event Track 03 (Chemistry of War - Alternative)</English>
+        <Portuguese>Estágio A: Trilha de evento 03 (Chemistry of War – Alternativa)</Portuguese>
+        <Korean>Stage A: Event Track 03 (Chemistry of War - Alternative)</Korean>
+        <Chinesesimp>第一章: 事件音轨 03 (化学战争 - 另类)</Chinesesimp>
+        <Japanese>ステージA：イベントトラック03（ケミストリー・オブ・ウォー - オルタナティブ）</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack03_F_EPA">
+        <Original>Stage A: Event Track 03 (Chemistry of War)</Original>
+        <Chinese>第一章: 事件音軌 03 (化學戰爭)</Chinese>
+        <French>Niveau A : événement 03 (Chemistry of War)</French>
+        <Spanish>Fase A: Pista de evento 03 (Química de guerra)</Spanish>
+        <Italian>Fase A: Brano evento 03 (Chemistry of War)</Italian>
+        <Polish>Etap A: ścieżka wydarzeń 03 (Chemia wojny)</Polish>
+        <Russian>Stage A: Event Track 03 (Chemistry of War)</Russian>
+        <German>Abschnitt A: Event-Track 03 (Chemie des Krieges)</German>
+        <Czech>Scéna A: Stopa události 03 (Chemistry of War)</Czech>
+        <English>Stage A: Event Track 03 (Chemistry of War)</English>
+        <Portuguese>Estágio A: Trilha de evento 03 (Chemistry of War)</Portuguese>
+        <Korean>Stage A: Event Track 03 (Chemistry of War)</Korean>
+        <Chinesesimp>第一章: 事件音轨 03 (化学战争)</Chinesesimp>
+        <Japanese>ステージA：イベントトラック03（ケミストリー・オブ・ウォー）</Japanese>
+      </Key>
+    </Container>
+    <Container name="Modules_F">
+      <Container name="Multiplayer">
+        <Key ID="str_a3_cfgvehicles_modulesector_f_moduledescription_triggerunlock_0">
+          <Original>When the sector is captured by a side defined in trigger ACTIVATION field, the trigger will be activated. When repeated activation is enabled, it will be deactivated once the side is no longer in control of the sector.&lt;br /&gt;&lt;br /&gt;You can synchronize other modules (e.g., Respawn Position) to this trigger to tie them to sector owner.</Original>
+          <Chinese>當防禦區被一方佔領時, 如果觸發器有設定內容, 佔領時將會被執行. 而當重複啟用被勾選時, 觸發器將會在區域不再被掌控後解除.&lt;br /&gt;&lt;br /&gt;你可以使用此模塊去同步別的模塊(例如:重生位置).</Chinese>
+          <French>Une fois le secteur capturé par un camp défini dans le champ ACTIVATION du trigger, celui-ci s'active. Si les activations multiples sont autorisées, le trigger se désactive quand le camp ne contrôle plus le secteur.&lt;br /&gt;&lt;br /&gt;Vous pouvez synchroniser d'autres modules à ce trigger (par exemple Position de réapparition) pour les lier au propriétaire du secteur.</French>
+          <Spanish>Cuando el bando definido en el campo ACTIVACIÓN haya capturado el sector, se activará el desencadenante. Si se activa la activación repetida, se desactivará en cuanto el bando ya no tenga el sector bajo su control.&lt;br /&gt;&lt;br /&gt;Se pueden sincronizar otros módulos (como Posición de reaparición) con este activador para vincularlos al dueño del sector.</Spanish>
+          <Italian>Quando il settore viene conquistato da una fazione definita nel campo ATTIVAZIONE dell'attivatore, viene azionato l'attivatore. Quando viene abilitata l'attivazione multipla, l'attivatore viene disattivato quando la fazione non ha più il controllo del settore.&lt;br /&gt;&lt;br /&gt;Puoi sincronizzare altri moduli (come la posizione di rigenerazione) a questo attivatore per collegarli al proprietario del settore.</Italian>
+          <Polish>Kiedy sektor zostanie zajęty przez stronę, która została określona w polu wyzwalacza AKTYWACJA, nastąpi uruchomienie wyzwalacza. Rozpoczęta aktywacja zostanie zakończona, kiedy dana strona utraci kontrolę nad sektorem.&lt;br /&gt;&lt;br /&gt;Można zsynchronizować inne moduły (np. pozycję odradzania) z tym wyzwalaczem, żeby powiązać je z właścicielem sektora.</Polish>
+          <Russian>Триггер будет запущен, когда сектор захвачен стороной, указанной в поле триггера "Активация". Если активен повторный запуск, триггер будет деактивирован, как только сторона потеряет контроль над сектором.&lt;br /&gt;&lt;br /&gt;Вы можете синхронизировать другие модули (например, точку возрождения) с этим триггером, чтобы привязать их к хозяину сектора.</Russian>
+          <German>Wenn der Sektor von einer Seite erobert wird, die im Feld zur AKTIVIERUNG des Auslösers definiert wurde, wird der Auslöser aktiviert. Falls wiederholte Aktivierung aktiviert ist, wird der Auslöser deaktiviert, sobald die Seite die Kontrolle über den Sektor verliert.&lt;br /&gt;&lt;br /&gt;Sie können andere Module (z.B. Respawn-Position) mit diesem Auslöser synchronisieren, um sie der Seite zuzuordnen, die den Sektor kontrolliert.</German>
+          <Czech>Pokud je sektor obsazen stranou definovanou v poli AKTIVACE ve spínači, spínač bude aktivován. Pokud je umožněna opakovaná aktivace, bude deaktivován, jakmile strana ztratí nad sektorem kontrolu.&lt;br /&gt;&lt;br /&gt;K tomuto spínači lze synchronizovat další moduly (např. Pozice pro oživení či vytvoření) pro přiřazení vlastníkovi sektoru.</Czech>
+          <English>When the sector is captured by a side defined in trigger ACTIVATION field, the trigger will be activated. When repeated activation is enabled, it will be deactivated once the side is no longer in control of the sector.&lt;br /&gt;&lt;br /&gt;You can synchronize other modules (e.g., Respawn Position) to this trigger to tie them to sector owner.</English>
+          <Portuguese>Quando o setor for capturado por um lado definido no campo ACTIVATION do gatilho, o gatilho será ativado. Se a ativação repetida estiver ativada, ela será desativada quando o lado deixar de ter controle do setor.&lt;br /&gt;&lt;br /&gt;É possível sincronizar outros módulos (por exemplo, posição de ressurgimento) com este gatilho para vinculá-los ao proprietário do setor.</Portuguese>
+          <Korean>트리거 '작동' 항목에 지정된 진영이 구역을 점령했을 경우, 트리거가 작동됩니다. 반복 작동이 활성화되었을 경우에는 점령 중이던 진영이 구역의 통제력을 잃었을 때 비활성화됩니다.&lt;br /&gt;&lt;br /&gt;이 트리거에 다른 모듈(재투입지점 등)을 동기화시켜 구역 소유자와 연동시킬 수 있습니다.</Korean>
+          <Chinesesimp>当防御区被一方占领时, 如果触发器有设定内容, 占领时将会被执行. 而当重复启用被勾选时, 触发器将会在区域不再被掌控后解除.&lt;br /&gt;&lt;br /&gt;你可以使用此模块去同步别的模块(例如:重生位置).</Chinesesimp>
+          <Japanese>トリガー起動フィールドで定義した陣営にセクターが占領されると、トリガーが作動する。起動の繰り返しを有効にした場合は、陣営がセクターの支配を止めると無効化される。&lt;br /&gt;&lt;br /&gt;他のモジュール（リスポーン地点など）をこのトリガーと同期させてセクター領有者に紐付けできる。</Japanese>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_modulesector_f_arguments_scorereward_1">
+          <Original>Score awarded to the side which seized the sector</Original>
+          <Chinese>獲得防禦區的陣營將會獲得的分數</Chinese>
+          <French>Score attribué au camp qui a capturé le secteur</French>
+          <Spanish>Puntuación otorgada al bando que ha tomado el sector</Spanish>
+          <Italian>Punteggio assegnato alla fazione che ha conquistato il settore</Italian>
+          <Polish>Wynik przyznawany stronie, która zajęła sektor</Polish>
+          <Russian>Счет засчитывается стороне, захватившей сектор</Russian>
+          <German>Punkte für die Seite, die den Sektor besetzt hat</German>
+          <Czech>Skóre přidělené straně, která sektor obsadila</Czech>
+          <English>Score awarded to the side which seized the sector</English>
+          <Portuguese>Pontuação concedida ao lado que capturar o setor</Portuguese>
+          <Korean>구역을 장악한 진영에게 추가되는 점수입니다.</Korean>
+          <Chinesesimp>获得防御区的阵营将会获得的分数</Chinesesimp>
+          <Japanese>セクターを占拠した陣営に与えられるスコア</Japanese>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_modulesector_f_arguments_scorereward_0">
+          <Original>Seize Reward</Original>
+          <Chinese>肅清分數</Chinese>
+          <French>Récupérer la récompense</French>
+          <Spanish>Recompensa por toma</Spanish>
+          <Italian>Ricompensa conquista</Italian>
+          <Polish>Nagroda za zajęcie</Polish>
+          <Russian>Награда за захват</Russian>
+          <German>Besetzungsbelohnung</German>
+          <Czech>Odměna za obsazení</Czech>
+          <English>Seize Reward</English>
+          <Portuguese>Recompensa de captura</Portuguese>
+          <Korean>장악 보상</Korean>
+          <Chinesesimp>肃清分数</Chinesesimp>
+          <Japanese>報酬を獲得</Japanese>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_modulesectordummy_f_moduledescription_0">
+          <Original>Add a contested sector. All its params will be copied from synced Sector module. Used when you want to keep all settings in one module.</Original>
+          <Chinese>新增一個可以爭奪的防禦區. 它所有的設定可以透過同步到另外一個已經設定好的防禦區模塊上, 來獲得該模塊的所有參數.</Chinese>
+          <French>Ajouter un secteur contesté, dont les paramètres seront copiés depuis le module Secteur synchronisé. Utile pour conserver tous les paramètres d'un même module.</French>
+          <Spanish>Añadir un sector en conflicto. Todos los parámetros se copiarán del módulo del sector sincronizado. Se usa cuando se quieren mantener todos los ajustes en un módulo.</Spanish>
+          <Italian>Aggiungi un settore conteso. Tutti i suoi parametri saranno copiati dal modulo del settore sincronizzato. Si usa quando vuoi mantenere tutte le impostazioni in un modulo.</Italian>
+          <Polish>Dodanie neutralnego sektora. Wszystkie jego parametry zostaną skopiowane z synchornizowanego modułu Sektor. Używaj, jeśli chcesz zachować wszystkie ustawienia w jednym module.</Polish>
+          <Russian>Добавить оспариваемый сектор. Все его параметры будут скопированы с синхронизированного модуля сектора. Используйте, если хотите держать все настройки в одном модуле.</Russian>
+          <German>Fügt einen umkämpften Sektor hinzu. Alle seine Parameter werden von dem synchronisierten Sektormodul kopiert. Wird benutzt, wenn Sie alle Einstellungen eines Moduls beibehalten möchten.</German>
+          <Czech>Přidat sporný sektor. Všechny parametry budou zkopírovány ze synchronizovaného modulu Sektor. Lze použít pro sjednocení veškerého nastavení v jednom modulu.</Czech>
+          <English>Add a contested sector. All its params will be copied from synced Sector module. Used when you want to keep all settings in one module.</English>
+          <Portuguese>Adiciona um setor contestado. Todos os parâmetros serão copiados do módulo do setor sincronizado. Usado quando se deseja manter todas as configurações em um módulo.</Portuguese>
+          <Korean>대치구역을 추가합니다. 모든 매개변수는 동기화된 구역 모듈에서 복사됩니다. 모든 설정을 하나의 모듈에 담아두고 싶을 때 사용합니다.</Korean>
+          <Chinesesimp>新增一个可以争夺的防御区. 它所有的设定可以透过同步到另外一个已经设定好的防御区模块上, 来获得该模块的所有参数.</Chinesesimp>
+          <Japanese>紛争セクターを追加。パラメータはすべて、同期したセクターモジュールからコピーされる。すべての設定を1つのモジュールに保持する場合に使用。</Japanese>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_modulesectordummy_f_0">
+          <Original>Sector (Dummy)</Original>
+          <Chinese>防禦區 (虛擬)</Chinese>
+          <French>Secteur (factice)</French>
+          <Spanish>Sectoru (Dummy)</Spanish>
+          <Italian>Sectoru (dummy)</Italian>
+          <Polish>Sektor (atrapa)</Polish>
+          <Russian>Сектор (макет)</Russian>
+          <German>Sektoru (Dummy)</German>
+          <Czech>Sektor (Prázdný)</Czech>
+          <English>Sector (Dummy)</English>
+          <Portuguese>Sectoru (dummy)</Portuguese>
+          <Korean>구역(더미)</Korean>
+          <Chinesesimp>防御区 (虚拟)</Chinesesimp>
+          <Japanese>セクター（ダミー）</Japanese>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_deserteddistance_1">
+          <Original>When the vehicle is abandoned, force respawn after no player is in the given distance [m]. Ignored when the field is left blank.</Original>
+          <Chinese>當載具距離最近的玩家多少公尺外之後, 載具將會自動重生. 該參數為空的話則會忽略此功能.</Chinese>
+          <French>Après abandon du véhicule, forcer la réapparition quand aucun joueur n'est à la distance indiquée [m]. Laisser vierge pour ignorer.</French>
+          <Spanish>Cuando se abandona el vehículo, se fuerza la reaparición cuando no haya ningún jugador a la distancia especificada [m]. Se ignora cuando el campo está vacío.</Spanish>
+          <Italian>Quando il veicolo viene abbandonato, forza la rigenerazione quando nessun giocatore rientra nella distanza specificata [m]. Ignorato quando il campo è lasciato vuoto.</Italian>
+          <Polish>Jeśli pojazd zostanie opuszczony, można wymusić odrodzenie w przypadku, kiedy w określonej odległości [m] nie znajduje się żaden gracz. Opcja będzie pomijana, jeśli pole pozostanie puste.</Polish>
+          <Russian>Когда техника брошена, активируется принудительное возрождение, если на дистанции [m] нет ни одного игрока. Если поле пустое - игнорируется.</Russian>
+          <German>Wird das Fahrzeug verlassen, respawnt die Einheit, sobald sich kein Spieler mehr innerhalb der angegebenen Entfernung [m] befindet. Wird ignoriert, wenn das Feld leer ist.</German>
+          <Czech>Když je vozidlo opuštěné, provede vynucené oživení, pokud se žádný hráč nenachází ve stanoveném okruhu [m]. Je ignorováno, pokud je pole prázdné.</Czech>
+          <English>When the vehicle is abandoned, force respawn after no player is in the given distance [m]. Ignored when the field is left blank.</English>
+          <Portuguese>Quando o veículo está abandonado, força o ressurgimento quando não houver jogadores dentro do raio informado [m]. Ignorado quando o campo é deixado em branco.</Portuguese>
+          <Korean>차량이 방치되었고 지정된 거리(m) 내에 플레이어가 아무도 없을 경우, 강제로 재투입시킵니다. 항목을 비워두면 무시됩니다.</Korean>
+          <Chinesesimp>当载具距离最近的玩家多少公尺外之后, 载具将会自动重生. 该参数为空的话则会忽略此功能.</Chinesesimp>
+          <Japanese>車両が廃棄されると、一定距離[m]内にプレイヤーがいなくなってからリスポーンを強制。フィールドが空白のままになっている場合は無視。</Japanese>
+        </Key>
+        <Key ID="str_a3_cfgvehicles_modulerespawnvehicle_f_arguments_deserteddistance_0">
+          <Original>Deserted Distance</Original>
+          <Chinese>遺棄距離</Chinese>
+          <French>Distance d'abandon</French>
+          <Spanish>Distancia desierta</Spanish>
+          <Italian>Distanza abbandonata</Italian>
+          <Polish>Odległość opuszczenia</Polish>
+          <Russian>Желаемое расстояние</Russian>
+          <German>Verlassen-Entfernung</German>
+          <Czech>Vzdálenost pro opuštění</Czech>
+          <English>Deserted Distance</English>
+          <Portuguese>Distância abandonada</Portuguese>
+          <Korean>방치 거리</Korean>
+          <Chinesesimp>遗弃距离</Chinesesimp>
+          <Japanese>放棄距離</Japanese>
+        </Key>
+      </Container>
+    </Container>
+    <Container name="Air_F"/>
+    <Container name="Weapons_F">
+      <Key ID="str_a3_cfgweapons_srifle_dmr_01_f1">
+        <Original>Assault rifle &lt;br/&gt;Caliber: 7.62x54 mm</Original>
+        <Chinese>突擊步槍 &lt;br/&gt;口徑: 7.62x54 mm</Chinese>
+        <French>Fusil d'assaut &lt;br/&gt;Calibre : 7,62x54 mm</French>
+        <Spanish>Fusil de asalto&lt;br/&gt;Calibre: 7,62x54 mm</Spanish>
+        <Italian>Fucile d'assalto &lt;br/&gt;Calibro: 7,62x54 mm</Italian>
+        <Polish>Karabin szturmowy&lt;br/&gt;Kaliber: 7,62x54 mm</Polish>
+        <Russian>Штурмовая винтовка &lt;br/&gt;Калибр: 7,62x54 мм</Russian>
+        <German>Sturmgewehr &lt;br/&gt;Kaliber: 7,62x54 mm</German>
+        <Czech>Útočná puška &lt;br/&gt;Ráže: 7,62x54 mm</Czech>
+        <English>Assault rifle &lt;br/&gt;Caliber: 7.62x54 mm</English>
+        <Portuguese>Fuzil de assalto&lt;br /&gt;Calibre: 7,62 x 54 mm</Portuguese>
+        <Korean>돌격소총&lt;br /&gt;구경: 7.62x54mm</Korean>
+        <Chinesesimp>突击步枪 &lt;br/&gt;口径: 7.62x54 mm</Chinesesimp>
+        <Japanese>アサルトライフル&lt;br/&gt;口径：7.62x54 mm</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_srifle_dmr_01_f0">
+        <Original>Rahim 7.62 mm</Original>
+        <Chinese>Rahim 7.62 mm</Chinese>
+        <French>Rahim 7,62 mm</French>
+        <Spanish>Rahim 7,62 mm</Spanish>
+        <Italian>Rahim 7,62 mm</Italian>
+        <Polish>Rahim 7,62 mm</Polish>
+        <Russian>Rahim 7,62 мм</Russian>
+        <German>Rahim 7,62 mm</German>
+        <Czech>Rahim 7,62 mm</Czech>
+        <English>Rahim 7.62 mm</English>
+        <Portuguese>Rahim 7,62 mm</Portuguese>
+        <Korean>라힘 7.62mm</Korean>
+        <Chinesesimp>Rahim 7.62 mm</Chinesesimp>
+        <Japanese>ラヒム7.62 mm</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_optic_mrd1">
+        <Original>MRD&lt;br /&gt;Magnification: 1x</Original>
+        <Chinese>掛盾式設計瞄準鏡&lt;br /&gt;倍率: 1x</Chinese>
+        <French>MRD&lt;br /&gt;Grossissement : 1x</French>
+        <Spanish>MRD&lt;br /&gt;Aumento: 1x</Spanish>
+        <Italian>MRD&lt;br /&gt;Mirino: 1x</Italian>
+        <Polish>MRD&lt;br /&gt;Powiększenie: 1x</Polish>
+        <Russian>MRD&lt;br /&gt;Увеличение: 1x</Russian>
+        <German>MRD&lt;br /&gt;Vergrößerung: 1x</German>
+        <Czech>MRD&lt;br /&gt;Zvětšení: 1x</Czech>
+        <English>MRD&lt;br /&gt;Magnification: 1x</English>
+        <Portuguese>MRD&lt;br /&gt;Ampliação: 1x</Portuguese>
+        <Korean>MRD&lt;br /&gt;배율: 1배</Korean>
+        <Chinesesimp>挂盾式设计瞄准镜&lt;br /&gt;倍率: 1x</Chinesesimp>
+        <Japanese>MRD&lt;br /&gt;倍率：1x</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_optic_yorris0">
+        <Original>Yorris J2</Original>
+        <Chinese>Yorris J2</Chinese>
+        <French>Yorris J2</French>
+        <Spanish>Yorris J2</Spanish>
+        <Italian>Yorris J2</Italian>
+        <Polish>Yorris J2</Polish>
+        <Russian>"Йоррис" J2</Russian>
+        <German>Yorris J2</German>
+        <Czech>Yorris J2</Czech>
+        <English>Yorris J2</English>
+        <Portuguese>Yorris J2</Portuguese>
+        <Korean>요리스 J2</Korean>
+        <Chinesesimp>Yorris J2</Chinesesimp>
+        <Japanese>ヨリスJ2</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_optic_yorris1">
+        <Original>Y-J2&lt;br /&gt;Magnification: 1x</Original>
+        <Chinese>Y-J2&lt;br /&gt;倍率: 1x</Chinese>
+        <French>Y-J2&lt;br /&gt;Grossissement : 1x</French>
+        <Spanish>Y-J2&lt;br /&gt;Aumento: 1x</Spanish>
+        <Italian>Y-J2&lt;br /&gt;Mirino: 1x</Italian>
+        <Polish>Y-J2&lt;br /&gt;Powiększenie: 1x</Polish>
+        <Russian>Y-J2&lt;br /&gt;увеличение: 1x</Russian>
+        <German>Y-J2&lt;br /&gt;Vergrößerung: 1x</German>
+        <Czech>Y-J2&lt;br /&gt;Zvětšení: 1x</Czech>
+        <English>Y-J2&lt;br /&gt;Magnification: 1x</English>
+        <Portuguese>Y-J2&lt;br /&gt;Ampliação: 1x</Portuguese>
+        <Korean>Y-J2&lt;br /&gt;배율: 1배</Korean>
+        <Chinesesimp>Y-J2&lt;br /&gt;倍率: 1x</Chinesesimp>
+        <Japanese>Y-J2&lt;br /&gt;倍率：1x</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f_library0">
+        <Original>The Zubr .45 ACP is a revolver handgun with a distinctive design. The muzzle position is aligned with the bottom chamber. Compared to normal topmost revolvers, this change reduces the muzzle flip after shooting by directing the recoil more into the shooter's wrist. </Original>
+        <Chinese>Zubr .45 ACP是一把與左輪手槍非常相似的一把手槍. 其槍口的位置對準了彈巢的底部. 相比傳統左輪手槍對準彈巢上部的設計, 這樣的改變可以減低開火後槍身向後翻準的程度, 將後座力引導到射手的手腕上.</Chinese>
+        <French>Le Zubr .45 ACP est un revolver reconnaissable entre mille avec son canon dans l'alignement de la chambre inférieure. Cette spécificité réduit le relèvement du canon après le tir en dirigeant plus sensiblement le recul dans le poignet du tireur que dans les revolvers classiques. </French>
+        <Spanish>El Zubr 45 ACP es un revólver de diseño distintivo. La posición del cañón está alineada con la recámara inferior. En comparación con los revólveres normales de recámara superior, este cambio reduce el movimiento del cañón tras el disparo al dirigir el retroceso hacia la muñeca del tirador. </Spanish>
+        <Italian>Il Zubr .45 ACP è un revolver dal design particolare. La posizione della bocca è allineata con la camera di scoppio inferiore. Rispetto ai normali revolver, questa modifica riduce il movimento indietro della bocca dopo lo sparo, indirizzando il rinculo verso il polso di chi spara.</Italian>
+        <Polish>Zubr .45 ACP to rewolwer o charakterystycznym wyglądzie. Wylot lufy jest na poziomie dolnej komory. W porównaniu z rewolwerami o standardowej budowie ta broń charakteryzuje się mniejszym podrzutem lufy dzięki skierowaniu siły odrzutu w kierunku nadgarstka strzelającego. </Polish>
+        <Russian>"Зубр" - это револьвер под патрон .45 ACP обладающий необычным дизайном. В отличие от других револьверов, его ствол находится напротив не верхней, а нижней каморы барабана. Благодаря этому, больше энергии отдачи направляется в запястье стрелка, уменьшая подкидывание ствола.</Russian>
+        <German>Der Zubr .45 ACP ist ein Revolver mit unverwechselbarem Design. Die Mündung ist an der unteren Kammer ausgerichtet. Diese Änderung verringert im Vergleich zu normalen Revolvern das Verziehen der Mündung nach dem Schuss, weil der Rückstoß zu einem größeren Teil ins Handgelenk des Schützen umgeleitet wird. </German>
+        <Czech>Zubr .45 ACP je revolver s jedinečným designem. Hlaveň se nachází na stejné úrovni jako spodní komora válce. V porovnání s běžnými revolvery s horní polohou hlavně tato změna způsobuje snížení zdvihu hlavně, protože zpětný ráz směřuje ve větší míře do zápěstí střelce. </Czech>
+        <English>The Zubr .45 ACP is a revolver handgun with a distinctive design. The muzzle position is aligned with the bottom chamber. Compared to normal topmost revolvers, this change reduces the muzzle flip after shooting by directing the recoil more into the shooter's wrist. </English>
+        <Portuguese>O Zubr .45 ACP é um revólver com modelo diferenciado. A posição da boca é alinhada com a câmara inferior. Em comparação com os revólveres normais do mais alto nível, essa mudança reduz o movimento da boca após o disparo ao direcionar a maior parte do recuo para o pulso do atirador. </Portuguese>
+        <Korean>주브르(Zubr) .45 ACP는 총구가 하단 약실과 직선으로 정렬되어 있는 독특한 구조의 리볼버 권총입니다. 평범한 구조의 리볼버와 비교했을 때, 반동의 방향을 사수의 손목쪽으로 분산시켜주므로 총구의 들림 현상이 감소되었습니다.</Korean>
+        <Chinesesimp>Zubr .45 ACP是一把与左轮手枪非常相似的一把手枪. 其枪口的位置对准了弹巢的底部. 相比传统左轮手枪对准弹巢上部的设计, 这样的改变可以减低开火后枪身向后翻准的程度, 将后座力引导到射手的手腕上.</Chinesesimp>
+        <Japanese>ズブラ .45 ACPは特徴的な構造を持つ回転式拳銃だ。底部薬室と銃口が一直線に並んでいる。これによって、通常の回転銃に比べて反動が射撃手の手首へ伝わることになり、発砲後のマズルフリップが抑えられる。</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f0">
+        <Original>Zubr .45 ACP</Original>
+        <Chinese>Zubr .45 ACP</Chinese>
+        <French>Zubr .45 ACP</French>
+        <Spanish>Zubr .45 ACP</Spanish>
+        <Italian>Zubr .45 ACP</Italian>
+        <Polish>Zubr .45 ACP</Polish>
+        <Russian>Zubr .45 ACP</Russian>
+        <German>Zubr .45 ACP</German>
+        <Czech>Zubr .45 ACP</Czech>
+        <English>Zubr .45 ACP</English>
+        <Portuguese>Zubr .45 ACP</Portuguese>
+        <Korean>주브르 .45 ACP</Korean>
+        <Chinesesimp>Zubr .45 ACP</Chinesesimp>
+        <Japanese>ズブラ .45 ACP</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f_library0">
+        <Original>The 4-five is a polymer-based semi-automatic pistol named for using .45 ACP ammunition. The reliability and accuracy are the most appraised features of this weapon. This weapon is favored by firing drills competitors because of an eleven rounds magazine and available collimator sight. </Original>
+        <Chinese>4-five是一種使用聚合物製做的半自動手槍, 因其使用.45 ACP彈藥而命名為4-five. 這把槍有不錯的可靠性與準確度. 這把槍也常被使用於射擊靶場的比賽中, 因其彈匣有11發彈藥與可靠的準直覘孔. </Chinese>
+        <French>Le 4-five est un pistolet semi-automatique en polymères qui emploie des munitions .45 ACP (d'où son nom). Redoutable de fiabilité et de précision, c'est une arme reine du tir sportif grâce à son chargeur onze coups et son collimateur de tir. </French>
+        <Spanish>La 4-five es una pistola semiautomática de polímero cuyo nombre se debe a su munición del calibre .45 ACP. La fiabilidad y la precisión son las características más valoradas de esta arma. La utilizan los competidores de tiro por su cargador de once cartuchos y su colimador opcional. </Spanish>
+        <Italian>La 4-cinque è una pistola semiautomatica in materiale polimerico il cui nome derica dalle munizioni .45 ACP utilizzate. Affidabilità e precisione sono le caratteristiche più apprezzate di quest'arma. Particolarmente amata dai partecipanti alle esercitazioni di sparo per il caricatore da 11 munizioni e il collimatore disponibile.</Italian>
+        <Polish>4-five to półautomatyczny pistolet wykonany z polimerów, którego nazwa pochodzi od używanej amunicji kalibru .45 ACP. Głównymi cechami tej broni są jej niezawodność oraz celność. Jest to jedna z najczęściej używanych broni na strzelnicy ze względu na magazynek mieszczący jedenaście naboi oraz możliwość użycia celownika kolimatorowego. </Polish>
+        <Russian>4-five - полуавтоматический пистолет на основе ударопрочного пластика, название которого происходит от используемых боеприпасов .45 ACP-го калибра. Основными достоинствами являются высокая надежность и точность. А магазин на 11 патронов и возможность установки коллиматорного прицела принесла ему популярность на стрелковых соревнованиях.</Russian>
+        <German>Die 4-five ist eine halbautomatische Polymerpistole, die deswegen so heißt, weil sie .45 ACP-Munition benutzt. Die herausragenden Merkmale der Waffe sind ihre Verlässlichkeit und Präzision. Sie wird vor allem von Teilnehmern an Schießübungen sehr geschätzt, da ihr Magazin elf Schuss fasst und ein Kollimator dafür erhältlich ist. </German>
+        <Czech>4-five je poloautomatická pistole z polymerových materiálů, která je pojmenována podle používání střeliva ráže .45 ACP. Nejoceňovanějšími vlastnostmi této zbraně jsou spolehlivost a přesnost. Tuto zbraň mají v oblibě závodní střelci, protože zásobník pojme 11 nábojů a pro zbraň je k dispozici kolimátor.</Czech>
+        <English>The 4-five is a polymer-based semi-automatic pistol named for using .45 ACP ammunition. The reliability and accuracy are the most appraised features of this weapon. This weapon is favored by firing drills competitors because of an eleven rounds magazine and available collimator sight. </English>
+        <Portuguese>A 4-five é uma pistola semiautomática baseada em polímero que tem esse nome por usar munição .45 ACP. A confiabilidade e a precisão são as características mais elogiadas da arma. Ela é a preferida dos concorrentes dos exercícios de tiro por causa do cartucho de 11 balas e da visão por colimador. </Portuguese>
+        <Korean>4-파이브(4-five)는 .45구경 탄환을 사용하는 중합체 기반 반자동 권총이며, 이 화기의 가장 큰 장점으로 평가되는 부분은 바로 신뢰성과 정확도입니다. 4-파이브는 11발이 들어가는 탄창과 시준광학조준기를 사용할 수 있어 사격대회 참가자들이 선호하는 권총입니다.</Korean>
+        <Chinesesimp>4-five是一种使用聚合物制做的半自动手枪, 因其使用.45 ACP弹药而命名为4-five. 这把枪有不错的可靠性与准确度. 这把枪也常被使用于射击靶场的比赛中, 因其弹匣有11发弹药与可靠的准直觇孔. </Chinesesimp>
+        <Japanese>4-ファイブはポリマーフレームのセミオートマチック・ピストルで、.45弾を使うためにこの名がついた。この武器の最も評価されるべき特徴はその信頼性と精度にある。11発装填マガジンとコリメータ照準器が付いており、射撃訓練競技者に愛用されている。</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_optic_mrd0">
+        <Original>MRD</Original>
+        <Chinese>掛盾式設計瞄準鏡</Chinese>
+        <French>MRD</French>
+        <Spanish>MRD</Spanish>
+        <Italian>MRD</Italian>
+        <Polish>MRD</Polish>
+        <Russian>MRD</Russian>
+        <German>MRD</German>
+        <Czech>MRD</Czech>
+        <English>MRD</English>
+        <Portuguese>MRD</Portuguese>
+        <Korean>MRD</Korean>
+        <Chinesesimp>挂盾式设计瞄准镜</Chinesesimp>
+        <Japanese>MRD</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f0">
+        <Original>4-five .45 ACP</Original>
+        <Chinese>4-five .45 ACP</Chinese>
+        <French>4-five .45 ACP</French>
+        <Spanish>4-five .45 ACP</Spanish>
+        <Italian>4-cinque .45 ACP</Italian>
+        <Polish>4-five .45 ACP</Polish>
+        <Russian>4-five .45 ACP</Russian>
+        <German>4-five .45 ACP</German>
+        <Czech>4-five .45 ACP</Czech>
+        <English>4-five .45 ACP</English>
+        <Portuguese>4-five .45 ACP</Portuguese>
+        <Korean>4-파이브 .45 ACP</Korean>
+        <Chinesesimp>4-five .45 ACP</Chinesesimp>
+        <Japanese>4-ファイブ .45 ACP</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_c_supplycrate_f0">
+        <Original>Supply Box [CTRG]</Original>
+        <Chinese>補給箱 [戰研小組]</Chinese>
+        <French>Caisse de ravitaillements [CTRG]</French>
+        <Spanish>Caja de suministros [CTRG] </Spanish>
+        <Italian>Scatola rifornimenti [CTRG]</Italian>
+        <Polish>Skrzynia z zasobami [CTRG]</Polish>
+        <Russian>Ящик с припасами (CTRG)</Russian>
+        <German>Nachschubkiste [CTRG]</German>
+        <Czech>Bedna se zásobami [CTRG]</Czech>
+        <English>Supply Box [CTRG]</English>
+        <Portuguese>Caixa de suprimentos [CTRG]</Portuguese>
+        <Korean>보급상자[CTRG]</Korean>
+        <Chinesesimp>补给箱 [战研小组]</Chinesesimp>
+        <Japanese>物資箱[CTRG]</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder1">
+        <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Zubr</Original>
+        <Chinese>口徑: .45 ACP&lt;br /&gt;發數: 6&lt;br /&gt;使用於: Zubr</Chinese>
+        <French>Calibre : .45 ACP&lt;br /&gt;Munitions : 6&lt;br /&gt;Application : Zubr</French>
+        <Spanish>Calibre: .45 ACP&lt;br /&gt;Cargas: 6&lt;br /&gt;Se usa en: Zubr</Spanish>
+        <Italian>Calibro: .45 ACP&lt;br /&gt;Munizioni: 6&lt;br /&gt;Si usa in: Zubr</Italian>
+        <Polish>Kaliber: .45 ACP&lt;br /&gt;Magazynek: 6&lt;br /&gt;Używane w: Zubr</Polish>
+        <Russian>Калибр: .45 ACP&lt;br /&gt;Патроны: 6&lt;br /&gt;Применение: "Зубр"</Russian>
+        <German>Kaliber: .45 ACP&lt;br /&gt;Patronen: 6&lt;br /&gt;Eingesetzt in: Zubr</German>
+        <Czech>Ráže: .45 ACP&lt;br /&gt;Munice: 6&lt;br /&gt;Použití: Zubr</Czech>
+        <English>Caliber: .45 ACP&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Zubr</English>
+        <Portuguese>Calibre: .45 ACP&lt;br /&gt;Quantidade: 6&lt;br /&gt;Uso em: Zubr</Portuguese>
+        <Korean>구경: .45구경 ACP&lt;br /&gt;탄 수: 6&lt;br /&gt;사용 가능: 주브르</Korean>
+        <Chinesesimp>口径: .45 ACP&lt;br /&gt;发数: 6&lt;br /&gt;使用于: Zubr</Chinesesimp>
+        <Japanese>口径：.45 ACP&lt;br /&gt;弾薬：6&lt;br /&gt;使用：ズブラ</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag1">
+        <Original>Caliber: 12.7x108 mm APDS&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
+        <Chinese>口徑: 12.7x108 mm 脫殼穿甲彈&lt;br /&gt;發數: 5&lt;br /&gt;使用於: GM6 Lynx</Chinese>
+        <French>Calibre : 12,7x108 mm APDS&lt;br /&gt;Munitions : 5&lt;br /&gt;Application : GM6 Lynx</French>
+        <Spanish>Calibre: APDS 12,7 x 108 mm&lt;br /&gt;Cargas: 5&lt;br /&gt;Se usa en: GM6 Lynx</Spanish>
+        <Italian>Calibro: 12,7x108 mm APDS&lt;br /&gt;Munizioni: 5&lt;br /&gt;Si usa in: GM6 Lynx</Italian>
+        <Polish>Kaliber: 12,7x108 mm APDS&lt;br /&gt;Magazynek: 5&lt;br /&gt;Używane w: GM6 Lynx</Polish>
+        <Russian>Калибр: 12.7x108 мм, подкалиберный&lt;br /&gt;Патроны: 5&lt;br /&gt;Применение: GM6 Lynx</Russian>
+        <German>Kaliber: 12,7x108 mm APDS &lt;br /&gt;Patronen: 5&lt;br /&gt;Eingesetzt in: GM6 Lynx</German>
+        <Czech>Ráže: 12.7x108 mm APDS&lt;br /&gt;Munice: 5&lt;br /&gt;Použití: GM6 Lynx</Czech>
+        <English>Caliber: 12.7x108 mm APDS&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</English>
+        <Portuguese>Calibre: 12,7 x 108 mm APDS&lt;br /&gt;Quantidade: 5&lt;br /&gt;Uso em: GM6 Lynx</Portuguese>
+        <Korean>구경: 12.7x108mm APDS&lt;br /&gt;탄 수: 5&lt;br /&gt;사용 가능: GM6 링스</Korean>
+        <Chinesesimp>口径: 12.7x108 mm 脱壳穿甲弹&lt;br /&gt;发数: 5&lt;br /&gt;使用于: GM6 Lynx</Chinesesimp>
+        <Japanese>口径：12.7x108 mm APDS&lt;br /&gt;弾薬：5&lt;br /&gt;使用：GM6リンクス</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder0">
+        <Original>.45 ACP 6Rnd Cylinder</Original>
+        <Chinese>.45 ACP 6發 彈筒</Chinese>
+        <French>Cylindre 6 balles .45 ACP</French>
+        <Spanish>.45 ACP, cilindro de 6 cargas</Spanish>
+        <Italian>Cilindro .45 ACP 6 muniz.</Italian>
+        <Polish>Bębenek 6 naboi .45 ACP</Polish>
+        <Russian>.45 ACP шестизарядный цилиндр</Russian>
+        <German>.45 ACP 6-Schuss-Zylinder</German>
+        <Czech>.45 ACP, 6ks válec</Czech>
+        <English>.45 ACP 6Rnd Cylinder</English>
+        <Portuguese>Cilindro de 6 balas de .45 ACP</Portuguese>
+        <Korean>.45구경 ACP 6발 실린더</Korean>
+        <Chinesesimp>.45 ACP 6发 弹筒</Chinesesimp>
+        <Japanese>.45 ACP 6Rndシリンダー</Japanese>
+      </Key>
+      <Key ID="STR_A3_CfgWeapons_srifle_DMR_01_F_library">
+        <Original>The Rahim 7.62 mm is a bullpup rifle serving as a designated marksman weapon for the OPFOR. It's based on the older Russian rifle with upgraded modern features such as firing mechanism, trigger and rail. The bullpup design allows the rifle to be more compact and maneuverable without shortening the barrel.</Original>
+        <Chinese>Rahim 7.62 mm是一把給紅方精準射手使用的無托步槍. 它是基於老一輩的俄羅斯步槍, 在加上一些現代的擊發機制, 板機與滑軌所製而成. 它的無托設計使它的槍身更為緊湊, 使其具有高機動性而不用縮短槍管.</Chinese>
+        <French>Le fusil bullpup Rahim 7,62 mm est l'arme de précision standard de l'Est. Elle s'inspire du vieux fusil russe dont elle modernise le mécanisme de tir, la détente et le support d'accessoires. Sa conception bullpup le rend plus compact et maniable sans avoir à raccourcir le canon pour autant.</French>
+        <Spanish>El Rahim de 7,62 mm es un fusil bullpup utilizado como arma de precisión por parte del enemigo. Se basa en un fusil ruso anterior, con características mejoradas como el mecanismo de fuego, el gatillo y el raíl. El diseño bullpup permite un arma más compacta y maniobrable, sin acortar el cañón.</Spanish>
+        <Italian>Il Rahim 7,62 mm è un fucile usato come arma specifica per tiratori scelti designati OPFOR. Si basa su un più vecchio fucile russo, dotato di caratteristiche più avanzate quali il meccanismo di fuoco, il grilletto e la rotaia. La struttura bullpup consente un fucile più compatto e maneggevole senza accorciare il tamburo.</Italian>
+        <Polish>Rahim kaliber 7,62 mm to karabin wykorzystywany przez siły OPFOR jako broń strzelców wyborowych. Jej konstrukcję oparto na starszym modelu rosyjskiego karabinu, wprowadzając szereg ulepszeń, na przykład mechanizm spustowy oraz szynę. Dzięki konstrukcji typu bullpup można było zmniejszyć rozmiar karabinu bez potrzeby skracania lufy.</Polish>
+        <Russian>Rahim - 7,62-мм булл-пап винтовка, которая используется пехотными снайперами в войсках OPFOR. В основе Rahim лежит старая русская винтовка с улучшенным ударником и спусковым крючком, а также дополненная планками для навесного оборудования. Компоновка булл-пап позволила сделать винтовку более маневренной и компактной без необходимости укорачивать ствол.</Russian>
+        <German>Das Rahim 7,62 mm ist ein Bullpup-Gewehr, das bei der OPFOR als ausgewiesene Scharfschützenwaffe eingesetzt wird. Es basiert auf dem älteren russischen Modell und verfügt über aktualisierte Funktionen bei Feuermechanismus, Abzug und Schiene. Durch das Bullpup-Design ist das Gewehr kompakter und besser zu transportieren, ohne dass der Lauf gekürzt werden musste.</German>
+        <Czech>Rahim 7,62 je puška s designem bullpup (zásobník a komora se nachází za spouští), která je určena pro ostrostřelce v jednotkách OPFOR. Je založena na starší ruské pušce se zdokonalenými moderními prvky, například vnitřním mechanismem, spouští a montážní lištou. Díky designu bullpup je zbraň kompaktnější a umožňuje lepší manévrování bez nutnosti zkrácení hlavně.</Czech>
+        <English>The Rahim 7.62 mm is a bullpup rifle serving as a designated marksman weapon for the OPFOR. It's based on the older Russian rifle with upgraded modern features such as firing mechanism, trigger and rail. The bullpup design allows the rifle to be more compact and maneuverable without shortening the barrel.</English>
+        <Portuguese>O fuzil bullpup Rahim 7,62 mm é a principal arma dos atiradores de elite das Forças Opositoras. Ele é baseado em um fuzil russo mais antigo, mas seus mecanismos de disparo, gatilho e trilho de acessórios foram melhorados. O modelo bullpup permite que o fuzil seja mais compacto e manuseável sem diminuir o barril.</Portuguese>
+        <Korean>라힘(Rahim) 7.62mm는 대항군에서 지정사수용 화기로 사용되는 불펍식 소총입니다. 구형 러시아제 소총을 기반으로 격발장치와 방아쇠, 레일 등의 현대적인 기능이 개선되었으며, 불펍식 설계로 인해 총열의 길이를 줄이지 않고도 휴대성과 기동성이 향상되었습니다.</Korean>
+        <Chinesesimp>Rahim 7.62 mm是一把给红方精准射手使用的无托步枪. 它是基于老一辈的俄罗斯步枪, 在加上一些现代的击发机制, 板机与滑轨所制而成. 它的无托设计使它的枪身更为紧凑, 使其具有高机动性而不用缩短枪管.</Chinesesimp>
+        <Japanese>ラヒム7.62mmはブルパップ方式ライフルで、OPFORのマークスマン用武器として採用されている。古いロシア製ライフルをベースに点火装置、トリガー、レールなどの新たな機能が追加されている。ブルパップ設計のおかげで銃身を切り詰めることなく小型化、操作性の向上に成功している。</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag0">
+        <Original>12.7mm 5Rnd APDS Mag</Original>
+        <Chinese>12.7mm 5發 脫殼穿甲彈 彈匣</Chinese>
+        <French>Chargeur 5 balles 12,7 mm APDS</French>
+        <Spanish>Cargador APDS de 12,7 mm, 5 cargas</Spanish>
+        <Italian>Caricatore 12,7 mm 5 muniz. APDS</Italian>
+        <Polish>Magazynek 5 naboi 12,7mm APDS</Polish>
+        <Russian>Магазин на 5 подкалиб.12,7-мм патронов </Russian>
+        <German>12,7 mm 5-Schuss-APDS-Magazin</German>
+        <Czech>12,7 mm, 5ks zásobník APDS</Czech>
+        <English>12.7mm 5Rnd APDS Mag</English>
+        <Portuguese>Pente de 5 balas de 12,7 mm APDS</Portuguese>
+        <Korean>12.7mm APDS 5발 탄창</Korean>
+        <Chinesesimp>12.7mm 5发 脱壳穿甲弹 弹匣</Chinesesimp>
+        <Japanese>12.7mm 5Rnd APDSマガジン</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag1">
+        <Original>Caliber: 7.62x54 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Rahim</Original>
+        <Chinese>口徑: 7.62x54 mm&lt;br /&gt;發數: 10&lt;br /&gt;使用於: Rahim</Chinese>
+        <French>Calibre : 7,62x54 mm&lt;br /&gt;Munitions : 10&lt;br /&gt;Application : Rahim</French>
+        <Spanish>Calibre: 7,62 x 54 mm&lt;br /&gt;Cargas: 10&lt;br /&gt;Se usa en: Rahim</Spanish>
+        <Italian>Calibro: 7,62x54 mm&lt;br /&gt;Munizioni: 10&lt;br /&gt;Si usa in: Rahim</Italian>
+        <Polish>Kaliber: 7,62x54 mm&lt;br /&gt;Magazynek: 10&lt;br /&gt;Używany w: Rahim</Polish>
+        <Russian>Калибр: 7.62x54 мм&lt;br /&gt;патроны: 10&lt;br /&gt;Применение: Rahim</Russian>
+        <German>Kaliber: 7,62x54 mm&lt;br /&gt;Patronen: 10&lt;br /&gt;Eingesetzt in: Rahim</German>
+        <Czech>Ráže: 7,62x54 mm&lt;br /&gt;Munice: 10&lt;br /&gt;Použití: Rahim</Czech>
+        <English>Caliber: 7.62x54 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Rahim</English>
+        <Portuguese>Calibre: 7,62 x 54 mm&lt;br /&gt;Quantidade: 10&lt;br /&gt;Uso em: Rahim</Portuguese>
+        <Korean>구경: 7.62x54mm&lt;br /&gt;탄 수: 10&lt;br /&gt;사용 가능: 라힘</Korean>
+        <Chinesesimp>口径: 7.62x54 mm&lt;br /&gt;发数: 10&lt;br /&gt;使用于: Rahim</Chinesesimp>
+        <Japanese>口径：7.62x54 mm&lt;br /&gt;弾薬：10&lt;br /&gt;使用：ラヒム</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag0">
+        <Original>7.62mm 10Rnd Mag</Original>
+        <Chinese>7.62mm 10發 彈匣</Chinese>
+        <French>Chargeur 10 balles 7,62 mm sans douille</French>
+        <Spanish>7,62 mm, cargador de 10 balas</Spanish>
+        <Italian>Caricatore 7,62 mm 10 muniz.</Italian>
+        <Polish>Magazynek 10 naboi 7,62 mm</Polish>
+        <Russian>Магазин на 10 патронов 7,62 мм</Russian>
+        <German>7,62 mm 10-Schuss-Magazin</German>
+        <Czech>7,62 mm, 10ks zásobník</Czech>
+        <English>7.62mm 10Rnd Mag</English>
+        <Portuguese>Pente de 10 balas de 7,62 mm</Portuguese>
+        <Korean>7.62mm 10발 탄창</Korean>
+        <Chinesesimp>7.62mm 10发 弹匣</Chinesesimp>
+        <Japanese>7.62mm 10Rndマガジン</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag0">
+        <Original>.45 ACP 11Rnd Mag</Original>
+        <Chinese>.45 ACP 11發 彈匣</Chinese>
+        <French>Chargeur 11 balles .45 ACP</French>
+        <Spanish>.45 ACP, cargador de 11 balas</Spanish>
+        <Italian>Caricatore .45 ACP 11 muniz.</Italian>
+        <Polish>Magazynek 11 naboi .45 ACP</Polish>
+        <Russian>Магазин на 11 патронов .45 ACP</Russian>
+        <German>.45 ACP 11-Schuss-Magazin</German>
+        <Czech>.45 ACP, 11ks zásobník</Czech>
+        <English>.45 ACP 11Rnd Mag</English>
+        <Portuguese>Pente de 11 balas de .45 ACP</Portuguese>
+        <Korean>.45구경 ACP 11발 탄창</Korean>
+        <Chinesesimp>.45 ACP 11发 弹匣</Chinesesimp>
+        <Japanese>.45 ACP 11Rndマガジン</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag1">
+        <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-five</Original>
+        <Chinese>口徑: .45 ACP&lt;br /&gt;發數: 11&lt;br /&gt;使用於: 4-five</Chinese>
+        <French>Calibre : .45 ACP&lt;br /&gt;Munitions : 11&lt;br /&gt;Application : 4-five</French>
+        <Spanish>Calibre: .45 ACP&lt;br /&gt;Cargas: 11&lt;br /&gt;Se usa en: 4-five</Spanish>
+        <Italian>Calibro: .45 ACP&lt;br /&gt;Munizioni: 11&lt;br /&gt;Si usa in: 4-cinque</Italian>
+        <Polish>Kaliber: .45 ACP&lt;br /&gt;Magazynek: 11&lt;br /&gt;Używany w: 4-five</Polish>
+        <Russian>Калибр: .45 ACP&lt;br /&gt;Патроны: 11&lt;br /&gt;Применение: 4-five</Russian>
+        <German>Kaliber: .45 ACP&lt;br /&gt;Patronen: 11&lt;br /&gt;Eingesetzt in: 4-five</German>
+        <Czech>Ráže: .45 ACP&lt;br /&gt;Munice: 11&lt;br /&gt;Použití: 4-five</Czech>
+        <English>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-five</English>
+        <Portuguese>Calibre: .45 ACP&lt;br /&gt;Quantidade: 11&lt;br /&gt;Uso em: 4-five</Portuguese>
+        <Korean>구경: .45 ACP&lt;br /&gt;탄 수: 11&lt;br /&gt;사용 가능: 4-파이브</Korean>
+        <Chinesesimp>口径: .45 ACP&lt;br /&gt;发数: 11&lt;br /&gt;使用于: 4-five</Chinesesimp>
+        <Japanese>口径：.45 ACP&lt;br /&gt;弾薬：11&lt;br /&gt;使用：4-ファイブ</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_acc_dms0">
+        <Original>DMS</Original>
+        <Chinese>精準射手瞄準鏡</Chinese>
+        <French>DMS</French>
+        <Spanish>DMS</Spanish>
+        <Italian>DMS</Italian>
+        <Polish>DMS</Polish>
+        <Russian>DMS</Russian>
+        <German>DMS</German>
+        <Czech>DMS</Czech>
+        <English>DMS</English>
+        <Portuguese>DMS</Portuguese>
+        <Korean>DMS</Korean>
+        <Chinesesimp>精准射手瞄准镜</Chinesesimp>
+        <Japanese>DMS</Japanese>
+      </Key>
+      <Key ID="str_a3_cfgweapons_acc_dms1">
+        <Original>DMS&lt;br /&gt;Magnification: 2x–4x</Original>
+        <Chinese>精準射手瞄準鏡&lt;br /&gt;倍率: 2x–4x</Chinese>
+        <French>DMS&lt;br /&gt;Grossissement : 2x–4x</French>
+        <Spanish>DMS&lt;br /&gt;Aumento: 2x–4x</Spanish>
+        <Italian>DMS&lt;br /&gt;Mirino: 2x–4x</Italian>
+        <Polish>DMS&lt;br /&gt;Powiększenie: 2x–4x</Polish>
+        <Russian>DMS&lt;br /&gt;Увеличение: 2x–4x</Russian>
+        <German>DMS&lt;br /&gt;Vergrößerung: 2x–4x</German>
+        <Czech>DMS&lt;br /&gt;Zvětšení: 2x–4x</Czech>
+        <English>DMS&lt;br /&gt;Magnification: 2x–4x</English>
+        <Portuguese>DMS&lt;br /&gt;Ampliação: 2x – 4x</Portuguese>
+        <Korean>DMS&lt;br /&gt;배율: 2배-4배</Korean>
+        <Chinesesimp>精准射手瞄准镜&lt;br /&gt;倍率: 2x–4x</Chinesesimp>
+        <Japanese>DMS&lt;br /&gt;倍率：2x–4x</Japanese>
+      </Key>
+    </Container>
+  </Package>
+</Project>

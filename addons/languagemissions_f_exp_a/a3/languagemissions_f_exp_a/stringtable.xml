@@ -1,0 +1,878 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><Project name="Arma3">
+  <Package name="Languagemissions_Exp_A">
+    <Container name="Missions">
+      <Container name="Scenarios">
+        <Container name="EndGame02">
+          <Key ID="STR_A3_EndGame02_Task01">
+            <Original>An AAF unmanned ground vehicle was knocked out near the abandoned settlement in the southern hills. Find its remains and try to retrieve any intact data.</Original>
+            <Chinese>一台AAF的無人地面載具被擊毀在廢棄小鎮南方附近的丘陵上. 尋找殘骸, 並奪得裡面剩餘的情報資料.</Chinese>
+            <French>Un drone terrestre de l'AAF a explosé près du village abandonné dans les collines du sud. Retrouvez ce qu'il en reste et tentez d'en récupérer les données intactes, s'il y en a.</French>
+            <Spanish>Un vehículo de tierra no tripulado de la AAF ha sido derribado cerca del asentamiento abandonado de las colinas del sur. Encuentre sus restos y recupere toda la información que encuentre intacta.</Spanish>
+            <Italian>Un veicolo terrestre dell'AAF è stato neutralizzato vicino all'insediamento abbandonato sulle colline meridionali. Trovane i resti e cerca di recuperare i dati intatti.</Italian>
+            <Polish>Bezzałogowy pojazd lądowy AAF został zniszczony w pobliżu opuszczonej osady na wzgórzach na południe. Znajdź jego pozostałości i spróbuj odzyskać wszelkie nienaruszone dane.</Polish>
+            <Russian>Беспилотное наземное транспортное средство AAF было подбито возле заброшенного поселения на южных холмах. Найдите его останки и попытайтесь извлечь любые неповрежденные данные.</Russian>
+            <German>Ein unbemanntes Bodenfahrzeug der AAF wurde nahe der verlassenen Siedlung in den südlich gelegenen Hügeln ausgeschaltet. Machen Sie das Wrack ausfindig und bergen Sie alle noch intakten Daten.</German>
+            <Czech>Automatické pozemní vozidlo AAF bylo vyřazeno z boje nedaleko opuštěné osady v horách na jihu. Najděte jeho zbytky a získejte případná neporušená data.</Czech>
+            <English>An AAF unmanned ground vehicle was knocked out near the abandoned settlement in the southern hills. Find its remains and try to retrieve any intact data.</English>
+            <Portuguese>Um veículo terrestre não tripulado AAF foi neutralizado perto do assentamento abandonado que fica nas montanhas ao sul. Encontre o que sobrou dele e tente recuperar quaisquer dados intactos.</Portuguese>
+            <Korean>AAF 무인지상차량이 남쪽 언덕의 버려진 정착지 부근에서 전복되었다. 잔해를 뒤져 손상되지 않은 데이터는 모두 회수해라.</Korean>
+            <Chinesesimp>一台AAF的无人地面载具被击毁在废弃小镇南方附近的丘陵上. 寻找残骸, 并夺得里面剩余的情报资料.</Chinesesimp>
+            <Japanese>AAF無人陸上車両が南部の丘の放棄された集落付近で破壊された。残骸を見つけ出し、残ったデータを回収せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task02">
+            <Original>An aerial recon spotted an Altis Navy attack boat anchored in a small port to the south. Try to get some data from its sensors but make sure you destroy it afterwards.</Original>
+            <Chinese>我們的空中偵察機發現到一個Altis海軍攻擊艇下錨在南方的一個港口中. 嘗試奪得上面的資料, 並在最後摧毀它.</Chinese>
+            <French>Lors d'une reconnaissance aérienne, nous avons repéré un navire  d'attaque de la marine d'Altis, à l'ancre dans un petit port, au sud. Essayez d'obtenir les données recueillies par ses capteurs, puis détruisez-le.</French>
+            <Spanish>El reconocimiento aéreo ha divisado un barco de ataque de la marina de Altis anclado en un pequeño puerto al sur. Obtenga información de sus sensores, pero asegúrese de destruirla después.</Spanish>
+            <Italian>La ricognizione aerea ha identificato una motovedetta della Marina di Altis ancorata in un piccolo porto a sud. Cerca di recuperare dei dati dai suoi sensori, ma assicurati di distruggerla non appena hai finito.</Italian>
+            <Polish>Zwiad lotniczy zauważył statek bojowy Altis zakotwiczony przy niewielkim porcie na południe. Postaraj się pozyskać dane z jego czujników, ale pamiętaj, by go następnie zniszczyć.</Polish>
+            <Russian>Воздушная разведка сообщает о штурмовой лодке AAF, поставленной на якорь в небольшом порту к югу отсюда. Попытайтесь получить данные с ее датчиков, после чего ее необходимо уничтожить.</Russian>
+            <German>Die Luftaufklärung hat entdeckt, dass ein Schnellboot der Marine von Altis in einem kleinen Hafen im Süden vor Anker gegangen ist. Versuchen Sie, sich einige seiner Sensordaten zu beschaffen, und vergessen Sie nicht, das Boot danach zu vernichten.</German>
+            <Czech>Průzkumné letadlo zahlédlo útočný člun altiského námořnictva, jak kotví v malém přístavu na jihu. Zkuste získat z jeho čidel nějaká data, nezapomeňte jej však potom zničit.</Czech>
+            <English>An aerial recon spotted an Altis Navy attack boat anchored in a small port to the south. Try to get some data from its sensors but make sure you destroy it afterwards.</English>
+            <Portuguese>Um reconhecimento aéreo avistou um barco de ataque da Marinha de Altis ancorado num pequeno porto ao sul. Procure obter alguns dados com os sensores do barco, mas certifique-se de destruí-lo depois.</Portuguese>
+            <Korean>공중 정찰 도중 Altis 해군 공격 단정이 남쪽의 작은 항구에 정박해 있는 것을 발견했다. 센서기를 통해 관련 자료를 입수한 뒤 단정을 확실히 파괴해라.</Korean>
+            <Chinesesimp>我们的空中侦察机发现到一个Altis海军攻击艇下锚在南方的一个港口中. 尝试夺得上面的资料, 并在最后摧毁它.</Chinesesimp>
+            <Japanese>航空偵察が小さな港で停泊しているアルティス海軍のアッタクボートを南方に見つけた。センサーからデータを入手し、その後センサーを破壊せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task03">
+            <Original>A local AAN reporter managed to collect some interesting footage which might assist our ground units with advancing inland.</Original>
+            <Chinese>一個當地的AAN記者設法獲得了一些有趣的影片, 這可能可以幫助我們地面部隊推進到內陸.</Chinese>
+            <French>Un correspondant local de l'AAN a filmé des vidéos qui pourraient aider nos unités au sol à progresser vers l'intérieur de l'île.</French>
+            <Spanish>Un periodista local de la AAN ha conseguido reunir material interesante que podría ser de gran ayuda para el avance de nuestras tropas terrestres.</Spanish>
+            <Italian>Un inviato dell'AAN è riuscito a registrare dei filmati che potrebbero assistere le nostre truppe nell'avanzata verso l'entroterra.</Italian>
+            <Polish>Lokalny wysłannik AAN wszedł w posiadanie interesujących nagrań, które mogą pomóc naszym jednostkom lądowym w natarciu w głąb lądu.</Polish>
+            <Russian>Местному репортеру AAN удалось запечатлеть достаточно интересные кадры, что может помочь нашим сухопутным подразделениям при продвижении в глубь острова.</Russian>
+            <German>Einem Lokalreporter von AAN sind einige interessante Aufnahmen gelungen, die unseren Bodentruppen dabei helfen könnten, weiter ins Inland vorzurücken.</German>
+            <Czech>Místní reportér stanice AAN získal zajímavé video, které by mohlo pomoci našim pozemním jednotkám při postupu do vnitrozemí.</Czech>
+            <English>A local AAN reporter managed to collect some interesting footage which might assist our ground units with advancing inland.</English>
+            <Portuguese>Um repórter da AAN local conseguiu recolher umas imagens interessantes que podem ajudar as nossas unidades terrestres a avançar em direção ao interior.</Portuguese>
+            <Korean>현지 AAN 기자가 지상으로 진입하는 아군의 육상부대를 도와줄 만한 흥미로운 영상을 입수했다.</Korean>
+            <Chinesesimp>一个当地的AAN记者设法获得了一些有趣的影片, 这可能可以帮助我们地面部队推进到内陆.</Chinesesimp>
+            <Japanese>地元のAANレポーターが、地上部隊が内陸を前進するのに役立つ興味深い映像を収集した。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task04">
+            <Original>A western PMC group was active in the Selakano area. Try to find their operatives and convince them to cooperate.</Original>
+            <Chinese>一組西方的傭兵小隊曾在Selakano區域活動. 設法找到他們並說服他們與我方合作.</Chinese>
+            <French>Une société militaire privée occidentale travaillait dans la zone de Selakano. Retrouvez ses hommes et convainquez-les de coopérer.</French>
+            <Spanish>Había una EMP occidental en la zona de Selakano. Encuentre a sus operativos y convénzalos de que cooperen.</Spanish>
+            <Italian>Un gruppo di mercenari occidentali era attivo nell'area di Selakano. Trovane gli agenti e prova a convincerli a collaborare.</Italian>
+            <Polish>Zachodnia prywatna firma wojskowa działa w rejonie Selakano. Spróbuj odnaleźć jej operatorów i nakłoń ich do współpracy.</Polish>
+            <Russian>Западная группа ЧВК вела активные действия в районе Селакано. Попытайтесь разыскать их оперативных сотрудников и склонить их к сотрудничеству.</Russian>
+            <German>Eine westliche Söldner-Gruppe war in der Gegend um Selakano aktiv. Versuchen Sie, deren Offiziere aufzuspüren und zur Kooperation zu bewegen.</German>
+            <Czech>V oblasti Selakano byla zaznamenána aktivita skupiny západních žoldnéřů. Zkuste tyto operativce najít a přesvědčit je ke spolupráci.</Czech>
+            <English>A western PMC group was active in the Selakano area. Try to find their operatives and convince them to cooperate.</English>
+            <Portuguese>Um grupo ocidental PMC estava ativo na área do Vale do Selakano. Tente encontrar os agentes desse grupo e convencê-los a cooperar.</Portuguese>
+            <Korean>서구의 PMC 그룹이 셀라카노 지역에서 활발하게 활동하고 있다. 그룹의 정보원을 찾아 함께 협력을 설득해라.</Korean>
+            <Chinesesimp>一组西方的佣兵小队曾在Selakano区域活动. 设法找到他们并说服他们与我方合作.</Chinesesimp>
+            <Japanese>欧米のPMCグループがセラカノエリアで活動していた。彼らの工作員を探し出し、協力するよう説得せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task05">
+            <Original>The seaside chapel provided shelter to AAF units fleeing airstrikes. Search the area for any relevant intel.</Original>
+            <Chinese>在海邊的禮拜堂曾經提供AAF躲避空襲. 搜索該區是否有任何殘留的情報.</Chinese>
+            <French>Des unités de l'AAF fuyant les frappes aériennes ont trouvé refuge dans la chapelle sur la côte. Fouillez la zone afin d'y trouver des renseignements.</French>
+            <Spanish>La capilla junto al mar ofreció cobijo a las unidades de la AAF que huían de los ataques aéreos. Registre la zona y localice toda información relevante.</Spanish>
+            <Italian>La cappella sulla costa ha fornito riparo alle unità dell'AAF in fuga dai bombardamenti. Perlustra l'area in cerca di informazioni pertinenti.</Italian>
+            <Polish>W przybrzeżnej kaplicy ukrywają się jednostki AAF szukające schronienia przed atakami z powietrza. Przeszukaj okolicę w poszukiwaniu przydatnego źródła wywiadowczego.</Polish>
+            <Russian>Часовня у моря обеспечивала укрытие подразделениям AAF при авиаударах. Обыщите район на предмет наличия разведданных.</Russian>
+            <German>Die Kapelle am Meer hat den Einheiten der AAF Schutz vor Luftschlägen geboten. Durchsuchen Sie die Gegend nach relevanten Informationen.</German>
+            <Czech>Pobřežní kaple sloužila jako útočiště jednotkám AAF, které prchaly před leteckými útoky. Prohledejte oblast a zajistěte případné informace.</Czech>
+            <English>The seaside chapel provided shelter to AAF units fleeing airstrikes. Search the area for any relevant intel.</English>
+            <Portuguese>A capela à beira-mar serviu de abrigo às unidades AAF em fuga de ataques aéreos. Procure por quaisquer informações de inteligência relevantes na área.</Portuguese>
+            <Korean>해안가의 교회는 AAF 부대에게 공습을 피할 수 있도록 은신처를 제공하고 있다. 그 일대를 수색해 모든 관련 정보를 회수해라.</Korean>
+            <Chinesesimp>在海边的礼拜堂曾经提供AAF躲避空袭. 搜索该区是否有任何残留的情报.</Chinesesimp>
+            <Japanese>空襲から逃れたAAF部隊は海辺の礼拝堂に身を隠した。エリアを捜索し、関連情報を入手せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task06">
+            <Original>An AAF convoy was hit on the road between Feres and Selakano. Search the area and try to recover any useful info.</Original>
+            <Chinese>AAF的車隊曾經在Feres與Selakano之間遇襲. 搜索該區並回收任何有用的情報.</Chinese>
+            <French>Un convoi de l'AAF a été attaqué sur la route reliant Feres à Selakano. Fouillez la zone et collectez tout renseignement utile.</French>
+            <Spanish>Un convoy de la AAF ha sido atacado en la carretera que une Feres y Selakano. Registre la zona e intente recuperar toda información importante.</Spanish>
+            <Italian>Un convoglio dell'AAF è stato colpito sulla strada tra Feres e Selakano. Perlustra l'area e prova a recuperare informazioni utili.</Italian>
+            <Polish>Konwój AAF został ostrzelany na drodze wiodącej z Feres do Selakano. Przeszukaj obszar i postaraj się odzyskać jakiekolwiek przydatne informacje.</Polish>
+            <Russian>На конвой AAF было совершено нападение на дороге между Фересом и Селакано. Обыщите район и попытайтесь найти какую-либо полезную информацию.</Russian>
+            <German>Einen AAF-Konvoi hat es auf der Straße von Feres nach Selakano erwischt. Durchsuchen Sie die Gegend und versuchen Sie, alle nützlichen Informationen zu bergen.</German>
+            <Czech>Na cestě mezi městy Feres a Selakano byl napaden konvoj AAF. Prohledejte oblast a zkuste získat jakékoli užitečné informace.</Czech>
+            <English>An AAF convoy was hit on the road between Feres and Selakano. Search the area and try to recover any useful info.</English>
+            <Portuguese>Uma escolta da AAF foi atingida no caminho entre Feres e Selakano. Vasculhe a área e tente recuperar quaisquer informações úteis.</Portuguese>
+            <Korean>AAF 호송대가 페레스와 셀라카노 간 도로에서 공격당했다. 그 일대를 수색해 유용한 데이터는 모두 회수해라.</Korean>
+            <Chinesesimp>AAF的车队曾经在Feres与Selakano之间遇袭. 搜索该区并回收任何有用的情报.</Chinesesimp>
+            <Japanese>AAF輸送団がフェレスとセラカノ間の路上でやられた。エリアを捜索し、役に立つ情報を回収せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task07">
+            <Original>The AAF airbase to the south was recently abandoned and may hold some information of use to us. Search the area for any usable information.</Original>
+            <Chinese>AAF空軍基地的南面最近被廢棄了, 那裡可能有些有趣的情報. 搜索該區並取回有用的資訊.</Chinese>
+            <French>La base aérienne sud de l'AAF a été récemment abandonnée. Nous y trouverons peut-être des informations intéressantes. Fouillez la zone et récupérez toutes les informations utiles.</French>
+            <Spanish>La base aérea que la AAF tiene al sur fue recientemente abandonada y podría ocultar información que nos sea útil. Registre la zona para conseguir toda información que podamos usar.</Spanish>
+            <Italian>La base aerea dell'AAF a sud è stata recentemente abbandonata e potrebbe contenere informazioni utili. Perlustra l'area in cerca di informazioni.</Italian>
+            <Polish>Baza lotnicza AAF na południe stąd została niedawno opuszczona. Być może zawiera cenne informacje. Przeszukaj obszar w poszukiwaniu przydatnych informacji.</Polish>
+            <Russian>Подразделения AAF недавно покинули воздушную базу к югу отсюда. На ней может быть информация, которая может нам помочь. Обыщите район на предмет наличия какой-либо полезной информации.</Russian>
+            <German>Die AAF-Luftwaffenbasis im Süden ist kürzlich aufgegeben worden. Vielleicht warten dort ja noch einige interessante Daten auf uns. Durchsuchen Sie die Gegend nach brauchbaren Informationen.</German>
+            <Czech>Letecká základna AAF na jihu byla nedávno opuštěna a mohou se v ní nacházet informace, které by se nám mohly hodit. Prohledejte oblast a zajistěte jakékoli užitečné informace.</Czech>
+            <English>The AAF airbase to the south was recently abandoned and may hold some information of use to us. Search the area for any usable information.</English>
+            <Portuguese>A base aérea da AAF ao sul foi recentemente abandonada e talvez guarde algumas informações úteis para nós. Procure por quaisquer informações relevantes na área.</Portuguese>
+            <Korean>최근에 버려진 AAF의 남쪽 항공기지에 아군에게 유용한 정보가 남아있을 수도 있다. 그 일대를 수색해 유용한 정보는 모두 회수해라.</Korean>
+            <Chinesesimp>AAF空军基地的南面最近被废弃了, 那里可能有些有趣的情报. 搜索该区并取回有用的资讯.</Chinesesimp>
+            <Japanese>南にあるAAF空軍基地が先日放棄された。役に立つ情報がそこにあるかもしれない。エリアを捜索し、役に立つ情報を回収せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task08">
+            <Original>According to a wounded guerrilla fighter, some valuable data is hidden in a grave marked 'Unknown' inside Feres military cemetery.</Original>
+            <Chinese>根據一名受傷游擊隊員的說詞, 一些有用的資料被藏在Feres軍人公墓中標示'未知'點的地方.</Chinese>
+            <French>D'après un guérillero blessé, des données importantes ont été cachées dans une tombe anonyme, au cimetière militaire de Feres.</French>
+            <Spanish>Según un guerrero herido de la guerrilla, hay información valiosa oculta en una tumba del cementerio militar de Feres. El epitafio reza "Desconocido".</Spanish>
+            <Italian>Secondo il guerrigliero ferito, all'interno di una tomba senza nome nel cimitero militare di Feres sono nascosti dati importanti.</Italian>
+            <Polish>Według rannych członków bojówki w grobie oznaczonym jako „Nieznany”, znajdującym się na terenie cmentarza wojskowego w Feres, znajdują się cenne dane.</Polish>
+            <Russian>По словам раненного партизана, ценные данные спрятаны в могиле с пометкой «Неизвестно» на военном кладбище Фереса.</Russian>
+            <German>Nach Aussagen eines verwundeten Guerilla-Kämpfers sind einige wertvolle Daten im Grab eines unbekannten Soldaten auf dem Soldatenfriedhof von Feres versteckt.</German>
+            <Czech>Podle informací od zraněného partyzána jsou v hrobu s označením „Neznámý“ na vojenském hřbitově ve Feresu uložena cenná data.</Czech>
+            <English>According to a wounded guerrilla fighter, some valuable data is hidden in a grave marked 'Unknown' inside Feres military cemetery.</English>
+            <Portuguese>Segundo um guerrilheiro ferido, há dados valiosos escondidos numa sepultura marcada como “Desconhecida” dentro do cemitério das forças armadas de Feres.</Portuguese>
+            <Korean>부상당한 한 게릴라에 따르면, 중요한 데이터가 페레스 국군묘지 내 "미확인"으로 표시된 무덤에 숨겨져 있다.</Korean>
+            <Chinesesimp>根据一名受伤游击队员的说词, 一些有用的资料被藏在Feres军人公墓中标示'未知'点的地方.</Chinesesimp>
+            <Japanese>負傷したゲリラ兵によると、フェレスの軍人墓地にある「無名」と記された墓に貴重なデータが隠されている。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_Task09">
+            <Original>According to a UAV recon, a small guerrilla force is located near the windmills in the hills. Find them and convince them to support your operation.</Original>
+            <Chinese>根據無人機的偵察, 一組游擊隊被發現出沒在風車附近的山坡上. 找到他們並說服他們與我方合作.</Chinese>
+            <French>D'après une reconnaissance UAV, quelques guérilleros ont pris position près des moulins à vent, dans les collines. Trouvez-les et convainquez-les d'apporter leur soutien à votre mission.</French>
+            <Spanish>Según un VANT de reconocimiento, hay una pequeña guerrilla ubicada cerca de los molinos de las colinas. Encuéntrelos y convénzalos para que apoyen nuestra operación.</Spanish>
+            <Italian>Stando alla ricognizione dell'UAV, una piccola forza di guerriglieri si trova vicino ai mulini a vento sulle colline. Trovali e convincili a sostenere la tua operazione.</Italian>
+            <Polish>Zwiad dronami wykrył obecność niewielkich sił bojówki w pobliżu młynów na wzgórzach. Znajdź ich i nakłoń do udzielenia wsparcia twojej operacji.</Polish>
+            <Russian>По данным разведки БПА рядом с мельницами на холмах расположился небольшой отряд партизан. Найдите их и убедите оказать помощь в проведении операции.</Russian>
+            <German>Einem UAV-Aufklärer zufolge befindet sich eine kleine Guerilla-Truppe in der Nähe der Windmühlen in den Hügeln. Spüren Sie diese Gruppe auf und bringen Sie die Guerillas dazu, Sie bei Ihrem Einsatz zu unterstützen.</German>
+            <Czech>Průzkum bezpilotního letounu odhalil nedaleko větrných mlýnů v horách malou partyzánskou jednotku. Najděte ji a přesvědčte ke spolupráci.</Czech>
+            <English>According to a UAV recon, a small guerrilla force is located near the windmills in the hills. Find them and convince them to support your operation.</English>
+            <Portuguese>Segundo o reconhecimento de um VANT, há uma pequena guerrilha localizada perto dos moinhos de vento nas colinas. Encontre os guerrilheiros e convença-os a apoiar sua operação.</Portuguese>
+            <Korean>UVA 정찰에 따르면, 소규모 게릴라 부대가 언덕의 풍차 부근에 위치해 있다. 이들을 찾아 작전을 지원하도록 설득해라.</Korean>
+            <Chinesesimp>根据无人机的侦察, 一组游击队被发现出没在风车附近的山坡上. 找到他们并说服他们与我方合作.</Chinesesimp>
+            <Japanese>UAV偵察によると小さなゲリラ部隊が丘にある風車付近で発見された。彼らを探し出し、作戦を支援するよう説得せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_missionName">
+            <Original>Feres</Original>
+            <Chinese>Feres</Chinese>
+            <French>Feres</French>
+            <Spanish>Feres</Spanish>
+            <Italian>Feres</Italian>
+            <Polish>Feres</Polish>
+            <Russian>Ферес</Russian>
+            <German>Feres</German>
+            <Czech>Feres</Czech>
+            <English>Feres</English>
+            <Portuguese>Feres</Portuguese>
+            <Korean>Feres</Korean>
+            <Chinesesimp>Feres</Chinesesimp>
+            <Japanese>Feres</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame02_missionNameLobby">
+            <Original>End Game 32 Feres</Original>
+            <Chinese>終戰 32 Feres</Chinese>
+            <French>End Game 32 Feres</French>
+            <Spanish>End Game 32 Feres</Spanish>
+            <Italian>End Game 32 Feres</Italian>
+            <Polish>End Game 32 Feres</Polish>
+            <Russian>End Game 32 Feres</Russian>
+            <German>End Game 32 Feres</German>
+            <Czech>End Game 32 Feres</Czech>
+            <English>End Game 32 Feres</English>
+            <Portuguese>End Game 32 Feres</Portuguese>
+            <Korean>End Game 32 Feres</Korean>
+            <Chinesesimp>终战 32 Feres</Chinesesimp>
+            <Japanese>End Game 32 Feres</Japanese>
+          </Key>
+        </Container>
+        <Container name="EndGame03">
+          <Key ID="STR_A3_EndGame03_missionName">
+            <Original>Zaros</Original>
+            <Chinese>Zaros</Chinese>
+            <French>Zaros</French>
+            <Spanish>Zaros</Spanish>
+            <Italian>Zaros</Italian>
+            <Polish>Zaros</Polish>
+            <Russian>Zaros</Russian>
+            <German>Zaros</German>
+            <Czech>Zaros</Czech>
+            <English>Zaros</English>
+            <Portuguese>Zaros</Portuguese>
+            <Korean>Zaros</Korean>
+            <Chinesesimp>Zaros</Chinesesimp>
+            <Japanese>Zaros</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame03_missionNameLobby">
+            <Original>End Game 16 Zaros</Original>
+            <Chinese>終戰 16 Zaros</Chinese>
+            <French>End Game 16 Zaros</French>
+            <Spanish>End Game 16 Zaros</Spanish>
+            <Italian>End Game 16 Zaros</Italian>
+            <Polish>End Game 16 Zaros</Polish>
+            <Russian>End Game 16 Zaros</Russian>
+            <German>End Game 16 Zaros</German>
+            <Czech>End Game 16 Zaros</Czech>
+            <English>End Game 16 Zaros</English>
+            <Portuguese>End Game 16 Zaros</Portuguese>
+            <Korean>End Game 16 Zaros</Korean>
+            <Chinesesimp>终战 16 Zaros</Chinesesimp>
+            <Japanese>End Game 16 Zaros</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task01a">
+            <Original>According to our intelligence, one source of intel is located in a small park in the center of Zaros.</Original>
+            <Chinese>根據我們的情報, 我們相信其中一條情報來源就在Zaros中間的小公園當中.</Chinese>
+            <French>D'après nos renseignements, une source d'information se trouve dans un petit parc, au centre de Zaros.</French>
+            <Spanish>Según inteligencia, hay una fuente de información ubicada en un pequeño parque del centro de Zaros.</Spanish>
+            <Italian>Stando all'intelligence, in un parchetto al centro di Zaros si trova una fonte di informazioni.</Italian>
+            <Polish>Według informacji naszego wywiadu, jeden z informatorów przebywa w małym parku położonym w centrum Zaros.</Polish>
+            <Russian>По данным нашей разведки один источник разведданных располагается в небольшом парке в центре Зароса.</Russian>
+            <German>Unserem Geheimdienst zufolge befindet sich eine Informationsquelle in einem kleinen Park im Zentrum von Zaros.</German>
+            <Czech>Podle našich zpráv se v malém parku ve středu Zarosu nachází jeden ze zdrojů informací.</Czech>
+            <English>According to our intelligence, one source of intel is located in a small park in the center of Zaros.</English>
+            <Portuguese>Segundo a nossa inteligência, há uma fonte de informações de inteligência localizada num pequeno parque no centro de Zaros.</Portuguese>
+            <Korean>아군 정보에 따르면 정보원 한명이 자로스 중심부의 작은 공원에서 발견되었다.</Korean>
+            <Chinesesimp>根据我们的情报, 我们相信其中一条情报来源就在Zaros中间的小公园当中.</Chinesesimp>
+            <Japanese>我々の情報筋によると、ザロス中心部の小さな公園に1つの情報源が確認された。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task02a">
+            <Original>We're receiving a signal from one of the gardens north of the local cemetery. Search the area and locate the intel.</Original>
+            <Chinese>我們接收到一條訊號, 它來自花園北方的墓地中. 搜索該區並取回任何情報.</Chinese>
+            <French>Nous recevons un signal provenant de l'un des jardins au nord du cimetière local. Fouillez la zone et retrouvez la source d'information.</French>
+            <Spanish>Estamos recibiendo una señal de uno de los jardines al norte del cementerio local. Registre la zona y localice esa información.</Spanish>
+            <Italian>Riceviamo un segnale da uno dei giardini a nord del cimitero del posto. Perlustra l'area e localizza le informazioni.</Italian>
+            <Polish>Odebraliśmy sygnał pochodzący z jednego z ogrodów na północ od miejscowego cmentarza. Przeszukaj obszar i zlokalizuj materiały wywiadowcze.</Polish>
+            <Russian>Мы получаем сигнал от одного из садов к северу от местного кладбища. Обыщите район и найдите разведданные.</Russian>
+            <German>Wir empfangen ein Signal aus einem der Gärten nördlich des hiesigen Friedhofs. Durchsuchen Sie die Gegend und lokalisieren Sie die Daten.</German>
+            <Czech>Zachytili jsme signál z jedné ze zahrad severně od místního hřbitova. Prohledejte oblast a najděte informace.</Czech>
+            <English>We're receiving a signal from one of the gardens north of the local cemetery. Search the area and locate the intel.</English>
+            <Portuguese>Estamos recebendo um sinal de um dos jardins ao norte do cemitério local. Procure na área e localize esse serviço de inteligência.</Portuguese>
+            <Korean>지역 묘지 북쪽의 한 정원에서 신호를 받는 중이다. 이 지역을 수색하여 정보원을 찾아라.</Korean>
+            <Chinesesimp>我们接收到一条讯号, 它来自花园北方的墓地中. 搜索该区并取回任何情报.</Chinesesimp>
+            <Japanese>現在、地元墓地の北にある庭からシグナルを受信中。エリアを捜索し、情報を探し出せ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task03a">
+            <Original>We received a report of a possible intel source located near houses close to the eastern slope of Riga hill.</Original>
+            <Chinese>我們得到了線報, 一條情報來源被定位在Riga山東邊的小屋附近.</Chinese>
+            <French>Nous avons reçu un rapport sur une possible source d'information près de maisons situées non loin de la pente est de la colline de Riga.</French>
+            <Spanish>Hemos recibido informes sobre una posible fuente de información, que estaría ubicada en las casas cercanas a la ladera oriental de la colina de Riga.</Spanish>
+            <Italian>Abbiamo ricevuto un rapporto secondo cui è possibile che una fonte di informazioni sia sita vicino delle case a breve distanza dalle pendici orientali della collina Riga.</Italian>
+            <Polish>Otrzymaliśmy raport wykazujący obecność potencjalnego informatora w pobliżu domów nieopodal wschodniego stoku wzgórza Riga.</Polish>
+            <Russian>Мы получили отчет о возможном расположении разведданных рядом с домами вблизи восточного склона холма Рига.</Russian>
+            <German>Uns hat ein Bericht über eine mögliche Informationsquelle erreicht, die sich bei den Häusern am östlichen Hang des Riga-Hügels befinden soll.</German>
+            <Czech>Dostali jsme zprávu o možném zdroji informací, který se nachází nedaleko domů blízko východního svahu hory Riga.</Czech>
+            <English>We received a report of a possible intel source located near houses close to the eastern slope of Riga hill.</English>
+            <Portuguese>Recebemos um relatório de uma possível fonte de inteligência localizada perto das casas próximas da encosta oriental da montanha Riga.</Portuguese>
+            <Korean>리가 언덕에서 동쪽 경사진 곳의 집 주변에서 정보원으로 보이는 자가 발견됐다는 보고를 받았다.</Korean>
+            <Chinesesimp>我们得到了线报, 一条情报来源被定位在Riga山东边的小屋附近.</Chinesesimp>
+            <Japanese>リガ丘の東斜面付近にある住宅地に情報源があるという報告を受けた。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task01b">
+            <Original>According to our intelligence, one source of intel is located in the church in the center of the city.</Original>
+            <Chinese>根據我們的情報, 我們相信其中一條情報來源就在市中的教堂中.</Chinese>
+            <French>D'après nos renseignements, une source d'information se trouve dans l'église, au centre de la ville.</French>
+            <Spanish>Según nuestros informes, hay una fuente de información ubicada en la iglesia del centro de la ciudad.</Spanish>
+            <Italian>Secondo l'intelligence, all'interno della chiesa al centro della città si trova una fonte di informazioni.</Italian>
+            <Polish>Według informacji naszego wywiadu, jeden z informatorów przebywa w kościele położonym w centrum miasta.</Polish>
+            <Russian>По данным нашей разведки один источник разведданных располагается в церкви в центре города.</Russian>
+            <German>Unserem Geheimdienst zufolge befindet sich eine Informationsquelle in der Kirche im Zentrum der Stadt.</German>
+            <Czech>Podle našich zpráv se v kostele ve středu města nachází jeden ze zdrojů informací.</Czech>
+            <English>According to our intelligence, one source of intel is located in the church in the center of the city.</English>
+            <Portuguese>Segundo nossos dados, há uma fonte de informações de inteligência localizada numa igreja no centro da cidade.</Portuguese>
+            <Korean>아군 정보에 따르면 정보원 한명이 도시 중심부의 교회에서 발견되었다.</Korean>
+            <Chinesesimp>根据我们的情报, 我们相信其中一条情报来源就在市中的教堂中.</Chinesesimp>
+            <Japanese>我々の情報筋によると、1つの情報源は街中心部の教会にある。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task02b">
+            <Original>We're receiving a signal from one of the houses east of the local cemetery. Search the area and locate the intel.</Original>
+            <Chinese>我們收到一條訊號來自當地墓地東面的一座房屋中. 搜索並定位情報來源.</Chinese>
+            <French>Nous recevons un signal provenant de l'une des maisons à l'est du cimetière local. Fouillez la zone et retrouvez la source d'information.</French>
+            <Spanish>Estamos recibiendo una señal de una de las casas al este del cementerio local. Registre la zona y localice esa información.</Spanish>
+            <Italian>Riceviamo un segnale da una delle case a est del cimitero del posto. Perlustra l'area e localizza le informazioni.</Italian>
+            <Polish>Odebraliśmy sygnał pochodzący z jednego z domów na wschód od miejscowego cmentarza. Przeszukaj obszar i zlokalizuj materiały wywiadowcze.</Polish>
+            <Russian>Мы получаем сигнал от одного из домов к востоку от местного кладбища. Обыщите район и найдите разведданные.</Russian>
+            <German>Wir empfangen ein Signal aus einem der Häuser östlich des hiesigen Friedhofs. Durchsuchen Sie die Gegend und lokalisieren Sie die Daten.</German>
+            <Czech>Zachytili jsme signál z jednoho z domů východně od místního hřbitova. Prohledejte oblast a najděte informace.</Czech>
+            <English>We're receiving a signal from one of the houses east of the local cemetery. Search the area and locate the intel.</English>
+            <Portuguese>Estamos recebendo um sinal de uma das casas à leste do cemitério local. Procure na área e localize esse serviço de inteligência.</Portuguese>
+            <Korean>현지 묘지의 북쪽의 한 집으로부터 신호를 받는 중이다. 이 지역을 수색하여 정보원을 찾아라.</Korean>
+            <Chinesesimp>我们收到一条讯号来自当地墓地东面的一座房屋中. 搜索并定位情报来源.</Chinesesimp>
+            <Japanese>現在、地元墓地の東にある住宅からシグナルを受信中。エリアを捜索し、情報を探し出せ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_EndGame03_Task03b">
+            <Original>We received a report of a possible intel source located within a construction site north-east of Riga hill.</Original>
+            <Chinese>我們收到回報, 據說Riga山東北方的工地可能是一條情報來源.</Chinese>
+            <French>Un rapport fait état d'une potentielle source d'information située dans un chantier au nord-est de la colline de Riga.</French>
+            <Spanish>Hemos recibido informes sobre una posible fuente de información, que estaría ubicada en una obra al nordeste de la colina de Riga.</Spanish>
+            <Italian>Abbiamo ricevuto un rapporto secondo cui è possibile che una fonte di informazioni sia sita all'interno di un cantiere a nord-est della collina Riga.</Italian>
+            <Polish>Otrzymaliśmy raport wykazujący obecność potencjalnego informatora na terenie budowy na północny wschód od wzgórza Riga.</Polish>
+            <Russian>Мы получили отчет о возможном нахождении разведданных на стройплощадке к северо-востоку о холма Рига.</Russian>
+            <German>Uns hat ein Bericht über eine mögliche Informationsquelle erreicht, die sich auf einer Baustelle nordöstlich des Riga-Hügels befinden soll.</German>
+            <Czech>Dostali jsme zprávu o možném zdroji informací, který se nachází na staveništi severovýchodně od hory Riga.</Czech>
+            <English>We received a report of a possible intel source located within a construction site north-east of Riga hill.</English>
+            <Portuguese>Recebemos um relatório de uma possível fonte de inteligência localizada dentro de um canteiro de obras à nordeste da montanha Riga.</Portuguese>
+            <Korean>리가 언덕에서 북동쪽 경사진 곳의 공사 현장에서  정보원으로 보이는 자가 발견됐다는 보고를 받았다.</Korean>
+            <Chinesesimp>我们收到回报, 据说Riga山东北方的工地可能是一条情报来源.</Chinesesimp>
+            <Japanese>リガ丘の北東にある建設現場内に情報源があるという報告を受けた。</Japanese>
+          </Key>
+        </Container>
+        <Container name="VR">
+          <Key ID="STR_A3_VR_Stamina">
+            <Original>Stamina</Original>
+            <Chinese>體力</Chinese>
+            <French>Endurance</French>
+            <Spanish>Resistencia</Spanish>
+            <Italian>Resistenza</Italian>
+            <Polish>Wytrzymałość</Polish>
+            <Russian>Выносливость</Russian>
+            <German>Ausdauer</German>
+            <Czech>Výdrž</Czech>
+            <English>Stamina</English>
+            <Portuguese>Vigor</Portuguese>
+            <Korean>스태미나</Korean>
+            <Chinesesimp>体力</Chinesesimp>
+            <Japanese>スタミナ</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Loadout">
+            <Original>Loadout</Original>
+            <Chinese>裝備</Chinese>
+            <French>Charge</French>
+            <Spanish>Carga</Spanish>
+            <Italian>Equipaggiamento</Italian>
+            <Polish>Wyposażenie</Polish>
+            <Russian>Комплект экипировки</Russian>
+            <German>Bewaffnung</German>
+            <Czech>Výstroj</Czech>
+            <English>Loadout</English>
+            <Portuguese>Carga</Portuguese>
+            <Korean>장비 구성</Korean>
+            <Chinesesimp>装备</Chinesesimp>
+            <Japanese>ロードアウト</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_02_Injury">
+            <Original>Injury</Original>
+            <Chinese>受傷</Chinese>
+            <French>Blessure</French>
+            <Spanish>Heridas</Spanish>
+            <Italian>Ferita</Italian>
+            <Polish>Uraz</Polish>
+            <Russian>Травма</Russian>
+            <German>Verwundungen</German>
+            <Czech>Zranění</Czech>
+            <English>Injury</English>
+            <Portuguese>Lesão</Portuguese>
+            <Korean>질의</Korean>
+            <Chinesesimp>受伤</Chinesesimp>
+            <Japanese>負傷</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_OverEncumbrance">
+            <Original>Over-encumbrance</Original>
+            <Chinese>過度沉重</Chinese>
+            <French>Encombrement</French>
+            <Spanish>Carga excesiva</Spanish>
+            <Italian>Troppo peso</Italian>
+            <Polish>Przeciążenie</Polish>
+            <Russian>Перегрузка</Russian>
+            <German>Überladung</German>
+            <Czech>Přetížení</Czech>
+            <English>Over-encumbrance</English>
+            <Portuguese>Sobrecarga</Portuguese>
+            <Korean>과도한 짐</Korean>
+            <Chinesesimp>过度沉重</Chinesesimp>
+            <Japanese>過度な負荷</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_FieldTest">
+            <Original>Field Test</Original>
+            <Chinese>實地測試</Chinese>
+            <French>Exercice de terrain</French>
+            <Spanish>Prueba de campo</Spanish>
+            <Italian>Test sul campo</Italian>
+            <Polish>Test polowy</Polish>
+            <Russian>Полевые испытания</Russian>
+            <German>Feldtest</German>
+            <Czech>Polní test</Czech>
+            <English>Field Test</English>
+            <Portuguese>Prova de Campo</Portuguese>
+            <Korean>야전 테스트</Korean>
+            <Chinesesimp>实地测试</Chinesesimp>
+            <Japanese>フィールドテスト</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_FinishHeavy">
+            <Original>Heavy loadout: %1 seconds</Original>
+            <Chinese>重裝備: %1秒</Chinese>
+            <French>Charge lourde : %1 secondes</French>
+            <Spanish>Carga pesada: %1 segundos.</Spanish>
+            <Italian>Equipaggiamento pesante: %1 secondi</Italian>
+            <Polish>Ciężkie wyposażenie: %1 s</Polish>
+            <Russian>Тяжелый комплект экипировки: %1 сек.</Russian>
+            <German>Schwere Bewaffnung: %1 Sekunden</German>
+            <Czech>Těžká výstroj: %1 s</Czech>
+            <English>Heavy loadout: %1 seconds</English>
+            <Portuguese>Carga pesada: %1 segundos</Portuguese>
+            <Korean>중량 장비 구성: %1초</Korean>
+            <Chinesesimp>重装备: %1秒</Chinesesimp>
+            <Japanese>重いロードアウト：%1秒</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_FinishLight">
+            <Original>Light loadout: %1 seconds</Original>
+            <Chinese>輕裝備: %1秒</Chinese>
+            <French>Charge légère : %1 secondes</French>
+            <Spanish>Carga ligera: %1 segundos.</Spanish>
+            <Italian>Equipaggiamento leggero: %1 secondi</Italian>
+            <Polish>Lekkie wyposażenie: %1 s</Polish>
+            <Russian>Легкий комплект экипировки: %1 сек.</Russian>
+            <German>Leichte Bewaffnung: %1 Sekunden</German>
+            <Czech>Lehká výstroj: %1 s</Czech>
+            <English>Light loadout: %1 seconds</English>
+            <Portuguese>Carga leve: %1 segundos</Portuguese>
+            <Korean>경량 장비 구성: %1초</Korean>
+            <Chinesesimp>轻装备: %1秒</Chinesesimp>
+            <Japanese>軽いロードアウト：%1秒</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_LoadoutHeavy">
+            <Original>Loadout: Heavy</Original>
+            <Chinese>裝備: 重</Chinese>
+            <French>Charge : lourde</French>
+            <Spanish>Carga: pesada</Spanish>
+            <Italian>Equipaggiamento: pesante</Italian>
+            <Polish>Wyposażenie: ciężkie</Polish>
+            <Russian>Комплект экипировки: Тяжелый</Russian>
+            <German>Bewaffnung: Schwer</German>
+            <Czech>Výstroj: Těžká</Czech>
+            <English>Loadout: Heavy</English>
+            <Portuguese>Carga: pesada</Portuguese>
+            <Korean>장비 구성: 중량</Korean>
+            <Chinesesimp>装备: 重</Chinesesimp>
+            <Japanese>ロードアウト：重い</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_01_desc">
+            <Original>Take all the equipment from the ammo crates.</Original>
+            <Chinese>拿取彈藥箱中的所有裝備.</Chinese>
+            <French>Prenez tout l'équipement dans les caisses de munitions.</French>
+            <Spanish>Coja todo el equipo de las cajas de munición.</Spanish>
+            <Italian>Prendi tutto l'equipaggiamento dalle casse di munizioni.</Italian>
+            <Polish>Zabierz całe wyposażenie ze skrzyń z amunicją.</Polish>
+            <Russian>Возьмите все снаряжение из ящиков с боеприпасами.</Russian>
+            <German>Nehmen Sie die gesamte Ausrüstung aus den Munitionskisten.</German>
+            <Czech>Seberte z beden s municí všechno vybavení.</Czech>
+            <English>Take all the equipment from the ammo crates.</English>
+            <Portuguese>Pegue todos os equipamentos das caixas de munição.</Portuguese>
+            <Korean>탄약 상자의 모든 장비를 차지해라.</Korean>
+            <Chinesesimp>拿取弹药箱中的所有装备.</Chinesesimp>
+            <Japanese>弾薬箱からすべての装備を取れ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_01_title">
+            <Original>Equip Yourself</Original>
+            <Chinese>裝備自己</Chinese>
+            <French>S'équiper</French>
+            <Spanish>Equípese</Spanish>
+            <Italian>Equipaggiati</Italian>
+            <Polish>Wyposaż się</Polish>
+            <Russian>Наденьте снаряжение</Russian>
+            <German>Rüsten Sie sich aus</German>
+            <Czech>Vybavte se</Czech>
+            <English>Equip Yourself</English>
+            <Portuguese>Equipe-se</Portuguese>
+            <Korean>스스로 장착해라</Korean>
+            <Chinesesimp>装备自己</Chinesesimp>
+            <Japanese>装備を揃えろ</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_02_desc">
+            <Original>Get into position and prepare to begin.</Original>
+            <Chinese>就位並準備開始.</Chinese>
+            <French>Mettez-vous en position et préparez-vous à commencer.</French>
+            <Spanish>Póngase en posición y prepárese para empezar.</Spanish>
+            <Italian>Vai in posizione e preparati.</Italian>
+            <Polish>Udaj się na pozycję i przygotuj do rozpoczęcia.</Polish>
+            <Russian>Займите позицию и приготовьтесь.</Russian>
+            <German>Gehen Sie in Stellung und machen Sie sich bereit.</German>
+            <Czech>Zaujměte pozici a připravte se začít.</Czech>
+            <English>Get into position and prepare to begin.</English>
+            <Portuguese>Fique em posição e prepare-se para começar.</Portuguese>
+            <Korean>위치로 가 시작 준비.</Korean>
+            <Chinesesimp>就位并准备开始.</Chinesesimp>
+            <Japanese>位置に就いて、準備せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_02_title">
+            <Original>Get Into Position</Original>
+            <Chinese>就位</Chinese>
+            <French>Se mettre en position</French>
+            <Spanish>Póngase en posición</Spanish>
+            <Italian>Vai in posizione</Italian>
+            <Polish>Udaj się na pozycję</Polish>
+            <Russian>Займите позицию</Russian>
+            <German>Gehen Sie in Stellung</German>
+            <Czech>Zaujměte pozici</Czech>
+            <English>Get Into Position</English>
+            <Portuguese>Fique em posição</Portuguese>
+            <Korean>위치로 가라</Korean>
+            <Chinesesimp>就位</Chinesesimp>
+            <Japanese>位置に就け</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_03_desc">
+            <Original>Sprint through the course and board the waiting IFV.</Original>
+            <Chinese>使用衝刺通過路線並搭乘等待中的步兵戰車.</Chinese>
+            <French>Sprintez durant tout le parcours et embarquez dans l'IFV.</French>
+            <Spanish>Corra por el circuito y suba al IFV que está esperando.</Spanish>
+            <Italian>Scatta lungo il percorso e sali sull'IFV in attesa.</Italian>
+            <Polish>Pokonaj tor i wejdź na pokład oczekującego wozu piechoty.</Polish>
+            <Russian>Пробегите по заданному маршруту и сядьте в ожидающий вас БМП.</Russian>
+            <German>Sprinten Sie über den Kurs und steigen Sie in den wartenden SPz.</German>
+            <Czech>Sprintem proběhněte dráhu a nastupte do čekajícího obrněného vozidla.</Czech>
+            <English>Sprint through the course and board the waiting IFV.</English>
+            <Portuguese>Corra pela pista e embarque no IFV à espera.</Portuguese>
+            <Korean>전력 질주하여 대기 중인 IFV에 탑승하라.</Korean>
+            <Chinesesimp>使用冲刺通过路线并搭乘等待中的步兵战车.</Chinesesimp>
+            <Japanese>コースをダッシュして、待機中のIFVに搭乗せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_02_Task_01_desc">
+            <Original>Disable the timed charge before it harms the hostages.</Original>
+            <Chinese>在炸彈危害到人質前解除它.</Chinese>
+            <French>Désamorcez la charge à retardement avant qu'elle ne blesse les otages.</French>
+            <Spanish>Desactive la carga antes de que dañe a los rehenes.</Spanish>
+            <Italian>Disabilita la carica a tempo prima che ferisca gli ostaggi.</Italian>
+            <Polish>Unieszkodliw ładunki z licznikiem nim wyrządzą krzywdę zakładnikom.</Polish>
+            <Russian>Обезвредьте бомбу, прежде чем сработает ее часовой механизм, и тем самым спасите заложников.</Russian>
+            <German>Entschärfen Sie die Sprengladung mit Zeitzünder, bevor sie die Geiseln verletzen kann.</German>
+            <Czech>Zneškodněte časovanou nálož, než zraní rukojmí.</Czech>
+            <English>Disable the timed charge before it harms the hostages.</English>
+            <Portuguese>Desative a bomba-relógio antes que os reféns se machuquem.</Portuguese>
+            <Korean>인질들을 해치기 전에 시간이 설정된 폭약을 해제하라.</Korean>
+            <Chinesesimp>在炸弹危害到人质前解除它.</Chinesesimp>
+            <Japanese>人質が負傷する前に時限爆弾を無効化せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_Task_01_desc">
+            <Original>Take all equipment from the fallen comrade.</Original>
+            <Chinese>拿取陣亡同胞身上的所有裝備.</Chinese>
+            <French>Prenez tout l'équipement du soldat mort.</French>
+            <Spanish>Coja todo el equipo del compañero caído.</Spanish>
+            <Italian>Prendi tutto l'equipaggiamento dal compagno caduto.</Italian>
+            <Polish>Zabierz całe wyposażenie poległego kompana.</Polish>
+            <Russian>Возьмите все снаряжение павшего товарища.</Russian>
+            <German>Nehmen Sie Ihrem gefallenen Kameraden die gesamte Ausrüstung ab.</German>
+            <Czech>Seberte všechno vybavení padlého spolubojovníka.</Czech>
+            <English>Take all equipment from the fallen comrade.</English>
+            <Portuguese>Pegue todos os equipamentos do companheiro ferido.</Portuguese>
+            <Korean>사망한 동료의 모든 장비를 차지해라.</Korean>
+            <Chinesesimp>拿取阵亡同胞身上的所有装备.</Chinesesimp>
+            <Japanese>倒れた戦友からすべての装備を取れ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_Task_01_title">
+            <Original>Take All Equipment</Original>
+            <Chinese>取得所有裝備</Chinese>
+            <French>Prendre tout l'équipement</French>
+            <Spanish>Coja todo el equipo</Spanish>
+            <Italian>Prendi tutto l'equipaggiamento</Italian>
+            <Polish>Zabierz całe wyposażenie</Polish>
+            <Russian>Возьмите все снаряжение</Russian>
+            <German>Nehmen Sie die gesamte Ausrüstung</German>
+            <Czech>Seberte všechno vybavení</Czech>
+            <English>Take All Equipment</English>
+            <Portuguese>Pegue todos os equipamentos</Portuguese>
+            <Korean>모든 장비를 차지해라</Korean>
+            <Chinesesimp>取得所有装备</Chinesesimp>
+            <Japanese>すべての装備を取れ</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_Task_02_desc">
+            <Original>Return to the UGV, do not drop any of your equipment.</Original>
+            <Chinese>返回地面無人載具, 不要在途中漏掉任何一件裝備.</Chinese>
+            <French>Retournez au drone terrestre sans perdre votre équipement.</French>
+            <Spanish>Regrese al VTNT. No suelte nada del equipo.</Spanish>
+            <Italian>Ritorna all'UGV. Non gettare l'equipaggiamento.</Italian>
+            <Polish>Powróć do robota, nie wyrzucając żadnego wyposażenia.</Polish>
+            <Russian>Вернитесь к наземному беспилотному аппарату. Не выбрасывайте снаряжение.</Russian>
+            <German>Kehren Sie zum UGV zurück, ohne Ihre Ausrüstung fallenzulassen.</German>
+            <Czech>Vraťte se k automatickému pozemnímu vozidlu. Neodhazujte žádné vybavení.</Czech>
+            <English>Return to the UGV, do not drop any of your equipment.</English>
+            <Portuguese>Volte ao VTNT sem deixar nenhum dos seus equipamentos.</Portuguese>
+            <Korean>무인지상차량으로 복귀하고 자신의 장비를 떨어뜨리지 말아라.</Korean>
+            <Chinesesimp>返回地面无人载具, 不要在途中漏掉任何一件装备.</Chinesesimp>
+            <Japanese>装備を落とさずにUGVに戻れ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_01_desc">
+            <Original>Take the backpack and all the satchel charges from the ammo crates.</Original>
+            <Chinese>拿取彈藥箱中的所有炸藥包.</Chinese>
+            <French>Prenez le sac à dos et toutes les charges en sacoche dans les caisses de munitions.</French>
+            <Spanish>Coja la mochila y todas las cargas concentradas que hay en las cajas de munición.</Spanish>
+            <Italian>Prendi lo zaino e tutte le cariche satchel dalle casse di munizioni.</Italian>
+            <Polish>Zabierz plecak oraz wszystkie pakiety ładunków wybuchowych ze skrzyń z amunicją.</Polish>
+            <Russian>Возьмите рюкзак и все взрывпакеты из ящиков с боеприпасами.</Russian>
+            <German>Nehmen Sie den Rucksack und alle Pioniersprengladungen aus den Munitionskisten.</German>
+            <Czech>Seberte z beden s municí batoh a všechny nálože.</Czech>
+            <English>Take the backpack and all the satchel charges from the ammo crates.</English>
+            <Portuguese>Pegue a mochila e todas as munições explosivas das caixas de munição.</Portuguese>
+            <Korean>군장을 차지하고 탄약상자에서 모든 폭약을 차지해라.</Korean>
+            <Chinesesimp>拿取弹药箱中的所有炸药包.</Chinesesimp>
+            <Japanese>弾薬箱からバックパックと梱包爆薬をすべて取れ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_01_title">
+            <Original>Take All Explosives</Original>
+            <Chinese>取得所有炸藥</Chinese>
+            <French>Prendre tous les explosifs</French>
+            <Spanish>Coja todos los explosivos</Spanish>
+            <Italian>Prendi tutti gli esplosivi</Italian>
+            <Polish>Zabierz wszystkie ładunki wybuchowe</Polish>
+            <Russian>Возьмите всю взрывчатку</Russian>
+            <German>Nehmen Sie alle Sprengladungen</German>
+            <Czech>Seberte všechny výbušniny</Czech>
+            <English>Take All Explosives</English>
+            <Portuguese>Pegue todos os explosivos</Portuguese>
+            <Korean>모든 폭발물을 차지해라</Korean>
+            <Chinesesimp>取得所有炸药</Chinesesimp>
+            <Japanese>すべての爆発物を取れ</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_02_desc">
+            <Original>Get past the outer gate before it closes.</Original>
+            <Chinese>在大門關閉前通過.</Chinese>
+            <French>Franchissez la porte extérieure avant qu'elle ne se referme.</French>
+            <Spanish>Atraviese la puerta exterior antes de que se cierre.</Spanish>
+            <Italian>Oltrepassa il cancello esterno prima che si chiuda.</Italian>
+            <Polish>Przedostań się przez zewnętrzną bramę przed jej zamknięciem.</Polish>
+            <Russian>Пробегите через внешние ворота, прежде чем они закроются.</Russian>
+            <German>Passieren Sie das äußere Tor, bevor es sich schließt.</German>
+            <Czech>Dostaňte se za vnější bránu, než se zavře.</Czech>
+            <English>Get past the outer gate before it closes.</English>
+            <Portuguese>Atravesse o portão exterior antes que ele se feche.</Portuguese>
+            <Korean>외부 문이 닫히기 전에 통과해라.</Korean>
+            <Chinesesimp>在大门关闭前通过.</Chinesesimp>
+            <Japanese>外のゲートが閉まる前に、そこを通れ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_02_title">
+            <Original>Run Through the Gate</Original>
+            <Chinese>衝過大門</Chinese>
+            <French>Franchir la porte en courant</French>
+            <Spanish>Atraviese la puerta</Spanish>
+            <Italian>Scatta oltre il cancello</Italian>
+            <Polish>Przebiegnij przez bramę</Polish>
+            <Russian>Пробегите через ворота</Russian>
+            <German>Laufen Sie durch das Tor.</German>
+            <Czech>Proběhněte bránou</Czech>
+            <English>Run Through the Gate</English>
+            <Portuguese>Corra pela porta</Portuguese>
+            <Korean>문을 통해서 달려라.</Korean>
+            <Chinesesimp>冲过大门</Chinesesimp>
+            <Japanese>ゲートを走り抜けろ</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_03_desc">
+            <Original>Place the charges near each armored vehicle, get behind cover and detonate them.</Original>
+            <Chinese>對每一台敵軍裝甲載具設置炸藥, 並躲在掩體後面進行引爆.</Chinese>
+            <French>Posez les charges près de chaque véhicule blindé, mettez-vous à couvert puis faites-les exploser.</French>
+            <Spanish>Coloque las cargas cerca del vehículo blindado. Póngase a cubierto y hágalas detonar.</Spanish>
+            <Italian>Piazza le cariche vicino a ogni veicolo corazzato, vai in copertura e falle detonare.</Italian>
+            <Polish>Umieść ładunki w pobliżu każdego pojazdu opancerzonego, schroń się za osłoną i dokonaj detonacji.</Polish>
+            <Russian>Установите заряды рядом с каждой единицей бронетехники, найдите укрытие и взорвите их.</Russian>
+            <German>Platzieren Sie Ladungen bei jedem gepanzerten Fahrzeug, gehen Sie in Deckung und zünden Sie die Ladungen.</German>
+            <Czech>Umístěte nálože ke všem obrněným vozidlům, dostaňte se do krytu a odpalte je.</Czech>
+            <English>Place the charges near each armored vehicle, get behind cover and detonate them.</English>
+            <Portuguese>Coloque os explosivos perto de cada um dos veículos blindados, posicione-se atrás da cobertura e detone-os.</Portuguese>
+            <Korean>기갑 차량 근처에 폭약을 설치한 다음에 덮개 뒤에 숨어서 폭파하라.</Korean>
+            <Chinesesimp>对每一台敌军装甲载具设置炸药, 并躲在掩体后面进行引爆.</Chinesesimp>
+            <Japanese>各装甲車の近くに爆薬をセットし、遮蔽物に隠れて爆薬を起爆せよ。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Task_03_title">
+            <Original>Destroy Enemy Armor</Original>
+            <Chinese>摧毀敵軍裝甲載具</Chinese>
+            <French>Détruire les blindés ennemis</French>
+            <Spanish>Destruya el blindado del enemigo</Spanish>
+            <Italian>Distruggi i carri nemici</Italian>
+            <Polish>Zniszcz pancerz wroga</Polish>
+            <Russian>Уничтожьте вражескую бронетехнику</Russian>
+            <German>Vernichten Sie die feindlichen Panzerfahrzeuge</German>
+            <Czech>Zničte nepřátelská obrněná vozidla</Czech>
+            <English>Destroy Enemy Armor</English>
+            <Portuguese>Destrua a blindagem do inimigo</Portuguese>
+            <Korean>적군의 기갑을 파괴하라</Korean>
+            <Chinesesimp>摧毁敌军装甲载具</Chinesesimp>
+            <Japanese>敵装甲車を破壊せよ</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_03_Task_02_title">
+            <Original>Get in the UGV</Original>
+            <Chinese>登上地面無人載具</Chinese>
+            <French>Piloter le drone terrestre</French>
+            <Spanish>Suba al VTNT</Spanish>
+            <Italian>Sali sull'UGV</Italian>
+            <Polish>Wsiądź do robota</Polish>
+            <Russian>Сядьте в беспилотную наземную машину </Russian>
+            <German>Steigen Sie in das UGV</German>
+            <Czech>Nastupte do automatického pozemního vozidla</Czech>
+            <English>Get in the UGV</English>
+            <Portuguese>Entre no VTNT</Portuguese>
+            <Korean>무인지상차량에 탑승하라</Korean>
+            <Chinesesimp>登上地面无人载具</Chinesesimp>
+            <Japanese>UGVに搭乗せよ</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_02_Task_01_title">
+            <Original>Disable the Charge</Original>
+            <Chinese>解除炸藥</Chinese>
+            <French>Désamorcer la charge</French>
+            <Spanish>Desactive la carga</Spanish>
+            <Italian>Disinnesca la carica</Italian>
+            <Polish>Unieszkodliw ładunek</Polish>
+            <Russian>Обезвредьте заряд</Russian>
+            <German>Entschärfen Sie die Ladung</German>
+            <Czech>Zneškodněte nálož</Czech>
+            <English>Disable the Charge</English>
+            <Portuguese>Desative o explosivo</Portuguese>
+            <Korean>폭약을 해제하라</Korean>
+            <Chinesesimp>解除炸药</Chinesesimp>
+            <Japanese>爆薬を無効化せよ</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_Task_03_title">
+            <Original>Get in the IFV</Original>
+            <Chinese>登上步兵戰車</Chinese>
+            <French>Monter dans l'IFV</French>
+            <Spanish>Suba al IFV</Spanish>
+            <Italian>Sali sull'IFV</Italian>
+            <Polish>Wsiądź do wozu bojowego</Polish>
+            <Russian>Сядьте в БМП</Russian>
+            <German>Steigen Sie in den SPz</German>
+            <Czech>Nastupte do obrněného vozidla</Czech>
+            <English>Get in the IFV</English>
+            <Portuguese>Entre no IFV</Portuguese>
+            <Korean>IFV에 탑승하라</Korean>
+            <Chinesesimp>登上步兵战车</Chinesesimp>
+            <Japanese>IFVに搭乗せよ</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_LoadoutLight">
+            <Original>Loadout: Light</Original>
+            <Chinese>裝備: 輕</Chinese>
+            <French>Charge : légère</French>
+            <Spanish>Carga: ligera</Spanish>
+            <Italian>Equipaggiamento: leggero</Italian>
+            <Polish>Wyposażenie: lekkie</Polish>
+            <Russian>Комплект экипировки Легкий</Russian>
+            <German>Bewaffnung: Leicht</German>
+            <Czech>Výstroj: Lehká</Czech>
+            <English>Loadout: Light</English>
+            <Portuguese>Carga: leve</Portuguese>
+            <Korean>장비 구성: 경량</Korean>
+            <Chinesesimp>装备: 轻</Chinesesimp>
+            <Japanese>ロードアウト：軽い</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_TimeLimit">
+            <Original>Time limit: %1 seconds</Original>
+            <Chinese>時間限制: %1秒</Chinese>
+            <French>Limite de temps : %1 secondes</French>
+            <Spanish>Límite de tiempo: %1 segundos.</Spanish>
+            <Italian>Limite di tempo: %1 secondi</Italian>
+            <Polish>Limit czasu: %1 s</Polish>
+            <Russian>Ограничение по времени: %1 секунд</Russian>
+            <German>Zeitlimit: %1 Sekunden</German>
+            <Czech>Časový limit: %1 s</Czech>
+            <English>Time limit: %1 seconds</English>
+            <Portuguese>Tempo limite: %1 segundos</Portuguese>
+            <Korean>시간 제한: %1초</Korean>
+            <Chinesesimp>时间限制: %1秒</Chinesesimp>
+            <Japanese>時間制限：%1秒</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_01_TrackLength">
+            <Original>Track length: %1 meters</Original>
+            <Chinese>路線全長: %1公尺</Chinese>
+            <French>Longueur de la piste : %1 mètres</French>
+            <Spanish>Longitud del circuito: %1 metros.</Spanish>
+            <Italian>Lunghezza del percorso: %1 metri</Italian>
+            <Polish>Długość toru: %1 m</Polish>
+            <Russian>Длина трассы: %1 метров</Russian>
+            <German>Streckenlänge: %1 Meter</German>
+            <Czech>Délka dráhy: %1 m</Czech>
+            <English>Track length: %1 meters</English>
+            <Portuguese>Comprimento da trilha: %1 metros</Portuguese>
+            <Korean>트랙 길이: %1미터</Korean>
+            <Chinesesimp>路线全长: %1公尺</Chinesesimp>
+            <Japanese>トラックの長さ：%1メートル</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_02_SimulatingInjury">
+            <Original>Simulating severe injury, jog and sprint are disabled.</Original>
+            <Chinese>模擬受到嚴重傷害, 慢跑與衝刺都將不能使用.</Chinese>
+            <French>Si vous êtes gravement blessé, la course et le sprint sont désactivés.</French>
+            <Spanish>Durante la simulación de heridas graves, no se puede ni correr ni esprintar.</Spanish>
+            <Italian>Simulazione ferita grave, corsa e scatto sono disabilitati.</Italian>
+            <Polish>Symulacja poważnych urazów, biegu i sprintu jest wyłączona.</Polish>
+            <Russian>Имитация тяжелой травмы. Бег и ускорение отключены.</Russian>
+            <German>Um eine ernste Verwundung zu simulieren, sind Joggen und Sprinten deaktiviert.</German>
+            <Czech>Probíhá simulace vážného zranění. Není možné běžet a sprintovat.</Czech>
+            <English>Simulating severe injury, jog and sprint are disabled.</English>
+            <Portuguese>Ao simular lesão grave, as corridas leve e veloz ficam desativadas.</Portuguese>
+            <Korean>심각한 부상을 일으키면 달리기와 전력 질주 기능이 비활성화된다.</Korean>
+            <Chinesesimp>模拟受到严重伤害, 慢跑与冲刺都将不能使用.</Chinesesimp>
+            <Japanese>重傷をシミュレーション中。ジョギングとダッシュは無効化されました。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Fail">
+            <Original>Try to drop any unnecessary equipment for this mission and you should be successful next time.</Original>
+            <Chinese>嘗試丟掉任何不必要的裝備, 這樣你應該就能成功達成任務.</Chinese>
+            <French>Débarrassez-vous de tout l'équipement inutile de cette mission, et vous réussirez la prochaine fois.</French>
+            <Spanish>Tire todo equipo que no sea necesario para esta misión y posiblemente tenga éxito la próxima vez.</Spanish>
+            <Italian>Prova a scartare l'equipaggiamento non indispensabile per questa missione e dovresti riuscire a portarla a termine.</Italian>
+            <Polish>Spróbuj wyrzucić zbędne wyposażenie w tej misji, a następnym razem odniesiesz sukces.</Polish>
+            <Russian>Попробуйте избавиться от любого снаряжения, которое не нужно для этой миссии, и в следующий раз у вас все получится.</Russian>
+            <German>Versuchen Sie, bei dieser Mission auf alle unnötige Ausrüstung zu verzichten, dann sollten Sie beim nächsten Mal erfolgreich sein.</German>
+            <Czech>Zkuste odhodit všechno pro tuto misi nepotřebné vybavení, a příště určitě uspějete.</Czech>
+            <English>Try to drop any unnecessary equipment for this mission and you should be successful next time.</English>
+            <Portuguese>Para esta missão, tente deixar de lado todos os equipamentos desnecessários e tudo deve dar certo na próxima vez.</Portuguese>
+            <Korean>이 임무를 위해 불필요한 장비를 버리고 다음 임무에 성공한다.</Korean>
+            <Chinesesimp>尝试丢掉任何不必要的装备, 这样你应该就能成功达成任务.</Chinesesimp>
+            <Japanese>このミッションに不要な装備を降ろすと、次は上手くいくでしょう。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Situation_01">
+            <Original>SITUATION:</Original>
+            <Chinese>狀況:</Chinese>
+            <French>SITUATION :</French>
+            <Spanish>SITUACIÓN:</Spanish>
+            <Italian>SITUAZIONE:</Italian>
+            <Polish>SYTUACJA:</Polish>
+            <Russian>СИТУАЦИЯ:</Russian>
+            <German>SITUATION:</German>
+            <Czech>SITUACE:</Czech>
+            <English>SITUATION:</English>
+            <Portuguese>SITUAÇÃO:</Portuguese>
+            <Korean>상황:</Korean>
+            <Chinesesimp>状况:</Chinesesimp>
+            <Japanese>状況：</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Situation_02">
+            <Original>You have a chance to destroy enemy armor, but you have to get in the area before the gate is closed.</Original>
+            <Chinese>你將有機會摧毀敵軍的裝甲載具, 但你必須在大門關閉前進入該區.</Chinese>
+            <French>Vous pouvez détruire les blindés ennemis, mais vous devez pénétrer dans la zone avant que la porte ne se referme.</French>
+            <Spanish>Tiene una posibilidad de destruir un blindado enemigo, pero tendrá que entrar en la zona antes de que se cierre la puerta.</Spanish>
+            <Italian>Hai la possibilità di distruggere dei carri nemici, ma devi raggiungere l'area prima che il cancello si chiuda.</Italian>
+            <Polish>Masz szansę zniszczyć pancerz przeciwnika, ale musisz znaleźć się na obszarze, zanim brama zostanie zamknięta.</Polish>
+            <Russian>У вас есть шанс уничтожить бронетехнику противника, но вам нужно попасть на место до того, как будут закрыты ворота.</Russian>
+            <German>Sie haben die Chance, feindliche Panzerfahrzeuge zu vernichten, doch dazu müssen Sie in den Bereich gelangen, bevor sich das Tor schließt.</German>
+            <Czech>Máte možnost zničit nepřátelská obrněná vozidla, musíte se však dostat na místo, než se zavře brána.</Czech>
+            <English>You have a chance to destroy enemy armor, but you have to get in the area before the gate is closed.</English>
+            <Portuguese>Você tem uma chance de destruir a blindagem do inimigo, mas precisa chegar à área antes de o portão fechar.</Portuguese>
+            <Korean>적의 기갑을 파괴하여 문이 닫히기 전에 그곳으로 들어간다.</Korean>
+            <Chinesesimp>你将有机会摧毁敌军的装甲载具, 但你必须在大门关闭前进入该区.</Chinesesimp>
+            <Japanese>敵装甲車を破壊できますが、ゲートが閉まる前にエリアに進入しなければなりません。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Situation_03">
+            <Original>1. Take the backpack and satchels from the ammo crate.</Original>
+            <Chinese>1. 從彈藥箱中拿取背包與炸藥.</Chinese>
+            <French>1. Prenez le sac à dos et les sacoches dans la caisse de munitions.</French>
+            <Spanish>1. Coja la mochila y todas las cargas concentradas en las cajas de munición.</Spanish>
+            <Italian>1. Prendi lo zaino e le cariche satchel dalla cassa di munizioni.</Italian>
+            <Polish>1. Zabierz plecak oraz pakiet ładunków wybuchowych ze skrzyni z amunicją.</Polish>
+            <Russian>1. Возьмите рюкзак и взрывпакеты из ящика с боеприпасами.</Russian>
+            <German>1. Nehmen Sie den Rucksack und die Pioniersprengladungen aus der Munitionskiste.</German>
+            <Czech>1. Seberte z beden s municí batoh a nálože.</Czech>
+            <English>1. Take the backpack and satchels from the ammo crate.</English>
+            <Portuguese>1. Pegue a mochila e os explosivos das caixas de munição.</Portuguese>
+            <Korean>1. 군장을 차지하고 탄약상자에서 폭약을 차지해라.</Korean>
+            <Chinesesimp>1. 从弹药箱中拿取背包与炸药.</Chinesesimp>
+            <Japanese>1. 弾薬箱からバックパックと梱包爆薬を取ります。</Japanese>
+          </Key>
+          <Key ID="STR_A3_VR_Stamina_04_Situation_04">
+            <Original>2. Rush through the outer gate before it closes.</Original>
+            <Chinese>2. 在大門關閉之前衝過去.</Chinese>
+            <French>2. Passez par la porte extérieure avant qu'elle ne se ferme.</French>
+            <Spanish>2. Atraviese la puerta exterior antes de que se cierre.</Spanish>
+            <Italian>2. Scatta oltre il cancello esterno prima che si chiuda.</Italian>
+            <Polish>2. Przebiegnij przez zewnętrzną bramę przed jej zamknięciem.</Polish>
+            <Russian>2. Пробегите через внешние ворота, прежде чем они закроются.</Russian>
+            <German>2. Laufen Sie durch das äußere Tor, bevor es sich schließt.</German>
+            <Czech>2. Proběhněte za vnější bránu, než se zavře.</Czech>
+            <English>2. Rush through the outer gate before it closes.</English>
+            <Portuguese>2. Atravesse depressa o portão exterior antes que ele se feche.</Portuguese>
+            <Korean>2. 외부 문이 닫히기 전에 돌격해라.</Korean>
+            <Chinesesimp>2. 在大门关闭之前冲过去.</Chinesesimp>
+            <Japanese>2. 外のゲートが閉まる前に、そこを駆け抜けます。</Japanese>
+          </Key>
+        </Container>
+      </Container>
+    </Container>
+  </Package>
+</Project>
