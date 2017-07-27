@@ -37,6 +37,9 @@
 ## 測試翻譯成果
   使用一般模組的掛載方法把中文化模組掛上，進到遊戲中測試所有文本是否正確。你可以到野戰手冊檢查是否每一個條目後面都有中文化增強模組的縮圖，有的話即代表載入成功，如有項目沒有載入到圖片，代表該文本的PBO並沒有被正確載入遊戲，需檢查是否包裝時發生錯誤。
 ##### <p align="center"><img src="http://i.imgur.com/NscI1y5.png" width="800"></br>檢查是否全部文本載入正確</p>
+  任務languagemissions系列的就要去檢查任務展示與戰役那邊的文字是否有正確翻譯，這邊就沒有一定的看法，除了直接外面看預覽文字，要不就直接進去預覽遊戲。
+##### <p align="center"><img src="http://i.imgur.com/UdDmMlz.png" width="800"></br>檢查戰役預覽文本</p>
+##### <p align="center"><img src="http://i.imgur.com/1xK8geH.png" width="800"></br>檢查任務展示預覽文本</p>
 
 </br>
 
