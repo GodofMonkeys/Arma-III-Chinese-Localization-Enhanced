@@ -3,7 +3,22 @@
 </p>
 
 <p align="center">
-    訪問我們團隊<a href="https://www.facebook.com/TaiwanArmaCiFuQiPingTai/?fref=ts">Facebook</a></strong></sup>
+    <a href="https://github.com/GodofMonkeys/Arma-III-Chinese-Localization-Enhanced/releases/latest">
+        <img src="https://img.shields.io/badge/Version-3.1-blue.svg?style=flat-square" alt="Arma 3 Chinese Localization Enhanced Version">
+    </a>
+    <a href="https://github.com/GodofMonkeys/Arma-III-Chinese-Localization-Enhanced/issues">
+        <img src="https://img.shields.io/github/issues-raw/GodofMonkeys/Arma-III-Chinese-Localization-Enhanced.svg?style=flat-square&label=Issues" alt="Arma 3 Chinese Localization Enhanced Issues">
+    </a>
+    <a href="https://github.com/GodofMonkeys/Arma-III-Chinese-Localization-Enhanced/releases">
+        <img src="https://img.shields.io/github/downloads/GodofMonkeys/Arma-III-Chinese-Localization-Enhanced/total.svg?style=flat-square&label=Downloads" alt="Arma 3 Chinese Localization Enhanced Downloads">
+    </a>
+    <a href="https://github.com/GodofMonkeys/Arma-III-Chinese-Localization-Enhanced/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square" alt="Arma 3 Chinese Localization Enhanced License">
+    </a>
+</p>
+
+<p align="center">
+    <sup><strong>訪問我們團隊<a href="https://www.facebook.com/TaiwanArmaCiFuQiPingTai/?fref=ts">Facebook</a></strong></sup>
 </p>
 
 **Arma III 官方中文增強包**是用來中文化武裝行動3(Arma3)的遊戲模組。本模組原為中文語系模組，因應官方中文化推出，修正定位成官方中文潤飾模組。
