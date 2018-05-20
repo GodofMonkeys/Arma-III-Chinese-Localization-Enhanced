@@ -1,2217 +1,700 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><Project name="Arma3">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
   <Package name="Languagemissions_Patrol">
     <Container name="CombatPatrol">
       <Key ID="str_a3_combatpatrol_params_9">
         <Original>Cloudy</Original>
         <Chinese>多雲</Chinese>
-        <French>Couvert</French>
-        <Spanish>Nublado</Spanish>
-        <Italian>Nuvoloso</Italian>
-        <Polish>Zachmurzenie</Polish>
-        <Russian>Облачно</Russian>
-        <German>Bewölkt</German>
-        <Czech>Oblačno</Czech>
-        <English>Cloudy</English>
-        <Portuguese>Nublado</Portuguese>
-        <Korean>구름 낌</Korean>
         <Chinesesimp>多云</Chinesesimp>
-        <Japanese>曇り</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_8">
         <Original>Semi-cloudy</Original>
         <Chinese>少雲</Chinese>
-        <French>Partiellement nuageux</French>
-        <Spanish>Parcialmente nublado</Spanish>
-        <Italian>Parzialmente nuvoloso</Italian>
-        <Polish>Częściowe zachmurzenie</Polish>
-        <Russian>Переменная облачность</Russian>
-        <German>Wenig bewölkt</German>
-        <Czech>Místy zataženo</Czech>
-        <English>Semi-cloudy</English>
-        <Portuguese>Seminublado</Portuguese>
-        <Korean>반정도 구름 낌</Korean>
         <Chinesesimp>少云</Chinesesimp>
-        <Japanese>やや曇り</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_7">
         <Original>Clear</Original>
         <Chinese>晴朗</Chinese>
-        <French>Dégagé</French>
-        <Spanish>Despejado</Spanish>
-        <Italian>Sereno</Italian>
-        <Polish>Brak zachmurzenia</Polish>
-        <Russian>Ясно</Russian>
-        <German>Klar</German>
-        <Czech>Jasno</Czech>
-        <English>Clear</English>
-        <Portuguese>Limpo</Portuguese>
-        <Korean>맑음</Korean>
         <Chinesesimp>晴朗</Chinesesimp>
-        <Japanese>晴れ</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_6">
         <Original>Night</Original>
         <Chinese>夜晚</Chinese>
-        <French>Nuit</French>
-        <Spanish>Noche</Spanish>
-        <Italian>Notte</Italian>
-        <Polish>Noc</Polish>
-        <Russian>Ночь</Russian>
-        <German>Nacht</German>
-        <Czech>Noc</Czech>
-        <English>Night</English>
-        <Portuguese>Noite</Portuguese>
-        <Korean>야간</Korean>
         <Chinesesimp>夜晚</Chinesesimp>
-        <Japanese>夜</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_5">
         <Original>Dusk</Original>
         <Chinese>黃昏</Chinese>
-        <French>Crépuscule</French>
-        <Spanish>Anochecer</Spanish>
-        <Italian>Tramonto</Italian>
-        <Polish>Zmierzch</Polish>
-        <Russian>Сумерки</Russian>
-        <German>Abenddämmerung</German>
-        <Czech>Soumrak</Czech>
-        <English>Dusk</English>
-        <Portuguese>Anoitecer</Portuguese>
-        <Korean>해질녘</Korean>
         <Chinesesimp>黄昏</Chinesesimp>
-        <Japanese>夕暮れ</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_4">
         <Original>Afternoon</Original>
         <Chinese>下午</Chinese>
-        <French>Après-midi</French>
-        <Spanish>Tarde</Spanish>
-        <Italian>Pomeriggio</Italian>
-        <Polish>Popołudnie</Polish>
-        <Russian>День</Russian>
-        <German>Nachmittag</German>
-        <Czech>Odpoledne</Czech>
-        <English>Afternoon</English>
-        <Portuguese>Tarde</Portuguese>
-        <Korean>오후</Korean>
         <Chinesesimp>下午</Chinesesimp>
-        <Japanese>午後</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_3">
         <Original>Morning</Original>
         <Chinese>早晨</Chinese>
-        <French>Matin</French>
-        <Spanish>Mañana</Spanish>
-        <Italian>Mattina</Italian>
-        <Polish>Poranek</Polish>
-        <Russian>Утро</Russian>
-        <German>Morgen</German>
-        <Czech>Ráno</Czech>
-        <English>Morning</English>
-        <Portuguese>Manhã</Portuguese>
-        <Korean>오전</Korean>
         <Chinesesimp>早晨</Chinesesimp>
-        <Japanese>朝</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_28">
         <Original>Eliminate HVT</Original>
         <Chinese>殲滅重要目標</Chinese>
-        <French>Éliminer VIP</French>
-        <Spanish>Elim. objet.</Spanish>
-        <Italian>Elimina HVT</Italian>
-        <Polish>Usunięcie celu</Polish>
-        <Russian>Устраните приоритетную цель</Russian>
-        <German>Wichtiges Ziel eliminieren</German>
-        <Czech>Zlikvidujte cíl</Czech>
-        <English>Eliminate HVT</English>
-        <Portuguese>Elimine alvo de alto valor</Portuguese>
-        <Korean>고가치표적 제거</Korean>
         <Chinesesimp>歼灭重要目标</Chinesesimp>
-        <Japanese>HVT を排除</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_27">
         <Original>Sabotage comms</Original>
         <Chinese>破壞通訊系統</Chinese>
-        <French>Saboter comm.</French>
-        <Spanish>Sabotear com.</Spanish>
-        <Italian>Sabota comun.</Italian>
-        <Polish>Sabotaż łączności</Polish>
-        <Russian>Уничтожьте узел связи</Russian>
-        <German>Kommunikation sabotieren</German>
-        <Czech>Sabotujte komunikace</Czech>
-        <English>Sabotage comms</English>
-        <Portuguese>Sabote as comunicações</Portuguese>
-        <Korean>통신 사보타주</Korean>
         <Chinesesimp>破坏通讯系统</Chinesesimp>
-        <Japanese>通信系統に破壊工作を行う</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_26">
         <Original>Sabotage vehicles</Original>
         <Chinese>破壞載具</Chinese>
-        <French>Saboter véhicules</French>
-        <Spanish>Sabotear vehícul.</Spanish>
-        <Italian>Sabota veicoli</Italian>
-        <Polish>Sabotaż pojazdów</Polish>
-        <Russian>Уничтожьте технику</Russian>
-        <German>Fahrzeuge sabotieren</German>
-        <Czech>Sabotujte vozidla</Czech>
-        <English>Sabotage vehicles</English>
-        <Portuguese>Sabote os veículos</Portuguese>
-        <Korean>차량 사보타주</Korean>
         <Chinesesimp>破坏载具</Chinesesimp>
-        <Japanese>車両に破壊工作を行う</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_25">
         <Original>Downloading intel</Original>
         <Chinese>下載情報</Chinese>
-        <French>Téléchargement infos</French>
-        <Spanish>Descargando información</Spanish>
-        <Italian>Download informazioni</Italian>
-        <Polish>Pobranie danych wywiadowczych</Polish>
-        <Russian>Загрузка разведданных</Russian>
-        <German>Informationen werden heruntergeladen</German>
-        <Czech>Probíhá stahování informací</Czech>
-        <English>Downloading intel</English>
-        <Portuguese>Fazendo o download dos dados</Portuguese>
-        <Korean>정보 다운로드 중</Korean>
         <Chinesesimp>下载情报</Chinesesimp>
-        <Japanese>情報をダウンロード中</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_24">
         <Original>Landing module data retrieval</Original>
         <Chinese>回收緊急下降艙的資料</Chinese>
-        <French>Obtention données module d'atterrissage</French>
-        <Spanish>Recuperación de datos del módulo de aterrizaje</Spanish>
-        <Italian>Recupero dati modulo di atterraggio</Italian>
-        <Polish>Pobranie danych z modułu lądowania</Polish>
-        <Russian>Получение данных посадочной ступени</Russian>
-        <German>Landemodul-Daten-Bergung</German>
-        <Czech>Získání dat přistávacího modulu</Czech>
-        <English>Landing module data retrieval</English>
-        <Portuguese>Recuperação de dados do módulo de desembarque</Portuguese>
-        <Korean>착륙 모듈 데이터 검색</Korean>
         <Chinesesimp>回收紧急下降舱的资料</Chinesesimp>
-        <Japanese>着陸モジュールデータ回収</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_23">
         <Original>Vehicles sabotage</Original>
         <Chinese>破壞載具</Chinese>
-        <French>Sabotage de véhicules</French>
-        <Spanish>Sabotaje de vehículos</Spanish>
-        <Italian>Sabotaggio veicoli</Italian>
-        <Polish>Sabotaż pojazdów</Polish>
-        <Russian>Саботаж техники</Russian>
-        <German>Fahrzeug-Sabotage</German>
-        <Czech>Sabotáž vozidel</Czech>
-        <English>Vehicles sabotage</English>
-        <Portuguese>Sabotagem de veículos</Portuguese>
-        <Korean>차량 사보타주</Korean>
         <Chinesesimp>破坏载具</Chinesesimp>
-        <Japanese>車両破壊工作</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_22">
         <Original>Objective</Original>
         <Chinese>目標</Chinese>
-        <French>Objectif</French>
-        <Spanish>Objetivo</Spanish>
-        <Italian>Obiettivo</Italian>
-        <Polish>Cel</Polish>
-        <Russian>Задача</Russian>
-        <German>Auftrag</German>
-        <Czech>Cíl</Czech>
-        <English>Objective</English>
-        <Portuguese>Objetivo</Portuguese>
-        <Korean>목표</Korean>
         <Chinesesimp>目标</Chinesesimp>
-        <Japanese>目標</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_21">
         <Original>Manual</Original>
         <Chinese>手動</Chinese>
-        <French>Manuel</French>
-        <Spanish>Manual</Spanish>
-        <Italian>Manuale</Italian>
-        <Polish>Ręczny</Polish>
-        <Russian>Вручную</Russian>
-        <German>Manuell</German>
-        <Czech>Ručně</Czech>
-        <English>Manual</English>
-        <Portuguese>Manual</Portuguese>
-        <Korean>매뉴얼</Korean>
         <Chinesesimp>手动</Chinesesimp>
-        <Japanese>マニュアル</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_20">
         <Original>Location selection</Original>
         <Chinese>選擇地點</Chinese>
-        <French>Sélection du lieu</French>
-        <Spanish>Selección de ubicación</Spanish>
-        <Italian>Selezione postazione</Italian>
-        <Polish>Wybór lokalizacji</Polish>
-        <Russian>Выбор локации</Russian>
-        <German>Ortauswahl</German>
-        <Czech>Výběr místa</Czech>
-        <English>Location selection</English>
-        <Portuguese>Escolha do local</Portuguese>
-        <Korean>위치 선정</Korean>
         <Chinesesimp>选择地点</Chinesesimp>
-        <Japanese>ロケーション選択</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_2">
         <Original>Dawn</Original>
         <Chinese>黎明</Chinese>
-        <French>Aube</French>
-        <Spanish>Amanecer</Spanish>
-        <Italian>Alba</Italian>
-        <Polish>Świt</Polish>
-        <Russian>Рассвет</Russian>
-        <German>Morgendämmerung</German>
-        <Czech>Rozbřesk</Czech>
-        <English>Dawn</English>
-        <Portuguese>Amanhecer</Portuguese>
-        <Korean>새벽</Korean>
         <Chinesesimp>黎明</Chinesesimp>
-        <Japanese>夜明け</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_19">
         <Original>Enemy faction</Original>
         <Chinese>敵方陣營</Chinese>
-        <French>Faction ennemie</French>
-        <Spanish>Facción enemiga</Spanish>
-        <Italian>Fazione nemica</Italian>
-        <Polish>Frakcja przeciwnika</Polish>
-        <Russian>Вражеская фракция</Russian>
-        <German>Feindfraktion</German>
-        <Czech>Nepřátelská frakce</Czech>
-        <English>Enemy faction</English>
-        <Portuguese>Facção inimiga</Portuguese>
-        <Korean>적군 세력</Korean>
         <Chinesesimp>敌方阵营</Chinesesimp>
-        <Japanese>敵勢力</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_18">
         <Original>Respawn tickets</Original>
         <Chinese>重生次數</Chinese>
-        <French>Tickets de réapparition</French>
-        <Spanish>Reaparición de tiques</Spanish>
-        <Italian>Biglietti di riapparizione</Italian>
-        <Polish>Punkty odradzania</Polish>
-        <Russian>Очки возрождения</Russian>
-        <German>Respawn-Tickets</German>
-        <Czech>Tikety oživení</Czech>
-        <English>Respawn tickets</English>
-        <Portuguese>Ingressos de ressurgimento</Portuguese>
-        <Korean>재투입 티켓</Korean>
         <Chinesesimp>重生次数</Chinesesimp>
-        <Japanese>リスポーンチケット</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_17">
         <Original>Mark insertion position</Original>
         <Chinese>標記任務開始地點</Chinese>
-        <French>Marquez position d'insertion</French>
-        <Spanish>Ubicación de inserción de marca</Spanish>
-        <Italian>Segna posizione di inserimento</Italian>
-        <Polish>Oznacz punkt zrzutu</Polish>
-        <Russian>Отметить позицию для высадки</Russian>
-        <German>Eintrittsort markieren</German>
-        <Czech>Označit místo výsadku</Czech>
-        <English>Mark insertion position</English>
-        <Portuguese>Posição de inserção da marca</Portuguese>
-        <Korean>투입 위치 표시</Korean>
         <Chinesesimp>标记任务开始地点</Chinesesimp>
-        <Japanese>作戦開始地点をマーク</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_16">
         <Original>Advanced</Original>
         <Chinese>進階</Chinese>
-        <French>Avancés</French>
-        <Spanish>Avanzado</Spanish>
-        <Italian>Avanzato</Italian>
-        <Polish>Zaawansowane</Polish>
-        <Russian>Расширенный</Russian>
-        <German>Fortgeschritten</German>
-        <Czech>Rozšířené</Czech>
-        <English>Advanced</English>
-        <Portuguese>Avançado</Portuguese>
-        <Korean>진전</Korean>
         <Chinesesimp>进阶</Chinesesimp>
-        <Japanese>詳細</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_15">
         <Original>Enemy reinforcements</Original>
         <Chinese>敵方援軍</Chinese>
-        <French>Renforts ennemis</French>
-        <Spanish>Refuerzos enemigos</Spanish>
-        <Italian>Rinforzi nemici</Italian>
-        <Polish>Posiłki przeciwnika</Polish>
-        <Russian>Подкрепления противника</Russian>
-        <German>Feindliche Verstärkung</German>
-        <Czech>Nepřátelské posily</Czech>
-        <English>Enemy reinforcements</English>
-        <Portuguese>Reforços inimigos</Portuguese>
-        <Korean>적군 증원 병력</Korean>
         <Chinesesimp>敌方援军</Chinesesimp>
-        <Japanese>敵援軍</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_14">
         <Original>Reinforced</Original>
         <Chinese>增強</Chinese>
-        <French>Renforcée</French>
-        <Spanish>Reforzado</Spanish>
-        <Italian>Potenziato</Italian>
-        <Polish>Znaczny</Polish>
-        <Russian>Усиленные</Russian>
-        <German>Verstärkt</German>
-        <Czech>Posílené</Czech>
-        <English>Reinforced</English>
-        <Portuguese>Reforçado</Portuguese>
-        <Korean>강화</Korean>
         <Chinesesimp>增强</Chinesesimp>
-        <Japanese>補強</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_13">
         <Original>Standard</Original>
         <Chinese>標準</Chinese>
-        <French>Standard</French>
-        <Spanish>Normal</Spanish>
-        <Italian>Standard</Italian>
-        <Polish>Przeciętny</Polish>
-        <Russian>Стандартные</Russian>
-        <German>Standard</German>
-        <Czech>Standardní</Czech>
-        <English>Standard</English>
-        <Portuguese>Padrão</Portuguese>
-        <Korean>표준</Korean>
         <Chinesesimp>标准</Chinesesimp>
-        <Japanese>標準</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_12">
         <Original>Low</Original>
         <Chinese>少量</Chinese>
-        <French>Limitée</French>
-        <Spanish>Bajo</Spanish>
-        <Italian>Basso</Italian>
-        <Polish>Nieznaczny</Polish>
-        <Russian>Малые</Russian>
-        <German>Niedrig</German>
-        <Czech>Nízké</Czech>
-        <English>Low</English>
-        <Portuguese>Baixo</Portuguese>
-        <Korean>낮게</Korean>
         <Chinesesimp>少量</Chinesesimp>
-        <Japanese>低</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_11">
         <Original>Enemy garrison</Original>
         <Chinese>敵方守軍</Chinese>
-        <French>Garnison ennemie</French>
-        <Spanish>Guarnición enemiga</Spanish>
-        <Italian>Presidio nemico</Italian>
-        <Polish>Garnizon przeciwnika</Polish>
-        <Russian>Вражеский гарнизон</Russian>
-        <German>Feindliche Besatzung</German>
-        <Czech>Nepřátelská posádka</Czech>
-        <English>Enemy garrison</English>
-        <Portuguese>Guarnição inimiga</Portuguese>
-        <Korean>적군 수비대</Korean>
         <Chinesesimp>敌方守军</Chinesesimp>
-        <Japanese>敵防衛隊</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_10">
         <Original>Storm</Original>
         <Chinese>暴風雨</Chinese>
-        <French>Orageux</French>
-        <Spanish>Tormenta</Spanish>
-        <Italian>Temporale</Italian>
-        <Polish>Burza</Polish>
-        <Russian>Буря</Russian>
-        <German>Sturm</German>
-        <Czech>Bouře</Czech>
-        <English>Storm</English>
-        <Portuguese>Tempestade</Portuguese>
-        <Korean>폭풍</Korean>
         <Chinesesimp>暴风雨</Chinesesimp>
-        <Japanese>嵐</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_params_1">
         <Original>Starting time of day</Original>
         <Chinese>任務開始時間</Chinese>
-        <French>Lever du soleil</French>
-        <Spanish>Tiempo de inicio del día</Spanish>
-        <Italian>Data di inizio del giorno</Italian>
-        <Polish>Początkowa pora dnia</Polish>
-        <Russian>Время начала миссии</Russian>
-        <German>Tageszeit bei Beginn</German>
-        <Czech>Denní doba začátku</Czech>
-        <English>Starting time of day</English>
-        <Portuguese>Horário de início no dia</Portuguese>
-        <Korean>오늘의 시작 시간</Korean>
         <Chinesesimp>任务开始时间</Chinesesimp>
-        <Japanese>一日の開始時間</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_9">
         <Original>Conduct combat patrol in the AO to search and retrieve data from a crash-landed EDM.</Original>
-        <Chinese>在任務區內執行戰鬥巡邏任務, 搜索並取回墜毀的緊急下降艙中的資料.</Chinese>
-        <French>Partez en patrouille de combat sur la ZO et obtenez les données d'un module de descente d'urgence.</French>
-        <Spanish>Dirigid una patrulla de combate en la zona de operaciones para buscar y recuperar los datos del módulo de descenso.</Spanish>
-        <Italian>Conduci operazioni di pattugliamento e intercettazione nell'Area delle operazioni per cercare e recuperare dati da un EDM che ha effettuato un atterraggio di emergenza.</Italian>
-        <Polish>Przeprowadź patrol bojowy w obszarze działania w celu znalezienia rozbitego modułu awaryjnego lądowania i pobrania z niego danych.</Polish>
-        <Russian>Проведите боевое патрулирование в районе боевых действий, найдите и извлеките данные с упавшего модуля аварийного снижения.</Russian>
-        <German>Führt eure Kampfpatrouille in das Einsatzgebiet, um nach den Daten eines verunglückten Notlandungsmoduls zu suchen und diese zu bergen.</German>
-        <Czech>Uskutečněte bojovou hlídku v operační oblasti a najděte a získejte data z havarovaného modulu EDM.</Czech>
-        <English>Conduct combat patrol in the AO to search and retrieve data from a crash-landed EDM.</English>
-        <Portuguese>Conduza uma patrulha de combate à AO para procurar e recuperar os dados de um EDM que passou por um pouso de emergência.</Portuguese>
-        <Korean>불시착한 EDM에서 데이터를 검색 및 회수하려면 작전 지역에서 전투 정찰을 수행합니다.</Korean>
-        <Chinesesimp>在任务区内执行战斗巡逻任务, 搜索并取回坠毁的紧急下降舱中的资料.</Chinesesimp>
-        <Japanese>作戦区域内で戦闘哨戒を実施、墜落した EDM よりデータを回収せよ。</Japanese>
+        <Chinese>在任務區內執行戰鬥巡邏任務，搜索並取回墜毀的緊急下降艙中的資料。</Chinese>
+        <Chinesesimp>在任务区内执行战斗巡逻任务，搜索并取回坠毁的紧急下降舱中的资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_8">
         <Original>- Infiltrate the marked AO and sweep it.&lt;br/&gt;- Search for the Emergency Descent Module.&lt;br/&gt;- Once the EDM is found, retrieve its data using the standard terminal.&lt;br/&gt;- Move to the designated Exfiltration point.&lt;br/&gt;- In the event of too many team casualties, mission will be cancelled and team ordered to exfiltrate.</Original>
-        <Chinese>- 滲透並掃蕩任務區.&lt;br/&gt;- 找到緊急下降艙.&lt;br/&gt;- 當找到緊急下降艙後, 使用終端機來回收其中的資料.&lt;br/&gt;- 前往指定的撤離地點.&lt;br/&gt;- 假如在任務中有過多的傷亡, 任務會自動取消並命令小隊前往撤離點.</Chinese>
-        <French>- Infiltrez et fouillez la ZO indiquée.&lt;br/&gt;- Retrouvez le module de descente d'urgence.&lt;br/&gt;- Une fois le module trouvé, obtenez les données grâce au terminal classique.&lt;br/&gt;- Rendez-vous au point d'extraction.&lt;br/&gt;- En cas de pertes excessives, la mission sera annulée et les unités restantes devront s'exfiltrer.</French>
-        <Spanish>— Infiltraos en la zona de operaciones designada y peinadla por completo.&lt;br/&gt;— Buscad el módulo de descenso de emergencia.&lt;br/&gt;— Cuando lo encontréis, recuperad los datos usando la terminal estándar.&lt;br/&gt;— Id hacia el punto de extracción indicado.&lt;br/&gt;— En caso de que el equipo sufra demasiadas bajas, la misión se cancelará y habrá que extraerlo.</Spanish>
-        <Italian>- Infiltrati nell'Area delle operazioni indicata e perlustrala.&lt;br/&gt;- Cerca il Modulo di discesa di emergenza.&lt;br/&gt;- Una volta trovato l'EDM, recuperane i dati utilizzando il terminale standard.&lt;br/&gt;- Vai verso il punto di Esfiltrazione indicato.&lt;br/&gt;- Nel caso ci siano troppe vittime, la missione sarà annullata e alla squadra verrà ordinata l'esfiltrazione.</Italian>
-        <Polish>- Przedostań się na obszar działania i przeszukaj go.&lt;br/&gt;- Znajdź moduł awaryjnego lądowania.&lt;br/&gt;- Po odnalezieniu modułu pobierz z niego dane za pomocą standardowego terminalu.&lt;br/&gt;- Udaj się do wyznaczonego punktu ewakuacyjnego.&lt;br/&gt;- Jeśli poniesiesz za duże straty, misja zostanie odwołana, a drużyna otrzyma rozkaz ewakuacji.</Polish>
-        <Russian>- Проникните в отмеченный район боевых действий и осмотритесь.&lt;br/&gt;- Найдите модуль аварийного снижения.&lt;br/&gt;- Как только модуль будет у вас, извлеките его данные, используя стандартный терминал.&lt;br/&gt;- Отправляйтесь на обозначенную точку эвакуации.&lt;br/&gt;- В случае тяжелых потерь миссия будет отменена и вам будет приказано срочно эвакуироваться.</Russian>
-        <German>- Infiltriert und durchsucht das markierte Einsatzgebiet.&lt;br/&gt;- Sucht nach dem Notlandungsmodul.&lt;br/&gt;- Sobald ihr das Modul gefunden habt, müsst ihr seine Daten mithilfe des Standard-Terminals bergen.&lt;br/&gt;- Begebt euch zu dem designierten Exfiltrationspunkt.&lt;br/&gt;- Wenn zu viele Teammitglieder sterben, wird die Mission abgebrochen und die restlichen Teammitglieder werden zur Exfiltration aufgefordert.</German>
-        <Czech>– Infiltrujte označenou operační oblast a prohledejte ji.&lt;br/&gt;– Najděte nouzový modul EDM.&lt;br/&gt;– Až modul EDM naleznete, získejte z něj data pomocí standardního terminálu.&lt;br/&gt;- Přesuňte se na označené místo vyzvednutí.&lt;br/&gt;– V případě příliš velkých ztrát bude mise zrušena a tým dostane rozkaz k opuštění oblasti.</Czech>
-        <English>- Infiltrate the marked AO and sweep it.&lt;br/&gt;- Search for the Emergency Descent Module.&lt;br/&gt;- Once the EDM is found, retrieve its data using the standard terminal.&lt;br/&gt;- Move to the designated Exfiltration point.&lt;br/&gt;- In the event of too many team casualties, mission will be cancelled and team ordered to exfiltrate.</English>
-        <Portuguese>- Infiltre-se na AO marcada e vasculhe-a.&lt;br/&gt;- Encontre o módulo de descida de emergência (MDE).&lt;br/&gt;- Depois de encontrar o MDE, recupere os dados usando o terminal padrão.&lt;br/&gt;- Desloque-se para o ponto de exfiltração designado.&lt;br/&gt;- Caso a equipe tenha sofrido baixas demais, D32a missão será cancelada e as ordens da equipe serão de exfiltrar-se.</Portuguese>
-        <Korean>- 표시한 작전 지역을 침투하여 수색합니다.&lt;br/&gt;- 비상하강모듈(EDM)을 찾습니다.&lt;br/&gt;- EDM을 찾으면, 표준 터미널을 사용하여 데이터를 회수합니다.&lt;br/&gt;- 지정된 퇴출 지점으로 이동합니다.&lt;br/&gt;- 팀에 사상자가 많을 경우 임무를 취소하고 팀에게 퇴출을 명령합니다.</Korean>
-        <Chinesesimp>- 渗透并扫荡任务区.&lt;br/&gt;- 找到紧急下降舱.&lt;br/&gt;- 当找到紧急下降舱后, 使用终端机来回收其中的资料.&lt;br/&gt;- 前往指定的撤离地点.&lt;br/&gt;- 假如在任务中有过多的伤亡, 任务会自动取消并命令小队前往撤离点.</Chinesesimp>
-        <Japanese>- マーキングされた作戦区域に侵入、全体を捜索する。&lt;br/&gt;- 緊急降下モジュール（EDM）の行方を探す。&lt;br/&gt;- EDM を発見後、標準的な電子ターミナルを使ってデータを回収。&lt;br/&gt;- 指定された撤退地点まで移動する。&lt;br/&gt;- チームへの損害大の場合、作戦は中止されチームの脱出が命令される。</Japanese>
+        <Chinese>-滲透並掃蕩任務區。&lt;br/&gt;-找到緊急下降艙。&lt;br/&gt;-當找到緊急下降艙後，使用終端機來回收其中的資料。&lt;br/&gt;-前往指定的撤離地點。&lt;br/&gt;-假如在任務中有過多的傷亡，任務會自動取消並命令小隊前往撤離點。</Chinese>
+        <Chinesesimp>-渗透并扫荡任务区。&lt;br/&gt;-找到紧急下降舱。&lt;br/&gt;-当找到紧急下降舱后，使用终端机来回收其中的资料。&lt;br/&gt;-前往指定的撤离地点。&lt;br/&gt;-假如在任务中有过多的伤亡，任务会自动取消并命令小队前往撤离点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_79">
         <Original>Drive the MRAP vehicle to a designated vehicle delivery position outside the AO.</Original>
-        <Chinese>駕駛防地雷反伏擊車前往任務區外指定的交付地點.</Chinese>
-        <French>Pilotez le MRAP jusqu'à l'emplacement indiqué, aux abords de la ZO.</French>
-        <Spanish>Llevad el vehículo MRAP hasta la posición de entrega indicada, fuera de la zona de operaciones.</Spanish>
-        <Italian>Guida il veicolo MRAP verso la posizione di consegna del veicolo indicata fuori dall'Area delle operazioni.</Italian>
-        <Polish>Poprowadź MRAP do wyznaczonego punktu poza obszarem działania.</Polish>
-        <Russian>Доставьте бронемашину на указанную позицию за пределами района боевых действий.</Russian>
-        <German>Fahrt das MRAP-Fahrzeug zur markierten Fahrzeug-Lieferposition außerhalb des Einsatzgebietes.</German>
-        <Czech>Odvezte vozidlo MRAP na určené místo mimo operační oblast.</Czech>
-        <English>Drive the MRAP vehicle to a designated vehicle delivery position outside the AO.</English>
-        <Portuguese>Conduza o veículo resistente à mina para a posição designada de entrega do veículo fora da AO.</Portuguese>
-        <Korean>작전 지역 밖의 지정 차량 수송 위치로 MRAP 차량을 조종합니다.</Korean>
-        <Chinesesimp>驾驶防地雷反伏击车前往任务区外指定的交付地点.</Chinesesimp>
-        <Japanese>MRAP 車両を作戦区域外に指定された車両移送地点まで運転せよ。</Japanese>
+        <Chinese>駕駛防地雷反伏擊車前往任務區外指定的交付地點。</Chinese>
+        <Chinesesimp>驾驶防地雷反伏击车前往任务区外指定的交付地点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_78">
         <Original>Deliver Captured Vehicle</Original>
         <Chinese>交付捕獲的載具</Chinese>
-        <French>Livrer le véhicule saisi</French>
-        <Spanish>Entregar el vehículo capturado</Spanish>
-        <Italian>Consegna il veicolo di cui sei entrato in possesso</Italian>
-        <Polish>Dostarcz zdobyty pojazd</Polish>
-        <Russian>Доставьте захваченную технику</Russian>
-        <German>Liefert das erbeutete Fahrzeug ab</German>
-        <Czech>Odvezte ukořistěné vozidlo</Czech>
-        <English>Deliver Captured Vehicle</English>
-        <Portuguese>Entregue o veículo apreendido</Portuguese>
-        <Korean>점령한 차량 수송</Korean>
         <Chinesesimp>交付捕获的载具</Chinesesimp>
-        <Japanese>奪取した車両を指定地点まで移送</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_77">
         <Original>Commandeer the MRAP vehicle.</Original>
-        <Chinese>奪取防地雷反伏擊車.</Chinese>
-        <French>Emparez-vous du MRAP.</French>
-        <Spanish>Requisad el vehículo MRAP.</Spanish>
-        <Italian>Sequestra il veicolo MRAP.</Italian>
-        <Polish>Pokieruj pojazdem MRAP.</Polish>
-        <Russian>Захватите бронемашину.</Russian>
-        <German>Fahrt das MRAP-Fahrzeug.</German>
-        <Czech>Ukořistěte vozidlo MRAP.</Czech>
-        <English>Commandeer the MRAP vehicle.</English>
-        <Portuguese>Assuma o controle do veículo resistente a minas.</Portuguese>
-        <Korean>MRAP 차량 징발.</Korean>
-        <Chinesesimp>夺取防地雷反伏击车.</Chinesesimp>
-        <Japanese>MRAP 車両を奪取せよ。</Japanese>
+        <Chinese>奪取防地雷反伏擊車。</Chinese>
+        <Chinesesimp>夺取防地雷反伏击车。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_76">
         <Original>Capture Vehicle</Original>
         <Chinese>奪取載具</Chinese>
-        <French>S'emparer du véhicule</French>
-        <Spanish>Capturar el vehículo</Spanish>
-        <Italian>Impossessati del veicolo</Italian>
-        <Polish>Zdobądź pojazd</Polish>
-        <Russian>Захватите технику</Russian>
-        <German>Fahrzeug erbeuten</German>
-        <Czech>Obsaďte vozidlo</Czech>
-        <English>Capture Vehicle</English>
-        <Portuguese>Apreenda o veículo</Portuguese>
-        <Korean>차량 점령</Korean>
         <Chinesesimp>夺取载具</Chinesesimp>
-        <Japanese>車両を奪取</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_75">
         <Original>Search the AO for the MRAP vehicle.</Original>
-        <Chinese>前往任務區搜索防地雷反伏擊車.</Chinese>
-        <French>Retrouvez le MRAP dans la ZO.</French>
-        <Spanish>Registrad la zona de operaciones y buscad el vehículo MRAP.</Spanish>
-        <Italian>Perlustra l'Area delle operazioni alla ricerca del veicolo MRAP.</Italian>
-        <Polish>Przeszukaj obszar działania w poszukiwaniu MRAP-a.</Polish>
-        <Russian>Найдите бронемашину в районе боевых действий.</Russian>
-        <German>Sucht im Einsatzgebiet nach dem MRAP-Fahrzeug.</German>
-        <Czech>Prohledejte operační oblast a najděte vozidlo MRAP.</Czech>
-        <English>Search the AO for the MRAP vehicle.</English>
-        <Portuguese>Vasculhe pelo veículo resistente a minas na AO.</Portuguese>
-        <Korean>MRAP 차량을 찾아 작전 지역을 수색합니다.</Korean>
-        <Chinesesimp>前往任务区搜索防地雷反伏击车.</Chinesesimp>
-        <Japanese>作戦区域内でMRAP 車両を捜索せよ。</Japanese>
+        <Chinese>前往任務區搜索防地雷反伏擊車。</Chinese>
+        <Chinesesimp>前往任务区搜索防地雷反伏击车。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_74">
         <Original>Find Terminal 3 and download the intel.</Original>
-        <Chinese>找到3號終端機並下載情報.</Chinese>
-        <French>Trouvez le terminal 3 et téléchargez les infos.</French>
-        <Spanish>Encontrad el terminal 3 y descargad la información.</Spanish>
-        <Italian>Trova il terminal 3 e scarica le informazioni.</Italian>
-        <Polish>Znajdź terminal nr 3 i pobierz dane.</Polish>
-        <Russian>Найдите Терминал 3 и загрузите разведданные.</Russian>
-        <German>Findet Terminal 3 und ladet die Informationen herunter.</German>
-        <Czech>Najděte terminál 3 a stáhněte data.</Czech>
-        <English>Find Terminal 3 and download the intel.</English>
-        <Portuguese>Encontre o Terminal 3 e baixe os dados de inteligência.</Portuguese>
-        <Korean>터미널 3을 찾아 그 정보를 다운로드하십시오.</Korean>
-        <Chinesesimp>找到3号终端机并下载情报.</Chinesesimp>
-        <Japanese>ターミナル 3を発見して情報をダウンロードせよ。</Japanese>
+        <Chinese>找到3號終端機並下載情報。</Chinese>
+        <Chinesesimp>找到3号终端机并下载情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_73">
         <Original>Download Intel from Terminal 3</Original>
         <Chinese>從3號終端機上下載情報</Chinese>
-        <French>Télécharger infos du terminal 3</French>
-        <Spanish>Descargar información del terminal 3</Spanish>
-        <Italian>Scarica le informazioni dal terminal 3</Italian>
-        <Polish>Pobierz dane z terminalu nr 3</Polish>
-        <Russian>Загрузите разведданные с Терминала 3</Russian>
-        <German>Informationen von Terminal 3 herunterladen</German>
-        <Czech>Stáhněte data z terminálu 3</Czech>
-        <English>Download Intel from Terminal 3</English>
-        <Portuguese>Baixe os dados de inteligência no Terminal 3</Portuguese>
-        <Korean>터미널 3에서 정보 다운로드</Korean>
         <Chinesesimp>从3号终端机上下载情报</Chinesesimp>
-        <Japanese>ターミナル 3 から情報をダウンロード</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_72">
         <Original>Find Terminal 2, download intel and uncover the location of Terminal 3.</Original>
-        <Chinese>找到2號終端機, 下載情報並定位出3號終端機的位置.</Chinese>
-        <French>Trouvez le terminal 2, téléchargez les infos et obtenez l'emplacement du terminal 3.</French>
-        <Spanish>Encontrad el terminal 2, descargad la información y descubrid la ubicación del terminal 3.</Spanish>
-        <Italian>Trova il terminal 2, scarica le informazioni e scopri dove si trova il terminal 3.</Italian>
-        <Polish>Znajdź terminal nr 2, pobierz dane i odkryj położenie terminalu nr 3.</Polish>
-        <Russian>Найдите Терминал 2, загрузите разведданные и обнаружьте местоположение Терминала 3.</Russian>
-        <German>Findet Terminal 2, ladet die Informationen herunter und ermittelt dadurch die Position von Terminal 3.</German>
-        <Czech>Najděte terminál 2, stáhněte data a zjistěte pozici terminálu 3.</Czech>
-        <English>Find Terminal 2, download intel and uncover the location of Terminal 3.</English>
-        <Portuguese>Encontre o Terminal 2, baixe os dados de inteligência e descubra a localização do Terminal 3.</Portuguese>
-        <Korean>터미널 2를 찾아 정보를 다운로드하고 터미널 3의 위치를 밝힙니다.</Korean>
-        <Chinesesimp>找到2号终端机, 下载情报并定位出3号终端机的位置.</Chinesesimp>
-        <Japanese>ターミナル 2を発見し、情報をダウンロードしてターミナル 3の位置を特定せよ。</Japanese>
+        <Chinese>找到2號終端機，下載情報並定位出3號終端機的位置。</Chinese>
+        <Chinesesimp>找到2号终端机，下载情报并定位出3号终端机的位置。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_71">
         <Original>Download Intel from Terminal 2</Original>
         <Chinese>從2號終端機上下載情報</Chinese>
-        <French>Télécharger infos du terminal 2</French>
-        <Spanish>Descargar información del terminal 2</Spanish>
-        <Italian>Scarica le informazioni dal terminal 2</Italian>
-        <Polish>Pobierz dane z terminalu nr 2</Polish>
-        <Russian>Загрузите разведданные с Терминала 2</Russian>
-        <German>Informationen von Terminal 2 herunterladen</German>
-        <Czech>Stáhněte data z terminálu 2</Czech>
-        <English>Download Intel from Terminal 2</English>
-        <Portuguese>Baixe os dados de inteligência no Terminal 2</Portuguese>
-        <Korean>터미널 2에서 정보 다운로드</Korean>
         <Chinesesimp>从2号终端机上下载情报</Chinesesimp>
-        <Japanese>ターミナル 2から情報をダウンロード</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_70">
         <Original>Find Terminal 1, download intel and uncover the location of Terminal 2.</Original>
-        <Chinese>找到1號終端機, 下載情報並定位出2號終端機的位置.</Chinese>
-        <French>Trouvez le terminal 1, téléchargez les infos et obtenez l'emplacement du terminal 2.</French>
-        <Spanish>Encontrad el terminal 1, descargad la información y descubrid la ubicación del terminal 2.</Spanish>
-        <Italian>Trova il terminal 1, scarica le informazioni e scopri dove si trova il terminal 2.</Italian>
-        <Polish>Znajdź terminal nr 1, pobierz dane i odkryj położenie terminalu nr 2.</Polish>
-        <Russian>Найдите Терминал 1, загрузите разведданные и обнаружьте местоположение Терминала 2.</Russian>
-        <German>Findet Terminal 1, ladet die Informationen herunter und ermittelt dadurch die Position von Terminal 2.</German>
-        <Czech>Najděte terminál 1, stáhněte data a zjistěte pozici terminálu 2.</Czech>
-        <English>Find Terminal 1, download intel and uncover the location of Terminal 2.</English>
-        <Portuguese>Encontre o Terminal 1, baixe os dados de inteligência e descubra a localização do Terminal 2.</Portuguese>
-        <Korean>터미널 1을 찾아 정보를 다운로드하고 터미널 2의 위치를 밝힌다.</Korean>
-        <Chinesesimp>找到1号终端机, 下载情报并定位出2号终端机的位置.</Chinesesimp>
-        <Japanese>ターミナル 1を発見し、情報をダウンロードしてターミナル 2の位置を特定せよ。</Japanese>
+        <Chinese>找到1號終端機，下載情報並定位出2號終端機的位置。</Chinese>
+        <Chinesesimp>找到1号终端机，下载情报并定位出2号终端机的位置。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_7">
         <Original>Support</Original>
         <Chinese>支援</Chinese>
-        <French>Soutien</French>
-        <Spanish>Apoyo</Spanish>
-        <Italian>Supporta</Italian>
-        <Polish>Wsparcie</Polish>
-        <Russian>Поддержка</Russian>
-        <German>Unterstützung</German>
-        <Czech>Podpora</Czech>
-        <English>Support</English>
-        <Portuguese>Suporte</Portuguese>
-        <Korean>지원</Korean>
         <Chinesesimp>支援</Chinesesimp>
-        <Japanese>支援</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_69">
         <Original>Download Intel from Terminal 1</Original>
         <Chinese>從1號終端機上下載情報</Chinese>
-        <French>Télécharger infos du terminal 1</French>
-        <Spanish>Descargar información del terminal 1</Spanish>
-        <Italian>Scarica le informazioni dal terminal 1</Italian>
-        <Polish>Pobierz dane z terminalu nr 1</Polish>
-        <Russian>Загрузите разведданные с Терминала 1</Russian>
-        <German>Informationen von Terminal 1 herunterladen</German>
-        <Czech>Stáhněte data z terminálu 1</Czech>
-        <English>Download Intel from Terminal 1</English>
-        <Portuguese>Baixe os dados de inteligência no Terminal 1</Portuguese>
-        <Korean>터미널 1에서 정보 다운로드</Korean>
         <Chinesesimp>从1号终端机上下载情报</Chinesesimp>
-        <Japanese>ターミナル 1から情報をダウンロード</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_68">
         <Original>Search the AO for the three SIGINT arrays and download any intel available.</Original>
-        <Chinese>搜索任務區中的三個訊號終端機, 並從上面下載情報.</Chinese>
-        <French>Retrouvez les trois antennes SIGINT dans la ZO et téléchargez les infos.</French>
-        <Spanish>Registrad la zona de operaciones en busca de las tres ubicaciones con datos de inteligencia y descargad toda la información disponible.</Spanish>
-        <Italian>Perlustra l'Area delle operazioni alla ricerca delle tre schiere di antenne dell'intelligence e scarica ogni informazione disponibile.</Italian>
-        <Polish>Przeszukaj obszar działania w poszukiwaniu terminali informacyjnych i pobierz dostępne dane.</Polish>
-        <Russian>Найдите три разведывательных комплекса в районе боевых действий и загрузите все разведданные.</Russian>
-        <German>Sucht im Einsatzgebiet nach den drei SIGINT-Anlagen und ladet alle verfügbaren Informationen herunter.</German>
-        <Czech>Prohledejte operační oblast, najděte tři výzvědné antény a stáhněte dostupná data.</Czech>
-        <English>Search the AO for the three SIGINT arrays and download any intel available.</English>
-        <Portuguese>Vasculhe pelas três matrizes SIGINT na AO e baixe e quaisquer dados de inteligência disponíveis.</Portuguese>
-        <Korean>3개의 신호정보군을 찾아 작전 지역을 수색한 후 모든 이용 가능한 정보를 다운로드합니다.</Korean>
-        <Chinesesimp>搜索任务区中的三个讯号终端机, 并从上面下载情报.</Chinesesimp>
-        <Japanese>作戦区域内で 3 ヵ所の SIGINT アレイを探し出し、保持されている情報を全て入手せよ。</Japanese>
+        <Chinese>搜索任務區中的三個訊號終端機，並從上面下載情報。</Chinese>
+        <Chinesesimp>搜索任务区中的三个讯号终端机，并从上面下载情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_67">
         <Original>Find and kill the high-ranking enemy officer before he leaves the AO.</Original>
-        <Chinese>在敵方的高階軍官離開任務區之前, 找到並殲滅掉他.</Chinese>
-        <French>Trouvez et abattez le haut gradé avant qu'il ne quitte la ZO.</French>
-        <Spanish>Encontrad y asesinad al oficial enemigo de alto rango antes de que salga de la zona de operaciones.</Spanish>
-        <Italian>Trova e uccidi l'ufficiale di alto rango nemico prima che lasci l'Area delle operazioni.</Italian>
-        <Polish>Znajdź i zabij wysokiego rangą oficera, zanim opuści obszar.</Polish>
-        <Russian>Найдите и убейте вражеского старшего офицера, прежде чем он покинет район боевых действий.</Russian>
-        <German>Findet und eliminiert den hochrangigen feindlichen Offizier, bevor dieser das Einsatzgebiet verlässt.</German>
-        <Czech>Najděte a zabijte nepřátelského vysokého důstojníka, než opustí operační oblast.</Czech>
-        <English>Find and kill the high-ranking enemy officer before he leaves the AO.</English>
-        <Portuguese>Encontre e elimine o oficial de alto escalão inimigo antes de deixar a AO.</Portuguese>
-        <Korean>작전 지역을 떠나기 전 고위급 적군 장교를 찾아 처지하라.</Korean>
-        <Chinesesimp>在敌方的高阶军官离开任务区之前, 找到并歼灭掉他.</Chinesesimp>
-        <Japanese>敵高官が作戦区域から出る前にこれを捕捉し排除せよ。</Japanese>
+        <Chinese>在敵方的高階軍官離開任務區之前，找到並殲滅掉他。</Chinese>
+        <Chinesesimp>在敌方的高阶军官离开任务区之前，找到并歼灭掉他。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_66">
         <Original>Eliminate HVT</Original>
         <Chinese>殲滅重要目標</Chinese>
-        <French>Éliminer cible VIP</French>
-        <Spanish>Eliminar al objetivo de gran valor</Spanish>
-        <Italian>Elimina l'obiettivo di alto valore (HVT)</Italian>
-        <Polish>Wyeliminuj ważny cel</Polish>
-        <Russian>Устраните приоритетную цель</Russian>
-        <German>Wichtiges Ziel eliminieren</German>
-        <Czech>Zlikvidujte cíl</Czech>
-        <English>Eliminate HVT</English>
-        <Portuguese>Elimine o alvo de alto valor</Portuguese>
-        <Korean>고가치표적 제거</Korean>
         <Chinesesimp>歼灭重要目标</Chinesesimp>
-        <Japanese>HVT を排除</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_65">
         <Original>Find and destroy the enemy's communication systems.</Original>
-        <Chinese>找到並摧毀敵方的通訊系統.</Chinese>
-        <French>Trouvez et détruisez les systèmes de communication ennemis.</French>
-        <Spanish>Encontrad y destruid los sistemas de comunicación del enemigo.</Spanish>
-        <Italian>Trova e distruggi i sistemi di comunicazione del nemico.</Italian>
-        <Polish>Znajdź i zniszcz system łączności przeciwnika.</Polish>
-        <Russian>Найдите и уничтожьте вражеские системы связи. </Russian>
-        <German>Findet und zerstört die feindlichen Kommunikationssysteme.</German>
-        <Czech>Najděte a zničte nepřátelské komunikační systémy.</Czech>
-        <English>Find and destroy the enemy's communication systems.</English>
-        <Portuguese>Encontre e destrua os sistemas de comunicação do inimigo.</Portuguese>
-        <Korean>적의 통신 시스템을 찾아 파괴하라.</Korean>
-        <Chinesesimp>找到并摧毁敌方的通讯系统.</Chinesesimp>
-        <Japanese>敵の通信システムを発見し破壊せよ。</Japanese>
+        <Chinese>找到並摧毀敵方的通訊系統。</Chinese>
+        <Chinesesimp>找到并摧毁敌方的通讯系统。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_64">
         <Original>Sabotage Comms Node</Original>
         <Chinese>摧毀通訊節點</Chinese>
-        <French>Saboter nœud de communications</French>
-        <Spanish>Sabotear núcleos de comunicación</Spanish>
-        <Italian>Sabota il nodo di comunicazione</Italian>
-        <Polish>Dokonaj sabotażu węzłów łączności</Polish>
-        <Russian>Уничтожьте узел связи</Russian>
-        <German>Kommunikations-Knotenpunkt sabotieren</German>
-        <Czech>Sabotujte komunikační uzel</Czech>
-        <English>Sabotage Comms Node</English>
-        <Portuguese>Sabote os dispositivos de comunicações</Portuguese>
-        <Korean>통신 노드 사보타주</Korean>
         <Chinesesimp>摧毁通讯节点</Chinesesimp>
-        <Japanese>通信中継地に破壊工作を行う</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_63">
         <Original>Find and immobilize the OPFOR ammunition truck.</Original>
-        <Chinese>找到並摧毀敵方的彈藥卡車.</Chinese>
-        <French>Trouvez et immobilisez le camion de munitions OPFOR.</French>
-        <Spanish>Encontrad e inmovilizad el camión de munición de OPFOR.</Spanish>
-        <Italian>Trova e blocca il furgone di munizioni OPFOR. </Italian>
-        <Polish>Znajdź i unieruchom ciężarówkę OPFOR z amunicją.</Polish>
-        <Russian>Найдите и нейтрализуйте грузовик с боеприпасами OPFOR.</Russian>
-        <German>Findet den OPFOR-Munitions-LKW und legt ihn lahm.</German>
-        <Czech>Najděte a znehybněte muniční náklaďák OPFOR.</Czech>
-        <English>Find and immobilize the OPFOR ammunition truck.</English>
-        <Portuguese>Encontre e imobilize o caminhão de munição da OPFOR.</Portuguese>
-        <Korean>OPFOR 탄약 트럭을 찾아 이동력을 저지하라.</Korean>
-        <Chinesesimp>找到并摧毁敌方的弹药卡车.</Chinesesimp>
-        <Japanese>敵性勢力の弾薬補給トラックを発見し行動不能に陥らせろ。</Japanese>
+        <Chinese>找到並摧毀敵方的彈藥卡車。</Chinese>
+        <Chinesesimp>找到并摧毁敌方的弹药卡车。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_62">
         <Original>Sabotage Ammo Truck</Original>
         <Chinese>摧毀彈藥卡車</Chinese>
-        <French>Saboter camion de munitions</French>
-        <Spanish>Sabotear camión de munición</Spanish>
-        <Italian>Sabota il furgone di munizioni</Italian>
-        <Polish>Dokonaj sabotażu ciężarówki z amunicją</Polish>
-        <Russian>Уничтожьте грузовик с боеприпасами</Russian>
-        <German>Munitions-LKW sabotieren</German>
-        <Czech>Sabotujte muniční náklaďák</Czech>
-        <English>Sabotage Ammo Truck</English>
-        <Portuguese>Sabote o caminhão de munição</Portuguese>
-        <Korean>탄약 트럭 사보타주</Korean>
         <Chinesesimp>摧毁弹药卡车</Chinesesimp>
-        <Japanese>弾薬トラックに破壊工作を行う</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_61">
         <Original>Find and immobilize the OPFOR fuel truck.</Original>
-        <Chinese>找到並摧毀敵方的燃料卡車.</Chinese>
-        <French>Trouvez et immobilisez le camion-citerne OPFOR.</French>
-        <Spanish>Encontrad e inmovilizad el camión de combustible de OPFOR.</Spanish>
-        <Italian>Trova e blocca il furgone di carburante OPFOR. </Italian>
-        <Polish>Znajdź i unieruchom ciężarówkę OPFOR z paliwem.</Polish>
-        <Russian>Найдите и нейтрализуйте автозаправщик OPFOR.</Russian>
-        <German>Findet den OPFOR-Treibstoff-LKW und legt ihn lahm.</German>
-        <Czech>Najděte a znehybněte cisternu OPFOR.</Czech>
-        <English>Find and immobilize the OPFOR fuel truck.</English>
-        <Portuguese>Encontre e imobilize o caminhão de combustível da OPFOR.</Portuguese>
-        <Korean>OPFOR 연료 트럭을 찾아 이동력을 저지하라.</Korean>
-        <Chinesesimp>找到并摧毁敌方的燃料卡车.</Chinesesimp>
-        <Japanese>敵性勢力の燃料補給トラックを発見し行動不能に陥らせろ。</Japanese>
+        <Chinese>找到並摧毀敵方的燃料卡車。</Chinese>
+        <Chinesesimp>找到并摧毁敌方的燃料卡车。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_60">
         <Original>Sabotage Fuel Truck</Original>
         <Chinese>摧毀燃料卡車</Chinese>
-        <French>Saboter camion-citerne</French>
-        <Spanish>Sabotear camión de combustible</Spanish>
-        <Italian>Sabota il furgone di carburante</Italian>
-        <Polish>Dokonaj sabotażu ciężarówki z paliwem</Polish>
-        <Russian>Уничтожьте автозаправщик</Russian>
-        <German>Treibstoff-LKW sabotieren</German>
-        <Czech>Sabotujte cisternu</Czech>
-        <English>Sabotage Fuel Truck</English>
-        <Portuguese>Sabote o caminhão de combustível</Portuguese>
-        <Korean>연료 트럭 사보타주</Korean>
         <Chinesesimp>摧毁燃料卡车</Chinesesimp>
-        <Japanese>燃料トラックに破壊工作を行う</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_6">
         <Original>Two enemy vehicles are stationed in target area. According to our intel, vehicles carry essential supplies. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</Original>
-        <Chinese>有兩輛敵方載具駐紮在任務區中. 根據情報顯示, 這些載具攜帶著軍需品. 任務區被排級大小的FLAME準軍事部隊防守著. 而他們還有摩托化援軍在任務區5分鐘路程外的地方.</Chinese>
-        <French>Deux véhicules ennemis se trouvent dans la zone de mission. D'après nos données, ces véhicules transportent du matériel de première importance. La ZO est gardée par une section paramilitaire de FLAME. Des renforts motorisés se trouvent à moins de 5 minutes de la ZO.</French>
-        <Spanish>Hay dos vehículos enemigos posicionados en la zona objetivo. Según nuestra información, llevan suministros muy importantes. La zona de operaciones está protegida por un pelotón de paramilitares FLAME. Además, se espera que haya más refuerzos motorizados a cinco minutos de la zona de operaciones.</Spanish>
-        <Italian>Nella zona bersaglio sono stazionati due veicoli nemici. Secondo le nostre informazioni, i veicoli trasportano risorse fondamentali. L'Area delle operazioni è vigilata da un elemento paramilitare FLAME delle dimensioni di un plotone. Si attende l'arrivo di altri rinforzi motorizzati nell'arco di 5 minuti dall'Area delle operazioni.</Italian>
-        <Polish>W strefie docelowej znajdują się dwa pojazdy przeciwnika. Według naszych danych wywiadowczych przewożą one kluczowe zaopatrzenie. Obszaru działania strzeże formacja paramilitarna FLAME w sile plutonu. Dodatkowe posiłki zmotoryzowane mogą dotrzeć do obszaru działania w ciągu 5 minut.</Polish>
-        <Russian>В целевом районе размещены две машины противника. По имеющимся у нас данным, в них находятся крайне важные припасы. Район боевых действий охраняется военизированным элементом FLAME размером со взвод. Дополнительные моторизованные подкрепления находятся в 5-минутной дальности хода от данного участка.</Russian>
-        <German>Im Zielgebiet befinden sich zwei feindliche Fahrzeuge. Unseren Informationen zufolge sind diese Fahrzeuge mit essentiellen Versorgungsgütern beladen. Das Einsatzgebiet wird von einer Truppe FLAME-Paramilitärs bewacht. Weitere motorisierte Verstärkungstruppen werden innerhalb des 5-Minuten-Radius des Einsatzgebietes erwartet.</German>
-        <Czech>V cílové oblasti jsou dislokována dvě nepřátelská vozidla. Podle našich informací tato vozidla nesou základní zásoby. Operační oblast hlídá četa příslušníků polovojenské organizace FLAME. Očekává se, že ve vzdálenosti 5 minut jízdy od operační oblasti jsou k dispozici další motorizované posily.</Czech>
-        <English>Two enemy vehicles are stationed in target area. According to our intel, vehicles carry essential supplies. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</English>
-        <Portuguese>Dois veículos inimigos estão estacionados na área alvo. Segundo as informações da inteligência, neles encontram-se alguns materiais essenciais. A AO está protegida por um pelotão paramilitar FLAME. Espera-se que haja outros reforços motorizados em um raio de 5 minutos da AO.</Portuguese>
-        <Korean>두대의 적군 차량이 표적 지점에 주둔 중입니다. 아군 정보에 따르면 차량에 필수 보급품을 싣고 있습니다. 작전 지역은 소대 규모의 FLAME 민병대가 지키고 있습니다. 추가 차량화 증원 병력이 작전 지역에서 5분 반경 이내에 예상됩니다.</Korean>
-        <Chinesesimp>有两辆敌方载具驻扎在任务区中. 根据情报显示, 这些载具携带着军需品. 任务区被排级大小的FLAME准军事部队防守着. 而他们还有摩托化援军在任务区5分钟路程外的地方.</Chinesesimp>
-        <Japanese>ターゲットエリアには2両の敵車両が展開中。我々の情報によれば、車両には重要物資が搭載されている。作戦区域（AO）は小隊規模の FLAME 準軍事部隊が防衛している。AO から 5 分以内の距離に他自動車化部隊が配置されている模様。</Japanese>
+        <Chinese>有兩輛敵方載具駐紮在任務區中。根據情報顯示，這些載具攜帶著軍需品。任務區被排級大小的FLAME準軍事部隊防守著。而他們還有摩托化援軍在任務區5分鐘路程外的地方。</Chinese>
+        <Chinesesimp>有两辆敌方载具驻扎在任务区中。根据情报显示，这些载具携带着军需品。任务区被排级大小的FLAME准军事部队防守着。而他们还有摩托化援军在任务区5分钟路程外的地方。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_59">
         <Original>Search the AO for the two supply vehicles and destroy them.</Original>
-        <Chinese>搜索任務區中的2輛補給載具並摧毀之.</Chinese>
-        <French>Retrouvez les deux véhicules de ravitaillement dans la ZO et détruisez-les.</French>
-        <Spanish>Registrad la zona de operaciones en busca de los dos vehículos de suministros y destruidlos.</Spanish>
-        <Italian>Perlustra l'Area delle operazioni alla ricerca dei due veicoli di rifornimento e distruggili.</Italian>
-        <Polish>Przeszukaj obszar działania w poszukiwaniu pojazdów zaopatrzeniowych i zniszcz je.</Polish>
-        <Russian>Найдите две машины снабжения в районе боевых действий и уничтожьте их.</Russian>
-        <German>Sucht im Einsatzgebiet nach den zwei Versorgungsfahrzeugen und zerstört sie.</German>
-        <Czech>Najděte v operační oblasti dva zásobovací náklaďáky a zničte je.</Czech>
-        <English>Search the AO for the two supply vehicles and destroy them.</English>
-        <Portuguese>Vasculhe a AO em busca dos dois veículos de abastecimento e destrua-os.</Portuguese>
-        <Korean>2개의 보급차량을 찾아 작전 지역을 수색하여 파괴시켜라.</Korean>
-        <Chinesesimp>搜索任务区中的2辆补给载具并摧毁之.</Chinesesimp>
-        <Japanese>作戦区域内で補給車両 2 台を探し出し、これを破壊せよ。</Japanese>
+        <Chinese>搜索任務區中的2輛補給載具並摧毀之。</Chinese>
+        <Chinesesimp>搜索任务区中的2辆补给载具并摧毁之。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_58">
         <Original>The enemy has concealed a command vehicle in the AO, containing a valuable encryption device.&lt;br/&gt;&lt;br/&gt;It's guarded by a platoon-sized, OPFOR infantry element. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
-        <Chinese>敵方在任務區內隱藏了一台指揮載具, 它上面裝有高價值的加密機.&lt;br/&gt;&lt;br/&gt;他被一支敵方排級大小的步兵隊保護著. 由於緊鄰著旁邊的戰區, 他們的援軍應該會在5分鐘之內抵達. 敵方的援軍可能會由空中, 摩托化或機械化等種類的單位所組成.</Chinese>
-        <French>L'ennemi a caché dans la ZO un véhicule de commandement dans lequel se trouve un dispositif de cryptage.&lt;br/&gt;&lt;br/&gt;Il est gardé par une section d'infanterie OPFOR. En raison de la proximité avec la zone de combat, des renforts OPFOR peuvent arriver sur place en cinq minutes. Une telle contre-offensive peut avoir lieu par les airs ou avec des véhicules terrestres, blindés ou non.</French>
-        <Spanish>El enemigo ha ocultado un vehículo de comando con un dispositivo de cifrado muy valioso en la zona de operaciones.&lt;br/&gt;&lt;br/&gt;Está protegido por un pelotón de infantería de OPFOR. Debido a la proximidad de la zona de combate, los refuerzos de OPFOR podrían llegar en cinco minutos. El contraataque podrían llevarlo a cabo fuerzas aéreas, motorizadas e incluso mecanizadas.</Spanish>
-        <Italian>Il nemico ha nascosto un veicolo di comando contenente un dispositivo di criptaggio di valore nell'Area delle operazioni.&lt;br/&gt;&lt;br/&gt;È protetto da un elemento di fanteria, OPFOR delle dimensioni di un plotone. A causa della vicinanza alla zona di combattimento, i rinforzi OPFOR potrebbero arrivare entro cinque minuti. Tale contrattacco potrebbe includere forze aeree, motorizzate o persino meccanizzate.</Italian>
-        <Polish>Przeciwnik ukrył w obszarze działania wóz dowodzenia przewożący cenne urządzenie szyfrujące.&lt;br/&gt;&lt;br/&gt;Strzeże go oddział piechoty OPFOR w sile plutonu. Ze względu na bliskość strefy walki posiłki OPFOR mogą nadejść w ciągu 5 minut. Kontratak może nastąpić przy udziale sił powietrznodesantowych, zmotoryzowanych lub nawet zmechanizowanych.</Polish>
-        <Russian>Враг спрятал командирскую машину с ценным шифровальным аппаратом в районе боевых действий.&lt;br/&gt;&lt;br/&gt;Она охраняется пехотным подразделением OPFOR в размере взвода. В связи с близким расположением к зоне боевых действий, подкрепления OPFOR могут прибыть в течение пяти минут. Они могут включать в себя авиацию, моторизованные расчеты и даже механизированные подразделения.</Russian>
-        <German>Der Feind hat ein Kommandofahrzeug im Einsatzgebiet versteckt, in dem sich ein wertvolles Verschlüsselungsgerät befindet.&lt;br/&gt;&lt;br/&gt;Es wird von einem OPFOR-Infanteriezug bewacht. Aufgrund der Nähe zum Kampfgebiet könnten in fünf Minuten OPFOR-Verstärkungstruppen eintreffen. Ein solcher Gegenangriff kann Lufteinheiten, Fahrzeuge und sogar Panzer beinhalten.</German>
-        <Czech>Nepřítel v operační oblasti ukryl velitelské vozidlo, ve kterém se nachází cenné šifrovací zařízení.&lt;br/&gt;&lt;br/&gt;Chrání ho pěchotní jednotka OPFOR velikosti čety. Vzhledem k blízkosti bojové oblasti jsou posily OPFOR schopny dorazit do pěti minut. Případný protiútok může zahrnovat vzdušné, motorizované, či dokonce mechanizované síly.</Czech>
-        <English>The enemy has concealed a command vehicle in the AO, containing a valuable encryption device.&lt;br/&gt;&lt;br/&gt;It's guarded by a platoon-sized, OPFOR infantry element. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</English>
-        <Portuguese>O inimigo escondeu um veículo de comando contendo um dispositivo de criptografia valioso na AO.&lt;br/&gt;&lt;br/&gt;Ela está protegida por um pelotão de infantaria da OPFOR. Devido à proximidade com a zona de combate, os reforços da OPFOR devem chegar apenas em cinco minutos. O contra-ataque pode incluir tanto forças aéreas quanto motorizadas, ou até mesmo mecanizadas.</Portuguese>
-        <Korean>적군이 작전 지역에 지휘 차량을 은닉하여 중요한 암호화 장치를 심어놨습니다.&lt;br/&gt;&lt;br/&gt;소대 규모의 OPFOR 보병대가 이를 방어하고 있습니다. 전투 지역이 근접해 있어 OPFOR 증원 병력이 5분 내로 도착할 수 있습니다. 이런 반격에는 공수 부대, 차량 부대와 기계화 부대까지 동원될 수 있습니다.</Korean>
-        <Chinesesimp>敌方在任务区内隐藏了一台指挥载具, 它上面装有高价值的加密机.&lt;br/&gt;&lt;br/&gt;他被一支敌方排级大小的步兵队保护着. 由于紧邻着旁边的战区, 他们的援军应该会在5分钟之内抵达. 敌方的援军可能会由空中, 摩托化或机械化等种类的单位所组成.</Chinesesimp>
-        <Japanese>敵勢力が作戦区域内に高価値の暗号化デバイスを備えた指揮車両を隠蔽している。&lt;br/&gt;&lt;br/&gt;同車両は小隊規模の敵歩兵部隊によって守られている。尚、戦闘区域付近であるため敵増援部隊は 5 分程度で到着すると思われる。同増援戦力には空挺、機械化、あるいは機甲部隊が含まれる可能性がある。</Japanese>
+        <Chinese>敵方在任務區內隱藏了一台指揮載具，它上面裝有高價值的加密機。&lt;br/&gt;&lt;br/&gt;他被一支敵方排級大小的步兵隊保護著。由於緊鄰著旁邊的戰區，他們的援軍應該會在5分鐘之內抵達。敵方的援軍可能會由空中，摩托化或機械化等種類的單位所組成。</Chinese>
+        <Chinesesimp>敌方在任务区内隐藏了一台指挥载具，它上面装有高价值的加密机。&lt;br/&gt;&lt;br/&gt;他被一支敌方排级大小的步兵队保护着。由于紧邻着旁边的战区，他们的援军应该会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_57">
         <Original>Conduct a combat patrol to capture a vehicle.</Original>
-        <Chinese>執行戰鬥巡邏任務並奪取一輛載具.</Chinese>
-        <French>Menez une patrouille et emparez-vous d'un véhicule.</French>
-        <Spanish>Dirigid una patrulla de combate para capturar un vehículo.</Spanish>
-        <Italian>Conduci un'operazione di pattugliamento e intercettazione per impossessarti di un veicolo.</Italian>
-        <Polish>Przeprowadź patrol bojowy i zdobądź pojazd.</Polish>
-        <Russian>Проведите боевое патрулирование и захватите технику.</Russian>
-        <German>Führt eine Kampfpatrouille in das Einsatzgebiet, um ein Fahrzeug zu erbeuten.</German>
-        <Czech>Proveďte bojovou hlídku a ukořistěte vozidlo.</Czech>
-        <English>Conduct a combat patrol to capture a vehicle.</English>
-        <Portuguese>Conduza uma patrulha de combate para apreender um veículo.</Portuguese>
-        <Korean>전투 순찰을 시행하여 차량을 점령하라.</Korean>
-        <Chinesesimp>执行战斗巡逻任务并夺取一辆载具.</Chinesesimp>
-        <Japanese>戦闘哨戒をおこない車両を 1 台奪取せよ。</Japanese>
+        <Chinese>執行戰鬥巡邏任務並奪取一輛載具。</Chinese>
+        <Chinesesimp>执行战斗巡逻任务并夺取一辆载具。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_56">
         <Original>- Search the AO for the command vehicle and capture it.&lt;br/&gt;- Once the vehicle is found, protect it and move it to the designated vehicle delivery location.&lt;br/&gt;- Proceed to the exfiltration point or vehicle delivery location.&lt;br/&gt;- In the event of severe team casualties, the mission will be aborted and all operatives ordered to retreat.</Original>
-        <Chinese>- 搜索任務區中的指揮載具並奪取之.&lt;br/&gt;- 當找到該載具後, 保護並轉移它到指定的交付地點.&lt;br/&gt;- 前往撤離點或是載具交付點.&lt;br/&gt;- 假使傷亡人數過多的話, 任務會自動取消並命令所有單位前往撤離點.</Chinese>
-        <French>- Retrouvez le véhicule de commandement dans la ZO et emparez-vous-en.&lt;br/&gt;- Une fois le véhicule obtenu, défendez-le et menez-le jusqu'à l'endroit indiqué.&lt;br/&gt;- Rendez-vous au point d'exfiltration ou au point de livraison du véhicule.&lt;br/&gt;- En cas de pertes sévères, la mission sera annulée et les unités restantes devront battre en retraite.</French>
-        <Spanish>— Registrad la zona de operaciones en busca del vehículo de comando y capturadlo.&lt;br/&gt;— Cuando encontréis el vehículo, protegedlo y llevadlo a la ubicación de entrega designada.&lt;br/&gt;— Id hacia el punto de extracción o hacia la ubicación de entrega del vehículo.&lt;br/&gt;— En caso de que el equipo sufra numerosas bajas, habrá que abortar la misión y todos los operativos tendrán que retirarse.</Spanish>
-        <Italian>- Perlustra l'Area delle operazioni alla ricerca del veicolo di comando e prendilo.&lt;br/&gt;- Una voltra trovato il veicolo, proteggilo e guidalo verso la postazione di consegna del veicolo indicata.&lt;br/&gt;- Procedi verso il punto di esfiltrazione o la postazione di consegna del veicolo.&lt;br/&gt;- Nel caso si verifichino pesanti perdite all'interno della squadra, la missione sarà annullata e a tutti gli agenti verrà ordinato di battere in ritirata.</Italian>
-        <Polish>- Przeszukaj obszar działania w poszukiwaniu wozu dowodzenia i zdobądź go.&lt;br/&gt;- Po zlokalizowaniu pojazdu chroń go i przemieść do wyznaczonego miejsca.&lt;br/&gt;- Udaj się do punktu ewakuacji lub punktu dostarczenia pojazdu.&lt;br/&gt;- Jeśli poniesiesz za duże straty, misja zostanie odwołana, a członkowie grupy otrzymają rozkaz ewakuacji.</Polish>
-        <Russian>- Найдите командирскую машину в районе боевых действий и захватите ее.&lt;br/&gt;- После этого защитите и доставьте ее на указанную позицию.&lt;br/&gt;- Отправляйтесь к точке эвакуации или на место доставки машины.&lt;br/&gt;- В случае тяжелых потерь в вашем отряде миссия будет прервана и всем оперативникам будет приказано отойти.</Russian>
-        <German>- Sucht im Einsatzgebiet nach dem Kommandofahrzeug und erbeutet es.&lt;br/&gt;- Sobald ihr es gefunden habt, müsst ihr es verteidigen und zur markierten Fahrzeug-Lieferposition bringen.&lt;br/&gt;- Wenn euer Team schwere Verluste erleidet, wird die Mission abgebrochen und alle Einheiten werden zum Rückzug aufgefordert.</German>
-        <Czech>- Prohledejte operační oblast, najděte velitelské vozidlo a ukořistěte ho.&lt;br/&gt;- Jakmile vozidlo najdete, chraňte ho a přesuňte na vyznačené místo doručení.&lt;br/&gt;- Pokračujte k bodu vyzvednutí, nebo k bodu doručení vozidla.&lt;br/&gt;- V případě závažných ztrát v týmu bude mise zrušena a vojákům bude vydán rozkaz k návratu.</Czech>
-        <English>- Search the AO for the command vehicle and capture it.&lt;br/&gt;- Once the vehicle is found, protect it and move it to the designated vehicle delivery location.&lt;br/&gt;- Proceed to the exfiltration point or vehicle delivery location.&lt;br/&gt;- In the event of severe team casualties, the mission will be aborted and all operatives ordered to retreat.</English>
-        <Portuguese>- Procure pelo veículo de comando na AO e capture-o.&lt;br/&gt;- Assim que ele for encontrado, proteja o veículo e leve-o para o local de entrega designado.&lt;br/&gt;- Prossiga para o ponto de exfiltração ou para o local de entrega do veículo.&lt;br/&gt;- Caso a equipe tenha sofrido baixas em excesso, a missão será abortada e a ordem é que os agentes fujam.</Portuguese>
-        <Korean>- 지휘 차량을 찾아 작전 지역을 수색하여 점령합니다.&lt;br/&gt;- 차량은 발견하는 즉기 보호하여 지정 차량 수송 위치로 이동시킵니다.&lt;br/&gt;- 퇴출 지점 또는 차량 수송 위치로 이동하십시오.&lt;br/&gt;- 팀 사상자가 많이 발생할 경우, 임무를 취소하고 지시한 모든 작전을 취소합니다.</Korean>
-        <Chinesesimp>- 搜索任务区中的指挥载具并夺取之.&lt;br/&gt;- 当找到该载具后, 保护并转移它到指定的交付地点.&lt;br/&gt;- 前往撤离点或是载具交付点.&lt;br/&gt;- 假使伤亡人数过多的话, 任务会自动取消并命令所有单位前往撤离点.</Chinesesimp>
-        <Japanese>- 作戦区域内で指揮車両を探し出し、これを奪取せよ。&lt;br/&gt;- 車両の発見後、これを護衛して指定された車両移送地点まで車両を移送せよ。&lt;br/&gt;- 撤退地点もしくは車両移送地点まで移動せよ。&lt;br/&gt;- 作戦班に多大な損耗が発生した場合、作戦は中止され、全隊員には撤退が命じられる。</Japanese>
+        <Chinese>-搜索任務區中的指揮載具並奪取之。&lt;br/&gt;-當找到該載具後，保護並轉移它到指定的交付地點。&lt;br/&gt;-前往撤離點或是載具交付點。&lt;br/&gt;-假使傷亡人數過多的話，任務會自動取消並命令所有單位前往撤離點。</Chinese>
+        <Chinesesimp>-搜索任务区中的指挥载具并夺取之。&lt;br/&gt;-当找到该载具后，保护并转移它到指定的交付地点。&lt;br/&gt;-前往撤离点或是载具交付点。&lt;br/&gt;-假使伤亡人数过多的话，任务会自动取消并命令所有单位前往撤离点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_55">
         <Original>The enemy has set up an SIGINT antenna array, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;There are three devices within the AO, guarded by a platoon-sized, OPFOR infantry element. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
-        <Chinese>敵人在我們前線的不遠處設置了一座訊號天線陣列.&lt;br/&gt;&lt;br/&gt;在任務區中有三個裝置, 各被排級大小的敵方步兵所防守著. 由於緊鄰旁邊的戰區, 敵方的援軍會在5分鐘之內抵達. 敵方的援軍可能會由空中, 摩托化或機械化等種類的單位所組成.</Chinese>
-        <French>L'ennemi a établi une série d'antennes SIGINT, non loin de la ligne de front.&lt;br/&gt;&lt;br/&gt;Trois dispositifs sont gardés par une section d'infanterie OPFOR dans la ZO. En raison de la proximité avec la zone de combat, des renforts OPFOR peuvent arriver sur place en cinq minutes. Une telle contre-offensive peut avoir lieu par les airs ou avec des véhicules terrestres, blindés ou non.</French>
-        <Spanish>El enemigo ha establecido un conjunto de antenas de información cerca de nuestro frente.&lt;br/&gt;&lt;br/&gt;En la zona de operaciones hay tres dispositivos protegidos por un pelotón de infantería de OPFOR. Debido a la proximidad de la zona de combate, los refuerzos de OPFOR podrían llegar en cinco minutos. El contraataque podrían llevarlo a cabo fuerzas aéreas, motorizadas e incluso mecanizadas.</Spanish>
-        <Italian>Il nemico ha montato una schiera di antenne per l'intelligence non lontane dal nostro fronte.&lt;br/&gt;&lt;br/&gt;Ci sono tre dispositivi all'interno dell'Area delle operazioni, protette da un elemento di fanteria OPFOR dalle dimensioni di un plotone. A causa della vicinanza alla zona di combattimento, i rinforzi OPFOR potrebbero arrivare entro cinque minuti. Tale contrattacco potrebbe includere forze aeree, motorizzate o persino meccanizzate.</Italian>
-        <Polish>Przeciwnik rozmieścił zespół anten nieopodal linii frontu.&lt;br/&gt;&lt;br/&gt;W obszarze działania znajdują się trzy urządzenia chronione przez oddział piechoty OPFOR w sile plutonu. Ze względu na bliskość strefy walki posiłki OPFOR mogą nadejść w ciągu 5 minut. Kontratak może nastąpić przy udziale sił powietrznodesantowych, zmotoryzowanych lub nawet zmechanizowanych.</Polish>
-        <Russian>Враг установил антенну для сбора секретной информации недалеко от нашей передовой.&lt;br/&gt;&lt;br/&gt;В районе боевых действий находятся три устройства, охраняемые пехотным подразделением OPFOR в размере взвода. В связи с близким расположением к зоне боевых действий, подкрепления OPFOR могут прибыть в течение пяти минут. Они могут включать в себя авиацию, моторизованные расчеты и даже механизированные подразделения.</Russian>
-        <German>Der Feind hat in der Nähe unserer Front eine SIGINT-Antennenanlage aufgestellt.&lt;br/&gt;&lt;br/&gt;Es befinden sich drei Geräte im Einsatzgebiet, die von einem OPFOR-Infanteriezug bewacht werden. Aufgrund der Nähe zum Kampfgebiet könnten in fünf Minuten OPFOR-Verstärkungstruppen eintreffen. Ein solcher Gegenangriff kann Lufteinheiten, Fahrzeuge und sogar Panzer beinhalten.</German>
-        <Czech>Nepřítel postavil blízko naší frontové linie výzvědné antény.&lt;br/&gt;&lt;br/&gt;V operační oblasti se nacházejí tři tato zařízení chráněná pěchotní jednotkou OPFOR velikosti čety. Vzhledem k blízkosti bojové oblasti jsou posily OPFOR schopny dorazit do pěti minut. Případný protiútok může zahrnovat vzdušné, motorizované, či dokonce mechanizované síly.</Czech>
-        <English>The enemy has set up an SIGINT antenna array, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;There are three devices within the AO, guarded by a platoon-sized, OPFOR infantry element. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</English>
-        <Portuguese>O inimigo configurou uma matriz de antenas SIGINT não muito longe das nossas linhas de frente.&lt;br/&gt;&lt;br/&gt;Existem três dispositivos dentro da AO, protegida por um pelotão de infantaria da OPFOR. Devido à proximidade com a zona de combate, os reforços da OPFOR devem chegar apenas em cinco minutos. O contra-ataque pode tanto incluir forças aéreas quanto motorizadas ou até mesmo mecanizadas.</Portuguese>
-        <Korean>적이 우리 전선과 멀지 않은 곳에 신호정보 안테나군을 설치했습니다.&lt;br/&gt;&lt;br/&gt;3대의 장치가 있으며, 소대 규모의 OPFOR 보병대가 방어하고 있습니다. 전투 지역이 근접해 있어 OPFOR 증원 병력이 5분 내로 도착할 수 있습니다. 이런 반격에는 공수 부대, 차량 부대와 기계화 부대까지 동원될 수 있습니다.</Korean>
-        <Chinesesimp>敌人在我们前线的不远处设置了一座讯号天线阵列.&lt;br/&gt;&lt;br/&gt;在任务区中有三个装置, 各被排级大小的敌方步兵所防守着. 由于紧邻旁边的战区, 敌方的援军会在5分钟之内抵达. 敌方的援军可能会由空中, 摩托化或机械化等种类的单位所组成.</Chinesesimp>
-        <Japanese>我々の前線からほど近い位置に敵が SIGINT アンテナ群を設置した。&lt;br/&gt;&lt;br/&gt;作戦区域内には 3 つの装置が存在しており、小隊規模の敵歩兵部隊によって守られている。尚、戦闘区域付近であるため敵増援部隊は 5 分程度で到着すると思われる。同増援戦力には空挺、機械化、あるいは機甲部隊が含まれる可能性がある。</Japanese>
+        <Chinese>敵人在我們前線的不遠處設置了一座訊號天線陣列。&lt;br/&gt;&lt;br/&gt;在任務區中有三個裝置，各被排級大小的敵方步兵所防守著。由於緊鄰旁邊的戰區，敵方的援軍會在5分鐘之內抵達。敵方的援軍可能會由空中，摩托化或機械化等種類的單位所組成。</Chinese>
+        <Chinesesimp>敌人在我们前线的不远处设置了一座讯号天线阵列。&lt;br/&gt;&lt;br/&gt;在任务区中有三个装置，各被排级大小的敌方步兵所防守着。由于紧邻旁边的战区，敌方的援军会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_54">
         <Original>Conduct a combat patrol to capture sensitive intel.</Original>
-        <Chinese>執行戰鬥巡邏任務並取得重要情報.</Chinese>
-        <French>Menez une patrouille et obtenez des données sensibles.</French>
-        <Spanish>Dirigid una patrulla de combate para conseguir información valiosa.</Spanish>
-        <Italian>Conduci un'operazione di pattugliamento e intercettazione per ottenere informazioni sensibili.</Italian>
-        <Polish>Przeprowadź patrol bojowy i zdobądź ważne dane.</Polish>
-        <Russian>Проведите боевое патрулирование и перехватите важные разведданные.</Russian>
-        <German>Führt eine Kampfpatrouille in das Einsatzgebiet, um wertvolle Informationen zu erbeuten.</German>
-        <Czech>Proveďte bojovou hlídku a získejte citlivá data.</Czech>
-        <English>Conduct a combat patrol to capture sensitive intel.</English>
-        <Portuguese>Conduza uma patrulha de combate para adquirir dados confidenciais de inteligência.</Portuguese>
-        <Korean>전투 순찰을 시행하여 민감한 정보를 포착합니다.</Korean>
-        <Chinesesimp>执行战斗巡逻任务并取得重要情报.</Chinesesimp>
-        <Japanese>戦闘哨戒をおこない重要情報を奪取せよ。</Japanese>
+        <Chinese>執行戰鬥巡邏任務並取得重要情報。</Chinese>
+        <Chinesesimp>执行战斗巡逻任务并取得重要情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_53">
         <Original>- Terminals will need to be accessed in a certain order to acquire the complete intel sequence.&lt;br/&gt;- Search for Terminal 1, download the intel and retrieve the location of Terminal 2.&lt;br/&gt;- Move to Terminal 2, download the intel and retrieve the location of Terminal 3.&lt;br/&gt;- Move to Terminal 3 and download the intel.</Original>
-        <Chinese>- 終端機必須以特定的順序進行訪問才能取得完整的情報內容.&lt;br/&gt;- 搜索1號終端機, 下載情報並定位出2號終端機的位置.&lt;br/&gt;- 前往2號終端機, 下載情報並定位出3號終端機的位置.&lt;br/&gt;- 前往3號終端機並下載情報.</Chinese>
-        <French>- Pour obtenir la séquence de données complète, il faut utiliser les terminaux dans un sens déterminé.&lt;br/&gt;- Trouvez le terminal 1, téléchargez les infos et obtenez l'emplacement du terminal 2.&lt;br/&gt;- Allez au terminal 2, téléchargez les infos et obtenez l'emplacement du terminal 3.&lt;br/&gt;- Allez au terminal 3 et téléchargez les infos.</French>
-        <Spanish>— Hay que acceder a los terminales siguiendo un orden determinado para poder obtener todos los datos.&lt;br/&gt;— Buscad el terminal 1, descargad la información y descubrid la ubicación del terminal 2.&lt;br/&gt;— Id al terminal 2, descargad la información y descubrid la ubicación del terminal 3.&lt;br/&gt;— Id al terminal 3 y descargad la información.</Spanish>
-        <Italian>- È necessario accedere ai terminal in un certo ordine per acquisire la sequenza di informazioni completa.&lt;br/&gt;- Cerca il terminal 1, scarica le informazioni e recupera la posizione del terminal 2.&lt;br/&gt;- Dirigiti verso il terminal 2, scarica le informazioni e recupera la posizione del terminal 3.&lt;br/&gt;- Dirigiti verso il terminal 3 e scarica le informazioni.</Italian>
-        <Polish>- Aby zdobyć pełną sekwencję danych wywiadowczych, musisz użyć terminali w odpowiedniej kolejności.&lt;br/&gt;- Znajdź terminal nr 1, pobierz dane i uzyskaj informacje o położeniu terminalu nr 2.&lt;br/&gt;- Przejdź do terminalu nr 2, pobierz dane i uzyskaj informacje o położeniu terminalu nr 3.&lt;br/&gt;- Przejdź do terminalu nr 3 i pobierz dane.</Polish>
-        <Russian>- Вам нужно будет получить доступ к терминалам в определенном порядке, чтобы получить все разведданные.&lt;br/&gt;- Найдите Терминал 1, загрузите разведданные и получите местоположение Терминала 2.&lt;br/&gt;- Отправляйтесь на Терминал 2, загрузите разведданные и получите местоположение Терминала 3.&lt;br/&gt;- Отправляйтесь на Терминал 3 и загрузите разведданные.</Russian>
-        <German>- Die Terminals müssen in einer bestimmten Reihenfolge aktiviert werden, um die Informationssequenz abzuschließen.&lt;br/&gt;- Sucht Terminal 1, ladet die Informationen herunter und ermittelt dadurch die Position von Terminal 2-&lt;br/&gt;- Begebt euch zu Terminal 2, ladet die Informationen herunter und ermittelt dadurch die Position von Terminal 3.&lt;br/&gt;- Begebt euch zu Terminal 3 und ladet die Informationen herunter.</German>
-        <Czech>- Aby bylo možno stáhnout kompletní datovou sekvenci, terminály se musí aktivovat v určitém pořadí.&lt;br/&gt;- Najděte terminál 1, stáhněte data a zjistěte umístění terminálu 2.&lt;br/&gt;- Dostaňte se k terminálu 2, stáhněte data a zjistěte umístění terminálu 3.&lt;br/&gt;- Dostaňte se k terminálu 3 a stáhněte data.</Czech>
-        <English>- Terminals will need to be accessed in a certain order to acquire the complete intel sequence.&lt;br/&gt;- Search for Terminal 1, download the intel and retrieve the location of Terminal 2.&lt;br/&gt;- Move to Terminal 2, download the intel and retrieve the location of Terminal 3.&lt;br/&gt;- Move to Terminal 3 and download the intel.</English>
-        <Portuguese>- Os terminais precisarão ser acessados ​​em uma determinada ordem para que a sequência de inteligência completa seja adquirida.&lt;br/&gt;- Procure o Terminal 1, baixe os dados de inteligência e adquira a localização do Terminal 2. &lt;br/&gt;- Siga para o Terminal 2, baixe as informações e obtenha a localização do Terminal 3. &lt;br/&gt;- Siga para o Terminal 3 e faça transfira os dados confidenciais.</Portuguese>
-        <Korean>- 완벽한 정보 시퀀스를 확보하려면 일정한 순서로 터미널에 진입해야 합니다.&lt;br/&gt;- 터미널 1을 수색하고 정보를 다운로드하여 터미널 2의 위치를 검색합니다.&lt;br/&gt;- 터미널 2로 이동하고 정보를 다운로드하여 터미널 3의 위치를 검색합니다.&lt;br/&gt;- 터미널 3로 이동하여 정보를 다운로드합니다.</Korean>
-        <Chinesesimp>- 终端机必须以特定的顺序进行访问才能取得完整的情报内容.&lt;br/&gt;- 搜索1号终端机, 下载情报并定位出2号终端机的位置.&lt;br/&gt;- 前往2号终端机, 下载情报并定位出3号终端机的位置.&lt;br/&gt;- 前往3号终端机并下载情报.</Chinesesimp>
-        <Japanese>- 完全な情報シーケンスを実施するには、特定の順番でターミナルにアクセスしなければならない。&lt;br/&gt;- ターミナル 1 を捜索し、情報をダウンロードしてターミナル 2 の位置を特定せよ。&lt;br/&gt;- ターミナル 2 を捜索し、情報をダウンロードしてターミナル 3 の位置を特定せよ。&lt;br/&gt;- ターミナル 3 を捜索し、情報をダウンロードせよ。</Japanese>
+        <Chinese>-終端機必須以特定的順序進行訪問才能取得完整的情報內容。&lt;br/&gt;-搜索1號終端機，下載情報並定位出2號終端機的位置。&lt;br/&gt;-前往2號終端機，下載情報並定位出3號終端機的位置。&lt;br/&gt;-前往3號終端機並下載情報。</Chinese>
+        <Chinesesimp>-终端机必须以特定的顺序进行访问才能取得完整的情报内容。&lt;br/&gt;-搜索1号终端机，下载情报并定位出2号终端机的位置。&lt;br/&gt;-前往2号终端机，下载情报并定位出3号终端机的位置。&lt;br/&gt;-前往3号终端机并下载情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_52">
         <Original>A high-ranking enemy officer and his personal security detail are scheduled to make an appearance at the designated location, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;He is expected to make a %1 minute inspection of a platoon-sized, OPFOR infantry element, then leave in an MRAP vehicle. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
-        <Chinese>我們已得知一位敵方高階軍官的行蹤情報, 他將會出現在離我們前線不遠處的一個位置上.&lt;br/&gt;&lt;br/&gt;他的行程顯示他將會前往訪問一個排級大小的敵方步兵單位, 預計會停留%1分鐘, 之後就會搭乘防地雷反伏擊車離開那裡. 由於緊鄰旁邊的戰區, 敵方的援軍會在5分鐘之內抵達. 敵方的援軍可能會由空中, 摩托化或機械化等種類的單位所組成.</Chinese>
-        <French>Un officier haut gradé et des unités assurant sa sécurité doivent se rendre à l'emplacement indiqué, non loin de la ligne de front.&lt;br/&gt;&lt;br/&gt;Il doit effectuer une inspection de %1 minutes d'une section d'infanterie OPFOR. Il quittera ensuite la zone à bord d'un MRAP. En raison de la proximité avec la zone de combat, des renforts OPFOR peuvent arriver sur place en cinq minutes. Une telle contre-offensive peut avoir lieu par les airs ou avec des véhicules terrestres, blindés ou non.</French>
-        <Spanish>Parece ser que un oficial enemigo de alto rango y su personal de seguridad van a hacer acto de presencia en la ubicación designada, cerca de nuestro frente.&lt;br/&gt;&lt;br/&gt;Creemos que va a inspeccionar al pelotón de infantería de OPFOR durante %1 minuto(s) y que luego abandonará la zona en un vehículo MRAP. Debido a la proximidad de la zona de combate, los refuerzos de OPFOR podrían llegar en cinco minutos. El contraataque podrían llevarlo a cabo fuerzas aéreas, motorizadas e incluso mecanizadas.</Spanish>
-        <Italian>Un ufficiale di alto rango nemico e la sua squadra di sicurezza personale faranno un'apparizione presso la postazione indicata, che non è lontana dal nostro fronte.&lt;br/&gt;&lt;br/&gt;Si prevede che l'ufficiale faccia un'ispezione di %1 minuti di un elemento di fanteria OPFOR delle dimensioni di un plotone e che poi vada via a bordo di un veicolo MRAP. A causa della vicinanza alla zona di combattimento, i rinforzi OPFOR potrebbero arrivare entro cinque minuti. Tale contrattacco potrebbe includere forze aeree, motorizzate o persino meccanizzate.</Italian>
-        <Polish>Wysoki rangą oficer przeciwnika pojawi się w wyznaczonym miejscu nieopodal linii frontu w towarzystwie obstawy.&lt;br/&gt;&lt;br/&gt;Dokona %1-minutowej inspekcji oddziału piechoty OPFOR w sile plutonu, po czym opuści obszar w pojeździe typu MRAP. Ze względu na bliskość strefy walki posiłki OPFOR mogą nadejść w ciągu 5 minut. Kontratak może nastąpić przy udziale sił powietrznodesantowych, zmotoryzowanych lub nawet zmechanizowanych.</Polish>
-        <Russian>Старший офицер противника вместе со своей охраной должны прибыть на указанный участок недалеко от нашей передовой.&lt;br/&gt;&lt;br/&gt;Он должен провести проверку взвода пехоты OPFOR в течение %1 минут, после чего он покинет зону на бронемашине. В связи с близким расположением к зоне боевых действий, подкрепления OPFOR могут прибыть в течение пяти минут. Они могут включать в себя авиацию, моторизованные расчеты и даже механизированные подразделения.</Russian>
-        <German>Ein hochrangiger Offizier und seine persönliche Leibwache werden an der markierten Position, nicht weit von unserer Front, zu finden sein.&lt;br/&gt;&lt;br/&gt;Aller Voraussicht nach wird er eine %1-minütige Inspektion eines OPFOR-Infanteriezugs vornehmen und das Gebiet dann in einem MRAP-Fahrzeug verlassen. Aufgrund der Nähe zum Kampfgebiet könnten in fünf Minuten OPFOR-Verstärkungstruppen eintreffen. Ein solcher Gegenangriff kann Lufteinheiten, Fahrzeuge und sogar Panzer beinhalten.</German>
-        <Czech>Vysoký nepřátelský důstojník a jeho osobní ochranka se mají objevit na konkrétním místě poblíž naší frontové linie.&lt;br/&gt;&lt;br/&gt;Očekává se, že na %1 minut provede inspekci pěchotní jednotky OPFOR, načež odjede ve vozidlu MRAP. Vzhledem k blízkosti bojové oblasti jsou posily OPFOR schopny dorazit do pěti minut. Případný protiútok může zahrnovat vzdušné, motorizované, či dokonce mechanizované síly.</Czech>
-        <English>A high-ranking enemy officer and his personal security detail are scheduled to make an appearance at the designated location, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;He is expected to make a %1 minute inspection of a platoon-sized, OPFOR infantry element, then leave in an MRAP vehicle. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</English>
-        <Portuguese>Um oficial inimigo de alto escalão e seus dados de segurança pessoais tem um compromisso de comparecer ao local designado não muito longe das nossas linhas de frente.&lt;br/&gt;&lt;br/&gt;Ele deve fazer a inspeção de um pelotão de infantaria da OPFOR por %1 minutos, depois partir em seu veículo resistente a minas. Devido à proximidade da zona de combate, os reforços OPFOR devem chegar em cinco minutos. Esse contra-ataque pode incluir forças aéreas, motorizadas ou mesmo mecanizadas.</Portuguese>
-        <Korean>적의 고위급 장교와 그의 개인 보안 세부 정보는 우리 전선에서 멀지 않은 지정 위치에서 나타날 예정입니다.&lt;br/&gt;&lt;br/&gt;그는 a %1분 가량 소대 규모의 OPFOR 보병대를 점검하고 MRAP(매복방어차량)을 타고 떠납니다. 전투 지역이 근접해 있어 OPFOR 증원 병력이 5분 내로 도착할 수 있습니다. 이런 반격에는 공수 부대, 차량 부대와 기계화 부대까지 동원될 수 있습니다.</Korean>
-        <Chinesesimp>我们已得知一位敌方高阶军官的行踪情报, 他将会出现在离我们前线不远处的一个位置上.&lt;br/&gt;&lt;br/&gt;他的行程显示他将会前往访问一个排级大小的敌方步兵单位, 预计会停留%1分钟, 之后就会搭乘防地雷反伏击车离开那里. 由于紧邻旁边的战区, 敌方的援军会在5分钟之内抵达. 敌方的援军可能会由空中, 摩托化或机械化等种类的单位所组成.</Chinesesimp>
-        <Japanese>我々の前線付近において、敵高官とその護衛部隊がとある場所に到着する予定となっている。&lt;br/&gt;&lt;br/&gt;この高官は小隊規模の敵歩兵部隊の閲兵を %1 分間行い、その後 MRAP 車両に搭乗して同区域から出るものと予想される。尚、戦闘区域付近であるため敵増援部隊は 5 分程度で到着すると思われる。同増援戦力には空挺、機械化、あるいは機甲部隊が含まれる可能性がある。</Japanese>
+        <Chinese>我們已得知一位敵方高階軍官的行蹤情報，他將會出現在離我們前線不遠處的一個位置上。&lt;br/&gt;&lt;br/&gt;他的行程顯示他將會前往訪問一個排級大小的敵方步兵單位，預計會停留%1分鐘，之後就會搭乘防地雷反伏擊車離開那裡。由於緊鄰旁邊的戰區，敵方的援軍會在5分鐘之內抵達。敵方的援軍可能會由空中，摩托化或機械化等種類的單位所組成。</Chinese>
+        <Chinesesimp>我们已得知一位敌方高阶军官的行踪情报，他将会出现在离我们前线不远处的一个位置上。&lt;br/&gt;&lt;br/&gt;他的行程显示他将会前往访问一个排级大小的敌方步兵单位，预计会停留%1分钟，之后就会搭乘防地雷反伏击车离开那里。由于紧邻旁边的战区，敌方的援军会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_51">
         <Original>Conduct a combat patrol to eliminate an enemy HVT visiting the AO.</Original>
-        <Chinese>執行戰鬥巡邏任務並殲滅敵方的高價值目標.</Chinese>
-        <French>Menez une patrouille et éliminez la cible VIP qui inspecte la ZO OPFOR.</French>
-        <Spanish>Dirigid una patrulla de combate para eliminar al objetivo enemigo de gran valor que se encuentra en la zona.</Spanish>
-        <Italian>Conduci un'operazione di pattugliamento e intercettazione per eliminare un obiettivo di alto valore (HVT) in visita all'Area delle operazioni.</Italian>
-        <Polish>Przeprowadź patrol bojowy i wyeliminuj ważny cel, który odwiedza obszar działania.</Polish>
-        <Russian>Проведите боевое патрулирование и устраните приоритетную цель в зоне боевых действий.</Russian>
-        <German>Führt eine Kampfpatrouille in das Einsatzgebiet durch, um ein wichtiges feindliches Ziel auszuschalten.</German>
-        <Czech>Proveďte bojovou hlídku a zlikvidujte důležitý nepřátelský cíl v operační oblasti.</Czech>
-        <English>Conduct a combat patrol to eliminate an enemy HVT visiting the AO.</English>
-        <Portuguese>Conduza uma patrulha de combate para eliminar um alvo de alto valor inimigo que está visitando a AO.</Portuguese>
-        <Korean>전투 순찰을 시행하여 작전 지역을 진입하는 적의 고가치표적을 제거합니다.</Korean>
-        <Chinesesimp>执行战斗巡逻任务并歼灭敌方的高价值目标.</Chinesesimp>
-        <Japanese>戦闘哨戒をおこない、作戦区域を訪問中の敵高価値目標 (HVT) を排除せよ。</Japanese>
+        <Chinese>執行戰鬥巡邏任務並殲滅敵方的高價值目標。</Chinese>
+        <Chinesesimp>执行战斗巡逻任务并歼灭敌方的高价值目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_50">
         <Original>- Find the HVT (wearing officer fatigues) and eliminate him.&lt;br/&gt;- Once the inspection is over, the HVT is expected to leave the AO in his MRAP vehicle to a %1neighbouring settlement%2 under OPFOR control. Do not expect him to remain if our presence is detected.</Original>
-        <Chinese>- 找到高價值目標(著軍官服)並殲滅之.&lt;br/&gt;- 當訪查結束後, 高價值目標便會搭乘防地雷反伏擊車前往被敵方掌控的%1鄰鎮%2. 不要期待在我們被發現後他還會待在原處.</Chinese>
-        <French>- Trouvez la cible VIP (elle porte une tenue d'officier) et éliminez-la.&lt;br/&gt;- Une fois l'inspection terminée, la cible VIP doit partir de la ZO à bord de son MRAP et visiter un %1village voisin%2 sous contrôle OPFOR. Attention, si nous sommes repérés, le VIP risque de fuir.</French>
-        <Spanish>— Encontrad al objetivo de gran valor (que lleva el traje de oficial) y eliminadlo.&lt;br/&gt;— Una vez haya acabado la inspección, creemos que el objetivo abandonará la zona en un vehículo MRAP y se irá a un %1asentamiento próximo%2 controlado por OPFOR. Si detectan nuestra presencia, no lo dejarán a la vista.</Spanish>
-        <Italian>- Trova l'obiettivo di alto valore (HVT) ed eliminalo. Il bersaglio indossa un'uniforme da ufficiale.&lt;br/&gt;- Una volta terminata l'ispezione, l'HVT lascerà l'Area delle operazioni a bordo del suo veicolo MRAP per raggiungere un %1insediamento limitrofo%2 sotto il controllo degli OPFOR. Non aspettarti che l'ufficiale resti dov'è se la nostra presenza viene rilevata.</Italian>
-        <Polish>- Odnajdź ważny cel (w mundurze oficerskim) i wyeliminuj go.&lt;br/&gt;- Po przeprowadzeniu inspekcji cel opuści obszar działania w pojeździe typu MRAP w kierunku %1sąsiedniej osady%2, która jest pod kontrolą OPFOR. Jeśli cel wykryje naszą obecność, z pewnością zmieni plany.</Polish>
-        <Russian>- Найдите приоритетную цель (цель должна быть в офицерской форме) и устраните ее.&lt;br/&gt;- Как только приоритетная цель закончит проверку, она покинет район боевых действий на бронемашине и направится в %1ближайшее поселение%2, находящееся под контролем OPFOR. Если нас обнаружат, цель попытается сбежать.</Russian>
-        <German>- Findet das Ziel (es trägt eine Offiziersuniform) und eliminiert es.&lt;br/&gt;- Sobald die Inspektion vorbei ist, wird das Ziel das Einsatzgebiet voraussichtlich in seinem MRAP-Fahrzeug in Richtung einer %1benachbarten Siedlung%2 unter OPFOR-Kontrolle verlassen. Wenn ihr vom Feind gesichtet werdet, wird das Ziel zu fliehen versuchen.</German>
-        <Czech>- Najděte důležitý cíl (oblečen v důstojnické uniformě) a zlikvidujte ho.&lt;br/&gt;- Jakmile bude inspekce dokončena, cíl se má z operační oblasti přesunout vozidlem MRAP do %1sousední vesnice%2 pod kontrolou OPFOR. Pokud bude naše přítomnost zjištěna, nečekejte, že cíl v oblasti zůstane.</Czech>
-        <English>- Find the HVT (wearing officer fatigues) and eliminate him.&lt;br/&gt;- Once the inspection is over, the HVT is expected to leave the AO in his MRAP vehicle to a %1neighbouring settlement%2 under OPFOR control. Do not expect him to remain if our presence is detected.</English>
-        <Portuguese>- Encontre o alvo de alto valor (vestido com uniforme de agente) e elimine-o.&lt;br/&gt;- Depois de terminar a inspeção, espera-se que o alvo de alto valor saia da AO em seu veículo resistente a minas e siga para um %1acampamento vizinho%2 sob o controle da OPFOR. Se nossa presença for detectada, não espere que ele permaneça no lugar.</Portuguese>
-        <Korean>- 고가치표적(장교 전투복 착용)을 찾아 제거하라.&lt;br/&gt;- 점검을 마치면 고가치표적은 MRAP 차량을 타고 작전 지역을 OPFOR이 점령하는 %1이웃 정착지%2 로 떠날 예정입니다. 우리 주둔지가 탐지될 경우 이 장교는 떠납니다.</Korean>
-        <Chinesesimp>- 找到高价值目标(着军官服)并歼灭之.&lt;br/&gt;- 当访查结束后, 高价值目标便会搭乘防地雷反伏击车前往被敌方掌控的%1邻镇%2. 不要期待在我们被发现后他还会待在原处.</Chinesesimp>
-        <Japanese>- 敵 HVT（将官用の制服を着用）を発見してこれを排除せよ。&lt;br/&gt;- 敵 HVT は閲兵後、MRAP 車両に搭乗して作戦区域を抜け、敵勢力下にある%1付近の集落%2へ向かうものと思われる。こちらの存在を知られた場合、逃走を図るものと予想される。</Japanese>
+        <Chinese>-找到高價值目標(著軍官服)並殲滅之。&lt;br/&gt;-當訪查結束後，高價值目標便會搭乘防地雷反伏擊車前往被敵方掌控的%1鄰鎮%2。不要期待在我們被發現後他還會待在原處。</Chinese>
+        <Chinesesimp>-找到高价值目标(着军官服)并歼灭之。&lt;br/&gt;-当访查结束后，高价值目标便会搭乘防地雷反伏击车前往被敌方掌控的%1邻镇%2。不要期待在我们被发现后他还会待在原处。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_5">
         <Original>Conduct combat patrol in the AO to search and sabotage enemy vehicles.</Original>
-        <Chinese>執行戰鬥巡邏任務並摧毀敵方的載具.</Chinese>
-        <French>Partez en patrouille de combat sur la ZO et sabotez des véhicules ennemis.</French>
-        <Spanish>Dirigid una patrulla de combate en la zona de operaciones para buscar y sabotear los vehículos enemigos.</Spanish>
-        <Italian>Conduci operazioni di pattugliamento e intercettazione nell'Area delle operazioni per cercare e sabotare veicoli nemici.</Italian>
-        <Polish>Przeprowadź patrol bojowy w obszarze działania w celu znalezienia pojazdów i dokonania sabotażu.</Polish>
-        <Russian>Проведите боевое патрулирование в районе боевых действий, найдите и саботируйте вражескую технику.</Russian>
-        <German>Führt eure Kampfpatrouille in das Einsatzgebiet, um die feindlichen Fahrzeuge ausfindig zu machen und sie zu sabotieren.</German>
-        <Czech>Uskutečněte bojovou hlídku v operační oblasti, vyhledejte nepřátelská vozidla a sabotujte je.</Czech>
-        <English>Conduct combat patrol in the AO to search and sabotage enemy vehicles.</English>
-        <Portuguese>Conduza uma patrulha de combate à AO para procurar sabotar os veículos inimigos.</Portuguese>
-        <Korean>적군 차량을 검색 및 사보타주하려면 작전 지역에서 전투 정찰을 수행합니다.</Korean>
-        <Chinesesimp>执行战斗巡逻任务并摧毁敌方的载具.</Chinesesimp>
-        <Japanese>作戦区域内で戦闘哨戒を実施、敵車両に対する破壊工作を実施せよ。</Japanese>
+        <Chinese>執行戰鬥巡邏任務並摧毀敵方的載具。</Chinese>
+        <Chinesesimp>执行战斗巡逻任务并摧毁敌方的载具。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_49">
         <Original>The enemy are using a comms node to coordinate their actions, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;The AO is guarded by a platoon-sized, OPFOR infantry element, while the node itself is being serviced by a squad-sized security detail. Intel also suggests they are defending nearby buildings. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
-        <Chinese>敵人在離我們前線的不遠處使用通訊節點方式來協調他們的作戰行動.&lt;br/&gt;&lt;br/&gt;目標區被一支排級大小的步兵單位駐守著, 而結點本身也有一支小隊大小的安保部隊保護著. 情報也指出他們正駐防在旁邊的建築中. 由於緊鄰旁邊的戰區, 敵方的援軍會在5分鐘之內抵達. 敵方的援軍可能會由空中, 摩托化或機械化等種類的單位所組成.</Chinese>
-        <French>L'ennemi a installé un nœud de communications non loin de la ligne de front, pour coordonner ses actions.&lt;br/&gt;&lt;br/&gt;La ZO est gardée par une section d'infanterie OPFOR et le nœud de communications est gardé par une escouade de sécurité. Nos renseignements semblent indiquer qu'ils défendent également les bâtiments voisins. En raison de la proximité avec la zone de combat, des renforts OPFOR peuvent arriver sur place en cinq minutes. Une telle contre-offensive peut avoir lieu par les airs ou avec des véhicules terrestres, blindés ou non.</French>
-        <Spanish>El enemigo está usando un nódulo de comunicaciones para coordinar sus acciones en las proximidades de nuestro frente.&lt;br/&gt;&lt;br/&gt;La zona de operaciones está protegida por un pelotón de infantería de OPFOR, mientras que el nódulo está resguardado por un escuadrón de seguridad. Tenemos información que asegura que están defendiendo los edificios cercanos. Debido a la proximidad de la zona de combate, los refuerzos de OPFOR podrían llegar en cinco minutos. El contraataque podrían llevarlo a cabo fuerzas aéreas, motorizadas e incluso mecanizadas.</Spanish>
-        <Italian>Il nemico sta utilizzando un nodo di comunicazione non lontano dal nostro fronte per coordinare le proprie azioni.&lt;br/&gt;&lt;br/&gt;L'Area delle operazioni è protetta da un elemento di fanteria OPFOR delle dimensioni di un plotone, mentre il nodo stesso è protetto da una squadra di sicurezza delle dimensioni di un plotone. Le informazioni indicano inoltre che stanno difendendo gli edifici nelle vicinanze. A causa della vicinanza alla zona di combattimento, i rinforzi OPFOR potrebbero arrivare entro cinque minuti. Tale contrattacco potrebbe includere forze aeree, motorizzate o persino meccanizzate.</Italian>
-        <Polish>Do koordynacji działań przeciwnik używa węzła łączności znajdującego się niedaleko linii frontu.&lt;br/&gt;&lt;br/&gt;Obszar działania jest chroniony przez pluton piechoty OPFOR, zaś sam węzeł przez oddział ochrony w sile drużyny. Wywiad sugeruje również, że przeciwnik broni pobliskich budynków. Ze względu na bliskość strefy walki posiłki OPFOR mogą nadejść w ciągu 5 minut. Kontratak może nastąpić przy udziale sił powietrznodesantowych, zmotoryzowanych lub nawet zmechanizowanych.</Polish>
-        <Russian>Противник использует узел связи для координации действий. Он находится недалеко от нашей передовой.&lt;br/&gt;&lt;br/&gt;Район боевых действий контролируется взводом пехоты OPFOR, в то время как сам узел охраняет отряд пехоты. По данным разведки, они защищают расположенные поблизости здания. В связи с близким расположением к зоне боевых действий, подкрепления OPFOR могут прибыть в течение пяти минут. Они могут включать авиацию, моторизованные расчеты и даже механизированные подразделения.</Russian>
-        <German>Der Feind nutzt einen Kommunikations-Knotenpunkt in der Nähe unserer Front, um seine Vorstöße zu koordinieren.&lt;br/&gt;&lt;br/&gt;Das Einsatzgebiet wird von einem OPFOR-Infanteriezug bewacht. Der Knotenpunkt selbst wird von einem Sicherheitsteam bedient. Unseren Informationen zufolge werden die in der Nähe befindlichen Gebäude ebenfalls bewacht. Aufgrund der Nähe zum Kampfgebiet könnten in fünf Minuten OPFOR-Verstärkungstruppen eintreffen. Ein solcher Gegenangriff kann Lufteinheiten, Fahrzeuge und sogar Panzer beinhalten.</German>
-        <Czech>Nepřítel používá ke koordinaci činnosti komunikační uzel poblíž naší frontové linie.&lt;br/&gt;&lt;br/&gt;Operační oblast střeží pěchotní jednotka OPFOR velikosti čety. Provoz samotného uzlu zajišťuje menší bezpečnostní oddíl. Informace naznačují, že brání také sousední budovy. Vzhledem k blízkosti bojové oblasti jsou posily OPFOR schopny dorazit do pěti minut. Případný protiútok může zahrnovat vzdušné, motorizované, či dokonce mechanizované síly.</Czech>
-        <English>The enemy are using a comms node to coordinate their actions, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;The AO is guarded by a platoon-sized, OPFOR infantry element, while the node itself is being serviced by a squad-sized security detail. Intel also suggests they are defending nearby buildings. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</English>
-        <Portuguese>O inimigo está usando um dispositivo de comunicação para coordenar as ações não longe das nossas linhas de frente.&lt;br/&gt; &lt;br/&gt;A AO está protegida por um pelotão de infantaria da OPFOR, ao passo que o dispositivo em si está sendo atendido por um esquadrão de segurança de dados. Os dados da inteligência sugerem que eles estão protegendo os edifícios próximos. Devido à proximidade com a zona de combate, os reforços da OPFOR devem chegar apenas em cinco minutos. O contra-ataque pode tanto incluir forças aéreas quanto motorizadas ou até mesmo mecanizadas.</Portuguese>
-        <Korean>적군이 통신 노드를 사용하여 우리 전선에서 멀지 않은 곳에서 행동을 조정합니다.&lt;br/&gt;&lt;br/&gt;작전 지역이 소대 규모의 OPFOR 보병대에 의해서 방어되고 있으며 노드는 분대 규모의 보안 정보로 작동하고 있습니다. 정보에 따르면 적들은 인근 건물도 방어하고 있습니다. 전투 지역이 근접해 있어 OPFOR 증원 병력이 5분 내로 도착할 수 있습니다. 이런 반격에는 공수 부대, 차량 부대와 기계화 부대까지 동원될 수 있습니다.</Korean>
-        <Chinesesimp>敌人在离我们前线的不远处使用通讯节点方式来协调他们的作战行动.&lt;br/&gt;&lt;br/&gt;目标区被一支排级大小的步兵单位驻守着, 而结点本身也有一支小队大小的安保部队保护着. 情报也指出他们正驻防在旁边的建筑中. 由于紧邻旁边的战区, 敌方的援军会在5分钟之内抵达. 敌方的援军可能会由空中, 摩托化或机械化等种类的单位所组成.</Chinesesimp>
-        <Japanese>我々の前線付近において、敵部隊が連携行動に使用する通信中継地が存在している。&lt;br/&gt;&lt;br/&gt;当該作戦区域は小隊規模の敵歩兵部隊によって守られているが、中継地自体は分隊規模の防衛部隊が維持している。情報によると付近の建造物を防衛している模様。尚、戦闘区域付近であるため敵増援部隊は 5 分程度で到着すると思われる。同増援戦力には空挺、機械化、あるいは機甲部隊が含まれる可能性がある。</Japanese>
+        <Chinese>敵人在離我們前線的不遠處使用通訊節點方式來協調他們的作戰行動。&lt;br/&gt;&lt;br/&gt;目標區被一支排級大小的步兵單位駐守著，而結點本身也有一支小隊大小的安保部隊保護著。情報也指出他們正駐防在旁邊的建築中。由於緊鄰旁邊的戰區，敵方的援軍會在5分鐘之內抵達。敵方的援軍可能會由空中，摩托化或機械化等種類的單位所組成。</Chinese>
+        <Chinesesimp>敌人在离我们前线的不远处使用通讯节点方式来协调他们的作战行动。&lt;br/&gt;&lt;br/&gt;目标区被一支排级大小的步兵单位驻守着，而结点本身也有一支小队大小的安保部队保护着。情报也指出他们正驻防在旁边的建筑中。由于紧邻旁边的战区，敌方的援军会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_48">
         <Original>Conduct a combat patrol to disrupt OPFOR communications in the AO.</Original>
-        <Chinese>執行戰鬥巡邏任務並破壞敵方的通訊系統.</Chinese>
-        <French>Menez une patrouille et sabotez les communications dans la ZO OPFOR.</French>
-        <Spanish>Dirigid una patrulla de combate para interrumpir las comunicaciones de OPFOR en la zona de operaciones.</Spanish>
-        <Italian>Conduci un'operazione di pattugliamento e intercettazione per interrompere le comunicazioni OPFOR nell'Area delle operazioni.</Italian>
-        <Polish>Przeprowadź patrol bojowy, aby zakłócić łączność OPFOR w obszarze działania.</Polish>
-        <Russian>Проведите боевое патрулирование и нарушьте связь OPFOR в районе боевых действий.</Russian>
-        <German>Führt eine Kampfpatrouille in das Einsatzgebiet durch, um die Kommunikation von OPFOR zu sabotieren.</German>
-        <Czech>Proveďte bojovou hlídku a narušte komunikaci OPFOR v operační oblasti.</Czech>
-        <English>Conduct a combat patrol to disrupt OPFOR communications in the AO.</English>
-        <Portuguese>Conduza uma patrulha de combate para interromper as comunicações da OPFOR na AO.</Portuguese>
-        <Korean>전투 순찰을 시행하여 작전 지역 내 OPFOR 통신을 교란합니다.</Korean>
-        <Chinesesimp>执行战斗巡逻任务并破坏敌方的通讯系统.</Chinesesimp>
-        <Japanese>戦闘哨戒をおこない、作戦区域内における敵の通信能力を阻害せよ。</Japanese>
+        <Chinese>執行戰鬥巡邏任務並破壞敵方的通訊系統。</Chinese>
+        <Chinesesimp>执行战斗巡逻任务并破坏敌方的通讯系统。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_47">
         <Original>Search the AO for the comms node, then destroy it; an antenna array on a rooftop will help pinpoint its position.</Original>
-        <Chinese>搜索任務區中的通訊節點並摧毀之, 你們可以透過搜索屋頂的雷達陣列來找到這些節點.</Chinese>
-        <French>Retrouvez le nœud de communications dans la ZO puis détruisez-le. Cherchez une série d'antennes sur le toit d'un bâtiment.</French>
-        <Spanish>Registrad la zona de operaciones en busca de los nódulos de comunicación y luego destruidlos. Las antenas de la azotea os ayudarán a localizar su ubicación.</Spanish>
-        <Italian>Perlustra l'Area delle operazioni alla ricerca del nodo di comunicazione e poi distruggilo. Una schiera di antenne sul tetto ti aiuterà a localizzare la sua posizione.</Italian>
-        <Polish>Przeszukaj obszar działania w poszukiwaniu węzła łączności, po czym go zniszcz; zespół anten na dachu umożliwi określenie jego pozycji. </Polish>
-        <Russian>Найдите узел связи в районе боевых действий и уничтожьте его. Антенна на крыше здания укажет на его местонахождение.</Russian>
-        <German>Sucht im Einsatzgebiet nach dem Kommunikations-Knotenpunkt und zerstört ihn. Eine Antennenanlage auf einem Hausdach hilft euch, die genaue Position zu ermitteln.</German>
-        <Czech>Najděte v oblasti komunikační uzel a zničte ho. Tuto pozici pomůže odhalit anténa na střeše.</Czech>
-        <English>Search the AO for the comms node, then destroy it; an antenna array on a rooftop will help pinpoint its position.</English>
-        <Portuguese>Vasculhe pelo dispositivo de comunicações na AO, depois destrua-o; uma matriz de antenas em um telhado ajudará a identificar a sua posição.</Portuguese>
-        <Korean>통신 노드를 찾아 작전 지역을 수색하여 파괴합니다. 지붕의 안테나군을 이용하면 정확한 위치를 탐지할 수 있습니다.</Korean>
-        <Chinesesimp>搜索任务区中的通讯节点并摧毁之, 你们可以透过搜索屋顶的雷达阵列来找到这些节点.</Chinesesimp>
-        <Japanese>作戦区域内の通信中継地を捜索し、これを破壊せよ。屋根のアンテナ群が目印となると思われる。</Japanese>
+        <Chinese>搜索任務區中的通訊節點並摧毀之，你們可以透過搜索屋頂的雷達陣列來找到這些節點。</Chinese>
+        <Chinesesimp>搜索任务区中的通讯节点并摧毁之，你们可以透过搜索屋顶的雷达阵列来找到这些节点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_46">
         <Original>Enemy forces have concealed supplies at the designated location, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;There are two logistic vehicles in the AO, guarded by a platoon-sized, OPFOR infantry element. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
-        <Chinese>敵軍在離我們前線的不遠處隱匿著補給物資.&lt;br/&gt;&lt;br/&gt;情報指出在任務區中有兩個補給車輛, 被一支排級大小的敵方步兵所把守著. 由於緊鄰旁邊的戰區, 敵方的援軍會在5分鐘之內抵達. 敵方的援軍可能會由空中, 摩托化或機械化等種類的單位所組成.</Chinese>
-        <French>Les forces ennemies ont caché du matériel à l'emplacement indiqué, non loin de la ligne de front.&lt;br/&gt;&lt;br/&gt;Deux véhicules logistiques sont gardés par une section d'infanterie OPFOR dans la ZO. En raison de la proximité avec la zone de combat, des renforts OPFOR peuvent arriver sur place en cinq minutes. Une telle contre-offensive peut avoir lieu par les airs ou avec des véhicules terrestres, blindés ou non.</French>
-        <Spanish>Las fuerzas enemigas han ocultado suministros en la ubicación indicada, cerca de nuestro frente.&lt;br/&gt;&lt;br/&gt;Hay dos vehículos logísticos en la zona de operaciones, protegidos por un pelotón de infantería de OPFOR. Debido a la proximidad de la zona de combate, los refuerzos de OPFOR podrían llegar en cinco minutos. El contraataque podrían llevarlo a cabo fuerzas aéreas, motorizadas e incluso mecanizadas.</Spanish>
-        <Italian>Le forze nemiche hanno nascosto delle risorse nella postazione indicata, che non è lontana dal nostro fronte.&lt;br/&gt;&lt;br/&gt;Nell'Area delle operazioni ci sono due veicoli logistici protetti da un elemento di fanteria OPFOR delle dimensioni di un plotone. A causa della vicinanza alla zona di combattimento, i rinforzi OPFOR potrebbero arrivare entro cinque minuti. Tale contrattacco potrebbe includere forze aeree, motorizzate o persino meccanizzate.</Italian>
-        <Polish>Siły przeciwnika ukryły zaopatrzenie w wyznaczonych miejscach, nieopodal naszej linii frontu.&lt;br/&gt;&lt;br/&gt;W obszarze działania znajdują się dwa pojazdy zaopatrzeniowe chronione przez oddział piechoty OPFOR w sile plutonu. Ze względu na bliskość strefy walki posiłki OPFOR mogą nadejść w ciągu 5 minut. Kontratak może nastąpić przy udziale sił spadochronowych, zmotoryzowanych lub nawet zmechanizowanych.</Polish>
-        <Russian>Вражеские силы спрятали припасы  в указанном месте неподалеку от нашей передовой.&lt;br/&gt;&lt;br/&gt;Две машины тылового обеспечения находятся в районе боевых действий. Их охраняет взвод пехоты OPFOR. В связи с близким расположением к зоне боевых действий, подкрепления OPFOR могут прибыть в течение пяти минут. Они могут включать в себя авиацию, моторизованные расчеты и даже механизированные подразделения.</Russian>
-        <German>Feindliche Streitkräfte haben an der markierten Position in der Nähe unserer Front Versorgungsgüter versteckt.&lt;br/&gt;&lt;br/&gt;Es befinden sich zwei Logistik-Fahrzeuge im Einsatzgebiet, die von einem OPFOR-Infanteriezug bewacht werden. Aufgrund der Nähe zum Kampfgebiet könnten in fünf Minuten OPFOR-Verstärkungstruppen eintreffen. Ein solcher Gegenangriff kann Lufteinheiten, Fahrzeuge und sogar Panzer beinhalten.</German>
-        <Czech>Nepřátelské síly si ukryly zásoby ve vyznačené oblasti, nedaleko naší frontové linie.&lt;br/&gt;&lt;br/&gt;V operační oblasti se nacházejí dvě logistická vozidla, které chrání pěchotní jednotka OPFOR velikosti čety. Vzhledem k blízkosti bojové oblasti jsou posily OPFOR schopny dorazit do pěti minut. Případný protiútok může zahrnovat vzdušné, motorizované, či dokonce mechanizované síly.</Czech>
-        <English>Enemy forces have concealed supplies at the designated location, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;There are two logistic vehicles in the AO, guarded by a platoon-sized, OPFOR infantry element. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</English>
-        <Portuguese>As forças inimigas esconderam os suprimentos no local designado não muito longe das nossas linhas de frente.&lt;br/&gt;&lt;br/&gt;Existem dois veículos logísticos na AO, protegidos por um pelotão de infantaria da OPFOR. Devido à proximidade com a zona de combate, os reforços da OPFOR devem chegar apenas em cinco minutos. O contra-ataque pode tanto incluir forças aéreas quanto motorizadas, ou até mesmo mecanizadas.</Portuguese>
-        <Korean>적이 우리 전선과 멀지 않은 곳에 SIGINT 안테나군을 설치했습니다.&lt;br/&gt;&lt;br/&gt;3대의 장치가 있으며, 소대 규모의 OPFOR 보병대가 방어하고 있습니다. 전투 지역이 근접해 있어 OPFOR 증원 병력이 5분 내로 도착할 수 있습니다. 이런 반격에는 공수 부대, 차량 부대와 기계화 부대까지 동원될 수 있습니다.</Korean>
-        <Chinesesimp>敌军在离我们前线的不远处隐匿着补给物资.&lt;br/&gt;&lt;br/&gt;情报指出在任务区中有两个补给车辆, 被一支排级大小的敌方步兵所把守着. 由于紧邻旁边的战区, 敌方的援军会在5分钟之内抵达. 敌方的援军可能会由空中, 摩托化或机械化等种类的单位所组成.</Chinesesimp>
-        <Japanese>我々の前線からほど近い位置で敵が物資を隠蔽している。&lt;br/&gt;&lt;br/&gt;作戦区域内には運搬車両が 2 台存在し、小隊規模の敵歩兵部隊によって守られている。尚、戦闘区域付近であるため敵増援部隊は 5 分程度で到着すると思われる。同増援戦力には空挺、機械化、あるいは機甲部隊が含まれる可能性がある。</Japanese>
+        <Chinese>敵軍在離我們前線的不遠處隱匿著補給物資。&lt;br/&gt;&lt;br/&gt;情報指出在任務區中有兩個補給車輛，被一支排級大小的敵方步兵所把守著。由於緊鄰旁邊的戰區，敵方的援軍會在5分鐘之內抵達。敵方的援軍可能會由空中，摩托化或機械化等種類的單位所組成。</Chinese>
+        <Chinesesimp>敌军在离我们前线的不远处隐匿着补给物资。&lt;br/&gt;&lt;br/&gt;情报指出在任务区中有两个补给车辆，被一支排级大小的敌方步兵所把守着。由于紧邻旁边的战区，敌方的援军会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_45">
         <Original>Conduct a combat patrol to disrupt OPFOR logistic reserves in the AO.</Original>
-        <Chinese>執行戰鬥巡邏任務並破壞敵方的補給物資.</Chinese>
-        <French>Menez une patrouille et sabotez les réserves logistiques dans la ZO OPFOR.</French>
-        <Spanish>Dirigid una patrulla de combate para inutilizar las reservas logísticas de OPFOR en la zona de operaciones.</Spanish>
-        <Italian>Conduci un'operazione di pattugliamento e intercettazione per interrompere i rifornimenti logistici OPFOR nell'Area delle operazioni.</Italian>
-        <Polish>Przeprowadź patrol bojowy, aby uszczuplić zasoby logistyczne OPFOR w obszarze działania.</Polish>
-        <Russian>Проведите боевое патрулирование и нарушьте тыловое обеспечение OPFOR в районе боевых действий.</Russian>
-        <German>Führt eine Kampfpatrouille in das Einsatzgebiet durch, um Nachschublieferungen von OPFOR zu sabotieren.</German>
-        <Czech>Proveďte bojovou hlídku a narušte logistické rezervy OPFOR v operační oblasti.</Czech>
-        <English>Conduct a combat patrol to disrupt OPFOR logistic reserves in the AO.</English>
-        <Portuguese>Conduza uma patrulha de combate para interromper as reservas logísticas da OPFOR na AO.</Portuguese>
-        <Korean>전투 순찰을 시행하여 작전 지역 내 OPFOR 통신을 교란합니다.</Korean>
-        <Chinesesimp>执行战斗巡逻任务并破坏敌方的补给物资.</Chinesesimp>
-        <Japanese>戦闘哨戒をおこない、作戦区域内における敵の補給物資を破壊せよ。</Japanese>
+        <Chinese>執行戰鬥巡邏任務並破壞敵方的補給物資。</Chinese>
+        <Chinesesimp>执行战斗巡逻任务并破坏敌方的补给物资。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_44">
         <Original>- Proceed to the exfiltration point.&lt;br/&gt;- In the event of severe team casualties, the mission will be aborted and all operatives ordered to retreat.</Original>
-        <Chinese>- 前往撤離點.&lt;br/&gt;- 在發生有過多人員傷亡的情況下, 任務會自動取消並命令所有單位前往撤離點.</Chinese>
-        <French>- Rendez-vous au point d'exfiltration.&lt;br/&gt;- En cas de pertes sévères, la mission sera annulée et les unités restantes devront battre en retraite.</French>
-        <Spanish>— Id al punto de extracción.&lt;br/&gt;— En caso de que el equipo sufra muchas bajas, habrá que abortar la misión y todos los operativos tendrán que retirarse.</Spanish>
-        <Italian>- Procedi verso il punto di esfiltrazione.&lt;br/&gt;- Nel caso si verifichino pesanti perdite all'interno della squadra, la missione sarà annullata e a tutti gli agenti verrà ordinato di battere in ritirata.</Italian>
-        <Polish>- Udaj się do punktu ewakuacji.&lt;br/&gt;- Jeśli poniesiesz za duże straty, misja zostanie odwołana, a członkowie grupy otrzymają rozkaz ewakuacji.</Polish>
-        <Russian>- Отправляйтесь к точке эвакуации.&lt;br/&gt;- В случае тяжелых потерь в вашем отряде миссия будет прервана и всем оперативникам будет приказано отойти.</Russian>
-        <German>- Begebt euch zum Exfiltrationspunkt.&lt;br/&gt;- Wenn euer Team schwere Verluste erleidet, wird die Mission abgebrochen und alle Einheiten werden zum Rückzug aufgefordert.</German>
-        <Czech>- Přesuňte se na bod vyzvednutí.&lt;br/&gt;- V případě závažných ztrát v týmu bude mise zrušena a vojákům bude vydán rozkaz k návratu.</Czech>
-        <English>- Proceed to the exfiltration point.&lt;br/&gt;- In the event of severe team casualties, the mission will be aborted and all operatives ordered to retreat.</English>
-        <Portuguese>- Prossiga para o ponto de exfiltração.&lt;br/&gt;- Caso a equipe tenha sofrido baixas demais, a missão será abortada e a ordem é que os agentes fujam.</Portuguese>
-        <Korean>- 퇴출 지점으로 이동합니다.&lt;br/&gt;- 팀 사상자가 많이 발생할 경우, 임무를 취소하고 지시한 모든 작전을 취소합니다.</Korean>
-        <Chinesesimp>- 前往撤离点.&lt;br/&gt;- 在发生有过多人员伤亡的情况下, 任务会自动取消并命令所有单位前往撤离点.</Chinesesimp>
-        <Japanese>- 撤退地点まで移動せよ。&lt;br/&gt;- 作戦班に多大な損耗が発生した場合、作戦は中止され、全隊員には撤退が命じられる。</Japanese>
+        <Chinese>-前往撤離點。&lt;br/&gt;-在發生有過多人員傷亡的情況下，任務會自動取消並命令所有單位前往撤離點。</Chinese>
+        <Chinesesimp>-前往撤离点。&lt;br/&gt;-在发生有过多人员伤亡的情况下，任务会自动取消并命令所有单位前往撤离点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_43">
         <Original>- Find the two supply vehicles.&lt;br/&gt;- Once the enemy vehicles are found, destroy them or render them ineffective, using any means available.</Original>
-        <Chinese>- 找到2個補給車輛.&lt;br/&gt;- 當找到目標後, 使用任何手段來摧毀或使其無效化.</Chinese>
-        <French>- Cherchez deux véhicules de ravitaillement.&lt;br/&gt;- Une fois les véhicules trouvés, détruisez-les ou rendez-les inutilisables avec les moyens à disposition.</French>
-        <Spanish>— Buscad los dos vehículos de suministros.&lt;br/&gt;— Cuando encontréis los vehículos enemigos, destruidlos o inutilizadlos sea como sea.</Spanish>
-        <Italian>- Cerca i due veicoli di rifornimento.&lt;br/&gt;- Una volta trovati i veicoli nemici, distruggili o rendili inefficaci utilizzando ogni mezzo a disposizione.</Italian>
-        <Polish>- Znajdź dwa pojazdy zaopatrzeniowe.&lt;br/&gt;- Po ich odnalezieniu zniszcz je lub unieruchom w dowolny sposób.</Polish>
-        <Russian>- Найдите две машины снабжения.&lt;br/&gt;- После этого уничтожьте их или выведите из строя любым доступным способом.</Russian>
-        <German>- Findet die zwei Versorgungsfahrzeuge.&lt;br/&gt;- Sobald ihr die feindlichen Fahrzeuge gefunden habt, müsst ihr sie mit allen Mitteln zerstören oder anderweitig außer Gefecht setzen.</German>
-        <Czech>- Najděte dva zásobovací náklaďáky.&lt;br/&gt;- Jakmile nepřátelská vozidla najdete, jakýmikoliv prostředky je zneškodněte.</Czech>
-        <English>- Find the two supply vehicles.&lt;br/&gt;- Once the enemy vehicles are found, destroy them or render them ineffective, using any means available.</English>
-        <Portuguese>- Encontre os dois veículos de abastecimento.&lt;br/&gt;- Depois de encontrar os veículos inimigos, destrua-os ou incapacite-os, usando de qualquer meio disponível.</Portuguese>
-        <Korean>- 2개의 공급 차량을 찾으십시오.&lt;br/&gt;- 적군의 차량이 발견되는 즉시 모든 수단을 동원하여 파괴하거나 무력화합니다.</Korean>
-        <Chinesesimp>- 找到2个补给车辆.&lt;br/&gt;- 当找到目标后, 使用任何手段来摧毁或使其无效化.</Chinesesimp>
-        <Japanese>- 補給車両 2 台の位置を特定せよ。&lt;br/&gt;- 敵車両の発見後、これをあらゆる手段を使って破壊もしくは無力化せよ。</Japanese>
+        <Chinese>-找到2個補給車輛。&lt;br/&gt;-當找到目標後，使用任何手段來摧毀或使其無效化。</Chinese>
+        <Chinesesimp>-找到2个补给车辆。&lt;br/&gt;-当找到目标后，使用任何手段来摧毁或使其无效化。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_42">
         <Original>- Approach the objective covertly and sweep the AO marked on the map.</Original>
-        <Chinese>- 潛行至目標位置並掃蕩整個任務區.</Chinese>
-        <French>- Approchez l'objectif à couvert et fouillez la ZO marquée sur la carte.</French>
-        <Spanish>— Aproximaos hacia el objetivo sin descubrir vuestra posición y peinad la zona de operaciones marcada en el mapa.</Spanish>
-        <Italian>- Avvicinati all'obiettivo senza farti scoprire e perlustra l'Area delle operazioni indicata sulla mappa.</Italian>
-        <Polish>- Wykonaj misję potajemnie i przeszukaj obszar działania zaznaczony na mapie.</Polish>
-        <Russian>- Скрытно приблизьтесь к цели и зачистите отмеченный на карте район боевых действий.</Russian>
-        <German>- Nähert euch dem Ziel verdeckt und durchsucht das auf der Karte markierte Einsatzgebiet.</German>
-        <Czech>- Skrytě se přesuňte k cíli a prohledejte operační oblast označenou na mapě.</Czech>
-        <English>- Approach the objective covertly and sweep the AO marked on the map.</English>
-        <Portuguese>- Aproxime-se do objetivo sem ser descoberto e vasculhe a AO marcada no mapa.</Portuguese>
-        <Korean>- 개체에 은밀히 접근하여 지도에 표시된 작전 지역을 수색하십시오.</Korean>
-        <Chinesesimp>- 潜行至目标位置并扫荡整个任务区.</Chinesesimp>
-        <Japanese>- 目標へは隠密行動で接近し、マップ上の作戦区域を捜索せよ。</Japanese>
+        <Chinese>-潛行至目標位置並掃蕩整個任務區。</Chinese>
+        <Chinesesimp>-潜行至目标位置并扫荡整个任务区。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_41">
         <Original>- Team members are CLS-capable and may revive others.&lt;br/&gt;- Team Leader may deploy a Mk 1 Designated Regroup Point Tent as an alternative respawn point.&lt;br/&gt;- Organic UAV Operator and Medic roles are available.</Original>
-        <Chinese>- 小隊成員有受過戰鬥急救員的訓練, 使其能夠復甦倒地的傷兵.&lt;br/&gt;- 小隊長能夠放出一座Mk1型指定集合點帳篷被作為另一個重生點使用.&lt;br/&gt;- 另有無人載具操作員與醫護兵等職位可供選擇.</Chinese>
-        <French>- Les équipiers sont tous médecins combattants et peuvent ressusciter leurs compagnons d'armes.&lt;br/&gt;- Le chef d'équipe peut déployer une tente de regroupement de type 1 comme point d'apparition.&lt;br/&gt;- Les rôles dédiés d'opérateur de drone et d'infirmier sont disponibles.</French>
-        <Spanish>— Los miembros del equipo cuentan con un médico y pueden reanimar a los demás.&lt;br/&gt;— El líder del equipo puede desplegar un punto de reagrupación designado Mk 1 como punto de reaparición alternativo.&lt;br/&gt;— Están disponibles las funciones de operario y médico de VANT Orgánico.</Spanish>
-        <Italian>- I membri della squadra sono capaci di effettuare una rianimazione cardiovascolare e possono rianimare gli altri membri.&lt;br/&gt;- Il leader della squadra può schierare una Tenda Mk1 come punto di raduno designato da utilizzare come punto di rigenerazione alternativo.&lt;br/&gt;- Sono disponibili i ruoli da operatore UAV e medico.</Italian>
-        <Polish>- Członkowie oddziału przeszli szkolenie ratunkowe w warunkach bojowych i mogą przywracać pozostałych członków drużyny.&lt;br/&gt;- Dowodzący oddziałem może rozstawić namiot wyznaczonego punktu przegrupowania Mk 1, który będzie alternatywnym punktem przywracania.&lt;br/&gt;- Gracze mają dostęp do ról operatora drona i sanitariusza.</Polish>
-        <Russian>- Все члены команды могут оказывать первую помощь и оживлять других членов команды.&lt;br/&gt;- Командир может развернуть специальную палатку для перегруппировки Mk 1 и использовать ее в качестве альтернативной точки для возрождения.&lt;br/&gt;- Доступны роли оператора БПЛА и медика.</Russian>
-        <German>- Teammitglieder können erste Hilfe leisten und andere wiederbeleben.&lt;br/&gt;- Der Teamführer kann ein Mk1-Sammelzelt als alternativen Respawnpunkt aufstellen.&lt;br/&gt;- Die Rollen „Drohnenpilot" und „Sanitäter" sind verfügbar.</German>
-        <Czech>- Členové týmu jsou příslušně vybaveni a schopni oživovat ostatní.&lt;br/&gt;- Velitel týmu může postavit stan určeného bodu oživení Mk 1 coby alternativní bod oživení.&lt;br/&gt;- Jsou dostupné role operátora bezpilotních prostředků a medika.</Czech>
-        <English>- Team members are CLS-capable and may revive others.&lt;br/&gt;- Team Leader may deploy a Mk 1 Designated Regroup Point Tent as an alternative respawn point.&lt;br/&gt;- Organic UAV Operator and Medic roles are available.</English>
-        <Portuguese>- Todos os membros da equipe são compatíveis com a CLS e podem reanimar outros membros da equipe.&lt;br/&gt;- O líder da equipe pode instalar uma barraca de ponto designado de reagrupamento Mk 1 de ponto de ressurgimento alternativo. &lt;br/&gt; - As funções de operador de VANT orgânico e médico estão disponíveis.</Portuguese>
-        <Korean>- 팀원은 지원조(CLS) 기능이 있어 다른 사람을 소생시킬 수 있습니다.&lt;br/&gt;- 조장은 Mk 1 지정 재그룹 지점 텐트를 재투입 지점으로 배치할 수 있습니다.&lt;br/&gt;- 유기적인 UAV 조작자와 의무병 역활도 제공됩니다.</Korean>
-        <Chinesesimp>- 小队成员有受过战斗急救员的训练, 使其能够复苏倒地的伤兵.&lt;br/&gt;- 小队长能够放出一座Mk1型指定集合点帐篷被作为另一个重生点使用.&lt;br/&gt;- 另有无人载具操作员与医护兵等职位可供选择.</Chinesesimp>
-        <Japanese>- チームの隊員は CLS スキルを有しており、味方を蘇生することが可能。&lt;br/&gt;- チームリーダーは代替リスポーン地点としてMk 1 指定合流地点テントを展開可能。&lt;br/&gt;- 生体 UAV オペレーターおよび衛生兵の役割が利用可能。</Japanese>
+        <Chinese>-小隊成員有受過戰鬥急救員的訓練，使其能夠復甦倒地的傷兵。&lt;br/&gt;-小隊長能夠放出一座Mk1型指定集合點帳篷被作為另一個重生點使用。&lt;br/&gt;-另有無人載具操作員與醫護兵等職位可供選擇。</Chinese>
+        <Chinesesimp>-小队成员有受过战斗急救员的训练，使其能够复苏倒地的伤兵。&lt;br/&gt;-小队长能够放出一座Mk1型指定集合点帐篷被作为另一个重生点使用。&lt;br/&gt;-另有无人载具操作员与医护兵等职位可供选择。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_40">
         <Original>Location #%1</Original>
-        <Chinese>地點 #%1</Chinese>
-        <French>Emplacement n°%1</French>
-        <Spanish>Ubicación n.º %1</Spanish>
-        <Italian>Location #%1</Italian>
-        <Polish>Lokalizacja nr %1</Polish>
-        <Russian>Локация #%1</Russian>
-        <German>Ort #%1</German>
-        <Czech>Místo #%1</Czech>
-        <English>Location #%1</English>
-        <Portuguese>Localização nº%1</Portuguese>
-        <Korean>위치 #%1</Korean>
-        <Chinesesimp>地点 #%1</Chinesesimp>
-        <Japanese>ロケーション #%1</Japanese>
+        <Chinese>地點#%1</Chinese>
+        <Chinesesimp>地点#%1</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_4">
         <Original>- Infiltrate the marked AO and sweep it.&lt;br/&gt;- Search for two enemy vehicles in area.&lt;br/&gt;- When vehicles are found, sabotage them.&lt;br/&gt;- Move to the designated Exfiltration point.&lt;br/&gt;- In the event of too many team casualties, mission will be cancelled and team ordered to exfiltrate.</Original>
-        <Chinese>- 侵入並掃蕩任務區.&lt;br/&gt;- 找到敵軍的2輛載具.&lt;br/&gt;- 當找到目標以後就摧毀掉它.&lt;br/&gt;- 前往指定的撤離點.&lt;br/&gt;- 在發生有過多人員傷亡的情況下, 任務會自動取消並命令小隊前往撤離點.</Chinese>
-        <French>- Infiltrez et fouillez la ZO indiquée.&lt;br/&gt;- Cherchez deux véhicules ennemis dans la zone.&lt;br/&gt;- Si vous trouvez un véhicule, sabotez-le.&lt;br/&gt;- Rendez-vous au point d'extraction.&lt;br/&gt;- En cas de pertes excessives, la mission sera annulée et les unités restantes devront s'exfiltrer.</French>
-        <Spanish>— Infiltraos en la zona de operaciones designada y peinadla por completo.&lt;br/&gt;— Buscad dos vehículos enemigos por la zona.&lt;br/&gt;— Cuando los encontréis, saboteadlos.&lt;br/&gt;— Id hacia el punto de extracción indicado.&lt;br/&gt;— En caso de que el equipo sufra demasiadas bajas, la misión se cancelará y habrá que extraerlo.</Spanish>
-        <Italian>- Infiltrati nell'Area delle operazioni indicata e perlustrala.&lt;br/&gt;- Cerca due veicoli nemici nella zona.&lt;br/&gt;- Una volta trovati, sabotali.&lt;br/&gt;- Vai verso il punto di Esfiltrazione indicato.&lt;br/&gt;- Nel caso ci siano troppe vittime, la missione sarà annullata e alla squadra verrà ordinata l'esfiltrazione.</Italian>
-        <Polish>- Przedostań się na obszar działania i przeszukaj go.&lt;br/&gt;- Znajdź dwa pojazdy przeciwnika.&lt;br/&gt;- Po odnalezieniu pojazdów podejmij działania sabotażowe.&lt;br/&gt;- Udaj się do wyznaczonego punktu ewakuacyjnego.&lt;br/&gt;- Jeśli poniesiesz za duże straty, misja zostanie odwołana, a drużyna otrzyma rozkaz ewakuacji.</Polish>
-        <Russian>- Проникните в отмеченный район боевых действий и осмотритесь.&lt;br/&gt;- Найдите две вражеские машины.&lt;br/&gt;- Как только вы их обнаружите, уничтожьте их.&lt;br/&gt;- Отправляйтесь на обозначенную точку эвакуации.&lt;br/&gt;- В случае тяжелых потерь миссия будет отменена и вам будет приказано срочно эвакуироваться.</Russian>
-        <German>- Infiltriert und durchsucht das markierte Einsatzgebiet.&lt;br/&gt;- Sucht nach den zwei feindlichen Fahrzeugen.&lt;br/&gt;- Sobald ihr sie gefunden habt, müsst ihr sie sabotieren.&lt;br/&gt;- Begebt euch zu dem designierten Exfiltrationspunkt.&lt;br/&gt;- Wenn zu viele Teammitglieder sterben, wird die Mission abgebrochen und die restlichen Teammitglieder werden zur Exfiltration aufgefordert.</German>
-        <Czech>– Infiltrujte označenou operační oblast a prohledejte ji.&lt;br/&gt;– Najděte dvě nepřátelská vozidla v oblasti.&lt;br/&gt;– Až vozidla najdete, sabotujte je.&lt;br/&gt;- Přesuňte se na označené místo vyzvednutí.&lt;br/&gt;– V případě příliš velkých ztrát bude mise zrušena a tým dostane rozkaz k opuštění oblasti.</Czech>
-        <English>- Infiltrate the marked AO and sweep it.&lt;br/&gt;- Search for two enemy vehicles in area.&lt;br/&gt;- When vehicles are found, sabotage them.&lt;br/&gt;- Move to the designated Exfiltration point.&lt;br/&gt;- In the event of too many team casualties, mission will be cancelled and team ordered to exfiltrate.</English>
-        <Portuguese>- Infiltre-se na AO marcada e vasculhe-a.&lt;br/&gt;- Encontre dois veículos inimigos na área. &lt;br/&gt;- Quando encontrar os veículos, sabote-os.&lt;br/&gt;- Desloque-se para o ponto de exfiltração designado.&lt;br/&gt;- Caso a equipe tenha sofrido baixas demais, a missão será cancelada e as ordens da equipe serão de exfiltrar-se.</Portuguese>
-        <Korean>- 표시한 작전 지역을 침투하여 수색합니다.&lt;br/&gt;- 지역에서 두대의 적군 차량을 찾습니다.&lt;br/&gt;- 차량을 찾으면, 사보타주합니다.&lt;br/&gt;- 지정된 퇴출 지점으로 이동합니다.&lt;br/&gt;- 팀에 사상자가 많을 경우 임무를 취소하고 팀에게 퇴출을 명령합니다.</Korean>
-        <Chinesesimp>- 侵入并扫荡任务区.&lt;br/&gt;- 找到敌军的2辆载具.&lt;br/&gt;- 当找到目标以后就摧毁掉它.&lt;br/&gt;- 前往指定的撤离点.&lt;br/&gt;- 在发生有过多人员伤亡的情况下, 任务会自动取消并命令小队前往撤离点.</Chinesesimp>
-        <Japanese>- マーキングされた作戦区域に侵入、全体を捜索する。&lt;br/&gt;- 区域内の敵車両 2 両を探す。&lt;br/&gt;- 敵車両を発見後、これに破壊工作を実施。&lt;br/&gt;- 指定された撤退地点まで移動する。&lt;br/&gt;- チームへの損害大の場合、作戦は中止されチームの脱出が命令される。</Japanese>
+        <Chinese>-侵入並掃蕩任務區。&lt;br/&gt;-找到敵軍的2輛載具。&lt;br/&gt;-當找到目標以後就摧毀掉它。&lt;br/&gt;-前往指定的撤離點。&lt;br/&gt;-在發生有過多人員傷亡的情況下，任務會自動取消並命令小隊前往撤離點。</Chinese>
+        <Chinesesimp>-侵入并扫荡任务区。&lt;br/&gt;-找到敌军的2辆载具。&lt;br/&gt;-当找到目标以后就摧毁掉它。&lt;br/&gt;-前往指定的撤离点。&lt;br/&gt;-在发生有过多人员伤亡的情况下，任务会自动取消并命令小队前往撤离点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_39">
         <Original>Initializing mission...</Original>
-        <Chinese>初始化任務中...</Chinese>
-        <French>Initlialisation de la mission...</French>
-        <Spanish>Iniciando misión...</Spanish>
-        <Italian>Inizializzazione missione...</Italian>
-        <Polish>Inicjowanie misji...</Polish>
-        <Russian>Инициализация миссии...</Russian>
-        <German>Mission wird initialisiert …</German>
-        <Czech>Probíhá inicializace mise...</Czech>
-        <English>Initializing mission...</English>
-        <Portuguese>Inicializando missão…</Portuguese>
-        <Korean>임무 초기화 중...</Korean>
-        <Chinesesimp>初始化任务中...</Chinesesimp>
-        <Japanese>ミッション初期化中…</Japanese>
+        <Chinese>初始化任務中。。。</Chinese>
+        <Chinesesimp>初始化任务中。。。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_38">
         <Original>Location selected:</Original>
         <Chinese>選擇的地點:</Chinese>
-        <French>Emplacement choisi :</French>
-        <Spanish>Ubicación seleccionada:</Spanish>
-        <Italian>Postazione selezionata:</Italian>
-        <Polish>Wybrana lokalizacja:</Polish>
-        <Russian>Выбранная локация:</Russian>
-        <German>Ort ausgewählt:</German>
-        <Czech>Vybrané místo:</Czech>
-        <English>Location selected:</English>
-        <Portuguese>Local escolhido:</Portuguese>
-        <Korean>선정된 위치:</Korean>
         <Chinesesimp>选择的地点:</Chinesesimp>
-        <Japanese>選択中のロケーション：</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_37">
         <Original>Mission starts in</Original>
         <Chinese>任務將開始於</Chinese>
-        <French>Début de la mission dans</French>
-        <Spanish>La misión empieza en</Spanish>
-        <Italian>La missione inizierà entro</Italian>
-        <Polish>Misja zacznie się za</Polish>
-        <Russian>Миссия начинается через</Russian>
-        <German>Mission beginnt in</German>
-        <Czech>Mise začíná za...</Czech>
-        <English>Mission starts in</English>
-        <Portuguese>A missão começa em</Portuguese>
-        <Korean>임무 시작</Korean>
         <Chinesesimp>任务将开始于</Chinesesimp>
-        <Japanese>ミッション開始まで</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_36">
         <Original>Most voted</Original>
         <Chinese>最多得票數</Chinese>
-        <French>Plus populaire</French>
-        <Spanish>Más votado</Spanish>
-        <Italian>Più votate</Italian>
-        <Polish>Najwięcej głosów</Polish>
-        <Russian>Большинство проголосовавших</Russian>
-        <German>Die meisten Stimmen hat</German>
-        <Czech>Nejvíc hlasů</Czech>
-        <English>Most voted</English>
-        <Portuguese>Mais votos</Portuguese>
-        <Korean>가장 많이 투표한</Korean>
         <Chinesesimp>最多得票数</Chinesesimp>
-        <Japanese>最多投票数</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_35">
         <Original>Your vote</Original>
         <Chinese>你的選擇</Chinese>
-        <French>Votre vote</French>
-        <Spanish>Tu voto</Spanish>
-        <Italian>Il tuo voto</Italian>
-        <Polish>Twój głos</Polish>
-        <Russian>Ваш голос</Russian>
-        <German>Deine Stimme</German>
-        <Czech>Váš hlas</Czech>
-        <English>Your vote</English>
-        <Portuguese>Seu voto</Portuguese>
-        <Korean>내 투표</Korean>
         <Chinesesimp>你的选择</Chinesesimp>
-        <Japanese>あなたの票</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_34">
         <Original>VOTE FOR TARGET LOCATION&lt;br/&gt;(click on the location marker in your map)</Original>
         <Chinese>票選目標地點&lt;br/&gt;(點擊你地圖上的地點標記)</Chinese>
-        <French>VOTEZ POUR LE LIEU DE LA CIBLE&lt;br/&gt;(Cliquez sur un marqueur de la carte)</French>
-        <Spanish>VOTA PARA ELEGIR LA UBICACIÓN&lt;br/&gt;(Haz clic en el marcador de ubicación de tu mapa)</Spanish>
-        <Italian>VOTA PER LA POSTAZIONE DI DESTINAZIONE &lt;br/&gt;(clicca sull'indicatore della postazione sulla mappa)</Italian>
-        <Polish>GŁOSUJ NA LOKALIZACJĘ DOCELOWĄ&lt;br/&gt;(kliknij znacznik lokalizacji mapy)</Polish>
-        <Russian>ГОЛОСУЙТЕ ЗА ЛОКАЦИЮ&lt;br/&gt;(щелкните по маркеру локации на своей карте)</Russian>
-        <German>STIMMT FÜR DEN ZIELORT AB&lt;br/&gt;(klickt dazu auf die Ortsmarkierung auf eurer Karte)</German>
-        <Czech>HLASOVÁNÍM ZVOLTE CÍLOVÉ MÍSTO&lt;br/&gt;(klikněte na značku místa na mapě)</Czech>
-        <English>VOTE FOR TARGET LOCATION&lt;br/&gt;(click on the location marker in your map)</English>
-        <Portuguese>VOTE PELO LOCAL ALVO&lt;br/&gt;(clique no marcador de local no seu mapa)</Portuguese>
-        <Korean>표적 위치 투표/&gt;(지도에서 위치 마커 클릭)</Korean>
         <Chinesesimp>票选目标地点&lt;br/&gt;(点击你地图上的地点标记)</Chinesesimp>
-        <Japanese>ターゲットロケーション投票&lt;br/&gt;（マップ上のロケーションマーカーをクリックします）</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_33">
         <Original>Retrieve Data from Terminal #3</Original>
         <Chinese>從#3號終端機取得資料</Chinese>
-        <French>Obtenir les données du terminal n°3</French>
-        <Spanish>Recuperad los datos del terminal n.º 3.</Spanish>
-        <Italian>Recupero dati dal terminal #3</Italian>
-        <Polish>Pobierz dane z terminalu nr 3</Polish>
-        <Russian>Извлеките данные с Терминала №3</Russian>
-        <German>Bergt die Daten von Terminal #3</German>
-        <Czech>Získejte údaje z terminálu č. 3</Czech>
-        <English>Retrieve Data from Terminal #3</English>
-        <Portuguese>Recupere os dados do terminal nº3</Portuguese>
-        <Korean>터미널#3에서 데이터 회수</Korean>
         <Chinesesimp>从#3号终端机取得资料</Chinesesimp>
-        <Japanese>ターミナル #3 よりデータを回収</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_32">
         <Original>Find terminal #3 and download its data.</Original>
-        <Chinese>找到#3號終端機並下載資料.</Chinese>
-        <French>Trouvez le terminal n°3 et téléchargez ses données.</French>
-        <Spanish>Encontrad el terminal n.º 3 y descargad los datos.</Spanish>
-        <Italian>Trova il terminal #3 e scaricane i dati.</Italian>
-        <Polish>Znajdź terminal nr 3 i pobierz dane.</Polish>
-        <Russian>Найдите терминал №3 и загрузите его данные.</Russian>
-        <German>Findet Terminal #3 und ladet die Daten herunter.</German>
-        <Czech>Najděte terminál č. 3 a stáhněte údaje.</Czech>
-        <English>Find terminal #3 and download its data.</English>
-        <Portuguese>Encontre o terminal nº3 e faça o download dos seus dados.</Portuguese>
-        <Korean>터미널 #3을 찾아 그 데이터를 다운로드하십시오.</Korean>
-        <Chinesesimp>找到#3号终端机并下载资料.</Chinesesimp>
-        <Japanese>ターミナル #3 を探し出し、データをダウンロードせよ。</Japanese>
+        <Chinese>找到#3號終端機並下載資料。</Chinese>
+        <Chinesesimp>找到#3号终端机并下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_31">
         <Original>Retrieve Data from Terminal #2</Original>
         <Chinese>從#2號終端機取得資料</Chinese>
-        <French>Obtenir les données du terminal n°2</French>
-        <Spanish>Recuperad los datos del terminal n.º 2.</Spanish>
-        <Italian>Recupero dati dal terminal #2</Italian>
-        <Polish>Pobierz dane z terminalu nr 2</Polish>
-        <Russian>Извлеките данные с Терминала №2</Russian>
-        <German>Bergt die Daten von Terminal #2</German>
-        <Czech>Získejte údaje z terminálu č. 2</Czech>
-        <English>Retrieve Data from Terminal #2</English>
-        <Portuguese>Recupere os dados do terminal nº2</Portuguese>
-        <Korean>터미널#2에서 데이터 회수</Korean>
         <Chinesesimp>从#2号终端机取得资料</Chinesesimp>
-        <Japanese>ターミナル #2 よりデータを回収</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_30">
         <Original>Find terminal #2 and download its data.</Original>
-        <Chinese>找到#2號終端機並下載資料.</Chinese>
-        <French>Trouvez le terminal n°2 et téléchargez ses données.</French>
-        <Spanish>Encontrad el terminal n.º 2 y descargad los datos.</Spanish>
-        <Italian>Trova il terminal #2 e scaricane i dati.</Italian>
-        <Polish>Znajdź terminal nr 2 i pobierz dane.</Polish>
-        <Russian>Найдите терминал №2 и загрузите его данные.</Russian>
-        <German>Findet Terminal #2 und ladet die Daten herunter.</German>
-        <Czech>Najděte terminál č. 2 a stáhněte údaje.</Czech>
-        <English>Find terminal #2 and download its data.</English>
-        <Portuguese>Encontre o terminal nº2 e faça o download dos seus dados.</Portuguese>
-        <Korean>터미널 #2를 찾아 그 데이터를 다운로드하십시오.</Korean>
-        <Chinesesimp>找到#2号终端机并下载资料.</Chinesesimp>
-        <Japanese>ターミナル #2 を探し出し、データをダウンロードせよ。</Japanese>
+        <Chinese>找到#2號終端機並下載資料。</Chinese>
+        <Chinesesimp>找到#2号终端机并下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_3">
         <Original>- All team members are CLS-capable and can revive other team members.</Original>
-        <Chinese>- 所有小隊成員都有受過戰鬥急救員的訓練, 所以可以復甦倒地的傷兵.</Chinese>
-        <French>- Chaque équipier est médecin combattant et peut ressusciter ses compagnons d'armes.</French>
-        <Spanish>— Todos los miembros del equipo pueden ofrece apoyo médico y reanimar a los demás miembros del equipo.</Spanish>
-        <Italian>- Tutti i membri della squadra sono capaci di effettuare una rianimazione cardiovascolare e possono rianimare gli altri membri.</Italian>
-        <Polish>- Wszyscy żołnierze przeszli szkolenie ratownicze w warunkach bojowych i mogą przywracać pozostałych członków drużyny.</Polish>
-        <Russian>- Все члены команды могут оказывать первую помощь и оживлять других членов команды.</Russian>
-        <German>- Alle Teammitglieder können erste Hilfe leisten und andere Teammitglieder wiederbeleben.</German>
-        <Czech>– Všichni členové týmu jsou zaškoleni v provádění CLS a mohou oživovat jiné členy týmu.</Czech>
-        <English>- All team members are CLS-capable and can revive other team members.</English>
-        <Portuguese>- Todos os membros da equipe são compatíveis com a CLS e podem reanimar outros membros da equipe.</Portuguese>
-        <Korean>- 모든 조원이 CLS 가능하므로 다른 조원을 회생시킬 수 있습니다.</Korean>
-        <Chinesesimp>- 所有小队成员都有受过战斗急救员的训练, 所以可以复苏倒地的伤兵.</Chinesesimp>
-        <Japanese>- 全チームメンバーは CLS 可能であり、他のチームメンバーを蘇生可能。</Japanese>
+        <Chinese>-所有小隊成員都有受過戰鬥急救員的訓練，所以可以復甦倒地的傷兵。</Chinese>
+        <Chinesesimp>-所有小队成员都有受过战斗急救员的训练，所以可以复苏倒地的伤兵。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_29">
         <Original>Retrieve Data from Terminal #1</Original>
         <Chinese>從#1號終端機取得資料</Chinese>
-        <French>Obtenir les données du terminal n°1</French>
-        <Spanish>Recuperad los datos del terminal n.º 1.</Spanish>
-        <Italian>Recupero dati dal terminal #1</Italian>
-        <Polish>Pobierz dane z terminalu nr 1</Polish>
-        <Russian>Извлеките данные с Терминала №1</Russian>
-        <German>Bergt die Daten von Terminal #1</German>
-        <Czech>Získejte údaje z terminálu č. 1</Czech>
-        <English>Retrieve Data from Terminal #1</English>
-        <Portuguese>Recupere os dados do terminal nº1</Portuguese>
-        <Korean>터미널#1에서 데이터 회수</Korean>
         <Chinesesimp>从#1号终端机取得资料</Chinesesimp>
-        <Japanese>ターミナル #1 よりデータを回収</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_28">
         <Original>Find terminal #1 and download its data.</Original>
-        <Chinese>找到#1號終端機並下載資料.</Chinese>
-        <French>Trouvez le terminal n°1 et téléchargez ses données.</French>
-        <Spanish>Encontrad el terminal n.º 1 y descargad los datos.</Spanish>
-        <Italian>Trova il terminal #1 e scaricane i dati.</Italian>
-        <Polish>Znajdź terminal nr 1 i pobierz dane.</Polish>
-        <Russian>Найдите терминал №1 и загрузите его данные.</Russian>
-        <German>Findet Terminal #1 und ladet die Daten herunter.</German>
-        <Czech>Najděte terminál č. 1 a stáhněte údaje.</Czech>
-        <English>Find terminal #1 and download its data.</English>
-        <Portuguese>Encontre o terminal nº1 e faça o download dos seus dados.</Portuguese>
-        <Korean>터미널 #1를 찾아 그 데이터를 다운로드하십시오.</Korean>
-        <Chinesesimp>找到#1号终端机并下载资料.</Chinesesimp>
-        <Japanese>ターミナル #1 を探し出し、データをダウンロードせよ。</Japanese>
+        <Chinese>找到#1號終端機並下載資料。</Chinese>
+        <Chinesesimp>找到#1号终端机并下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_27">
         <Original>Make your way through the AO and download data from three marked data terminals using the standard terminal.</Original>
-        <Chinese>用你的辦法穿過任務區, 找到3處終端機並下載資料.</Chinese>
-        <French>Infiltrez la ZO et téléchargez les données des trois terminaux marqués à l'aide du terminal classique.</French>
-        <Spanish>Abríos camino hasta la zona de operaciones y descargad los datos de las tres terminales marcados usando el terminal normal.</Spanish>
-        <Italian>Fatti strada verso l'Area delle operazioni e scarica i dati dai tre terminal indicati utilizzando il terminal standard.</Italian>
-        <Polish>Pobierz dane z trzech terminali oznaczonych w obszarze działania, korzystając ze standardowego terminalu.</Polish>
-        <Russian>Проберитесь через район боевых действий и загрузите данные с трех отмеченных терминалов данных, используя стандартный терминал.</Russian>
-        <German>Begebt euch in das Einsatzgebiet und ladet mithilfe des Standard-Terminals die Daten von drei markierten Datenterminals herunter.</German>
-        <Czech>Vnikněte do operační oblasti a stáhněte údaje ze tří označených datových terminálů pomocí standardního terminálu.</Czech>
-        <English>Make your way through the AO and download data from three marked data terminals using the standard terminal.</English>
-        <Portuguese>Abra caminho até a AO e faça o download dos dados dos três terminais de dados marcados usando o terminal padrão.  </Portuguese>
-        <Korean>작전 지역으로 이동하여 표준 터미널을 사용하여 3개의 표시된 데이터 터미널에서 데이터를 다운로드하십시오</Korean>
-        <Chinesesimp>用你的办法穿过任务区, 找到3处终端机并下载资料.</Chinesesimp>
-        <Japanese>作戦区域を進み、標準的な電子ターミナルを使ってマーキングされた 3 ヵ所のデータターミナルからデータをダウンロードせよ。</Japanese>
+        <Chinese>用你的辦法穿過任務區，找到3處終端機並下載資料。</Chinese>
+        <Chinesesimp>用你的办法穿过任务区，找到3处终端机并下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_26">
         <Original>Retrieve data from EDM</Original>
         <Chinese>取回緊急下降艙中的資料</Chinese>
-        <French>Obtenir les données du module</French>
-        <Spanish>Recuperad los datos del EDM.</Spanish>
-        <Italian>Recupero dati dall'EDM</Italian>
-        <Polish>Pobierz dane z modułu awaryjnego lądowania</Polish>
-        <Russian>Извлеките данные из модуля аварийного снижения</Russian>
-        <German>Bergt die Daten aus dem Notlandungsmodul.</German>
-        <Czech>Získejte údaje z modulu EDM</Czech>
-        <English>Retrieve data from EDM</English>
-        <Portuguese>Recupere os dados do sistema eletrônico de gerenciamento</Portuguese>
-        <Korean>EDM에서 데이터 회수</Korean>
         <Chinesesimp>取回紧急下降舱中的资料</Chinesesimp>
-        <Japanese>EDM よりデータを回収</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_25">
         <Original>Find the module and download data from it.</Original>
-        <Chinese>找到緊急下降艙並下載其中的資料.</Chinese>
-        <French>Trouvez le module et téléchargez ses données.</French>
-        <Spanish>Encontrad el módulo de descenso y descargad los datos.</Spanish>
-        <Italian>Trova il modulo e scaricane i dati.</Italian>
-        <Polish>Znajdź moduł i pobierz z niego dane.</Polish>
-        <Russian>Найдите модуль и загрузите его данные.</Russian>
-        <German>Findet das Modul und ladet die Daten herunter.</German>
-        <Czech>Najděte modul a stáhněte z něj údaje.</Czech>
-        <English>Find the module and download data from it.</English>
-        <Portuguese>Encontre o módulo e faça o download dos dados a partir dele.</Portuguese>
-        <Korean>모듈을 찾아 데이터를 다운로드.</Korean>
-        <Chinesesimp>找到紧急下降舱并下载其中的资料.</Chinesesimp>
-        <Japanese>モジュールを探し出し、これからデータを回収せよ。</Japanese>
+        <Chinese>找到緊急下降艙並下載其中的資料。</Chinese>
+        <Chinesesimp>找到紧急下降舱并下载其中的资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_24">
         <Original>Search the AO for the ARGO Emergency Descent Module and retrieve its data using the standard terminal.</Original>
-        <Chinese>搜索任務區中的ARGO緊急下降艙, 並使用終端機下載其中的資料.</Chinese>
-        <French>Retrouvez le module de descente d'urgence ARGO et récupérez-en les données à l'aide du terminal classique.</French>
-        <Spanish>Registrad la zona de operaciones para buscar el módulo de descenso de emergencia ARGO y recuperad los datos mediante un terminal normal.</Spanish>
-        <Italian>Perlustra l'Area delle operazioni in cerca del Modulo di discesa di emergenza ARGO e recuperane i dati utilizzando il terminal standard.</Italian>
-        <Polish>Znajdź moduł awaryjnego lądowania ARGO na obszarze działania i pobierz z niego dane za pomocą standardowego terminalu.</Polish>
-        <Russian>Обыщите район боевых действий, найдите модуль аварийного снижения ARGO и получите его данные с помощью стандартного терминала.</Russian>
-        <German>Durchsucht das Einsatzgebiet nach dem ARGO-Notlandungsmodul und bergt die darin befindlichen Daten mithilfe des Standard-Terminals.</German>
-        <Czech>Prohledejte operační oblast, najděte nouzový modul EDM ARGO a pomocí standardního terminálu z něj získejte údaje.</Czech>
-        <English>Search the AO for the ARGO Emergency Descent Module and retrieve its data using the standard terminal.</English>
-        <Portuguese>Procure o módulo de descida de emergência (MDE) na AO e recupere seus dados usando o terminal padrão.</Portuguese>
-        <Korean>Search the AO for the ARGO EDM을 찾아 작전 지역을 수색하고 표준 터미널을 사용하여 데이터를 회수하십시오.</Korean>
-        <Chinesesimp>搜索任务区中的ARGO紧急下降舱, 并使用终端机下载其中的资料.</Chinesesimp>
-        <Japanese>作戦区域内で ARGO 緊急降下モジュールを捜索し、標準的な電子ターミナルを使ってデータを回収せよ。</Japanese>
+        <Chinese>搜索任務區中的ARGO緊急下降艙，並使用終端機下載其中的資料。</Chinese>
+        <Chinesesimp>搜索任务区中的ARGO紧急下降舱，并使用终端机下载其中的资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_23">
         <Original>Sabotage the 2nd Vehicle</Original>
         <Chinese>摧毀2號載具</Chinese>
-        <French>Saboter le 2e véhicule</French>
-        <Spanish>Sabotead el segundo vehículo.</Spanish>
-        <Italian>Sabotaggio secondo veicolo</Italian>
-        <Polish>Dokonaj sabotażu 2. pojazdu</Polish>
-        <Russian>Уничтожьте 2-ое транспортное средство</Russian>
-        <German>Sabotiert das 2. Fahrzeug</German>
-        <Czech>Sabotujte 2. vozidlo</Czech>
-        <English>Sabotage the 2nd Vehicle</English>
-        <Portuguese>Sabote o 2º veículo</Portuguese>
-        <Korean>두번째 차량을 사보타주하십시오</Korean>
         <Chinesesimp>摧毁2号载具</Chinesesimp>
-        <Japanese>2 台目の車両に破壊工作を行う</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_22">
         <Original>Find the second supply vehicle and sabotage it.</Original>
-        <Chinese>找到第2輛補給載具並摧毀之.</Chinese>
-        <French>Trouvez le deuxième véhicule de ravitaillement et sabotez-le.</French>
-        <Spanish>Encontrad el segundo vehículo de suministros y saboteadlo.</Spanish>
-        <Italian>Trova il secondo veicolo di rifornimento e sabotalo.</Italian>
-        <Polish>Znajdź drugi pojazd zaopatrzeniowy i dokonaj sabotażu.</Polish>
-        <Russian>Найдите второе транспортное средство и уничтожьте его.</Russian>
-        <German>Findet das zweite Versorgungsfahrzeug und sabotiert es.</German>
-        <Czech>Najděte druhé zásobovací vozidlo a sabotujte ho.</Czech>
-        <English>Find the second supply vehicle and sabotage it.</English>
-        <Portuguese>Encontre o segundo veículo de abastecimento e sabote-o.</Portuguese>
-        <Korean>두번째 보급 차량을 찾아 사보타주하십시오.</Korean>
-        <Chinesesimp>找到第2辆补给载具并摧毁之.</Chinesesimp>
-        <Japanese>2 台目の補給車両を探し出し、破壊工作を実施せよ。</Japanese>
+        <Chinese>找到第2輛補給載具並摧毀之。</Chinese>
+        <Chinesesimp>找到第2辆补给载具并摧毁之。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_21">
         <Original>Sabotage the 1st Vehicle</Original>
         <Chinese>摧毀1號載具</Chinese>
-        <French>Saboter le 1er véhicule</French>
-        <Spanish>Sabotead el primer vehículo.</Spanish>
-        <Italian>Sabotaggio primo veicolo</Italian>
-        <Polish>Dokonaj sabotażu 1. pojazdu</Polish>
-        <Russian>Уничтожьте 1-ое транспортное средство</Russian>
-        <German>Sabotiert das 1. Fahrzeug</German>
-        <Czech>Sabotujte 1. vozidlo</Czech>
-        <English>Sabotage the 1st Vehicle</English>
-        <Portuguese>Sabote o 1º veículo</Portuguese>
-        <Korean>첫번째 차량을 사보타주하십시오</Korean>
         <Chinesesimp>摧毁1号载具</Chinesesimp>
-        <Japanese>1 台目の車両に破壊工作を行う</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_20">
         <Original>Find the first supply vehicle and sabotage it.</Original>
-        <Chinese>找到第1輛補給載具並摧毀之.</Chinese>
-        <French>Trouvez le premier véhicule de ravitaillement et sabotez-le.</French>
-        <Spanish>Encontrad el primer vehículo de suministros y saboteadlo.</Spanish>
-        <Italian>Trova il primo veicolo di rifornimento e sabotalo.</Italian>
-        <Polish>Znajdź pierwszy pojazd zaopatrzeniowy i dokonaj sabotażu.</Polish>
-        <Russian>Найдите первое транспортное средство и уничтожьте его.</Russian>
-        <German>Findet das zweite Versorgungsfahrzeug und sabotiert es.</German>
-        <Czech>Najděte první zásobovací vozidlo a sabotujte ho.</Czech>
-        <English>Find the first supply vehicle and sabotage it.</English>
-        <Portuguese>Encontre o primeiro veículo de abastecimento e sabote-o.</Portuguese>
-        <Korean>첫번째 보급 차량을 찾아 사보타주하십시오.</Korean>
-        <Chinesesimp>找到第1辆补给载具并摧毁之.</Chinesesimp>
-        <Japanese>1 台目の補給車両を探し出し、破壊工作を実施せよ。</Japanese>
+        <Chinese>找到第1輛補給載具並摧毀之。</Chinese>
+        <Chinesesimp>找到第1辆补给载具并摧毁之。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_2">
         <Original>Select the area of operations, move in, do the job, exfiltrate!</Original>
-        <Chinese>選擇作戰地點, 進入, 幹活並撤離!</Chinese>
-        <French>Sélectionnez la zone d'opérations, infiltrez, atteignez l'objectif, puis exfiltrez-vous !</French>
-        <Spanish>Seleccionad la zona de operaciones, adentraos en ella, haced lo que os toque ¡y marchaos!</Spanish>
-        <Italian>Seleziona l'area delle operazioni, dirigiti in quella direzione, porta a termine il tuo compito e procedi all'esfiltrazione!</Italian>
-        <Polish>Wybierz obszar działania, wkrocz, wykonaj misję i ewakuuj się!</Polish>
-        <Russian>Выберите район боевых действий, высадитесь в нем, выполните задание и эвакуируйтесь!</Russian>
-        <German>Wählt das Einsatzgebiet aus, begebt euch dorthin, erledigt die Mission und exfiltriert!</German>
-        <Czech>Vyberte operační oblast, přesuňte se do ní, udělejte vše potřebné a stáhněte se.</Czech>
-        <English>Select the area of operations, move in, do the job, exfiltrate!</English>
-        <Portuguese>Selecione a área de operações, entre, realize a ação, exfiltre-se!</Portuguese>
-        <Korean>작전 지역을 선택하여 진입한 후 임무를 완수하고 퇴출하십시오!</Korean>
-        <Chinesesimp>选择作战地点, 进入, 干活并撤离!</Chinesesimp>
-        <Japanese>作戦区域を選択して進入し、任務をこなして脱出せよ！</Japanese>
+        <Chinese>選擇作戰地點，進入，幹活並撤離!</Chinese>
+        <Chinesesimp>选择作战地点，进入，干活并撤离!</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1d">
         <Original>COOP 12 Combat Patrol</Original>
-        <Chinese>COOP 12 戰鬥巡邏</Chinese>
-        <French>COOP 12 Combat Patrol</French>
-        <Spanish>COOP 12 Combat Patrol</Spanish>
-        <Italian>COOP 12 Combat Patrol</Italian>
-        <Polish>COOP 12 Combat Patrol</Polish>
-        <Russian>COOP 12 Combat Patrol</Russian>
-        <German>COOP 12 Combat Patrol</German>
-        <Czech>COOP 12 Combat Patrol</Czech>
-        <English>COOP 12 Combat Patrol</English>
-        <Portuguese>COOP 12 Combat Patrol</Portuguese>
-        <Korean>COOP 12 Combat Patrol</Korean>
-        <Chinesesimp>COOP 12 战斗巡逻</Chinesesimp>
-        <Japanese>COOP 12 Combat Patrol</Japanese>
+        <Chinese>COOP12戰鬥巡邏</Chinese>
+        <Chinesesimp>COOP12战斗巡逻</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1c">
         <Original>Patrol</Original>
         <Chinese>巡邏</Chinese>
-        <French>Patrol</French>
-        <Spanish>Patrol</Spanish>
-        <Italian>Patrol</Italian>
-        <Polish>Patrol</Polish>
-        <Russian>Patrol</Russian>
-        <German>Patrol</German>
-        <Czech>Patrol</Czech>
-        <English>Patrol</English>
-        <Portuguese>Patrol</Portuguese>
-        <Korean>Patrol</Korean>
         <Chinesesimp>巡逻</Chinesesimp>
-        <Japanese>Patrol</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1b">
         <Original>COOP 10 Combat Patrol</Original>
-        <Chinese>COOP 10 戰鬥巡邏</Chinese>
-        <French>COOP 10 Combat Patrol</French>
-        <Spanish>COOP 10 Combat Patrol</Spanish>
-        <Italian>COOP 10 Combat Patrol</Italian>
-        <Polish>COOP 10 Combat Patrol</Polish>
-        <Russian>COOP 10 Combat Patrol</Russian>
-        <German>COOP 10 Combat Patrol</German>
-        <Czech>COOP 10 Combat Patrol</Czech>
-        <English>COOP 10 Combat Patrol</English>
-        <Portuguese>COOP 10 Combat Patrol</Portuguese>
-        <Korean>COOP 10 Combat Patrol</Korean>
-        <Chinesesimp>COOP 10 战斗巡逻</Chinesesimp>
-        <Japanese>COOP 10 Combat Patrol</Japanese>
+        <Chinese>COOP10戰鬥巡邏</Chinese>
+        <Chinesesimp>COOP10战斗巡逻</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_19">
         <Original>Search the AO for enemy vehicles and sabotage them.</Original>
-        <Chinese>搜索任務區中的敵方載具並摧毀之.</Chinese>
-        <French>Cherchez et sabotez les véhicules ennemis dans la ZO.</French>
-        <Spanish>Registrad la zona de operaciones para buscar y sabotear los vehículos enemigos.</Spanish>
-        <Italian>Perlustra l'Area delle operazioni in cerca dei veicoli nemici e sabotali.</Italian>
-        <Polish>Przeszukaj obszar działania, znajdź pojazdy przeciwnika i dokonaj sabotażu.</Polish>
-        <Russian>Найдите и уничтожьте вражескую технику в районе боевых действий.</Russian>
-        <German>Durchsucht das Einsatzgebiet nach feindlichen Fahrzeugen und sabotiert sie.</German>
-        <Czech>Prohledejte operační oblast, najděte nepřátelská vozidla a sabotujte je.</Czech>
-        <English>Search the AO for enemy vehicles and sabotage them.</English>
-        <Portuguese>Procure veículos inimigos na AO e sabote-os.</Portuguese>
-        <Korean>적군 차량을 찾아 작전 지역을 수색하고 사보타주하십시오.</Korean>
-        <Chinesesimp>搜索任务区中的敌方载具并摧毁之.</Chinesesimp>
-        <Japanese>作戦区域内の敵車両を探し出し、これに破壊工作を実施せよ。</Japanese>
+        <Chinese>搜索任務區中的敵方載具並摧毀之。</Chinese>
+        <Chinesesimp>搜索任务区中的敌方载具并摧毁之。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_18">
         <Original>Sweep %1</Original>
         <Chinese>掃蕩%1</Chinese>
-        <French>Fouiller %1</French>
-        <Spanish>Peinad %1</Spanish>
-        <Italian>Perlustra %1</Italian>
-        <Polish>Przeszukaj %1</Polish>
-        <Russian>Прочешите %1</Russian>
-        <German>Durchsucht %1</German>
-        <Czech>Prohledejte %1</Czech>
-        <English>Sweep %1</English>
-        <Portuguese>Limpe %1</Portuguese>
-        <Korean>수색 #%1</Korean>
         <Chinesesimp>扫荡%1</Chinesesimp>
-        <Japanese>%1捜索</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_17">
         <Original>Exfiltrate</Original>
         <Chinese>撤離</Chinese>
-        <French>S'exfiltrer</French>
-        <Spanish>Extracción</Spanish>
-        <Italian>Procedi all'esfiltrazione</Italian>
-        <Polish>Ewakuuj się</Polish>
-        <Russian>Эвакуируйтесь</Russian>
-        <German>Exfiltrieren</German>
-        <Czech>Opusťte oblast</Czech>
-        <English>Exfiltrate</English>
-        <Portuguese>Exfiltre-se</Portuguese>
-        <Korean>퇴출</Korean>
         <Chinesesimp>撤离</Chinesesimp>
-        <Japanese>脱出</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_16">
         <Original>Team must regroup at the designated exfiltration point.</Original>
-        <Chinese>小隊成員必須在指定的撤離點會合.</Chinese>
-        <French>L'équipe doit se regrouper au point d'exfiltration indiqué.</French>
-        <Spanish>El equipo debe reagruparse en el punto de extracción designado.</Spanish>
-        <Italian>Le squadre devono raggrupparsi presso il punto di esfiltrazione indicato.</Italian>
-        <Polish>Drużyna musi przegrupować się w wyznaczonym punkcie ewakuacyjnym.</Polish>
-        <Russian>Команда должна перегруппироваться в назначенной точке эвакуации.</Russian>
-        <German>Das Team muss sich am designierten Exfiltrationspunkt versammeln.</German>
-        <Czech>Tým se musí shromáždit na určeném místě vyzvednutí.</Czech>
-        <English>Team must regroup at the designated exfiltration point.</English>
-        <Portuguese>A equipe deve reagrupar-se no ponto de exfiltração designado.</Portuguese>
-        <Korean>조는 지정 퇴출 지점에서 재그룹화해야 합니다.</Korean>
-        <Chinesesimp>小队成员必须在指定的撤离点会合.</Chinesesimp>
-        <Japanese>チームは指定の撤退地点で合流しなければならない。</Japanese>
+        <Chinese>小隊成員必須在指定的撤離點會合。</Chinese>
+        <Chinesesimp>小队成员必须在指定的撤离点会合。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_15">
         <Original>Zero Casualties</Original>
         <Chinese>零陣亡</Chinese>
-        <French>Pas de pertes</French>
-        <Spanish>Sin bajas</Spanish>
-        <Italian>No vittime</Italian>
-        <Polish>Żadnych strat</Polish>
-        <Russian>Нулевые потери</Russian>
-        <German>Keine Verluste</German>
-        <Czech>Nulové ztráty</Czech>
-        <English>Zero Casualties</English>
-        <Portuguese>Nenhuma baixa</Portuguese>
-        <Korean>사상자 제로</Korean>
         <Chinesesimp>零阵亡</Chinesesimp>
-        <Japanese>損害なし</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_14">
         <Original>Avoid casualties in your team. Injured and revived team members are not considered casualties.</Original>
-        <Chinese>避免你的小隊成員出現任何陣亡. 復甦倒地的傷兵將不會增加陣亡數.</Chinese>
-        <French>Évitez les pertes au sein de votre équipe. Les blessés et les équipiers ressuscités ne sont pas considérés comme des pertes.</French>
-        <Spanish>Evita que tu equipo sufra bajas. Los miembros del equipo heridos o reanimados no se contabilizan como bajas.</Spanish>
-        <Italian>Evita la presenza di vittime nella tua squadra. I membri feriti e rianimati non sono considerati vittime.</Italian>
-        <Polish>Unikaj strat w drużynie. Ranni i przywróceni członkowie drużyny nie są traktowani jako straty.</Polish>
-        <Russian>Избегайте потерь в своей команде. Раненые и оживленные члены команды не считаются мертвыми.</Russian>
-        <German>Vermeidet Verluste in eurem Team. Verletzte und wiederbelebte Teammitglieder zählen nicht als Verluste.</German>
-        <Czech>Vyhněte se ztrátám v týmu. Zranění a oživení členové týmu nejsou považováni za ztráty.</Czech>
-        <English>Avoid casualties in your team. Injured and revived team members are not considered casualties.</English>
-        <Portuguese>Evite baixas na sua equipe. Os membros da equipe feridos e reanimados não são considerados baixas.</Portuguese>
-        <Korean>해당 조에 사상자를 없도록 합니다. 부상당한 조원과 소생된 조원은 사상사가 아닙니다.</Korean>
-        <Chinesesimp>避免你的小队成员出现任何阵亡. 复苏倒地的伤兵将不会增加阵亡数.</Chinesesimp>
-        <Japanese>チームの損害を回避せよ。尚、負傷中および蘇生済みのチームメンバーは損害に含まれない。</Japanese>
+        <Chinese>避免你的小隊成員出現任何陣亡。復甦倒地的傷兵將不會增加陣亡數。</Chinese>
+        <Chinesesimp>避免你的小队成员出现任何阵亡。复苏倒地的伤兵将不会增加阵亡数。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_13">
         <Original>Three data terminals are located in mission area. Find them and download data from them in given order. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</Original>
-        <Chinese>有三處資料終端機被定位在任務區中. 找到他們並使用指定的順序來下載資料. 任務區被一支排級大小的FLAME準軍事部隊所把守著. 預計他們還有摩托化的援軍在離任務區5分鐘路程以內的地方待命著.</Chinese>
-        <French>Trois terminaux de données se trouvent dans la zone de mission. Trouvez-les et téléchargez leurs données dans l'ordre indiqué. La ZO est gardée par une section paramilitaire de FLAME. Des renforts motorisés se trouvent à moins de 5 minutes de la ZO.</French>
-        <Spanish>Hay tres terminales de datos en la zona de la misión. Encontradlos y descargad los datos en el orden específico. La zona de operaciones está protegida por un pelotón de paramilitares FLAME. Además, se espera que haya refuerzos motorizados a 5 minutos de la zona de operaciones.</Spanish>
-        <Italian>Nell'area della missione si trovano tre terminali dati. Trovali e scaricane i dati in un determinato ordine. L'Area delle operazioni è vigilata da un elemento paramilitare FLAME delle dimensioni di un plotone. Si attende l'arrivo di altri rinforzi motorizzati nell'arco di 5 minuti dall'Area delle operazioni. </Italian>
-        <Polish>W strefie misji znajdują się trzy terminale z danymi. Znajdź je i pobierz z nich dane w określonej kolejności. Obszaru działania strzeże formacja paramilitarna FLAME w sile plutonu. Dodatkowe posiłki zmotoryzowane mogą dotrzeć do obszaru działania w ciągu 5 minut.</Polish>
-        <Russian>Три терминала данных расположены в зоне миссии. Найдите их и загрузите данные с них в указанном порядке. Район боевых действий охраняется военизированным элементом FLAME размером со взвод. Дополнительные моторизованные подкрепления находятся в 5-минутной дальности хода от данного участка.</Russian>
-        <German>Es befinden sich drei Datenterminals im Einsatzgebiet. Findet sie und ladet die Daten in der richtigen Reihenfolge herunter. Das Einsatzgebiet wird von einer Truppe FLAME-Paramilitärs bewacht. Weitere motorisierte Verstärkungstruppen werden innerhalb des 5-Minuten-Radius des Einsatzgebietes erwartet.</German>
-        <Czech>V oblasti mise se nacházejí tři datové terminály. Najděte je a stáhněte z nich údaje v určeném pořadí. Operační oblast je hlídána četou příslušníků polovojenské organizace FLAME. Očekává se, že ve vzdálenosti 5 minut jízdy od operační oblasti jsou k dispozici další motorizované posily.</Czech>
-        <English>Three data terminals are located in mission area. Find them and download data from them in given order. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</English>
-        <Portuguese>É possível localizar-se três terminais de dados na área da missão. Encontre-os e faça o download dos dados a partir deles em uma determinada ordem. A AO está protegida por um pelotão paramilitar FLAME. Espera-se que haja outros reforços motorizados em um raio de 5 minutos da AO.</Portuguese>
-        <Korean>세개의 데이터 터미널은 임무 지역에 위치합니다. 이 터미널을 찾아 주어진 순수대로 데이터를 다운로드합니다. 작전 지역은 소대 규모의 FLAME 민병대가 지키고 있습니다. 추가 차량화 증원 병력이 작전 지역에서 5분 반경 이내에 예상됩니다.</Korean>
-        <Chinesesimp>有三处资料终端机被定位在任务区中. 找到他们并使用指定的顺序来下载资料. 任务区被一支排级大小的FLAME准军事部队所把守着. 预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着.</Chinesesimp>
-        <Japanese>3 ヵ所のデータターミナルはミッションエリア内に位置している。これらを探し出し、指定された順番にデータをダウンロードせよ。作戦区域（AO）は小隊規模の FLAME 準軍事部隊が防衛している。AO から 5 分以内の距離に他自動車化部隊が配置されている模様。</Japanese>
+        <Chinese>有三處資料終端機被定位在任務區中。找到他們並使用指定的順序來下載資料。任務區被一支排級大小的FLAME準軍事部隊所把守著。預計他們還有摩托化的援軍在離任務區5分鐘路程以內的地方待命著。</Chinese>
+        <Chinesesimp>有三处资料终端机被定位在任务区中。找到他们并使用指定的顺序来下载资料。任务区被一支排级大小的FLAME准军事部队所把守着。预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_12">
         <Original>Conduct combat patrol in the AO to search and retrieve data from data terminals.</Original>
-        <Chinese>執行戰鬥巡邏任務並從找到的終端機中下載資料.</Chinese>
-        <French>Partez en patrouille de combat sur la ZO et obtenez les données des terminaux de données.</French>
-        <Spanish>Dirigid una patrulla de combate en la zona de operaciones para buscar y recuperar los datos de las terminales de datos.</Spanish>
-        <Italian>Conduci operazioni di pattugliamento e intercettazione nell'Area delle operazioni per cercare e recuperare dati dagli appositi terminali.</Italian>
-        <Polish>Przeprowadź patrol bojowy w obszarze działania w celu wyszukania i pobrania danych z terminali.</Polish>
-        <Russian>Проведите боевое патрулирование в районе боевых действий, найдите терминалы и извлеките из них данные.</Russian>
-        <German>Führt eure Kampfpatrouille in das Einsatzgebiet, um nach den Datenterminals zu suchen und ihre Daten herunterzuladen.</German>
-        <Czech>Uskutečněte bojovou hlídku v operační oblasti a najděte a získejte údaje z datových terminálů.</Czech>
-        <English>Conduct combat patrol in the AO to search and retrieve data from data terminals.</English>
-        <Portuguese>Conduza uma patrulha de combate à AO para procurar e recuperar os dados dos terminais.</Portuguese>
-        <Korean>데이터 터미널에서 데이터를 검색 및 회수하려면 작전 지역에서 전투 정찰을 수행합니다.</Korean>
-        <Chinesesimp>执行战斗巡逻任务并从找到的终端机中下载资料.</Chinesesimp>
-        <Japanese>作戦区域内で戦闘哨戒を実施、複数のデータターミナルからデータを回収せよ。</Japanese>
+        <Chinese>執行戰鬥巡邏任務並從找到的終端機中下載資料。</Chinese>
+        <Chinesesimp>执行战斗巡逻任务并从找到的终端机中下载资料。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_11">
         <Original>- Infiltrate the marked AO and sweep it.&lt;br/&gt;- Reach terminals in given order.&lt;br/&gt;- Download data from terminals.&lt;br/&gt;- Move to the designated Exfiltration point.&lt;br/&gt;- In the event of too many team casualties, mission will be cancelled and team ordered to exfiltrate.</Original>
-        <Chinese>- 滲透並掃蕩任務區.&lt;br/&gt;- 以指定的順序訪問各終端機.&lt;br/&gt;- 從終端機上下載資料.&lt;br/&gt;- 前往指定的撤離點.&lt;br/&gt;- 在發生有過多人員傷亡的情況下, 任務會自動取消並命令小隊前往撤離點.</Chinese>
-        <French>- Infiltrez et fouillez la ZO indiquée.&lt;br/&gt;- Rendez-vous sur les terminaux dans l'ordre indiqué.&lt;br/&gt;- Téléchargez les données des terminaux.&lt;br/&gt;- Rendez-vous au point d'extraction.&lt;br/&gt;- En cas de pertes excessives, la mission sera annulée et les unités restantes devront s'exfiltrer.</French>
-        <Spanish>— Infiltraos en la zona de operaciones designada y peinadla.&lt;br/&gt;— Llegad a los terminales en el orden especificado.&lt;br/&gt;— Descargad los datos de los terminales.&lt;br/&gt;— Id hacia el punto de extracción indicado.&lt;br/&gt;— En caso de que el equipo sufra demasiadas bajas, la misión se cancelará y habrá que extraerlo.</Spanish>
-        <Italian>- Infiltrati nell'Area delle operazioni indicata e perlustrala.&lt;br/&gt;- Raggiungi i terminali nell'ordine determinato.&lt;br/&gt;- Scaricane i dati.&lt;br/&gt;- Vai verso il punto di Esfiltrazione indicato.&lt;br/&gt;-Nel caso ci siano troppe vittime, la missione sarà annullata e alla squadra verrà ordinata l'esfiltrazione.</Italian>
-        <Polish>- Przedostań się na obszar działania i przeszukaj go.&lt;br/&gt;- Dotrzyj do terminali w określonej kolejności.&lt;br/&gt;- Pobierz dane z terminali.&lt;br/&gt;- Udaj się do wyznaczonego punktu ewakuacyjnego.&lt;br/&gt;- Jeśli poniesiesz za duże straty, misja zostanie odwołana, a drużyna otrzyma rozkaz ewakuacji.</Polish>
-        <Russian>- Проникните в отмеченный район боевых действий и осмотритесь.&lt;br/&gt;- Доберитесь до терминалов в указаном порядке.&lt;br/&gt;- Загрузите данные с терминалов.&lt;br/&gt;- Отправляйтесь на обозначенную точку эвакуации.&lt;br/&gt;- В случае тяжелых потерь миссия будет отменена и вам будет приказано срочно эвакуироваться.</Russian>
-        <German>- Infiltriert und durchsucht das markierte Einsatzgebiet.&lt;br/&gt;- Erreicht die Terminals in der vorgegebenen Reihenfolge.&lt;br/&gt;- Ladet die Daten von den Terminals herunter.&lt;br/&gt;- Begebt euch zu dem designierten Exfiltrationspunkt.&lt;br/&gt;- Wenn zu viele Teammitglieder sterben, wird die Mission abgebrochen und die restlichen Teammitglieder werden zur Exfiltration aufgefordert.</German>
-        <Czech>– Infiltrujte označenou operační oblast a prohledejte ji.&lt;br/&gt;– Přesuňte se k terminálům v určeném pořadí.&lt;br/&gt;– Stáhněte údaje z terminálů.&lt;br/&gt;- Přesuňte se na označené místo vyzvednutí.&lt;br/&gt;– V případě příliš velkých ztrát bude mise zrušena a tým dostane rozkaz k opuštění oblasti.</Czech>
-        <English>- Infiltrate the marked AO and sweep it.&lt;br/&gt;- Reach terminals in given order.&lt;br/&gt;- Download data from terminals.&lt;br/&gt;- Move to the designated Exfiltration point.&lt;br/&gt;- In the event of too many team casualties, mission will be cancelled and team ordered to exfiltrate.</English>
-        <Portuguese>- Infiltre-se na AO marcada e vasculhe-a.&lt;br/&gt;- Chegue aos terminais na ordem determinada.&lt;br/&gt;- Faça o download dos dados a partir dos terminais.&lt;br/&gt;- Desloque-se para o ponto de exfiltração designado.&lt;br/&gt;- Caso a equipe tenha sofrido baixas demais, a missão será cancelada e as ordens da equipe serão de exfiltrar-se.</Portuguese>
-        <Korean>- 표시한 작전 지역을 침투하여 수색합니다.&lt;br/&gt;- 주어진 순서대로 터미널에 접근합니다.&lt;br/&gt;- 터미널에서 데이터를 다운로드합니다.&lt;br/&gt;- 지정된 퇴출 지점으로 이동합니다.&lt;br/&gt;- 팀에 사상자가 많을 경우 임무를 취소하고 팀에게 퇴출을 명령합니다.</Korean>
-        <Chinesesimp>- 渗透并扫荡任务区.&lt;br/&gt;- 以指定的顺序访问各终端机.&lt;br/&gt;- 从终端机上下载资料.&lt;br/&gt;- 前往指定的撤离点.&lt;br/&gt;- 在发生有过多人员伤亡的情况下, 任务会自动取消并命令小队前往撤离点.</Chinesesimp>
-        <Japanese>- マーキングされた作戦区域に侵入、全体を捜索する。&lt;br/&gt;- 指定の順番で各ターミナルに到達する。&lt;br/&gt;- ターミナルからデータをダウンロードする。&lt;br/&gt;- 指定された撤退地点まで移動する。&lt;br/&gt;- チームへの損害大の場合、作戦は中止されチームの脱出が命令される。</Japanese>
+        <Chinese>-滲透並掃蕩任務區。&lt;br/&gt;-以指定的順序訪問各終端機。&lt;br/&gt;-從終端機上下載資料。&lt;br/&gt;-前往指定的撤離點。&lt;br/&gt;-在發生有過多人員傷亡的情況下，任務會自動取消並命令小隊前往撤離點。</Chinese>
+        <Chinesesimp>-渗透并扫荡任务区。&lt;br/&gt;-以指定的顺序访问各终端机。&lt;br/&gt;-从终端机上下载资料。&lt;br/&gt;-前往指定的撤离点。&lt;br/&gt;-在发生有过多人员伤亡的情况下，任务会自动取消并命令小队前往撤离点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_10">
         <Original>ARGO Emergency Descent Module belonging to the Cloud Corp. has landed in the area. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</Original>
-        <Chinese>屬於Cloud公司的ARGO緊急下降艙已經落在任務區中. 該地點被一支排級大小的FLAME準軍事部隊所把守著. 預計他們還有摩托化的援軍在離任務區5分鐘路程以內的地方待命著.</Chinese>
-        <French>Le module de descente d'urgence ARGO appartenant à Cloud Corp. a atterri dans la zone. La ZO est gardée par une section paramilitaire de FLAME. Des renforts motorisés se trouvent à moins de 5 minutes de la ZO.</French>
-        <Spanish>El módulo de descenso de emergencia ARGO, que pertenece a Cloud Corp., ha aterrizado en la zona, la cual está protegida por un pelotón de paramilitares FLAME. Además, se espera que haya refuerzos motorizados a 5 minutos de la zona de operaciones.</Spanish>
-        <Italian>Il Modulo di discesa di emergenza ARGO che appartiene alla Cloud Corp. è atterrato nella zona. L'Area delle operazioni è vigilata da un elemento paramilitare FLAME delle dimensioni di un plotone. Si attende l'arrivo di altri rinforzi motorizzati nell'arco di 5 minuti dall'Area delle operazioni. </Italian>
-        <Polish>W obszarze rozbił się moduł awaryjnego lądowania ARGO należący do Cloud Corp. Obszaru działania strzeże formacja paramilitarna FLAME w sile plutonu. Dodatkowe posiłki zmotoryzowane mogą dotrzeć do obszaru działania w ciągu 5 minut.</Polish>
-        <Russian>Модуль аварийного снижения ARGO, принадлежащий Cloud Corp., приземлился в этом районе. Район боевых действий охраняется военизированным элементом FLAME размером со взвод. Дополнительные моторизованные подкрепления находятся в 5-минутной дальности хода от данного участка.</Russian>
-        <German>Das ARGO-Notlandungsmodul der Cloud Corp. ist im Einsatzgebiet gelandet. Dieses wird von einer Truppe FLAME-Paramilitärs bewacht. Weitere motorisierte Verstärkungstruppen werden innerhalb des 5-Minuten-Radius des Einsatzgebietes erwartet.</German>
-        <Czech>V oblasti přistál nouzový modul EDM ARGO patřící společnosti Cloud Corp. Operační oblast je hlídána četou příslušníků polovojenské organizace FLAME. Očekává se, že ve vzdálenosti 5 minut jízdy od operační oblasti jsou k dispozici další motorizované posily.</Czech>
-        <English>ARGO Emergency Descent Module belonging to the Cloud Corp. has landed in the area. AO is guarded by a Platoon-sized FLAME paramilitary element. Further motorized reinforcements are expected within the 5-minutes radius from the AO.</English>
-        <Portuguese>O módulo de descida de emergência de ARGO pertencente à Cloud Corp. desembarcou na área. A AO está protegida por um pelotão paramilitar FLAME. Espera-se que haja outros reforços motorizados em um raio de 5 minutos da AO.</Portuguese>
-        <Korean>Cloud Corp.소속 ARGO EDM이 이 지역에 착륙했습니다. 작전 지역은 소대 규모의 FLAME 민병대가 지키고 있습니다. 추가 차량화 증원 병력이 작전 지역에서 5분 반경 이내에 예상됩니다.</Korean>
-        <Chinesesimp>属于Cloud公司的ARGO紧急下降舱已经落在任务区中. 该地点被一支排级大小的FLAME准军事部队所把守着. 预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着.</Chinesesimp>
-        <Japanese>Cloud Corp. の所有する ARGO 緊急降下モジュールがこの区域に着陸。作戦区域（AO）は小隊規模の FLAME 準軍事部隊が防衛している。AO から 5 分以内の距離に他自動車化部隊が配置されている模様。</Japanese>
+        <Chinese>屬於Cloud公司的ARGO緊急下降艙已經落在任務區中。該地點被一支排級大小的FLAME準軍事部隊所把守著。預計他們還有摩托化的援軍在離任務區5分鐘路程以內的地方待命著。</Chinese>
+        <Chinesesimp>属于Cloud公司的ARGO紧急下降舱已经落在任务区中。该地点被一支排级大小的FLAME准军事部队所把守着。预计他们还有摩托化的援军在离任务区5分钟路程以内的地方待命着。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1">
         <Original>Combat Patrol</Original>
         <Chinese>戰鬥巡邏</Chinese>
-        <French>Combat Patrol</French>
-        <Spanish>Combat Patrol</Spanish>
-        <Italian>Combat Patrol</Italian>
-        <Polish>Combat Patrol</Polish>
-        <Russian>Combat Patrol</Russian>
-        <German>Combat Patrol</German>
-        <Czech>Combat Patrol</Czech>
-        <English>Combat Patrol</English>
-        <Portuguese>Combat Patrol</Portuguese>
-        <Korean>Combat Patrol</Korean>
         <Chinesesimp>战斗巡逻</Chinesesimp>
-        <Japanese>Combat Patrol</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_debriefing_5_subtitle">
         <Original>The team was KIA after accomplishing the mission.</Original>
-        <Chinese>小隊在完成任務後全員陣亡.</Chinese>
-        <French>L'escouade a été abattue après avoir accompli sa mission.</French>
-        <Spanish>El equipo ha muerto en combate después de completar la misión.</Spanish>
-        <Italian>La squadra è stata uccisa in combattimento dopo aver portato a termine la missione.</Italian>
-        <Polish>Drużyna zginęła w walce po wykonaniu misji.</Polish>
-        <Russian>Команда была убита в бою после выполнения миссии.</Russian>
-        <German>Das Team wurde nach dem Erfüllen der Mission im Einsatz getötet.</German>
-        <Czech>Tým byl po splnění mise zabit v akci.</Czech>
-        <English>The team was KIA after accomplishing the mission.</English>
-        <Portuguese>A equipe foi morta em ação depois de concluir a missão.  </Portuguese>
-        <Korean>임무를 완수한 조가 전사했습니다.</Korean>
-        <Chinesesimp>小队在完成任务后全员阵亡.</Chinesesimp>
-        <Japanese>チームはミッション達成後に戦死した。</Japanese>
+        <Chinese>小隊在完成任務後全員陣亡。</Chinese>
+        <Chinesesimp>小队在完成任务后全员阵亡。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_debriefing_4_title">
         <Original>Team lost</Original>
         <Chinese>全員陣亡</Chinese>
-        <French>Escouade perdue</French>
-        <Spanish>El equipo se ha perdido.</Spanish>
-        <Italian>La squadra ha perso</Italian>
-        <Polish>Drużyna zginęła</Polish>
-        <Russian>Команда потеряна</Russian>
-        <German>Das Team ist verloren</German>
-        <Czech>Tým ztracen</Czech>
-        <English>Team lost</English>
-        <Portuguese>Equipe perdida</Portuguese>
-        <Korean>조를 잃었습니다.</Korean>
         <Chinesesimp>全员阵亡</Chinesesimp>
-        <Japanese>チーム全滅</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_debriefing_4_subtitle">
         <Original>Mission failed and the whole team was KIA.</Original>
-        <Chinese>任務失敗且全隊陣亡.</Chinese>
-        <French>Échec de la mission. Toute l'escouade a été abattue.</French>
-        <Spanish>La misión ha sido un fracaso y todo el equipo ha muerto en combate.</Spanish>
-        <Italian>Missione fallita e l'intera squadra è stata uccisa in combattimento</Italian>
-        <Polish>Misja nieudana, cała drużyna zginęła w walce.</Polish>
-        <Russian>Миссия провалена, и вся команда была убита в бою.</Russian>
-        <German>Die Mission ist fehlgeschlagen und das gesamte Team wurde im Einsatz getötet.</German>
-        <Czech>Mise se nezdařila, celý tým byl zabit v akci.</Czech>
-        <English>Mission failed and the whole team was KIA.</English>
-        <Portuguese>A missão fracassou e toda a equipe foi morta em ação.</Portuguese>
-        <Korean>임무를 실패하고 조원 모두가 전사했습니다.</Korean>
-        <Chinesesimp>任务失败且全队阵亡.</Chinesesimp>
-        <Japanese>ミッションは失敗し、チーム全員が戦死した。</Japanese>
+        <Chinese>任務失敗且全隊陣亡。</Chinese>
+        <Chinesesimp>任务失败且全队阵亡。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_debriefing_3_title">
         <Original>Mission failed</Original>
         <Chinese>任務失敗</Chinese>
-        <French>Échec de la mission</French>
-        <Spanish>La misión ha sido un fracaso.</Spanish>
-        <Italian>Missione fallita</Italian>
-        <Polish>Misja nieudana</Polish>
-        <Russian>Миссия провалена</Russian>
-        <German>Mission fehlgeschlagen</German>
-        <Czech>Mise se nezdařila</Czech>
-        <English>Mission failed</English>
-        <Portuguese>Missão fracassada</Portuguese>
-        <Korean>임무를 실패했습니다</Korean>
         <Chinesesimp>任务失败</Chinesesimp>
-        <Japanese>ミッション失敗</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_debriefing_3_subtitle">
         <Original>The team failed the mission and suffered heavy losses.</Original>
-        <Chinese>任務失敗且傷亡慘重.</Chinese>
-        <French>L'escouade n'a pas réussi sa mission et a subi des pertes graves.</French>
-        <Spanish>El equipo no ha completado la misión y ha sufrido graves bajas.</Spanish>
-        <Italian>La squadra ha fallito la missione e ha subito pesanti perdite.</Italian>
-        <Polish>Drużyna nie wykonała misji i poniosła ciężkie straty.</Polish>
-        <Russian>Команда провалила задание и понесла тяжелые потери.</Russian>
-        <German>Das Team hat die Mission nicht erfüllt und schwere Verluste erlitten.</German>
-        <Czech>Tým misi nezvládl a utrpěl těžké ztráty.</Czech>
-        <English>The team failed the mission and suffered heavy losses.</English>
-        <Portuguese>A equipe fracassou na missão e sofreu grandes perdas.</Portuguese>
-        <Korean>조는 임무를 실패하고 심각한 손상으로 고통받고 있습니다.</Korean>
-        <Chinesesimp>任务失败且伤亡惨重.</Chinesesimp>
-        <Japanese>チームはミッションに失敗、多大な損害を被った。</Japanese>
+        <Chinese>任務失敗且傷亡慘重。</Chinese>
+        <Chinesesimp>任务失败且伤亡惨重。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_debriefing_2_title">
         <Original>Mission over</Original>
         <Chinese>任務終止</Chinese>
-        <French>Mission terminée</French>
-        <Spanish>Misión no superada</Spanish>
-        <Italian>Missione terminata</Italian>
-        <Polish>Misja zakończona</Polish>
-        <Russian>Конец игры</Russian>
-        <German>Mission vorbei</German>
-        <Czech>Mise u konce</Czech>
-        <English>Mission over</English>
-        <Portuguese>Missão acabada</Portuguese>
-        <Korean>임무 종료</Korean>
         <Chinesesimp>任务终止</Chinesesimp>
-        <Japanese>ミッション終了</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_debriefing_2_subtitle">
         <Original>The primary objective was not accomplished.</Original>
-        <Chinese>主要目標並未被達成.</Chinese>
-        <French>L'objectif principal n'a pas été atteint.</French>
-        <Spanish>No se ha cumplido el objetivo principal.</Spanish>
-        <Italian>L'obiettivo principale non è stato portato a termine.</Italian>
-        <Polish>Nie wykonano głównego celu.</Polish>
-        <Russian>Основная задача не была достигнута.</Russian>
-        <German>Der Hauptauftrag wurde nicht erfolgreich abgeschlossen.</German>
-        <Czech>Hlavní cíl mise nebyl dosažen.</Czech>
-        <English>The primary objective was not accomplished.</English>
-        <Portuguese>O objetivo primário não foi concluído.</Portuguese>
-        <Korean>주 목표를 완수하지 못했습니다.</Korean>
-        <Chinesesimp>主要目标并未被达成.</Chinesesimp>
-        <Japanese>主目標は達成されなかった。</Japanese>
+        <Chinese>主要目標並未被達成。</Chinese>
+        <Chinesesimp>主要目标并未被达成。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_debriefing_1_title">
         <Original>Mission completed</Original>
         <Chinese>任務完成</Chinese>
-        <French>Mission accomplie</French>
-        <Spanish>Misión completada</Spanish>
-        <Italian>Missione completata</Italian>
-        <Polish>Misja ukończona</Polish>
-        <Russian>Миссия выполнена</Russian>
-        <German>Mission erfüllt</German>
-        <Czech>Mise dokončena</Czech>
-        <English>Mission completed</English>
-        <Portuguese>Missão concluída</Portuguese>
-        <Korean>임무 완료</Korean>
         <Chinesesimp>任务完成</Chinesesimp>
-        <Japanese>ミッション完了</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_debriefing_1_subtitle">
         <Original>Flawless execution of the tasks, great work!</Original>
-        <Chinese>已完成全部目標, 幹的好!</Chinese>
-        <French>Exécution parfaite des tâches, bon boulot !</French>
-        <Spanish>Habéis completado todas las tareas a la perfección; ¡buen trabajo!</Spanish>
-        <Italian>Un'esecuzione degli incarichi davvero impeccabile. Ottimo lavoro!</Italian>
-        <Polish>Bezbłędnie zrealizowane zadania, doskonała robota!</Polish>
-        <Russian>Безупречное выполнение задач, отличная работа!</Russian>
-        <German>Makellose Durchführung der Aufträge. Großartige Arbeit!</German>
-        <Czech>Bezchybné splnění úkolů, skvělá práce!</Czech>
-        <English>Flawless execution of the tasks, great work!</English>
-        <Portuguese>Execução impecável das tarefas. Parabéns!</Portuguese>
-        <Korean>흠잡을 데 없는 임무 수행이다, 잘했다!</Korean>
-        <Chinesesimp>已完成全部目标, 干的好!</Chinesesimp>
-        <Japanese>全タスクの完遂を確認。見事だ！</Japanese>
+        <Chinese>已完成全部目標，幹的好!</Chinese>
+        <Chinesesimp>已完成全部目标，干的好!</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_location_1">
         <Original>New Le Port</Original>
         <Chinese>新港口市</Chinese>
-        <French>New Le Port</French>
-        <Spanish>New Le Port</Spanish>
-        <Italian>Nuova Le Port</Italian>
-        <Polish>New Le Port</Polish>
-        <Russian>Нью Ле Порт</Russian>
-        <German>New Le Port</German>
-        <Czech>Nový Le Port</Czech>
-        <English>New Le Port</English>
-        <Portuguese>Novo Le Port</Portuguese>
-        <Korean>뉴르포트</Korean>
         <Chinesesimp>新港口市</Chinesesimp>
-        <Japanese>ニュー・ル・ポー</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_location_2">
         <Original>Mountain Pass</Original>
         <Chinese>山道</Chinese>
-        <French>Station essence du plateau</French>
-        <Spanish>Gasolinera de la meseta</Spanish>
-        <Italian>Stazione di rifornimento Plateau</Italian>
-        <Polish>Stacja benzynowa na płaskowyżu</Polish>
-        <Russian>Нагорная заправочная станция</Russian>
-        <German>Plateau-Tankstelle</German>
-        <Czech>Benzínka na návrší</Czech>
-        <English>Mountain Pass</English>
-        <Portuguese>Estação de gás no planalto</Portuguese>
-        <Korean>고원 주유소</Korean>
         <Chinesesimp>山道</Chinesesimp>
-        <Japanese>Plateau ガソリンスタンド</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_location_3">
         <Original>MOUT Training Grounds</Original>
         <Chinese>城鎮戰訓練場</Chinese>
-        <French>Île militarisée</French>
-        <Spanish>Isla militar</Spanish>
-        <Italian>Isola militare</Italian>
-        <Polish>Wyspa wojskowa</Polish>
-        <Russian>Военный остров</Russian>
-        <German>Militärinsel</German>
-        <Czech>Vojenský ostrov</Czech>
-        <English>MOUT Training Grounds</English>
-        <Portuguese>Ilha Militar</Portuguese>
-        <Korean>군사기지 섬</Korean>
         <Chinesesimp>城镇战训练场</Chinesesimp>
-        <Japanese>軍事島</Japanese>
       </Key>
       <Key ID="str_a3_combatpatrol_location_4">
         <Original>Abandoned Base</Original>
         <Chinese>廢棄的基地</Chinese>
-        <French>Abandoned Base</French>
-        <Spanish>Abandoned Base</Spanish>
-        <Italian>Abandoned Base</Italian>
-        <Polish>Abandoned Base</Polish>
-        <Russian>Abandoned Base</Russian>
-        <German>Abandoned Base</German>
-        <Czech>Abandoned Base</Czech>
-        <English>Abandoned Base</English>
-        <Portuguese>Abandoned Base</Portuguese>
-        <Korean>Abandoned Base</Korean>
         <Chinesesimp>废弃的基地</Chinesesimp>
-        <Japanese>Abandoned Base</Japanese>
       </Key>
     </Container>
     <Container name="EscapeFromMalden">
       <Key ID="str_a3_escapefrommalden_tskescapetitle">
         <Original>Escape from Malden</Original>
         <Chinese>逃離Malden</Chinese>
-        <French>Escape from Malden</French>
-        <Spanish>Escape from Malden</Spanish>
-        <Italian>Escape from Malden</Italian>
-        <Polish>Escape from Malden</Polish>
-        <Russian>Escape from Malden</Russian>
-        <German>Escape from Malden</German>
-        <Czech>Escape from Malden</Czech>
-        <English>Escape from Malden</English>
-        <Portuguese>Escape from Malden</Portuguese>
-        <Korean>Escape from Malden</Korean>
-        <Chinesesimp>逃离Malden</Chinesesimp>
-        <Japanese>Escape from Malden</Japanese>
+        <Chinesesimp>逃离马尔登</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_respawnvigny">
         <Original>Vigny</Original>
         <Chinese>Vigny</Chinese>
-        <French>Vigny</French>
-        <Spanish>Vigny</Spanish>
-        <Italian>Vigny</Italian>
-        <Polish>Vigny</Polish>
-        <Russian>Виньи</Russian>
-        <German>Vigny</German>
-        <Czech>Vigny</Czech>
-        <English>Vigny</English>
-        <Portuguese>Vigny</Portuguese>
-        <Korean>Vigny</Korean>
-        <Chinesesimp>Vigny</Chinesesimp>
-        <Japanese>ヴィニー</Japanese>
+        <Chinesesimp>维格尼</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_overview">
         <Original>Escape from Malden by any means possible.</Original>
-        <Chinese>使用任何的手段來逃離Malden.</Chinese>
-        <French>Fuyez Malden par tous les moyens.</French>
-        <Spanish>Escapad de Malden sea como sea.</Spanish>
-        <Italian>Fuggi da Malden con ogni mezzo possibile.</Italian>
-        <Polish>Ucieknij z Malden w dowolny sposób.</Polish>
-        <Russian>Выберитесь с Мальдена любым способом.</Russian>
-        <German>Entkommt um jeden Preis aus Malden.</German>
-        <Czech>Z ostrova Malden unikněte všemi dostupnými prostředky.</Czech>
-        <English>Escape from Malden by any means possible.</English>
-        <Portuguese>Escape de Malden de qualquer jeito.</Portuguese>
-        <Korean>가능한 모든 수단을 동원해 Malden을 도망칩니다.</Korean>
-        <Chinesesimp>使用任何的手段来逃离Malden.</Chinesesimp>
-        <Japanese>あらゆる手段を尽くし、マルデンから脱出せよ。</Japanese>
+        <Chinese>使用任何的手段來逃離Malden。</Chinese>
+        <Chinesesimp>使用任何的手段来逃离马尔登岛。</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_onloadname">
         <Original>Escape from Malden</Original>
         <Chinese>逃離Malden</Chinese>
-        <French>Escape from Malden</French>
-        <Spanish>Escape from Malden</Spanish>
-        <Italian>Escape from Malden</Italian>
-        <Polish>Escape from Malden</Polish>
-        <Russian>Escape from Malden</Russian>
-        <German>Escape from Malden</German>
-        <Czech>Escape from Malden</Czech>
-        <English>Escape from Malden</English>
-        <Portuguese>Escape from Malden</Portuguese>
-        <Korean>Escape from Malden</Korean>
-        <Chinesesimp>逃离Malden</Chinesesimp>
-        <Japanese>Escape from Malden</Japanese>
+        <Chinesesimp>逃离马尔登岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_missionname">
         <Original>Escape 10 Malden</Original>
-        <Chinese>逃離 10 Malden</Chinese>
-        <French>Escape 10 Malden</French>
-        <Spanish>Escape 10 Malden</Spanish>
-        <Italian>Escape 10 Malden</Italian>
-        <Polish>Escape 10 Malden</Polish>
-        <Russian>Escape 10 Malden</Russian>
-        <German>Escape 10 Malden</German>
-        <Czech>Escape 10 Malden</Czech>
-        <English>Escape 10 Malden</English>
-        <Portuguese>Escape 10 Malden</Portuguese>
-        <Korean>Escape 10 Malden</Korean>
-        <Chinesesimp>逃离 10 Malden</Chinesesimp>
-        <Japanese>Escape 10 Malden</Japanese>
+        <Chinese>逃離10Malden</Chinese>
+        <Chinesesimp>逃离10马尔登岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_execution02">
         <Original>Commandeer a boat, helicopter, or plane and use it to evacuate. It would be a good idea to search the %2airbase%1 or %3military training centre%1. Plan carefully, however. The enemy have a strong presence at both of these locations.</Original>
-        <Chinese>徵用船隻, 直升機或是飛機來幫助你們逃離. 你們可以前往%2空軍基地%1或是%3軍事訓練中心%1來尋找有無逃離手段. 但要小心. 敵軍在那些地方都有著大量的部隊在駐守.</Chinese>
-        <French>Prenez les commandes d'un bateau, d'un hélicoptère ou d'un avion et quittez la zone. Vous trouverez des véhicules sur la %2base aérienne%1 ou sur le %3terrain de manœuvres militaires%1. Soignez votre préparation : ces lieux regorgent d'ennemis.</French>
-        <Spanish>Poneos al mando de un barco, un helicóptero o un avión y usadlo para evacuar. Sería una buena idea registrar la %2base aérea%1 o el %3centro de entrenamiento militar%1. Pero será mejor ir con cuidado, ya que el enemigo tiene una gran presencia en ambas ubicaciones.</Spanish>
-        <Italian>Sali al comando di una nave, di un elicottero o di un aeroplano e utilizza questo mezzo per evacuare. Sarebbe una buona idea perlustrare la %2base aerea%1 o il %3centro di addestramento militare%1. Pianifica tuttavia la tua strategia con attenzione: il nemico è fortemente presente in entrambe queste postazioni.</Italian>
-        <Polish>Zdobądź łódź, śmigłowiec lub samolot, aby się ewakuować. Warto przeszukać %2bazę lotniczą%1 lub %3poligon wojskowy%1. Tylko ostrożnie – oba miejsca są silnie obsadzone przez przeciwnika.</Polish>
-        <Russian>Угоните лодку, вертолет или самолет и используйте их для эвакуации. Было бы неплохо обыскать %2авиабазу%1 и %3военный учебный центр%1. Однако планируйте все тщательно. В этих местах наблюдаются крупные скопления вражеских войск.</Russian>
-        <German>Findet ein Boot, einen Helikopter oder ein Flugzeug und entkommt darin. Es wäre eine gute Idee, die %2Luftbasis%1 oder das %3Militär-Trainingszentrum%1 zu durchsuchen. Plant euer Vorgehen gut, denn der Feind hat an jedem dieser Orte eine starke Präsenz. </German>
-        <Czech>Uneste člun, vrtulník nebo letadlo a použijte ho k evakuaci. Doporučujeme prohledat %2leteckou základnu%1 nebo %3vojenský výcvikový tábor%1. Musíte však svůj postup důkladně naplánovat. Obě místa jsou obsazena velkým počtem nepřátel.</Czech>
-        <English>Commandeer a boat, helicopter, or plane and use it to evacuate. It would be a good idea to search the %2airbase%1 or %3military training centre%1. Plan carefully, however. The enemy have a strong presence at both of these locations.</English>
-        <Portuguese>Assuma o controle de um barco, um helicóptero ou um avião e use-o para evacuar. Procurar a %2base aérea%1 ou o %3centro de treinamento militar%1 pode ser uma boa ideia. No entanto, planeje com atenção. A presença do inimigo é forte em cada um desses locais.</Portuguese>
-        <Korean>보트, 헬리콥터, 비행기를 징발하여 탈출하는데 사용합니다. %2공군기지%1 또는 %3군사교육센터%1를 탐색하는 것이 좋습니다. 단, 신중하게 계획하십시오. 이 지역 모두에는 적의 주둔 병력이 깔여 있습니다.</Korean>
-        <Chinesesimp>征用船只, 直升机或是飞机来帮助你们逃离. 你们可以前往%2空军基地%1或是%3军事训练中心%1来寻找有无逃离手段. 但要小心. 敌军在那些地方都有着大量的部队在驻守.</Chinesesimp>
-        <Japanese>ボート、ヘリコプター、もしくは飛行機を奪取し、これに搭乗して脱出せよ。%2空軍基地%1および%3軍事訓練センター%1を捜索するのが得策と思われる。だがどちらの場所にも強大な敵戦力が展開中。計画には十分注意せよ。</Japanese>
+        <Chinese>徵用船隻，直升機或是飛機來幫助你們逃離。你們可以前往%2空軍基地%1或是%3軍事訓練中心%1來尋找有無逃離手段。但要小心。敵軍在那些地方都有著大量的部隊在駐守。</Chinese>
+        <Chinesesimp>征用船只，直升机或是飞机来帮助你们逃离。你们可以前往%2空军基地%1或是%3军事训练中心%1来寻找有无逃离手段。但要小心。敌军在那些地方都有着大量的部队在驻守。</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_end01desc">
         <Original>Against all odds, you managed to escape from Malden. Great work!</Original>
-        <Chinese>儘管困難重重, 你們仍設法逃離了Malden. 幹的好!</Chinese>
-        <French>Envers et contre tout, vous avez réussi à vous échapper de Malden. Bien joué !</French>
-        <Spanish>Contra todo pronóstico, ¡habéis conseguido escapar de Malden! ¡Bien hecho!</Spanish>
-        <Italian>Sei riuscito a fuggire da Malden nonostante tutto! Ottimo lavoro!</Italian>
-        <Polish>Wbrew wszelkim przeciwnościom udało Ci się uciec z Malden. Dobra robota!</Polish>
-        <Russian>Несмотря ни на что, вам удалось сбежать с Мальдена. Отличная работа!</Russian>
-        <German>Trotz aller Widrigkeiten habt ihr es geschafft, aus Malden zu entkommen. Großartige Arbeit!</German>
-        <Czech>Povedlo se vám překonat všechny překážky a uniknout z ostrova Malden. Vynikající práce!</Czech>
-        <English>Against all odds, you managed to escape from Malden. Great work!</English>
-        <Portuguese>Apesar de todas as adversidades, você conseguiu escapar de Malden. Excelente trabalho!</Portuguese>
-        <Korean>악조건을 딛고, Malden을 탈출하는 데 성공했다. 훌륭하다!</Korean>
-        <Chinesesimp>尽管困难重重, 你们仍设法逃离了Malden. 干的好!</Chinesesimp>
-        <Japanese>不利な状況にも関わらず、貴官はマルデン脱出に成功。見事だ！</Japanese>
+        <Chinese>儘管困難重重，你們仍設法逃離了Malden。幹的好!</Chinese>
+        <Chinesesimp>尽管困难重重，你们仍设法逃离了马尔登岛。干的好!</Chinesesimp>
       </Key>
     </Container>
     <Container name="ZGM">
       <Key ID="STR_A3_MasterMalden_loadName">
         <Original>Master Malden</Original>
         <Chinese>主宰Malden</Chinese>
-        <French>Master Malden</French>
-        <Spanish>Master Malden</Spanish>
-        <Italian>Master Malden</Italian>
-        <Polish>Master Malden</Polish>
-        <Russian>Master Malden</Russian>
-        <German>Master Malden</German>
-        <Czech>Master Malden</Czech>
-        <English>Master Malden</English>
-        <Portuguese>Master Malden</Portuguese>
-        <Korean>Master Malden</Korean>
-        <Chinesesimp>主宰Malden</Chinesesimp>
-        <Japanese>Master Malden</Japanese>
+        <Chinesesimp>主宰马尔登岛</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenB_loadName">
         <Original>Master Malden (NATO)</Original>
-        <Chinese>主宰Malden (北約)</Chinese>
-        <French>Master Malden (NATO)</French>
-        <Spanish>Master Malden (NATO)</Spanish>
-        <Italian>Master Malden (NATO)</Italian>
-        <Polish>Master Malden (NATO)</Polish>
-        <Russian>Master Malden (NATO)</Russian>
-        <German>Master Malden (NATO)</German>
-        <Czech>Master Malden (NATO)</Czech>
-        <English>Master Malden (NATO)</English>
-        <Portuguese>Master Malden (NATO)</Portuguese>
-        <Korean>Master Malden (NATO)</Korean>
-        <Chinesesimp>主宰Malden (北约)</Chinesesimp>
-        <Japanese>Master Malden (NATO)</Japanese>
+        <Chinese>主宰Malden(北約)</Chinese>
+        <Chinesesimp>主宰马尔登岛(北约)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenB_missionName">
         <Original>Zeus 16+2 Master Malden (NATO)</Original>
-        <Chinese>宙斯 16+2 主宰Malden (北約)</Chinese>
-        <French>Zeus 16+2 Master Malden (NATO)</French>
-        <Spanish>Zeus 16+2 Master Malden (NATO)</Spanish>
-        <Italian>Zeus 16+2 Master Malden (NATO)</Italian>
-        <Polish>Zeus 16+2 Master Malden (NATO)</Polish>
-        <Russian>Zeus 16+2 Master Malden (NATO)</Russian>
-        <German>Zeus 16+2 Master Malden (NATO)</German>
-        <Czech>Zeus 16+2 Master Malden (NATO)</Czech>
-        <English>Zeus 16+2 Master Malden (NATO)</English>
-        <Portuguese>Zeus 16+2 Master Malden (NATO)</Portuguese>
-        <Korean>Zeus 16+2 Master Malden (NATO)</Korean>
-        <Chinesesimp>宙斯 16+2 主宰Malden (北约)</Chinesesimp>
-        <Japanese>Zeus 16+2 Master Malden (NATO)</Japanese>
+        <Chinese>宙斯16+2主宰Malden(北約)</Chinese>
+        <Chinesesimp>宙斯16+2主宰马尔登岛(北约)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenO_loadName">
         <Original>Master Malden (CSAT)</Original>
-        <Chinese>主宰Malden (廣協同盟)</Chinese>
-        <French>Master Malden (CSAT)</French>
-        <Spanish>Master Malden (CSAT)</Spanish>
-        <Italian>Master Malden (CSAT)</Italian>
-        <Polish>Master Malden (CSAT)</Polish>
-        <Russian>Master Malden (CSAT)</Russian>
-        <German>Master Malden (CSAT)</German>
-        <Czech>Master Malden (CSAT)</Czech>
-        <English>Master Malden (CSAT)</English>
-        <Portuguese>Master Malden (CSAT)</Portuguese>
-        <Korean>Master Malden (CSAT)</Korean>
-        <Chinesesimp>主宰Malden (广协同盟)</Chinesesimp>
-        <Japanese>Master Malden (CSAT)</Japanese>
+        <Chinese>主宰Malden(廣協同盟)</Chinese>
+        <Chinesesimp>主宰马尔登岛(广协同盟)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenI_loadName">
         <Original>Master Malden (AAF)</Original>
-        <Chinese>主宰Malden (Altis政府軍)</Chinese>
-        <French>Master Malden (AAF)</French>
-        <Spanish>Master Malden (AAF)</Spanish>
-        <Italian>Master Malden (AAF)</Italian>
-        <Polish>Master Malden (AAF)</Polish>
-        <Russian>Master Malden (AAF)</Russian>
-        <German>Master Malden (AAF)</German>
-        <Czech>Master Malden (AAF)</Czech>
-        <English>Master Malden (AAF)</English>
-        <Portuguese>Master Malden (AAF)</Portuguese>
-        <Korean>Master Malden (AAF)</Korean>
-        <Chinesesimp>主宰Malden (Altis政府军)</Chinesesimp>
-        <Japanese>Master Malden (AAF)</Japanese>
+        <Chinese>主宰Malden(Altis政府軍)</Chinese>
+        <Chinesesimp>主宰马尔登岛(阿尔蒂斯武装力量)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMalden_missionName">
         <Original>Zeus 48+2 Master Malden</Original>
-        <Chinese>宙斯 48+2 主宰Malden</Chinese>
-        <French>Zeus 48+2 Master Malden</French>
-        <Spanish>Zeus 48+2 Master Malden</Spanish>
-        <Italian>Zeus 48+2 Master Malden</Italian>
-        <Polish>Zeus 48+2 Master Malden</Polish>
-        <Russian>Zeus 48+2 Master Malden</Russian>
-        <German>Zeus 48+2 Master Malden</German>
-        <Czech>Zeus 48+2 Master Malden</Czech>
-        <English>Zeus 48+2 Master Malden</English>
-        <Portuguese>Zeus 48+2 Master Malden</Portuguese>
-        <Korean>Zeus 48+2 Master Malden</Korean>
-        <Chinesesimp>宙斯 48+2 主宰Malden</Chinesesimp>
-        <Japanese>Zeus 48+2 Master Malden</Japanese>
+        <Chinese>宙斯48+2主宰Malden</Chinese>
+        <Chinesesimp>宙斯48+2主宰马尔登岛</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenI_missionName">
         <Original>Zeus 16+2 Master Malden (AAF)</Original>
-        <Chinese>宙斯 16+2 主宰Malden (Altis政府軍)</Chinese>
-        <French>Zeus 16+2 Master Malden (AAF)</French>
-        <Spanish>Zeus 16+2 Master Malden (AAF)</Spanish>
-        <Italian>Zeus 16+2 Master Malden (AAF)</Italian>
-        <Polish>Zeus 16+2 Master Malden (AAF)</Polish>
-        <Russian>Zeus 16+2 Master Malden (AAF)</Russian>
-        <German>Zeus 16+2 Master Malden (AAF)</German>
-        <Czech>Zeus 16+2 Master Malden (AAF)</Czech>
-        <English>Zeus 16+2 Master Malden (AAF)</English>
-        <Portuguese>Zeus 16+2 Master Malden (AAF)</Portuguese>
-        <Korean>Zeus 16+2 Master Malden (AAF)</Korean>
-        <Chinesesimp>宙斯 16+2 主宰Malden (Altis政府军)</Chinesesimp>
-        <Japanese>Zeus 16+2 Master Malden (AAF)</Japanese>
+        <Chinese>宙斯16+2主宰Malden(Altis政府軍)</Chinese>
+        <Chinesesimp>宙斯16+2主宰马尔登岛(阿尔蒂斯武装力量)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenO_missionName">
         <Original>Zeus 16+2 Master Malden (CSAT)</Original>
-        <Chinese>宙斯 16+2 主宰Malden (廣協同盟)</Chinese>
-        <French>Zeus 16+2 Master Malden (CSAT)</French>
-        <Spanish>Zeus 16+2 Master Malden (CSAT)</Spanish>
-        <Italian>Zeus 16+2 Master Malden (CSAT)</Italian>
-        <Polish>Zeus 16+2 Master Malden (CSAT)</Polish>
-        <Russian>Zeus 16+2 Master Malden (CSAT)</Russian>
-        <German>Zeus 16+2 Master Malden (CSAT)</German>
-        <Czech>Zeus 16+2 Master Malden (CSAT)</Czech>
-        <English>Zeus 16+2 Master Malden (CSAT)</English>
-        <Portuguese>Zeus 16+2 Master Malden (CSAT)</Portuguese>
-        <Korean>Zeus 16+2 Master Malden (CSAT)</Korean>
-        <Chinesesimp>宙斯 16+2 主宰Malden (广协同盟)</Chinesesimp>
-        <Japanese>Zeus 16+2 Master Malden (CSAT)</Japanese>
+        <Chinese>宙斯16+2主宰Malden(廣協同盟)</Chinese>
+        <Chinesesimp>宙斯16+2主宰马尔登岛(广协同盟)</Chinesesimp>
       </Key>
     </Container>
   </Package>

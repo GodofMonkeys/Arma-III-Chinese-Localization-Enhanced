@@ -1,12 +1,13 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: Produced from mikero's Dos Tools Dll version 5.24
-//Produced on Tue Jul 04 19:01:33 2017 : Created on Tue Jul 04 19:01:33 2017
+//DeRap: language_f_beta\config.bin
+//Produced from mikero's Dos Tools Dll version 6.44
+//'now' is Mon Apr 30 18:29:57 2018 : 'file' last modified on Fri Apr 06 01:34:49 2018
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
 
-//ndefs=13
+//(13 Enums)
 enum {
 	destructengine = 2,
 	destructdefault = 6,
@@ -23,7 +24,6 @@ enum {
 	destructbuilding = 1
 };
 
-//Class language_f_beta : config.bin{
 class CfgPatches
 {
 	class A3_Language_F_Beta
@@ -229,7 +229,7 @@ class CfgHints
 			description = "%12";
 			tip = "";
 			arguments[] = {{"str_cfgweapons_launch_mprl_short_f0"},{"STR_A3_cfgWeapons_launch_MPRL_short_Library0"}};
-			image = "\a3\ui_f\data\gui\cfg\hints\Miss_icon_ca.paa";
+			image = "\a3\ui_f\data\gui\cfg\hints\Launcher_ca.paa";
 			weapon = "launch_Titan_short_F";
 			modelScale = 0.6;
 			logicalOrder = 30;
@@ -240,7 +240,7 @@ class CfgHints
 			description = "%12";
 			tip = "";
 			arguments[] = {{"str_a3_cfgweapons_launch_mprl0"},{"str_a3_cfgweapons_launch_mprl_library0"}};
-			image = "\a3\ui_f\data\gui\cfg\hints\Miss_icon_ca.paa";
+			image = "\a3\ui_f\data\gui\cfg\hints\Launcher_ca.paa";
 			weapon = "launch_Titan_F";
 			modelScale = 0.6;
 			logicalOrder = 31;
@@ -375,4 +375,3 @@ class CfgHints
 		};
 	};
 };
-//};

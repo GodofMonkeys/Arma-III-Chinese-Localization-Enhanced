@@ -1,12 +1,13 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: Produced from mikero's Dos Tools Dll version 5.24
-//Produced on Tue Jul 04 19:23:55 2017 : Created on Tue Jul 04 19:23:55 2017
+//DeRap: language_f_jets\config.bin
+//Produced from mikero's Dos Tools Dll version 6.44
+//'now' is Mon Apr 30 18:29:57 2018 : 'file' last modified on Fri Apr 06 01:26:34 2018
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
 
-//ndefs=13
+//(13 Enums)
 enum {
 	destructengine = 2,
 	destructdefault = 6,
@@ -23,7 +24,6 @@ enum {
 	destructbuilding = 1
 };
 
-//Class language_f_jets : config.bin{
 class CfgPatches
 {
 	class A3_Language_F_Jets
@@ -141,7 +141,7 @@ class CfgHints
 			displayName = "$STR_A3_Hint_HUDs_title";
 			description = "$STR_A3_Hint_HUDs_desc";
 			tip = "";
-			arguments[] = {"format [""<img size='0.5' color = '%1' align='left' image = 'A3\Ui_F_Jets\Data\GUI\Cfg\Hints\icon_text\Hint_waterline_ca.paa'/>"",([0.15, 1.0, 0.15, 1.0] call bis_fnc_colorRGBAtoHTML)]","format [""<img size='1' color = '%1' align='left' image = 'A3\Ui_F_Jets\Data\GUI\Cfg\Hints\icon_text\Hint_FPV_ca.paa'/>"",([0.15, 1.0, 0.15, 1.0] call bis_fnc_colorRGBAtoHTML)]","format [""<img size='0.75' color = '%1' align='left' image = 'A3\Ui_F_Jets\Data\GUI\Cfg\Hints\icon_text\Hint_tgtbox_ca.paa'/>"",([0.15, 1.0, 0.15, 1.0] call bis_fnc_colorRGBAtoHTML)]"};
+			arguments[] = {"format [""<img size='0.5' color = '%1' align='left' image = 'A3\Ui_F_Jets\Data\GUI\Cfg\Hints\icon_text\Hint_waterline_ca.paa'/>"",([0.15, 1.0, 0.15, 1.0] call bis_fnc_colorRGBAtoHTML)]","format [""<img size='1' color = '%1' align='left' image = 'A3\Ui_F_Jets\Data\GUI\Cfg\Hints\icon_text\Hint_FPV_ca.paa'/>"",([0.15, 1.0, 0.15, 1.0] call bis_fnc_colorRGBAtoHTML)]","format [""<img size='1' color = '%1' align='left' image = 'A3\Ui_F_Jets\Data\GUI\Cfg\Hints\icon_text\Hint_tgtbox_ca.paa'/>"",([0.15, 1.0, 0.15, 1.0] call bis_fnc_colorRGBAtoHTML)]"};
 			image = "\a3\ui_f_jets\data\gui\cfg\hints\AircraftHUD_ca.paa";
 		};
 		class AirplaneDamage
@@ -257,4 +257,3 @@ class CfgHints
 		};
 	};
 };
-//};

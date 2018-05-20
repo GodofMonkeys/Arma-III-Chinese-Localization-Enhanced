@@ -1,0 +1,714 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
+  <Package name="Language_Tacops">
+    <Container name="Music_F">
+      <Key ID="STR_A3_cfgmusic_leadtrack01_f_tacops">
+        <Original>Tac-Ops DLC: Opening 1</Original>
+        <Chinese>Tac-OpsDLC:楔子1</Chinese>
+        <Chinesesimp>Tac-OpsDLC:开场1</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_cfgmusic_leadtrack02_f_tacops">
+        <Original>Tac-Ops DLC: Opening 2</Original>
+        <Chinese>Tac-OpsDLC:楔子2</Chinese>
+        <Chinesesimp>Tac-OpsDLC:开场2</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_cfgmusic_leadtrack03_f_tacops">
+        <Original>Tac-Ops DLC: Opening 3</Original>
+        <Chinese>Tac-OpsDLC:楔子3</Chinese>
+        <Chinesesimp>Tac-OpsDLC:开场3</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_cfgmusic_leadtrack04_f_tacops">
+        <Original>Tac-Ops DLC: Outro</Original>
+        <Chinese>Tac-OpsDLC:結局</Chinese>
+        <Chinesesimp>Tac-OpsDLC:终场</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_AmbientTrack01a_F_Tacops">
+        <Original>Tac-Ops DLC: Ambient 1a</Original>
+        <Chinese>Tac-OpsDLC:環境曲目1a</Chinese>
+        <Chinesesimp>Tac-OpsDLC:环境1a</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_AmbientTrack01b_F_Tacops">
+        <Original>Tac-Ops DLC: Ambient 1b</Original>
+        <Chinese>Tac-OpsDLC:環境曲目1b</Chinese>
+        <Chinesesimp>Tac-OpsDLC:环境1b</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_AmbientTrack02a_F_Tacops">
+        <Original>Tac-Ops DLC: Ambient 2a</Original>
+        <Chinese>Tac-OpsDLC:環境曲目2a</Chinese>
+        <Chinesesimp>Tac-OpsDLC:环境2a</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_AmbientTrack02b_F_Tacops">
+        <Original>Tac-Ops DLC: Ambient 2b</Original>
+        <Chinese>Tac-OpsDLC:環境曲目2b</Chinese>
+        <Chinesesimp>Tac-OpsDLC:环境2b</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_AmbientTrack03a_F_Tacops">
+        <Original>Tac-Ops DLC: Ambient 3a</Original>
+        <Chinese>Tac-OpsDLC:環境曲目3a</Chinese>
+        <Chinesesimp>Tac-OpsDLC:环境3a</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_AmbientTrack03b_F_Tacops">
+        <Original>Tac-Ops DLC: Ambient 3b</Original>
+        <Chinese>Tac-OpsDLC:環境曲目3b</Chinese>
+        <Chinesesimp>Tac-OpsDLC:环境3b</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_AmbientTrack04a_F_Tacops">
+        <Original>Tac-Ops DLC: Ambient 4a</Original>
+        <Chinese>Tac-OpsDLC:環境曲目4a</Chinese>
+        <Chinesesimp>Tac-OpsDLC:环境4a</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_AmbientTrack04b_F_Tacops">
+        <Original>Tac-Ops DLC: Ambient 4b</Original>
+        <Chinese>Tac-OpsDLC:環境曲目4b</Chinese>
+        <Chinesesimp>Tac-OpsDLC:环境4b</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack01a_F_Tacops">
+        <Original>Tac-Ops DLC: Fight 1a</Original>
+        <Chinese>Tac-OpsDLC:作戰1a</Chinese>
+        <Chinesesimp>Tac-OpsDLC:战斗1a</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack01b_F_Tacops">
+        <Original>Tac-Ops DLC: Fight 1b</Original>
+        <Chinese>Tac-OpsDLC:作戰1b</Chinese>
+        <Chinesesimp>Tac-OpsDLC:战斗1b</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack02a_F_Tacops">
+        <Original>Tac-Ops DLC: Fight 2a</Original>
+        <Chinese>Tac-OpsDLC:作戰2a</Chinese>
+        <Chinesesimp>Tac-OpsDLC:战斗2a</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack02b_F_Tacops">
+        <Original>Tac-Ops DLC: Fight 2b</Original>
+        <Chinese>Tac-OpsDLC:作戰2b</Chinese>
+        <Chinesesimp>Tac-OpsDLC:战斗2b</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack03a_F_Tacops">
+        <Original>Tac-Ops DLC: Fight 3a</Original>
+        <Chinese>Tac-OpsDLC:作戰3a</Chinese>
+        <Chinesesimp>Tac-OpsDLC:战斗3a</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_CfgMusic_EventTrack03b_F_Tacops">
+        <Original>Tac-Ops DLC: Fight 3b</Original>
+        <Chinese>Tac-OpsDLC:作戰3b</Chinese>
+        <Chinesesimp>Tac-OpsDLC:战斗3b</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Ui_F">
+      <Key ID="str_a3_cfgunitinsignia_csat_scimitarregiment0">
+        <Original>Scimitar Regiment</Original>
+        <Chinese>彎刀軍團</Chinese>
+        <Chinesesimp>“大弯刀”团</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfguicolors_gui_presets_presettacops0">
+        <Original>Tac-Ops</Original>
+        <Chinese>Tac-Ops</Chinese>
+        <Chinesesimp>Tac-Ops</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Characters_F">
+      <Key ID="str_a3_cfgweapons_u_o_officer_noinsignia_hex_f0">
+        <Original>Light Fatigues (Hex)</Original>
+        <Chinese>輕型戰鬥服(六邊形)</Chinese>
+        <Chinesesimp>轻便军服(蜂窝)</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Functions_F_Tacops">
+      <Key ID="str_a3_to_zoneprotection9">
+        <Original>Very Wide</Original>
+        <Chinese>非常寬</Chinese>
+        <Chinesesimp>非常宽</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_zoneprotection8">
+        <Original>Wide</Original>
+        <Chinese>寬</Chinese>
+        <Chinesesimp>宽</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_zoneprotection7">
+        <Original>Standard</Original>
+        <Chinese>標準</Chinese>
+        <Chinesesimp>标准</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_zoneprotection6">
+        <Original>Sets how wide the warning area is.</Original>
+        <Chinese>查看警戒區寬度。</Chinese>
+        <Chinesesimp>设置警戒区的宽度。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_zoneprotection5">
+        <Original>Warning Area Width</Original>
+        <Chinese>警戒區寬度</Chinese>
+        <Chinesesimp>警戒区宽度</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_zoneprotection4">
+        <Original>Code that gets executed when player is to be killed by the zone protection. If code returns true, default behavior is suppressed.</Original>
+        <Chinese>當玩家因區域保護而死時自動執行代碼。若代碼結果為真，則禁止預設行為。</Chinese>
+        <Chinesesimp>在玩家将被区域保护杀死时所执行的代码。若代码返回值为真，默认行为被禁止。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_zoneprotection3">
+        <Original>Execution Expression</Original>
+        <Chinese>執行運算式</Chinese>
+        <Chinesesimp>执行表达式</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_zoneprotection2">
+        <Original>Code that gets executed when player triggers the zone protection warning. If code returns true, default behavior is suppressed.</Original>
+        <Chinese>當玩家觸發區域保護警戒時自動執行代碼。若代碼結果為真，則禁止預設行為。</Chinese>
+        <Chinesesimp>在玩家触发区域保护警告时所执行的代码。若代码返回值为真，默认行为被禁止。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_zoneprotection1">
+        <Original>Warning Expression</Original>
+        <Chinese>警戒運算式</Chinese>
+        <Chinesesimp>警告表达式</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_hideterrainobjects9">
+        <Original>Other</Original>
+        <Chinese>其他</Chinese>
+        <Chinesesimp>其他</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_hideterrainobjects8">
+        <Original>Vegetation</Original>
+        <Chinese>植披</Chinese>
+        <Chinesesimp>植被</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_hideterrainobjects7">
+        <Original>Walls &amp; Fences</Original>
+        <Chinese>牆壁與圍籬</Chinese>
+        <Chinesesimp>墙和围栏</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_hideterrainobjects6">
+        <Original>Buildings</Original>
+        <Chinese>建築物</Chinese>
+        <Chinesesimp>建筑</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_hideterrainobjects5">
+        <Original>Objects detected: %1</Original>
+        <Chinese>已偵測物體:%1</Chinese>
+        <Chinesesimp>侦测到的对象:%1</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_hideterrainobjects4">
+        <Original>Object Types</Original>
+        <Chinese>物體種類</Chinese>
+        <Chinesesimp>对象类型</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_hideterrainobjects3">
+        <Original>****TO TRANSLATE****</Original>
+        <Chinese>****TOTRANSLATE****</Chinese>
+        <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_hideterrainobjects2">
+        <Original>Object Category Filter</Original>
+        <Chinese>物體類型篩選</Chinese>
+        <Chinesesimp>对象类别过滤</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_hideterrainobjects1">
+        <Original>Hide Terrain Objects</Original>
+        <Chinese>隱藏地形物體</Chinese>
+        <Chinesesimp>隐藏地形对象</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject9">
+        <Original>Select types of terrain objects affected by module. Other object types will be ignored.</Original>
+        <Chinese>模組可影響的地形物體種類。其他物體種類將被忽略不計。</Chinese>
+        <Chinesesimp>选择受模块所影响的地形对象的类型。其他对象类型将被忽视。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject8">
+        <Original>Object Types</Original>
+        <Chinese>物體種類</Chinese>
+        <Chinesesimp>对象类型</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject7">
+        <Original>Code executed on terrain object (referenced as _this) after edits are done. Code is executed everywhere, clients joining in progress are also supported.\n\nNote: In multiplayer scenarios, code is sent from server to each client over the network. Try to make the code as short as possible.</Original>
+        <Chinese>於編輯完成時自動執行於地形物體上之代碼(稱為as_this)。這段代碼被廣泛使用，也支援中途加入的客戶端。\n\n註記:在多人場景中，伺服器透過網路將代碼傳給各客戶端。代碼請盡可能簡短。</Chinese>
+        <Chinesesimp>在编辑完成后对地形对象(称为_this)执行的代码。代码在各处执行，也支持中途加入的客户端。\n\n备注:在多人游戏场景中，代码通过网络从服务器传输至每个客户端。设法使代码尽可能简短。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject6">
+        <Original>Global Object Init</Original>
+        <Chinese>公用物體初始值</Chinese>
+        <Chinesesimp>全球对象初始化</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject5">
+        <Original>Code executed on terrain object (referenced as _this) after edits are done. Code is executed only on server (or in single player).</Original>
+        <Chinese>於編輯完成時自動執行於地形物體上之代碼(稱為as_this)。代碼僅在伺服器上執行(或者是單人模式)。</Chinese>
+        <Chinesesimp>在编辑完成后对地形对象(称为_this)执行的代码。代码仅在服务器上(或在单人游戏中)执行。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject4">
+        <Original>Object Init</Original>
+        <Chinese>物體初始值</Chinese>
+        <Chinesesimp>对象初始化</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject3">
+        <Original>Name of global variable referencing edited terrain object.</Original>
+        <Chinese>全數變數名稱參照已編輯的地形物體。</Chinese>
+        <Chinesesimp>全球变量引用的已编辑地形对象的名称。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject23">
+        <Original>Locked</Original>
+        <Chinese>上鎖</Chinese>
+        <Chinesesimp>已锁</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject22">
+        <Original>Opened</Original>
+        <Chinese>開啟</Chinese>
+        <Chinesesimp>已开启</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject21">
+        <Original>Closed</Original>
+        <Chinese>關閉</Chinese>
+        <Chinesesimp>已关闭</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject20">
+        <Original>Hidden</Original>
+        <Chinese>隱藏</Chinese>
+        <Chinesesimp>已隐藏</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject2">
+        <Original>Object Variable Name</Original>
+        <Chinese>物體變數名稱</Chinese>
+        <Chinesesimp>对象变量名称</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject19">
+        <Original>Destroyed</Original>
+        <Chinese>毀壞</Chinese>
+        <Chinesesimp>已摧毁</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject18">
+        <Original>Damaged 1&amp;2</Original>
+        <Chinese>受損1&amp;2</Chinese>
+        <Chinesesimp>已毁坏1&amp;2</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject17">
+        <Original>Damaged 2</Original>
+        <Chinese>受損2</Chinese>
+        <Chinesesimp>已毁坏2</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject16">
+        <Original>Damaged 1</Original>
+        <Chinese>受損1</Chinese>
+        <Chinesesimp>已毁坏1</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject15">
+        <Original>Undamaged</Original>
+        <Chinese>完好</Chinese>
+        <Chinesesimp>未毁坏</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject14">
+        <Original>Set closed, locked or opened state for terrain object doors.\n\nLMB - cycle between states\nRMB - close door (reset to default state)\nLMB + Alt - open door\nLMB + Shift - lock door\nLMB + Ctrl - close door</Original>
+        <Chinese>地形物體中的門可以設為關閉、上鎖或開啟。\n\n滑鼠左鍵--循環切換各種狀態\n滑鼠右鍵--關門(恢復到預設狀態)\n滑鼠左鍵+Alt--開門\n滑鼠左鍵+Shift--鎖門\n滑鼠右鍵+Ctrl--關門</Chinese>
+        <Chinesesimp>设置地形对象门的关、锁、开状态。\n\nLMB-在各种状态之间轮流变化\nRMB-关门(重置为默认状态)\nLMB+Alt-开门\nLMB+Shift-锁门\nLMB+Ctrl-关门</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject13">
+        <Original>Doors States</Original>
+        <Chinese>門的狀態</Chinese>
+        <Chinesesimp>门状态</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject12">
+        <Original>Controls if the object can be damaged after it was edited by the module.</Original>
+        <Chinese>物體經模組修改後是否可被破壞。</Chinese>
+        <Chinesesimp>控制对象在被模块编辑之后是否可被毁坏。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject11">
+        <Original>Select damage or visibility state of selected terrain object.</Original>
+        <Chinese>切換選定地形實體的受損/能見狀態。</Chinese>
+        <Chinesesimp>选择所选地形对象的损坏或可视状态。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject10">
+        <Original>Object States</Original>
+        <Chinese>物體狀態</Chinese>
+        <Chinesesimp>对象状态</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_editterrainobject1">
+        <Original>Edit Terrain Object</Original>
+        <Chinese>編輯地形物體</Chinese>
+        <Chinesesimp>编辑地形对象</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence9">
+        <Original>Civilian Presence Position</Original>
+        <Chinese>平民出場位置</Chinese>
+        <Chinesesimp>平民存在位置</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence8">
+        <Original>Module serves as spawnpoint for Civilian Presence module. Type of civilian unit is based on scenario terrain.</Original>
+        <Chinese>模組是「平民出場」的生成點。平民的種類取決於場景的地形。</Chinese>
+        <Chinesesimp>模块作为平民存在模块的生成点使用。平民单元的类型基于场景地形而确定。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence7">
+        <Original>Civilian Presence Spawnpoint</Original>
+        <Chinese>平民出場生成點</Chinese>
+        <Chinesesimp>平民存在生成点</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence6">
+        <Original>Waypoint</Original>
+        <Chinese>定位點</Chinese>
+        <Chinesesimp>路点</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence5">
+        <Original>Cover &amp; Waypoint</Original>
+        <Chinese>掩護物體與定位點</Chinese>
+        <Chinesesimp>掩体和路点</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence4">
+        <Original>Cover</Original>
+        <Chinese>掩護物體</Chinese>
+        <Chinesesimp>掩体</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence33">
+        <Original>Draw debug lines and icons in 3D to visualize state and behavior of controlled civilians.</Original>
+        <Chinese>在3D中顯示除錯線與圖示，將控制中的平民狀態與行為視覺化。</Chinese>
+        <Chinesesimp>在3D中绘制调试线和图标，将受控平民的状态和行为可视化。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence32">
+        <Original>Debug</Original>
+        <Chinese>除錯</Chinese>
+        <Chinesesimp>调试</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence31">
+        <Original>Controls if civilians should be created as agents (units with simplified behavior) or standard units.</Original>
+        <Chinese>決定平民只是代理人(行為簡化後的單位)或是標準單位。</Chinese>
+        <Chinesesimp>控制是否应将平民创建为代理(即行为简化的单元)或标准单元。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence30">
+        <Original>Use Agents</Original>
+        <Chinese>使用代理人</Chinese>
+        <Chinesesimp>使用代理</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence3">
+        <Original>Position is used only as waypoint.</Original>
+        <Chinese>位置僅作為定位點。</Chinese>
+        <Chinesesimp>位置仅作为路点使用。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence29">
+        <Original>Controls if civilians should use 'Panic' action when fleeing from danger. This toggle was introduced to avoid issues related to 'Panic' action (animation bounding box and broken limping animations).</Original>
+        <Chinese>決定平民逃離危險時是否使用「驚慌」動作。啟動可避免「驚慌」動作造成的問題(動畫邊框與跛腳動畫中斷)</Chinese>
+        <Chinesesimp>控制平民在逃离危险时是否应使用“恐慌”动作。推出该开关是为了避免与“恐慌”动作相关的问题(动画边界框和支离破碎的动画)。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence28">
+        <Original>Controls if civilians should use 'Panic' action when fleeing from danger.</Original>
+        <Chinese>決定平民逃離危險時是否使用「驚慌」動作。</Chinese>
+        <Chinesesimp>控制平民在逃离危险时是否应使用“恐慌”动作。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence27">
+        <Original>Use Panic Action</Original>
+        <Chinese>使用「驚慌」動作</Chinese>
+        <Chinesesimp>使用恐慌动作</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence26">
+        <Original>Select how many civilian units should be created and handled by the module. Module will create 1 civilian on each 'Civilian Presence: Unit' module and then occasionally create civilian units at random to reach the population count in case units get killed or deleted.</Original>
+        <Chinese>決定模組可創造與操縱多少平民。每個「平民出場:單位」模組可創造1位平民，而後隨機創造平民單位，以防單位被殺死或刪除，直到滿足人口上限為止。</Chinese>
+        <Chinesesimp>选择模块应创建和处理多少个平民单元。模块将在每个“平民存在:单元”模块创建一位平民，随后偶尔随机创建平民单元，以便在单元被杀或被删除时使人数达到规定值。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence25">
+        <Original>Civilian Count</Original>
+        <Chinese>平民上限</Chinese>
+        <Chinesesimp>平民人数</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence24">
+        <Original>Code executed on each civilian deleted by Civilian Presence module. Unit is referenced in the code as _this.</Original>
+        <Chinese>「平民出場」模組每刪除一位平民便執行本代碼。代碼中將單位稱為_this。</Chinese>
+        <Chinesesimp>在平民存在模块删除每位平民时所执行的代码。代码中将单元称为_this。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence23">
+        <Original>Code On Unit Deleted</Original>
+        <Chinese>刪除單位之代碼</Chinese>
+        <Chinesesimp>单元被删触发代码</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence22">
+        <Original>Code executed on each civilian created by Civilian Presence module. Unit is referenced in the code as _this.</Original>
+        <Chinese>「平民出場」模組每建立一位平民便執行本代碼。代碼中將單位稱為_this。</Chinese>
+        <Chinesesimp>在平民存在模块创建每位平民时所执行的代码。代码中将单元称为_this。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence21">
+        <Original>Code On Unit Created</Original>
+        <Chinese>創造單位之代碼</Chinese>
+        <Chinesesimp>单元创建触发代码</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence20">
+        <Original>Module creates ambient civilian units and controls their 'endangered' behavior. Other 'Civilian Presence' modules extend the core behavior.</Original>
+        <Chinese>以模組創造周遭的平民單位，並操控平民遭遇危險的行為。其餘「平民出場」模組可增添基本行為。</Chinese>
+        <Chinesesimp>模块创建环境平民单元并控制其“面临危险”的行为。其他“平民存在”模块扩展了核心行为。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence2">
+        <Original>Position is used as both cover and waypoint.</Original>
+        <Chinese>位置同時是掩護物體及定位點。</Chinese>
+        <Chinesesimp>位置作为掩护和路点使用。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence19">
+        <Original>Civilian Presence</Original>
+        <Chinese>平民出場</Chinese>
+        <Chinesesimp>平民存在</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence18">
+        <Original>Is Terminal</Original>
+        <Chinese>是終端機</Chinese>
+        <Chinesesimp>为终端</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence17">
+        <Original>Civilians at this position get deleted.</Original>
+        <Chinese>在這個地點的平民會被刪除。</Chinese>
+        <Chinesesimp>在此位置的平民被删除。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence16">
+        <Original>Use Closest Building</Original>
+        <Chinese>使用最近建築物</Chinese>
+        <Chinesesimp>使用最近的建筑</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence15">
+        <Original>If there are buildings in 50m radius, the nearest one will be used as position instead.</Original>
+        <Chinese>若50公尺半徑內有建築物，將以最接近的建築物為主。</Chinese>
+        <Chinesesimp>若在50米半径内有建筑，最近的一座建筑将作为位置使用。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence14">
+        <Original>Capacity</Original>
+        <Chinese>容量</Chinese>
+        <Chinesesimp>容量</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence13">
+        <Original>Select maximum number of civilians that can use given position at any given time.</Original>
+        <Chinese>在任何時間、可使用該地點的最大平民數。</Chinese>
+        <Chinesesimp>选择在任何指定时间可使用指定位置的最大平民人数。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence12">
+        <Original>Type</Original>
+        <Chinese>種類</Chinese>
+        <Chinesesimp>类型</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence11">
+        <Original>Sets position type.</Original>
+        <Chinese>設定位置種類。</Chinese>
+        <Chinesesimp>选择位置类型</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence10">
+        <Original>Module creates a virtual cover and/or waypoint for civilians created by Civilian Presence module.</Original>
+        <Chinese>創造虛擬掩護物體及/或定位點，供「平民出場」模組建立之平民使用。</Chinese>
+        <Chinesesimp>模块为平民存在模块所创建的平民创建了一个虚拟掩体及/或路点。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_to_basiccivilianpresence1">
+        <Original>Position is used only as cover.</Original>
+        <Chinese>位置僅作為掩護物體。</Chinese>
+        <Chinesesimp>位置仅作为掩体使用。</Chinesesimp>
+      </Key>
+      <Key ID="STR_a3_to_hideTerrainObjects10">
+        <Original>Operate Locally</Original>
+        <Chinese>在本機運行</Chinese>
+        <Chinesesimp>在本地运行</Chinesesimp>
+      </Key>
+      <Key ID="STR_a3_to_hideTerrainObjects11">
+        <Original>Force the module to hide objects locally on each client. This option is recommended for MP scenarios with thousands of objects to hide, otherwise it is usually better to keep the module operating globally.</Original>
+        <Chinese>強制使模組在本機對每個用戶端隱藏物件。建議對需要隱藏數千個物件的多人遊戲場景使用此選項，否則讓模組保持全域運行往往會更好一些。</Chinese>
+        <Chinesesimp>强制使模块在本地对每个客户端隐藏对象。建议对需要隐藏数千个对象的多人游戏场景使用此选项，否则让模块保持全局运行通常会更好一些。</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Achievements">
+      <Key ID="str_a3_AchToLifeline_title">
+        <Original>Lifeline</Original>
+        <Chinese>命懸一線</Chinese>
+        <Chinesesimp>生命线</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToBeyondHope_description">
+        <Original>Completed the Beyond Hope operation.</Original>
+        <Chinese>已完成「毫無指望」行動。</Chinese>
+        <Chinesesimp>已完成“毫无希望”行动。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToSavior_title">
+        <Original>Savior</Original>
+        <Chinese>拯救者</Chinese>
+        <Chinesesimp>拯救者</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToLifeline_description">
+        <Original>Transported all injured soldiers to the LZ Blazer in the Breaking Through mission of the Steel Pegasus operation.</Original>
+        <Chinese>在“鋼鐵飛馬”行動的“突破重圍”任務中將所有受傷的士兵運送到Blazer著陸場。</Chinese>
+        <Chinesesimp>在“钢铁天马”行动的“突破”任务中将所有受伤的士兵运送到Blazer着陆区。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToSteelPegasus_title">
+        <Original>Steel Pegasus</Original>
+        <Chinese>鋼鐵飛馬</Chinese>
+        <Chinesesimp>钢铁天马</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToSavior_description">
+        <Original>Rescued both pilot and medic in the LZ Nowhere mission of the Steel Pegasus operation.</Original>
+        <Chinese>「鋼鐵飛馬」行動中，在「無枝可棲」任務成功救回飛行員與醫護兵。</Chinese>
+        <Chinesesimp>救援“钢铁天马”行动的“无处着陆”任务中的飞行员和医疗兵。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToSteelPegasus_description">
+        <Original>Completed the Steel Pegasus operation.</Original>
+        <Chinese>已完成「鋼鐵飛馬」行動。</Chinese>
+        <Chinesesimp>完成“钢铁天马”行动。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToBeyondHope_title">
+        <Original>Beyond Hope</Original>
+        <Chinese>毫無指望</Chinese>
+        <Chinesesimp>毫无希望</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToSteppingStone_title">
+        <Original>Stepping Stone</Original>
+        <Chinese>墊腳石</Chinese>
+        <Chinesesimp>垫脚石</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToSeasonedWarfighter_title">
+        <Original>Seasoned Warfighter</Original>
+        <Chinese>久經沙場</Chinese>
+        <Chinesesimp>经验丰富的战士</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToSteppingStone_description">
+        <Original>Completed the Stepping Stone operation.</Original>
+        <Chinese>已完成「墊腳石」行動。</Chinese>
+        <Chinesesimp>已完成“垫脚石”行动。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToChangingPlaces_description">
+        <Original>Completed each role of the Stepping Stone operation.</Original>
+        <Chinese>扮演過「墊腳石」行動中的所有角色。</Chinese>
+        <Chinesesimp>已完成“垫脚石”行动的每个角色。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToSeasonedWarfighter_description">
+        <Original>Completed one mission of the Stepping Stone operation without dying.</Original>
+        <Chinese>在未陣亡狀態下完成「墊腳石」行動中的任一任務。</Chinese>
+        <Chinesesimp>已完成“垫脚石”行动的一个任务且无人死亡。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToChangingPlaces_title">
+        <Original>Changing Places</Original>
+        <Chinese>易地而處</Chinese>
+        <Chinesesimp>更换地点</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToDifferentPerspective_description">
+        <Original>Completed each role of the Beyond Hope operation.</Original>
+        <Chinese>扮演過「毫無指望」行動中的所有角色。</Chinese>
+        <Chinesesimp>已完成“垫脚石”行动的每个角色。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToDifferentPerspective_title">
+        <Original>Different Perspective</Original>
+        <Chinese>不同觀點</Chinese>
+        <Chinesesimp>不同视角</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToForwardObserver_description">
+        <Original>Destroyed all APCs defending Orino by artillery strike in the Beyond Hope operation.</Original>
+        <Chinese>在「毫無指望」行動中，成功以砲擊摧毀防守Orino的所有裝甲運兵車。</Chinese>
+        <Chinesesimp>已在“毫无希望”行动中利用炮击摧毁防守Orino的所有装甲运兵车。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_AchToForwardObserver_title">
+        <Original>Forward Observer</Original>
+        <Chinese>前線觀測員</Chinese>
+        <Chinesesimp>前方观察员</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Data_F">
+      <Key ID="STR_A3_TacOps_CfgMods_tooltip">
+        <Original>Arma 3 Tac-Ops Mission Pack is now available. Click to purchase it.</Original>
+        <Chinese>Arma3Tac-Ops任務包現正發售中。點擊購買。</Chinese>
+        <Chinesesimp>Arma3Tac-Ops任务包现可供使用。点击来购买它。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_TacOps_CfgHints_PremiumTacOps_description">
+        <Original>%11%1%12 %1%2"Beyond Hope" - nine years prior to the "East Wind" conflict, civil war rages through the Republic of Altis and Stratis. %1%2"Stepping Stone" - NATO reinforcements responding to the "East Wind" crisis must first secure the strategic island of Malden. %1%2"Steel Pegasus" - during the invasion of Altis, NATO forces stage a daring air assault to open a second front. %1%2After Action Report (AAR) Videos - re-visit the operations with one of Bohemia's military consultants via in-depth videos. %1%2HoldKey function - executes a user-defined code when a key has been held down for a specified period of time. %1%2Basic Civilian Behavior - provides an Eden Editor module which enhances civilian behavior during fight scenes, and improves performance by using agent entities. %1%2Animated Briefing Framework - used for creating briefings with animated markers (resizing, non-linear moving, coloring), including a timeline function for better timing and synchronization. %1%2Official Soundtrack – listen to newly composed music tracks. %1%2Achievements - a set of extra &lt;a href='%13'&gt;Steam Achievements&lt;/a&gt;</Original>
+        <Chinese>%11%1%12%1%2「毫無指望」--時間回到「東風」衝突爆發九年前，Altis與Stratis共和國內戰劇烈。%1%2「墊腳石」--NATO增援部隊為回應「東風」危機，必須先清剿具戰略價值的小島Malden。%1%2「鋼鐵飛馬」--NATO部隊在侵攻Altis期間，安排了一次大膽的空中攻擊，拉開第二戰線。%1%2行動後報告(AAR)影片--跟著Bohemia的軍事顧問，深入回顧整場作戰。%1%2長按功能--當持續按住指定按鍵一段時間後，自動執行玩家自訂的代碼。%1%2基本平民行為--是EdenEditor中的模組，強化作戰中平民的行為，以及代理人實體的表現。%1%2動畫簡報框架--可將動畫標記(縮放、非線性移動、上色)用於製作簡報，包括時間線功能，方便校準時間與同步。%1%2原聲帶--傾聽最新譜曲製作的遊戲音樂。%1%2成就--新增多種&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
+        <Chinesesimp>%11%1%12%1%2“毫无希望”-“东风”冲突之前九年，内战席卷Altis和Stratis共和国。%1%2“垫脚石”-对“东风”危机做出反应的NATO增援部队首先必须夺取Malden的战略性岛屿。%1%2“钢铁天马”-入侵Altis期间，NATO部队展开一场猛烈的空袭，以开启第二前线。%1%2行动后报告(AAR)视频-观看深度视频，和Bohemia的一位军事顾问一起回顾军事行动。%1%2保持键功能-在指定的一段时间内按住按键时执行用户定义代码。%1%2基本平民行为-提供EdenEditor模块，优化战斗场景中的平民行为，同时通过使用代理实体提高性能。%1%2动画简报框架-用于通过动画标记(调整大小、非线性移动、着色)创建简报，包括实现更佳计时和同步的时间线功能。%1%2官方音轨-倾听最新创作的乐曲。%1%2成就-一组额外的&lt;ahref='%13'&gt;&gt;Steam成就&lt;/a&gt;</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_TacOps_CfgMods_name">
+        <Original>Arma 3 Tac-Ops</Original>
+        <Chinese>Arma3Tac-Ops</Chinese>
+        <Chinesesimp>Arma3Tac-Ops</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_TacOps_CfgMods_overviewFootnote">
+        <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Tac-Ops Mission Pack.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
+        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;這是Arma3Tac-Ops任務包的專屬內容。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打開商店頁面，了解更多資訊。&lt;t/&gt;</Chinese>
+        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容为Arma3Tac-Ops任务包专有。&lt;br/&gt;要了解更多信息，请按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打开商店页面。&lt;t/&gt;</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_TacOps_CfgMods_nameDLC">
+        <Original>Tac-Ops DLC</Original>
+        <Chinese>Tac-OpsDLC</Chinese>
+        <Chinesesimp>Tac-OpsDLC</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_TacOps_CfgMods_overview">
+        <Original>Take part in three distinct military operations and influence the course of events with the Arma 3 Tac-Ops DLC Singleplayer Mission Pack.</Original>
+        <Chinese>Arma3Tac-OpsDLC單人任務包加入三種獨特的軍事作戰行動，分別牽引著事件的走向。</Chinese>
+        <Chinesesimp>安装Arma3Tac-OpsDLC单人游戏任务包，参与三个独具特色的军事行动并影响事件进程。</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Welcome">
+      <Key ID="str_a3_rscdisplaywelcome_to_pard_footer">
+        <Original>Give 'em hell!</Original>
+        <Chinese>給敵人好看!</Chinese>
+        <Chinesesimp>让他们见鬼去吧!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list5_title">
+        <Original>Animated Briefing Framework</Original>
+        <Chinese>動畫簡報框架</Chinese>
+        <Chinesesimp>动画简报框架</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list5">
+        <Original>used for creating briefings with animated markers (resizing, non-linear moving, coloring), including a timeline function for better timing and synchronization.</Original>
+        <Chinese>可將動畫標記(縮放、非線性移動、上色)用於製作簡報，包括時間線功能，方便校準時間與同步。</Chinese>
+        <Chinesesimp>用于通过动画标记(调整大小、非线性移动、着色)创建简报，包括实现更佳计时和同步的时间线功能。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list4_title">
+        <Original>Basic Civilian Behavior</Original>
+        <Chinese>基本平民行為</Chinese>
+        <Chinesesimp>基本平民行为</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list4">
+        <Original>provides an Eden Editor module which enhances civilian behavior during fight scenes, and improves performance by using agent entities.</Original>
+        <Chinese>是EdenEditor中的模組，強化作戰中平民的行為，以及代理人實體的表現。</Chinese>
+        <Chinesesimp>提供EdenEditor模块，优化战斗场景中的平民行为，同时通过使用代理实体提高性能。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list3_title">
+        <Original>HoldKey Function</Original>
+        <Chinese>長按功能</Chinese>
+        <Chinesesimp>保持键功能</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list3">
+        <Original>executes a user-defined code when a key has been held down for a specified period of time.</Original>
+        <Chinese>當持續按住指定按鍵一段時間後，自動執行玩家自訂的代碼。</Chinese>
+        <Chinesesimp>在指定的一段时间内按住按键时执行用户定义代码。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list2_title">
+        <Original>After Action Report (AAR) Videos</Original>
+        <Chinese>行動後報告(AAR)影片</Chinese>
+        <Chinesesimp>行动后报告(AAR)视频</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list2">
+        <Original>re-visit the operations with one of Bohemia's military consultants via in-depth videos.</Original>
+        <Chinese>跟著Bohemia的軍事顧問，深入回顧整場作戰。</Chinese>
+        <Chinesesimp>观看深度视频，和Bohemia的一位军事顾问一起回顾军事行动。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list1_title">
+        <Original>3 Singleplayer Military Operations</Original>
+        <Chinese>3個單人軍事作戰行動</Chinese>
+        <Chinesesimp>3个单人游戏行动</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list1c">
+        <Original>during the invasion of Altis, NATO forces stage a daring air assault to open a second front.</Original>
+        <Chinese>NATO部隊在侵攻Altis期間，安排了一次大膽的空中攻擊，拉開第二戰線。</Chinese>
+        <Chinesesimp>在入侵阿尔蒂斯期间，北约部队策划了一次大胆的空中突击，企图开辟第二战线。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list1b">
+        <Original>NATO reinforcements responding to the "East Wind" crisis must first secure the strategic island of Malden.</Original>
+        <Chinese>NATO增援部隊為回應「東風」危機，必須先清剿具戰略價值的小島Malden。</Chinese>
+        <Chinesesimp>为解决“东风”危机而派遣的北约增援部队必须先夺取具有战略意义的马尔登岛。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc_list1a">
+        <Original>nine years prior to the "East Wind" conflict, civil war rages through the Republic of Altis and Stratis.</Original>
+        <Chinese>時間回到「東風」衝突爆發九年前，Altis與Stratis共和國內戰劇烈。</Chinese>
+        <Chinesesimp>“东风”冲突之前九年，内战正在阿尔蒂斯和斯特拉蒂斯共和国肆虐。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parc">
+        <Original>Go over all of the premium content and platform additions that Arma 3 Tac-Ops offers:</Original>
+        <Chinese>快速了解Arma3Tac-Ops的專屬內容與新增平台功能:</Chinese>
+        <Chinesesimp>浏览Arma3Tac-Ops提供的所有高级内容和平台新增功能:</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parb_footer">
+        <Original>More about Arma 3 Tac-Ops</Original>
+        <Chinese>Arma3Tac-Ops完整資訊</Chinese>
+        <Chinesesimp>更多有关Arma3Tac-Ops的内容</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parb2">
+        <Original>With the Tac-Ops Mission Pack, the goal was to deliver several unique opportunities and to enjoy premium singleplayer experiences on a stable Arma 3 platform. For that reason, the feature support remained rather light compared to previous DLC releases, which is also reflected in the price of the Mission Pack. By delivering an authentic and entertaining scenario package, we hope to please players seeking the 'classic Arma experience'.</Original>
+        <Chinese>我們發行這次Tac-Ops任務包的目的，是希望讓玩家在更穩定的Arma3平台，盡情享受單人專屬任務的各種可能。因此比起之前幾次DLC，這次的功能支援較少，這點也反應在任務包的訂價上。我們希望用擬真而有趣的場景，吸引您一同追尋「Arma經典體驗」。</Chinese>
+        <Chinesesimp>Tac-Ops任务包的目的是提供一些独特的机会，并在稳定的Arma3平台上享受高级单人游戏体验。正因如此，与之前发行的DLC游戏相比，其特性支持较弱，这一点也在任务包的价格中得到反映。通过提供兼具真实性和娱乐性的场景包，我们希望能让那些寻求“经典Arma体验”的玩家心满意足。</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_parb">
+        <Original>Along the lines of our established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;, Arma 3 Tac-Ops Mission Pack is another &lt;t color='%1'&gt;premium content collection&lt;/t&gt;, supported by free platform additions. Owners will gain unrestricted access to three distinct &lt;t color='%1'&gt;singleplayer military operations&lt;/t&gt;. These challenging, diverse, and authentic missions allow players to replay the same battle as another unit to gain a wider perspective of the operations. By purchasing the DLC you also support our further development of the Arma 3 platform for everyone!</Original>
+        <Chinese>依據我們一貫的&lt;ahref='%3'color='%2'&gt;DLC策略&lt;/a&gt;，Arma3Tac-Ops任務包一樣是&lt;tcolor='%1'&gt;專屬內容包&lt;/t&gt;，並支援免費平台更新。購買後，您就能無限遊玩三個獨特的&lt;tcolor='%1'&gt;單人軍事作戰行動&lt;/t&gt;。我們希望用這三個具挑戰性、多樣性與真實性的任務，讓您以不同作戰角色投入同一戰役的方式，更加了解行動內容。購買這款DLC，您也能為Arma3平台的長久發展貢獻心力!</Chinese>
+        <Chinesesimp>Arma3Tac-Ops任务包遵循我们确立的&lt;ahref='%3'color='%2'&gt;DLC策略&lt;/a&gt;，是另一个&lt;tcolor='%1'&gt;高级内容集合&lt;/t&gt;，由免费平台添加项支持。拥有者将能无限地制访问三个独具特色的&lt;tcolor='%1'&gt;单人游戏军事行动&lt;/t&gt;。这些任务富于挑战性，内容多样，真实感十足，可让玩家以其他单元的身份重玩同一场战斗。通过购买DLC，您还能为我们进一步开发面向所有人的Arma3平台提供支持!</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_rscdisplaywelcome_to_para">
+        <Original>Time to get tactical! &lt;t color='%1'&gt;Arma 3 Tac-Ops&lt;/t&gt; Mission Pack is now released and ready to be played! Bringing new distinctive premium content to Arma 3, players will get the opportunity to experience combat from multiple perspectives. Continue reading to learn what additions shaped up the Mission Pack!</Original>
+        <Chinese>戰略作戰的時間到了!&lt;tcolor='%1'&gt;Arma3Tac-Ops&lt;/t&gt;任務包現正發售中，任您隨時遊玩!這次的任務包除了將獨特的專屬內容加入Arma3，玩家還能以各種角度參與作戰。繼續閱讀，深入了解任務包的內容!</Chinese>
+        <Chinesesimp>该&lt;tcolor='%1'&gt;Arma3Tac-Ops&lt;/t&gt;任务包现已发布，随时可供游戏!它赋予Arma3全新独特的高级内容，玩家将有机会从多个视角体验战斗。继续阅读，以了解哪些添加项目造就了该任务包!</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
+</Project>

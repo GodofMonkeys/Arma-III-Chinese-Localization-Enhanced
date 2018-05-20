@@ -1,12 +1,13 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: Produced from mikero's Dos Tools Dll version 5.24
-//Produced on Tue Jul 04 19:27:25 2017 : Created on Tue Jul 04 19:27:25 2017
+//DeRap: language_f_kart\config.bin
+//Produced from mikero's Dos Tools Dll version 6.44
+//'now' is Mon Apr 30 18:30:08 2018 : 'file' last modified on Fri Apr 06 01:24:42 2018
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
 
-//ndefs=13
+//(13 Enums)
 enum {
 	destructengine = 2,
 	destructdefault = 6,
@@ -23,7 +24,6 @@ enum {
 	destructbuilding = 1
 };
 
-//Class language_f_kart : config.bin{
 class CfgPatches
 {
 	class A3_Language_F_Kart
@@ -146,4 +146,3 @@ class CfgHints
 		};
 	};
 };
-//};

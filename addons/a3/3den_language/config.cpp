@@ -1,12 +1,13 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: Produced from mikero's Dos Tools Dll version 5.24
-//Produced on Tue Jul 04 18:55:42 2017 : Created on Tue Jul 04 18:55:42 2017
+//DeRap: 3den_language\config.bin
+//Produced from mikero's Dos Tools Dll version 6.44
+//'now' is Mon Apr 30 18:29:57 2018 : 'file' last modified on Fri Apr 06 01:37:16 2018
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
 
-//ndefs=13
+//(13 Enums)
 enum {
 	destructengine = 2,
 	destructdefault = 6,
@@ -23,7 +24,6 @@ enum {
 	destructbuilding = 1
 };
 
-//Class 3den_language : config.bin{
 class CfgPatches
 {
 	class A3_3DEN_Language
@@ -37,4 +37,3 @@ class CfgPatches
 		weapons[] = {};
 	};
 };
-//};

@@ -1,12 +1,13 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: Produced from mikero's Dos Tools Dll version 5.24
-//Produced on Tue Jul 04 20:05:35 2017 : Created on Tue Jul 04 20:05:35 2017
+//DeRap: languagemissions_f_orange\config.bin
+//Produced from mikero's Dos Tools Dll version 6.44
+//'now' is Mon Apr 30 18:30:23 2018 : 'file' last modified on Fri Apr 06 01:23:45 2018
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
 
-//ndefs=13
+//(13 Enums)
 enum {
 	destructengine = 2,
 	destructdefault = 6,
@@ -23,18 +24,17 @@ enum {
 	destructbuilding = 1
 };
 
-//Class languagemissions_f_heli : config.bin{
 class CfgPatches
 {
-	class A3_LanguageMissions_F_Heli
+	class A3_LanguageMissions_F_Orange
 	{
 		author = "$STR_A3_Bohemia_Interactive";
-		name = "Arma 3 Helicopters - Mission Texts and Translations";
+		name = "Arma 3 Orange - Mission Texts and Translations";
 		url = "https://www.arma3.com";
-		requiredAddons[] = {"A3_Data_F_Heli"};
+		requiredAddons[] = {"A3_Data_F_Orange"};
 		requiredVersion = 0.1;
 		units[] = {};
 		weapons[] = {};
 	};
 };
-//};
+class CfgVehicles{};
