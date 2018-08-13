@@ -1,0 +1,716 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="Arma3">
+    <Package name="Language_Destroyer">
+        <Container name="Destroyer_01_Props">
+            <Key ID="STR_A3_Land_Destroyer_01_loadingBay_01_F">
+                <Original>Boat Rack</Original>
+                <Chinese>救生艇架</Chinese>
+                <French>Boat Rack</French>
+                <Spanish>Boat Rack</Spanish>
+                <Italian>Boat Rack</Italian>
+                <Polish>Boat Rack</Polish>
+                <Russian>Boat Rack</Russian>
+                <German>Boat Rack</German>
+                <Czech>Boat Rack</Czech>
+                <English>Boat Rack</English>
+                <Portuguese>Boat Rack</Portuguese>
+                <Korean>Boat Rack</Korean>
+                <Chinesesimp>救生艇架</Chinesesimp>
+                <Japanese>Boat Rack</Japanese>
+                <Turkish>Boat Rack</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_loadingBayL_01_F">
+                <Original>Boat Rack (Port Side)</Original>
+                <Chinese>救生艇架(左舷)</Chinese>
+                <French>Boat Rack (Port Side)</French>
+                <Spanish>Boat Rack (Port Side)</Spanish>
+                <Italian>Boat Rack (Port Side)</Italian>
+                <Polish>Boat Rack (Port Side)</Polish>
+                <Russian>Boat Rack (Port Side)</Russian>
+                <German>Boat Rack (Port Side)</German>
+                <Czech>Boat Rack (Port Side)</Czech>
+                <English>Boat Rack (Port Side)</English>
+                <Portuguese>Boat Rack (Port Side)</Portuguese>
+                <Korean>Boat Rack (Port Side)</Korean>
+                <Chinesesimp>救生艇架(左舷)</Chinesesimp>
+                <Japanese>Boat Rack (Port Side)</Japanese>
+                <Turkish>Boat Rack (Port Side)</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_loadingBayR_01_F">
+                <Original>Boat Rack (Starboard Side)</Original>
+                <Chinese>救生艇架（右舷）</Chinese>
+                <French>Boat Rack (Starboard Side)</French>
+                <Spanish>Boat Rack (Starboard Side)</Spanish>
+                <Italian>Boat Rack (Starboard Side)</Italian>
+                <Polish>Boat Rack (Starboard Side)</Polish>
+                <Russian>Boat Rack (Starboard Side)</Russian>
+                <German>Boat Rack (Starboard Side)</German>
+                <Czech>Boat Rack (Starboard Side)</Czech>
+                <English>Boat Rack (Starboard Side)</English>
+                <Portuguese>Boat Rack (Starboard Side)</Portuguese>
+                <Korean>Boat Rack (Starboard Side)</Korean>
+                <Chinesesimp>救生艇架（右舷）</Chinesesimp>
+                <Japanese>Boat Rack (Starboard Side)</Japanese>
+                <Turkish>Boat Rack (Starboard Side)</Turkish>
+            </Key>
+            <Key ID="STR_A3_ShipFlag_US_Name">
+                <Original>Ship Flagpole</Original>
+                <Chinese>艦船旗桿</Chinese>
+                <French>Ship Flagpole</French>
+                <Spanish>Ship Flagpole</Spanish>
+                <Italian>Ship Flagpole</Italian>
+                <Polish>Ship Flagpole</Polish>
+                <Russian>Ship Flagpole</Russian>
+                <German>Ship Flagpole</German>
+                <Czech>Ship Flagpole</Czech>
+                <English>Ship Flagpole</English>
+                <Portuguese>Ship Flagpole</Portuguese>
+                <Korean>Ship Flagpole</Korean>
+                <Chinesesimp>舰船旗杆</Chinesesimp>
+                <Japanese>Ship Flagpole</Japanese>
+                <Turkish>Ship Flagpole</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_BriefingRoomDesk_01_F">
+                <Original>Briefing Room Desk</Original>
+                <Chinese>簡報室桌子</Chinese>
+                <French>Briefing Room Desk</French>
+                <Spanish>Briefing Room Desk</Spanish>
+                <Italian>Briefing Room Desk</Italian>
+                <Polish>Briefing Room Desk</Polish>
+                <Russian>Briefing Room Desk</Russian>
+                <German>Briefing Room Desk</German>
+                <Czech>Briefing Room Desk</Czech>
+                <English>Briefing Room Desk</English>
+                <Portuguese>Briefing Room Desk</Portuguese>
+                <Korean>Briefing Room Desk</Korean>
+                <Chinesesimp>简报室桌子</Chinesesimp>
+                <Japanese>Briefing Room Desk</Japanese>
+                <Turkish>Briefing Room Desk</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_BriefingRoomScreen_01_F">
+                <Original>Briefing Room Screen</Original>
+                <Chinese>簡報室屏幕</Chinese>
+                <French>Briefing Room Screen</French>
+                <Spanish>Briefing Room Screen</Spanish>
+                <Italian>Briefing Room Screen</Italian>
+                <Polish>Briefing Room Screen</Polish>
+                <Russian>Briefing Room Screen</Russian>
+                <German>Briefing Room Screen</German>
+                <Czech>Briefing Room Screen</Czech>
+                <English>Briefing Room Screen</English>
+                <Portuguese>Briefing Room Screen</Portuguese>
+                <Korean>Briefing Room Screen</Korean>
+                <Chinesesimp>简报室屏幕</Chinesesimp>
+                <Japanese>Briefing Room Screen</Japanese>
+                <Turkish>Briefing Room Screen</Turkish>
+            </Key>
+        </Container>
+        <Container name="EDEN_Paint_Schemes">
+            <Key ID="STR_A3_VirtualGarage_BoatRack_01_Camo_01">
+                <Original>Blue</Original>
+                <Chinese>藍色</Chinese>
+                <French>Blue</French>
+                <Spanish>Blue</Spanish>
+                <Italian>Blue</Italian>
+                <Polish>Blue</Polish>
+                <Russian>Blue</Russian>
+                <German>Blue</German>
+                <Czech>Blue</Czech>
+                <English>Blue</English>
+                <Portuguese>Blue</Portuguese>
+                <Korean>Blue</Korean>
+                <Chinesesimp>蓝色</Chinesesimp>
+                <Japanese>Blue</Japanese>
+                <Turkish>Blue</Turkish>
+            </Key>
+            <Key ID="STR_A3_VirtualGarage_BoatRack_01_Camo_03">
+                <Original>Grey</Original>
+                <Chinese>灰色</Chinese>
+                <French>Grey</French>
+                <Spanish>Grey</Spanish>
+                <Italian>Grey</Italian>
+                <Polish>Grey</Polish>
+                <Russian>Grey</Russian>
+                <German>Grey</German>
+                <Czech>Grey</Czech>
+                <English>Grey</English>
+                <Portuguese>Grey</Portuguese>
+                <Korean>Grey</Korean>
+                <Chinesesimp>灰色</Chinesesimp>
+                <Japanese>Grey</Japanese>
+                <Turkish>Grey</Turkish>
+            </Key>
+            <Key ID="STR_A3_VirtualGarage_BoatRack_01_Camo_02">
+                <Original>Olive Green</Original>
+                <Chinese>橄欖綠色</Chinese>
+                <French>Olive Green</French>
+                <Spanish>Olive Green</Spanish>
+                <Italian>Olive Green</Italian>
+                <Polish>Olive Green</Polish>
+                <Russian>Olive Green</Russian>
+                <German>Olive Green</German>
+                <Czech>Olive Green</Czech>
+                <English>Olive Green</English>
+                <Portuguese>Olive Green</Portuguese>
+                <Korean>Olive Green</Korean>
+                <Chinesesimp>橄榄绿色</Chinesesimp>
+                <Japanese>Olive Green</Japanese>
+                <Turkish>Olive Green</Turkish>
+            </Key>
+            <Key ID="STR_A3_VirtualGarage_BoatRack_01_Camo_04">
+                <Original>Sports Orange</Original>
+                <Chinese>運動橙色</Chinese>
+                <French>Sports Orange</French>
+                <Spanish>Sports Orange</Spanish>
+                <Italian>Sports Orange</Italian>
+                <Polish>Sports Orange</Polish>
+                <Russian>Sports Orange</Russian>
+                <German>Sports Orange</German>
+                <Czech>Sports Orange</Czech>
+                <English>Sports Orange</English>
+                <Portuguese>Sports Orange</Portuguese>
+                <Korean>Sports Orange</Korean>
+                <Chinesesimp>运动橙色</Chinesesimp>
+                <Japanese>Sports Orange</Japanese>
+                <Turkish>Sports Orange</Turkish>
+            </Key>
+        </Container>
+        <Container name="Field_Manual_Entries">
+            <Key ID="STR_A3_Ship_Gun_01_hint_description">
+                <Original>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Original>
+                <Chinese>Mk45「大錘」120毫米艦炮為北約的海軍艦艇提供了在近距離和中等距離上的兇猛火力。這種強大的火炮既可以直瞄射擊也可以使用炮控射擊，在艦隊防禦和火力支援任務中都十分重要。這種武器通常部署在「解放」級驅逐艦上。</Chinese>
+                <French>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</French>
+                <Spanish>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Spanish>
+                <Italian>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Italian>
+                <Polish>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Polish>
+                <Russian>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Russian>
+                <German>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</German>
+                <Czech>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Czech>
+                <English>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</English>
+                <Portuguese>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Portuguese>
+                <Korean>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Korean>
+                <Chinesesimp>Mk45“大锤”120毫米舰炮为北约的海军舰艇提供了在近距离和中等距离上的凶猛火力。这种强大的火炮既可以直瞄射击也可以使用炮控射击，在舰队防御和火力支援任务中都十分重要。这种武器通常部署在“解放”级驱逐舰上。</Chinesesimp>
+                <Japanese>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Japanese>
+                <Turkish>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_DLCbrowser_description">
+                <Original>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Original>
+                <Chinese>該型艦是北約部隊的一種海上支援平台，用於為航母打擊群提供額外的支援任務。</Chinese>
+                <French>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</French>
+                <Spanish>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Spanish>
+                <Italian>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Italian>
+                <Polish>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Polish>
+                <Russian>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Russian>
+                <German>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</German>
+                <Czech>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Czech>
+                <English>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</English>
+                <Portuguese>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Portuguese>
+                <Korean>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Korean>
+                <Chinesesimp>该型舰是北约部队的一种海上支援平台，用于为航母打击群提供额外的支援任务。</Chinesesimp>
+                <Japanese>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Japanese>
+                <Turkish>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Turkish>
+            </Key>
+            <Key ID="STR_A3_Ship_Gun_01_DLCbrowser_title">
+                <Original>The Mk45 Hammer</Original>
+                <Chinese>Mk45「大錘」</Chinese>
+                <French>The Mk45 Hammer</French>
+                <Spanish>The Mk45 Hammer</Spanish>
+                <Italian>The Mk45 Hammer</Italian>
+                <Polish>The Mk45 Hammer</Polish>
+                <Russian>The Mk45 Hammer</Russian>
+                <German>The Mk45 Hammer</German>
+                <Czech>The Mk45 Hammer</Czech>
+                <English>The Mk45 Hammer</English>
+                <Portuguese>The Mk45 Hammer</Portuguese>
+                <Korean>The Mk45 Hammer</Korean>
+                <Chinesesimp>Mk45“大锤”</Chinesesimp>
+                <Japanese>The Mk45 Hammer</Japanese>
+                <Turkish>The Mk45 Hammer</Turkish>
+            </Key>
+            <Key ID="STR_A3_Ship_MRLS_01_hint_description">
+                <Original>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Original>
+                <Chinese>Mk41垂直發射系統為北約海上艦艇提供了中遠程精確打擊能力。裝載18枚MLRS導彈的該單元通常部署在「解放」級驅逐艦上。</Chinese>
+                <French>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</French>
+                <Spanish>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Spanish>
+                <Italian>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Italian>
+                <Polish>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Polish>
+                <Russian>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Russian>
+                <German>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</German>
+                <Czech>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Czech>
+                <English>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</English>
+                <Portuguese>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Portuguese>
+                <Korean>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Korean>
+                <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚MLRS导弹的该单元通常部署在“解放”级驱逐舰上。</Chinesesimp>
+                <Japanese>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Japanese>
+                <Turkish>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_DLCbrowser_title">
+                <Original>Destroyer [USS Liberty]</Original>
+                <Chinese>驅逐艦[美國海軍「解放」號]</Chinese>
+                <French>Destroyer [USS Liberty]</French>
+                <Spanish>Destroyer [USS Liberty]</Spanish>
+                <Italian>Destroyer [USS Liberty]</Italian>
+                <Polish>Destroyer [USS Liberty]</Polish>
+                <Russian>Destroyer [USS Liberty]</Russian>
+                <German>Destroyer [USS Liberty]</German>
+                <Czech>Destroyer [USS Liberty]</Czech>
+                <English>Destroyer [USS Liberty]</English>
+                <Portuguese>Destroyer [USS Liberty]</Portuguese>
+                <Korean>Destroyer [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer [USS Liberty]</Japanese>
+                <Turkish>Destroyer [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Ship_Gun_01_DLCbrowser_description">
+                <Original>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Original>
+                <Chinese>120毫米艦炮為北約海上艦艇提供了強大火力，用於「解放」級驅逐艦。</Chinese>
+                <French>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</French>
+                <Spanish>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Spanish>
+                <Italian>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Italian>
+                <Polish>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Polish>
+                <Russian>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Russian>
+                <German>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</German>
+                <Czech>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Czech>
+                <English>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</English>
+                <Portuguese>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Portuguese>
+                <Korean>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Korean>
+                <Chinesesimp>120毫米舰炮为北约海上舰艇提供了强大火力，用于“解放”级驱逐舰。</Chinesesimp>
+                <Japanese>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Japanese>
+                <Turkish>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Turkish>
+            </Key>
+            <Key ID="STR_A3_Ship_MRLS_01_DLCbrowser_title">
+                <Original>Mk41 Vertical Launch System</Original>
+                <Chinese>Mk41垂直發射系統</Chinese>
+                <French>Mk41 Vertical Launch System</French>
+                <Spanish>Mk41 Vertical Launch System</Spanish>
+                <Italian>Mk41 Vertical Launch System</Italian>
+                <Polish>Mk41 Vertical Launch System</Polish>
+                <Russian>Mk41 Vertical Launch System</Russian>
+                <German>Mk41 Vertical Launch System</German>
+                <Czech>Mk41 Vertical Launch System</Czech>
+                <English>Mk41 Vertical Launch System</English>
+                <Portuguese>Mk41 Vertical Launch System</Portuguese>
+                <Korean>Mk41 Vertical Launch System</Korean>
+                <Chinesesimp>Mk41垂直发射系统</Chinesesimp>
+                <Japanese>Mk41 Vertical Launch System</Japanese>
+                <Turkish>Mk41 Vertical Launch System</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_hint_description">
+                <Original>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Original>
+                <Chinese>美國海軍「解放」號是該級艦已生產的幾艘之一。這種強大的驅逐艦是「第14北約打擊群」的組成部分。它可以運輸部隊、裝備並收容一架直升機，從而使得戰鬥群可專心執行其主要任務。該艦長155米，寬45米，可以在近岸活動實施快速兩棲突擊。</Chinese>
+                <French>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</French>
+                <Spanish>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Spanish>
+                <Italian>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Italian>
+                <Polish>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Polish>
+                <Russian>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Russian>
+                <German>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</German>
+                <Czech>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Czech>
+                <English>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</English>
+                <Portuguese>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Portuguese>
+                <Korean>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Korean>
+                <Chinesesimp>美国海军“解放”号是该级舰已生产的几艘之一。这种强大的驱逐舰是“第14北约打击群”的组成部分。它可以运输部队、装备并收容一架直升机，从而使得战斗群可专心执行其主要任务。该舰长155米，宽45米，可以在近岸活动实施快速两栖突击。</Chinesesimp>
+                <Japanese>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Japanese>
+                <Turkish>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Turkish>
+            </Key>
+            <Key ID="STR_A3_Ship_MRLS_01_DLCbrowser_description">
+                <Original>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Original>
+                <Chinese>該導彈系統被設計用於為北約海軍艦艇提供精確打擊能力，用於「解放」級驅逐艦。</Chinese>
+                <French>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</French>
+                <Spanish>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Spanish>
+                <Italian>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Italian>
+                <Polish>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Polish>
+                <Russian>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Russian>
+                <German>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</German>
+                <Czech>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Czech>
+                <English>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</English>
+                <Portuguese>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Portuguese>
+                <Korean>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Korean>
+                <Chinesesimp>该导弹系统被设计用于为北约海军舰艇提供精确打击能力，用于“解放”级驱逐舰。</Chinesesimp>
+                <Japanese>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Japanese>
+                <Turkish>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Turkish>
+            </Key>
+            <Key ID="STR_A3_Ship_Cruise_01_hint_description">
+                <Original>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Original>
+                <Chinese>Mk41垂直發射系統為北約海上艦艇提供了中遠程精確打擊能力。裝載18枚巡航導彈的該單元通常部署在「解放」級驅逐艦上。</Chinese>
+                <French>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</French>
+                <Spanish>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Spanish>
+                <Italian>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Italian>
+                <Polish>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Polish>
+                <Russian>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Russian>
+                <German>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</German>
+                <Czech>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Czech>
+                <English>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</English>
+                <Portuguese>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Portuguese>
+                <Korean>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Korean>
+                <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚巡航导弹的该单元通常部署在“解放”级驱逐舰上。</Chinesesimp>
+                <Japanese>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Japanese>
+                <Turkish>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Turkish>
+            </Key>
+        </Container>
+        <Container name="Static_Weapon_Systems">
+            <Key ID="STR_A3_Ship_Gun_01_name">
+                <Original>Mk45 Hammer</Original>
+                <Chinese>Mk45「大錘」</Chinese>
+                <French>Mk45 Hammer</French>
+                <Spanish>Mk45 Hammer</Spanish>
+                <Italian>Mk45 Hammer</Italian>
+                <Polish>Mk45 Hammer</Polish>
+                <Russian>Mk45 Hammer</Russian>
+                <German>Mk45 Hammer</German>
+                <Czech>Mk45 Hammer</Czech>
+                <English>Mk45 Hammer</English>
+                <Portuguese>Mk45 Hammer</Portuguese>
+                <Korean>Mk45 Hammer</Korean>
+                <Chinesesimp>Mk45“大锤”</Chinesesimp>
+                <Japanese>Mk45 Hammer</Japanese>
+                <Turkish>Mk45 Hammer</Turkish>
+            </Key>
+            <Key ID="STR_A3_Ship_MRLS_01_name">
+                <Original>Mk41 VLS</Original>
+                <Chinese>Mk41垂發系統</Chinese>
+                <French>Mk41 VLS</French>
+                <Spanish>Mk41 VLS</Spanish>
+                <Italian>Mk41 VLS</Italian>
+                <Polish>Mk41 VLS</Polish>
+                <Russian>Mk41 VLS</Russian>
+                <German>Mk41 VLS</German>
+                <Czech>Mk41 VLS</Czech>
+                <English>Mk41 VLS</English>
+                <Portuguese>Mk41 VLS</Portuguese>
+                <Korean>Mk41 VLS</Korean>
+                <Chinesesimp>Mk41垂发系统</Chinesesimp>
+                <Japanese>Mk41 VLS</Japanese>
+                <Turkish>Mk41 VLS</Turkish>
+            </Key>
+        </Container>
+        <Container name="Turret_position_Names">
+            <Key ID="STR_A3_Ship_Gun_01_operator_displayName">
+                <Original>MK45 Hammer operator</Original>
+                <Chinese>MK45「大錘」炮手</Chinese>
+                <French>MK45 Hammer operator</French>
+                <Spanish>MK45 Hammer operator</Spanish>
+                <Italian>MK45 Hammer operator</Italian>
+                <Polish>MK45 Hammer operator</Polish>
+                <Russian>MK45 Hammer operator</Russian>
+                <German>MK45 Hammer operator</German>
+                <Czech>MK45 Hammer operator</Czech>
+                <English>MK45 Hammer operator</English>
+                <Portuguese>MK45 Hammer operator</Portuguese>
+                <Korean>MK45 Hammer operator</Korean>
+                <Chinesesimp>MK45“大锤”炮手</Chinesesimp>
+                <Japanese>MK45 Hammer operator</Japanese>
+                <Turkish>MK45 Hammer operator</Turkish>
+            </Key>
+            <Key ID="STR_A3_Ship_MRLS_01_operator_displayName">
+                <Original>Mk41 VLS Operator</Original>
+                <Chinese>Mk41垂發系統操作員</Chinese>
+                <French>Mk41 VLS Operator</French>
+                <Spanish>Mk41 VLS Operator</Spanish>
+                <Italian>Mk41 VLS Operator</Italian>
+                <Polish>Mk41 VLS Operator</Polish>
+                <Russian>Mk41 VLS Operator</Russian>
+                <German>Mk41 VLS Operator</German>
+                <Czech>Mk41 VLS Operator</Czech>
+                <English>Mk41 VLS Operator</English>
+                <Portuguese>Mk41 VLS Operator</Portuguese>
+                <Korean>Mk41 VLS Operator</Korean>
+                <Chinesesimp>Mk41垂发系统操作员</Chinesesimp>
+                <Japanese>Mk41 VLS Operator</Japanese>
+                <Turkish>Mk41 VLS Operator</Turkish>
+            </Key>
+        </Container>
+        <Container name="User Actions">
+            <Key ID="STR_A3_action_Recover_Boat">
+                <Original>Recover Boat</Original>
+                <Chinese>收容小艇</Chinese>
+                <French>Recover Boat</French>
+                <Spanish>Recover Boat</Spanish>
+                <Italian>Recover Boat</Italian>
+                <Polish>Recover Boat</Polish>
+                <Russian>Recover Boat</Russian>
+                <German>Recover Boat</German>
+                <Czech>Recover Boat</Czech>
+                <English>Recover Boat</English>
+                <Portuguese>Recover Boat</Portuguese>
+                <Korean>Recover Boat</Korean>
+                <Chinesesimp>收容小艇</Chinesesimp>
+                <Japanese>Recover Boat</Japanese>
+                <Turkish>Recover Boat</Turkish>
+            </Key>
+            <Key ID="STR_A3_action_Recover_Boat_Left">
+                <Original>Recover Boat (Port Side)</Original>
+                <Chinese>收容小艇（左舷）</Chinese>
+                <French>Recover Boat (Port Side)</French>
+                <Spanish>Recover Boat (Port Side)</Spanish>
+                <Italian>Recover Boat (Port Side)</Italian>
+                <Polish>Recover Boat (Port Side)</Polish>
+                <Russian>Recover Boat (Port Side)</Russian>
+                <German>Recover Boat (Port Side)</German>
+                <Czech>Recover Boat (Port Side)</Czech>
+                <English>Recover Boat (Port Side)</English>
+                <Portuguese>Recover Boat (Port Side)</Portuguese>
+                <Korean>Recover Boat (Port Side)</Korean>
+                <Chinesesimp>收容小艇（左舷）</Chinesesimp>
+                <Japanese>Recover Boat (Port Side)</Japanese>
+                <Turkish>Recover Boat (Port Side)</Turkish>
+            </Key>
+            <Key ID="STR_A3_action_Recover_Boat_Right">
+                <Original>Recover Boat (Starboard Side)</Original>
+                <Chinese>收容小艇（右舷）</Chinese>
+                <French>Recover Boat (Starboard Side)</French>
+                <Spanish>Recover Boat (Starboard Side)</Spanish>
+                <Italian>Recover Boat (Starboard Side)</Italian>
+                <Polish>Recover Boat (Starboard Side)</Polish>
+                <Russian>Recover Boat (Starboard Side)</Russian>
+                <German>Recover Boat (Starboard Side)</German>
+                <Czech>Recover Boat (Starboard Side)</Czech>
+                <English>Recover Boat (Starboard Side)</English>
+                <Portuguese>Recover Boat (Starboard Side)</Portuguese>
+                <Korean>Recover Boat (Starboard Side)</Korean>
+                <Chinesesimp>收容小艇（右舷）</Chinesesimp>
+                <Japanese>Recover Boat (Starboard Side)</Japanese>
+                <Turkish>Recover Boat (Starboard Side)</Turkish>
+            </Key>
+            <Key ID="STR_A3_action_Launch_Boat">
+                <Original>Launch Boat</Original>
+                <Chinese>釋放小艇</Chinese>
+                <French>Launch Boat</French>
+                <Spanish>Launch Boat</Spanish>
+                <Italian>Launch Boat</Italian>
+                <Polish>Launch Boat</Polish>
+                <Russian>Launch Boat</Russian>
+                <German>Launch Boat</German>
+                <Czech>Launch Boat</Czech>
+                <English>Launch Boat</English>
+                <Portuguese>Launch Boat</Portuguese>
+                <Korean>Launch Boat</Korean>
+                <Chinesesimp>释放小艇</Chinesesimp>
+                <Japanese>Launch Boat</Japanese>
+                <Turkish>Launch Boat</Turkish>
+            </Key>
+            <Key ID="STR_A3_action_Launch_Boat_Left">
+                <Original>Launch Boat (Port Side)</Original>
+                <Chinese>釋放小艇（左舷）</Chinese>
+                <French>Launch Boat (Port Side)</French>
+                <Spanish>Launch Boat (Port Side)</Spanish>
+                <Italian>Launch Boat (Port Side)</Italian>
+                <Polish>Launch Boat (Port Side)</Polish>
+                <Russian>Launch Boat (Port Side)</Russian>
+                <German>Launch Boat (Port Side)</German>
+                <Czech>Launch Boat (Port Side)</Czech>
+                <English>Launch Boat (Port Side)</English>
+                <Portuguese>Launch Boat (Port Side)</Portuguese>
+                <Korean>Launch Boat (Port Side)</Korean>
+                <Chinesesimp>释放小艇（左舷）</Chinesesimp>
+                <Japanese>Launch Boat (Port Side)</Japanese>
+                <Turkish>Launch Boat (Port Side)</Turkish>
+            </Key>
+            <Key ID="STR_A3_action_Launch_Boat_Right">
+                <Original>Launch Boat (Starboard Side)</Original>
+                <Chinese>釋放小艇（右舷）</Chinese>
+                <French>Launch Boat (Starboard Side)</French>
+                <Spanish>Launch Boat (Starboard Side)</Spanish>
+                <Italian>Launch Boat (Starboard Side)</Italian>
+                <Polish>Launch Boat (Starboard Side)</Polish>
+                <Russian>Launch Boat (Starboard Side)</Russian>
+                <German>Launch Boat (Starboard Side)</German>
+                <Czech>Launch Boat (Starboard Side)</Czech>
+                <English>Launch Boat (Starboard Side)</English>
+                <Portuguese>Launch Boat (Starboard Side)</Portuguese>
+                <Korean>Launch Boat (Starboard Side)</Korean>
+                <Chinesesimp>释放小艇（右舷）</Chinesesimp>
+                <Japanese>Launch Boat (Starboard Side)</Japanese>
+                <Turkish>Launch Boat (Starboard Side)</Turkish>
+            </Key>
+        </Container>
+        <Container name="Destroyer_01">
+            <Key ID="STR_A3_Land_Destroyer_01_Name">
+                <Original>Destroyer [USS Liberty]</Original>
+                <Chinese>驅逐艦[美國海軍「解放」號]</Chinese>
+                <French>Destroyer [USS Liberty]</French>
+                <Spanish>Destroyer [USS Liberty]</Spanish>
+                <Italian>Destroyer [USS Liberty]</Italian>
+                <Polish>Destroyer [USS Liberty]</Polish>
+                <Russian>Destroyer [USS Liberty]</Russian>
+                <German>Destroyer [USS Liberty]</German>
+                <Czech>Destroyer [USS Liberty]</Czech>
+                <English>Destroyer [USS Liberty]</English>
+                <Portuguese>Destroyer [USS Liberty]</Portuguese>
+                <Korean>Destroyer [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer [USS Liberty]</Japanese>
+                <Turkish>Destroyer [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_01_hull_00_F">
+                <Original>Destroyer [Liberty Class]</Original>
+                <Chinese>驅逐艦[「解放」級]</Chinese>
+                <French>Destroyer [Liberty Class]</French>
+                <Spanish>Destroyer [Liberty Class]</Spanish>
+                <Italian>Destroyer [Liberty Class]</Italian>
+                <Polish>Destroyer [Liberty Class]</Polish>
+                <Russian>Destroyer [Liberty Class]</Russian>
+                <German>Destroyer [Liberty Class]</German>
+                <Czech>Destroyer [Liberty Class]</Czech>
+                <English>Destroyer [Liberty Class]</English>
+                <Portuguese>Destroyer [Liberty Class]</Portuguese>
+                <Korean>Destroyer [Liberty Class]</Korean>
+                <Chinesesimp>驱逐舰[“解放”级]</Chinesesimp>
+                <Japanese>Destroyer [Liberty Class]</Japanese>
+                <Turkish>Destroyer [Liberty Class]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_hull_base_F">
+                <Original>Destroyer [USS Liberty]</Original>
+                <Chinese>驅逐艦[美國海軍「解放」號]</Chinese>
+                <French>Destroyer [USS Liberty]</French>
+                <Spanish>Destroyer [USS Liberty]</Spanish>
+                <Italian>Destroyer [USS Liberty]</Italian>
+                <Polish>Destroyer [USS Liberty]</Polish>
+                <Russian>Destroyer [USS Liberty]</Russian>
+                <German>Destroyer [USS Liberty]</German>
+                <Czech>Destroyer [USS Liberty]</Czech>
+                <English>Destroyer [USS Liberty]</English>
+                <Portuguese>Destroyer [USS Liberty]</Portuguese>
+                <Korean>Destroyer [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer [USS Liberty]</Japanese>
+                <Turkish>Destroyer [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_hull_01_F">
+                <Original>Destroyer Part [USS Liberty]</Original>
+                <Chinese>驅逐艦部件[美國海軍「解放」號]</Chinese>
+                <French>Destroyer Part [USS Liberty]</French>
+                <Spanish>Destroyer Part [USS Liberty]</Spanish>
+                <Italian>Destroyer Part [USS Liberty]</Italian>
+                <Polish>Destroyer Part [USS Liberty]</Polish>
+                <Russian>Destroyer Part [USS Liberty]</Russian>
+                <German>Destroyer Part [USS Liberty]</German>
+                <Czech>Destroyer Part [USS Liberty]</Czech>
+                <English>Destroyer Part [USS Liberty]</English>
+                <Portuguese>Destroyer Part [USS Liberty]</Portuguese>
+                <Korean>Destroyer Part [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer Part [USS Liberty]</Japanese>
+                <Turkish>Destroyer Part [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_hull_02_F">
+                <Original>Destroyer Part [USS Liberty]</Original>
+                <Chinese>驅逐艦部件[美國海軍「解放」號]</Chinese>
+                <French>Destroyer Part [USS Liberty]</French>
+                <Spanish>Destroyer Part [USS Liberty]</Spanish>
+                <Italian>Destroyer Part [USS Liberty]</Italian>
+                <Polish>Destroyer Part [USS Liberty]</Polish>
+                <Russian>Destroyer Part [USS Liberty]</Russian>
+                <German>Destroyer Part [USS Liberty]</German>
+                <Czech>Destroyer Part [USS Liberty]</Czech>
+                <English>Destroyer Part [USS Liberty]</English>
+                <Portuguese>Destroyer Part [USS Liberty]</Portuguese>
+                <Korean>Destroyer Part [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer Part [USS Liberty]</Japanese>
+                <Turkish>Destroyer Part [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_hull_03_F">
+                <Original>Destroyer Part [USS Liberty]</Original>
+                <Chinese>驅逐艦部件[美國海軍「解放」號]</Chinese>
+                <French>Destroyer Part [USS Liberty]</French>
+                <Spanish>Destroyer Part [USS Liberty]</Spanish>
+                <Italian>Destroyer Part [USS Liberty]</Italian>
+                <Polish>Destroyer Part [USS Liberty]</Polish>
+                <Russian>Destroyer Part [USS Liberty]</Russian>
+                <German>Destroyer Part [USS Liberty]</German>
+                <Czech>Destroyer Part [USS Liberty]</Czech>
+                <English>Destroyer Part [USS Liberty]</English>
+                <Portuguese>Destroyer Part [USS Liberty]</Portuguese>
+                <Korean>Destroyer Part [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer Part [USS Liberty]</Japanese>
+                <Turkish>Destroyer Part [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_hull_04_F">
+                <Original>Destroyer Part [USS Liberty]</Original>
+                <Chinese>驅逐艦部件[美國海軍「解放」號]</Chinese>
+                <French>Destroyer Part [USS Liberty]</French>
+                <Spanish>Destroyer Part [USS Liberty]</Spanish>
+                <Italian>Destroyer Part [USS Liberty]</Italian>
+                <Polish>Destroyer Part [USS Liberty]</Polish>
+                <Russian>Destroyer Part [USS Liberty]</Russian>
+                <German>Destroyer Part [USS Liberty]</German>
+                <Czech>Destroyer Part [USS Liberty]</Czech>
+                <English>Destroyer Part [USS Liberty]</English>
+                <Portuguese>Destroyer Part [USS Liberty]</Portuguese>
+                <Korean>Destroyer Part [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer Part [USS Liberty]</Japanese>
+                <Turkish>Destroyer Part [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_hull_05_F">
+                <Original>Destroyer Part [USS Liberty]</Original>
+                <Chinese>驅逐艦部件[美國海軍「解放」號]</Chinese>
+                <French>Destroyer Part [USS Liberty]</French>
+                <Spanish>Destroyer Part [USS Liberty]</Spanish>
+                <Italian>Destroyer Part [USS Liberty]</Italian>
+                <Polish>Destroyer Part [USS Liberty]</Polish>
+                <Russian>Destroyer Part [USS Liberty]</Russian>
+                <German>Destroyer Part [USS Liberty]</German>
+                <Czech>Destroyer Part [USS Liberty]</Czech>
+                <English>Destroyer Part [USS Liberty]</English>
+                <Portuguese>Destroyer Part [USS Liberty]</Portuguese>
+                <Korean>Destroyer Part [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer Part [USS Liberty]</Japanese>
+                <Turkish>Destroyer Part [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_interior_02_F">
+                <Original>Destroyer Interior [USS Liberty]</Original>
+                <Chinese>驅逐艦內部[美國海軍「解放」號]</Chinese>
+                <French>Destroyer Interior [USS Liberty]</French>
+                <Spanish>Destroyer Interior [USS Liberty]</Spanish>
+                <Italian>Destroyer Interior [USS Liberty]</Italian>
+                <Polish>Destroyer Interior [USS Liberty]</Polish>
+                <Russian>Destroyer Interior [USS Liberty]</Russian>
+                <German>Destroyer Interior [USS Liberty]</German>
+                <Czech>Destroyer Interior [USS Liberty]</Czech>
+                <English>Destroyer Interior [USS Liberty]</English>
+                <Portuguese>Destroyer Interior [USS Liberty]</Portuguese>
+                <Korean>Destroyer Interior [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰内部[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer Interior [USS Liberty]</Japanese>
+                <Turkish>Destroyer Interior [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_interior_03_F">
+                <Original>Destroyer Interior [USS Liberty]</Original>
+                <Chinese>驅逐艦內部[美國海軍「解放」號]</Chinese>
+                <French>Destroyer Interior [USS Liberty]</French>
+                <Spanish>Destroyer Interior [USS Liberty]</Spanish>
+                <Italian>Destroyer Interior [USS Liberty]</Italian>
+                <Polish>Destroyer Interior [USS Liberty]</Polish>
+                <Russian>Destroyer Interior [USS Liberty]</Russian>
+                <German>Destroyer Interior [USS Liberty]</German>
+                <Czech>Destroyer Interior [USS Liberty]</Czech>
+                <English>Destroyer Interior [USS Liberty]</English>
+                <Portuguese>Destroyer Interior [USS Liberty]</Portuguese>
+                <Korean>Destroyer Interior [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰内部[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer Interior [USS Liberty]</Japanese>
+                <Turkish>Destroyer Interior [USS Liberty]</Turkish>
+            </Key>
+            <Key ID="STR_A3_Land_Destroyer_01_interior_04_F">
+                <Original>Destroyer Interior [USS Liberty]</Original>
+                <Chinese>驅逐艦內部[美國海軍「解放」號]</Chinese>
+                <French>Destroyer Interior [USS Liberty]</French>
+                <Spanish>Destroyer Interior [USS Liberty]</Spanish>
+                <Italian>Destroyer Interior [USS Liberty]</Italian>
+                <Polish>Destroyer Interior [USS Liberty]</Polish>
+                <Russian>Destroyer Interior [USS Liberty]</Russian>
+                <German>Destroyer Interior [USS Liberty]</German>
+                <Czech>Destroyer Interior [USS Liberty]</Czech>
+                <English>Destroyer Interior [USS Liberty]</English>
+                <Portuguese>Destroyer Interior [USS Liberty]</Portuguese>
+                <Korean>Destroyer Interior [USS Liberty]</Korean>
+                <Chinesesimp>驱逐舰内部[美国海军“解放”号]</Chinesesimp>
+                <Japanese>Destroyer Interior [USS Liberty]</Japanese>
+                <Turkish>Destroyer Interior [USS Liberty]</Turkish>
+            </Key>
+        </Container>
+    </Package>
+</Project>

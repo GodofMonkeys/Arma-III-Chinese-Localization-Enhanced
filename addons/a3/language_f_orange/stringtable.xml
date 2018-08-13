@@ -3413,8 +3413,8 @@
 			</Key>
 			<Key ID="str_a3_orange_cfghints_minesweep_description">
 				<Original>Nearby &lt;t %5&gt;mines&lt;/5&gt; can be &lt;t %5&gt;detected&lt;/t&gt; by &lt;t %5&gt;moving slowly&lt;/t&gt; and carefully &lt;t %5&gt;looking around&lt;/t&gt; you. %14 Having a &lt;t %5&gt;Mine Detector&lt;/t&gt; in your inventory will locate even well-hidden mines in your vicinity. Audio cues may alert you to such threats.%1%2Use %11 or %12 to bring up the Mines info panel to see approximate mine locations and identified mines.%1%2Carefully approach, look at, and identify unknown mines using %13.%1Depending on difficulty options, known mines are marked &lt;img size='1' %15 image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa' /&gt;.</Original>
-				<Chinese>附近的&lt;t%5&gt;地雷&lt;/5&gt;可以被&lt;t%5&gt;探測到&lt;/t&gt;，方法是&lt;t%5&gt;慢慢移動&lt;/t&gt;，小心&lt;t%5&gt;查看四周&lt;/t&gt;環境。%14如果在裝備中有&lt;t%5&gt;地雷探測器&lt;/t&gt;將探測到你周圍哪怕最隱蔽的地雷。聲音音調將提醒你此類威脅的存在。%1%2使用%11或%12來顯示地雷信息面板，以查看近似地雷位置和被識別的地雷。%1%2小心接近，查看並按%13辨識地雷。%1根據難度選項，已知的地雷會被標注為&lt;imgsize='1'%15image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca。paa'/&gt;。</Chinese>
-				<Chinesesimp>附近的&lt;t%5&gt;地雷&lt;/5&gt;可以被&lt;t%5&gt;探测到&lt;/t&gt;，方法是&lt;t%5&gt;慢慢移动&lt;/t&gt;，小心&lt;t%5&gt;查看四周&lt;/t&gt;环境。%14如果在装备中有&lt;t%5&gt;地雷探测器&lt;/t&gt;将探测到你周围哪怕最隐蔽的地雷。声音音调将提醒你此类威胁的存在。%1%2使用%11或%12来显示地雷信息面板，以查看近似地雷位置和被识别的地雷。%1%2小心接近，查看并按%13辨识地雷。%1根据难度选项，已知的地雷会被标注为&lt;imgsize='1'%15image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca。paa'/&gt;。</Chinesesimp>
+				<Chinese>附近的&lt;t%5&gt;地雷&lt;/5&gt;可以被&lt;t%5&gt;探測到&lt;/t&gt;，方法是&lt;t%5&gt;慢慢移動&lt;/t&gt;，小心&lt;t%5&gt;查看四周&lt;/t&gt;環境。%14如果在裝備中有&lt;t%5&gt;地雷探測器&lt;/t&gt;將探測到你周圍哪怕最隱蔽的地雷。聲音音調將提醒你此類威脅的存在。%1%2使用%11或%12來顯示地雷信息面板，以查看近似地雷位置和被識別的地雷。%1%2小心接近，查看並按%13辨識地雷。%1根據難度選項，已知的地雷會被標注為&lt;imgsize='1'%15image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa'/&gt;。</Chinese>
+				<Chinesesimp>附近的&lt;t%5&gt;地雷&lt;/5&gt;可以被&lt;t%5&gt;探测到&lt;/t&gt;，方法是&lt;t%5&gt;慢慢移动&lt;/t&gt;，小心&lt;t%5&gt;查看四周&lt;/t&gt;环境。%14如果在装备中有&lt;t%5&gt;地雷探测器&lt;/t&gt;将探测到你周围哪怕最隐蔽的地雷。声音音调将提醒你此类威胁的存在。%1%2使用%11或%12来显示地雷信息面板，以查看近似地雷位置和被识别的地雷。%1%2小心接近，查看并按%13辨识地雷。%1根据难度选项，已知的地雷会被标注为&lt;imgsize='1'%15image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa'/&gt;。</Chinesesimp>
 			</Key>
 			<Key ID="str_a3_orange_cfghints_minesweep_arg14">
 				<Original>Mines may be harder to spot at night, from vehicles, or in bushes and grass. Some units have received training to be more adept at visual identification.</Original>
@@ -3698,8 +3698,8 @@
 			</Key>
 			<Key ID="str_a3_orange_cfghints_combatmodes_description">
 				<Original>%12%1%2%13%1%2%14%1%2%15%1%1The available combat modes are:%1%2&lt;t %5&gt;Open fire&lt;/t&gt; - units will fire at any suitable target in range%1%2&lt;t %5&gt;Hold fire&lt;/t&gt; &lt;img size='1' %11 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa' /&gt; - units will not fire at will, unless explicitly ordered to do so%1%2&lt;t %5&gt;Fire&lt;/t&gt; - units will eliminate only assigned targets</Original>
-				<Chinese>%12%1%2%13%1%2%14%1%2%15%1%1可用的戰鬥模式包括:%1%2&lt;t%5&gt;允許開火&lt;/t&gt;——單位會向任何射程內適當的目標開火%1%2&lt;t%5&gt;停止開火&lt;/t&gt;&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca。paa'/&gt;——單位不會自由開火，除非被下達命令%1%2&lt;t%5&gt;開火&lt;/t&gt;——單位會開火但只消滅被賦予的目標。</Chinese>
-				<Chinesesimp>%12%1%2%13%1%2%14%1%2%15%1%1可用的战斗模式包括:%1%2&lt;t%5&gt;允许开火&lt;/t&gt;——单位会向任何射程内适当的目标开火%1%2&lt;t%5&gt;停止开火&lt;/t&gt;&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca。paa'/&gt;——单位不会自由开火，除非被下达命令%1%2&lt;t%5&gt;开火&lt;/t&gt;——单位会开火但只消灭被赋予的目标。</Chinesesimp>
+				<Chinese>%12%1%2%13%1%2%14%1%2%15%1%1可用的戰鬥模式包括:%1%2&lt;t%5&gt;允許開火&lt;/t&gt;——單位會向任何射程內適當的目標開火%1%2&lt;t%5&gt;停止開火&lt;/t&gt;&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;——單位不會自由開火，除非被下達命令%1%2&lt;t%5&gt;開火&lt;/t&gt;——單位會開火但只消滅被賦予的目標。</Chinese>
+				<Chinesesimp>%12%1%2%13%1%2%14%1%2%15%1%1可用的战斗模式包括:%1%2&lt;t%5&gt;允许开火&lt;/t&gt;——单位会向任何射程内适当的目标开火%1%2&lt;t%5&gt;停止开火&lt;/t&gt;&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;——单位不会自由开火，除非被下达命令%1%2&lt;t%5&gt;开火&lt;/t&gt;——单位会开火但只消灭被赋予的目标。</Chinesesimp>
 			</Key>
 			<Key ID="str_a3_orange_cfghints_combatmodes_arg15">
 				<Original>Select the desired mode from the list.</Original>
@@ -3823,18 +3823,18 @@
 			</Key>
 			<Key ID="str_a3_orange_cfghints_disarm">
 				<Original>To deactivate an explosive, you have to be a specialist, such as an %3Explosive / EOD Specialist%4 or an %3Engineer%4, and have a %3Toolkit%4.%1%2You may have to manually reveal %12 the explosive first.%1%2Crawl %11 to the explosive.%1%2Select %3Deactivate%4&lt;img size='1' %5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa' /&gt; from the action menu.%1WARNING: if you don't approach the explosive carefully in a prone position, it may detonate.</Original>
-				<Chinese>為拆除炸彈，你需要是專業人士，諸如%3爆破專業兵或排爆專家%4或%3工兵%4，並有一個%3工具包%4。%1%2你可能首先需要人工發現%12炸彈。%1%2爬向%11炸彈。%1%2從動作菜單中選擇%3「拆除」%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca。paa'/&gt;。%1警告:如果你不小心地以臥姿向炸彈移動，它就可能爆炸。</Chinese>
-				<Chinesesimp>为拆除炸弹，你需要是专业人士，诸如%3爆破专业兵或排爆专家%4或%3工兵%4，并有一个%3工具包%4。%1%2你可能首先需要人工发现%12炸弹。%1%2爬向%11炸弹。%1%2从动作菜单中选择%3“拆除”%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca。paa'/&gt;。%1警告:如果你不小心地以卧姿向炸弹移动，它就可能爆炸。</Chinesesimp>
+				<Chinese>為拆除炸彈，你需要是專業人士，諸如%3爆破專業兵或排爆專家%4或%3工兵%4，並有一個%3工具包%4。%1%2你可能首先需要人工發現%12炸彈。%1%2爬向%11炸彈。%1%2從動作菜單中選擇%3「拆除」%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你不小心地以臥姿向炸彈移動，它就可能爆炸。</Chinese>
+				<Chinesesimp>为拆除炸弹，你需要是专业人士，诸如%3爆破专业兵或排爆专家%4或%3工兵%4，并有一个%3工具包%4。%1%2你可能首先需要人工发现%12炸弹。%1%2爬向%11炸弹。%1%2从动作菜单中选择%3“拆除”%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你不小心地以卧姿向炸弹移动，它就可能爆炸。</Chinesesimp>
 			</Key>
 			<Key ID="str_a3_orange_cfghints_minesweep_description_detector">
 				<Original>Having a &lt;t %5&gt;Mine Detector&lt;/t&gt; in your inventory will locate even well-hidden nearby mines. Audio cues may alert you to such threats.%1%2Use %11 or %12 to open the Mines info panel to see approximate mine locations and identified mines.%1%2Carefully approach, look at, and identify unknown mines using %13.%1Depending on difficulty options, known mines are marked &lt;img size='1' %14 image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa' /&gt;.</Original>
-				<Chinese>擁有&lt;t%5&gt;地雷探測器&lt;/t&gt;會幫你定位附近哪怕最良好偽裝的地雷。音調會警告你此類威脅的存在。%1%2使用%11或%12來打開地雷信息面板，識別地雷。%1%2小心接近，查看並按%13辨識地雷。%1根據難度選項，已知的地雷可能被標上&lt;imgsize='1'%14image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca。paa'/&gt;。</Chinese>
-				<Chinesesimp>拥有&lt;t%5&gt;地雷探测器&lt;/t&gt;会帮你定位附近哪怕最良好伪装的地雷。音调会警告你此类威胁的存在。%1%2使用%11或%12来打开地雷信息面板，识别地雷。%1%2小心接近，查看并按%13辨识地雷。%1根据难度选项，已知的地雷可能被标上&lt;imgsize='1'%14image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca。paa'/&gt;。</Chinesesimp>
+				<Chinese>擁有&lt;t%5&gt;地雷探測器&lt;/t&gt;會幫你定位附近哪怕最良好偽裝的地雷。音調會警告你此類威脅的存在。%1%2使用%11或%12來打開地雷信息面板，識別地雷。%1%2小心接近，查看並按%13辨識地雷。%1根據難度選項，已知的地雷可能被標上&lt;imgsize='1'%14image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa'/&gt;。</Chinese>
+				<Chinesesimp>拥有&lt;t%5&gt;地雷探测器&lt;/t&gt;会帮你定位附近哪怕最良好伪装的地雷。音调会警告你此类威胁的存在。%1%2使用%11或%12来打开地雷信息面板，识别地雷。%1%2小心接近，查看并按%13辨识地雷。%1根据难度选项，已知的地雷可能被标上&lt;imgsize='1'%14image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa'/&gt;。</Chinesesimp>
 			</Key>
 			<Key ID="str_a3_orange_cfghints_minesweep_description_visual">
 				<Original>Nearby &lt;t %5&gt;mines&lt;/5&gt; can be &lt;t %5&gt;detected&lt;/t&gt; by &lt;t %5&gt;moving slowly&lt;/t&gt; and carefully &lt;t %5&gt;looking around&lt;/t&gt; you. %12 %1%2Carefully approach, look at, and identify unknown mines using %11.%1Depending on difficulty options, known mines are clearly marked &lt;img size='1' %13 image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa' /&gt;.</Original>
-				<Chinese>附近的&lt;t%5&gt;地雷&lt;/5&gt;可以借由&lt;t%5&gt;慢速移動&lt;/t&gt;並小心&lt;t%5&gt;查看四周&lt;/t&gt;&lt;t%5&gt;探測到&lt;/t&gt;。%12%1%2小心接近，查看並按%11辨識地雷。%1根據難度選項，已知的地雷可能被標上&lt;imgsize='1'%13image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca。paa'/&gt;。</Chinese>
-				<Chinesesimp>附近的&lt;t%5&gt;地雷&lt;/5&gt;可以借由&lt;t%5&gt;慢速移动&lt;/t&gt;并小心&lt;t%5&gt;查看四周&lt;/t&gt;&lt;t%5&gt;探测到&lt;/t&gt;。%12%1%2小心接近，查看并按%11辨识地雷。%1根据难度选项，已知的地雷可能被标上&lt;imgsize='1'%13image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca。paa'/&gt;。</Chinesesimp>
+				<Chinese>附近的&lt;t%5&gt;地雷&lt;/5&gt;可以借由&lt;t%5&gt;慢速移動&lt;/t&gt;並小心&lt;t%5&gt;查看四周&lt;/t&gt;&lt;t%5&gt;探測到&lt;/t&gt;。%12%1%2小心接近，查看並按%11辨識地雷。%1根據難度選項，已知的地雷可能被標上&lt;imgsize='1'%13image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa'/&gt;。</Chinese>
+				<Chinesesimp>附近的&lt;t%5&gt;地雷&lt;/5&gt;可以借由&lt;t%5&gt;慢速移动&lt;/t&gt;并小心&lt;t%5&gt;查看四周&lt;/t&gt;&lt;t%5&gt;探测到&lt;/t&gt;。%12%1%2小心接近，查看并按%11辨识地雷。%1根据难度选项，已知的地雷可能被标上&lt;imgsize='1'%13image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa'/&gt;。</Chinesesimp>
 			</Key>
 			<Key ID="str_a3_orange_cfghints_premiumbundle2_overview_expansion">
 				<Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!</Original>

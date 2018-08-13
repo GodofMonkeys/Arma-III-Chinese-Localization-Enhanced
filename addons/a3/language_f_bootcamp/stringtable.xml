@@ -21,8 +21,8 @@
       </Key>
       <Key ID="str_a3_cfghints_learn_vrtraining1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp6_ca.paa' /&gt;%1VR Training enables players to learn about basic game mechanics within the confines of a %3virtual world%4. A variety of training topics focus upon individual gameplay elements, where players are guided to complete simple objectives with the support of %3contextual hints and tips%4.</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp6_ca。paa'/&gt;%1虛擬實境訓練讓玩家能在%3虛擬世界%4中了解各種遊戲機制。各種訓練主題幫助玩家學習各種技巧，玩家可在%3簡單的提示%4幫助下跑過這些流程。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp6_ca。paa'/&gt;%1虚拟实境训练让玩家能在%3虚拟世界%4中了解各种游戏机制。各种训练主题帮助玩家学习各种技巧，玩家可在%3简单的提示%4帮助下跑过这些流程。</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp6_ca.paa'/&gt;%1虛擬實境訓練讓玩家能在%3虛擬世界%4中了解各種遊戲機制。各種訓練主題幫助玩家學習各種技巧，玩家可在%3簡單的提示%4幫助下跑過這些流程。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp6_ca.paa'/&gt;%1虚拟实境训练让玩家能在%3虚拟世界%4中了解各种游戏机制。各种训练主题帮助玩家学习各种技巧，玩家可在%3简单的提示%4帮助下跑过这些流程。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_learn_vrtraining0">
         <Original>VR Training</Original>
@@ -36,8 +36,8 @@
       </Key>
       <Key ID="str_a3_cfghints_learn_mpbootcamp1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp4_ca.paa' /&gt;%1Multiplayer Bootcamp is a great way for %3veteran players to help newbies adapt%4 to Arma 3! Offering a structured set of challenges for both trainees and instructors, MP Bootcamp uses the %3Zeus%4 framework to give players the tools they need to create a %3tutorial gameplay on-the-fly%4.</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp4_ca。paa'/&gt;%1多人新兵訓練是個非常好的場所，能讓%3老兵帶新兵%4，了解並進入ArmA3的地方!課程裡提供了設定好的練習場地，提供教官跟學員一個學習的場地，同時教官還擁有宙斯的權限，讓訓練不僅限原本的框架，可以%3隨時做出更改%4。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp4_ca。paa'/&gt;%1多人新兵训练是个非常好的场所，是个能让%3老兵带新兵%4了解并进入Arma3的地方!课程里提供了设定好的练习场地，提供教官跟学员一个学习的场地，同时教官还拥有宙斯的权限，让训练不仅限原本的框架，可以%3随时做出更改%4。</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp4_ca.paa'/&gt;%1多人新兵訓練是個非常好的場所，能讓%3老兵帶新兵%4，了解並進入ArmA3的地方!課程裡提供了設定好的練習場地，提供教官跟學員一個學習的場地，同時教官還擁有宙斯的權限，讓訓練不僅限原本的框架，可以%3隨時做出更改%4。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp4_ca.paa'/&gt;%1多人新兵训练是个非常好的场所，是个能让%3老兵带新兵%4了解并进入Arma3的地方!课程里提供了设定好的练习场地，提供教官跟学员一个学习的场地，同时教官还拥有宙斯的权限，让训练不仅限原本的框架，可以%3随时做出更改%4。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_OpenInventory1_sub">
         <Original>Open Inventory</Original>
@@ -46,8 +46,8 @@
       </Key>
       <Key ID="STR_A3_OpenInventory2_sub">
         <Original>You can change your equipment by accessing your inventory.%1%2Press %11 when &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt; appears.</Original>
-        <Chinese>你可以在裝備欄中更改你現在穿戴的裝備。%1%2當&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\gear_ca。paa'/&gt;出現時請按下%11。</Chinese>
-        <Chinesesimp>你可以在装备栏中更改你现在穿戴的装备。%1%2当&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\gear_ca。paa'/&gt;出现时请按下%11。</Chinesesimp>
+        <Chinese>你可以在裝備欄中更改你現在穿戴的裝備。%1%2當&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;出現時請按下%11。</Chinese>
+        <Chinesesimp>你可以在装备栏中更改你现在穿戴的装备。%1%2当&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;出现时请按下%11。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_learn_mpbootcamp0">
         <Original>MP Bootcamp</Original>
@@ -56,8 +56,8 @@
       </Key>
       <Key ID="str_a3_cfghints_learn_fmanual1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa' /&gt;%1Accessible from the Main Menu and %3Pause Menu%4 (when playing a scenario), the Field Manual contains useful tips on %3how to control and interact%4 with various aspects of Arma 3.</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca。paa'/&gt;%1你可以在主選單和%3暫停選單%4(任務中時)開啟野戰手冊，野戰手冊包含了許多有用的提示，包括%3控制，戰術%4等等ArmA3的相關知識。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca。paa'/&gt;%1你可以在主菜单和%3暂停菜单%4(任务中时)开启野战手册，野战手册包含了许多有用的提示，包括%3控制，战术%4等等Arma3的相关知识。</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa'/&gt;%1你可以在主選單和%3暫停選單%4(任務中時)開啟野戰手冊，野戰手冊包含了許多有用的提示，包括%3控制，戰術%4等等ArmA3的相關知識。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa'/&gt;%1你可以在主菜单和%3暂停菜单%4(任务中时)开启野战手册，野战手册包含了许多有用的提示，包括%3控制，战术%4等等Arma3的相关知识。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Scopes1_sub">
         <Original>Scopes</Original>
@@ -96,8 +96,8 @@
       </Key>
       <Key ID="str_a3_cfghints_learn_communityguides1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa' /&gt;%1The 'Community Guides' menu %3links out to a series of videos%4 created in collaboration with Dslyecxi, leader of the Arma community group Shack Tactical.%1These guides introduce both new and old players alike to the %3wealth of possibilities%4 that Arma 3 brings to the table, as well as familiarize them with the %3basic tactical concepts needed to survive%4.</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca。paa'/&gt;%1'社群指導'選單會將你%3連接到我們的影片網頁中%4，這些影片由與我們合作的Dslyecxi所製作，他是ArmA社群戰隊ShackTactical的領導人。%1這些指導可幫助新舊玩家學習%3更多的戰術知識%4，以及%3ArmA3豐富的可能性%4等等。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca。paa'/&gt;%1'社区指导'菜单会将你%3链接到我们的影片网页中%4，这些影片由与我们合作的Dslyecxi所制作，他是Arma社区战队ShackTactical的领导人。%1这些指导可帮助新旧玩家学习%3更多的战术知识%4，以及%3Arma3丰富的可能性%4等等。</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa'/&gt;%1'社群指導'選單會將你%3連接到我們的影片網頁中%4，這些影片由與我們合作的Dslyecxi所製作，他是ArmA社群戰隊ShackTactical的領導人。%1這些指導可幫助新舊玩家學習%3更多的戰術知識%4，以及%3ArmA3豐富的可能性%4等等。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa'/&gt;%1'社区指导'菜单会将你%3链接到我们的影片网页中%4，这些影片由与我们合作的Dslyecxi所制作，他是Arma社区战队ShackTactical的领导人。%1这些指导可帮助新旧玩家学习%3更多的战术知识%4，以及%3Arma3丰富的可能性%4等等。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_learn_communityguides0">
         <Original>Community Guides</Original>
@@ -116,8 +116,8 @@
       </Key>
       <Key ID="str_a3_cfghints_learn_bootcamp1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp1_ca.paa' /&gt;%1The singleplayer 'Bootcamp' mode is the best place to get started with Arma 3! Introducing the basic principles of infantry combat - %3actions%4, %3navigation%4, and %3weapon handling%4 - a short prologue campaign challenges new players to complete real objectives.</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp1_ca。paa'/&gt;%1單人戰役的'新兵訓練'，將是你在ArmA3中的最佳起步點!此戰役將會深入淺出的教導玩家關於步兵的基本常識，包括%3行動%4，%3導航%4與%3武器的掌握%4，這個序章將會給你數個任務目標去完成。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp1_ca。paa'/&gt;%1单人战役的'新兵训练'，将是你在Arma3中的最佳起步点!此战役将会深入浅出的教导玩家关于步兵的基本常识，包括%3行动%4，%3导航%4与%3武器的掌握%4，这个序章将会给你数个任务目标去完成。</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp1_ca.paa'/&gt;%1單人戰役的'新兵訓練'，將是你在ArmA3中的最佳起步點!此戰役將會深入淺出的教導玩家關於步兵的基本常識，包括%3行動%4，%3導航%4與%3武器的掌握%4，這個序章將會給你數個任務目標去完成。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp1_ca.paa'/&gt;%1单人战役的'新兵训练'，将是你在Arma3中的最佳起步点!此战役将会深入浅出的教导玩家关于步兵的基本常识，包括%3行动%4，%3导航%4与%3武器的掌握%4，这个序章将会给你数个任务目标去完成。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Compass1_sub">
         <Original>Compass</Original>
@@ -136,8 +136,8 @@
       </Key>
       <Key ID="str_a3_cfghints_learn_arsenal1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp5_ca.paa' /&gt;%1Virtual Arsenal is a %3character, equipment and weapon viewer%4. It enables players to cycle through and %3try out in-game assets, configure custom settings%4 - such as identity types and insignia - and %3export loadouts%4 to script or use in Zeus scenarios.</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp5_ca。paa'/&gt;%1虛擬軍火庫%3是個角色，裝備與武器的瀏覽器%4。它允許讓玩家隨意切換裝備，並隨時拿出來%3試用看看%4，玩家可自訂徽章等裝備，並使用%3匯出裝備%4的功能或直接儲存並在宙斯模式下使用。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp5_ca。paa'/&gt;%1虚拟军火库%3是个角色，装备与武器的浏览器%4。它允许玩家随意切换装备，并随时拿出来%3试用%4，玩家可自定义徽章等装备，并使用%3汇出装备%4的功能或直接储存并在宙斯模式下使用。</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp5_ca.paa'/&gt;%1虛擬軍火庫%3是個角色，裝備與武器的瀏覽器%4。它允許讓玩家隨意切換裝備，並隨時拿出來%3試用看看%4，玩家可自訂徽章等裝備，並使用%3匯出裝備%4的功能或直接儲存並在宙斯模式下使用。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp5_ca.paa'/&gt;%1虚拟军火库%3是个角色，装备与武器的浏览器%4。它允许玩家随意切换装备，并随时拿出来%3试用%4，玩家可自定义徽章等装备，并使用%3汇出装备%4的功能或直接储存并在宙斯模式下使用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_OpenMap1_sub">
         <Original>Open Map</Original>
@@ -286,8 +286,8 @@
       </Key>
       <Key ID="STR_A3_MapWaypoints2_sub">
         <Original>Issue a waypoint &lt;img size='1'   image='a3\UI_F\data\Map\MapControl\waypoint_ca.paa' /&gt; using the map:%1%2Open map by pressing %11%1%2Select units with %3[F2-F10]%4 keys%1%2Point at the target location%1%2Select %3Move there%4 and confirm with %12</Original>
-        <Chinese>要在地圖上&lt;imgsize='1'image='a3\UI_F\data\Map\MapControl\waypoint_ca。paa'/&gt;使用路徑點:%1%2使用%11來打開地圖%1%2使用%3[F2-F10]%4來選擇部下%1%2使用%3移動%4命令並按下%12確認之</Chinese>
-        <Chinesesimp>要在地图上&lt;imgsize='1'image='a3\UI_F\data\Map\MapControl\waypoint_ca。paa'/&gt;使用路径点:%1%2使用%11来打开地图%1%2使用%3[F2-F10]%4来选择部下%1%2使用%3移动%4命令并按下%12确认</Chinesesimp>
+        <Chinese>要在地圖上&lt;imgsize='1'image='a3\UI_F\data\Map\MapControl\waypoint_ca.paa'/&gt;使用路徑點:%1%2使用%11來打開地圖%1%2使用%3[F2-F10]%4來選擇部下%1%2使用%3移動%4命令並按下%12確認之</Chinese>
+        <Chinesesimp>要在地图上&lt;imgsize='1'image='a3\UI_F\data\Map\MapControl\waypoint_ca.paa'/&gt;使用路径点:%1%2使用%11来打开地图%1%2使用%3[F2-F10]%4来选择部下%1%2使用%3移动%4命令并按下%12确认</Chinesesimp>
       </Key>
       <Key ID="STR_A3_ChangeMarkers1_sub">
         <Original>Change Markers</Original>
@@ -351,8 +351,8 @@
       </Key>
       <Key ID="STR_A3_EnteringVehicle2_sub">
         <Original>To enter a vehicle:%1%2Point the cursor at it until the icon &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\Actions\getindriver_ca.paa' /&gt; appears.%1%2Use default action %11.</Original>
-        <Chinese>要進入一台載具:%1%2使用準心對準並等待圖示&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getindriver_ca。paa'/&gt;的出現。%1%2使用%11來執行預設的動作。</Chinese>
-        <Chinesesimp>要进入一台载具:%1%2使用准星对准并等待图示&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getindriver_ca。paa'/&gt;的出现。%1%2使用%11来执行预设的动作。</Chinesesimp>
+        <Chinese>要進入一台載具:%1%2使用準心對準並等待圖示&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;的出現。%1%2使用%11來執行預設的動作。</Chinese>
+        <Chinesesimp>要进入一台载具:%1%2使用准星对准并等待图示&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;的出现。%1%2使用%11来执行预设的动作。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Repairing1_sub">
         <Original>Repairing</Original>
@@ -431,8 +431,8 @@
       </Key>
       <Key ID="STR_A3_EnteringVehicle3_sub">
         <Original>You can also enter the vehicle as commander &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\Actions\getincommander_ca.paa'/&gt;, gunner &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\Actions\getingunner_ca.paa'/&gt; or cargo &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\Actions\getincargo_ca.paa'/&gt;. This may be dependent on available seats, vehicle lock or by command from your leader.</Original>
-        <Chinese>你也可以進入載具的指揮官位&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getincommander_ca。paa'/&gt;，炮手&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getingunner_ca。paa'/&gt;或後座&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getincargo_ca。paa'/&gt;。你可進入的座位會因載具的不同，長官的命令而有不同的選項。</Chinese>
-        <Chinesesimp>你也可以进入载具的指挥官位&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getincommander_ca。paa'/&gt;，炮手&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getingunner_ca。paa'/&gt;或后座&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getincargo_ca。paa'/&gt;。你可进入的座位会因载具的不同，长官的命令而有不同的选项。</Chinesesimp>
+        <Chinese>你也可以進入載具的指揮官位&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getincommander_ca.paa'/&gt;，炮手&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getingunner_ca.paa'/&gt;或後座&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getincargo_ca.paa'/&gt;。你可進入的座位會因載具的不同，長官的命令而有不同的選項。</Chinese>
+        <Chinesesimp>你也可以进入载具的指挥官位&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getincommander_ca.paa'/&gt;，炮手&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getingunner_ca.paa'/&gt;或后座&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getincargo_ca.paa'/&gt;。你可进入的座位会因载具的不同，长官的命令而有不同的选项。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FirstAid1_sub">
         <Original>First Aid</Original>
@@ -501,8 +501,8 @@
       </Key>
       <Key ID="STR_A3_SelectSubordinates3_sub">
         <Original>%1Specialized units have their own symbol on the command bar. For example:%1%2&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt; Autorifleman%1%2&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt; Sniper%1%2&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt; AT rifleman</Original>
-        <Chinese>%1專精兵會有特殊的符號在他們的狀態欄上。舉個例子:%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca。paa'/&gt;自動步槍兵%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca。paa'/&gt;狙擊手%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca。paa'/&gt;反坦克步槍兵</Chinese>
-        <Chinesesimp>%1专精兵会有特殊的符号在他们的状态栏上。举个例子:%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca。paa'/&gt;自动步枪兵%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca。paa'/&gt;狙击手%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca。paa'/&gt;反坦克步枪兵</Chinesesimp>
+        <Chinese>%1專精兵會有特殊的符號在他們的狀態欄上。舉個例子:%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;自動步槍兵%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;狙擊手%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;反坦克步槍兵</Chinese>
+        <Chinesesimp>%1专精兵会有特殊的符号在他们的状态栏上。举个例子:%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;自动步枪兵%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;狙击手%1%2&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;反坦克步枪兵</Chinesesimp>
       </Key>
       <Key ID="STR_A3_GridDistances3_sub">
         <Original>If you don't have a Rangefinder, you can use the map grid to estimate the distance to your target to fire more precisely.</Original>
@@ -563,8 +563,8 @@
       </Key>
       <Key ID="STR_A3_achievements_kia">
         <Original>Died in any Bootcamp campaign scenario. If you see the flash, it's already too late ...</Original>
-        <Chinese>在新兵訓練中的任何一關陣亡。假如你看到了閃光，那已經太遲了。。。</Chinese>
-        <Chinesesimp>在新兵训练中的任何一关阵亡。假如你看到了闪光，那已经太迟了。。。</Chinesesimp>
+        <Chinese>在新兵訓練中的任何一關陣亡。假如你看到了閃光，那已經太遲了...</Chinese>
+        <Chinesesimp>在新兵训练中的任何一关阵亡。假如你看到了闪光，那已经太迟了...</Chinesesimp>
       </Key>
       <Key ID="STR_A3_achievements_contributor_title">
         <Original>Contributor</Original>

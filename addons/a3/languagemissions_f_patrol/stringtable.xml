@@ -374,8 +374,8 @@
       </Key>
       <Key ID="str_a3_combatpatrol_mission_39">
         <Original>Initializing mission...</Original>
-        <Chinese>初始化任務中。。。</Chinese>
-        <Chinesesimp>初始化任务中。。。</Chinesesimp>
+        <Chinese>初始化任務中...</Chinese>
+        <Chinesesimp>初始化任务中...</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_38">
         <Original>Location selected:</Original>

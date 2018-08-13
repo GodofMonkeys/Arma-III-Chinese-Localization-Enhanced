@@ -287,13 +287,13 @@
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_sfa_2">
               <Original>There are civilians down there...</Original>
-              <Chinese>那裡還有一般平民。。。</Chinese>
-              <Chinesesimp>那里还有一般平民。。。</Chinesesimp>
+              <Chinese>那裡還有一般平民...</Chinese>
+              <Chinesesimp>那里还有一般平民...</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_sfa_3">
               <Original>Jesus Christ...</Original>
-              <Chinese>天殺的。。。</Chinese>
-              <Chinesesimp>天杀的。。。</Chinesesimp>
+              <Chinese>天殺的...</Chinese>
+              <Chinesesimp>天杀的...</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_sfa_4">
               <Original>Affirmative, Broadway. Kilo out.</Original>
@@ -652,8 +652,8 @@
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_05_sentries_sfa_1">
               <Original>Nothing new there, then...</Original>
-              <Chinese>那裡沒啥新東西，然後。。。</Chinese>
-              <Chinesesimp>那里没啥新东西，然后。。。</Chinesesimp>
+              <Chinese>那裡沒啥新東西，然後...</Chinese>
+              <Chinesesimp>那里没啥新东西，然后...</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_05_sentries_sfa_2">
               <Original>Understood, Broadway. Kilo 1 out.</Original>

@@ -109,12 +109,12 @@
     <Key ID="STR_useract_uav_closeuavterminal">
       <Original>Close UAV terminal</Original>
       <Chinese>關閉無人載具終端機</Chinese>
-      <Chinesesimp>关闭无人载具终端机</Chinesesimp>
+      <Chinesesimp>关闭无人载具终端</Chinesesimp>
     </Key>
     <Key ID="STR_useract_uav_openuavterminal">
       <Original>Open UAV Terminal</Original>
       <Chinese>開啟無人載具終端機</Chinese>
-      <Chinesesimp>开启无人载具终端机</Chinesesimp>
+      <Chinesesimp>开启无人载具终端</Chinesesimp>
     </Key>
     <Key ID="STR_useract_uav_releasecontrols">
       <Original>Release UAV controls</Original>
@@ -588,12 +588,12 @@
         <Key ID="str_a3_rscdisplayoptionslayout_move">
           <Original>LMB - move element</Original>
           <Chinese>滑鼠左鍵-移動元件</Chinese>
-          <Chinesesimp>滑鼠左键-移动元件</Chinesesimp>
+          <Chinesesimp>鼠标左键-移动元件</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionslayout_resize">
           <Original>RMB - resize element</Original>
           <Chinese>滑鼠右鍵-調整元件大小</Chinese>
-          <Chinesesimp>滑鼠右键-调整元件大小</Chinesesimp>
+          <Chinesesimp>鼠标右键-调整元件大小</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscFunctionsViewer">
@@ -754,7 +754,7 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_gaugealt_1">
           <Original>Absolute altitude (above ground level) in metres.</Original>
           <Chinese>絕對高度(以地面為基準)，單位為公尺。</Chinese>
-          <Chinesesimp>绝对高度(以地面为基准)，单位为公尺。</Chinesesimp>
+          <Chinesesimp>绝对高度(以地面为基准)，单位为米。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_gaugecompass_0">
           <Original>Compass</Original>
@@ -774,7 +774,7 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_gaugedamage_1">
           <Original>Various indicators: RPM, damage, fuel, rotor brake and wheel brake.</Original>
           <Chinese>各項指示器:每分鐘轉速，損傷，油料，旋翼煞車與機輪煞車。</Chinese>
-          <Chinesesimp>各项指示器:每分钟转速，损伤，油料，旋翼煞车与机轮煞车。</Chinesesimp>
+          <Chinesesimp>各项指示器:每分钟转速，损伤，油料，旋翼刹车与机轮刹车。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_gaugehorizon_0">
           <Original>Attitude</Original>
@@ -1426,7 +1426,7 @@
         <Key ID="str_a3_cfgmarkers_flag_tanoagendarmerie">
           <Original>Gendarmerie</Original>
           <Chinese>憲兵隊</Chinese>
-          <Chinesesimp>宪兵队</Chinesesimp>
+          <Chinesesimp>国家宪兵</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_viper">
           <Original>Viper</Original>
@@ -2262,7 +2262,7 @@
         <Key ID="str_a3_rscdisplayavterminal_avt_takecontrol">
           <Original>Take Control</Original>
           <Chinese>接手駕駛</Chinese>
-          <Chinesesimp>接手驾驶</Chinesesimp>
+          <Chinesesimp>接管操纵</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayavterminal_avt_av_name">
           <Original>AV Name</Original>
@@ -2334,7 +2334,7 @@
         <Key ID="str_a3_rscdisplaycamera_subheader">
           <Original>ULTIMATE SCREENSHOT SIMULATOR\n\nControls can be previewed and configured\nin 'Camera' controls options.\n\nAdditional controls:\nRMB - camera rotation and pitch\nCtrl + RMB - camera bank\nF1 - open debug console\nSpace - teleport player under crosshair\nCtrl + X - export camera params\nCtrl + C - copy camera params\nCtrl + V - paste camera params\n\nEsc - Exit</Original>
           <Chinese>專業照相機模擬器\n\n控制按鍵可以在\n'攝影機'選項中更改。\n\n控制按鍵:\n滑鼠右鍵-相機的旋轉和俯仰\nCtrl+滑鼠右鍵-相機傾斜\nF1-除錯控制台\n空白鍵-移動玩家到十字準新瞄準的地方\nCtrl+X-導出相機參數\nCtrl+C-複製相機參數\nCtrl+V-貼上相機參數\n\nEsc-離開</Chinese>
-          <Chinesesimp>专业照相机模拟器\n\n控制按键可以在\n'摄影机'选项中更改。\n\n控制按键:\n滑鼠右键-相机的旋转和俯仰\nCtrl+滑鼠右键-相机倾斜\nF1-除错控制台\n空格键-移动玩家到十字准新瞄准的地方\nCtrl+X-导出相机参数\nCtrl+C-复制相机参数\nCtrl+V-贴上相机参数\n\nEsc-离开</Chinesesimp>
+          <Chinesesimp>专业照相机模拟器\n\n控制按键可以在\n'摄影机'选项中更改。\n\n控制按键:\n鼠标右键-相机的旋转和俯仰\nCtrl+鼠标右键-相机倾斜\nF1-除错控制台\n空格键-移动玩家到十字准新瞄准的地方\nCtrl+X-导出相机参数\nCtrl+C-复制相机参数\nCtrl+V-贴上相机参数\n\nEsc-离开</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaycamera_header">
           <Original>SPLENDID CAMERA</Original>
@@ -2393,7 +2393,7 @@
         <Key ID="str_a3_rscdisplayconfigure_buttonmouse">
           <Original>Mouse</Original>
           <Chinese>滑鼠</Chinese>
-          <Chinesesimp>滑鼠</Chinesesimp>
+          <Chinesesimp>鼠标</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayconfigure_buttonkeyboard">
           <Original>Keyboard</Original>
@@ -2469,7 +2469,7 @@
         <Key ID="str_a3_rscdisplayfileselect_title">
           <Original>Select file</Original>
           <Chinese>選擇檔案</Chinese>
-          <Chinesesimp>选择档案</Chinesesimp>
+          <Chinesesimp>选择文件</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplayFileSelectImage">
@@ -2533,7 +2533,7 @@
         <Key ID="str_a3_rscdisplaygameoptions_textaltf4">
           <Original>Safe ALT+F4:</Original>
           <Chinese>SafeALT+F4:</Chinese>
-          <Chinesesimp>SafeALT+F4:</Chinesesimp>
+          <Chinesesimp>ALT+F4免弹出:</Chinesesimp>
         </Key>
         <Key ID="STR_A3_RscDisplayGameOptions_RTDTextEnable">
           <Original>Helicopter Flight Model:</Original>
@@ -2603,7 +2603,7 @@
         <Key ID="STR_A3_RSCDISPLAYGAMEOPTIONS_RTDTEXTROUGHLANDING_TOOLTIP">
           <Original>Allows harder landing without inflicting damage to the helicopter</Original>
           <Chinese>允許重落地，並不會對直升機產生損耗</Chinese>
-          <Chinesesimp>允许重落地，并不会对直升机产生损耗</Chinesesimp>
+          <Chinesesimp>允许硬着陆而不会对直升机产生损伤</Chinesesimp>
         </Key>
         <Key ID="STR_A3_RSCDISPLAYGAMEOPTIONS_RTDTEXTSHOWGAUGES_TOOLTIP">
           <Original>Shows or hides gauges and indicators</Original>
@@ -2788,7 +2788,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valuevsync_tooltip">
           <Original>Vertical synchronization (prevents image tearing).</Original>
           <Chinese>顯示卡輸出的幀數和螢幕的垂直掃瞄更新頻率相同(防止圖像撕裂，出現波紋)。</Chinese>
-          <Chinesesimp>显示卡输出的帧数和荧幕的垂直扫瞄更新频率相同(防止图像撕裂，出现波纹)。</Chinesesimp>
+          <Chinesesimp>显示卡输出的帧数和屏幕的垂直扫瞄更新频率相同(防止图像撕裂，出现波纹)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valuetexturedetail_tooltip">
           <Original>Texture quality level.</Original>
@@ -2823,7 +2823,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valuepipdetail_tooltip">
           <Original>Picture-In-Picture quality (mirrors, cockpit screens).</Original>
           <Chinese>子母畫面質量(鏡子，駕駛艙螢幕)。</Chinese>
-          <Chinesesimp>子母画面质量(镜子，驾驶舱荧幕)。</Chinesesimp>
+          <Chinesesimp>子母画面质量(镜子，驾驶舱屏幕)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueparticlesquality_tooltip">
           <Original>Quality of particle effects.</Original>
@@ -2888,7 +2888,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueaadetail_tooltip">
           <Original>Full Screen Anti-Aliasing. Smoothens edges of objects.</Original>
           <Chinese>全螢幕抗鋸齒，平滑邊緣倍率。</Chinese>
-          <Chinesesimp>全荧幕抗锯齿，平滑边缘倍率。</Chinesesimp>
+          <Chinesesimp>全屏幕抗锯齿，平滑边缘倍率。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_textvsync">
           <Original>Vsync:</Original>
@@ -3008,7 +3008,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_slidergamma_tooltip">
           <Original>Overall scene gamma. Can be adjusted only in fullscreen display mode.</Original>
           <Chinese>整體場景伽瑪係數(僅限於全螢幕模式下可以進行調整)。</Chinese>
-          <Chinesesimp>整体场景伽玛系数(仅限于全荧幕模式下可以进行调整)。</Chinesesimp>
+          <Chinesesimp>整体场景伽玛系数(仅限于全屏幕模式下可以进行调整)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_sliderbrightness_tooltip">
           <Original>Overall scene brightness.</Original>
@@ -3023,7 +3023,7 @@
         <Key ID="STR_A3_RscDisplayOptionsVideo_ValueWaterReflections_tooltip">
           <Original>Quality of screen-space reflections on water.</Original>
           <Chinese>水面反射在螢幕上的表現效果。</Chinese>
-          <Chinesesimp>水面反射在荧幕上的表现效果。</Chinesesimp>
+          <Chinesesimp>水面反射在屏幕上的表现效果。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_aappbutton_tooltip">
           <Original>Anti-aliasing and post-process settings.</Original>
@@ -3058,7 +3058,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_valuerotationblur_tooltip">
           <Original>Blurring of the scene during fast rotations.</Original>
           <Chinese>旋轉螢幕時，模糊場景的程度。</Chinese>
-          <Chinesesimp>旋转荧幕时，模糊场景的程度。</Chinesesimp>
+          <Chinesesimp>旋转屏幕时，模糊场景的程度。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_textppcolorcorrections">
           <Original>Postprocess Color Corrections</Original>
@@ -3200,8 +3200,8 @@
         </Key>
         <Key ID="str_a3_rscdisplaylogin_refreshing">
           <Original>Refreshing...</Original>
-          <Chinese>重新整理中。。。</Chinese>
-          <Chinesesimp>重新整理中。。。</Chinesesimp>
+          <Chinese>重新整理中...</Chinese>
+          <Chinesesimp>重新整理中...</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaylogin_squad_xml">
           <Original>Squad XML:</Original>
@@ -3676,8 +3676,8 @@
         </Key>
         <Key ID="str_a3_credits_andeverybodyelse">
           <Original>...and everybody else involved!</Original>
-          <Chinese>。。。。。。以及所有相關人士!</Chinese>
-          <Chinesesimp>。。。以及所有其他参与者!</Chinesesimp>
+          <Chinese>......以及所有相關人士!</Chinese>
+          <Chinesesimp>...以及所有其他参与者!</Chinesesimp>
         </Key>
         <Key ID="str_a3_credits_additionalvoiceactors">
           <Original>Additional Voice Actors</Original>
@@ -3936,8 +3936,8 @@
         </Key>
         <Key ID="str_a3_credits_dedicatedCommunityLoyalSupporters">
           <Original>... and to our dedicated community and loyal supporters!</Original>
-          <Chinese>。。。和對我們傾盡全力的社區論壇以及我們的忠實支持者!</Chinese>
-          <Chinesesimp>。。。和对我们倾尽全力的社区论坛以及我们的忠实支持者!</Chinesesimp>
+          <Chinese>...和對我們傾盡全力的社區論壇以及我們的忠實支持者!</Chinese>
+          <Chinesesimp>...和对我们倾尽全力的社区论坛以及我们的忠实支持者!</Chinesesimp>
         </Key>
         <Key ID="str_a3_credits_DevelopmentB01">
           <Original>B01 Dev Squad</Original>
@@ -4441,8 +4441,8 @@
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_buttonselectimage">
           <Original>Browse...</Original>
-          <Chinese>瀏覽。。。</Chinese>
-          <Chinesesimp>浏览。。。</Chinesesimp>
+          <Chinese>瀏覽...</Chinese>
+          <Chinesesimp>浏览...</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_buttonlicence_tooltip">
           <Original>View the SteamWorkshop license (opens the Steam overlay, press Shift+Tab to close).</Original>
@@ -4597,7 +4597,7 @@
         <Key ID="str_a3_rscdisplayhostsettings_title">
           <Original>Setup Server</Original>
           <Chinese>設置伺服器</Chinese>
-          <Chinesesimp>设置伺服器</Chinesesimp>
+          <Chinesesimp>设置服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayhostsettings_port_invalid">
           <Original>Invalid game network port; please choose a port between %d and %d.</Original>
@@ -4617,7 +4617,7 @@
         <Key ID="str_a3_rscdisplayhostsettings_upnp_tooltip">
           <Original>Create a public server behind NAT (UPnP/IGD enabled router is required).</Original>
           <Chinese>創建一個在NAT之後的公開伺服器(必須啟動路由器的UPnP/IGD閘道)。</Chinese>
-          <Chinesesimp>创建一个在NAT之后的公开伺服器(必须启动路由器的UPnP/IGD闸道)。</Chinesesimp>
+          <Chinesesimp>创建一个在NAT之后的公开服务器(必须启动路由器的UPnP/IGD闸道)。</Chinesesimp>
         </Key>
         <Key ID="STR_MSG_UPNP_FAILED">
           <Original>Port forwarding setup failed. Please check UPnP/IGD settings on your router.</Original>
@@ -4634,17 +4634,17 @@
         <Key ID="str_a3_rscdisplaymultiplayer_textservertype">
           <Original>Server type:</Original>
           <Chinese>伺服器類型:</Chinese>
-          <Chinesesimp>伺服器类型:</Chinesesimp>
+          <Chinesesimp>服务器类型:</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_show_servers">
           <Original>Show Servers</Original>
           <Chinese>顯示伺服器</Chinese>
-          <Chinesesimp>显示伺服器</Chinesesimp>
+          <Chinesesimp>显示服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_servers">
           <Original>Servers</Original>
           <Chinese>伺服器</Chinese>
-          <Chinesesimp>伺服器</Chinesesimp>
+          <Chinesesimp>服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_quick_play_title">
           <Original>What to play?</Original>
@@ -4654,7 +4654,7 @@
         <Key ID="str_a3_rscdisplaymultiplayer_quick_play_tip">
           <Original>The game is running with custom mods. You can only be connected to servers with mods compatible with yours.</Original>
           <Chinese>你的遊戲正加載自訂模組中。你只會與可相容的伺服器進行連線。</Chinese>
-          <Chinesesimp>你的游戏正加载自订模组中。你只会与可相容的伺服器进行连线。</Chinesesimp>
+          <Chinesesimp>你的游戏正加载自订模组中。你只会与可相容的服务器进行连线。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_refreshdone">
           <Original> (done)</Original>
@@ -4674,12 +4674,12 @@
         <Key ID="str_a3_rscdisplaymultiplayer_official_servers">
           <Original>Official Servers</Original>
           <Chinese>官方伺服器</Chinese>
-          <Chinesesimp>官方伺服器</Chinesesimp>
+          <Chinesesimp>官方服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_numofservers">
           <Original>Number of servers: </Original>
           <Chinese>伺服器數量:</Chinese>
-          <Chinesesimp>伺服器数量:</Chinesesimp>
+          <Chinesesimp>服务器数量:</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_long_search_disclaimer">
           <Original>(might take longer)</Original>
@@ -4689,7 +4689,7 @@
         <Key ID="str_a3_rscdisplaymultiplayer_launcher">
           <Original>Server Browser in Launcher</Original>
           <Chinese>啟動器中的伺服器瀏覽器</Chinese>
-          <Chinesesimp>启动器中的伺服器浏览器</Chinesesimp>
+          <Chinesesimp>启动器中的服务器浏览器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_game_type">
           <Original>Game Mode:</Original>
@@ -4704,7 +4704,7 @@
         <Key ID="str_a3_rscdisplaymultiplayer_find_server">
           <Original>Find and Join Server</Original>
           <Chinese>尋找並加入伺服器</Chinese>
-          <Chinesesimp>寻找并加入伺服器</Chinesesimp>
+          <Chinesesimp>寻找并加入服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_direct_connect">
           <Original>Direct Connect</Original>
@@ -4714,7 +4714,7 @@
         <Key ID="str_a3_rscdisplaymultiplayer_direct_connect_tooltip">
           <Original>Connect to the server using its IP address and port.</Original>
           <Chinese>使用IP位置與端口來直接連線伺服器。</Chinese>
-          <Chinesesimp>使用IP位置与端口来直接连线伺服器。</Chinesesimp>
+          <Chinesesimp>使用IP位置与端口来直接连线服务器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_filepatching">
           <Original>File patching allowed:</Original>
@@ -4724,12 +4724,12 @@
         <Key ID="str_a3_rscdisplaymultiplayer_host_server">
           <Original>Host Server</Original>
           <Chinese>架設伺服器</Chinese>
-          <Chinesesimp>架设伺服器</Chinesesimp>
+          <Chinesesimp>架设服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_host_server_tooltip">
           <Original>Create a new server on Internet or LAN.</Original>
           <Chinese>創建一個新的伺服器在網際網路或區域網路上。</Chinese>
-          <Chinesesimp>创建一个新的伺服器在网际网路或区域网路上。</Chinesesimp>
+          <Chinesesimp>创建一个新的服务器在网际网路或区域网路上。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_matchtype">
           <Original>Find:</Original>
@@ -4739,17 +4739,17 @@
         <Key ID="str_a3_rscdisplaymultiplayer_server_browser">
           <Original>Server Browser</Original>
           <Chinese>伺服器瀏覽器</Chinese>
-          <Chinesesimp>伺服器浏览器</Chinesesimp>
+          <Chinesesimp>服务器浏览器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_matchtype_best">
           <Original>Best Server</Original>
           <Chinese>最佳伺服器</Chinese>
-          <Chinesesimp>最佳伺服器</Chinesesimp>
+          <Chinesesimp>最佳服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_servers_tooltip">
           <Original>Browse the existing servers.</Original>
           <Chinese>瀏覽線上的伺服器。</Chinese>
-          <Chinesesimp>浏览线上的伺服器。</Chinesesimp>
+          <Chinesesimp>浏览线上的服务器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_matchtype_best_tooltip">
           <Original>Find the best suitable game. Searching might take longer.</Original>
@@ -4759,12 +4759,12 @@
         <Key ID="str_a3_rscdisplaymultiplayer_matchtype_first">
           <Original>First Server</Original>
           <Chinese>第一個伺服器</Chinese>
-          <Chinesesimp>第一个伺服器</Chinesesimp>
+          <Chinesesimp>第一个服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_matchtype_first_tooltip">
           <Original>Join the first available game.</Original>
           <Chinese>加入第一個可連線的伺服器。</Chinese>
-          <Chinesesimp>加入第一个可连线的伺服器。</Chinesesimp>
+          <Chinesesimp>加入第一个可连线的服务器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_quick_play_tooltip">
           <Original>Quickly find the multiplayer game that suits you best.</Original>
@@ -4868,14 +4868,14 @@
         <Key ID="str_a3_rscdisplayremotemissions_ca_textdiff">
           <Original>Server difficulty preset:</Original>
           <Chinese>伺服器預設難度:</Chinese>
-          <Chinesesimp>伺服器预设难度:</Chinesesimp>
+          <Chinesesimp>服务器预设难度:</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplaySingleMission">
         <Key ID="str_a3_rscdisplaysinglemission_textloading">
           <Original>Loading picture ...</Original>
-          <Chinese>載入圖片。。。</Chinese>
-          <Chinesesimp>载入图片。。。</Chinesesimp>
+          <Chinese>載入圖片...</Chinese>
+          <Chinesesimp>载入图片...</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscTitles">
@@ -5840,8 +5840,8 @@
           </Key>
           <Key ID="STR_AVT_CTM_UAV_DIST_KM">
             <Original>Distance %.1f km</Original>
-            <Chinese>距離%。1fkm</Chinese>
-            <Chinesesimp>距离%。1fkm</Chinesesimp>
+            <Chinese>距離%.1fkm</Chinese>
+            <Chinesesimp>距离%.1fkm</Chinesesimp>
           </Key>
           <Key ID="STR_UAV_STEAL">
             <Original>Steal UAV</Original>
@@ -5974,7 +5974,7 @@
         <Key ID="str_a3_rscdisplaydlccontentbrowser_warning">
           <Original>Do you want to quit the current scenario and start Virtual Arsenal?</Original>
           <Chinese>請問你要離開當前任務並進入虛擬軍火庫嗎?</Chinese>
-          <Chinesesimp>请问你要离开当前任务并进入虚拟军火库吗?</Chinesesimp>
+          <Chinesesimp>请问你要离开当前任务并进入虚拟军械库吗?</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplayPurchaseNotification">
@@ -6124,23 +6124,23 @@
       <Container name="RscDisplayServerSearch">
         <Key ID="str_a3_rscdisplayserversearch_server_found">
           <Original>Server found. Joining...</Original>
-          <Chinese>已找到伺服器。加入中。。。</Chinese>
-          <Chinesesimp>已找到伺服器。加入中。。。</Chinesesimp>
+          <Chinese>已找到伺服器。加入中...</Chinese>
+          <Chinesesimp>已找到服务器。加入中...</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayserversearch_server_not_found">
           <Original>No server found. Please try altering the search parameters.</Original>
           <Chinese>沒有找到可用的伺服器。請嘗試改變搜尋參數。</Chinese>
-          <Chinesesimp>没有找到可用的伺服器。请尝试改变搜寻参数。</Chinesesimp>
+          <Chinesesimp>没有找到可用的服务器。请尝试改变搜寻参数。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayserversearch_title">
           <Original>Looking For Server</Original>
           <Chinese>尋找伺服器中</Chinese>
-          <Chinesesimp>寻找伺服器中</Chinesesimp>
+          <Chinesesimp>寻找服务器中</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayserversearch_searching">
           <Original>Searching...</Original>
-          <Chinese>搜尋中。。。</Chinese>
-          <Chinesesimp>搜寻中。。。</Chinesesimp>
+          <Chinese>搜尋中...</Chinese>
+          <Chinesesimp>搜寻中...</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscMsgBoxKeysPreset">
@@ -6159,7 +6159,7 @@
         <Key ID="str_a3_rscdisplayserverfound_title">
           <Original>Server Found</Original>
           <Chinese>已找到伺服器</Chinese>
-          <Chinesesimp>已找到伺服器</Chinesesimp>
+          <Chinesesimp>已找到服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayserverfound_countdown">
           <Original>Seconds to autoconnect:</Original>
@@ -6169,7 +6169,7 @@
         <Key ID="str_a3_rscdisplayserverfound_next_server">
           <Original>Next Server</Original>
           <Chinese>下個伺服器</Chinese>
-          <Chinesesimp>下个伺服器</Chinesesimp>
+          <Chinesesimp>下个服务器</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayserverfound_game_type">
           <Original>Game Type:</Original>
@@ -6238,7 +6238,7 @@
         <Key ID="str_a3_rscdebugconsole_buttonexecuteserver">
           <Original>SERVER EXEC</Original>
           <Chinese>在伺服器執行</Chinese>
-          <Chinesesimp>在伺服器执行</Chinesesimp>
+          <Chinesesimp>在服务器执行</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdebugconsole_buttonfunctions">
           <Original>FUNCTIONS</Original>
@@ -6324,8 +6324,8 @@
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pard_footer">
           <Original>More at www.arma3.com/whatsnewfull</Original>
-          <Chinese>更多訊息請參見www。arma3。com/whatsnewfull</Chinese>
-          <Chinesesimp>更多讯息请参见www。arma3。com/whatsnewfull</Chinesesimp>
+          <Chinese>更多訊息請參見www.arma3.com/whatsnewfull</Chinese>
+          <Chinesesimp>更多讯息请参见www.arma3.com/whatsnewfull</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pard_list1">
           <Original>the massive virtual terrain inviting you to endless exploration</Original>
@@ -6335,7 +6335,7 @@
         <Key ID="str_a3_rscdisplaywelcome_pard_list1_title">
           <Original>Altis</Original>
           <Chinese>Altis</Chinese>
-          <Chinesesimp>Altis</Chinesesimp>
+          <Chinesesimp>阿尔蒂斯</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pard_list2">
           <Original>Main Battle Tanks, self-propelled artillery and Anti-Aircraft vehicles</Original>
@@ -6439,8 +6439,8 @@
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list5">
           <Original>help us by reporting issues on the &lt;a href="%2" color="%1"&gt;Feedback Tracker&lt;/a&gt;.</Original>
-          <Chinese>至feedback。arma3。com反饋並提報問題給我們以幫助我們改善遊戲</Chinese>
-          <Chinesesimp>至feedback。arma3。com反馈并提报问题给我们以帮助我们改善游戏</Chinesesimp>
+          <Chinese>至feedback.arma3.com反饋並提報問題給我們以幫助我們改善遊戲</Chinese>
+          <Chinesesimp>至feedback.arma3.com反馈并提报问题给我们以帮助我们改善游戏</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list5_title">
           <Original>Feedback</Original>
@@ -6480,7 +6480,7 @@
         <Key ID="str_a3_rscdisplaywelcome_pare_list8_trial">
           <Original>enjoy the &lt;a href="%2" color="%1"&gt;most complete Arma 3 package&lt;/a&gt;, including &lt;a href="%3" color="%1"&gt;Karts&lt;/a&gt;, &lt;a href="%4" color="%1"&gt;Helicopters&lt;/a&gt; and &lt;a href="%5" color="%1"&gt;Marksmen&lt;/a&gt; DLC, and the &lt;a href="%6" color="%1"&gt;Apex&lt;/a&gt; expansion. Try the premium DLC content for free in VR Arsenal mode.</Original>
           <Chinese>享受&lt;ahref="%2"color="%1"&gt;更完整的ArmA3&lt;/a&gt;，你可以遊玩&lt;ahref="%3"color="%1"&gt;卡丁車&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升機&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精準射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;頂尖&lt;/a&gt;等資料片。這些付費內容可以免費在虛擬軍火庫中進行體驗。</Chinese>
-          <Chinesesimp>享受&lt;ahref="%2"color="%1"&gt;更完整的ArmA3&lt;/a&gt;，你可以游玩&lt;ahref="%3"color="%1"&gt;卡丁车&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升机&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精准射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;顶尖&lt;/a&gt;等资料片。这些付费内容可以免费在虚拟军火库中进行体验。</Chinesesimp>
+          <Chinesesimp>享受&lt;ahref="%2"color="%1"&gt;更完整的ArmA3&lt;/a&gt;，你可以游玩&lt;ahref="%3"color="%1"&gt;卡丁车&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升机&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精准射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;顶尖&lt;/a&gt;等资料片。这些付费内容可以免费在虚拟军械库中进行体验。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list8_trial_title">
           <Original>Apex Edition</Original>
@@ -6748,7 +6748,7 @@
         <Key ID="str_a3_rscdiary_disabled_by_server">
           <Original>Disabled by the server.</Original>
           <Chinese>被伺服器關閉。</Chinese>
-          <Chinesesimp>被伺服器关闭。</Chinesesimp>
+          <Chinesesimp>被服务器关闭。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdiary_markercolor_tooltip">
           <Original>Marker color</Original>
@@ -6807,7 +6807,7 @@
         <Key ID="str_a3_rscdisplayconfigviewer_parentstext">
           <Original>Parents:</Original>
           <Chinese>親子:</Chinese>
-          <Chinesesimp>亲子:</Chinesesimp>
+          <Chinesesimp>上级位置:</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayconfigviewer_buttonpreviewparam">
           <Original>Preview Param</Original>
@@ -6827,12 +6827,12 @@
         <Key ID="str_a3_rscdisplayconfigviewer_buttonpreviewclass_tooltip">
           <Original>Create a vehicle/weapon under the cursor's position.</Original>
           <Chinese>在滑鼠游標位置建立載具/武器。</Chinese>
-          <Chinesesimp>在滑鼠游标位置建立载具/武器。</Chinesesimp>
+          <Chinesesimp>在鼠标指针位置建立载具/武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayconfigviewer_buttonpreviewparam_tooltip">
           <Original>Display param preview. Currently works only for .paa files and colors.</Original>
           <Chinese>呈現參數預覽。目前僅能預覽.paa檔案與顏色。</Chinese>
-          <Chinesesimp>显示参数预览。当前仅对。paa文件和颜色有效。</Chinesesimp>
+          <Chinesesimp>显示参数预览。当前仅对.paa文件和颜色有效。</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplayDebriefing">
@@ -6874,12 +6874,12 @@
         <Key ID="str_a3_rscdisplaydebriefing_buttonsteamworkshop_tooltip">
           <Original>Rate and comment on Steam Workshop</Original>
           <Chinese>在Steam工作坊上評分和評論</Chinese>
-          <Chinesesimp>在Steam工作坊上评分和评论</Chinesesimp>
+          <Chinesesimp>在Steam创意工坊上评分和评论</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaydebriefing_buttonsteamworkshop">
           <Original>Steam Workshop</Original>
           <Chinese>Steam工作坊</Chinese>
-          <Chinesesimp>Steam工作坊</Chinesesimp>
+          <Chinesesimp>Steam创意工坊</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaydebriefing_dlcbuttonallassets">
           <Original>All Assets</Original>
@@ -6894,7 +6894,7 @@
         <Key ID="str_a3_rscdisplaydebriefing_dlcbuttonmarksmen">
           <Original>Marksmen</Original>
           <Chinese>精準射手</Chinese>
-          <Chinesesimp>精准射手</Chinesesimp>
+          <Chinesesimp>精确射手</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaydebriefing_time_format">
           <Original>%1h %2m %3s</Original>
@@ -7058,19 +7058,19 @@
       <Key ID="STR_MULTI_TITLE_OFFICIAL">
         <Original>Network games on official servers.</Original>
         <Chinese>在官方伺服器進行遊戲。</Chinese>
-        <Chinesesimp>在官方伺服器进行游戏。</Chinesesimp>
+        <Chinesesimp>在官方服务器进行游戏。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Error_Messages">
       <Key ID="STR_VARIABLE_SERIALIZATION">
         <Original>Variable '%s' does not support serialization and should not be stored in the mission namespace.</Original>
         <Chinese>'%s'值無法被系統序列化，不建議使用這個來當作任務名稱。</Chinese>
-        <Chinesesimp>'%s'值无法被系统序列化，不建议使用这个来当作任务名称。</Chinesesimp>
+        <Chinesesimp>变量'%s'无法被系统序列化，不建议使用这个来当作任务名称。</Chinesesimp>
       </Key>
       <Key ID="STR_MP_KICKED_SLOW_NETWORK">
         <Original>Player's network does not meet server's speed requirements</Original>
         <Chinese>玩家的網路速度並沒有達到伺服器的要求</Chinese>
-        <Chinesesimp>玩家的网路速度并没有达到伺服器的要求</Chinesesimp>
+        <Chinesesimp>玩家的网路速度并没有达到服务器的要求</Chinesesimp>
       </Key>
       <Key ID="STR_PICTURE_NOT_FOUND">
         <Original>Picture %s not found</Original>
@@ -7146,8 +7146,8 @@
         </Key>
         <Key ID="STR_UI_WEAPON_ALT">
           <Original>%1.0f</Original>
-          <Chinese>%1。0f</Chinese>
-          <Chinesesimp>%1。0f</Chinesesimp>
+          <Chinese>%1.0f</Chinese>
+          <Chinesesimp>%1.0f</Chinesesimp>
         </Key>
         <Key ID="STR_WI_AC_RANGE">
           <Original>%d</Original>
@@ -7197,7 +7197,7 @@
         <Key ID="STR_WI_DTV">
           <Original>DTV</Original>
           <Chinese>數位影像</Chinese>
-          <Chinesesimp>数位影像</Chinesesimp>
+          <Chinesesimp>数码影像</Chinesesimp>
         </Key>
         <Key ID="STR_WI_ZOOM_NONE">
           <Original>NONE</Original>
@@ -7216,8 +7216,8 @@
         </Key>
         <Key ID="STR_WI_ARTI_ELEV">
           <Original>% 06.2f</Original>
-          <Chinese>%06。2f</Chinese>
-          <Chinesesimp>%06。2f</Chinesesimp>
+          <Chinese>%06.2f</Chinese>
+          <Chinesesimp>%06.2f</Chinesesimp>
         </Key>
         <Key ID="STR_WI_FLIR_MODE">
           <Original>%s</Original>
@@ -7231,8 +7231,8 @@
         </Key>
         <Key ID="STR_WI_ARTI_ELEV_NEEDED">
           <Original>% 06.2f</Original>
-          <Chinese>%06。2f</Chinese>
-          <Chinesesimp>%06。2f</Chinesesimp>
+          <Chinese>%06.2f</Chinese>
+          <Chinesesimp>%06.2f</Chinesesimp>
         </Key>
         <Key ID="STR_WI_FOV_MODE">
           <Original>%s</Original>
@@ -7256,13 +7256,13 @@
         </Key>
         <Key ID="STR_WI_CAMERA_PITCH">
           <Original>% 05.1f</Original>
-          <Chinese>%05。1f</Chinese>
-          <Chinesesimp>%05。1f</Chinesesimp>
+          <Chinese>%05.1f</Chinese>
+          <Chinesesimp>%05.1f</Chinesesimp>
         </Key>
         <Key ID="STR_WI_WEAPON_ELEV">
           <Original>% 06.2f</Original>
-          <Chinese>%06。2f</Chinese>
-          <Chinesesimp>%06。2f</Chinesesimp>
+          <Chinese>%06.2f</Chinese>
+          <Chinesesimp>%06.2f</Chinesesimp>
         </Key>
       </Container>
       <Container name="UnitInfo">
@@ -7278,8 +7278,8 @@
         </Key>
         <Key ID="STR_UI_ZOOM">
           <Original>%.1fx</Original>
-          <Chinese>%。1fx</Chinese>
-          <Chinesesimp>%。1fx</Chinesesimp>
+          <Chinese>%.1fx</Chinese>
+          <Chinesesimp>%.1fx</Chinesesimp>
         </Key>
         <Key ID="STR_UI_HEADING">
           <Original>%03d</Original>
@@ -7303,8 +7303,8 @@
         </Key>
         <Key ID="STR_UI_DEPTH">
           <Original>%1.0f</Original>
-          <Chinese>%1。0f</Chinese>
-          <Chinesesimp>%1。0f</Chinesesimp>
+          <Chinese>%1.0f</Chinese>
+          <Chinesesimp>%1.0f</Chinesesimp>
         </Key>
         <Key ID="STR_UI_UNIT">
           <Original>%d %s: %s</Original>
@@ -7313,8 +7313,8 @@
         </Key>
         <Key ID="STR_UI_VEHICLE_PITCH">
           <Original>% 05.1f</Original>
-          <Chinese>%05。1f</Chinese>
-          <Chinesesimp>%05。1f</Chinesesimp>
+          <Chinese>%05.1f</Chinese>
+          <Chinesesimp>%05.1f</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -7334,7 +7334,7 @@
 </Original>
         <Chinese>開啟多人連線-進行多人連線及創建伺服器。
 </Chinese>
-        <Chinesesimp>开启多人连线-进行多人连线及创建伺服器。
+        <Chinesesimp>开启多人连线-进行多人连线及创建服务器。
 </Chinesesimp>
       </Key>
       <Key ID="STR_MAIN_SINGLEPLAYER_TOOLTIP">
@@ -7445,7 +7445,7 @@
       <Key ID="str_tooltip_main_maxwell">
         <Original>Start or continue the 'Survive' mini-campaign.</Original>
         <Chinese>開始或繼續'倖存'迷你戰役。</Chinese>
-        <Chinesesimp>开始或继续'幸存'迷你战役。</Chinesesimp>
+        <Chinesesimp>开始或继续'生存'迷你战役。</Chinesesimp>
       </Key>
       <Key ID="STR_TOOLTIP_MAIN_OPTIONS_a3">
         <Original>Adjust video, audio, controls and game settings.</Original>
@@ -7582,7 +7582,7 @@
       <Key ID="STR_difficulty0">
         <Original>Recruit</Original>
         <Chinese>新手</Chinese>
-        <Chinesesimp>新手</Chinesesimp>
+        <Chinesesimp>新兵</Chinesesimp>
       </Key>
       <Key ID="STR_difficulty1">
         <Original>Regular</Original>
@@ -7592,12 +7592,12 @@
       <Key ID="STR_difficulty2">
         <Original>Veteran</Original>
         <Chinese>困難</Chinese>
-        <Chinesesimp>困难</Chinesesimp>
+        <Chinesesimp>老兵</Chinesesimp>
       </Key>
       <Key ID="STR_difficulty3">
         <Original>Elite</Original>
         <Chinese>專業</Chinese>
-        <Chinesesimp>专业</Chinesesimp>
+        <Chinesesimp>精英</Chinesesimp>
       </Key>
       <Key ID="str_diff_group_indicators_desc">
         <Original>Shows indication icons on units in player's group.</Original>
@@ -7632,7 +7632,7 @@
       <Key ID="STR_DIFFICULTY_DISABLED_MP">
         <Original>Difficulty is set by the server and can't be changed during the MP scenario.</Original>
         <Chinese>難易度已由伺服器設定，並且不能在多人遊戲中更改。</Chinese>
-        <Chinesesimp>难易度已由伺服器设定，并且不能在多人游戏中更改。</Chinesesimp>
+        <Chinesesimp>难易度已由服务器设定，并且不能在多人游戏中更改。</Chinesesimp>
       </Key>
       <Key ID="str_diff_friendly_name_tags">
         <Original>Friendly Name Tags</Original>
@@ -8092,12 +8092,12 @@
       <Key ID="STR_A3_OPTIONS_DM_FULLSCREEN">
         <Original>Fullscreen</Original>
         <Chinese>全螢幕</Chinese>
-        <Chinesesimp>全荧幕</Chinesesimp>
+        <Chinesesimp>全屏幕</Chinesesimp>
       </Key>
       <Key ID="STR_A3_OPTIONS_DM_FULLSCREENWINDOW">
         <Original>Fullscreen Window</Original>
         <Chinese>全螢幕視窗化</Chinese>
-        <Chinesesimp>全荧幕视窗化</Chinesesimp>
+        <Chinesesimp>全屏幕视窗化</Chinesesimp>
       </Key>
       <Key ID="STR_A3_OPTIONS_DM_WINDOW">
         <Original>Window</Original>
@@ -8117,7 +8117,7 @@
       <Key ID="STR_A3_OPTIONS_SSAO">
         <Original>SSAO</Original>
         <Chinese>螢幕空間環境光遮蔽</Chinese>
-        <Chinesesimp>荧幕空间环境光遮蔽</Chinesesimp>
+        <Chinesesimp>屏幕空间环境光遮蔽</Chinesesimp>
       </Key>
       <Key ID="STR_A3_OPTIONS_FXAA">
         <Original>FXAA</Original>
@@ -8281,7 +8281,7 @@
       <Key ID="STR_BATTLEYE_NO_LICENCE">
         <Original>You have not agreed to the BattlEye license yet. Try to connect to a BattlEye server using the server lobby.</Original>
         <Chinese>您還未同意使用BattlEye。請嘗試先同意使用BattlEye，再來連接伺服器。</Chinese>
-        <Chinesesimp>您还未同意使用BattlEye。请尝试先同意使用BattlEye，再来连接伺服器。</Chinesesimp>
+        <Chinesesimp>您还未同意使用BattlEye。请尝试先同意使用BattlEye，再来连接服务器。</Chinesesimp>
       </Key>
       <Key ID="STR_DEPTH_ABOVESURFACE">
         <Original>Above surface</Original>
@@ -8366,7 +8366,7 @@
       <Key ID="STR_MSG_AGREE_BATTLEYE_LICENCE">
         <Original>This server is using BattlEye anti-cheat. To connect you will need to agree to the BattlEye license.</Original>
         <Chinese>此伺服器使用BattlEye。若要連線，您將需要同意BattlEye使用條款。</Chinese>
-        <Chinesesimp>此伺服器使用BattlEye。若要连线，您将需要同意BattlEye使用条款。</Chinesesimp>
+        <Chinesesimp>此服务器使用BattlEye。若要连线，您将需要同意BattlEye使用条款。</Chinesesimp>
       </Key>
       <Key ID="STR_MSG_BAD_DATA_TYPE">
         <Original>A different type of some parameters is required. </Original>
@@ -8391,12 +8391,12 @@
       <Key ID="STR_MSG_MP_CAN_FIND_HOST">
         <Original>Can't connect to server.</Original>
         <Chinese>無法連接到伺服器。</Chinese>
-        <Chinesesimp>无法连接到伺服器。</Chinesesimp>
+        <Chinesesimp>无法连接到服务器。</Chinesesimp>
       </Key>
       <Key ID="STR_MSG_MP_LOOKING_FOR_HOST">
         <Original>Looking for host...</Original>
-        <Chinese>尋找伺服器。。。</Chinese>
-        <Chinesesimp>寻找伺服器。。。</Chinesesimp>
+        <Chinese>尋找伺服器...</Chinese>
+        <Chinesesimp>寻找服务器...</Chinesesimp>
       </Key>
       <Key ID="STR_MSG_RESTART_EDITOR">
         <Original>All unsaved progress will be lost (editor restart is required).</Original>
@@ -8430,13 +8430,13 @@
       </Key>
       <Key ID="str_ui_alt_freefall">
         <Original>ALT %.0fm</Original>
-        <Chinese>高度%。0fm</Chinese>
-        <Chinesesimp>高度%。0fm</Chinesesimp>
+        <Chinese>高度%.0fm</Chinese>
+        <Chinesesimp>高度%.0fm</Chinesesimp>
       </Key>
       <Key ID="STR_ui_killed_by">
         <Original>Killed by</Original>
         <Chinese>擊殺</Chinese>
-        <Chinesesimp>击杀</Chinesesimp>
+        <Chinesesimp>击杀你的是</Chinesesimp>
       </Key>
       <Key ID="str_ui_passenger_seat">
         <Original>To Passenger seat</Original>
@@ -8445,13 +8445,13 @@
       </Key>
       <Key ID="str_ui_speed_freefall">
         <Original>SPD %.0fkmph</Original>
-        <Chinese>速度%。0fkmph</Chinese>
-        <Chinesesimp>速度%。0fkmph</Chinesesimp>
+        <Chinese>速度%.0fkmph</Chinese>
+        <Chinesesimp>速度%.0fkmph</Chinesesimp>
       </Key>
       <Key ID="str_ui_speed_vertical_freefall">
         <Original>SPD VERT %.0f</Original>
-        <Chinese>垂直速度%。0f</Chinese>
-        <Chinesesimp>垂直速度%。0f</Chinesesimp>
+        <Chinese>垂直速度%.0f</Chinese>
+        <Chinesesimp>垂直速度%.0f</Chinesesimp>
       </Key>
       <Key ID="str_ca_show">
         <Original>Show</Original>
@@ -8546,7 +8546,7 @@
       <Key ID="STR_ACTION_LASER_ON">
         <Original>ON</Original>
         <Chinese>開起</Chinese>
-        <Chinesesimp>开起</Chinesesimp>
+        <Chinesesimp>开启</Chinesesimp>
       </Key>
       <Key ID="STR_ACTION_SENSORS_OFF">
         <Original>Radar off</Original>
@@ -8556,7 +8556,7 @@
       <Key ID="STR_ACTION_SENSORS_ON">
         <Original>Radar On</Original>
         <Chinese>開起雷達</Chinese>
-        <Chinesesimp>开起雷达</Chinesesimp>
+        <Chinesesimp>开启雷达</Chinesesimp>
       </Key>
       <Key ID="STR_DS_ADMIN_WRONG_PASSWORD">
         <Original>Wrong admin password entered by player: %s, playerUID: %s, IP: %s.</Original>
@@ -8571,12 +8571,12 @@
       <Key ID="STR_DS_SERVERCOMMAND_PASSWORD_CLIENT_OK">
         <Original>Successfull attempt to execute serverCommand '%s' by user:%s, steamID: %s, IP: %s.</Original>
         <Chinese>執行伺服器命令'%s'成功，玩家:%s，玩家ID:%s，IP:%s。</Chinese>
-        <Chinesesimp>执行伺服器命令'%s'成功，玩家:%s，玩家ID:%s，IP:%s。</Chinesesimp>
+        <Chinesesimp>执行服务器命令'%s'成功，玩家:%s，玩家ID:%s，IP:%s。</Chinesesimp>
       </Key>
       <Key ID="STR_DS_SERVERCOMMAND_PASSWORD_CLIENT_WRONG">
         <Original>Failed attempt to execute serverCommand '%s' by user:%s, steamID: %s, IP: %s.</Original>
         <Chinese>執行伺服器命令'%s'失敗，玩家:%s，玩家ID:%s，IP:%s。</Chinese>
-        <Chinesesimp>执行伺服器命令'%s'失败，玩家:%s，玩家ID:%s，IP:%s。</Chinesesimp>
+        <Chinesesimp>执行服务器命令'%s'失败，玩家:%s，玩家ID:%s，IP:%s。</Chinesesimp>
       </Key>
       <Key ID="STR_LANGUAGE_KOREAN">
         <Original>Korean</Original>
@@ -8586,7 +8586,7 @@
       <Key ID="STR_DS_SERVERCOMMAND_PASSWORD_SERVER_OK">
         <Original>Successfull attempt to execute serverCommand '%s' by server.</Original>
         <Chinese>由伺服器執行伺服器命令'%s'成功。</Chinese>
-        <Chinesesimp>由伺服器执行伺服器命令'%s'成功。</Chinesesimp>
+        <Chinesesimp>由服务器执行服务器命令'%s'成功。</Chinesesimp>
       </Key>
       <Key ID="STR_LANGUAGE_JAPANESE">
         <Original>Japanese</Original>
@@ -8596,12 +8596,12 @@
       <Key ID="STR_MSG_SAVING_PROFILE_DATA_ERROR">
         <Original>Problem occurred when saving profile data. The file may be set to read-only or can be blocked by another instance of the game (e.g., dedicated server).</Original>
         <Chinese>保存個人資料時出錯。該檔案可能被設定成唯讀，或者正被其他程式讀取中(例如專屬伺服器)。</Chinese>
-        <Chinesesimp>保存个人资料时出错。该档案可能被设定成唯读，或者正被其他程式读取中(例如专属伺服器)。</Chinesesimp>
+        <Chinesesimp>保存个人资料时出错。该档案可能被设定成唯读，或者正被其他程式读取中(例如专属服务器)。</Chinesesimp>
       </Key>
       <Key ID="STR_DS_SERVERCOMMAND_PASSWORD_SERVER_WRONG">
         <Original>Failed attempt to execute serverCommand '%s' by server.</Original>
         <Chinese>由伺服器執行伺服器命令'%s'失敗。</Chinese>
-        <Chinesesimp>由伺服器执行伺服器命令'%s'失败。</Chinesesimp>
+        <Chinesesimp>由服务器执行服务器命令'%s'失败。</Chinesesimp>
       </Key>
       <Key ID="STR_MP_KICKED_TOO_MANY_LOGIN_ATTEMPTS">
         <Original>Player %s kicked. Too many attempts to call %s script command.</Original>
@@ -8617,8 +8617,8 @@
       </Key>
       <Key ID="STR_MISSION_DELETE_PROGRESS">
         <Original>Deleting published mission...</Original>
-        <Chinese>刪除發佈的任務。。。</Chinese>
-        <Chinesesimp>删除发布的任务。。。</Chinesesimp>
+        <Chinese>刪除發佈的任務...</Chinese>
+        <Chinesesimp>删除发布的任务...</Chinesesimp>
       </Key>
       <Container name="ErrorCodes">
         <Key ID="STR_STEAM_RESULT_UNKNOWN">
@@ -8974,7 +8974,7 @@
         <Key ID="STR_STEAM_RESULT_PASSWORD_UNSET">
           <Original>Password could not be verified as it's unset server side.</Original>
           <Chinese>未設置伺服器端無法驗證密碼。</Chinese>
-          <Chinesesimp>未设置伺服器端无法验证密码。</Chinesesimp>
+          <Chinesesimp>未设置服务器端无法验证密码。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_RESULT_INVALID_LOGIN_AUTH_CODE">
           <Original>Account login denied due to authentication code invalid.</Original>
@@ -9014,13 +9014,13 @@
       </Container>
       <Key ID="STR_MISSION_PUBLISH_PROGRESS">
         <Original>Publishing mission to Steam Workshop...</Original>
-        <Chinese>發佈任務至Steam工作坊。。。</Chinese>
-        <Chinesesimp>发布任务至Steam工作坊。。。</Chinesesimp>
+        <Chinese>發佈任務至Steam工作坊...</Chinese>
+        <Chinesesimp>发布任务至Steam工作坊...</Chinesesimp>
       </Key>
       <Key ID="STR_MISSION_UPDATE_PROGRESS">
         <Original>Updating mission in Steam workshop....</Original>
-        <Chinese>更新任務至Steam工作坊。。。。</Chinese>
-        <Chinesesimp>更新任务至Steam工作坊。。。。</Chinesesimp>
+        <Chinese>更新任務至Steam工作坊....</Chinese>
+        <Chinesesimp>更新任务至Steam工作坊....</Chinesesimp>
       </Key>
       <Key ID="STR_MISSION_DOWNLOAD_PROGRESS">
         <Original>Downloading Steam file (%dKB/%dKB).</Original>
@@ -9311,7 +9311,7 @@
         <Key ID="STR_sw_tag_server">
           <Original>Use this tag to label a server related content.</Original>
           <Chinese>使用該標籤來標記伺服器用模組。</Chinese>
-          <Chinesesimp>使用该标签来标记伺服器用模组。</Chinesesimp>
+          <Chinesesimp>使用该标签来标记服务器用模组。</Chinesesimp>
         </Key>
         <Key ID="STR_sw_tag_sound">
           <Original>Use this tag for sound and/or music content.</Original>
@@ -10253,7 +10253,7 @@
         <Key ID="str_controls_tooltips_brake_analogue">
           <Original>For analog air brake mapping. NOTE! Both + and - axes need to be mapped.</Original>
           <Chinese>用來設定減速板/煞車的類比模式。請注意!你必須把控制器的+軸與-軸都設定上去才可以正常使用此功能。</Chinese>
-          <Chinesesimp>用来设定减速板/煞车的类比模式。请注意!你必须把控制器的+轴与-轴都设定上去才可以正常使用此功能。</Chinesesimp>
+          <Chinesesimp>用来设定减速板/刹车的类比模式。请注意!你必须把控制器的+轴与-轴都设定上去才可以正常使用此功能。</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_CANCEL_ACTION">
           <Original>Cancel current action</Original>
@@ -10758,7 +10758,7 @@
         <Key ID="str_controls_tooltips_HELI_BRAKE">
           <Original>Helicopter brake</Original>
           <Chinese>旋翼煞車</Chinese>
-          <Chinesesimp>旋翼煞车</Chinesesimp>
+          <Chinesesimp>旋翼刹车</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_SUBMARINE_UP">
           <Original>Submarine ascend</Original>
@@ -10933,7 +10933,7 @@
         <Key ID="str_controls_tooltips_HELI_MANUAL_FIRE">
           <Original>Execute manual fire from helicopter</Original>
           <Chinese>使用直升機的手動開火</Chinese>
-          <Chinesesimp>使用直升机的手动开火</Chinesesimp>
+          <Chinesesimp>使用直升机的超越射击</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_user_defined">
           <Original>Click to assign custom action</Original>
@@ -11068,12 +11068,12 @@
         <Key ID="STR_CONTROLS_TOOLTIPS_SENSORS">
           <Original>Turn the vehicle targeting Radar on and off, if available.</Original>
           <Chinese>開起或關閉載具的目標鎖定雷達(如果該載具允許的話)。</Chinese>
-          <Chinesesimp>开起或关闭载具的目标锁定雷达(如果该载具允许的话)。</Chinesesimp>
+          <Chinesesimp>开启或关闭载具的目标锁定雷达(如果该载具允许的话)。</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_TOOLTIPS_SPEEDBRAKE">
           <Original>Deploys the air brake temporarily</Original>
           <Chinese>暫時使用減速板/煞車</Chinese>
-          <Chinesesimp>暂时使用减速板/煞车</Chinesesimp>
+          <Chinesesimp>暂时使用减速板/刹车</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_SWAP_GUNNER">
           <Original>Swap gunner position</Original>
@@ -11157,23 +11157,23 @@
         </Key>
         <Key ID="STR_CONTROLS_TOOLTIPS_VEHICLE_PREVIOUS_PRIMARY_DISPLAYS">
           <Original>Switch left panel to the previous module (GPS / Radar / ... )</Original>
-          <Chinese>切換左面版到前一個模式(GPS/雷達/。。。)</Chinese>
-          <Chinesesimp>切换左面版到前一个模式(GPS/雷达/。。。)</Chinesesimp>
+          <Chinese>切換左面版到前一個模式(GPS/雷達/...)</Chinese>
+          <Chinesesimp>切换左面版到前一个模式(GPS/雷达/...)</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_TOOLTIPS_VEHICLE_PREVIOUS_SECONDARY_DISPLAYS">
           <Original>Switch right panel to the previous module (GPS / Radar / ... )</Original>
-          <Chinese>切換右面版到前一個模式(GPS/雷達/。。。)</Chinese>
-          <Chinesesimp>切换右面版到前一个模式(GPS/雷达/。。。)</Chinesesimp>
+          <Chinese>切換右面版到前一個模式(GPS/雷達/...)</Chinese>
+          <Chinesesimp>切换右面版到前一个模式(GPS/雷达/...)</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_TOOLTIPS_VEHICLE_PRIMARY_DISPLAYS">
           <Original>Switch left panel to the next module (GPS / Radar / ... )</Original>
-          <Chinese>切換左面版到下一個模式(GPS/雷達/。。。)</Chinese>
-          <Chinesesimp>切换左面版到下一个模式(GPS/雷达/。。。)</Chinesesimp>
+          <Chinese>切換左面版到下一個模式(GPS/雷達/...)</Chinese>
+          <Chinesesimp>切换左面版到下一个模式(GPS/雷达/...)</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_TOOLTIPS_VEHICLE_SECONDARY_DISPLAYS">
           <Original>Switch right panel to the next module (GPS / Radar / ... )</Original>
-          <Chinese>切換右面版到下一個模式(GPS/雷達/。。。)</Chinese>
-          <Chinesesimp>切换右面版到下一个模式(GPS/雷达/。。。)</Chinesesimp>
+          <Chinese>切換右面版到下一個模式(GPS/雷達/...)</Chinese>
+          <Chinesesimp>切换右面版到下一个模式(GPS/雷达/...)</Chinesesimp>
         </Key>
       </Container>
       <Key ID="STR_USRACT_CAR_LINEAR_LEFT">
@@ -11199,7 +11199,7 @@
       <Key ID="STR_USRACT_SPEEDBRAKE">
         <Original>Speedbrake</Original>
         <Chinese>減速板/煞車</Chinese>
-        <Chinesesimp>减速板/煞车</Chinesesimp>
+        <Chinesesimp>减速板/刹车</Chinesesimp>
       </Key>
       <Container name="Slingload">
         <Key ID="STR_SLING_LOAD_MANAGER_READY">
@@ -11902,7 +11902,7 @@
         <Key ID="str_controls_tooltips_curator_multiple">
           <Original>Click LMB while holding this key to select / deselect entities</Original>
           <Chinese>按住此鍵並用滑鼠左鍵選擇/反選單位</Chinese>
-          <Chinesesimp>按住此键并用滑鼠左键选择/反选单位</Chinesesimp>
+          <Chinesesimp>按住此键并用鼠标左键选择/反选单位</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_curator_move_y">
           <Original>Hold this key while dragging an entity to increase its altitude</Original>
@@ -11937,7 +11937,7 @@
         <Key ID="str_controls_tooltips_curator_group">
           <Original>Drag LMB from a AI unit while holding this key and connect it to another AI unit to group them together</Original>
           <Chinese>按住此鍵，並使用滑鼠左鍵在單位身上拖動，使他與其他單位連結，這可讓他們變成同一個群組</Chinese>
-          <Chinesesimp>按住此键，并使用滑鼠左键在单位身上拖动，使他与其他单位连结，这可让他们变成同一个群组</Chinesesimp>
+          <Chinesesimp>按住此键，并使用鼠标左键在单位身上拖动，使他与其他单位连结，这可让他们变成同一个群组</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_curator_get_out">
           <Original>All selected units in vehicles will disembark</Original>
@@ -12551,17 +12551,17 @@
       <Key ID="STR_SESSION_STATUS_PASSWORD">
         <Original>Server protected by password.</Original>
         <Chinese>伺服器設有密碼。</Chinese>
-        <Chinesesimp>伺服器设有密码。</Chinesesimp>
+        <Chinesesimp>服务器设有密码。</Chinesesimp>
       </Key>
       <Key ID="STR_SESSION_STATUS_DIFFERENT_MODS">
         <Original>Mods on client and server don't match (different mods or their versions).</Original>
         <Chinese>玩家端與伺服器端的模組並不相同(不同的模組或版本)。</Chinese>
-        <Chinesesimp>玩家端与伺服器端的模组并不相同(不同的模组或版本)。</Chinesesimp>
+        <Chinesesimp>玩家端与服务器端的模组并不相同(不同的模组或版本)。</Chinesesimp>
       </Key>
       <Key ID="STR_SESSION_STATUS_FILEPATCHING">
         <Original>The server does not accept the client's current filePatching setting.</Original>
         <Chinese>伺服器不接受使用者當前的遊戲更新。</Chinese>
-        <Chinesesimp>伺服器不接受使用者当前的游戏更新。</Chinesesimp>
+        <Chinesesimp>服务器不接受使用者当前的游戏更新。</Chinesesimp>
       </Key>
       <Key ID="STR_SESSION_STATUS_SIGN_OR_SAME_MODS_REQUIRED">
         <Original>Unable to connect. Different mods or missing signatures.</Original>
@@ -12571,7 +12571,7 @@
       <Key ID="STR_SESSION_STATUS_LOCKED">
         <Original>Server locked by admin.</Original>
         <Chinese>伺服器被管理員鎖定。</Chinese>
-        <Chinesesimp>伺服器被管理员锁定。</Chinesesimp>
+        <Chinesesimp>服务器被管理员锁定。</Chinesesimp>
       </Key>
     </Container>
     <Container name="SlingLoad">
@@ -12789,7 +12789,7 @@
         <Key ID="str_xbox_msg_host_session">
           <Original>No sessions found, would you like to host a session?</Original>
           <Chinese>未發現遊戲，你是否要作為伺服器主機建立遊戲?</Chinese>
-          <Chinesesimp>未发现游戏，你是否要作为伺服器主机建立游戏?</Chinesesimp>
+          <Chinesesimp>未发现游戏，你是否要作为服务器主机建立游戏?</Chinesesimp>
         </Key>
         <Key ID="str_controller_sensitivity_medium">
           <Original>Medium</Original>
@@ -12864,7 +12864,7 @@
         <Key ID="str_xbox_mp_host">
           <Original>Host</Original>
           <Chinese>伺服器</Chinese>
-          <Chinesesimp>伺服器</Chinesesimp>
+          <Chinesesimp>服务器</Chinesesimp>
         </Key>
         <Key ID="str_aware">
           <Original>Aware</Original>
@@ -13183,8 +13183,8 @@
         </Key>
         <Key ID="str_disp_death">
           <Original>You died...</Original>
-          <Chinese>你死了。。。</Chinese>
-          <Chinesesimp>你死了。。。</Chinesesimp>
+          <Chinese>你死了...</Chinese>
+          <Chinesesimp>你死了...</Chinesesimp>
         </Key>
         <Key ID="str_copy">
           <Original>Vorbis Sound Compression Codec \nCopyright (c) 2001 Xiphophorus</Original>
@@ -13214,7 +13214,7 @@
         <Key ID="str_disp_filter_server">
           <Original>Host:</Original>
           <Chinese>伺服器:</Chinese>
-          <Chinesesimp>伺服器:</Chinesesimp>
+          <Chinesesimp>服务器:</Chinesesimp>
         </Key>
         <Key ID="str_disp_game_name">
           <Original>Name:</Original>
@@ -13514,27 +13514,27 @@
         <Key ID="str_disp_opt_aspect_ratio_normal">
           <Original>4:3 – Normal</Original>
           <Chinese>4:3–普通螢幕</Chinese>
-          <Chinesesimp>4:3–普通荧幕</Chinesesimp>
+          <Chinesesimp>4:3–普通屏幕</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_aspect_ratio_tft">
           <Original>5:4 – TFT Screen</Original>
           <Chinese>5:4–TFT螢幕</Chinese>
-          <Chinesesimp>5:4–TFT荧幕</Chinesesimp>
+          <Chinesesimp>5:4–TFT屏幕</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_aspect_ratio_triple">
           <Original>12:3 – Triple Head</Original>
           <Chinese>12:3–三螢幕</Chinese>
-          <Chinesesimp>12:3–三荧幕</Chinesesimp>
+          <Chinesesimp>12:3–三屏幕</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_aspect_ratio_wide">
           <Original>16:9 – Wide</Original>
           <Chinese>16:9–寬螢幕</Chinese>
-          <Chinesesimp>16:9–宽荧幕</Chinesesimp>
+          <Chinesesimp>16:9–宽屏幕</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_aspect_ratio_wide_16_10">
           <Original>16:10 – Wide</Original>
           <Chinese>16:10–寬螢幕</Chinese>
-          <Chinesesimp>16:10–宽荧幕</Chinesesimp>
+          <Chinesesimp>16:10–宽屏幕</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_blood">
           <Original>Blood:</Original>
@@ -13669,7 +13669,7 @@
         <Key ID="str_disp_opt_resolution_new">
           <Original>Resolution:</Original>
           <Chinese>螢幕解析度:</Chinese>
-          <Chinesesimp>荧幕解析度:</Chinesesimp>
+          <Chinesesimp>屏幕解析度:</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_voices">
           <Original>Radio:</Original>
@@ -14049,8 +14049,8 @@
         </Key>
         <Key ID="str_disp_xbox_message_refresh">
           <Original>Refreshing list...</Original>
-          <Chinese>刷新列表。。。</Chinese>
-          <Chinesesimp>刷新列表。。。</Chinesesimp>
+          <Chinese>刷新列表...</Chinese>
+          <Chinesesimp>刷新列表...</Chinesesimp>
         </Key>
         <Key ID="str_ui_debug_watch">
           <Original>Watch:</Original>
@@ -14070,7 +14070,7 @@
         <Key ID="str_disp_xbox_mp_player_count">
           <Original>It is not recommended to host a session for more than %d players on your network connection. Do you want to continue?</Original>
           <Chinese>並不建議你創建大於%d個玩家的伺服器。你要繼續嗎?</Chinese>
-          <Chinesesimp>并不建议你创建大于%d个玩家的伺服器。你要继续吗?</Chinesesimp>
+          <Chinesesimp>并不建议你创建大于%d个玩家的服务器。你要继续吗?</Chinesesimp>
         </Key>
         <Key ID="str_ui_debug_expression">
           <Original>Expression:</Original>
@@ -14544,8 +14544,8 @@
         </Key>
         <Key ID="str_disp_conf_res">
           <Original>Reserved keys: Esc, F1..F12, 1..0</Original>
-          <Chinese>保留鍵:Esc，F1。。F12，1。。0</Chinese>
-          <Chinesesimp>保留键:Esc，F1。。F12，1。。0</Chinesesimp>
+          <Chinese>保留鍵:Esc，F1..F12，1..0</Chinese>
+          <Chinesesimp>保留键:Esc，F1..F12，1..0</Chinesesimp>
         </Key>
         <Key ID="str_maintitles_02">
           <Original>PRESENTS</Original>
@@ -14685,7 +14685,7 @@
         <Key ID="str_disp_ip_title">
           <Original>Host IP Address</Original>
           <Chinese>伺服器IP位址</Chinese>
-          <Chinesesimp>伺服器IP位址</Chinesesimp>
+          <Chinesesimp>服务器IP位址</Chinesesimp>
         </Key>
         <Key ID="STR_DISP_LATER">
           <Original>Later</Original>
@@ -15040,7 +15040,7 @@
         <Key ID="str_disp_opt_aspect_ratio_16_3">
           <Original>16:3 – Triple Head</Original>
           <Chinese>16:3–三螢幕</Chinese>
-          <Chinesesimp>16:3–三荧幕</Chinesesimp>
+          <Chinesesimp>16:3–三屏幕</Chinesesimp>
         </Key>
         <Key ID="str_ui_editor_save_export">
           <Original>Export:</Original>
@@ -15055,7 +15055,7 @@
         <Key ID="str_disp_opt_aspect_ratio_21_9">
           <Original>21:9 – Wide</Original>
           <Chinese>21:9–寬螢幕</Chinese>
-          <Chinesesimp>21:9–宽荧幕</Chinesesimp>
+          <Chinesesimp>21:9–宽屏幕</Chinesesimp>
         </Key>
         <Key ID="str_xbox_mptype_unknown_short">
           <Original>Unknown</Original>
@@ -15070,7 +15070,7 @@
         <Key ID="str_disp_opt_aspect_ratio_24_5">
           <Original>24:5 – Triple Head</Original>
           <Chinese>24:5–三螢幕</Chinese>
-          <Chinesesimp>24:5–三荧幕</Chinesesimp>
+          <Chinesesimp>24:5–三屏幕</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_eax">
           <Original>EAX:</Original>
@@ -15154,8 +15154,8 @@
         </Key>
         <Key ID="str_reply_killed">
           <Original>... is down</Original>
-          <Chinese>。。。倒下了</Chinese>
-          <Chinesesimp>。。。倒下了</Chinesesimp>
+          <Chinese>...倒下了</Chinese>
+          <Chinesesimp>...倒下了</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_resolution">
           <Original>Interface resolution:</Original>
@@ -15170,7 +15170,7 @@
         <Key ID="str_xbox_dedicated_host">
           <Original>Dedicated Host</Original>
           <Chinese>專用伺服器</Chinese>
-          <Chinesesimp>专用伺服器</Chinesesimp>
+          <Chinesesimp>专用服务器</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_shadow_detail">
           <Original>Shadow detail:</Original>
@@ -15795,7 +15795,7 @@
           <Key ID="STR_USRACT_NETWORK_DS_INTERFACE">
             <Original>Dedicated Server Control</Original>
             <Chinese>專屬伺服器控制</Chinese>
-            <Chinesesimp>专属伺服器控制</Chinesesimp>
+            <Chinesesimp>专属服务器控制</Chinesesimp>
           </Key>
           <Key ID="STR_DISP_MP_DS_BAN">
             <Original>Ban</Original>
@@ -15805,7 +15805,7 @@
           <Key ID="STR_DISP_SERVER_CONTROL">
             <Original>Server Control</Original>
             <Chinese>伺服器控制</Chinese>
-            <Chinesesimp>伺服器控制</Chinesesimp>
+            <Chinesesimp>服务器控制</Chinesesimp>
           </Key>
           <Key ID="STR_DISP_MP_DS_KICK">
             <Original>Kick</Original>
@@ -15855,12 +15855,12 @@
           <Key ID="STR_DISP_MP_DS_SHUTDOWN">
             <Original>Shutdown</Original>
             <Chinese>關閉伺服器</Chinese>
-            <Chinesesimp>关闭伺服器</Chinesesimp>
+            <Chinesesimp>关闭服务器</Chinesesimp>
           </Key>
           <Key ID="STR_DISP_MP_DS_TITLE">
             <Original>Dedicated server control</Original>
             <Chinese>專屬伺服器控制</Chinese>
-            <Chinesesimp>专属伺服器控制</Chinesesimp>
+            <Chinesesimp>专属服务器控制</Chinesesimp>
           </Key>
         </Container>
         <Key ID="str_opt_controllers_scheme">
@@ -16474,8 +16474,8 @@
         </Key>
         <Key ID="str_xbox_testing_network_conditions">
           <Original>Testing Network Conditions ...</Original>
-          <Chinese>測試網絡狀況。。。</Chinese>
-          <Chinesesimp>测试网络状况。。。</Chinesesimp>
+          <Chinese>測試網絡狀況...</Chinese>
+          <Chinesesimp>测试网络状况...</Chinesesimp>
         </Key>
         <Key ID="str_ac_move">
           <Original>MOVE</Original>
@@ -16665,7 +16665,7 @@
         <Key ID="str_action_engineon">
           <Original>Engine On</Original>
           <Chinese>開啟引擎</Chinese>
-          <Chinesesimp>开启引擎</Chinesesimp>
+          <Chinesesimp>启动发动机</Chinesesimp>
         </Key>
         <Key ID="str_xbox_msg_roles_lost">
           <Original>All the current role assignments will be lost. Are you sure?</Original>
@@ -16895,7 +16895,7 @@
         <Key ID="str_action_ladderoff">
           <Original>Drop Down Ladder</Original>
           <Chinese>離開梯子</Chinese>
-          <Chinesesimp>离开梯子</Chinesesimp>
+          <Chinesesimp>跳下梯子</Chinesesimp>
         </Key>
         <Key ID="str_action_ladderup">
           <Original>Climb Ladder Up</Original>
@@ -16935,7 +16935,7 @@
         <Key ID="str_xbox_live_hint_read_msg">
           <Original>Read the message.</Original>
           <Chinese>讀取訊息。</Chinese>
-          <Chinesesimp>读取讯息。</Chinesesimp>
+          <Chinesesimp>读取信息。</Chinesesimp>
         </Key>
         <Key ID="str_action_magazine">
           <Original>Reload %1</Original>
@@ -16945,7 +16945,7 @@
         <Key ID="str_action_manual_fire">
           <Original>Manual fire</Original>
           <Chinese>手動開火</Chinese>
-          <Chinesesimp>手动开火</Chinesesimp>
+          <Chinesesimp>超越射击</Chinesesimp>
         </Key>
         <Key ID="str_xbox_live_hint_play">
           <Original>Play anyway.</Original>
@@ -16955,7 +16955,7 @@
         <Key ID="str_action_manual_fire_cancel">
           <Original>Cancel manual fire</Original>
           <Chinese>取消手動開火</Chinese>
-          <Chinesesimp>取消手动开火</Chinesesimp>
+          <Chinesesimp>取消超越射击</Chinesesimp>
         </Key>
         <Key ID="str_action_mark_entity">
           <Original>Collect from %1</Original>
@@ -16970,7 +16970,7 @@
         <Key ID="str_usract_buld_brush_randomize">
           <Original>Randomize</Original>
           <Chinese>隨機</Chinese>
-          <Chinesesimp>随机</Chinesesimp>
+          <Chinesesimp>随机化</Chinesesimp>
         </Key>
         <Key ID="str_action_mark_weapon">
           <Original>Collect weapon</Original>
@@ -17050,7 +17050,7 @@
         <Key ID="str_action_scudcancel">
           <Original>Cancel Scud launch</Original>
           <Chinese>取消導彈發射</Chinese>
-          <Chinesesimp>取消导弹发射</Chinesesimp>
+          <Chinesesimp>取消飞毛腿导弹发射</Chinesesimp>
         </Key>
         <Key ID="str_xbox_live_frequency_annually">
           <Original>Your account will be charged this amount every billing cycle. Each billing cycle begins on the day of the year that you originally subscribed to Xbox Live and lasts 1 year. Prices are subject to change. If there is a change in the service fee, you will be notified by email at least 30 days in advance.</Original>
@@ -17060,12 +17060,12 @@
         <Key ID="str_action_scudlaunch">
           <Original>Prepare Scud launch</Original>
           <Chinese>準備發射導彈</Chinese>
-          <Chinesesimp>准备发射导弹</Chinesesimp>
+          <Chinesesimp>准备发射飞毛腿导弹</Chinesesimp>
         </Key>
         <Key ID="str_action_scudstart">
           <Original>Launch Scud</Original>
           <Chinese>發射導彈</Chinese>
-          <Chinesesimp>发射导弹</Chinesesimp>
+          <Chinesesimp>发射飞毛腿导弹</Chinesesimp>
         </Key>
         <Key ID="str_xbox_live_free_months">
           <Original>This subscription includes a free-trial period. The first %d month(s) are free.</Original>
@@ -17130,7 +17130,7 @@
         <Key ID="str_xbox_live_error_openings">
           <Original>The game does not have enough openings for all the players on your console.</Original>
           <Chinese>本場遊戲沒有足夠的空位給你伺服器上的所有玩家。</Chinese>
-          <Chinesesimp>本场游戏没有足够的空位给你伺服器上的所有玩家。</Chinesesimp>
+          <Chinesesimp>本场游戏没有足够的空位给你服务器上的所有玩家。</Chinesesimp>
         </Key>
         <Key ID="str_action_take_mine">
           <Original>Take mine</Original>
@@ -17140,7 +17140,7 @@
         <Key ID="str_action_takeoff_goggles">
           <Original>Take off NV goggles</Original>
           <Chinese>拿下夜視鏡</Chinese>
-          <Chinesesimp>拿下夜视镜</Chinesesimp>
+          <Chinesesimp>取下夜视镜</Chinesesimp>
         </Key>
         <Key ID="str_xbox_live_error_not_current">
           <Original>This account is not current.</Original>
@@ -17470,7 +17470,7 @@
         <Key ID="str_arcmark_type1">
           <Original>Icon:</Original>
           <Chinese>圖示:</Chinese>
-          <Chinesesimp>图示:</Chinesesimp>
+          <Chinesesimp>图标:</Chinesesimp>
         </Key>
         <Key ID="str_xbox_collapse">
           <Original>Collapse</Original>
@@ -17530,7 +17530,7 @@
         <Key ID="STR_artillery_computer">
           <Original>Artillery computer</Original>
           <Chinese>迫擊炮電腦</Chinese>
-          <Chinesesimp>迫击炮电脑</Chinesesimp>
+          <Chinesesimp>火控计算机</Chinesesimp>
         </Key>
         <Key ID="str_word_unknown">
           <Original>unknown</Original>
@@ -17629,8 +17629,8 @@
         </Key>
         <Key ID="str_author_19">
           <Original>G. K. Chesterton</Original>
-          <Chinese>G。K。切斯特頓</Chinese>
-          <Chinesesimp>G。K。切斯特顿</Chinesesimp>
+          <Chinese>G·K·切斯特頓</Chinese>
+          <Chinesesimp>G·K·切斯特顿</Chinesesimp>
         </Key>
         <Key ID="str_author_2">
           <Original>Nancy Reagan</Original>
@@ -17775,7 +17775,7 @@
         <Key ID="str_author_39">
           <Original>Anders Russell</Original>
           <Chinese>AndersRussell</Chinese>
-          <Chinesesimp>AndersRussell</Chinesesimp>
+          <Chinesesimp>安德斯·罗素</Chinesesimp>
         </Key>
         <Key ID="str_word_at5">
           <Original>5 o'clock</Original>
@@ -17790,7 +17790,7 @@
         <Key ID="str_author_40">
           <Original>General G. C. Patton</Original>
           <Chinese>喬治·史密斯·巴頓將軍</Chinese>
-          <Chinesesimp>G。C。巴顿将军</Chinesesimp>
+          <Chinesesimp>乔治·C·巴顿将军</Chinesesimp>
         </Key>
         <Key ID="str_word_at4">
           <Original>4 o'clock</Original>
@@ -17869,8 +17869,8 @@
         </Key>
         <Key ID="str_autosave_game">
           <Original>Saving...</Original>
-          <Chinese>儲存中。。。</Chinese>
-          <Chinesesimp>储存中。。。</Chinesesimp>
+          <Chinese>儲存中...</Chinese>
+          <Chinesesimp>储存中...</Chinesesimp>
         </Key>
         <Key ID="STR_AVT_CTM_WP_CANCEL">
           <Original>Cancel waypoint</Original>
@@ -18059,8 +18059,8 @@
         </Key>
         <Key ID="str_wait_network">
           <Original>Waiting for opponent...</Original>
-          <Chinese>等待對手中。。。</Chinese>
-          <Chinesesimp>等待对手中。。。</Chinesesimp>
+          <Chinese>等待對手中...</Chinese>
+          <Chinesesimp>等待对手中...</Chinesesimp>
         </Key>
         <Key ID="str_briefing">
           <Original>%s, %s %d</Original>
@@ -18129,8 +18129,8 @@
         </Key>
         <Key ID="str_brief_score">
           <Original>Score: %.0f</Original>
-          <Chinese>分數:%。0f</Chinese>
-          <Chinesesimp>分数:%。0f</Chinesesimp>
+          <Chinese>分數:%.0f</Chinese>
+          <Chinesesimp>分数:%.0f</Chinesesimp>
         </Key>
         <Key ID="str_vk_hint_symbols">
           <Original>%1 Symbols</Original>
@@ -18469,8 +18469,8 @@
         </Key>
         <Key ID="str_campaign_casualties">
           <Original>Casualties: %.0f (%.0f)</Original>
-          <Chinese>傷亡:%。0f(%。0f)</Chinese>
-          <Chinesesimp>伤亡:%。0f(%。0f)</Chinesesimp>
+          <Chinese>傷亡:%.0f(%.0f)</Chinese>
+          <Chinesesimp>伤亡:%.0f(%.0f)</Chinesesimp>
         </Key>
         <Key ID="str_campaign_continue">
           <Original>Continue</Original>
@@ -18549,8 +18549,8 @@
         </Key>
         <Key ID="str_campaign_score">
           <Original>Score: %.0f (%.0f)</Original>
-          <Chinese>分數:%。0f(%。0f)</Chinese>
-          <Chinesesimp>分数:%。0f(%。0f)</Chinesesimp>
+          <Chinese>分數:%.0f(%.0f)</Chinese>
+          <Chinesesimp>分数:%.0f(%.0f)</Chinesesimp>
         </Key>
         <Key ID="str_usract_turn">
           <Original>Turn</Original>
@@ -18849,13 +18849,13 @@
         </Key>
         <Key ID="str_create_client">
           <Original>Joining game...</Original>
-          <Chinese>加入遊戲中。。。</Chinese>
-          <Chinesesimp>加入游戏中。。。</Chinesesimp>
+          <Chinese>加入遊戲中...</Chinese>
+          <Chinesesimp>加入游戏中...</Chinesesimp>
         </Key>
         <Key ID="str_create_server">
           <Original>Creating host...</Original>
-          <Chinese>創建伺服器中。。。</Chinese>
-          <Chinesesimp>创建伺服器中。。。</Chinesesimp>
+          <Chinese>創建伺服器中...</Chinese>
+          <Chinesesimp>创建服务器中...</Chinesesimp>
         </Key>
         <Key ID="str_usract_seagull_down">
           <Original>Seagull Down</Original>
@@ -18945,7 +18945,7 @@
         <Key ID="str_dedicated_server">
           <Original>Dedicated server</Original>
           <Chinese>專屬伺服器</Chinese>
-          <Chinesesimp>专属伺服器</Chinesesimp>
+          <Chinesesimp>专属服务器</Chinesesimp>
         </Key>
         <Key ID="str_usract_push_to_talk_side">
           <Original>Talk On Side Channel</Original>
@@ -19775,7 +19775,7 @@
         <Key ID="str_usract_heli_manual_fire">
           <Original>Toggle Manual Fire</Original>
           <Chinese>切換手動開火</Chinese>
-          <Chinesesimp>切换手动开火</Chinesesimp>
+          <Chinesesimp>切换超越射击</Chinesesimp>
         </Key>
         <Key ID="str_dik_numpad5">
           <Original>5 [NUM]</Original>
@@ -20235,7 +20235,7 @@
         <Key ID="str_disp_client_text">
           <Original>Wait for host</Original>
           <Chinese>等待伺服器</Chinese>
-          <Chinesesimp>等待伺服器</Chinesesimp>
+          <Chinesesimp>等待服务器</Chinesesimp>
         </Key>
         <Key ID="str_disp_client_text_edit">
           <Original>Editing mission</Original>
@@ -20669,8 +20669,8 @@
         </Key>
         <Key ID="str_disp_xbox_hint_mp_assigning">
           <Original>Assigning ...</Original>
-          <Chinese>分配中。。。</Chinese>
-          <Chinesesimp>分配中。。。</Chinesesimp>
+          <Chinese>分配中...</Chinese>
+          <Chinesesimp>分配中...</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_hint_mp_disconnect">
           <Original>Disconnect</Original>
@@ -20729,8 +20729,8 @@
         </Key>
         <Key ID="str_disp_xbox_hint_mp_unassigning">
           <Original>Unassigning ...</Original>
-          <Chinese>取消分配中。。。</Chinese>
-          <Chinesesimp>取消分配中。。。</Chinesesimp>
+          <Chinese>取消分配中...</Chinese>
+          <Chinesesimp>取消分配中...</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_hint_not_connect">
           <Original>Your Xbox console cannot connect to the network.</Original>
@@ -21095,7 +21095,7 @@
         <Key ID="STR_DS_NWK_COMMAND_NOT_AVAILABLE">
           <Original>Command '%s' is disabled on this server.</Original>
           <Chinese>命令'%s'已經被伺服器給禁用。</Chinese>
-          <Chinesesimp>命令'%s'已经被伺服器给禁用。</Chinesesimp>
+          <Chinesesimp>命令'%s'已经被服务器给禁用。</Chinesesimp>
         </Key>
         <Key ID="str_ds_player_connected">
           <Original>Player %s connected (id=%s).</Original>
@@ -21104,8 +21104,8 @@
         </Key>
         <Key ID="str_usract_accelerate">
           <Original>Dive (Air)/Forward (Land)</Original>
-          <Chinese>潛水(空中)/前進(地面)</Chinese>
-          <Chinesesimp>潜水(空中)/前进(地面)</Chinesesimp>
+          <Chinese>俯衝(空中)/前進(地面)</Chinese>
+          <Chinesesimp>俯冲(空中)/前进(地面)</Chinesesimp>
         </Key>
         <Key ID="str_ds_player_connecting">
           <Original>Player %s connecting.</Original>
@@ -21125,22 +21125,22 @@
         <Key ID="str_ds_player_kicked_big_custom_file">
           <Original>Player %s kicked off - too big custom file '%s' (%d B &gt; %d B).</Original>
           <Chinese>玩家%s被踢除-太大的自訂檔案'%s'(%dB&gt;%dB)。</Chinese>
-          <Chinesesimp>玩家%s被踢除-太大的自订档案'%s'(%dB&gt;%dB)。</Chinesesimp>
+          <Chinesesimp>玩家%s被踢除-太大的自定义文件'%s'(%dB&gt;%dB)。</Chinesesimp>
         </Key>
         <Key ID="str_unlock_host">
           <Original>Unlock server</Original>
           <Chinese>解鎖伺服器</Chinese>
-          <Chinesesimp>解锁伺服器</Chinesesimp>
+          <Chinesesimp>解锁服务器</Chinesesimp>
         </Key>
         <Key ID="str_ds_player_kicked_invalid_custom_file">
           <Original>Player %s kicked off - invalid custom file '%s'.</Original>
           <Chinese>玩家%s被踢除-無效的自定義檔案'%s'。</Chinese>
-          <Chinesesimp>玩家%s被踢除-无效的自定义档案'%s'。</Chinesesimp>
+          <Chinesesimp>玩家%s被踢除-无效的自定义文件'%s'。</Chinesesimp>
         </Key>
         <Key ID="str_ds_reading_mission">
           <Original>Reading mission ...</Original>
-          <Chinese>讀取任務中。。。</Chinese>
-          <Chinesesimp>读取任务中。。。</Chinesesimp>
+          <Chinese>讀取任務中...</Chinese>
+          <Chinesesimp>读取任务中...</Chinesesimp>
         </Key>
         <Key ID="str_ultra_ai">
           <Original>Super AI</Original>
@@ -21155,22 +21155,22 @@
         <Key ID="str_ds_server_created">
           <Original>Dedicated host created.</Original>
           <Chinese>專屬伺服器已被創建。</Chinese>
-          <Chinesesimp>专属伺服器已被创建。</Chinesesimp>
+          <Chinesesimp>专属服务器已被创建。</Chinesesimp>
         </Key>
         <Key ID="str_ui_speed">
           <Original>%.0f</Original>
-          <Chinese>%。0f</Chinese>
-          <Chinesesimp>%。0f</Chinesesimp>
+          <Chinese>%.0f</Chinese>
+          <Chinesesimp>%.0f</Chinesesimp>
         </Key>
         <Key ID="str_ds_server_create_fail">
           <Original>Cannot start host on port %d.</Original>
           <Chinese>不能創立伺服器在端口%d。</Chinese>
-          <Chinesesimp>不能创立伺服器在端口%d。</Chinesesimp>
+          <Chinesesimp>不能创立服务器在端口%d。</Chinesesimp>
         </Key>
         <Key ID="str_ds_server_finished">
           <Original>Dedicated host finished (SIGINT signal).</Original>
-          <Chinese>專屬伺服器完成(SIGINTsignal)。</Chinese>
-          <Chinesesimp>专属伺服器完成(SIGINTsignal)。</Chinesesimp>
+          <Chinese>專屬伺服器完成(SIGINT signal)。</Chinese>
+          <Chinesesimp>专属服务器完成(SIGINT signal)。</Chinesesimp>
         </Key>
         <Key ID="str_ui_pressendretry">
           <Original>Press END to retry the mission.</Original>
@@ -21180,7 +21180,7 @@
         <Key ID="str_ds_server_identity_created">
           <Original>Host identity created.</Original>
           <Chinese>伺服器身份已被創建。</Chinese>
-          <Chinesesimp>伺服器身份已被创建。</Chinesesimp>
+          <Chinesesimp>服务器身份已被创建。</Chinesesimp>
         </Key>
         <Key ID="STR_DS_VOTED_ADMIN_LOGGED_IN">
           <Original>Voted admin logged in, player: %s, playerUID: %s, IP: %s.</Original>
@@ -21204,8 +21204,8 @@
         </Key>
         <Key ID="str_ui_cargo_repair">
           <Original>Cargo repair %.0f</Original>
-          <Chinese>維修存量%。0f</Chinese>
-          <Chinesesimp>维修存量%。0f</Chinesesimp>
+          <Chinese>維修存量%.0f</Chinese>
+          <Chinesesimp>维修存量%.0f</Chinesesimp>
         </Key>
         <Key ID="str_ds_votes_kick">
           <Original>%s would like to kick %s.</Original>
@@ -21234,8 +21234,8 @@
         </Key>
         <Key ID="str_ui_cargo_fuel">
           <Original>Cargo fuel %.0f</Original>
-          <Chinese>燃油存量%。0f</Chinese>
-          <Chinesesimp>燃油存量%。0f</Chinesesimp>
+          <Chinese>燃油存量%.0f</Chinese>
+          <Chinesesimp>燃油存量%.0f</Chinesesimp>
         </Key>
         <Key ID="str_ds_votes_restart">
           <Original>%s would like to restart the mission.</Original>
@@ -21249,8 +21249,8 @@
         </Key>
         <Key ID="str_ui_cargo_ammo">
           <Original>Cargo ammo %.0f</Original>
-          <Chinese>彈藥存貨%。0f</Chinese>
-          <Chinesesimp>弹药存货%。0f</Chinesesimp>
+          <Chinese>彈藥存貨%.0f</Chinese>
+          <Chinesesimp>弹药存量%.0f</Chinesesimp>
         </Key>
         <Key ID="str_duration_long">
           <Original>%dh, %dmin</Original>
@@ -21264,8 +21264,8 @@
         </Key>
         <Key ID="str_ui_alt">
           <Original>%4.0f</Original>
-          <Chinese>%4。0f</Chinese>
-          <Chinesesimp>%4。0f</Chinesesimp>
+          <Chinese>%4.0f</Chinese>
+          <Chinesesimp>%4.0f</Chinesesimp>
         </Key>
         <Key ID="str_east">
           <Original>OPFOR</Original>
@@ -21624,8 +21624,8 @@
         </Key>
         <Key ID="str_time_acc_format">
           <Original>Time × %.3f</Original>
-          <Chinese>時間×%。3f</Chinese>
-          <Chinesesimp>时间×%。3f</Chinesesimp>
+          <Chinese>時間×%.3f</Chinese>
+          <Chinesesimp>时间×%.3f</Chinesesimp>
         </Key>
         <Key ID="str_export_mail">
           <Original>Send by e-mail</Original>
@@ -21770,7 +21770,7 @@
         <Key ID="str_filter_full_text">
           <Original>Full servers:</Original>
           <Chinese>人數已滿的伺服器:</Chinese>
-          <Chinesesimp>人数已满的伺服器:</Chinesesimp>
+          <Chinesesimp>人数已满的服务器:</Chinesesimp>
         </Key>
         <Key ID="str_team_main">
           <Original>White</Original>
@@ -21780,7 +21780,7 @@
         <Key ID="str_filter_monetized_text">
           <Original>Monetized:</Original>
           <Chinese>有收益伺服器:</Chinese>
-          <Chinesesimp>有收益伺服器:</Chinesesimp>
+          <Chinesesimp>有收益服务器:</Chinesesimp>
         </Key>
         <Key ID="str_filter_passworded">
           <Original>%s</Original>
@@ -21795,7 +21795,7 @@
         <Key ID="str_filter_passworded_text">
           <Original>Passworded:</Original>
           <Chinese>有密碼的伺服器:</Chinese>
-          <Chinesesimp>有密码的伺服器:</Chinesesimp>
+          <Chinesesimp>有密码的服务器:</Chinesesimp>
         </Key>
         <Key ID="str_fire">
           <Original>Fire</Original>
@@ -22170,12 +22170,12 @@
         <Key ID="str_input_device_mouse_0">
           <Original>Prim. Mouse Btn.</Original>
           <Chinese>滑鼠左鍵</Chinese>
-          <Chinesesimp>滑鼠左键</Chinesesimp>
+          <Chinesesimp>鼠标左键</Chinesesimp>
         </Key>
         <Key ID="str_input_device_mouse_1">
           <Original>Sec. Mouse Btn.</Original>
           <Chinese>滑鼠右鍵</Chinese>
-          <Chinesesimp>滑鼠右键</Chinesesimp>
+          <Chinesesimp>鼠标右键</Chinesesimp>
         </Key>
         <Key ID="str_state_repair">
           <Original>Repair</Original>
@@ -22185,12 +22185,12 @@
         <Key ID="str_input_device_mouse_2">
           <Original>Middle Mouse Btn.</Original>
           <Chinese>滑鼠中鍵</Chinese>
-          <Chinesesimp>滑鼠中键</Chinesesimp>
+          <Chinesesimp>鼠标中键</Chinesesimp>
         </Key>
         <Key ID="str_input_device_mouse_3">
           <Original>Mouse Btn. #4</Original>
           <Chinese>滑鼠按鈕#4</Chinese>
-          <Chinesesimp>滑鼠按钮#4</Chinesesimp>
+          <Chinesesimp>鼠标按钮#4</Chinesesimp>
         </Key>
         <Key ID="str_state_refuel">
           <Original>Refuel</Original>
@@ -22200,12 +22200,12 @@
         <Key ID="str_input_device_mouse_4">
           <Original>Mouse Btn. #5</Original>
           <Chinese>滑鼠按鈕#5</Chinese>
-          <Chinesesimp>滑鼠按钮#5</Chinesesimp>
+          <Chinesesimp>鼠标按钮#5</Chinesesimp>
         </Key>
         <Key ID="str_input_device_mouse_5">
           <Original>Mouse Btn. #6</Original>
           <Chinese>滑鼠按鈕#6</Chinese>
-          <Chinesesimp>滑鼠按钮#6</Chinesesimp>
+          <Chinesesimp>鼠标按钮#6</Chinesesimp>
         </Key>
         <Key ID="str_state_rearm">
           <Original>Rearm</Original>
@@ -22215,12 +22215,12 @@
         <Key ID="str_input_device_mouse_6">
           <Original>Mouse Btn. #7</Original>
           <Chinese>滑鼠按鈕#7</Chinese>
-          <Chinesesimp>滑鼠按钮#7</Chinesesimp>
+          <Chinesesimp>鼠标按钮#7</Chinesesimp>
         </Key>
         <Key ID="str_input_device_mouse_7">
           <Original>Mouse Btn. #8</Original>
           <Chinese>滑鼠按鈕#8</Chinese>
-          <Chinesesimp>滑鼠按钮#8</Chinesesimp>
+          <Chinesesimp>鼠标按钮#8</Chinesesimp>
         </Key>
         <Key ID="str_state_nocommand">
           <Original>None</Original>
@@ -22230,12 +22230,12 @@
         <Key ID="str_input_device_mouse_axis_x">
           <Original>Mouse X-Axis</Original>
           <Chinese>滑鼠X-軸</Chinese>
-          <Chinesesimp>滑鼠X-轴</Chinesesimp>
+          <Chinesesimp>鼠标X-轴</Chinesesimp>
         </Key>
         <Key ID="str_input_device_mouse_axis_y">
           <Original>Mouse Y-Axis</Original>
           <Chinese>滑鼠Y-軸</Chinese>
-          <Chinesesimp>滑鼠Y-轴</Chinesesimp>
+          <Chinesesimp>鼠标Y-轴</Chinesesimp>
         </Key>
         <Key ID="str_state_move">
           <Original>Move</Original>
@@ -22245,12 +22245,12 @@
         <Key ID="str_input_device_mouse_axis_z">
           <Original>Mouse Wheel</Original>
           <Chinese>滑鼠滾輪</Chinese>
-          <Chinesesimp>滑鼠滚轮</Chinesesimp>
+          <Chinesesimp>鼠标滚轮</Chinesesimp>
         </Key>
         <Key ID="str_input_device_mouse_down">
           <Original>Mouse down</Original>
           <Chinese>滑鼠向下</Chinese>
-          <Chinesesimp>滑鼠向下</Chinesesimp>
+          <Chinesesimp>鼠标向下</Chinesesimp>
         </Key>
         <Key ID="str_state_join">
           <Original>Follow</Original>
@@ -22260,12 +22260,12 @@
         <Key ID="str_input_device_mouse_left">
           <Original>Mouse left</Original>
           <Chinese>滑鼠向左</Chinese>
-          <Chinesesimp>滑鼠向左</Chinesesimp>
+          <Chinesesimp>鼠标向左</Chinesesimp>
         </Key>
         <Key ID="str_input_device_mouse_right">
           <Original>Mouse right</Original>
           <Chinese>滑鼠向右</Chinese>
-          <Chinesesimp>滑鼠向右</Chinesesimp>
+          <Chinesesimp>鼠标向右</Chinesesimp>
         </Key>
         <Key ID="str_state_hide">
           <Original>Hide</Original>
@@ -22275,12 +22275,12 @@
         <Key ID="str_input_device_mouse_up">
           <Original>Mouse up</Original>
           <Chinese>滑鼠向上</Chinese>
-          <Chinesesimp>滑鼠向上</Chinesesimp>
+          <Chinesesimp>鼠标向上</Chinesesimp>
         </Key>
         <Key ID="str_input_device_mouse_wheel_down">
           <Original>Mouse wheel down</Original>
           <Chinese>滑鼠滾輪向下</Chinese>
-          <Chinesesimp>滑鼠滚轮向下</Chinesesimp>
+          <Chinesesimp>鼠标滚轮向下</Chinesesimp>
         </Key>
         <Key ID="str_state_heal">
           <Original>Heal</Original>
@@ -22290,7 +22290,7 @@
         <Key ID="str_input_device_mouse_wheel_up">
           <Original>Mouse wheel up</Original>
           <Chinese>滑鼠滾輪向上</Chinese>
-          <Chinesesimp>滑鼠滚轮向上</Chinesesimp>
+          <Chinesesimp>鼠标滚轮向上</Chinesesimp>
         </Key>
         <Key ID="str_input_device_pov_e">
           <Original>Pov 90 deg</Original>
@@ -22794,8 +22794,8 @@
         </Key>
         <Key ID="str_sign_in">
           <Original>Signing in ...</Original>
-          <Chinese>登入中。。。</Chinese>
-          <Chinesesimp>登入中。。。</Chinesesimp>
+          <Chinese>登入中...</Chinese>
+          <Chinesesimp>登入中...</Chinesesimp>
         </Key>
         <Key ID="str_input_device_trackir_9">
           <Original>Tracking device Right</Original>
@@ -22825,7 +22825,7 @@
         <Key ID="str_signature_missing">
           <Original>Files %s are not signed by a key accepted by this server. To play on this server, remove listed files or install additional accepted keys.</Original>
           <Chinese>檔案%s有著錯誤的簽名檔。想要在這伺服器上遊玩，請移除列表上的檔案或者安裝正確的簽名檔。</Chinese>
-          <Chinesesimp>档案%s有着错误的签名档。想要在这伺服器上游玩，请移除列表上的档案或者安装正确的签名档。</Chinesesimp>
+          <Chinesesimp>档案%s有着错误的签名档。想要在这服务器上游玩，请移除列表上的档案或者安装正确的签名档。</Chinesesimp>
         </Key>
         <Key ID="str_january">
           <Original>Jan</Original>
@@ -22869,8 +22869,8 @@
         </Key>
         <Key ID="str_shutdown">
           <Original>Shutdown...</Original>
-          <Chinese>關閉遊戲。。。</Chinese>
-          <Chinesesimp>关闭游戏。。。</Chinesesimp>
+          <Chinese>關閉遊戲...</Chinese>
+          <Chinesesimp>关闭游戏...</Chinesesimp>
         </Key>
         <Key ID="str_killed_by">
           <Original>%s was killed by %s</Original>
@@ -23034,8 +23034,8 @@
         </Key>
         <Key ID="str_session_version">
           <Original>Version: %.2f</Original>
-          <Chinese>版本:%。2f</Chinese>
-          <Chinesesimp>版本:%。2f</Chinesesimp>
+          <Chinese>版本:%.2f</Chinese>
+          <Chinesesimp>版本:%.2f</Chinesesimp>
         </Key>
         <Key ID="str_lib_label_statistics">
           <Original>Statistics:</Original>
@@ -23094,18 +23094,18 @@
         </Key>
         <Key ID="str_session_required">
           <Original>Required: %.2f</Original>
-          <Chinese>需要:%。2f</Chinese>
-          <Chinesesimp>需要:%。2f</Chinesesimp>
+          <Chinese>需要:%.2f</Chinese>
+          <Chinesesimp>需要:%.2f</Chinesesimp>
         </Key>
         <Key ID="str_load_game">
           <Original>Receiving mission status...</Original>
-          <Chinese>接收任務狀態中。。。</Chinese>
-          <Chinesesimp>接收任务状态中。。。</Chinesesimp>
+          <Chinese>接收任務狀態中...</Chinese>
+          <Chinesesimp>接收任务状态中...</Chinesesimp>
         </Key>
         <Key ID="str_load_init">
           <Original>The countdown begins...</Original>
-          <Chinese>開始倒數計時。。。</Chinese>
-          <Chinesesimp>开始倒数计时。。。</Chinesesimp>
+          <Chinese>開始倒數計時...</Chinese>
+          <Chinesesimp>开始倒数计时...</Chinesesimp>
         </Key>
         <Key ID="str_session_play">
           <Original>Playing</Original>
@@ -23114,23 +23114,23 @@
         </Key>
         <Key ID="str_load_intro">
           <Original>Wait a moment...</Original>
-          <Chinese>請稍等。。。</Chinese>
-          <Chinesesimp>请稍等。。。</Chinesesimp>
+          <Chinese>請稍等...</Chinese>
+          <Chinesesimp>请稍等...</Chinesesimp>
         </Key>
         <Key ID="str_load_mission">
           <Original>Get ready...</Original>
-          <Chinese>準備好。。。</Chinese>
-          <Chinesesimp>准备好。。。</Chinesesimp>
+          <Chinese>準備好...</Chinese>
+          <Chinesesimp>准备好...</Chinesesimp>
         </Key>
         <Key ID="str_session_name_init">
           <Original>Creating...</Original>
-          <Chinese>創建中。。。</Chinese>
-          <Chinesesimp>创建中。。。</Chinesesimp>
+          <Chinese>創建中...</Chinese>
+          <Chinesesimp>创建中...</Chinesesimp>
         </Key>
         <Key ID="str_load_world">
           <Original>Receiving...</Original>
-          <Chinese>接收中。。。</Chinese>
-          <Chinesesimp>接收中。。。</Chinesesimp>
+          <Chinese>接收中...</Chinese>
+          <Chinesesimp>接收中...</Chinesesimp>
         </Key>
         <Key ID="str_locked_controller_removed">
           <Original>Please reconnect the controller to controller port %d.</Original>
@@ -23214,8 +23214,8 @@
         </Key>
         <Key ID="str_server_monitor">
           <Original>Server load: FPS %.0f, memory used: %.0f MB, out: %.0f Kbps, in: %.0f Kbps</Original>
-          <Chinese>伺服器載入:FPS%。0f，使用的記憶體:%。0fMB，上傳:%。0fKbps，下載:%。0fKbps</Chinese>
-          <Chinesesimp>伺服器载入:FPS%。0f，使用的记忆体:%。0fMB，上传:%。0fKbps，下载:%。0fKbps</Chinesesimp>
+          <Chinese>伺服器載入:FPS%.0f，使用的記憶體:%.0fMB，上傳:%.0fKbps，下載:%.0fKbps</Chinese>
+          <Chinesesimp>服务器载入:FPS%.0f，使用的记忆体:%.0fMB，上传:%.0fKbps，下载:%.0fKbps</Chinesesimp>
         </Key>
         <Key ID="str_log_mute">
           <Original>Mute</Original>
@@ -23644,8 +23644,8 @@
         </Key>
         <Key ID="str_mp_no_message">
           <Original>No message received for %.0f seconds</Original>
-          <Chinese>沒有收到伺服器回應:%。0f秒</Chinese>
-          <Chinesesimp>没有收到伺服器回应:%。0f秒</Chinesesimp>
+          <Chinese>沒有收到伺服器回應:%.0f秒</Chinese>
+          <Chinesesimp>没有收到服务器回应:%.0f秒</Chinesesimp>
         </Key>
         <Key ID="str_sensoractiv_bravo">
           <Original>Radio Bravo</Original>
@@ -23765,7 +23765,7 @@
         <Key ID="str_mp_server">
           <Original>Host</Original>
           <Chinese>伺服器</Chinese>
-          <Chinesesimp>伺服器</Chinesesimp>
+          <Chinesesimp>服务器</Chinesesimp>
         </Key>
         <Key ID="str_scripted">
           <Original>Busy</Original>
@@ -23775,7 +23775,7 @@
         <Key ID="str_mp_session_locked">
           <Original>This server is currently locked.</Original>
           <Chinese>伺服器現在已被鎖上。</Chinese>
-          <Chinesesimp>伺服器现在已被锁上。</Chinesesimp>
+          <Chinesesimp>服务器现在已被锁上。</Chinesesimp>
         </Key>
         <Key ID="str_mp_session_lost">
           <Original>Session lost</Original>
@@ -23799,8 +23799,8 @@
         </Key>
         <Key ID="str_save_game">
           <Original>Saving...</Original>
-          <Chinese>存檔中。。。</Chinese>
-          <Chinesesimp>存档中。。。</Chinesesimp>
+          <Chinese>存檔中...</Chinese>
+          <Chinesesimp>存档中...</Chinesesimp>
         </Key>
         <Key ID="str_mptable_armored">
           <Original>Armored</Original>
@@ -23865,7 +23865,7 @@
         <Key ID="str_mp_timeout_client">
           <Original>Connection with host has been lost.</Original>
           <Chinese>已失去連線中的伺服器。</Chinese>
-          <Chinesesimp>已失去连线中的伺服器。</Chinesesimp>
+          <Chinesesimp>已失去连线中的服务器。</Chinesesimp>
         </Key>
         <Key ID="str_mp_transfer_file">
           <Original>Receiving mission file</Original>
@@ -23889,8 +23889,8 @@
         </Key>
         <Key ID="str_respawn_vehicle_message">
           <Original>You will be transferred to your vehicle in %.0f seconds</Original>
-          <Chinese>在%。0f秒後你將被傳送到你的車輛</Chinese>
-          <Chinesesimp>在%。0f秒后你将被传送到你的车辆</Chinesesimp>
+          <Chinese>在%.0f秒後你將被傳送到你的車輛</Chinese>
+          <Chinesesimp>在%.0f秒后你将被传送到你的车辆</Chinesesimp>
         </Key>
         <Key ID="str_mp_validerror_2">
           <Original>%s uses modified data file</Original>
@@ -23904,8 +23904,8 @@
         </Key>
         <Key ID="str_respawn_message">
           <Original>Wait %.0f seconds to continue playing</Original>
-          <Chinese>等待%。0f秒來繼續遊玩</Chinese>
-          <Chinesesimp>等待%。0f秒来继续游玩</Chinesesimp>
+          <Chinese>等待%.0f秒來繼續遊玩</Chinese>
+          <Chinesesimp>等待%.0f秒来继续游玩</Chinesesimp>
         </Key>
         <Key ID="str_mpw_new_edit2">
           <Original>&lt;&lt;New - 3D Editor&gt;&gt;</Original>
@@ -24065,7 +24065,7 @@
         <Key ID="str_msg_confirm_terminate_session">
           <Original>If you terminate the session all players will be disconnected. Are you sure?</Original>
           <Chinese>如果你中止伺服器，所有玩家將會斷線。你確定嗎?</Chinese>
-          <Chinesesimp>如果你中止伺服器，所有玩家将会断线。你确定吗?</Chinesesimp>
+          <Chinesesimp>如果你中止服务器，所有玩家将会断线。你确定吗?</Chinesesimp>
         </Key>
         <Key ID="str_radio_golf">
           <Original>Golf</Original>
@@ -24075,7 +24075,7 @@
         <Key ID="str_msg_confirm_terminate_session_client">
           <Original>Are you sure you want to leave this session?</Original>
           <Chinese>你確定你要離開此伺服器嗎?</Chinese>
-          <Chinesesimp>你确定你要离开此伺服器吗?</Chinesesimp>
+          <Chinesesimp>你确定你要离开此服务器吗?</Chinesesimp>
         </Key>
         <Key ID="str_msg_disk_full_t">
           <Original>Your Xbox console does not have enough free blocks to download this content. Please free %d blocks.</Original>
@@ -24230,7 +24230,7 @@
         <Key ID="str_msg_mp_no_password">
           <Original>Password is required to join this session. Press 'Password' button and enter password for the session.</Original>
           <Chinese>參加本伺服器需要密碼。按「密碼」按鈕，並輸入密碼。</Chinese>
-          <Chinesesimp>参加本伺服器需要密码。按“密码”按钮，并输入密码。</Chinesesimp>
+          <Chinesesimp>参加本服务器需要密码。按“密码”按钮，并输入密码。</Chinesesimp>
         </Key>
         <Key ID="str_quote_8">
           <Original>War is a game that is played with a smile. If you can't smile, grin. If you can't grin, keep out of the way till you can.</Original>
@@ -24255,7 +24255,7 @@
         <Key ID="str_msg_mp_password">
           <Original>Cannot join the session. Wrong password was given.</Original>
           <Chinese>無法加入伺服器。錯誤的密碼。</Chinese>
-          <Chinesesimp>无法加入伺服器。错误的密码。</Chinesesimp>
+          <Chinesesimp>无法加入服务器。错误的密码。</Chinesesimp>
         </Key>
         <Key ID="str_msg_mp_r_assign">
           <Original>Independent commander not assigned!</Original>
@@ -24275,7 +24275,7 @@
         <Key ID="str_msg_mp_version">
           <Original>Bad version, server rejected connection.</Original>
           <Chinese>錯誤的遊戲版本，伺服器拒絕連線。</Chinese>
-          <Chinesesimp>错误的游戏版本，伺服器拒绝连线。</Chinesesimp>
+          <Chinesesimp>错误的游戏版本，服务器拒绝连线。</Chinesesimp>
         </Key>
         <Key ID="str_quote_5">
           <Original>War is much too serious a matter to be entrusted to the military.</Original>
@@ -24429,8 +24429,8 @@
         </Key>
         <Key ID="str_quote_34">
           <Original>. . .Sometime they'll give a war and nobody will come.</Original>
-          <Chinese>。。。Sometimethey'llgiveawarandnobodywillcome。</Chinese>
-          <Chinesesimp>。。。Sometimethey'llgiveawarandnobodywillcome。</Chinesesimp>
+          <Chinese>...Sometimethey'llgiveawarandnobodywillcome。</Chinese>
+          <Chinesesimp>...Sometimethey'llgiveawarandnobodywillcome。</Chinesesimp>
         </Key>
         <Key ID="str_msg_purchase_failed">
           <Original>Purchase failed.</Original>
@@ -24554,8 +24554,8 @@
         </Key>
         <Key ID="str_msg_wait_connecting">
           <Original>Connecting … wait for host.</Original>
-          <Chinese>連線中。。。。。。等待伺服器。</Chinese>
-          <Chinesesimp>连线中。。。。。。等待伺服器。</Chinesesimp>
+          <Chinese>連線中......等待伺服器。</Chinese>
+          <Chinesesimp>连线中......等待服务器。</Chinesesimp>
         </Key>
         <Key ID="str_msg_wait_for_others">
           <Original>Wait for others.</Original>
@@ -24794,13 +24794,13 @@
         </Key>
         <Key ID="str_network_copying">
           <Original>Copying...</Original>
-          <Chinese>複製中。。。</Chinese>
-          <Chinesesimp>复制中。。。</Chinesesimp>
+          <Chinese>複製中...</Chinese>
+          <Chinesesimp>复制中...</Chinesesimp>
         </Key>
         <Key ID="str_network_creating">
           <Original>Creating...</Original>
-          <Chinese>創建中。。。</Chinese>
-          <Chinesesimp>创建中。。。</Chinesesimp>
+          <Chinese>創建中...</Chinese>
+          <Chinesesimp>创建中...</Chinesesimp>
         </Key>
         <Key ID="str_quote_11">
           <Original>Death is a very dull, dreary affair, and my advice to you is to have nothing whatsoever to do with it.</Original>
@@ -24809,13 +24809,13 @@
         </Key>
         <Key ID="str_network_deleting">
           <Original>Deleting...</Original>
-          <Chinese>刪除中。。。</Chinese>
-          <Chinesesimp>删除中。。。</Chinesesimp>
+          <Chinese>刪除中...</Chinese>
+          <Chinesesimp>删除中...</Chinesesimp>
         </Key>
         <Key ID="str_network_receive">
           <Original>Receiving data...</Original>
-          <Chinese>接收數據中。。。</Chinese>
-          <Chinesesimp>接收数据中。。。</Chinesesimp>
+          <Chinese>接收數據中...</Chinese>
+          <Chinesesimp>接收数据中...</Chinesesimp>
         </Key>
         <Key ID="str_quote_10">
           <Original>Stay out of the road, if you want to grow old.</Original>
@@ -24829,8 +24829,8 @@
         </Key>
         <Key ID="str_network_send">
           <Original>Sending data...</Original>
-          <Chinese>發送數據中。。。</Chinese>
-          <Chinesesimp>发送数据中。。。</Chinesesimp>
+          <Chinese>發送數據中...</Chinese>
+          <Chinesesimp>发送数据中...</Chinesesimp>
         </Key>
         <Key ID="str_quote_1">
           <Original>A single death is a tragedy; a million deaths is a statistic.</Original>
@@ -24839,13 +24839,13 @@
         </Key>
         <Key ID="str_network_sending">
           <Original>Sending...</Original>
-          <Chinese>發送中。。。</Chinese>
-          <Chinesesimp>发送中。。。</Chinesesimp>
+          <Chinese>發送中...</Chinese>
+          <Chinesesimp>发送中...</Chinesesimp>
         </Key>
         <Key ID="str_network_updating">
           <Original>Updating...</Original>
-          <Chinese>更新中。。。</Chinese>
-          <Chinesesimp>更新中。。。</Chinesesimp>
+          <Chinese>更新中...</Chinese>
+          <Chinesesimp>更新中...</Chinesesimp>
         </Key>
         <Key ID="str_q_south_west">
           <Original>South-west</Original>
@@ -24859,13 +24859,13 @@
         </Key>
         <Key ID="str_network_uploading_stats">
           <Original>Transmitting score...</Original>
-          <Chinese>上傳分數中。。。</Chinese>
-          <Chinesesimp>上传分数中。。。</Chinesesimp>
+          <Chinese>上傳分數中...</Chinese>
+          <Chinesesimp>上传分数中...</Chinesesimp>
         </Key>
         <Key ID="str_network_uploading_stats_mp">
           <Original>Transmitting score...</Original>
-          <Chinese>上傳分數中。。。</Chinese>
-          <Chinesesimp>上传分数中。。。</Chinesesimp>
+          <Chinese>上傳分數中...</Chinese>
+          <Chinesesimp>上传分数中...</Chinesesimp>
         </Key>
         <Key ID="str_q_south_east">
           <Original>South-east</Original>
@@ -25257,13 +25257,13 @@
         </Key>
         <Key ID="str_ui_object_distance">
           <Original>%s (%.0f m)</Original>
-          <Chinese>%s(%。0fm)</Chinese>
-          <Chinesesimp>%s(%。0fm)</Chinesesimp>
+          <Chinese>%s(%.0fm)</Chinese>
+          <Chinesesimp>%s(%.0fm)</Chinesesimp>
         </Key>
         <Key ID="str_ui_position_distance">
           <Original>%.0f m</Original>
-          <Chinese>%。0fm</Chinese>
-          <Chinesesimp>%。0fm</Chinesesimp>
+          <Chinese>%.0fm</Chinese>
+          <Chinesesimp>%.0fm</Chinesesimp>
         </Key>
         <Key ID="str_ui_speed_wanted">
           <Original>Set %4.0f</Original>
@@ -25283,7 +25283,7 @@
         <Key ID="str_usract_brake_analogue">
           <Original>Speedbrake (Analog)</Original>
           <Chinese>減速板/煞車(類比)</Chinese>
-          <Chinesesimp>减速板/煞车(类比)</Chinesesimp>
+          <Chinesesimp>减速板/刹车(类比)</Chinesesimp>
         </Key>
         <Key ID="str_usract_car_wheel_left">
           <Original>Car More Left</Original>
@@ -25549,8 +25549,8 @@
         </Key>
         <Key ID="STR_UI_RADARRANGE">
           <Original>%.0f</Original>
-          <Chinese>%。0f</Chinese>
-          <Chinesesimp>%。0f</Chinesesimp>
+          <Chinese>%.0f</Chinese>
+          <Chinesesimp>%.0f</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_BULD_TERRAIN_LOWER_10CM">
           <Original>Buldozer Lower Terrain 10 cm</Original>
@@ -25646,13 +25646,13 @@
         </Key>
         <Key ID="STR_UI_POSITION_DISTANCE_FEET">
           <Original>%.0f ft</Original>
-          <Chinese>%。0fft</Chinese>
-          <Chinesesimp>%。0fft</Chinesesimp>
+          <Chinese>%.0fft</Chinese>
+          <Chinesesimp>%.0fft</Chinesesimp>
         </Key>
         <Key ID="STR_UI_POSITION_DISTANCE_MILES">
           <Original>%.1f mi</Original>
-          <Chinese>%。1fmi</Chinese>
-          <Chinesesimp>%。1fmi</Chinesesimp>
+          <Chinese>%.1fmi</Chinese>
+          <Chinesesimp>%.1fmi</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_LOOK_SHIFT_LEFT_CONT">
           <Original>Head Left (Analog)</Original>
@@ -25671,8 +25671,8 @@
         </Key>
         <Key ID="STR_UI_POSITION_DISTANCE_NAUTICAL_MILES">
           <Original>%.1f NM</Original>
-          <Chinese>%。1fNM</Chinese>
-          <Chinesesimp>%。1fNM</Chinesesimp>
+          <Chinese>%.1fNM</Chinese>
+          <Chinesesimp>%.1fNM</Chinesesimp>
         </Key>
         <Key ID="str_action_unlock_control">
           <Original>Unlock controls</Original>
@@ -25716,8 +25716,8 @@
         </Key>
         <Key ID="STR_UI_POSITION_DISTANCE_KILOMETERS">
           <Original>%.1f km</Original>
-          <Chinese>%。1fkm</Chinese>
-          <Chinesesimp>%。1f千米</Chinesesimp>
+          <Chinese>%.1fkm</Chinese>
+          <Chinesesimp>%.1f千米</Chinesesimp>
         </Key>
         <Key ID="str_action_batteries_off_tip">
           <Original> &lt;br /&gt;&lt;t size='0.64'&gt;Batteries off&lt;/t&gt;</Original>
@@ -25762,7 +25762,7 @@
         <Key ID="STR_ACTION_BRAKE_OFF_TIP">
           <Original> &lt;br /&gt;&lt;t size='0.64'&gt;Wheel brake off&lt;/t&gt;</Original>
           <Chinese>&lt;br/&gt;&lt;tsize='0。64'&gt;車輪煞車關閉&lt;/t&gt;</Chinese>
-          <Chinesesimp>&lt;br/&gt;&lt;tsize='0。64'&gt;车轮煞车关闭&lt;/t&gt;</Chinesesimp>
+          <Chinesesimp>&lt;br/&gt;&lt;tsize='0。64'&gt;车轮刹车关闭&lt;/t&gt;</Chinesesimp>
         </Key>
         <Key ID="STR_DISP_OPT_UNITS_METRIC">
           <Original>Metric</Original>
@@ -25787,12 +25787,12 @@
         <Key ID="STR_ACTION_BRAKE_ON">
           <Original>Wheel Brake On</Original>
           <Chinese>車輪煞車開啟</Chinese>
-          <Chinesesimp>车轮煞车开启</Chinesesimp>
+          <Chinesesimp>车轮刹车开启</Chinesesimp>
         </Key>
         <Key ID="STR_ACTION_BRAKE_ON_TIP">
           <Original> &lt;br /&gt;&lt;t size='0.64'&gt;Wheel brake on&lt;/t&gt;</Original>
           <Chinese>&lt;br/&gt;&lt;tsize='0。64'&gt;車輪煞車開啟&lt;/t&gt;</Chinese>
-          <Chinesesimp>&lt;br/&gt;&lt;tsize='0。64'&gt;车轮煞车开启&lt;/t&gt;</Chinesesimp>
+          <Chinesesimp>&lt;br/&gt;&lt;tsize='0。64'&gt;车轮刹车开启&lt;/t&gt;</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_LOOK_SHIFT_BACK">
           <Original>Move Head Back</Original>
@@ -25867,17 +25867,17 @@
         <Key ID="str_action_rotor_brake_off">
           <Original>Rotor brake off</Original>
           <Chinese>旋翼煞車關閉</Chinese>
-          <Chinesesimp>旋翼煞车关闭</Chinesesimp>
+          <Chinesesimp>旋翼刹车关闭</Chinesesimp>
         </Key>
         <Key ID="str_action_rotor_brake_off_tip">
           <Original> &lt;br /&gt;&lt;t size='0.64'&gt;Rotor brake off&lt;/t&gt;</Original>
           <Chinese>&lt;br/&gt;&lt;tsize='0。64'&gt;旋翼煞車關閉&lt;/t&gt;</Chinese>
-          <Chinesesimp>&lt;br/&gt;&lt;tsize='0。64'&gt;旋翼煞车关闭&lt;/t&gt;</Chinesesimp>
+          <Chinesesimp>&lt;br/&gt;&lt;tsize='0。64'&gt;旋翼刹车关闭&lt;/t&gt;</Chinesesimp>
         </Key>
         <Key ID="str_action_rotor_brake_on">
           <Original>Rotor brake on</Original>
           <Chinese>旋翼煞車開啟</Chinese>
-          <Chinesesimp>旋翼煞车开启</Chinesesimp>
+          <Chinesesimp>旋翼刹车开启</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_FREE_HEAD_MOVE">
           <Original>Free Head Move</Original>
@@ -25887,7 +25887,7 @@
         <Key ID="str_action_rotor_brake_on_tip">
           <Original> &lt;br /&gt;&lt;t size='0.64'&gt;Rotor brake on&lt;/t&gt;</Original>
           <Chinese>&lt;br/&gt;&lt;tsize='0。64'&gt;旋翼煞車開啟&lt;/t&gt;</Chinese>
-          <Chinesesimp>&lt;br/&gt;&lt;tsize='0。64'&gt;旋翼煞车开启&lt;/t&gt;</Chinesesimp>
+          <Chinesesimp>&lt;br/&gt;&lt;tsize='0。64'&gt;旋翼刹车开启&lt;/t&gt;</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_HELI_CYCLIC_FORWARD">
           <Original>Cyclic Forward</Original>
@@ -26328,23 +26328,23 @@
         </Key>
         <Key ID="str_xbox_controler_ls_fly">
           <Original>Fly &lt;img image='\xmisc\ctrl_move.paa'/&gt;</Original>
-          <Chinese>飛行&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;</Chinese>
-          <Chinesesimp>飞行&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;</Chinesesimp>
+          <Chinese>飛行&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;</Chinese>
+          <Chinesesimp>飞行&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_lock">
           <Original>Lock Target &lt;img image='\xmisc\ctrl_nextarget.paa'/&gt;</Original>
-          <Chinese>鎖定目標&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;</Chinese>
-          <Chinesesimp>锁定目标&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;</Chinesesimp>
+          <Chinese>鎖定目標&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;</Chinese>
+          <Chinesesimp>锁定目标&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_lr_aim">
           <Original>Left/Right &lt;img image='\xmisc\ctrl_strafe.paa'/&gt;</Original>
-          <Chinese>左/右&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinese>
-          <Chinesesimp>左/右&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinesesimp>
+          <Chinese>左/右&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinese>
+          <Chinesesimp>左/右&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_move">
           <Original>Move &lt;img image='\xmisc\ctrl_move.paa'/&gt;</Original>
-          <Chinese>移動&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;</Chinese>
-          <Chinesesimp>移动&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;</Chinesesimp>
+          <Chinese>移動&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;</Chinese>
+          <Chinesesimp>移动&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_scheme_default">
           <Original>Default Scheme</Original>
@@ -26353,68 +26353,68 @@
         </Key>
         <Key ID="str_xbox_controler_ls_optics">
           <Original>Optics &lt;img image='\xmisc\ctrl_nextarget.paa'/&gt;</Original>
-          <Chinese>瞄準鏡&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;</Chinese>
-          <Chinesesimp>瞄准镜&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;</Chinesesimp>
+          <Chinese>瞄準鏡&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;</Chinese>
+          <Chinesesimp>瞄准镜&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_rudder">
           <Original>Rudder &lt;img image='\xmisc\ctrl_strafe.paa'/&gt;</Original>
-          <Chinese>方向舵&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinese>
-          <Chinesesimp>方向舵&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinesesimp>
+          <Chinese>方向舵&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinese>
+          <Chinesesimp>方向舵&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_strafe">
           <Original>Strafe &lt;img image='\xmisc\ctrl_strafe.paa'/&gt;</Original>
-          <Chinese>閃避&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinese>
-          <Chinesesimp>闪避&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinesesimp>
+          <Chinese>閃避&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinese>
+          <Chinesesimp>闪避&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_tilt">
           <Original>Tilt &lt;img image='\xmisc\ctrl_strafe.paa'/&gt;</Original>
-          <Chinese>傾斜&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinese>
-          <Chinesesimp>倾斜&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinesesimp>
+          <Chinese>傾斜&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinese>
+          <Chinesesimp>倾斜&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_up">
           <Original>&lt;img image='\xmisc\ctrl_nextarget.paa'/&gt; Kneel</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;蹲下</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;蹲下</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;蹲下</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;蹲下</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_tilt_move">
           <Original>Tilt &lt;img image='\xmisc\ctrl_move.paa'/&gt;</Original>
-          <Chinese>傾斜&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;</Chinese>
-          <Chinesesimp>倾斜&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;</Chinesesimp>
+          <Chinese>傾斜&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;</Chinese>
+          <Chinesesimp>倾斜&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_turn">
           <Original>Turn &lt;img image='\xmisc\ctrl_strafe.paa'/&gt;</Original>
-          <Chinese>轉動&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinese>
-          <Chinesesimp>转动&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;</Chinesesimp>
+          <Chinese>轉動&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinese>
+          <Chinesesimp>转动&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_ud_aim">
           <Original>&lt;img image='\xmisc\ctrl_move.paa'/&gt; Up/Down</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;向上/向下</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;向上/向下</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;向上/向下</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;向上/向下</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_ud_aim">
           <Original>Up/Down &lt;img image='\xmisc\ctrl_move.paa'/&gt;</Original>
-          <Chinese>向上/向下&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;</Chinese>
-          <Chinesesimp>向上/向下&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;</Chinesesimp>
+          <Chinese>向上/向下&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;</Chinese>
+          <Chinesesimp>向上/向下&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_up">
           <Original>Kneel &lt;img image='\xmisc\ctrl_nextarget.paa'/&gt;</Original>
-          <Chinese>蹲下&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;</Chinese>
-          <Chinesesimp>蹲下&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;</Chinesesimp>
+          <Chinese>蹲下&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;</Chinese>
+          <Chinesesimp>蹲下&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_turn">
           <Original>&lt;img image='\xmisc\ctrl_strafe.paa'/&gt; Turn</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;轉動</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;转动</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;轉動</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;转动</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_ls_zoom">
           <Original>&lt;img image='\xmisc\ctrl_nextarget.paa'/&gt; Zoom</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;變焦</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;变焦</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;變焦</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;变焦</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_tilt_move">
           <Original>&lt;img image='\xmisc\ctrl_move.paa'/&gt; Tilt</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;傾斜度</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;倾斜度</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;傾斜度</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;倾斜度</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_movement">
           <Original>MOVEMENT</Original>
@@ -26423,48 +26423,48 @@
         </Key>
         <Key ID="str_xbox_controler_rs_fly">
           <Original>&lt;img image='\xmisc\ctrl_move.paa'/&gt; Fly</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;飛行</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;飞行</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;飛行</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;飞行</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_tilt">
           <Original>&lt;img image='\xmisc\ctrl_strafe.paa'/&gt; Tilt</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;傾斜度</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;倾斜度</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;傾斜度</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;倾斜度</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_kneel">
           <Original>&lt;img image='\xmisc\ctrl_nextarget.paa'/&gt; Kneel</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;跪著</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;跪着</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;跪著</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;跪着</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_lock">
           <Original>&lt;img image='\xmisc\ctrl_nextarget.paa'/&gt; Lock Target</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;鎖定目標</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;锁定目标</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;鎖定目標</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;锁定目标</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_strafe">
           <Original>&lt;img image='\xmisc\ctrl_strafe.paa'/&gt; Strafe</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;閃避</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;闪避</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;閃避</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;闪避</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_lr_aim">
           <Original>&lt;img image='\xmisc\ctrl_strafe.paa'/&gt; Left/Right</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;左/右</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;左/右</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;左/右</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;左/右</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_move">
           <Original>&lt;img image='\xmisc\ctrl_move.paa'/&gt; Move</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;移動</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_move。paa'/&gt;移动</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;移動</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_move.paa'/&gt;移动</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_rudder">
           <Original>&lt;img image='\xmisc\ctrl_strafe.paa'/&gt; Rudder</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;方向舵</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe。paa'/&gt;方向舵</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;方向舵</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_strafe.paa'/&gt;方向舵</Chinesesimp>
         </Key>
         <Key ID="str_xbox_controler_rs_optics">
           <Original>&lt;img image='\xmisc\ctrl_nextarget.paa'/&gt; Scope/Sights</Original>
-          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;視野/光景</Chinese>
-          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget。paa'/&gt;视野/光景</Chinesesimp>
+          <Chinese>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;視野/光景</Chinese>
+          <Chinesesimp>&lt;imgimage='\xmisc\ctrl_nextarget.paa'/&gt;视野/光景</Chinesesimp>
         </Key>
       </Container>
       <Container name="Radio">
@@ -26771,8 +26771,8 @@
           </Key>
           <Key ID="str_tooltip_main_exit">
             <Original>Quit the game...</Original>
-            <Chinese>離開遊戲。。。</Chinese>
-            <Chinesesimp>离开游戏。。。</Chinesesimp>
+            <Chinese>離開遊戲...</Chinese>
+            <Chinesesimp>离开游戏...</Chinesesimp>
           </Key>
           <Key ID="str_ca_delete">
             <Original>Delete</Original>
@@ -26822,7 +26822,7 @@
           <Key ID="str_ca_multi_new">
             <Original>New</Original>
             <Chinese>創建伺服器</Chinese>
-            <Chinesesimp>创建伺服器</Chinesesimp>
+            <Chinesesimp>创建服务器</Chinesesimp>
           </Key>
           <Key ID="str_ca_multi_remote">
             <Original>Remote</Original>
@@ -27582,7 +27582,7 @@
           <Key ID="str_controls_3d">
             <Original>Camera:\nRMB (drag):\n  rotate camera\nW A S D: move camera\nQ Z: up / down\nShift: turbo\n</Original>
             <Chinese>鏡頭:\n滑鼠右鍵(拖拽):\n旋轉鏡頭\nWASD:移動鏡頭\nQZ:上/下\nShift:加速\n</Chinese>
-            <Chinesesimp>镜头:\n滑鼠右键(拖拽):\n旋转镜头\nWASD:移动镜头\nQZ:上/下\nShift:加速\n</Chinesesimp>
+            <Chinesesimp>镜头:\n鼠标右键(拖拽):\n旋转镜头\nWASD:移动镜头\nQZ:上/下\nShift:加速\n</Chinesesimp>
           </Key>
           <Key ID="str_editor_mode_2d">
             <Original>Mode: 2D editing</Original>
@@ -27617,7 +27617,7 @@
           <Key ID="str_controls_map">
             <Original>Map:\nMouse wheel:\n  zoom in/out\nRMB (drag): move map\n</Original>
             <Chinese>地圖:\n滑鼠滾輪:\n放大/縮小\n滑鼠右鍵(拖曳):移動地圖\n</Chinese>
-            <Chinesesimp>地图:\n滑鼠滚轮:\n放大/缩小\n滑鼠右键(拖曳):移动地图\n</Chinesesimp>
+            <Chinesesimp>地图:\n鼠标滚轮:\n放大/缩小\n鼠标右键(拖曳):移动地图\n</Chinesesimp>
           </Key>
           <Key ID="str_editor_menu_ctx_set_cam_pos">
             <Original>Default camera</Original>
@@ -27647,7 +27647,7 @@
           <Key ID="str_controls_mouse_no_object">
             <Original>Objects:\nLMB (dbl click):\n  new object\nLMB (drag):\n  select multiple\n</Original>
             <Chinese>物件:\n滑鼠左鍵(雙擊):\n新物件\n滑鼠左鍵(拖曳):\n選擇多名物件\n</Chinese>
-            <Chinesesimp>物件:\n滑鼠左键(双击):\n新物件\n滑鼠左键(拖曳):\n选择多名物件\n</Chinesesimp>
+            <Chinesesimp>物件:\n鼠标左键(双击):\n新物件\n鼠标左键(拖曳):\n选择多名物件\n</Chinesesimp>
           </Key>
           <Key ID="str_editor_menu_ctx_center_map">
             <Original>Center in map</Original>
@@ -27657,22 +27657,22 @@
           <Key ID="str_controls_mouse_selected_3d">
             <Original>Selected:\nRMB (shift+drag):\n  rotate selected\nRMB (alt+drag):\n  raise/lower selected\n</Original>
             <Chinese>選擇:\n滑鼠右鍵(shift+拖曳):\n旋轉物件\n滑鼠右鍵(alt+拖曳):\n升高/降低物件\n</Chinese>
-            <Chinesesimp>选择:\n滑鼠右键(shift+拖曳):\n旋转物件\n滑鼠右键(alt+拖曳):\n升高/降低物件\n</Chinesesimp>
+            <Chinesesimp>选择:\n鼠标右键(shift+拖曳):\n旋转物件\n鼠标右键(alt+拖曳):\n升高/降低物件\n</Chinesesimp>
           </Key>
           <Key ID="str_controls_mouse_selected_map">
             <Original>Selected:\nRMB (shift+drag):\n  rotate selected\n</Original>
             <Chinese>選擇:\n滑鼠右鍵(shift+拖曳):\n旋轉物件\n</Chinese>
-            <Chinesesimp>选择:\n滑鼠右键(shift+拖曳):\n旋转物件\n</Chinesesimp>
+            <Chinesesimp>选择:\n鼠标右键(shift+拖曳):\n旋转物件\n</Chinesesimp>
           </Key>
           <Key ID="str_controls_mouse_selected_object_3d">
             <Original>Objects:\nLMB (dbl click):\n  edit object\nLMB (drag):\n  move object\n</Original>
             <Chinese>物件:\n滑鼠左鍵(雙擊):\n編輯物件\n滑鼠左鍵(拖曳):\n移動物件\n</Chinese>
-            <Chinesesimp>物件:\n滑鼠左键(双击):\n编辑物件\n滑鼠左键(拖曳):\n移动物件\n</Chinesesimp>
+            <Chinesesimp>物件:\n鼠标左键(双击):\n编辑物件\n鼠标左键(拖曳):\n移动物件\n</Chinesesimp>
           </Key>
           <Key ID="str_controls_mouse_selected_object_map">
             <Original>Objects:\nLMB (dbl click):\n  edit object\nLMB (drag):\n  move object\nLMB (shift+drag):\n  create link\n</Original>
             <Chinese>物件:\n滑鼠左鍵(雙擊):\n編輯物件\n滑鼠左鍵(拖曳):\n移動物件\n滑鼠左鍵(shift+拖曳):\n創造連接\n</Chinese>
-            <Chinesesimp>物件:\n滑鼠左键(双击):\n编辑物件\n滑鼠左键(拖曳):\n移动物件\n滑鼠左键(shift+拖曳):\n创造连接\n</Chinesesimp>
+            <Chinesesimp>物件:\n鼠标左键(双击):\n编辑物件\n鼠标左键(拖曳):\n移动物件\n鼠标左键(shift+拖曳):\n创造连接\n</Chinesesimp>
           </Key>
           <Key ID="str_editor_prompt_save">
             <Original>Save current overlay?</Original>
@@ -27682,12 +27682,12 @@
           <Key ID="str_controls_mouse_unselected_object_3d">
             <Original>Objects:\nLMB:\n  select object\nLMB (dbl click):\n  edit object\nLMB (drag):\n  move object\n</Original>
             <Chinese>物件:\n滑鼠左鍵:\n選擇物件\n滑鼠左鍵(雙擊):\n編輯物件\n滑鼠左鍵(拖曳):\n移動物件\n</Chinese>
-            <Chinesesimp>物件:\n滑鼠左键:\n选择物件\n滑鼠左键(双击):\n编辑物件\n滑鼠左键(拖曳):\n移动物件\n</Chinesesimp>
+            <Chinesesimp>物件:\n鼠标左键:\n选择物件\n鼠标左键(双击):\n编辑物件\n鼠标左键(拖曳):\n移动物件\n</Chinesesimp>
           </Key>
           <Key ID="str_controls_mouse_unselected_object_map">
             <Original>Objects:\nLMB:\n  select object\nLMB (dbl click):\n  edit object\nLMB (drag):\n  move object\nLMB (shift+drag):\n  create link\n</Original>
             <Chinese>物件:\n滑鼠左鍵:\n選擇物件\n滑鼠左鍵(雙擊):\n編輯物件\n滑鼠左鍵(拖曳):\n移動物件\n滑鼠左鍵(shift+拖曳):\n創造連接\n</Chinese>
-            <Chinesesimp>物件:\n滑鼠左键:\n选择物件\n滑鼠左键(双击):\n编辑物件\n滑鼠左键(拖曳):\n移动物件\n滑鼠左键(shift+拖曳):\n创造连接\n</Chinesesimp>
+            <Chinesesimp>物件:\n鼠标左键:\n选择物件\n鼠标左键(双击):\n编辑物件\n鼠标左键(拖曳):\n移动物件\n鼠标左键(shift+拖曳):\n创造连接\n</Chinesesimp>
           </Key>
           <Key ID="str_editor_prompt_overlay_saved">
             <Original>Overlay saved.</Original>

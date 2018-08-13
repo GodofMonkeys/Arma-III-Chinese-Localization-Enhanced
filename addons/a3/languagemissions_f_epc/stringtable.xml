@@ -831,8 +831,8 @@
             </Key>
             <Key ID="str_a3_c_in2_35_attack_ker_1">
               <Original>Uh - our AA - Omicron - Kilo, and... Starfire! I can see the fires from here!</Original>
-              <Chinese>呃-我們的防空陣地-Omicron-Kilo，還有。。。Starfire!我從這裡就可以看到那邊的火光!</Chinese>
-              <Chinesesimp>呃-我们的防空阵地-"奥米克戎"-"基洛"，还有。。。"星火"!我从这里就可以看到那边的火光!</Chinesesimp>
+              <Chinese>呃-我們的防空陣地-Omicron-Kilo，還有...Starfire!我從這裡就可以看到那邊的火光!</Chinese>
+              <Chinesesimp>呃-我们的防空阵地-"奥米克戎"-"基洛"，还有..."星火"!我从这里就可以看到那边的火光!</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_Team_Dead" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="30_Team_Dead" dubbingLanguage="english" namePrefix="c_in2_30_team_dead" note="" participants="EPC B Player;" situation="kerry finds his team dead.">
@@ -886,8 +886,8 @@
           <Container name="10_Boats" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="10_Boats" dubbingLanguage="english" namePrefix="c_in2_10_boats" note="" participants="EPC B Player;" situation="kerry spots csat landing craft.">
             <Key ID="str_a3_c_in2_10_boats_ker_0">
               <Original>What the..?</Original>
-              <Chinese>搞什麼。。?</Chinese>
-              <Chinesesimp>搞什么。。?</Chinesesimp>
+              <Chinese>搞什麼..?</Chinese>
+              <Chinesesimp>搞什么..?</Chinesesimp>
             </Key>
           </Container>
           <Container name="105_Attack_Defeated" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="105_Attack_Defeated" dubbingLanguage="english" namePrefix="c_in2_105_attack_defeated" note="" participants="EPC B Player;EPC B HQ;" situation="kerry successfully defeats the enemy armor.">
@@ -1226,15 +1226,15 @@
           <Container name="45_Tremors" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="45_Tremors" dubbingLanguage="english" namePrefix="c_m01_45_tremors" note="" participants="EPC B Player;EPC B Member;EPC B HQ;" situation="earthquake during the assault">
             <Key ID="str_a3_c_m01_45_tremors_ker_0">
               <Original>...The fuck was that?</Original>
-              <Chinese>。。。他媽的搞啥?</Chinese>
-              <Chinesesimp>。。。他妈的搞啥?</Chinesesimp>
+              <Chinese>...他媽的搞啥?</Chinese>
+              <Chinesesimp>...他妈的搞啥?</Chinesesimp>
             </Key>
           </Container>
           <Container name="43_AA_Aside" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="43_AA_Aside" dubbingLanguage="english" namePrefix="c_m01_43_aa_aside" note="" participants="EPC B Player;" situation="kerry reports point texas secured">
             <Key ID="str_a3_c_m01_43_aa_aside_ker_0">
               <Original>Well, we couldn't have picked a better spot to watch the show...</Original>
-              <Chinese>恩，看來我們找不到更好的地方來觀看這場表演了。。。</Chinese>
-              <Chinesesimp>恩，看来我们找不到更好的地方来观看这场表演了。。。</Chinesesimp>
+              <Chinese>恩，看來我們找不到更好的地方來觀看這場表演了...</Chinese>
+              <Chinesesimp>恩，看来我们找不到更好的地方来观看这场表演了...</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_AA_Neutralized" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="40_AA_Neutralized" dubbingLanguage="english" namePrefix="c_m01_40_aa_neutralized" note="" participants="EPC B Player;EPC B HQ;" situation="kerry reports point texas secured">
@@ -1257,13 +1257,13 @@
           <Container name="35_Lift_Going_Down" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="35_Lift_Going_Down" dubbingLanguage="english" namePrefix="c_m01_35_lift_going_down" note="" participants="EPC B Player;EPC B Abstract B;EPC B HQ;" situation="airlift under fire">
             <Key ID="str_a3_c_m01_35_lift_going_down_abb_0">
               <Original>Golf-2-2 to Crossroads - we're under fire - Golf-2-2 sustaining heavy fire from ...</Original>
-              <Chinese>Golf-2-2呼叫Crossroads-我們正遭受攻擊-Golf-2-2正承受猛烈的攻擊，他們在。。。</Chinese>
-              <Chinesesimp>"高尔夫"-2-2呼叫"十字路口"-我们正遭受攻击-"高尔夫"-2-2正承受猛烈的攻击，他们在。。。</Chinesesimp>
+              <Chinese>Golf-2-2呼叫Crossroads-我們正遭受攻擊-Golf-2-2正承受猛烈的攻擊，他們在...</Chinese>
+              <Chinesesimp>"高尔夫"-2-2呼叫"十字路口"-我们正遭受攻击-"高尔夫"-2-2正承受猛烈的攻击，他们在...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_35_lift_going_down_bhq_0">
               <Original>Golf-2-2, come in! ... Golf-2-2, respond!</Original>
-              <Chinese>Golf-2-2，說話!。。。Golf-2-2，請回答!</Chinese>
-              <Chinesesimp>"高尔夫"-2-2，说话!。。。"高尔夫"-2-2，请回答!</Chinesesimp>
+              <Chinese>Golf-2-2，說話!...Golf-2-2，請回答!</Chinese>
+              <Chinesesimp>"高尔夫"-2-2，说话!..."高尔夫"-2-2，请回答!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_35_lift_going_down_ker_0">
               <Original>No, no, no - fuck!</Original>
@@ -1409,8 +1409,8 @@
             </Key>
             <Key ID="str_a3_c_m01_05_hello_ker_6">
               <Original>Any questions? ... Good.</Original>
-              <Chinese>有任何問題嗎?。。。很好。</Chinese>
-              <Chinesesimp>有任何问题吗?。。。很好。</Chinesesimp>
+              <Chinese>有任何問題嗎?...很好。</Chinese>
+              <Chinesesimp>有任何问题吗?...很好。</Chinesesimp>
             </Key>
           </Container>
           <Container name="03_Stage_1" audioFilePath="\a3\dubbing_f_epc\c_m01" dialogName="03_Stage_1" dubbingLanguage="english" namePrefix="c_m01_03_stage_1" note="" participants="EPC B HQ;EPC B Player;" situation="hq moves the operation to stage 1.">
@@ -1443,8 +1443,8 @@
             </Key>
             <Key ID="str_a3_c_m01_01_start_ker_2">
               <Original>Sure. A cakewalk. ... Okay, man, that's my ride. Keep your head down.</Original>
-              <Chinese>恩。小菜一碟。。。。好的，老兄，我的車到了。保持安全啊。</Chinese>
-              <Chinesesimp>行吧。小菜一碟。。。。好的，老兄，我的车到了。保持安全啊。</Chinesesimp>
+              <Chinese>恩。小菜一碟....好的，老兄，我的車到了。保持安全啊。</Chinese>
+              <Chinesesimp>行吧。小菜一碟....好的，老兄，我的车到了。保持安全啊。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m01_01_start_mem_1">
               <Original>There is none. We gotta seize the harbor near the runway first.</Original>
@@ -1967,8 +1967,8 @@
           <Container name="55_anUnexpectedCallReaction" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="55_anUnexpectedCallReaction" dubbingLanguage="english" namePrefix="c_m02_55_anunexpectedcallreaction" note="" participants="EPC B Player;" situation="kerry talks to himself, after receiving an unknown radio message">
             <Key ID="str_a3_c_m02_55_anunexpectedcallreaction_ker_0">
               <Original>... Who the hell?</Original>
-              <Chinese>。。。誰啊?</Chinese>
-              <Chinesesimp>。。。谁啊?</Chinesesimp>
+              <Chinese>...誰啊?</Chinese>
+              <Chinesesimp>...谁啊?</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_anUnexpectedCall" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="50_anUnexpectedCall" dubbingLanguage="english" namePrefix="c_m02_50_anunexpectedcall" note="" participants="EPC I Nikos;" situation="kerry is contacted by an fia member">
@@ -2015,8 +2015,8 @@
             </Key>
             <Key ID="str_a3_c_m02_47_earthquakesmallgroup_ker_1">
               <Original>...</Original>
-              <Chinese>。。。</Chinese>
-              <Chinesesimp>。。。</Chinesesimp>
+              <Chinese>...</Chinese>
+              <Chinesesimp>...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_47_earthquakesmallgroup_lea_0">
               <Original>Listen up! Command reports seismic activity in their AO. Stay sharp.</Original>
@@ -2252,8 +2252,8 @@
           <Container name="10_ambush" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="10_ambush" dubbingLanguage="english" namePrefix="c_m02_10_ambush" note="" participants="EPC B Abstract A;" situation="convoy becomes aware of an ambush">
             <Key ID="str_a3_c_m02_10_ambush_aba_0">
               <Original>What the fuck? ... Enemy contact! Vehicle, 12 o'clock! Open up, open up!</Original>
-              <Chinese>搞什麼鬼?。。。接敵!載具，12點鐘方向!開火，開火!</Chinese>
-              <Chinesesimp>搞什么鬼?。。。接敌!车辆，12点钟方向!开火，开火!</Chinesesimp>
+              <Chinese>搞什麼鬼?...接敵!載具，12點鐘方向!開火，開火!</Chinese>
+              <Chinesesimp>搞什么鬼?...接敌!车辆，12点钟方向!开火，开火!</Chinesesimp>
             </Key>
           </Container>
           <Container name="105_cemeteryArrival" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="105_cemeteryArrival" dubbingLanguage="english" namePrefix="c_m02_105_cemeteryarrival" note="" participants="EPC B Abstract B;EPC B Leader;" situation="convoy reaches the friendly squad position">
@@ -2298,8 +2298,8 @@
             </Key>
             <Key ID="str_a3_c_m02_102_investigationexplained_ker_1">
               <Original>Uh ... Affirmative, sir.</Original>
-              <Chinese>呵。。。知道了，長官。</Chinese>
-              <Chinesesimp>嗯。。。知道了，长官。</Chinesesimp>
+              <Chinese>呵...知道了，長官。</Chinese>
+              <Chinesesimp>嗯...知道了，长官。</Chinesesimp>
             </Key>
           </Container>
           <Container name="100_reinforcementsArrivedGroup" audioFilePath="\a3\dubbing_f_epc\c_m02" dialogName="100_reinforcementsArrivedGroup" dubbingLanguage="english" namePrefix="c_m02_100_reinforcementsarrivedgroup" note="" participants="EPC B Leader;" situation="squad leader orders subordinates to enter the convoy vehicles">
@@ -2756,8 +2756,8 @@
           <Container name="42_earthQuake" audioFilePath="\a3\dubbing_f_epc\c_out1" dialogName="42_earthQuake" dubbingLanguage="english" namePrefix="c_out1_42_earthquake" note="" participants="EPC B Player;" situation="kerry reacts to earth quake">
             <Key ID="str_a3_c_out1_42_earthquake_ker_0">
               <Original>What the literal fuck..?</Original>
-              <Chinese>他媽的又來了。。?</Chinese>
-              <Chinesesimp>他妈的又来了。。?</Chinesesimp>
+              <Chinese>他媽的又來了..?</Chinese>
+              <Chinesesimp>他妈的又来了..?</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_rallyPoint" audioFilePath="\a3\dubbing_f_epc\c_out1" dialogName="40_rallyPoint" dubbingLanguage="english" namePrefix="c_out1_40_rallypoint" note="" participants="EPC B HQ;EPC B Player;" situation="ground troops rally up and start moving towards kalochori">
@@ -3015,28 +3015,28 @@
           <Container name="x05_James_Bypassed" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="x05_James_Bypassed" dubbingLanguage="english" namePrefix="c_out2_x05_james_bypassed" note="" participants="EPC B James;EPC B Player;" situation="kerry gets in the truck carrying the device before meeting james.">
             <Key ID="str_a3_c_out2_x05_james_bypassed_jam_0">
               <Original>Kerry... Is that you? ...</Original>
-              <Chinese>Kerry。。。是你嗎?。。。</Chinese>
-              <Chinesesimp>克里。。。是你吗?。。。</Chinesesimp>
+              <Chinese>Kerry...是你嗎?...</Chinese>
+              <Chinesesimp>克里...是你吗?...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_jam_1">
               <Original>Do you think you... Made enough noise, Kerry? ...</Original>
-              <Chinese>你不覺得你。。。噪音有點弄得太多了，Kerry?。。。</Chinese>
-              <Chinesesimp>你不觉得你。。。动静弄得太大了，克里?。。。</Chinesesimp>
+              <Chinese>你不覺得你...噪音有點弄得太多了，Kerry?...</Chinese>
+              <Chinesesimp>你不觉得你...动静弄得太大了，克里?...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_jam_2">
               <Original>Take it to Miller... Ruins... Two-Zero-Zero... Two-Zero-Zero...</Original>
-              <Chinese>把它交給Miller。。。遺址裡。。。2-0-0。。。2-0-0。。。</Chinese>
-              <Chinesesimp>把它交给米勒。。。在遗址里。。。2-0-0。。。2-0-0。。。</Chinesesimp>
+              <Chinese>把它交給Miller...遺址裡...2-0-0...2-0-0...</Chinese>
+              <Chinesesimp>把它交给米勒...在遗址里...2-0-0...2-0-0...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_ker_0">
               <Original>Lieutenant! Yeah, it's me. I'm in this... Actually, I don't know what the hell it is. A truck carrying something.</Original>
-              <Chinese>上尉!是，是我。我在這台。。。事實上，我不知道這是啥鬼東西。這台卡車好像載著些什麼。</Chinese>
-              <Chinesesimp>上尉!是，是我。我在这辆。。。事实上，我也不知道这是辆啥鬼东西。反正是一辆不知道载着什么东西的卡车。</Chinesesimp>
+              <Chinese>上尉!是，是我。我在這台...事實上，我不知道這是啥鬼東西。這台卡車好像載著些什麼。</Chinese>
+              <Chinesesimp>上尉!是，是我。我在这辆...事实上，我也不知道这是辆啥鬼东西。反正是一辆不知道载着什么东西的卡车。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_jam_3">
               <Original>Forget about that... Kerry... I'm done for...</Original>
-              <Chinese>忘了我吧。。。Kerry。。。我已經差不多了。。。</Chinese>
-              <Chinesesimp>算了吧。。。克里。。。我已经完蛋了。。。</Chinesesimp>
+              <Chinese>忘了我吧...Kerry...我已經差不多了...</Chinese>
+              <Chinesesimp>算了吧...克里...我已经完蛋了...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_ker_1">
               <Original>No, not before I come pick you up.</Original>
@@ -3045,8 +3045,8 @@
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_ker_2">
               <Original>Lieutenant? ... Goddammit.</Original>
-              <Chinese>上尉?。。。天殺的。</Chinese>
-              <Chinesesimp>上尉?。。。天杀的。</Chinesesimp>
+              <Chinese>上尉?...天殺的。</Chinese>
+              <Chinesesimp>上尉?...天杀的。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x03_Plane_Destroyed" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="x03_Plane_Destroyed" dubbingLanguage="english" namePrefix="c_out2_x03_plane_destroyed" note="" participants="EPC B HQ;EPC B Player;" situation="the airplane is shot down.">
@@ -3278,18 +3278,18 @@
           <Container name="35_The_Device" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="35_The_Device" dubbingLanguage="english" namePrefix="c_out2_35_the_device" note="" participants="EPC B James;EPC B Player;" situation="james tells kerry what he has to do.">
             <Key ID="str_a3_c_out2_35_the_device_jam_0">
               <Original>Kerry ... There's not much time...</Original>
-              <Chinese>Kerry。。。我沒有多少時間了。。。</Chinese>
-              <Chinesesimp>克里。。。我没有多少时间了。。。</Chinesesimp>
+              <Chinese>Kerry...我沒有多少時間了...</Chinese>
+              <Chinesesimp>克里...我没有多少时间了...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_1">
               <Original>Shut the fuck up ... Listen, Kerry!</Original>
-              <Chinese>你先給我閉嘴。。。聽著，Kerry!</Chinese>
-              <Chinesesimp>你先特么闭嘴。。。听好，克里!</Chinesesimp>
+              <Chinese>你先給我閉嘴...聽著，Kerry!</Chinese>
+              <Chinesesimp>你先特么闭嘴...听好，克里!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_2">
               <Original>In the base ... There's something... A... A truck...</Original>
-              <Chinese>在那個基地。。。裡面有某個東西。。。一台。。。一台卡車。。。</Chinese>
-              <Chinesesimp>在那个基地。。。里面有个东西。。。一辆。。。一辆卡车。。。</Chinesesimp>
+              <Chinese>在那個基地...裡面有某個東西...一台...一台卡車...</Chinese>
+              <Chinesesimp>在那个基地...里面有个东西...一辆...一辆卡车...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_ker_0">
               <Original>Fuck, man! What happened? What is this place?</Original>
@@ -3298,18 +3298,18 @@
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_3">
               <Original>You'll know it... When you see it. You'll know...</Original>
-              <Chinese>你會知道的。。。當你看到它時。你就會知道了。。。</Chinese>
-              <Chinesesimp>你会明白的。。。当你看到它时。你就都明白了。。。</Chinesesimp>
+              <Chinese>你會知道的...當你看到它時。你就會知道了...</Chinese>
+              <Chinesesimp>你会明白的...当你看到它时。你就都明白了...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_4">
               <Original>Take it to Miller... He's... He's north of here...</Original>
-              <Chinese>把它交給Miller。。。他在。。。他在這裡的北邊。。。</Chinese>
-              <Chinesesimp>把它交给米勒。。。他在。。。他在这里的北边。。。</Chinesesimp>
+              <Chinese>把它交給Miller...他在...他在這裡的北邊...</Chinese>
+              <Chinesesimp>把它交给米勒...他在...他在这里的北边...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_5">
               <Original>Two-Zero-Zero... Two-Zero-Zero... Ruins...</Original>
-              <Chinese>2-0-0。。。2-0-0。。。遺址裡。。。</Chinese>
-              <Chinesesimp>2-0-0。。。2-0-0。。。遗址里。。。</Chinesesimp>
+              <Chinese>2-0-0...2-0-0...遺址裡...</Chinese>
+              <Chinesesimp>2-0-0...2-0-0...遗址里...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_ker_1">
               <Original>Lieutenant - respectfully - what the fuck are you talking about?</Original>
@@ -3318,8 +3318,8 @@
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_6">
               <Original>We tried... We...</Original>
-              <Chinese>我們嘗試過了。。。我們。。。</Chinese>
-              <Chinesesimp>我们努力了。。。我们。。。</Chinesesimp>
+              <Chinese>我們嘗試過了...我們...</Chinese>
+              <Chinesesimp>我们努力了...我们...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_ker_2">
               <Original>Miller? Where? Where north of here?</Original>
@@ -3330,13 +3330,13 @@
           <Container name="30_Wave" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="30_Wave" dubbingLanguage="english" namePrefix="c_out2_30_wave" note="" participants="EPC B James;EPC B Player;" situation="james waves at kerry as he approaches.">
             <Key ID="str_a3_c_out2_30_wave_jam_0">
               <Original>Over here...</Original>
-              <Chinese>這裡。。。</Chinese>
-              <Chinesesimp>这里。。。</Chinesesimp>
+              <Chinese>這裡...</Chinese>
+              <Chinesesimp>这里...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_30_wave_jam_1">
               <Original>Kerry...</Original>
-              <Chinese>Kerry。。。</Chinese>
-              <Chinesesimp>克里。。。</Chinesesimp>
+              <Chinese>Kerry...</Chinese>
+              <Chinesesimp>克里...</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_Defeated" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="25_Defeated" dubbingLanguage="english" namePrefix="c_out2_25_defeated" note="" participants="EPC B HQ;EPC B Abstract B;EPC B Player;" situation="crossroads informs forces of aaf surrender.">
@@ -3498,13 +3498,13 @@
             </Key>
             <Key ID="str_a3_c_out2_01_start_jam_0">
               <Original>... Kerry ... Do you copy? ...</Original>
-              <Chinese>。。。Kerry。。。你有收到嗎?。。。</Chinese>
-              <Chinesesimp>。。。克里。。。你收到没?。。。</Chinesesimp>
+              <Chinese>...Kerry...你有收到嗎?...</Chinese>
+              <Chinesesimp>...克里...你收到没?...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_01_start_jam_1">
               <Original>I'm... Checkpoint ... 210 ... 189 ...</Original>
-              <Chinese>我在。。。檢查哨。。。210。。。189。。。</Chinese>
-              <Chinesesimp>我在。。。检查哨。。。210。。。189。。。</Chinesesimp>
+              <Chinese>我在...檢查哨...210...189...</Chinese>
+              <Chinesesimp>我在...检查哨...210...189...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_01_start_ker_1">
               <Original>Lieutenant? What the fuck? Where are you?</Original>
@@ -3518,13 +3518,13 @@
             </Key>
             <Key ID="str_a3_c_out2_01_start_ker_3">
               <Original>... What the hell ... 210-189? ... there's nothing up there.</Original>
-              <Chinese>。。。見鬼了。。。210-189?。。。那邊什麼都沒有啊。</Chinese>
-              <Chinesesimp>。。。见鬼了。。。210-189?。。。那边什么都没有啊。</Chinesesimp>
+              <Chinese>...見鬼了...210-189?...那邊什麼都沒有啊。</Chinese>
+              <Chinesesimp>...见鬼了...210-189?...那边什么都没有啊。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_01_start_ker_4">
               <Original>Lieutenant? Respond! ... Goddammit!</Original>
-              <Chinese>上尉?請回答!。。。天殺的!</Chinese>
-              <Chinesesimp>上尉?请回答!。。。天杀的!</Chinesesimp>
+              <Chinese>上尉?請回答!...天殺的!</Chinese>
+              <Chinesesimp>上尉?请回答!...天杀的!</Chinesesimp>
             </Key>
           </Container>
           <Key ID="str_a3_c_out2_bis_ctrg_desc">
@@ -3832,8 +3832,8 @@
             </Key>
             <Key ID="str_a3_c_ea_30_chattooilstation_ker_1">
               <Original>I don't follow...</Original>
-              <Chinese>我不明白你的意思。。。</Chinese>
-              <Chinesesimp>我不明白你的意思。。。</Chinesesimp>
+              <Chinese>我不明白你的意思...</Chinese>
+              <Chinesesimp>我不明白你的意思...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_30_chattooilstation_jou_5">
               <Original>Oh, believe me, Sergeant Kerry, I'm trying.</Original>
@@ -3847,8 +3847,8 @@
             </Key>
             <Key ID="str_a3_c_ea_30_chattooilstation_ker_3">
               <Original>But, speaking off the record ... they still don't really know for sure.</Original>
-              <Chinese>不過，老實來講。。。他們到現在都還沒有搞清楚真正的原因。</Chinese>
-              <Chinesesimp>不过，老实来讲。。。他们到现在都还没有搞清楚真正的原因。</Chinesesimp>
+              <Chinese>不過，老實來講...他們到現在都還沒有搞清楚真正的原因。</Chinese>
+              <Chinesesimp>不过，老实来讲...他们到现在都还没有搞清楚真正的原因。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_ea_30_chattooilstation_ker_4">
               <Original>I mean, Christ, sure, it's easy to blame CSAT. But the greenbacks - sorry, the AAF - they definitely needed a push.</Original>
@@ -4083,8 +4083,8 @@
             </Key>
             <Key ID="str_a3_c_eb_50_escaped_ker_1">
               <Original>Can't say I'm sad to see that place go ...</Original>
-              <Chinese>看到這塊地變成這樣我還是挺難過的。。。</Chinese>
-              <Chinesesimp>看到这块地变成这样我还是挺难过的。。。</Chinesesimp>
+              <Chinese>看到這塊地變成這樣我還是挺難過的...</Chinese>
+              <Chinesesimp>看到这块地变成这样我还是挺难过的...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_50_escaped_ker_2">
               <Original>But now what?</Original>
@@ -4137,8 +4137,8 @@
             </Key>
             <Key ID="str_a3_c_eb_40_fia_gua_4">
               <Original>Thank God. Okay ... we'll wait. Just be aware, we've got one AAF guy with us - he's friendly - so don't shoot him!</Original>
-              <Chinese>感謝老天。好的。。。我們會在這邊等。但請小心，我們這裡還有一個AAF的傢伙跟著我們-他是友軍-所以請不要誤擊他!</Chinese>
-              <Chinesesimp>感谢老天。好的。。。我们会在这边等。但请小心，我们这里还有一个阿尔蒂斯武装力量的家伙跟着我们-他是友军-所以请不要误击他!</Chinesesimp>
+              <Chinese>感謝老天。好的...我們會在這邊等。但請小心，我們這裡還有一個AAF的傢伙跟著我們-他是友軍-所以請不要誤擊他!</Chinese>
+              <Chinesesimp>感谢老天。好的...我们会在这边等。但请小心，我们这里还有一个阿尔蒂斯武装力量的家伙跟着我们-他是友军-所以请不要误击他!</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_40_fia_ker_1">
               <Original>Alright, I'll see what I can do.</Original>
@@ -4166,8 +4166,8 @@
             </Key>
             <Key ID="str_a3_c_eb_30_nato_ker_1">
               <Original>Okay. Right ... Okay, just stay put. I'll find some truck and pick you up.</Original>
-              <Chinese>好。好吧。。。恩，你們堅持住。我會試著找輛卡車去接你們。</Chinese>
-              <Chinesesimp>好。好吧。。。嗯，你们坚持住。我看看能不能找辆卡车去接你们。</Chinesesimp>
+              <Chinese>好。好吧...恩，你們堅持住。我會試著找輛卡車去接你們。</Chinese>
+              <Chinesesimp>好。好吧...嗯，你们坚持住。我看看能不能找辆卡车去接你们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_30_nato_mem_0">
               <Original>This is Bravo-2-1, does anybody read me? Anyone - what the fuck is going on!?</Original>
@@ -4181,8 +4181,8 @@
             </Key>
             <Key ID="str_a3_c_eb_30_nato_mem_2">
               <Original>Our transport was knocked out. We're holed up in some construction site ... north of Paros.</Original>
-              <Chinese>我們的交通工具已經報銷了。我們正躲在某個工地裡。。。在Paros的北邊。</Chinese>
-              <Chinesesimp>我们的交通工具已经报销了。我们正躲在某个工地里。。。在帕罗斯的北边。</Chinesesimp>
+              <Chinese>我們的交通工具已經報銷了。我們正躲在某個工地裡...在Paros的北邊。</Chinese>
+              <Chinesesimp>我们的交通工具已经报销了。我们正躲在某个工地里...在帕罗斯的北边。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_eb_30_nato_mem_3">
               <Original>Appreciated. Oh, and just a head's up: try to avoid any large settlements and the airbase - CSAT's executed a massive invasion on the whole island.</Original>
@@ -4220,15 +4220,15 @@
             </Key>
             <Key ID="str_a3_c_eb_20_gameover_ker_2">
               <Original>Ports and LZs should be marked on my map. But I'd better stay the hell out of trouble...</Original>
-              <Chinese>港口跟降落點應該都有標記在我的地圖上。不過我最好盡量遠離麻煩。。。</Chinese>
-              <Chinesesimp>港口跟降落点应该都有标记在我的地图上。不过我最好尽量远离麻烦。。。</Chinesesimp>
+              <Chinese>港口跟降落點應該都有標記在我的地圖上。不過我最好盡量遠離麻煩...</Chinese>
+              <Chinesesimp>港口跟降落点应该都有标记在我的地图上。不过我最好尽量远离麻烦...</Chinesesimp>
             </Key>
           </Container>
           <Container name="16_Crossroads" audioFilePath="\a3\dubbing_f_epc\c_eb" dialogName="16_Crossroads" dubbingLanguage="english" namePrefix="c_eb_16_crossroads" note="" participants="EPC B HQ;" situation="blufor hq for all units">
             <Key ID="str_a3_c_eb_16_crossroads_bhq_0">
               <Original>Crossroads to all units, Crossroads to all units, do not...</Original>
-              <Chinese>Crossroads致所有單位，Crossroads致所有單位，不要。。。</Chinese>
-              <Chinesesimp>"十字路口"致所有单位，"十字路口"致所有单位，不要。。。</Chinesesimp>
+              <Chinese>Crossroads致所有單位，Crossroads致所有單位，不要...</Chinese>
+              <Chinesesimp>"十字路口"致所有单位，"十字路口"致所有单位，不要...</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_SOS" audioFilePath="\a3\dubbing_f_epc\c_eb" dialogName="15_SOS" dubbingLanguage="english" namePrefix="c_eb_15_sos" note="" participants="EPC B Player;" situation="kerry calls sos">
@@ -4293,8 +4293,8 @@
             </Key>
             <Key ID="str_a3_c_eb_05_miller_mil_3">
               <Original>...</Original>
-              <Chinese>。。。</Chinese>
-              <Chinesesimp>。。。</Chinesesimp>
+              <Chinese>...</Chinese>
+              <Chinesesimp>...</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_Prolog" audioFilePath="\a3\dubbing_f_epc\c_eb" dialogName="01_Prolog" dubbingLanguage="english" namePrefix="c_eb_01_prolog" note="" participants="EPC B Player;" situation="kerry calling miller">
@@ -4444,8 +4444,8 @@
           <Container name="x35_ParachutingAboveWater" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="x35_ParachutingAboveWater" dubbingLanguage="english" namePrefix="showcase_fixedwings_x35_parachutingabovewater" note="" participants="EPC B Leader;" situation="player parachuted above water">
             <Key ID="str_a3_showcase_fixedwings_x35_parachutingabovewater_lea_0">
               <Original>Ah, shit, looks like a wet landing...</Original>
-              <Chinese>喔，幹，看來這下我會濕身了。。。</Chinese>
-              <Chinesesimp>喔，操，看来这下我会湿身了。。。</Chinesesimp>
+              <Chinese>喔，幹，看來這下我會濕身了...</Chinese>
+              <Chinesesimp>喔，操，看来这下我会湿身了...</Chinesesimp>
             </Key>
           </Container>
           <Container name="x30_LandedIntoWater" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="x30_LandedIntoWater" dubbingLanguage="english" namePrefix="showcase_fixedwings_x30_landedintowater" note="" participants="EPC B Leader;" situation="player landed into water">
@@ -4458,15 +4458,15 @@
           <Container name="x25_ParachutingAboveLand" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="x25_ParachutingAboveLand" dubbingLanguage="english" namePrefix="showcase_fixedwings_x25_parachutingaboveland" note="" participants="EPC B Leader;" situation="player parachuted above land">
             <Key ID="str_a3_showcase_fixedwings_x25_parachutingaboveland_lea_0">
               <Original>Ah, Christ, I'd better avoid those trees...</Original>
-              <Chinese>喔，天啊，我最好避開那些樹。。。</Chinese>
-              <Chinesesimp>喔，天啊，我最好避开那些树。。。</Chinesesimp>
+              <Chinese>喔，天啊，我最好避開那些樹...</Chinese>
+              <Chinesesimp>喔，天啊，我最好避开那些树...</Chinesesimp>
             </Key>
           </Container>
           <Container name="x20_LandedOnGround" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="x20_LandedOnGround" dubbingLanguage="english" namePrefix="showcase_fixedwings_x20_landedonground" note="" participants="EPC B Leader;" situation="player landed on ground">
             <Key ID="str_a3_showcase_fixedwings_x20_landedonground_lea_0">
               <Original>Shit. At least it's better than landing in the sea...</Original>
-              <Chinese>該死。至少不是在海上迫降。。。</Chinese>
-              <Chinesesimp>该死。好在至少不是海上迫降。。。</Chinesesimp>
+              <Chinese>該死。至少不是在海上迫降...</Chinese>
+              <Chinesesimp>该死。好在至少不是海上迫降...</Chinesesimp>
             </Key>
           </Container>
           <Container name="x15_Mayday" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="x15_Mayday" dubbingLanguage="english" namePrefix="showcase_fixedwings_x15_mayday" note="" participants="EPC B Leader;EPC B HQ;" situation="avenger falling down">
@@ -5078,8 +5078,8 @@
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_rearm_text01">
             <Original>MAINTENANCE UNDER PROGRESS...</Original>
-            <Chinese>維修進行中。。。</Chinese>
-            <Chinesesimp>维护进行中。。。</Chinesesimp>
+            <Chinese>維修進行中...</Chinese>
+            <Chinesesimp>维护进行中...</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_rearm_text02">
             <Original>1 HOUR LATER</Original>
@@ -5137,8 +5137,8 @@
       <Container name="Quotations">
         <Key ID="str_a3_campaign_quote_38">
           <Original>ONE DAY LATER...</Original>
-          <Chinese>一天過後。。。</Chinese>
-          <Chinesesimp>一天过后。。。</Chinesesimp>
+          <Chinese>一天過後...</Chinese>
+          <Chinesesimp>一天过后...</Chinesesimp>
         </Key>
         <Key ID="str_a3_campaign_quote_39">
           <Original>'War is a series of disasters which result in a winner.' - Georges Clemenceau, Statement to Woodrow Wilson at the Paris Peace Conference (January 1919)</Original>

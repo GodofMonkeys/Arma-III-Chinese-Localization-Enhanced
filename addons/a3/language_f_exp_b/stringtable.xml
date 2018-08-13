@@ -9,8 +9,8 @@
       </Key>
       <Key ID="STR_A3_Leaderboards_Status1">
         <Original>Retrieving results ...</Original>
-        <Chinese>接收成績中。。。</Chinese>
-        <Chinesesimp>接收成绩中。。。</Chinesesimp>
+        <Chinese>接收成績中...</Chinese>
+        <Chinesesimp>接收成绩中...</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Leaderboards_Status2">
         <Original>Unable to retrieve the results at this time</Original>
@@ -39,8 +39,8 @@
       </Key>
       <Key ID="STR_A3_Leaderboards_Status4">
         <Original>Publishing results ...</Original>
-        <Chinese>上傳成績中。。。</Chinese>
-        <Chinesesimp>上传成绩中。。。</Chinesesimp>
+        <Chinese>上傳成績中...</Chinese>
+        <Chinesesimp>上传成绩中...</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Leaderboards_Status5">
         <Original>Unable to publish the results at this time</Original>
@@ -800,8 +800,8 @@
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_combataudio_description">
         <Original>&lt;img size='9' shadow='0' image='\a3\Data_F_Exp_B\Data\FM_LEARN_CombatAudio_ca.paa' /&gt;%1By utilizing a new %3mutli-channel amplitude panner%4 and %3distance-based samples%4 for weapons and explosives, the combat soundscape reaches a much higher level of fidelity. Players will find themselves more deeply immersed and they will be able to achieve greater situational awareness under fire. Modders will have the opportunity to achieve amazing sound effects by using the new configuration.</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_CombatAudio_ca。paa'/&gt;%1藉由使用嶄新的%3多聲道技術%4與%3距離音效效果%4，使武器，炸藥與交戰的音效更加真實。玩家將會不由自主的陶醉在此環境下，並更能在激烈交火中辨別槍聲來源，幫助了解戰場局勢。模組作者也可藉此機會，使用新的定義檔來讓模組提升到一個新的境界。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_CombatAudio_ca。paa'/&gt;%1藉由使用崭新的%3多声道技术%4与%3距离音效效果%4，使枪声，爆炸与交战的音效更加真实。玩家将会不由自主的陶醉在此环境下，并更能在激烈交火中辨别枪声来源，帮助了解战场局势。模组作者也可藉此机会，使用新的定义档来让模组提升到一个新的境界。</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_CombatAudio_ca.paa'/&gt;%1藉由使用嶄新的%3多聲道技術%4與%3距離音效效果%4，使武器，炸藥與交戰的音效更加真實。玩家將會不由自主的陶醉在此環境下，並更能在激烈交火中辨別槍聲來源，幫助了解戰場局勢。模組作者也可藉此機會，使用新的定義檔來讓模組提升到一個新的境界。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_CombatAudio_ca.paa'/&gt;%1藉由使用崭新的%3多声道技术%4与%3距离音效效果%4，使枪声，爆炸与交战的音效更加真实。玩家将会不由自主的陶醉在此环境下，并更能在激烈交火中辨别枪声来源，帮助了解战场局势。模组作者也可藉此机会，使用新的定义档来让模组提升到一个新的境界。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_font_displayName">
         <Original>Font</Original>
@@ -820,8 +820,8 @@
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_edeneditor_description">
         <Original>&lt;img size='9' shadow='0' image='\a3\Data_F_Exp_B\Data\FM_LEARN_EdenEditor_ca.paa' /&gt;%1The new Eden Editor for%3 3D scenario%4 design retains the %3ease-of-use%4 of its predecessor while %3enhancing%4 the editing experience many-fold. Please refer to the %3in-editor tutorials%4 for detailed user guides.%1%1Highlighted features include:%1%2 3D Interaction%1%2 Undo / Redo%1%2 Layers%1%2 Asset Filtering / Searching%1%2 Character Load-Outs%1%2 Custom Compositions%1%2 Scenario Configuration%1%2 Vehicle Crews%1%2 Modding%1%1&lt;a href='https://community.bistudio.com/wiki/Eden_Editor'&gt;More about Eden Editor&lt;/a&gt;</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_EdenEditor_ca。paa'/&gt;%1新的伊甸編輯器被設計用來進行%33D任務編輯%4，其保留著老編輯器%3易用%4的特色，並%3加強%4了許多功能，使編輯任務更加容易有趣。欲更了解編輯器的使用方法，請參閱%3編輯器內建教學%4。%1%1主要的特色:%1%23D編輯%1%2復原/重作%1%2圖層%1%2素材篩選/搜尋%1%2角色裝備%1%2自訂組件%1%2任務屬性%1%2載具組員%1%2改裝%1%1&lt;ahref='https://community。bistudio。com/wiki/Eden_Editor'&gt;更多資訊請見官方維基&lt;/a&gt;</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_EdenEditor_ca。paa'/&gt;%1新的伊甸编辑器被设计用来进行%33D任务编辑%4，其保留着老编辑器%3易用%4的特色，并%3加强%4了许多功能，使编辑任务更加容易有趣。欲更了解编辑器的使用方法，请参阅%3编辑器内置教学%4。%1%1主要的特色:%1%23D编辑%1%2复原/重作%1%2图层%1%2素材筛选/搜寻%1%2角色装备%1%2自定义组件%1%2任务属性%1%2载具组员%1%2改装%1%1&lt;ahref='https://community。bistudio。com/wiki/Eden_Editor'&gt;更多资讯请见官方维基&lt;/a&gt;</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_EdenEditor_ca.paa'/&gt;%1新的伊甸編輯器被設計用來進行%33D任務編輯%4，其保留著老編輯器%3易用%4的特色，並%3加強%4了許多功能，使編輯任務更加容易有趣。欲更了解編輯器的使用方法，請參閱%3編輯器內建教學%4。%1%1主要的特色:%1%23D編輯%1%2復原/重作%1%2圖層%1%2素材篩選/搜尋%1%2角色裝備%1%2自訂組件%1%2任務屬性%1%2載具組員%1%2改裝%1%1&lt;ahref='https://community。bistudio。com/wiki/Eden_Editor'&gt;更多資訊請見官方維基&lt;/a&gt;</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_EdenEditor_ca.paa'/&gt;%1新的伊甸编辑器被设计用来进行%33D任务编辑%4，其保留着老编辑器%3易用%4的特色，并%3加强%4了许多功能，使编辑任务更加容易有趣。欲更了解编辑器的使用方法，请参阅%3编辑器内置教学%4。%1%1主要的特色:%1%23D编辑%1%2复原/重作%1%2图层%1%2素材筛选/搜寻%1%2角色装备%1%2自定义组件%1%2任务属性%1%2载具组员%1%2改装%1%1&lt;ahref='https://community。bistudio。com/wiki/Eden_Editor'&gt;更多资讯请见官方维基&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_edeneditor_displayName">
         <Original>Eden Editor</Original>
@@ -840,8 +840,8 @@
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_launcherserverbrowser_description">
         <Original>&lt;img size='9' shadow='0' image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa' /&gt;%1The game's official Launcher now contains a server browser that offers greater functionality and usability as compared to its in-game counterpart. Players can skip the main menu and jump straight into a session.%1%2%3Filtering%4 - effectively find a server matching your preferences.%1%2%3&lt;a href='http://steamcommunity.com/workshop/browse/?appid=107410'&gt;Workshop Mod Support%4&lt;/a&gt; - let the Launcher automatically resolve dependencies required by properly configured servers.%1%1&lt;a href='https://dev.arma3.com/post/oprep-the-future-of-server-browsing'&gt;More about the Launcher Server Browser&lt;/a&gt;</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca。paa'/&gt;%1官方遊戲啟動器現在包含了內建的伺服器瀏覽器，此瀏覽器的功能與遊戲裡的一模一樣。玩家可藉由這個瀏覽器來選擇欲加入的伺服器，使遊戲開啟後直接跳過主選單並直接進入該伺服器。%1%2%3篩選器%4-讓你更快找到符合你期望的伺服器。%1%2%3&lt;ahref='http://steamcommunity。com/workshop/browse/?appid=107410'&gt;支援工作坊模組%4&lt;/a&gt;-啟動器將會自動幫你比對伺服器與你的模組掛載狀況，使您加入伺服器無負擔。%1%1&lt;ahref='https://dev。arma3。com/post/oprep-the-future-of-server-browsing'&gt;更多資訊請見官方網站&lt;/a&gt;</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca。paa'/&gt;%1官方游戏启动器现在包含了内建的服务器浏览器，此浏览器的功能与游戏里的一模一样。玩家可藉由这个浏览器来选择欲加入的服务器，使游戏开启后直接跳过主选单并直接进入该服务器。%1%2%3筛选器%4-让你更快找到符合你期望的服务器。%1%2%3&lt;ahref='http://steamcommunity。com/workshop/browse/?appid=107410'&gt;支援创意工坊模组%4&lt;/a&gt;-启动器将会自动帮你比对服务器与你的模组挂载状况，使您加入服务器无担忧。%1%1&lt;ahref='https://dev。arma3。com/post/oprep-the-future-of-server-browsing'&gt;更多资讯请见官方网站&lt;/a&gt;</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa'/&gt;%1官方遊戲啟動器現在包含了內建的伺服器瀏覽器，此瀏覽器的功能與遊戲裡的一模一樣。玩家可藉由這個瀏覽器來選擇欲加入的伺服器，使遊戲開啟後直接跳過主選單並直接進入該伺服器。%1%2%3篩選器%4-讓你更快找到符合你期望的伺服器。%1%2%3&lt;ahref='http://steamcommunity。com/workshop/browse/?appid=107410'&gt;支援工作坊模組%4&lt;/a&gt;-啟動器將會自動幫你比對伺服器與你的模組掛載狀況，使您加入伺服器無負擔。%1%1&lt;ahref='https://dev。arma3。com/post/oprep-the-future-of-server-browsing'&gt;更多資訊請見官方網站&lt;/a&gt;</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa'/&gt;%1官方游戏启动器现在包含了内建的服务器浏览器，此浏览器的功能与游戏里的一模一样。玩家可藉由这个浏览器来选择欲加入的服务器，使游戏开启后直接跳过主选单并直接进入该服务器。%1%2%3筛选器%4-让你更快找到符合你期望的服务器。%1%2%3&lt;ahref='http://steamcommunity。com/workshop/browse/?appid=107410'&gt;支援创意工坊模组%4&lt;/a&gt;-启动器将会自动帮你比对服务器与你的模组挂载状况，使您加入服务器无担忧。%1%1&lt;ahref='https://dev。arma3。com/post/oprep-the-future-of-server-browsing'&gt;更多资讯请见官方网站&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_steamleaderboards_description">
         <Original>You can now %3compete%4 with your friends in the game's %3Firing Drill%4 and %3Time Trial Challenges%4. These modes will log your best competitive times onto &lt;a href='http://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam Leaderboards&lt;/a&gt;. Compare your performance to your own friends or the best competitors in the world!</Original>

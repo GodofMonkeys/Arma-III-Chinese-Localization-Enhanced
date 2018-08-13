@@ -131,8 +131,8 @@
           </Key>
           <Key ID="str_a3_time_trials_hint_restart">
             <Original>Trial restarting ...</Original>
-            <Chinese>比賽重新開始中。。。</Chinese>
-            <Chinesesimp>比赛重新开始中。。。</Chinesesimp>
+            <Chinese>比賽重新開始中...</Chinese>
+            <Chinesesimp>比赛重新开始中...</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_hint_ready">
             <Original>Get ready and prepare for time trial.</Original>
@@ -141,8 +141,8 @@
           </Key>
           <Key ID="str_a3_time_trials_hint_exit">
             <Original>Exited area: trial restarting ...</Original>
-            <Chinese>離開區域:比賽重新開始中。。。</Chinese>
-            <Chinesesimp>离开区域:比赛重新开始中。。。</Chinesesimp>
+            <Chinese>離開區域:比賽重新開始中...</Chinese>
+            <Chinesesimp>离开区域:比赛重新开始中...</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_function7">
             <Original>Clearing a Check Point</Original>
@@ -256,8 +256,8 @@
           </Key>
           <Key ID="STR_A3_TIME_TRIALS_HINT_RETURN">
             <Original>Returned to start: trial restarting ...</Original>
-            <Chinese>返回起點:計時賽重新啟動中。。。</Chinese>
-            <Chinesesimp>返回起点:计时赛重新启动中。。。</Chinesesimp>
+            <Chinese>返回起點:計時賽重新啟動中...</Chinese>
+            <Chinesesimp>返回起点:计时赛重新启动中...</Chinesesimp>
           </Key>
           <Key ID="STR_A3_TIME_TRIALS_IGUI_Quit">
             <Original>Quit</Original>

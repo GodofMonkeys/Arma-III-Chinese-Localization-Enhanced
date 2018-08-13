@@ -27,8 +27,8 @@
             </Key>
             <Key ID="STR_3DEN_Display3DEN_StatusBar_ValueRes">
               <Original>%1 m/pix</Original>
-              <Chinese>%1m/pix</Chinese>
-              <Chinesesimp>%1m/pix</Chinesesimp>
+              <Chinese>%1公尺/像素</Chinese>
+              <Chinesesimp>%1米/像素</Chinesesimp>
             </Key>
           </Container>
           <Container name="EntityMenu">
@@ -169,8 +169,8 @@
             </Key>
             <Key ID="str_3den_display3den_entitymenu_findconfig_text">
               <Original>Find in Config Viewer</Original>
-              <Chinese>在組態檢視器中尋找</Chinese>
-              <Chinesesimp>在组态检视器中寻找</Chinesesimp>
+              <Chinese>在Config檢視器中尋找</Chinese>
+              <Chinesesimp>在Config检视器中寻找</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_entitymenu_detach_text">
               <Original>Detach</Original>
@@ -199,7 +199,7 @@
             </Key>
             <Key ID="str_3den_display3den_entitymenu_attachto_text">
               <Original>Attach To</Original>
-              <Chinese>附上到</Chinese>
+              <Chinese>附加到</Chinese>
               <Chinesesimp>附加到</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_entitymenu_arsenalreset_text">
@@ -219,7 +219,7 @@
             </Key>
             <Key ID="str_3den_display3den_entitymenu_customcomposition_text">
               <Original>Save Custom Composition</Original>
-              <Chinese>儲存自訂組件</Chinese>
+              <Chinese>儲存自定義組件</Chinese>
               <Chinesesimp>储存自定义组件</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_entitymenu_garagereset_text">
@@ -261,8 +261,8 @@
             </Key>
             <Key ID="str_3den_display3den_menubar_widgetspace_text">
               <Original>Toggle Widget Coordinate Space</Original>
-              <Chinese>切換工具的座標空間</Chinese>
-              <Chinesesimp>切换工具的座标空间</Chinesesimp>
+              <Chinese>切換工具的空間座標</Chinese>
+              <Chinesesimp>切换工具的空间座标</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_widgetscaling_text">
               <Original>Area Scaling Widget</Original>
@@ -356,8 +356,8 @@
             </Key>
             <Key ID="str_3den_display3den_menubar_verticalasl_text">
               <Original>Above Sea Level (ASL)</Original>
-              <Chinese>根據水平面</Chinese>
-              <Chinesesimp>根据水平面</Chinesesimp>
+              <Chinese>根據海平面</Chinese>
+              <Chinesesimp>根据海平面</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_undo_text">
               <Original>Undo</Original>
@@ -541,7 +541,7 @@
             </Key>
             <Key ID="str_3den_display3den_menubar_maptextures_text">
               <Original>Toggle Map Textures</Original>
-              <Chinese>切換地圖紋理</Chinese>
+              <Chinese>切換地圖貼圖</Chinese>
               <Chinesesimp>切换地图纹理</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_map_text">
@@ -656,8 +656,8 @@
             </Key>
             <Key ID="str_3den_display3den_menubar_functionsviewer_text">
               <Original>Functions Viewer</Original>
-              <Chinese>函數檢視器</Chinese>
-              <Chinesesimp>函数检视器</Chinesesimp>
+              <Chinese>函式檢視器</Chinese>
+              <Chinesesimp>函式检视器</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_exit_text">
               <Original>Exit</Original>
@@ -711,8 +711,8 @@
             </Key>
             <Key ID="str_3den_display3den_menubar_configviewer_text">
               <Original>Config Viewer</Original>
-              <Chinese>組態檢視器</Chinese>
-              <Chinesesimp>组态检视器</Chinesesimp>
+              <Chinese>Config檢視器</Chinese>
+              <Chinesesimp>Config检视器</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_communitytools_text">
               <Original>Community Tools</Original>
@@ -830,12 +830,12 @@
             </Key>
             <Key ID="STR_3DEN_Display3DEN_ControlsHint_Attach">
               <Original>Attach</Original>
-              <Chinese>附上</Chinese>
+              <Chinese>附加</Chinese>
               <Chinesesimp>附加</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_ControlsHint_AttachMulti">
               <Original>Attach Multiple</Original>
-              <Chinese>附上多個</Chinese>
+              <Chinese>附加多個</Chinese>
               <Chinesesimp>附加多个</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_ControlsHint_Place">
@@ -850,7 +850,7 @@
             </Key>
             <Key ID="STR_3DEN_Display3DEN_ControlsHint_AttachWaypoint">
               <Original>Attach Waypoint</Original>
-              <Chinese>附上路徑點</Chinese>
+              <Chinese>附加路徑點</Chinese>
               <Chinesesimp>附加路径点</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_ControlsHint_PlaceEmpty">
@@ -860,8 +860,8 @@
             </Key>
             <Key ID="STR_3DEN_Display3DEN_ControlsHint_Disconnect">
               <Original>Disconnect</Original>
-              <Chinese>斷開</Chinese>
-              <Chinesesimp>断开</Chinesesimp>
+              <Chinese>斷線</Chinese>
+              <Chinesesimp>断线</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_ControlsHint_Move">
               <Original>Move</Original>
@@ -902,8 +902,8 @@
             </Key>
             <Key ID="STR_3DEN_Display3DEN_SearchCreateButton_tooltip">
               <Original>Search in the asset browser.\nUse 'class ' prefix to search by class name (e.g., 'class B_Soldier').</Original>
-              <Chinese>在素材瀏覽器中進行搜尋。\n使用'class'來當作開頭，這樣即可搜尋到classname(例如'classB_Soldier')。</Chinese>
-              <Chinesesimp>在素材浏览器中进行搜寻。\n使用'class'来当作开头，这样即可搜寻到classname(例如'classB_Soldier')。</Chinesesimp>
+              <Chinese>在素材瀏覽器中進行搜尋。\n使用'class'來當作開頭，這樣即可搜尋到classname(例如'class B_Soldier')。</Chinese>
+              <Chinesesimp>在素材浏览器中进行搜寻。\n使用'class'来当作开头，这样即可搜寻到classname(例如'class B_Soldier')。</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_EnableLayer_tooltip">
               <Original>Toggle Layer Transformation</Original>
@@ -924,7 +924,7 @@
             </Key>
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_Add_tooltip">
               <Original>Save new custom composition from currently selected entities.</Original>
-              <Chinese>保存當前選取物件為新的自訂組件。</Chinese>
+              <Chinese>保存當前選取物件為新的自定義組件。</Chinese>
               <Chinesesimp>保存当前选取物件为新的自定义组件。</Chinesesimp>
             </Key>
             <Key ID="STR_3DEN_Display3DEN_CustomCompositionPanel_Edit_tooltip">
@@ -967,15 +967,15 @@
           </Key>
           <Key ID="STR_3DEN_Display3DENEditAttributes_AttributeEnable_tooltip">
             <Original>Enable to set the attribute for all the selected entities</Original>
-            <Chinese>開啟所有已選擇素材的屬性</Chinese>
-            <Chinesesimp>开启所有已选择素材的属性</Chinesesimp>
+            <Chinese>啟用後即可同時修改所有被選擇物件的屬性</Chinese>
+            <Chinesesimp>启用后即可同时修改所有被选择物件的属性</Chinesesimp>
           </Key>
         </Container>
         <Container name="Display3DENNew">
           <Key ID="STR_3DEN_Display3DENNew_Title_text">
             <Original>Select Terrain</Original>
-            <Chinese>選擇地圖</Chinese>
-            <Chinesesimp>选择地图</Chinesesimp>
+            <Chinese>選擇地形</Chinese>
+            <Chinesesimp>选择地形</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENNew_ButtonContinue_text">
             <Original>New Scenario</Original>
@@ -1016,13 +1016,13 @@
           </Key>
           <Key ID="STR_3DEN_Display3DENSave_textDate">
             <Original>%d/%m/%Y  %H:%M</Original>
-            <Chinese>%Y/%m/%d%H:%M</Chinese>
-            <Chinesesimp>%Y/%m/%d%H:%M</Chinesesimp>
+            <Chinese>%d/%m/%Y  %H:%M</Chinese>
+            <Chinesesimp>%d/%m/%Y  %H:%M</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENSave_Filter_Terrain_text">
             <Original>Terrain</Original>
-            <Chinese>地圖</Chinese>
-            <Chinesesimp>地图</Chinesesimp>
+            <Chinese>地形</Chinese>
+            <Chinesesimp>地形</Chinesesimp>
           </Key>
         </Container>
         <Container name="Display3DENTutorial">
@@ -1066,7 +1066,7 @@
           </Key>
           <Key ID="STR_3DEN_Display3DENEditComposition_Title_text">
             <Original>Edit Custom Composition</Original>
-            <Chinese>編輯自訂組件</Chinese>
+            <Chinese>編輯自定義組件</Chinese>
             <Chinesesimp>编辑自定义组件</Chinesesimp>
           </Key>
         </Container>
@@ -1078,7 +1078,7 @@
           </Key>
           <Key ID="STR_3DEN_Display3DENSaveComposition_Title_text">
             <Original>Save Custom Composition</Original>
-            <Chinese>儲存自訂組件</Chinese>
+            <Chinese>儲存自定義組件</Chinese>
             <Chinesesimp>储存自定义组件</Chinesesimp>
           </Key>
         </Container>
@@ -1107,8 +1107,8 @@
           </Key>
           <Key ID="STR_3DEN_Display3DENRequiredAddons_Title_text">
             <Original>Required Addons</Original>
-            <Chinese>需求模組</Chinese>
-            <Chinesesimp>需求模组</Chinesesimp>
+            <Chinese>需求的模組</Chinese>
+            <Chinesesimp>需求的模组</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENRequiredAddons_textCodeActive">
             <Original>=== Active Addons ===</Original>
@@ -1117,8 +1117,8 @@
           </Key>
           <Key ID="STR_3DEN_Display3DENRequiredAddons_Warning_text">
             <Original>The scenario requires content which is not installed!</Original>
-            <Chinese>任務需要的模組並沒有安裝!</Chinese>
-            <Chinesesimp>任务需要的模组并没有安装!</Chinesesimp>
+            <Chinese>任務需要的模組並沒有被安裝!</Chinese>
+            <Chinesesimp>任务需要的模组并没有被安装!</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENRequiredAddons_Filter_Name_text">
             <Original>Name</Original>
@@ -1267,8 +1267,8 @@
     <Container name="CfgNonAIVehicles">
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetectorAreaR250">
         <Original>Trigger (Ø 500 m)</Original>
-        <Chinese>觸發器(Ø500m)</Chinese>
-        <Chinesesimp>触发器(O500m)</Chinesesimp>
+        <Chinese>觸發器(Ø500公尺)</Chinese>
+        <Chinesesimp>触发器(Ø500米)</Chinesesimp>
       </Key>
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetector">
         <Original>Trigger</Original>
@@ -1277,13 +1277,13 @@
       </Key>
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetectorArea10x10">
         <Original>Trigger (10x10x10 m)</Original>
-        <Chinese>觸發器(10x10x10m)</Chinese>
-        <Chinesesimp>触发器(10x10x10m)</Chinesesimp>
+        <Chinese>觸發器(10x10x10公尺)</Chinese>
+        <Chinesesimp>触发器(10x10x10米)</Chinesesimp>
       </Key>
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetectorAreaR50">
         <Original>Trigger (Ø 100 m)</Original>
-        <Chinese>觸發器(Ø100m)</Chinese>
-        <Chinesesimp>触发器(O100m)</Chinesesimp>
+        <Chinese>觸發器(Ø100公尺)</Chinese>
+        <Chinesesimp>触发器(Ø100米)</Chinesesimp>
       </Key>
     </Container>
     <Container name="Achievements">
@@ -1319,8 +1319,8 @@
       </Key>
       <Key ID="STR_3DEN_Import2D_description">
         <Original>Imported a 2D scenario into the Eden Editor.</Original>
-        <Chinese>匯入2D編輯器所編輯的任務進到伊甸編輯器。</Chinese>
-        <Chinesesimp>汇入2D编辑器所编辑的任务进到伊甸编辑器。</Chinesesimp>
+        <Chinese>匯入2D編輯器所編輯的任務到伊甸編輯器中。</Chinese>
+        <Chinesesimp>汇入2D编辑器所编辑的任务到伊甸编辑器中。</Chinesesimp>
       </Key>
       <Key ID="STR_3DEN_Import2D_title">
         <Original>New Dimension</Original>
@@ -1342,8 +1342,8 @@
         </Key>
         <Key ID="str_3den_history_disconnectitems_displayname">
           <Original>Disconnect (%s)</Original>
-          <Chinese>斷開(%s)</Chinese>
-          <Chinesesimp>断开(%s)</Chinesesimp>
+          <Chinese>斷線(%s)</Chinese>
+          <Chinesesimp>断线(%s)</Chinesesimp>
         </Key>
         <Key ID="str_3den_history_deleteitems_displayname">
           <Original>Delete</Original>
@@ -1409,18 +1409,18 @@
       <Container name="Default">
         <Key ID="STR_3DEN_translationUnit">
           <Original>%.1f m</Original>
-          <Chinese>%。1fm</Chinese>
-          <Chinesesimp>%。1fm</Chinesesimp>
+          <Chinese>%.1f公尺</Chinese>
+          <Chinesesimp>%.1f米</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Grid_translationUnit">
           <Original>%1 m</Original>
-          <Chinese>%1m</Chinese>
-          <Chinesesimp>%1m</Chinesesimp>
+          <Chinese>%1公尺</Chinese>
+          <Chinesesimp>%1米</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_rotationUnit">
           <Original>%.1f °</Original>
-          <Chinese>%。1f°</Chinese>
-          <Chinesesimp>%。1f°</Chinesesimp>
+          <Chinese>%.1f°</Chinese>
+          <Chinesesimp>%.1f°</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Grid_rotationUnit">
           <Original>%1 °</Original>
@@ -1429,7 +1429,7 @@
         </Key>
         <Key ID="STR_3DEN_Grid_textCustom">
           <Original>%1 (Custom)</Original>
-          <Chinese>%1(自訂)</Chinese>
+          <Chinese>%1(自定義)</Chinese>
           <Chinesesimp>%1(自定义)</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_percentageUnit">
@@ -1441,8 +1441,8 @@
       <Container name="Connections">
         <Key ID="STR_3DEN_Connections_Group">
           <Original>Group to</Original>
-          <Chinese>組隊至</Chinese>
-          <Chinesesimp>组队至</Chinesesimp>
+          <Chinese>群組至</Chinese>
+          <Chinesesimp>群组至</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Connections_Sync">
           <Original>Sync to</Original>
@@ -1451,7 +1451,7 @@
         </Key>
         <Key ID="STR_3DEN_Connections_Custom">
           <Original>Set Custom Connection</Original>
-          <Chinese>設定自訂連接</Chinese>
+          <Chinese>設定自定義連接</Chinese>
           <Chinesesimp>设定自定义连接</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Connections_TriggerOwner">
@@ -1484,8 +1484,8 @@
           </Key>
           <Key ID="str_3den_waypoint_attribute_show3d_displayname">
             <Original>Scene Visibility</Original>
-            <Chinese>任務中可看見</Chinese>
-            <Chinesesimp>任务中可看见</Chinesesimp>
+            <Chinese>任務中可見</Chinese>
+            <Chinesesimp>任务中可见</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_completionradius_tooltip">
             <Original>Distance in meters in which a group member has to be in order for the waypoint to be considered completed.</Original>
@@ -1494,8 +1494,8 @@
           </Key>
           <Key ID="str_3den_waypoint_attribute_show2d_displayname">
             <Original>Map Visibility</Original>
-            <Chinese>地圖上可看見</Chinese>
-            <Chinesesimp>地图上可看见</Chinesesimp>
+            <Chinese>地圖上可見</Chinese>
+            <Chinesesimp>地图上可见</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_show2d_tooltip">
             <Original>Make the waypoint visible for the player on the map.</Original>
@@ -1504,8 +1504,8 @@
           </Key>
           <Key ID="str_3den_waypoint_attribute_condition_tooltip">
             <Original>Repeatedly calculated condition, must return boolean expression. When the waypoint type conditions are met and this expression returns true, the waypoint is completed.\nPassed variables are:\n* this - group leader\n* thisList - array with all group members</Original>
-            <Chinese>重複計算條件，必須回傳布林值。當路徑點條件都達成時，便會回傳true布林值，路徑點就會被判定完成。\n可傳遞的變量:\n*this-小隊長\n*thisList-所有小隊中的成員</Chinese>
-            <Chinesesimp>重复计算条件，必须回传布林值。当路径点条件都达成时，便会回传true布林值，路径点就会被判定完成。\n可传递的变量:\n*this-小队长\n*thisList-所有小队中的成员</Chinesesimp>
+            <Chinese>重複計算條件，必須回傳布林值。當路徑點條件都達成會回傳true布林值，路徑點就會被判定完成。\n可傳遞的變數:\n*this-小隊長\n*thisList-所有小隊中的成員</Chinese>
+            <Chinesesimp>重复计算条件，必须回传布林值。当路径点条件都达成会回传true布林值，路径点就会被判定完成。\n可传递的变量:\n*this-小队长\n*thisList-所有小队中的成员</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_script_displayname">
             <Original>Script</Original>
@@ -1514,8 +1514,8 @@
           </Key>
           <Key ID="str_3den_waypoint_attribute_custom_displayname">
             <Original>Waypoint Specific - %s</Original>
-            <Chinese>專用路徑點-%s</Chinese>
-            <Chinesesimp>专用路径点-%s</Chinesesimp>
+            <Chinese>路徑點細項-%s</Chinese>
+            <Chinesesimp>路径点细项-%s</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_positionobject_displayname">
             <Original>House Position</Original>
@@ -1534,8 +1534,8 @@
           </Key>
           <Key ID="str_3den_waypoint_attribute_description_tooltip">
             <Original>Text visible for the player next to the waypoint icon in the scene.</Original>
-            <Chinese>文字會替代掉原本的路徑點名稱，並在任務中顯示給玩家看。</Chinese>
-            <Chinesesimp>文字会替代掉原本的路径点名称，并在任务中显示给玩家看。</Chinesesimp>
+            <Chinese>文本會替代掉原本的路徑點名稱，並在任務中顯示給玩家看。</Chinese>
+            <Chinesesimp>文本会替代掉原本的路径点名称，并在任务中显示给玩家看。</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_type_tooltip">
             <Original>Waypoint type defines what the group will do when the waypoint becomes active, and the condition when it becomes completed. Applies mainly to AI-led groups, as players will not be prompted to perform any specific actions, even though the waypoint completion condition is the same.\nSome waypoints have special attributes, which are only available the next time you access the attribute window.</Original>
@@ -1569,17 +1569,17 @@
           </Key>
           <Key ID="str_3den_waypoint_attribute_name_displayname">
             <Original>Identified</Original>
-            <Chinese>變量名稱</Chinese>
+            <Chinese>變數名稱</Chinese>
             <Chinesesimp>变量名称</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_name_tooltip">
             <Original>System name of the waypoint, used for identification in scripts.</Original>
-            <Chinese>設定路徑點的變量名稱，使腳本可以對其進行識別。</Chinese>
+            <Chinese>設定路徑點的變數名稱，使腳本可以對其進行識別。</Chinese>
             <Chinesesimp>设定路径点的变量名称，使脚本可以对其进行识别。</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_onactivation_tooltip">
             <Original>Expression called when the waypoint is completed.\nPassed variables are:\n* this - group leader\n* thisList - array with all group members</Original>
-            <Chinese>當路徑點完成時會執行的腳本命令。\n可傳遞的變量:\n*this-小隊長\n*thisList-所有小隊中的成員</Chinese>
+            <Chinese>當路徑點完成時會執行的腳本命令。\n可傳遞的變數:\n*this-小隊長\n*thisList-所有小隊中的成員</Chinese>
             <Chinesesimp>当路径点完成时会执行的脚本命令。\n可传递的变量:\n*this-小队长\n*thisList-所有小队中的成员</Chinesesimp>
           </Key>
           <Key ID="str_3den_waypoint_attribute_order_tooltip">
@@ -1689,7 +1689,7 @@
         </Key>
         <Key ID="str_3den_tutorials_entities_sections_customcompositions_text">
           <Original>Custom Compositions</Original>
-          <Chinese>自訂組件</Chinese>
+          <Chinese>自定義組件</Chinese>
           <Chinesesimp>自定义组件</Chinesesimp>
         </Key>
         <Container name="Intro">
@@ -1758,8 +1758,8 @@
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_vehicle_text">
               <Original>Empty Vehicles are no longer mixed together under &lt;%2&gt;Props&lt;%3&gt;.&lt;br /&gt;&lt;br /&gt;To place a vehicle without default crew, find it under its side (e.g., BLUFOR Hunter) and hold &lt;%2&gt;Alt&lt;%3&gt; while placing it.</Original>
-              <Chinese>空載具再也不歸類在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一個沒有組員的空載具，首先先找到該物件(像是藍方的Hunter)，在要放置時按住&lt;%2&gt;Alt&lt;%3&gt;然後再放置即可產生空的載具。</Chinese>
-              <Chinesesimp>空载具再也不归类在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一个没有组员的空载具，首先先找到该物件(像是蓝方的Hunter)，在要放置时按住&lt;%2&gt;Alt&lt;%3&gt;然后再放置即可产生空的载具。</Chinesesimp>
+              <Chinese>空載具再也不歸類在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一個沒有組員的空載具，首先先找到該物件(像是藍方的「獵人」)，在要放置時按住&lt;%2&gt;Alt&lt;%3&gt;然後再放置即可產生空的載具。</Chinese>
+              <Chinesesimp>空载具再也不归类在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一个没有组员的空载具，首先先找到该物件(像是蓝方的「猎人」)，在要放置时按住&lt;%2&gt;Alt&lt;%3&gt;然后再放置即可产生空的载具。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_undo_text">
               <Original>And last, but not least, you can now undo recent changes you have made.&lt;br /&gt;&lt;br /&gt;Please keep in mind that the history is reset every time you play the scenario or load another one.</Original>
@@ -1822,8 +1822,8 @@
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_attributes_specific_text">
               <Original>Some entities, in particular modules and other systems, may have specific attributes unique only to them. They are always shown as the last category called &lt;%2&gt;Entity Specific - [Entity Name]&lt;%3&gt;.</Original>
-              <Chinese>像是模塊與系統類別的這些物件，可能會有特別的屬性選項可供設定。這些設定會被分類在&lt;%2&gt;專用物件-[物件名稱]&lt;%3&gt;的類別中。</Chinese>
-              <Chinesesimp>像是模块与系统类别的这些物件，可能会有特别的属性选项可供设定。这些设定会被分类在&lt;%2&gt;专用物件-[物件名称]&lt;%3&gt;的类别中。</Chinesesimp>
+              <Chinese>像是模塊與系統類別的這些物件，可能會有特別的屬性選項可供設定。這些設定會被分類在&lt;%2&gt;物件細項-[物件名稱]&lt;%3&gt;的類別中。</Chinese>
+              <Chinesesimp>像是模块与系统类别的这些物件，可能会有特别的属性选项可供设定。这些设定会被分类在&lt;%2&gt;物件细项-[物件名称]&lt;%3&gt;的类别中。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_attributes_save_text">
               <Original>The description for each attribute is available in a tooltip when hovering over the attribute's title.&lt;br /&gt;The modified values are only saved  after pressing &lt;%2&gt;OK&lt;%3&gt;; clicking on &lt;%2&gt;Cancel&lt;%3&gt; will discard all changes.</Original>
@@ -1909,20 +1909,20 @@
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_connecting_connect_text">
               <Original>To connect entities together, click the &lt;%2&gt;right mouse button&lt;%3&gt; on an entity, expand the &lt;%2&gt;Connect...&lt;%3&gt; folder and pick a connection type to start the connecting operation.&lt;br /&gt;Click the &lt;%2&gt;left mouse button&lt;%3&gt; on the desired target to connect all selected entities to the target. You can also press the &lt;%2&gt;right mouse button&lt;%3&gt; to cancel the operation.</Original>
-              <Chinese>要連接物件在一起，在物件上點擊&lt;%2&gt;滑鼠右鍵&lt;%3&gt;並選擇&lt;%2&gt;連接。。。&lt;%3&gt;的欄位，選擇一個想使用的連接類型來開始進行連接。&lt;br/&gt;在目標物件上點擊&lt;%2&gt;滑鼠左鍵&lt;%3&gt;即可讓雙方產生連接。你也可按下&lt;%2&gt;滑鼠右鍵&lt;%3&gt;來取消連接的動作。</Chinese>
-              <Chinesesimp>要连接物件在一起，在物件上点击&lt;%2&gt;鼠标右键&lt;%3&gt;并选择&lt;%2&gt;连接。。。&lt;%3&gt;的栏位，选择一个想使用的连接类型来开始进行连接。&lt;br/&gt;在目标物件上点击&lt;%2&gt;鼠标左键&lt;%3&gt;即可让双方产生连接。你也可按下&lt;%2&gt;鼠标右键&lt;%3&gt;来取消连接的操作。</Chinesesimp>
+              <Chinese>要連接物件在一起，在物件上點擊&lt;%2&gt;滑鼠右鍵&lt;%3&gt;並選擇&lt;%2&gt;連接...&lt;%3&gt;的欄位，選擇一個想使用的連接類型來開始進行連接。&lt;br/&gt;在目標物件上點擊&lt;%2&gt;滑鼠左鍵&lt;%3&gt;即可讓雙方產生連接。你也可按下&lt;%2&gt;滑鼠右鍵&lt;%3&gt;來取消連接的動作。</Chinese>
+              <Chinesesimp>要连接物件在一起，在物件上点击&lt;%2&gt;鼠标右键&lt;%3&gt;并选择&lt;%2&gt;连接...&lt;%3&gt;的栏位，选择一个想使用的连接类型来开始进行连接。&lt;br/&gt;在目标物件上点击&lt;%2&gt;鼠标左键&lt;%3&gt;即可让双方产生连接。你也可按下&lt;%2&gt;鼠标右键&lt;%3&gt;来取消连接的操作。</Chinesesimp>
             </Key>
           </Container>
           <Container name="Layers">
             <Key ID="str_3den_tutorials_editing_sections_layers_types_text">
               <Original>Two types of layers exist:&lt;br /&gt;%1%10 &lt;%2&gt;Root Layer&lt;%3&gt; - automatic layers for each entity type. Cannot be modified.&lt;br /&gt;%1%11 &lt;%2&gt;Custom Layer&lt;%3&gt; - can contain any entity type and can be freely edited.</Original>
-              <Chinese>有兩種圖層類型:&lt;br/&gt;%1%10&lt;%2&gt;基礎圖層&lt;%3&gt;-最基礎的物件分類。無法被編輯。&lt;br/&gt;%1%11&lt;%2&gt;自訂圖層&lt;%3&gt;-可包含任何你想要的物件類型，此圖層可自由被編輯。</Chinese>
+              <Chinese>有兩種圖層類型:&lt;br/&gt;%1%10&lt;%2&gt;基礎圖層&lt;%3&gt;-最基礎的物件分類。無法被編輯。&lt;br/&gt;%1%11&lt;%2&gt;自定義圖層&lt;%3&gt;-可包含任何你想要的物件類型，此圖層可自由被編輯。</Chinese>
               <Chinesesimp>有两种图层类型:&lt;br/&gt;%1%10&lt;%2&gt;基础图层&lt;%3&gt;-最基础的物件分类。无法被编辑。&lt;br/&gt;%1%11&lt;%2&gt;自定义图层&lt;%3&gt;-可包含任何你想要的物件类型，此图层可自由被编辑。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_layers_select_text">
               <Original>You can quickly select entities in the layer. Press the &lt;%2&gt;Right Mouse Button&lt;%3&gt; on a layer, expand the &lt;%2&gt;Select...&lt;%3&gt; option, and pick from one of these options:&lt;br /&gt;%1&lt;%2&gt;Select Immediate Children&lt;%3&gt; - selects all entities directly in the layer, but not in the sub-layers.&lt;br /&gt;%1&lt;%2&gt;Select All Descendants&lt;%3&gt; - selects all the entities in the layer and all the sub-layers.</Original>
-              <Chinese>你可以快速選擇圖層。對圖層按下&lt;%2&gt;滑鼠右鍵&lt;%3&gt;，然後到&lt;%2&gt;選擇。。。&lt;%3&gt;的選項中找到你要的選擇模式:&lt;br/&gt;%1&lt;%2&gt;選擇直屬子物件&lt;%3&gt;-選擇該圖層的直屬子物件，但更深層的子物件便不會被選取到。&lt;br/&gt;%1&lt;%2&gt;選擇所有子物件&lt;%3&gt;-選擇圖層底下所有的子物件。</Chinese>
-              <Chinesesimp>你可以快速选择图层。对图层按下&lt;%2&gt;鼠标右键&lt;%3&gt;，然后到&lt;%2&gt;选择。。。&lt;%3&gt;的选项中找到你要的选择模式:&lt;br/&gt;%1&lt;%2&gt;选择直属子物件&lt;%3&gt;-选择该图层的直属子物件，但更深层的子物件便不会被选取到。&lt;br/&gt;%1&lt;%2&gt;选择所有子物件&lt;%3&gt;-选择图层底下所有的子物件。</Chinesesimp>
+              <Chinese>你可以快速選擇圖層。對圖層按下&lt;%2&gt;滑鼠右鍵&lt;%3&gt;，然後到&lt;%2&gt;選擇...&lt;%3&gt;的選項中找到你要的選擇模式:&lt;br/&gt;%1&lt;%2&gt;選擇直屬子物件&lt;%3&gt;-選擇該圖層的直屬子物件，但更深層的子物件便不會被選取到。&lt;br/&gt;%1&lt;%2&gt;選擇所有子物件&lt;%3&gt;-選擇圖層底下所有的子物件。</Chinese>
+              <Chinesesimp>你可以快速选择图层。对图层按下&lt;%2&gt;鼠标右键&lt;%3&gt;，然后到&lt;%2&gt;选择...&lt;%3&gt;的选项中找到你要的选择模式:&lt;br/&gt;%1&lt;%2&gt;选择直属子物件&lt;%3&gt;-选择该图层的直属子物件，但更深层的子物件便不会被选取到。&lt;br/&gt;%1&lt;%2&gt;选择所有子物件&lt;%3&gt;-选择图层底下所有的子物件。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_layers_remove_text">
               <Original>To remove the selected layer, press the &lt;%2&gt;Move to Root&lt;%3&gt; button. Entities inside will not be deleted, and they will end up back in the root folders.</Original>
@@ -1946,7 +1946,7 @@
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_layers_create_text">
               <Original>To create a custom layer, click on the &lt;%2&gt;New Layer&lt;%3&gt; button.&lt;br /&gt;%1If you do not have any entities selected, an empty layer will be created in the root.&lt;br /&gt;%1When some entities are selected, they will be automatically moved to the new layer.</Original>
-              <Chinese>要創建一個自訂圖層，用滑鼠在&lt;%2&gt;新建圖層&lt;%3&gt;按鈕上點擊。&lt;br/&gt;%1假如創建時你沒有選擇任何物件，新的空圖層將會創建在根目錄底下。&lt;br/&gt;%1如果創建時是有選擇物件的話，當創建完成後，系統會自動移動該物件進入新圖層當中。</Chinese>
+              <Chinese>要創建一個自定義圖層，用滑鼠在&lt;%2&gt;新建圖層&lt;%3&gt;按鈕上點擊。&lt;br/&gt;%1假如創建時你沒有選擇任何物件，新的空圖層將會創建在根目錄底下。&lt;br/&gt;%1如果創建時是有選擇物件的話，當創建完成後，系統會自動移動該物件進入新圖層當中。</Chinese>
               <Chinesesimp>要创建一个自定义图层，用鼠标在&lt;%2&gt;新建图层&lt;%3&gt;按钮上点击。&lt;br/&gt;%1假如创建时你没有选择任何物件，新的空图层将会创建在根目录底下。&lt;br/&gt;%1如果创建时是有选择物件的话，当创建完成后，系统会自动移动该物件进入新图层当中。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_layers_compositions_text">
@@ -2052,13 +2052,13 @@
           <Container name="Crew">
             <Key ID="str_3den_tutorials_editing_sections_crew_roles_text">
               <Original>The available vehicle roles are:&lt;br /&gt;%10&lt;%2&gt; Driver / Pilot&lt;%3&gt; - controls vehicle movement&lt;br /&gt;%11&lt;%2&gt; Commander&lt;%3&gt; - can issue orders to other crew members.&lt;br /&gt;%12&lt;%2&gt; Turret&lt;%3&gt; - any other active crew member, such as the gunner, co-pilot, or passenger with the ability to shoot from the vehicle&lt;br /&gt;%13&lt;%2&gt; Passenger&lt;%3&gt; - passive role, just takes a ride</Original>
-              <Chinese>載具中的位置如下:&lt;br/&gt;%10&lt;%2&gt;駕駛/飛行員&lt;%3&gt;-控制載具的移動&lt;br/&gt;%11&lt;%2&gt;指揮官&lt;%3&gt;-可下達命令給其他組員。&lt;br/&gt;%12&lt;%2&gt;砲座&lt;%3&gt;-像是砲手，副駕駛，可從座位上射擊的乘客都算在這位置中&lt;br/&gt;%13&lt;%2&gt;乘客&lt;%3&gt;-被動的單位，單純乘坐而已</Chinese>
-              <Chinesesimp>载具中的位置如下:&lt;br/&gt;%10&lt;%2&gt;驾驶/飞行员&lt;%3&gt;-控制载具的移动&lt;br/&gt;%11&lt;%2&gt;指挥官&lt;%3&gt;-可下达命令给其他组员。&lt;br/&gt;%12&lt;%2&gt;炮座&lt;%3&gt;-像是炮手，副驾驶，可从座位上射击的乘客都算在这位置中&lt;br/&gt;%13&lt;%2&gt;乘客&lt;%3&gt;-被动的单位，单纯乘坐而已</Chinesesimp>
+              <Chinese>載具中的位置如下:&lt;br/&gt;%10&lt;%2&gt;駕駛/飛行員&lt;%3&gt;-控制載具的移動&lt;br/&gt;%11&lt;%2&gt;車長&lt;%3&gt;-可下達命令給其他組員。&lt;br/&gt;%12&lt;%2&gt;砲座&lt;%3&gt;-像是射手，副駕駛，可從座位上射擊的乘客都算在這位置中&lt;br/&gt;%13&lt;%2&gt;乘客&lt;%3&gt;-被動的單位，單純乘坐而已</Chinese>
+              <Chinesesimp>载具中的位置如下:&lt;br/&gt;%10&lt;%2&gt;驾驶/飞行员&lt;%3&gt;-控制载具的移动&lt;br/&gt;%11&lt;%2&gt;车长&lt;%3&gt;-可下达命令给其他组员。&lt;br/&gt;%12&lt;%2&gt;炮座&lt;%3&gt;-像是射手，副驾驶，可从座位上射击的乘客都算在这位置中&lt;br/&gt;%13&lt;%2&gt;乘客&lt;%3&gt;-被动的单位，单纯乘坐而已</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_crew_panel_text">
               <Original>When you hover over a vehicle, a panel with all the crew icons will be shown next to the vehicle's icon.&lt;br /&gt;The additional icon is shown on the crew members which are rendered in the scene (i.e., the car driver, but not a tank driver who is hidden inside).</Original>
-              <Chinese>當滑鼠擺在載具圖示上時，一個小視窗會彈出，上面顯示了所有搭乘該載具的組員。&lt;br/&gt;其他像是有在畫面上顯示的組員會再另外標示小圖示(像是車輛駕駛，但坦克的駕駛便不會顯示，因為它的駕駛是藏在車體裡)。</Chinese>
-              <Chinesesimp>当鼠标摆在载具图示上时，一个小窗口会弹出，上面显示了所有搭乘该载具的组员。&lt;br/&gt;其他像是有在画面上显示的组员会再另外标示小图示(像是车辆驾驶，但坦克的驾驶便不会显示，因为它的驾驶是藏在车体里)。</Chinesesimp>
+              <Chinese>當滑鼠擺在載具圖示上時，一個小視窗會彈出，上面顯示了所有搭乘該載具的組員。&lt;br/&gt;組員的小圖示也會在3D模型上顯示在其真實的位置上(像是車輛駕駛，但坦克的駕駛便不會顯示，因為它的駕駛是藏在車體裡)。</Chinese>
+              <Chinesesimp>当鼠标摆在载具图示上时，一个小窗口会弹出，上面显示了所有搭乘该载具的组员。&lt;br/&gt;组员的小图示也会在3D模型上显示在其真实的位置上(像是车辆驾驶，但坦克的驾驶便不会显示，因为它的驾驶是藏在车体里)。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_crew_outro_text">
               <Original>This sums up the vehicle crew tutorial.</Original>
@@ -2133,8 +2133,8 @@
           <Container name="Object">
             <Key ID="str_3den_tutorials_entities_sections_object_vehicle_text">
               <Original>&lt;%2&gt;Vehicle&lt;%3&gt; is an object which can have a crew composed of characters. A crewed vehicle has an effective commander, who can issue orders to the rest of the crew. The vehicle also inherits the side of the commander (i.e., BLUFOR pilot will render a helicopter BLUFOR as well).</Original>
-              <Chinese>&lt;%2&gt;載具&lt;%3&gt;是種可以包含角色單位的物件。一個有用的載具單位必須包含一個指揮官，才能正確給組員下達命令。載具的所屬陣營也會繼承自搭載的組員陣營(例如當藍方的飛行員搭乘一個空直升機後，該直升機便會變成藍方的單位)。</Chinese>
-              <Chinesesimp>&lt;%2&gt;载具&lt;%3&gt;是种可以包含角色单位的物件。一个有用的载具单位必须包含一个指挥官，才能正确给组员下达命令。载具的所属阵营也会继承自搭载的组员阵营(例如当蓝方的飞行员搭乘一个空直升机后，该直升机便会变成蓝方的单位)。</Chinesesimp>
+              <Chinese>&lt;%2&gt;載具&lt;%3&gt;是種可以包含角色單位的物件。一個有用的載具單位必須包含一個車長，才能正確給組員下達命令。載具的所屬陣營也會繼承自搭載的組員陣營(例如當藍方的飛行員搭乘一個空直升機後，該直升機便會變成藍方的單位)。</Chinese>
+              <Chinesesimp>&lt;%2&gt;载具&lt;%3&gt;是种可以包含角色单位的物件。一个有用的载具单位必须包含一个车长，才能正确给组员下达命令。载具的所属阵营也会继承自搭载的组员阵营(例如当蓝方的飞行员搭乘一个空直升机后，该直升机便会变成蓝方的单位)。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_object_types_text">
               <Original>Objects can be divided into three main types:&lt;br /&gt;%1 &lt;%2&gt;Character&lt;%3&gt;&lt;br /&gt;%1 &lt;%2&gt;Vehicle&lt;%3&gt;&lt;br /&gt;%1 &lt;%2&gt;Prop&lt;%3&gt;</Original>
@@ -2190,8 +2190,8 @@
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_group_entitylist_text">
               <Original>In the &lt;%2&gt;entity list&lt;%3&gt;, a group is shown as a folder with all its members and Waypoints placed inside.&lt;br /&gt;Only a whole group can be moved between layers, not its individual members. Dragging one member will move the rest of the group as well.</Original>
-              <Chinese>在&lt;%2&gt;場上物件清單&lt;%3&gt;中，每個群組會以類似圖層的樣式顯示之，並包含所有隊員與路徑點在其中。&lt;br/&gt;要移動群組至別的圖層時必須整組移動，不能個別移動組員。拖曳其中一個組員便會帶動整個群組至另一個圖層中。</Chinese>
-              <Chinesesimp>在&lt;%2&gt;场上物件清单&lt;%3&gt;中，每个群组会以类似图层的样式显示之，并包含所有队员与路径点在其中。&lt;br/&gt;要移动群组至别的图层时必须整组移动，不能个别移动组员。拖拽其中一个组员便会带动整个群组至另一个图层中。</Chinesesimp>
+              <Chinese>在&lt;%2&gt;場上物件清單&lt;%3&gt;中，每個群組會以類似階層的樣式顯示之，並包含所有隊員與路徑點在其中。&lt;br/&gt;要移動群組至別的圖層時必須整組移動，不能個別移動組員。拖曳其中一個組員便會帶動整個群組至另一個圖層中。</Chinese>
+              <Chinesesimp>在&lt;%2&gt;场上物件清单&lt;%3&gt;中，每个群组会以类似阶层的样式显示之，并包含所有队员与路径点在其中。&lt;br/&gt;要移动群组至别的图层时必须整组移动，不能个别移动组员。拖拽其中一个组员便会带动整个群组至另一个图层中。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_group_create_text">
               <Original>A group is created when a new character is placed. However, if the character is near another one of the same side, it will be grouped to it instead. This functionality can be disabled using &lt;%2&gt;Automatic Grouping&lt;%3&gt; attribute in the editor preferences.</Original>
@@ -2228,7 +2228,7 @@
             <Key ID="str_3den_tutorials_entities_sections_trigger_condition_text">
               <Original>The activation condition can be based on the trigger area (e.g. no OFPOR present within a 500 m radius), but a scripted condition or combination of both can be applied as well.</Original>
               <Chinese>啟動條件可以設定在基礎的區域觸發上(像是沒有紅方單位出現在500公尺半徑範圍內)，也可以結合腳本命令來設定更複雜的條件。</Chinese>
-              <Chinesesimp>启动条件可以设定在基础的区域触发上(像是没有红方单位出现在500公尺半径范围内)，也可以结合脚本命令来设定更复杂的条件。</Chinesesimp>
+              <Chinesesimp>启动条件可以设定在基础的区域触发上(像是没有红方单位出现在500米半径范围内)，也可以结合脚本命令来设定更复杂的条件。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_trigger_activation_text">
               <Original>Once the condition is met, the trigger becomes activated. Its &lt;%2&gt;On Activation&lt;%3&gt; expression is executed, and the connected waypoints or modules may be activated as well. See their tutorials for more information.</Original>
@@ -2325,7 +2325,7 @@
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_save_text">
               <Original>To save a composition, select entities in the scene, click &lt;%2&gt;right mouse button&lt;%3&gt; on one of them and pick the &lt;%2&gt;Save Custom Composition&lt;%3&gt; option.</Original>
-              <Chinese>要保存組件，請選擇你擺放好的物件們，點擊&lt;%2&gt;滑鼠右鍵&lt;%3&gt;，並選擇&lt;%2&gt;儲存自訂組件&lt;%3&gt;的按鈕即可。</Chinese>
+              <Chinese>要保存組件，請選擇你擺放好的物件們，點擊&lt;%2&gt;滑鼠右鍵&lt;%3&gt;，並選擇&lt;%2&gt;儲存自定義組件&lt;%3&gt;的按鈕即可。</Chinese>
               <Chinesesimp>要保存组件，请选择你摆放好的物件们，点击&lt;%2&gt;鼠标右键&lt;%3&gt;，并选择&lt;%2&gt;储存自定义组件&lt;%3&gt;的按钮即可。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_publish_text">
@@ -2335,7 +2335,7 @@
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_place_text">
               <Original>Once created, you can find your compositions in &lt;%2&gt;Compositions &gt; Custom&lt;%3&gt;. Place it as any other entity - either select it and then click in the scene on a desired position, or drag it from the list to the scene.</Original>
-              <Chinese>當組件新增完成，你可以在&lt;%2&gt;組件&gt;自訂&lt;%3&gt;中找到他們。放置他們就跟放置其他物件一樣簡單-只需選取他們並點在畫面上的位置即可擺放，也可透過拖曳的方式擺放。</Chinese>
+              <Chinese>當組件新增完成，你可以在&lt;%2&gt;組件&gt;自定義&lt;%3&gt;中找到他們。放置他們就跟放置其他物件一樣簡單-只需選取他們並點在畫面上的位置即可擺放，也可透過拖曳的方式擺放。</Chinese>
               <Chinesesimp>当组件新增完成，你可以在&lt;%2&gt;组件&gt;自定义&lt;%3&gt;中找到他们。放置他们就跟放置其他物件一样简单-只需选取他们并点在画面上的位置即可摆放，也可通过拖拽的方式摆放。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_placeatl_text">
@@ -2345,7 +2345,7 @@
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_intro_text">
               <Original>Apart from the pre-defined groups and compositions, you can save and share your own.</Original>
-              <Chinese>除了保存自己的自訂組件外，你也可以分享他們給其他的玩家。</Chinese>
+              <Chinese>除了保存自己的自定義組件外，你也可以分享他們給其他的玩家。</Chinese>
               <Chinesesimp>除了保存自己的自定义组件外，你也可以分享他们给其他的玩家。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_entities_sections_customcompositions_edit_text">
@@ -2384,8 +2384,8 @@
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_attributes_ext_text">
               <Original>Most of the scenario attributes can be overridden externally in the &lt;%2&gt;Description.ext&lt;%3&gt; file. For more information about this advanced feature, please visit the &lt;%10&gt;Community Wiki&lt;%11&gt;.</Original>
-              <Chinese>大多的任務屬性皆能另外在&lt;%2&gt;Description。ext&lt;%3&gt;檔案中進行編輯。想要知道更多設定方法，請訪問我們的&lt;%10&gt;維基百科社群&lt;%11&gt;來獲得更多資訊。</Chinese>
-              <Chinesesimp>大多数的任务属性都能另外在&lt;%2&gt;Description。ext&lt;%3&gt;档案中进行编辑。想要知道更多设定方法，请访问我们的&lt;%10&gt;维基百科社区&lt;%11&gt;来获得更多资讯。</Chinesesimp>
+              <Chinese>大多的任務屬性皆能另外在&lt;%2&gt;Description.ext&lt;%3&gt;檔案中進行編輯。想要知道更多設定方法，請訪問我們的&lt;%10&gt;維基百科社群&lt;%11&gt;來獲得更多資訊。</Chinese>
+              <Chinesesimp>大多数的任务属性都能另外在&lt;%2&gt;Description.ext&lt;%3&gt;档案中进行编辑。想要知道更多设定方法，请访问我们的&lt;%10&gt;维基百科社区&lt;%11&gt;来获得更多资讯。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_attributes_environment_text">
               <Original>&lt;%2&gt;Environment&lt;%3&gt; allows you to configure the date, time and weather. These settings are unique for each phase, which means you can have a night scenario and daytime intro at the same time.</Original>
@@ -2401,8 +2401,8 @@
           <Container name="Phases">
             <Key ID="str_3den_tutorials_scenario_sections_phases_sequence_text">
               <Original>The sequence of phases is:&lt;br /&gt;1. Intro&lt;br /&gt;2. Scenario&lt;br /&gt;3. Outro Win or Outro Lose</Original>
-              <Chinese>任務階段分為以下幾種:&lt;br/&gt;1。開場&lt;br/&gt;2。任務&lt;br/&gt;3。結局-勝利或結局-失敗</Chinese>
-              <Chinesesimp>任务阶段分为以下几种:&lt;br/&gt;1。开场&lt;br/&gt;2。任务&lt;br/&gt;3。结局-胜利或结局-失败</Chinesesimp>
+              <Chinese>任務階段分為以下幾種:&lt;br/&gt;1.開場&lt;br/&gt;2.任務&lt;br/&gt;3.結局-勝利或結局-失敗</Chinese>
+              <Chinesesimp>任务阶段分为以下几种:&lt;br/&gt;1.开场&lt;br/&gt;2.任务&lt;br/&gt;3.结局-胜利或结局-失败</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_phases_phasescenario_text">
               <Original>&lt;%2&gt;Scenario&lt;%3&gt; is the core part. It is the only phase available in multiplayer, and the only one where player has control over his character.</Original>
@@ -2500,8 +2500,8 @@
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_publishing_export_text">
               <Original>You can also export the scenario into packed &lt;%2&gt;*.pbo&lt;%3&gt; format. Expand &lt;%2&gt;Scenario &gt; Export&lt;%3&gt; and pick either &lt;%2&gt;Export to Singleplayer&lt;%3&gt; or &lt;%2&gt;Export to Multiplayer&lt;%3&gt;. The scenario with all files and folders inside will be packed into a *.pbo file. You can find it in the game's root folder in the folders named Missions and MPMissions respectively.&lt;br /&gt;If anyone else places the file in the same folders, he will be able to play the scenario from the main menu.</Original>
-              <Chinese>你也可以匯出任務檔案，使之變成&lt;%2&gt;*。pbo&lt;%3&gt;的檔案格式。展開&lt;%2&gt;任務&gt;匯出&lt;%3&gt;並從&lt;%2&gt;匯出到單人遊戲&lt;%3&gt;或&lt;%2&gt;匯出到多人遊戲&lt;%3&gt;中進行選擇。任務的檔案與其中的資料夾會被匯出成*。pbo檔案。你可以在遊戲安裝資料夾的Missions和MPMissions資料夾中找到匯出的檔案。&lt;br/&gt;將這檔案傳給其他人，讓他們將檔案放置在同一個資料夾中，便可讓他們從主選單中直接執行該任務。</Chinese>
-              <Chinesesimp>你也可以汇出任务档案，使之变成&lt;%2&gt;*。pbo&lt;%3&gt;的档案格式。展开&lt;%2&gt;任务&gt;汇出&lt;%3&gt;并从&lt;%2&gt;汇出到单人游戏&lt;%3&gt;或&lt;%2&gt;汇出到多人游戏&lt;%3&gt;中进行选择。任务的档案与其中的资料夹会被汇出成*。pbo档案。你可以在游戏安装资料夹的Missions和MPMissions资料夹中找到汇出的档案。&lt;br/&gt;将这档案传给其他人，让他们将档案放置在同一个资料夹中，便可让他们从主菜单中直接执行该任务。</Chinesesimp>
+              <Chinese>你也可以匯出任務檔案，使之變成&lt;%2&gt;*.pbo&lt;%3&gt;的檔案格式。展開&lt;%2&gt;任務&gt;匯出&lt;%3&gt;並從&lt;%2&gt;匯出到單人遊戲&lt;%3&gt;或&lt;%2&gt;匯出到多人遊戲&lt;%3&gt;中進行選擇。任務的檔案與其中的資料夾會被匯出成*.pbo檔案。你可以在遊戲安裝資料夾的Missions和MPMissions資料夾中找到匯出的檔案。&lt;br/&gt;將這檔案傳給其他人，讓他們將檔案放置在同一個資料夾中，便可讓他們從主選單中直接執行該任務。</Chinese>
+              <Chinesesimp>你也可以汇出任务档案，使之变成&lt;%2&gt;*.pbo&lt;%3&gt;的档案格式。展开&lt;%2&gt;任务&gt;汇出&lt;%3&gt;并从&lt;%2&gt;汇出到单人游戏&lt;%3&gt;或&lt;%2&gt;汇出到多人游戏&lt;%3&gt;中进行选择。任务的档案与其中的资料夹会被汇出成*.pbo档案。你可以在游戏安装资料夹的Missions和MPMissions资料夹中找到汇出的档案。&lt;br/&gt;将这档案传给其他人，让他们将档案放置在同一个资料夹中，便可让他们从主菜单中直接执行该任务。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -2571,7 +2571,7 @@
           <Key ID="str_3den_trigger_attribute_size_tooltip">
             <Original>Area size in meters.</Original>
             <Chinese>設定區域尺寸，單位公尺。</Chinese>
-            <Chinesesimp>设定区域尺寸，单位公尺。</Chinesesimp>
+            <Chinesesimp>设定区域尺寸，单位米。</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_text_displayname">
             <Original>Text</Original>
@@ -2600,13 +2600,13 @@
           </Key>
           <Key ID="str_3den_trigger_attribute_ondeactivation_tooltip">
             <Original>Expression executed once the trigger is deactivated.\nPassed variables are:\n* thisTrigger - trigger object</Original>
-            <Chinese>當[被解除觸發時]腳本命令才會開始執行。\n可傳遞的變量:\n*thisTrigger-觸發器物件</Chinese>
-            <Chinesesimp>当[被解除触发时]脚本命令才会开始执行。\n可传递的变量:\n*thisTrigger-触发器物件</Chinesesimp>
+            <Chinese>當觸發器條件從true變回false後，[被解除觸發時]的腳本命令才會開始執行。\n可傳遞的變數:\n*thisTrigger-觸發器物件</Chinese>
+            <Chinesesimp>当触发器条件从true变回false后，[被解除触发时]的脚本命令才会开始执行。\n可传递的变量:\n*thisTrigger-触发器物件</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_onactivation_tooltip">
             <Original>Expression executed once the trigger is activated.\nPassed variables are:\n* thisList - list of all objects in trigger area, based on 'Activation'\n* thisTrigger - trigger object</Original>
-            <Chinese>當[被觸發時]腳本命令才會開始執行。\n可傳遞的變量:\n*thisList-被'啟用'的陣營值所影響，表示觸發器範圍中所有同'啟用'陣營的物件\n*thisTrigger-觸發器物件</Chinese>
-            <Chinesesimp>当[被触发时]脚本命令才会开始执行。\n可传递的变量:\n*thisList-被'启用'的阵营值所影响，表示触发器范围中所有同'启用'阵营的物件\n*thisTrigger-触发器物件</Chinesesimp>
+            <Chinese>當觸發器條件變成true後，[被觸發時]的腳本命令才會開始執行。\n可傳遞的變數:\n*thisList-被'啟用者'的陣營值所影響，表示觸發器範圍中同'啟用者'陣營的所有物件\n*thisTrigger-觸發器物件</Chinese>
+            <Chinesesimp>当触发器条件变成true后，[被触发时]的脚本命令才会开始执行。\n可传递的变量:\n*thisList-被'启用者'的阵营值所影响，表示触发器范围中同'启用者'阵营的所有物件\n*thisTrigger-触发器物件</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_soundenvironment_displayname">
             <Original>Environment</Original>
@@ -2625,8 +2625,8 @@
           </Key>
           <Key ID="str_3den_trigger_attribute_activationtype_tooltip">
             <Original>Condition of the 'Activation' attribute.</Original>
-            <Chinese>設定'啟用'的屬性條件。</Chinese>
-            <Chinesesimp>设定'启用'的属性条件。</Chinesesimp>
+            <Chinese>設定'啟用者'的屬性條件。</Chinese>
+            <Chinesesimp>设定'启用者'的属性条件。</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_activation_tooltip">
             <Original>What or who can activate the trigger. Some options further depend on 'Activation Condition'.</Original>
@@ -2645,8 +2645,8 @@
           </Key>
           <Key ID="str_3den_trigger_attribute_activation_displayname">
             <Original>Activation</Original>
-            <Chinese>啟用</Chinese>
-            <Chinesesimp>启用</Chinesesimp>
+            <Chinese>啟用者</Chinese>
+            <Chinesesimp>启用者</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_shape_displayname">
             <Original>Shape</Original>
@@ -2670,13 +2670,13 @@
           </Key>
           <Key ID="str_3den_trigger_attribute_condition_tooltip">
             <Original>Repeatedly calculated condition, must return boolean expression. When true, the trigger will be activated.\nPassed variables are:\n* this - boolean value of activation condition\n* thisList - list of all objects in trigger area, based on 'Activation'\n* thisTrigger - trigger object</Original>
-            <Chinese>重複計算條件，必須回傳布林值。當回傳得到true時，觸發器就會被觸發。\n可傳遞的變量:\n*this-選擇啟用類型成為條件\n*thisList-被'啟用'的陣營值所影響，表示觸發器範圍中所有同'啟用'陣營的物件\n*thisTrigger-觸發器物件</Chinese>
-            <Chinesesimp>重复计算条件，必须回传布林值。当回传得到true时，触发器就会被触发。\n可传递的变量:\n*this-选择启用类型成为条件\n*thisList-被'启用'的阵营值所影响，表示触发器范围中所有同'启用'阵营的物件\n*thisTrigger-触发器物件</Chinesesimp>
+            <Chinese>重複計算條件，必須回傳布林值。當回傳得到true時，觸發器就會被觸發。\n可傳遞的變數:\n*this-選擇啟用類型成為條件\n*thisList-被'啟用者'的陣營值所影響，表示觸發器範圍中同'啟用者'陣營的所有物件\n*thisTrigger-觸發器物件</Chinese>
+            <Chinesesimp>重复计算条件，必须回传布林值。当回传得到true时，触发器就会被触发。\n可传递的变量:\n*this-选择启用类型成为条件\n*thisList-被'启用者'的阵营值所影响，表示触发器范围中同'启用者'阵营的所有物件\n*thisTrigger-触发器物件</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_custom_displayname">
             <Original>Trigger Specific - %s</Original>
-            <Chinese>專用觸發器-%s</Chinese>
-            <Chinesesimp>专用触发器-%s</Chinesesimp>
+            <Chinese>觸發器細項-%s</Chinese>
+            <Chinesesimp>触发器细项-%s</Chinesesimp>
           </Key>
           <Key ID="str_3den_trigger_attribute_repeat_displayname">
             <Original>Repeatable</Original>
@@ -2722,8 +2722,8 @@
         <Container name="AttributeCategories">
           <Key ID="STR_3DEN_Trigger_AttributeCategory_Activation">
             <Original>Activation</Original>
-            <Chinese>啟用</Chinese>
-            <Chinesesimp>启用</Chinesesimp>
+            <Chinese>啟用者</Chinese>
+            <Chinesesimp>启用者</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Trigger_AttributeCategory_Effects">
             <Original>Effects</Original>
@@ -2826,8 +2826,8 @@
           </Key>
           <Key ID="str_3den_object_attribute_rotation_tooltip">
             <Original>Local rotation in degrees. X is pitch, Y is roll and Z is yaw.</Original>
-            <Chinese>設定自體旋轉。X軸為俯仰，Y軸為左右，Z軸為側滾。</Chinese>
-            <Chinesesimp>设定自体旋转。X轴为俯仰，Y轴为左右，Z轴为侧滚。</Chinesesimp>
+            <Chinese>設定自體旋轉。X軸為俯仰，Y軸為滾轉，Z軸為偏轉。</Chinese>
+            <Chinesesimp>设定自体旋转。X轴为俯仰，Y轴为滚转，Z轴为偏转。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_speaker_displayname">
             <Original>Voice</Original>
@@ -2851,8 +2851,8 @@
           </Key>
           <Key ID="str_3den_object_attribute_unitinsignia_tooltip">
             <Original>Left shoulder insignia. Right shoulder insignia is reserved for a squad logo and cannot be changed by the scenario.</Original>
-            <Chinese>左右肩膀上的臂章，被保留給隊伍的隊徽來作顯示，並不能被任務所更改。</Chinese>
-            <Chinesesimp>左右肩膀上的臂章，被保留给队伍的队徽来作显示，并不能被任务所更改。</Chinesesimp>
+            <Chinese>設定左肩膀上的臂章，而右肩膀上的位置則被保留給戰隊的隊徽來作顯示，並不能被任務所更改。</Chinese>
+            <Chinesesimp>设定左肩膀上的臂章，而右肩膀上的位置则被保留给战队的队徽来作显示，并不能被任务所更改。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_skill_displayname">
             <Original>Skill</Original>
@@ -2886,8 +2886,8 @@
           </Key>
           <Key ID="str_3den_object_attribute_custom_displayname">
             <Original>Object Specific - %s</Original>
-            <Chinese>專用物件-%s</Chinese>
-            <Chinesesimp>专用物件-%s</Chinesesimp>
+            <Chinese>物件細項-%s</Chinese>
+            <Chinesesimp>物件细项-%s</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_position_tooltip">
             <Original>World coordinates in meters. X goes from West to East, Y from South to North and Z is height above terrain.</Original>
@@ -2931,7 +2931,7 @@
           </Key>
           <Key ID="str_3den_object_attribute_name_tooltip">
             <Original>Unique system name. Can contain only letters, numbers and underscore. The name is not case sensitive, so 'someName' and 'SOMENAME' are treated as the same variables.</Original>
-            <Chinese>設定唯一的變量名稱。只能使用字母，數字和底線。變量名稱的識別是不分大小寫的，所以'someName'和'SOMENAME'都將被視為同一個變量名稱。</Chinese>
+            <Chinese>設定唯一的變數名稱。只能使用字母，數字和底線。變數名稱的識別是不分大小寫的，所以'someName'和'SOMENAME'都將被視為同一個變數名稱。</Chinese>
             <Chinesesimp>设定唯一的变量名称。只能使用字母，数字和底线。变量名称的识别是不分大小写的，所以'someName'和'SOMENAME'都将被视为同一个变量名称。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_description_tooltip">
@@ -2956,8 +2956,8 @@
           </Key>
           <Key ID="str_3den_object_attribute_init_tooltip">
             <Original>Expression called upon at start. In multiplayer, it is called on every machine and for each player who joins in the progress. The variable 'this' refers to the affected object.</Original>
-            <Chinese>當任務開始時，本欄位的內容會被執行。在多人遊戲模式中，它會被每個加入遊戲的玩家電腦所執行。變量'this'指的是受影響的物件。</Chinese>
-            <Chinesesimp>当任务开始时，本栏位的内容会被执行。在多人游戏模式中，它会被每个加入游戏的玩家电脑所执行。变量'this'指的是受影响的物件。</Chinesesimp>
+            <Chinese>當任務開始時，本欄位的內容會被執行。在多人遊戲模式中，它會被每個加入遊戲的玩家電腦所執行。變數'this'指的是擁有此欄位的物件本身。</Chinese>
+            <Chinesesimp>当任务开始时，本栏位的内容会被执行。在多人游戏模式中，它会被每个加入游戏的玩家电脑所执行。变量'this'指的是拥有此栏位的物件本身。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_position_displayname">
             <Original>Position</Original>
@@ -2966,13 +2966,13 @@
           </Key>
           <Key ID="str_3den_object_attribute_dynsim_tooltip">
             <Original>Entity simulation is enabled only if the player or an enemy unit is nearby.\n\nNote: Doesn't work on simple objects and it overwrites basic simulation settings.</Original>
-            <Chinese>啟用本功能後，此物件只會在有玩家或該單位的敵方在附近時才會開始運算。\n\n注意:此功能並不會對簡單物件產生效用，此功能也會直接覆蓋掉開起運算功能的設定值。</Chinese>
+            <Chinese>啟用本功能後，此物件只會在有玩家或該單位的敵方在附近時才會開始運算。\n\n注意:此功能並不會對簡單物件產生效用，此功能也會直接覆蓋掉開啟運算功能的設定值。</Chinese>
             <Chinesesimp>启用本功能后，此物件只会在有玩家或该单位的敌方在附近时才会开始运算。\n\n注意:此功能并不会对简单物件产生效用，此功能也会直接覆盖掉开启运算功能的设定值。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_hideobject_tooltip">
             <Original>Show model and collisions. Even when disabled, the object will be simulated normally (e.g., soldiers will still be able to move and shoot).</Original>
-            <Chinese>當本功能關閉時，該物件會隱形，但其行動仍正常運算(例如，隱形的士兵仍能到處走路與開槍)。</Chinese>
-            <Chinesesimp>当本功能关闭时，该物件会隐形，但其行动仍正常运算(例如，隐形的士兵仍能到处走路与开枪)。</Chinesesimp>
+            <Chinese>當本功能關閉時，該物件會隱形且無碰撞，但其行動仍正常運算(例如，隱形的士兵仍能到處走路與開槍)。</Chinese>
+            <Chinesesimp>当本功能关闭时，该物件会隐形且无碰撞，但其行动仍正常运算(例如，隐形的士兵仍能到处走路与开枪)。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_enablesimulation_displayname">
             <Original>Enable Simulation</Original>
@@ -3021,18 +3021,18 @@
           </Key>
           <Key ID="str_3den_object_attribute_name_displayname">
             <Original>Variable Name</Original>
-            <Chinese>變量名稱</Chinese>
+            <Chinese>變數名稱</Chinese>
             <Chinesesimp>变量名称</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_hideobject_displayname">
             <Original>Show Model</Original>
-            <Chinese>顯示模組</Chinese>
-            <Chinesesimp>显示模组</Chinesesimp>
+            <Chinese>顯示模型</Chinese>
+            <Chinesesimp>显示模型</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_init_displayname">
             <Original>Init</Original>
-            <Chinese>初始內容</Chinese>
-            <Chinesesimp>初始内容</Chinesesimp>
+            <Chinese>初始化腳本</Chinese>
+            <Chinesesimp>初始化脚本</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_face_tooltip">
             <Original>Character face.</Original>
@@ -3056,8 +3056,8 @@
           </Key>
           <Key ID="str_3den_object_attribute_namesound_tooltip">
             <Original>Call sign used in radio protocol (e.g., leader will order 'Kerry, fall back' instead of generic '2, fall back'). It doesn't affect character's actual name; consider changing it as well so they match together.</Original>
-            <Chinese>呼號被用在無線電通訊中(範例:在設定後隊長會這樣叫你，'Kerry，快回來'來取代本來的'2，快回來')。這個選項並不會影響到角色的名稱;請仔細考慮好來讓名稱與呼號不相衝突。</Chinese>
-            <Chinesesimp>呼号被用在无线电通讯中(范例:在设定后队长会这样叫你，'Kerry，快回来'来取代本来的'2，快回来')。这个选项并不会影响到角色的名称;请仔细考虑以便让名称与呼号不相冲突。</Chinesesimp>
+            <Chinese>呼號被用在無線電通訊中(範例:在設定後隊長會這樣叫你，'克里，快回來'來取代本來的'2，快回來')。這個選項並不會影響到角色的名稱;請仔細考慮好來讓名稱與呼號不相衝突。</Chinese>
+            <Chinesesimp>呼号被用在无线电通讯中(范例:在设定后队长会这样叫你，'克里，快回来'来取代本来的'2，快回来')。这个选项并不会影响到角色的名称;请仔细考虑以便让名称与呼号不相冲突。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objectmaterialcustom0_displayname">
             <Original>Material #0</Original>
@@ -3086,8 +3086,8 @@
           </Key>
           <Key ID="str_3den_object_attribute_objectmaterialcustom_tooltip">
             <Original>Custom material applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myMaterial.rvmat") or relative to the game's directory (e.g., "\a3\Data_F\default.rvmat").</Original>
-            <Chinese>自訂目標物件的材質。請使用任務資料夾的相對路徑(例如"Textures\myMaterial。rvmat")或者你也可以指定到遊戲資料夾中(例如"\a3\Data_F\default。rvmat")。</Chinese>
-            <Chinesesimp>自定义目标物件的材质。请使用任务资料夹的相对路径(例如"Textures\myMaterial。rvmat")或者你也可以指定到游戏资料夹中(例如"\a3\Data_F\default。rvmat")。</Chinesesimp>
+            <Chinese>自定義目標物件的材質。請使用任務資料夾的相對路徑(例如"Textures\myMaterial.rvmat")或者你也可以指定到遊戲資料夾中(例如"\a3\Data_F\default.rvmat")。</Chinese>
+            <Chinesesimp>自定义目标物件的材质。请使用任务资料夹的相对路径(例如"Textures\myMaterial.rvmat")或者你也可以指定到游戏资料夹中(例如"\a3\Data_F\default.rvmat")。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_simpleobject_displayName">
             <Original>Simple Object</Original>
@@ -3096,38 +3096,38 @@
           </Key>
           <Key ID="str_3den_object_attribute_simpleobject_tooltip">
             <Original>When enabled, the object will behave like a map object (e.g. rocks or trees), which significantly saves performance. This option is available only for objects where it leads to improved performance.\n\nWarning: If set, the setting is enforced at the start of the scenario and is irreversible during its runtime!</Original>
-            <Chinese>當本功能開啟時，此物件的表現就會像是一般的地圖物件(例如房子或是樹)，這可顯著的節省遊戲效能。這功能只會在該載具內並無任何機組員時才可啟用。\n\n警告:此功能將會在遊戲開始後啟用，不能再做任何更改!</Chinese>
-            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地图物件(例如房子或是树)，这可显著的节省游戏效能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，不能再做任何更改!</Chinesesimp>
+            <Chinese>當本功能開啟時，此物件的表現就會像是一般的地形物件(例如房子或是樹)，這可顯著的節省遊戲效能。這功能只會在該載具內並無任何機組員時才可啟用。\n\n警告:此功能將會在遊戲開始後啟用，爾後不能再做任何更改!</Chinese>
+            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件(例如房子或是树)，这可显著的节省游戏效能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，尔后不能再做任何更改!</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom0_displayname">
             <Original>Texture #0</Original>
             <Chinese>貼圖#0</Chinese>
-            <Chinesesimp>贴图#0</Chinesesimp>
+            <Chinesesimp>纹理#0</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom1_displayname">
             <Original>Texture #1</Original>
             <Chinese>貼圖#1</Chinese>
-            <Chinesesimp>贴图#1</Chinesesimp>
+            <Chinesesimp>纹理#1</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom2_displayname">
             <Original>Texture #2</Original>
             <Chinese>貼圖#2</Chinese>
-            <Chinesesimp>贴图#2</Chinesesimp>
+            <Chinesesimp>纹理#2</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom3_displayname">
             <Original>Texture #3</Original>
             <Chinese>貼圖#3</Chinese>
-            <Chinesesimp>贴图#3</Chinesesimp>
+            <Chinesesimp>纹理#3</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom4_displayname">
             <Original>Texture #4</Original>
             <Chinese>貼圖#4</Chinese>
-            <Chinesesimp>贴图#4</Chinesesimp>
+            <Chinesesimp>纹理#4</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom_tooltip">
             <Original>Custom texture applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myTexture_ca.paa", relative to the game's directory (e.g., "\a3\Ui_f\data\Logos\arma3_white_ca.paa" or a procedural texture (e.g., "#(argb,8,8,3_color(1,0,1,1)").</Original>
-            <Chinese>自訂目標物件的貼圖。請使用任務資料夾的相對路徑(例如"Textures\myTexture_ca。paa")，你也可以指定到遊戲資料夾中(例如"\a3\Ui_f\data\Logos\arma3_white_ca。paa")，或者你也可以使用程序貼無(例如"#(argb，8，8，3_color(1，0，1，1)")。</Chinese>
-            <Chinesesimp>自定义目标物件的贴图。请使用任务资料夹的相对路径(例如"Textures\myTexture_ca。paa")，你也可以指定到游戏资料夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca。paa")，或者你也可以使用程序贴(例如"#(argb，8，8，3_color(1，0，1，1)")。</Chinesesimp>
+            <Chinese>自定義目標物件的貼圖。請使用任務資料夾的相對路徑(例如"Textures\myTexture_ca.paa")，你也可以指定到遊戲資料夾中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用腳本貼圖(例如"#(argb,8,8,3_color(1,0,1,1)")。</Chinese>
+            <Chinesesimp>自定义目标物件的纹理。请使用任务资料夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏资料夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如"#(argb,8,8,3_color(1,0,1,1)")。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_wakeupdynsim_displayname">
             <Original>Wake-Up Dynamic Simulation</Original>
@@ -3146,8 +3146,8 @@
           </Key>
           <Key ID="str_3den_object_attribute_objecttexture_tooltip">
             <Original>Texture and material set applied on the object.</Original>
-            <Chinese>設定物件的紋理貼圖。</Chinese>
-            <Chinesesimp>设定物件的纹理贴图。</Chinesesimp>
+            <Chinese>設定物件的外觀貼圖。</Chinese>
+            <Chinesesimp>设定物件的外观纹理。</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_PylonsMirror_displayName">
             <Original>Mirror</Original>
@@ -3230,8 +3230,8 @@
         <Container name="AttributeCategories">
           <Key ID="STR_3DEN_Object_AttributeCategory_Init">
             <Original>Init</Original>
-            <Chinese>初始內容</Chinese>
-            <Chinesesimp>初始内容</Chinesesimp>
+            <Chinese>初始化腳本</Chinese>
+            <Chinesesimp>初始化脚本</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_AttributeCategory_Transformation">
             <Original>Transformation</Original>
@@ -3305,8 +3305,8 @@
       <Container name="Messages">
         <Key ID="STR_3DEN_Messages_missionRequiredAddons">
           <Original>Error when loading the scenario! It requires the missing addons:</Original>
-          <Chinese>讀取任務時發生錯誤!有些模組需要被加載:</Chinese>
-          <Chinesesimp>读取任务时发生错误!有些模组需要被加载:</Chinesesimp>
+          <Chinese>讀取任務時發生錯誤!有些模組並沒有被載入:</Chinese>
+          <Chinesesimp>读取任务时发生错误!有些模组并没有被载入:</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_customCompositionDelete">
           <Original>Do you want to delete the composition?</Original>
@@ -3365,8 +3365,8 @@
         </Key>
         <Key ID="STR_3DEN_Messages_groupLimitExceeded">
           <Original>Only 288 groups per side are supported!</Original>
-          <Chinese>遊戲只能支援每個陣營加入288個群組!</Chinese>
-          <Chinesesimp>游戏只能支持每个阵营加入288个群组!</Chinesesimp>
+          <Chinese>遊戲只能支援每個陣營各加入288個群組!</Chinese>
+          <Chinesesimp>游戏只能支持每个阵营各加入288个群组!</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_emptyFileName">
           <Original>Scenario file name cannot be empty!</Original>
@@ -3400,8 +3400,8 @@
         </Key>
         <Key ID="STR_3DEN_Messages_missionMerge">
           <Original>Merging will include all entities in the selected scenario into the currently opened scenario. No external files will be included. Do you want to merge into the scenario?</Original>
-          <Chinese>合併會將選擇任務的所有物件匯進至目前已開啟的任務當中。而外部文件不會也跟著匯入。請問你想要合併任務嗎?</Chinese>
-          <Chinesesimp>合并会将选择任务的所有物件汇进至目前已开启的任务当中。而外部文件不会也跟着汇入。请问你想要合并任务吗?</Chinesesimp>
+          <Chinese>合併會將選擇任務的所有物件匯進至目前已開啟的任務當中。而外部文件並不會跟著匯入。請問你想要合併任務嗎?</Chinese>
+          <Chinesesimp>合并会将选择任务的所有物件汇进至目前已开启的任务当中。而外部文件并不会跟着汇入。请问你想要合并任务吗?</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionMergeErrorOldSQM">
           <Original>Cannot merge 2D editor scenario into the current scenario!</Original>
@@ -3413,7 +3413,7 @@
         <Container name="Attributes">
           <Key ID="str_3den_marker_attribute_type_tooltip">
             <Original>Icon texture.</Original>
-            <Chinese>圖標紋理。</Chinese>
+            <Chinese>圖標貼圖。</Chinese>
             <Chinesesimp>图标纹理。</Chinesesimp>
           </Key>
           <Key ID="str_3den_marker_attribute_alpha_displayname">
@@ -3454,22 +3454,22 @@
           <Key ID="str_3den_marker_attribute_position_tooltip">
             <Original>World coordinates in meters. X goes from West to East and Y from South to North.</Original>
             <Chinese>世界座標，單位是公尺。X控制東西向的移動，Y控制南北向的移動。</Chinese>
-            <Chinesesimp>世界座标，单位是公尺。X控制东西向的移动，Y控制南北向的移动。</Chinesesimp>
+            <Chinesesimp>世界座标，单位是米。X控制东西向的移动，Y控制南北向的移动。</Chinesesimp>
           </Key>
           <Key ID="str_3den_marker_attribute_color_tooltip">
             <Original>Marker color. 'Default' is based on the selected marker type.</Original>
-            <Chinese>設定標誌的顏色。'預設'顏色取決於標誌的類型。</Chinese>
-            <Chinesesimp>设定标志的颜色。'预设'颜色取决于标志的类型。</Chinesesimp>
+            <Chinese>設定標誌的顏色。'預設'顏色將取決於標誌的類型。</Chinese>
+            <Chinesesimp>设定标志的颜色。'预设'颜色将取决于标志的类型。</Chinesesimp>
           </Key>
           <Key ID="str_3den_marker_attribute_name_tooltip">
             <Original>Unique system name. Can contain any characters. The name is not case sensitive, so 'someName' and 'SOMENAME' are treated as the same variables.</Original>
-            <Chinese>設定唯一的變量名稱。可以包含任何字元。變量名稱的識別是不分大小寫的，所以'someName'和'SOMENAME'都將被視為同一個變量名稱。</Chinese>
+            <Chinese>設定唯一的變數名稱。可以包含任何字元。變數名稱的識別是不分大小寫的，所以'someName'和'SOMENAME'都將被視為同一個變數名稱。</Chinese>
             <Chinesesimp>设定唯一的变量名称。可以包含任何字符。变量名称的识别是不分大小写的，所以'someName'和'SOMENAME'都将被视为同一个变量名称。</Chinesesimp>
           </Key>
           <Key ID="str_3den_marker_attribute_custom_displayname">
             <Original>Marker Specific - %s</Original>
-            <Chinese>專用標誌-%s</Chinese>
-            <Chinesesimp>专用标志-%s</Chinesesimp>
+            <Chinese>標誌細項-%s</Chinese>
+            <Chinesesimp>标志细项-%s</Chinesesimp>
           </Key>
         </Container>
         <Container name="AttributeCategories">
@@ -3518,8 +3518,8 @@
         <Container name="Attributes">
           <Key ID="STR_3DEN_Logic_Attribute_Custom_displayName">
             <Original>System Specific - %s</Original>
-            <Chinese>專用系統-%s</Chinese>
-            <Chinesesimp>专用系统-%s</Chinesesimp>
+            <Chinese>系統細項-%s</Chinese>
+            <Chinesesimp>系统细项-%s</Chinesesimp>
           </Key>
           <Key ID="str_3den_logic_attribute_type_tooltip">
             <Original>****TO TRANSLATE****</Original>
@@ -3740,8 +3740,8 @@
           </Key>
           <Key ID="str_3den_attributes_triggertype_none_tooltip">
             <Original>No other effects except of those defined by 'On Activation' expression.</Original>
-            <Chinese>觸發器在'啟用中'時不會有其他效果。</Chinese>
-            <Chinesesimp>触发器在'启用中'时不会有其他效果。</Chinesesimp>
+            <Chinese>除了在'被觸發時'裡撰寫的腳本會被執行外，觸發器並不會產稱任何其他特殊效果。</Chinese>
+            <Chinesesimp>除了在'被触发时'里撰写的脚本会被执行外，触发器并不会产称任何其他特殊效果。</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggertype_none_text">
             <Original>None</Original>
@@ -3807,8 +3807,8 @@
         <Container name="RscTitle">
           <Key ID="str_3den_attributes_rsctitle_none_text">
             <Original>No Overlay</Original>
-            <Chinese>無覆蓋</Chinese>
-            <Chinesesimp>无覆盖</Chinesesimp>
+            <Chinese>無疊加</Chinese>
+            <Chinesesimp>无叠加</Chinesesimp>
           </Key>
         </Container>
         <Container name="Music">
@@ -4240,12 +4240,9 @@
             <Chinesesimp>切换至小队成员</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_respawn_bird_tooltip">
-            <Original>Spectate the scenario without being directly involved.
-</Original>
-            <Chinese>使用觀察者模式，不直接參與任務。
-</Chinese>
-            <Chinesesimp>使用观察者模式，不直接参与任务。
-</Chinesesimp>
+            <Original>Spectate the scenario without being directly involved.</Original>
+            <Chinese>使用觀察者模式，不直接參與任務。</Chinese>
+            <Chinesesimp>使用观察者模式，不直接参与任务。</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_respawn_bird_text">
             <Original>Switch to Spectator</Original>
@@ -4259,7 +4256,7 @@
           </Key>
           <Key ID="str_3den_attributes_respawn_base_text">
             <Original>Respawn on Custom Position</Original>
-            <Chinese>重生在自訂位置</Chinese>
+            <Chinese>重生在自定義位置</Chinese>
             <Chinesesimp>重生在自定义位置</Chinesesimp>
           </Key>
         </Container>
@@ -4312,13 +4309,13 @@
         <Container name="SharedObjectives">
           <Key ID="str_3den_attributes_sharedobjectives_disabled_tooltip">
             <Original>Tasks assigned by friendlies are not marked.</Original>
-            <Chinese>友軍的任務目標不會幫玩家標記。</Chinese>
-            <Chinesesimp>友军的任务目标不会帮玩家标记。</Chinesesimp>
+            <Chinese>不會幫玩家標記友軍正在執行的任務目標。</Chinese>
+            <Chinesesimp>不会帮玩家标记友军正在执行的任务目标。</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_sharedobjectives_enabled_tooltip">
             <Original>Tasks assigned by friendlies are marked to player.</Original>
-            <Chinese>友軍的任務目標會幫玩家標記。</Chinese>
-            <Chinesesimp>友军的任务目标会帮玩家标记。</Chinesesimp>
+            <Chinese>會幫玩家標記友軍正在執行的任務目標。</Chinese>
+            <Chinesesimp>会帮玩家标记友军正在执行的任务目标。</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_sharedobjectives_enabledwithpropagation_text">
             <Original>Enabled with Task Propagation</Original>
@@ -4327,8 +4324,8 @@
           </Key>
           <Key ID="str_3den_attributes_sharedobjectives_enabledwithpropagation_tooltip">
             <Original>Tasks assigned by friendlies are marked to player, but only group leaders can assign and unassign tasks. Task assignment changes are automatically propagated to subordinates.</Original>
-            <Chinese>友軍的任務目標會幫玩家標記，但只有該小隊的隊長能指派/解除指派任務目標。當目標改變時，會自動傳達給所屬小隊的隊員。</Chinese>
-            <Chinesesimp>友军的任务目标会帮玩家标记，但只有该小队的队长能指派/解除指派任务目标。当目标改变时，会自动传达给所属小队的队员。</Chinesesimp>
+            <Chinese>會幫玩家標記友軍正在執行的任務目標，但只有該小隊的隊長能指派/解除指派任務目標。當目標改變時，會自動傳達給所屬小隊的隊員。</Chinese>
+            <Chinesesimp>会帮玩家标记友军正在执行的任务目标，但只有该小队的队长能指派/解除指派任务目标。当目标改变时，会自动传达给所属小队的队员。</Chinesesimp>
           </Key>
         </Container>
         <Container name="UnitInsignia">
@@ -4477,8 +4474,8 @@
         </Key>
         <Key ID="str_3den_notifications_missionnoplayer_text">
           <Original>Attempting to play without player</Original>
-          <Chinese>嘗試在沒有玩家角色的狀況下遊玩</Chinese>
-          <Chinesesimp>尝试在没有玩家角色的状况下游玩</Chinesesimp>
+          <Chinese>正在嘗試在沒有玩家角色的狀況下遊玩</Chinese>
+          <Chinesesimp>正在尝试在没有玩家角色的状况下游玩</Chinesesimp>
         </Key>
         <Key ID="str_3den_notifications_missionexportsp_text">
           <Original>Exported to &amp;lt;Arma 3&amp;gt;/Missions</Original>
@@ -4683,8 +4680,8 @@
             </Key>
             <Key ID="str_3den_environment_attribute_daytime_tooltip">
               <Original>Starting time of the day. Please note that the sunrise and sunset times are influenced by the date (e.g., days are shorter in winter) and the longitude and latitude of the terrain.</Original>
-              <Chinese>設定任務開始時間。日出日落的時間會被季節所影響(例如冬天的白晝就比較短)，同時也受該地圖的經緯度所影響。</Chinese>
-              <Chinesesimp>设定任务开始时间。日出日落的时间会被季节所影响(例如冬天的白昼就比较短)，同时也受该地图的经纬度所影响。</Chinesesimp>
+              <Chinese>設定任務開始時間。日出日落的時間會被季節所影響(例如冬天的白晝就比較短)，同時也受該地形的經緯度所影響。</Chinese>
+              <Chinesesimp>设定任务开始时间。日出日落的时间会被季节所影响(例如冬天的白昼就比较短)，同时也受该地形的经纬度所影响。</Chinesesimp>
             </Key>
             <Key ID="str_3den_environment_attribute_lightningsforecast_displayname">
               <Original>Lightnings Forecast</Original>
@@ -4980,8 +4977,8 @@
             </Key>
             <Key ID="str_3den_multiplayer_attribute_overviewtext_tooltip">
               <Original>Short summary shown in the scenario lobby.</Original>
-              <Chinese>顯示在任務大廳中的任務簡介。</Chinese>
-              <Chinesesimp>显示在任务大厅中的任务简介。</Chinesesimp>
+              <Chinese>在任務大廳中顯示任務簡介。</Chinese>
+              <Chinesesimp>在任务大厅中显示任务简介。</Chinesesimp>
             </Key>
             <Key ID="str_3den_multiplayer_attribute_overviewtext_displayname">
               <Original>Summary</Original>
@@ -5065,8 +5062,8 @@
             </Key>
             <Key ID="str_3den_multiplayer_attribute_sharedobjectives_tooltip">
               <Original>Sets if tasks assigned to friendlies are visualized to player and who can assign/unassign tasks.</Original>
-              <Chinese>設定任務目標是否可給友軍可視化，並決定誰可以指派/解除指派任務目標。</Chinese>
-              <Chinesesimp>设定任务目标是否可给友军可视化，并决定谁可以指派/解除指派任务目标。</Chinesesimp>
+              <Chinese>設定友軍是否可以查看當前正在執行該任務目標的執行者名單，並決定誰可以指派/解除指派任務目標。</Chinese>
+              <Chinesesimp>设定友军是否可以查看当前正在执行该任务目标的执行者名单，并决定谁可以指派/解除指派任务目标。</Chinesesimp>
             </Key>
           </Container>
           <Key ID="STR_3DEN_Multiplayer_textSingular">
@@ -5166,8 +5163,8 @@
             </Key>
             <Key ID="str_3den_preferences_attribute_binarize_tooltip">
               <Original>When true, *.sqm files of all new scenarios will be binarized by default. Binarization saves loading time, but makes the file uneditable in a text editor. This setting can also be set individually per scenario.</Original>
-              <Chinese>當本功能開啟時，*。sqm等任務檔案會自動轉換為二進制檔案。二進制版本的任務檔案讀取速度會比較快，但會使任務檔案無法使用文字編輯器進行編輯。此設定也可以單獨在每個任務存檔時進行設定。</Chinese>
-              <Chinesesimp>当本功能开启时，*。sqm等任务档案会自动转换为二进制档案。二进制版本的任务档案读取速度会比较快，但会使任务档案无法使用文字编辑器进行编辑。此设定也可以单独在每个任务存档时进行设定。</Chinesesimp>
+              <Chinese>當本功能開啟時，*.sqm等任務檔案會自動轉換為二進制檔案。二進制版本的任務檔案讀取速度會比較快，但會使任務檔案無法使用文字編輯器進行編輯。此設定也可以單獨在每個任務存檔時進行設定。</Chinese>
+              <Chinesesimp>当本功能开启时，*.sqm等任务档案会自动转换为二进制档案。二进制版本的任务档案读取速度会比较快，但会使任务档案无法使用文字编辑器进行编辑。此设定也可以单独在每个任务存档时进行设定。</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_binarize_displayname">
               <Original>Binarize New Scenario Files</Original>
@@ -5186,8 +5183,8 @@
             </Key>
             <Key ID="str_3den_preferences_attribute_autoload_tooltip">
               <Original>When enabled, the previously edited scenario on the selected terrain will be loaded automatically when launching the editor.</Original>
-              <Chinese>當本功能開啟時，在編輯器讀取地圖後，會自動讀取該地圖最後一次編輯的任務。</Chinese>
-              <Chinesesimp>当本功能开启时，在编辑器读取地图后，会自动读取该地图最后一次编辑的任务。</Chinesesimp>
+              <Chinese>當本功能開啟時，在編輯器讀取地形後，會自動讀取該地形最後一次編輯的任務。</Chinese>
+              <Chinesesimp>当本功能开启时，在编辑器读取地形后，会自动读取该地形最后一次编辑的任务。</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_autoload_displayname">
               <Original>Auto-load</Original>
@@ -5221,8 +5218,8 @@
             </Key>
             <Key ID="str_3den_preferences_attribute_startrandom_tooltip">
               <Original>When enabled, the camera will start on a random position after launching the editor or loading a different terrain.</Original>
-              <Chinese>當本功能開啟時，編輯器會在開啟或讀取地圖後隨機選擇一個攝影機位置。</Chinese>
-              <Chinesesimp>当本功能开启时，编辑器会在开启或读取地图后随机选择一个摄影机位置。</Chinesesimp>
+              <Chinese>當本功能開啟時，編輯器會在開啟或讀取地形後隨機選擇一個攝影機位置。</Chinese>
+              <Chinesesimp>当本功能开启时，编辑器会在开启或读取地形后随机选择一个摄影机位置。</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_camerazoomspeedmod_displayname">
               <Original>Mouse wheel Sensitivity</Original>
@@ -5352,13 +5349,13 @@
             </Key>
             <Key ID="str_3den_scenario_attribute_overviewtext_tooltip">
               <Original>Short overview text visible in the scenarios menu. When no loading screen text is defined, this will be used in loading screens instead. Use @STR_ prefix to link to localization keys.</Original>
-              <Chinese>簡短的文本會顯示在任務選單中。當載入畫面的文本沒有設定，本功能將直接代替當作載入畫面的文本。使用@STR_來當作字首，系統會讀取文本檔案當作文本。</Chinese>
-              <Chinesesimp>简短的文本会显示在任务菜单中。当载入画面的文本没有设定，本功能将直接代替当作载入画面的文本。使用@STR_来当作字首，系统会读取文本档案当作文本。</Chinesesimp>
+              <Chinese>簡短的文本會顯示在任務選單中。當載入畫面的文本沒有設定，本功能將直接代替當作載入畫面的文本。使用@STR_來當作字首，系統會讀取在地化文本檔案當作文本。</Chinese>
+              <Chinesesimp>简短的文本会显示在任务菜单中。当载入画面的文本没有设定，本功能将直接代替当作载入画面的文本。使用@STR_来当作字首，系统会读取在地化文本档案当作文本。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_overviewtextlocked_tooltip">
               <Original>Short overview text visible in the scenarios menu when the scenario is locked (see 'Unlock' category for more details). Use @STR_ prefix to link to localization keys.</Original>
-              <Chinese>當任務已鎖定時，簡短的文本會顯示在任務選單中(可在'解鎖'欄位了解更多訊息)。使用@STR_來當作字首，系統會讀取文本檔案當作文本。</Chinese>
-              <Chinesesimp>当任务已锁定时，简短的文本会显示在任务菜单中(可在'解锁'栏位了解更多信息)。使用@STR_来当作字首，系统会读取文本档案当作文本。</Chinesesimp>
+              <Chinese>當任務已鎖定時，簡短的文本會顯示在任務選單中(可在'解鎖'欄位了解更多訊息)。使用@STR_來當作字首，系統會讀取在地化文本檔案當作文本。</Chinese>
+              <Chinesesimp>当任务已锁定时，简短的文本会显示在任务菜单中(可在'解锁'栏位了解更多信息)。使用@STR_来当作字首，系统会读取在地化文本档案当作文本。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_overviewtext_displayname">
               <Original>Text</Original>
@@ -5382,8 +5379,8 @@
             </Key>
             <Key ID="str_3den_scenario_attribute_onloadmission_tooltip">
               <Original>Short text visible in loading screens before and during the scenario. Use @STR_ prefix to link to localization keys.</Original>
-              <Chinese>簡短的文本會顯示在載入畫面中。使用@STR_來當作字首，系統會讀取文本檔案當作文本。</Chinese>
-              <Chinesesimp>简短的文本会显示在载入画面中。使用@STR_来当作字首，系统会读取文本档案当作文本。</Chinesesimp>
+              <Chinese>簡短的文本會顯示在載入畫面中。使用@STR_來當作字首，系統會讀取在地化文本檔案當作文本。</Chinese>
+              <Chinesesimp>简短的文本会显示在载入画面中。使用@STR_来当作字首，系统会读取在地化文本档案当作文本。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_loadscreen_tooltip">
               <Original>Path to the picture visible in the loading screens before and during the scenario.</Original>
@@ -5462,8 +5459,8 @@
             </Key>
             <Key ID="str_3den_scenario_attribute_briefingname_tooltip">
               <Original>Scenario name. Appears in the scenarios menu, multiplayer lobby and loading screens. Use @STR_ prefix to link to localization keys.</Original>
-              <Chinese>任務名稱。會出現在任務選單，多人遊戲大廳與載入畫面中。使用@STR_來當作字首，系統會讀取文本檔案當作標題。</Chinese>
-              <Chinesesimp>任务名称。会出现在任务菜单，多人游戏大厅与载入画面中。使用@STR_来当作字首，系统会读取文本档案当作标题。</Chinesesimp>
+              <Chinese>任務名稱。會出現在任務選單，多人遊戲大廳與載入畫面中。使用@STR_來當作字首，系統會讀取在地化文本檔案當作標題。</Chinese>
+              <Chinesesimp>任务名称。会出现在任务菜单，多人游戏大厅与载入画面中。使用@STR_来当作字首，系统会读取在地化文本档案当作标题。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_briefingname_displayname">
               <Original>Title</Original>
@@ -5477,8 +5474,8 @@
             </Key>
             <Key ID="str_3den_scenario_attribute_binarize_tooltip">
               <Original>When true, the *.sqm file will be binarized. The process saves loading time, but makes the file uneditable in a text editor.</Original>
-              <Chinese>當本功能開啟時，*。sqm等任務檔案會自動轉換為二進制檔案。二進制版本的任務檔案讀取速度會比較快，但會使任務檔案無法使用文字編輯器進行編輯。</Chinese>
-              <Chinesesimp>当本功能开启时，*。sqm等任务档案会自动转换为二进制档案。二进制版本的任务档案读取速度会比较快，但会使任务档案无法使用文字编辑器进行编辑。</Chinesesimp>
+              <Chinese>當本功能開啟時，*.sqm等任務檔案會自動轉換為二進制檔案。二進制版本的任務檔案讀取速度會比較快，但會使任務檔案無法使用文字編輯器進行編輯。</Chinese>
+              <Chinesesimp>当本功能开启时，*.sqm等任务档案会自动转换为二进制档案。二进制版本的任务档案读取速度会比较快，但会使任务档案无法使用文字编辑器进行编辑。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_author_tooltip">
               <Original>Scenario author. Appears in the scenarios menu and in loading screens.</Original>
@@ -5498,7 +5495,7 @@
             <Key ID="str_3den_scenario_attribute_appid_tooltip">
               <Original>When set, the overview image will be overlaid with a DLC frame indicating the scenario belongs to the DLC.</Original>
               <Chinese>當選擇完某個資料片後，概要的圖片上會被覆蓋上該資料片的圖示，提示此任務需要哪個資料片。</Chinese>
-              <Chinesesimp>当选择完某个资料片后，概要的图片上会被覆盖上该DLC的图示，提示此任务需要哪个DLC。</Chinesesimp>
+              <Chinesesimp>当选择完某个DLC后，概要的图片上会被覆盖上该DLC的图示，提示此任务需要哪个DLC。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_assettype_displayname">
               <Original>Require DLC</Original>
@@ -5614,7 +5611,7 @@
           </Key>
           <Key ID="str_3den_group_attribute_combatmode_tooltip">
             <Original>Controls how and when the group will choose to engage enemy targets.</Original>
-            <Chinese>設定群組單位如何應付敵人。</Chinese>
+            <Chinese>設定群組單位如何應對敵人。</Chinese>
             <Chinesesimp>设定群组单位如何应对敌人。</Chinesesimp>
           </Key>
           <Key ID="str_3den_group_attribute_callsign_tooltip">
@@ -5676,7 +5673,7 @@
         <Container name="Mode">
           <Key ID="STR_3DEN_Group_Mode_Custom">
             <Original>Custom</Original>
-            <Chinese>自訂</Chinese>
+            <Chinese>自定義</Chinese>
             <Chinesesimp>自定义</Chinesesimp>
           </Key>
         </Container>

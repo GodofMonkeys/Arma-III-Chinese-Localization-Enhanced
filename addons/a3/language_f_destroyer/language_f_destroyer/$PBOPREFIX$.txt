@@ -1,0 +1,5 @@
+///<'language_f_destroyer.pbo' properties via Mikero's dos tools, dll version 6.80>///
+prefix=language_f_destroyer
+//Pbo Type is: Arma Addon
+//Sha: '54F621848CFF6D87802F3831FFFE52F6EA62799B'
+//////</properties>//////

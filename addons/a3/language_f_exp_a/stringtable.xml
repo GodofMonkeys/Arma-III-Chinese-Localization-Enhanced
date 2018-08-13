@@ -54,8 +54,8 @@
       </Key>
       <Key ID="STR_A3_Armor2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus3_ca.paa' /&gt;%1Protective equipment now %3protects only%4 the %3hit points%4 that are %3actually covered%4 by the respective model of the given gear. Armor levels are properly adjusted for each particular hit point covered, resulting in more realistic personal protection. %3Hit reactions%4 for the characters were %3tweaked%4 to look more convincing.</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus3_ca。paa'/&gt;%1個人防護裝備現在%3只能保護%4其所%3真正覆蓋到的區域%4。防護裝備的保護等級也適當的調整到各部位，藉此模擬更真實的裝備保護效果。角色被%3擊中後%4的%3反應%4也變得更加真實。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus3_ca。paa'/&gt;%1个人防护装备现在%3只能保护%4其所%3真正覆盖到的区域%4。防护装备的保护等级也适当的调整到各部位，藉此模拟更真实的装备保护效果。角色被%3击中后%4的%3反应%4也变得更加真实。</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus3_ca.paa'/&gt;%1個人防護裝備現在%3只能保護%4其所%3真正覆蓋到的區域%4。防護裝備的保護等級也適當的調整到各部位，藉此模擬更真實的裝備保護效果。角色被%3擊中後%4的%3反應%4也變得更加真實。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus3_ca.paa'/&gt;%1个人防护装备现在%3只能保护%4其所%3真正覆盖到的区域%4。防护装备的保护等级也适当的调整到各部位，藉此模拟更真实的装备保护效果。角色被%3击中后%4的%3反应%4也变得更加真实。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Audio1">
         <Original>Audio</Original>
@@ -74,8 +74,8 @@
       </Key>
       <Key ID="STR_A3_EndGame2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus2_ca.paa' /&gt;%1The basic premise of the End Game %3multiplayer mode%4 is to provide a 'hybrid' %3mix%4 of gameplay types: %3Coop%4, %3PvE%4 and %3PvP%4.%1Two sides fight against a common enemy to secure enough Intel - gathered by completing a number of small objectives - to identify a final 'End Game' objective. The game mode is comprised of 3 distinct phases:%1%2Establishing a F.O.B.%1%2Downloading Intelligence%1%2Securing valuable schematics</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus2_ca。paa'/&gt;%1終戰為%3多人遊戲%4帶來%3混合模式%4的遊戲體驗:%3合作%4，%3玩家對抗電腦%4和%3玩家互相對戰%4。%1雙方人馬將一起對抗共同的敵人，並透過不同的小任務來獲得足夠的情報，最終掌握該局'終戰'的任務目標。此模式由三個階段所構成:%1%2建立前線作戰基地。%1%2下載情報%1%2奪取武器藍圖</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus2_ca。paa'/&gt;%1终战为%3多人游戏%4带来%3混合模式%4的游戏体验:%3合作%4，%3玩家对抗电脑%4和%3玩家互相对战%4。%1双方人马将一起对抗共同的敌人，并透过不同的小任务来获得足够的情报，最终掌握该局'终战'的任务目标。此模式由三个阶段所构成:%1%2建立前线作战基地。%1%2下载情报%1%2夺取武器蓝图</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus2_ca.paa'/&gt;%1終戰為%3多人遊戲%4帶來%3混合模式%4的遊戲體驗:%3合作%4，%3玩家對抗電腦%4和%3玩家互相對戰%4。%1雙方人馬將一起對抗共同的敵人，並透過不同的小任務來獲得足夠的情報，最終掌握該局'終戰'的任務目標。此模式由三個階段所構成:%1%2建立前線作戰基地。%1%2下載情報%1%2奪取武器藍圖</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus2_ca.paa'/&gt;%1终战为%3多人游戏%4带来%3混合模式%4的游戏体验:%3合作%4，%3玩家对抗电脑%4和%3玩家互相对战%4。%1双方人马将一起对抗共同的敌人，并透过不同的小任务来获得足够的情报，最终掌握该局'终战'的任务目标。此模式由三个阶段所构成:%1%2建立前线作战基地。%1%2下载情报%1%2夺取武器蓝图</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EndGame3">
         <Original>End Game also uses new virtual roles to observe the sessions. This first version of a new %3Spectator%4 feature can be used in other scenarios by leveraging its modular platform design.</Original>
@@ -89,8 +89,8 @@
       </Key>
       <Key ID="STR_A3_ModDependency2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa' /&gt;%1Mod dependencies are the integration of %3clear%4 and %3automated connections%4 between %3mods%4 in the Launcher. This feature consists of:%1%2Dependency settings on Steam Workshop%1%2Launcher's ability to recognize and work with dependencies%1%2Automated repair of missing dependencies</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca。paa'/&gt;%1模組關聯這功能能%3簡單%4且%3自動%4連接%3模組%4與啟動器。此功能包含以下特色:%1%2同步Steam工作坊上的設定%1%2啟動器能辨別並與模組產生連接%1%2自動維修消失的關聯</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca。paa'/&gt;%1模组关联这功能能%3简单%4且%3自动%4连接%3模组%4与启动器。此功能包含以下特色:%1%2同步Steam工作坊上的设定%1%2启动器能辨别并与模组产生连接%1%2自动维修消失的关联</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa'/&gt;%1模組關聯這功能能%3簡單%4且%3自動%4連接%3模組%4與啟動器。此功能包含以下特色:%1%2同步Steam工作坊上的設定%1%2啟動器能辨別並與模組產生連接%1%2自動維修消失的關聯</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus5_ca.paa'/&gt;%1模组关联这功能能%3简单%4且%3自动%4连接%3模组%4与启动器。此功能包含以下特色:%1%2同步Steam工作坊上的设定%1%2启动器能辨别并与模组产生连接%1%2自动维修消失的关联</Chinesesimp>
       </Key>
       <Key ID="STR_A3_NexusUpdate">
         <Original>Nexus Update</Original>
@@ -119,8 +119,8 @@
       </Key>
       <Key ID="STR_A3_StaminaInfo2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus4_ca.paa' /&gt;%1An overhaul of the Fatigue mechanics resulted in the implementation of a new Stamina system. Stamina is %3simpler%4, %3clearer%4, %3better communicated%4 and has %3easier to grasp%4 mechanics that will allow for the management of exhaustion, encumbrance, terrain gradient penalties and the overall mobility of characters. It is also much more %3open to modifications%4 and should serve as a solid platform for community-made solutions.</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus4_ca。paa'/&gt;%1我們重新對體力系統進行大翻修。體力系統能%3簡單%4，%3明確%4和%3更佳的表達%4。使地形坡度，激烈移動，負重等來對體力產生影響，進而影響移動能力。同時我們也保留%3自訂化調整%4功能來讓社群玩家自製其想要的效果。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus4_ca。paa'/&gt;%1我们重新对体力系统进行大翻修。体力系统能%3简单%4，%3明确%4和%3更佳的表达%4。使地形坡度，激烈移动，负重等来对体力产生影响，进而影响移动能力。同时我们也保留%3自订化调整%4功能来让社群玩家自制其想要的效果。</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus4_ca.paa'/&gt;%1我們重新對體力系統進行大翻修。體力系統能%3簡單%4，%3明確%4和%3更佳的表達%4。使地形坡度，激烈移動，負重等來對體力產生影響，進而影響移動能力。同時我們也保留%3自訂化調整%4功能來讓社群玩家自製其想要的效果。</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus4_ca.paa'/&gt;%1我们重新对体力系统进行大翻修。体力系统能%3简单%4，%3明确%4和%3更佳的表达%4。使地形坡度，激烈移动，负重等来对体力产生影响，进而影响移动能力。同时我们也保留%3自订化调整%4功能来让社群玩家自制其想要的效果。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Units1">
         <Original>Arma 3 Units</Original>
@@ -129,8 +129,8 @@
       </Key>
       <Key ID="STR_A3_Units2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa' /&gt;%1Arma 3 Units is a web-based %3service%4 for %3connecting Arma 3 players%4 to community groups. This initial Foundation Release allows registered Bohemia Accounts to:%1%2Register a Unit, which includes setting the Unit logo, description, biography, server information and more%1%2Browse and search for registered Units, and sort them by multiple characteristics like: Gameplay, Region, Language and more</Original>
-        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca。paa'/&gt;%1ArmA3戰隊是用來%3連接ArmA3玩家%4到社群戰隊的一種%3網頁服務%4。初步的功能能讓波希米亞會員做以下事情:%1%2註冊新的戰隊，並設定戰隊隊徽，介紹，基礎資料，伺服器訊息等等%1%2使用不同的搜尋標籤來找尋適合自己的戰隊:遊戲模式，國家，語言等等</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca。paa'/&gt;%1ArmA3战队是用来%3连接Arma3玩家%4到社区战队的一种%3网页服务%4。初步的功能能让波希米亚会员做以下事情:%1%2注册新的战队，并设定战队队徽，介绍，基础资料，服务器信息等等%1%2使用不同的搜寻标签来找寻适合自己的战队:例如游戏模式，国家，语言等等</Chinesesimp>
+        <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa'/&gt;%1ArmA3戰隊是用來%3連接ArmA3玩家%4到社群戰隊的一種%3網頁服務%4。初步的功能能讓波希米亞會員做以下事情:%1%2註冊新的戰隊，並設定戰隊隊徽，介紹，基礎資料，伺服器訊息等等%1%2使用不同的搜尋標籤來找尋適合自己的戰隊:遊戲模式，國家，語言等等</Chinese>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa'/&gt;%1ArmA3战队是用来%3连接Arma3玩家%4到社区战队的一种%3网页服务%4。初步的功能能让波希米亚会员做以下事情:%1%2注册新的战队，并设定战队队徽，介绍，基础资料，服务器信息等等%1%2使用不同的搜寻标签来找寻适合自己的战队:例如游戏模式，国家，语言等等</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Units3">
         <Original>%3&lt;a href='http://units.arma3.com'&gt;units.arma3.com&lt;/a&gt;%4</Original>

@@ -320,8 +320,8 @@
         </Key>
         <Key ID="str_a3_showcase_jets_20_wingmanhit_wingman_1">
           <Original>Hornet 1, avionics fucked! Repeat! I'm...</Original>
-          <Chinese>這裡是大黃蜂1，航電失效!重複一遍!我的。。。</Chinese>
-          <Chinesesimp>这里是大黄蜂1，航电失效!重复一遍!我的。。。</Chinesesimp>
+          <Chinese>這裡是大黃蜂1，航電失效!重複一遍!我的...</Chinese>
+          <Chinesesimp>这里是大黄蜂1，航电失效!重复一遍!我的...</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_22_reportwingmanhit_pilot_0">
           <Original>Hornet 1, do you read?</Original>
@@ -440,8 +440,8 @@
         </Key>
         <Key ID="str_a3_showcase_jets_75_ejected_pilot_0">
           <Original>Well... this is gonna suck.</Original>
-          <Chinese>媽的。。。這下可慘了。</Chinese>
-          <Chinesesimp>妈的。。。这下可惨了。</Chinesesimp>
+          <Chinese>媽的...這下可慘了。</Chinese>
+          <Chinesesimp>妈的...这下可惨了。</Chinesesimp>
         </Key>
       </Container>
       <Key ID="str_a3_identity_DylanMoore">
@@ -638,8 +638,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_list1">
         <Original>%3 or %4 switch the left or right &lt;a href='%2' color='%1'&gt;info panels&lt;/a&gt; to the next module where available (GPS, radar, off, etc.)</Original>
-        <Chinese>%3或%4可以來切換左右多功能面板&lt;ahref='%2'color='%1'&gt;infopanels&lt;/a&gt;到下一個可用的類型(GPS，雷達，關閉等等。。。)</Chinese>
-        <Chinesesimp>%3或%4可以来切换左右多功能面板&lt;ahref='%2'color='%1'&gt;infopanels&lt;/a&gt;到下一个可用的类型(GPS，雷达，关闭等等。。。)</Chinesesimp>
+        <Chinese>%3或%4可以來切換左右多功能面板&lt;ahref='%2'color='%1'&gt;infopanels&lt;/a&gt;到下一個可用的類型(GPS，雷達，關閉等等...)</Chinese>
+        <Chinesesimp>%3或%4可以来切换左右多功能面板&lt;ahref='%2'color='%1'&gt;infopanels&lt;/a&gt;到下一个可用的类型(GPS，雷达，关闭等等...)</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard">
         <Original>With the addition of these new features and deepening of existing gameplay, there have been several &lt;t color='%1'&gt;control additions and tweaks&lt;/t&gt;. You can inspect these in the CONTROLS section of the OPTIONS menu. It's also possible to reset to the Arma 3 or now standard Arma 3 Apex PRESETS, but please be aware that doing so will remove any customized control bindings.</Original>

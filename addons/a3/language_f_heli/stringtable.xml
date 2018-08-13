@@ -354,8 +354,8 @@
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli1">
         <Original>Start the engines! Jump into new cargo helicopters and master a new sling loading feature to gain an advantage on the battlefield in the Arma 3 Helicopters DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa' /&gt;%1%2CH-67 Huron - NATO's twin-engine, tandem rotor heavy-lift helicopter.%1%2Mi-290 Taru - CSAT heavy utility helicopter using a coaxial rotor design%1%2M-900 - Civilian variant of the existing H-9 family of helicopters%1%2Sling Loading Objects%1%2Helicopter Objects%1%2F.O.B. Objects%1%2Support Multiplayer - a new mode in which battlefield logistics play a major role%1%2&lt;t&gt;&lt;/t&gt;4 VR Helicopter Training Course%1%2Showcase Sling Loading%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2Set of extra Steam Achievements</Original>
-        <Chinese>啟動引擎!駕駛新的運輸直升機，投入ArmA3戰場中體驗新的吊掛系統，一切盡在直升機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA。paa'/&gt;%1%2CH-67Huron-NATO的雙引擎，綜列式旋翼，重型吊掛直升機。%1%2Mi-290Taru-CSAT的重型多用途直升機，使用同軸式旋翼設計%1%2M-900-H-9系列的民用版本%1%2吊掛物件%1%2直升機物件%1%2前線作戰基地物件%1%2多人支援任務-一個新的多人遊戲模式，你將在這邊體驗到支援的樂趣%1%2&lt;t&gt;&lt;/t&gt;4虛擬直升機訓練課程%1%2吊掛任務展示%1%2&lt;t&gt;&lt;/t&gt;5個單人計時挑戰賽%1%2一組額外的Steam成就</Chinese>
-        <Chinesesimp>启动引擎!驾驶新的运输直升机，投入Arma3战场中体验新的吊挂系统，一切尽在直升机DLC中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA。paa'/&gt;%1%2CH-67Huron-NATO的双引擎，综列式旋翼，重型吊挂直升机。%1%2Mi-290Taru-CSAT的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务-一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的Steam成就</Chinesesimp>
+        <Chinese>啟動引擎!駕駛新的運輸直升機，投入ArmA3戰場中體驗新的吊掛系統，一切盡在直升機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67Huron-NATO的雙引擎，綜列式旋翼，重型吊掛直升機。%1%2Mi-290Taru-CSAT的重型多用途直升機，使用同軸式旋翼設計%1%2M-900-H-9系列的民用版本%1%2吊掛物件%1%2直升機物件%1%2前線作戰基地物件%1%2多人支援任務-一個新的多人遊戲模式，你將在這邊體驗到支援的樂趣%1%2&lt;t&gt;&lt;/t&gt;4虛擬直升機訓練課程%1%2吊掛任務展示%1%2&lt;t&gt;&lt;/t&gt;5個單人計時挑戰賽%1%2一組額外的Steam成就</Chinese>
+        <Chinesesimp>启动引擎!驾驶新的运输直升机，投入Arma3战场中体验新的吊挂系统，一切尽在直升机DLC中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67Huron-NATO的双引擎，综列式旋翼，重型吊挂直升机。%1%2Mi-290Taru-CSAT的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务-一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的Steam成就</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli0">
         <Original>Helicopters DLC</Original>
@@ -414,8 +414,8 @@
       </Key>
       <Key ID="STR_A3_FieldManualLinkTip">
         <Original>Hints that have been shown in the current session are highlited in the Field Manual by &lt;img size='1' align='left' image = '\A3\Ui_f\data\Map\Markers\Military\warning_CA.paa'/&gt;</Original>
-        <Chinese>在這場任務中，相關的提示已在野戰手冊中進行高亮動作，提示圖片&lt;imgsize='1'align='left'image='\A3\Ui_f\data\Map\Markers\Military\warning_CA。paa'/&gt;</Chinese>
-        <Chinesesimp>在这场任务中，相关的提示已在野战手册中进行高亮显示，提示图片&lt;imgsize='1'align='left'image='\A3\Ui_f\data\Map\Markers\Military\warning_CA。paa'/&gt;</Chinesesimp>
+        <Chinese>在這場任務中，相關的提示已在野戰手冊中進行高亮動作，提示圖片&lt;imgsize='1'align='left'image='\A3\Ui_f\data\Map\Markers\Military\warning_CA.paa'/&gt;</Chinese>
+        <Chinesesimp>在这场任务中，相关的提示已在野战手册中进行高亮显示，提示图片&lt;imgsize='1'align='left'image='\A3\Ui_f\data\Map\Markers\Military\warning_CA.paa'/&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_A3_HeliFlight_sub1">
         <Original>Helicopters Flight</Original>
@@ -544,8 +544,8 @@
       </Key>
       <Key ID="STR_A3_HURON_DESC_F0">
         <Original>The CH-67 Huron is a twin-engine, tandem rotor heavy-lift helicopter used by NATO. Its primary role is the transportation of troops, vehicles and cargo. The maximum weight of cargo it's able to lift is 12 tons. The Huron is a modernized version of the CH-47 Chinook and exists in two variants. The armed variant with two side gunners manning 6.5 mm Miniguns offers some defensive capabilities, while the transport version replaces the gunners with additional two passengers positions.</Original>
-        <Chinese>CH-67Huron是一台雙引擎，綜列式旋翼的重型吊掛直升機，服役於NATO軍中。他主要的功能是用來運輸步兵，載具和貨物。他能應付的貨物重量是12噸。Huron是CH-47Chinook的現代化版本，同時他有兩種不一樣的版本。武裝的版本配有兩名槍手，裝設著6。5mm的迷你砲機槍，使直升機有一定的防禦手段，而純運輸的版本則把槍手的位置置換成兩個乘員座位。</Chinese>
-        <Chinesesimp>CH-67“休伦”是北约部队使用一种双发动机，串联旋翼的重型吊挂直升机。它基本职责是用来运输步兵，载具和货物。它的最大搭载重量是12吨。“休伦”是CH-47“支奴干”的现代化版本，有两种型号。武装型配有两名侧门机枪手，操作两台6。5毫米“米尼岗”速射机枪，使直升机有一定的防御手段，而纯运输的版本则把机枪手的位置置换成两个乘员座位。</Chinesesimp>
+        <Chinese>CH-67Huron是一台雙引擎，綜列式旋翼的重型吊掛直升機，服役於NATO軍中。他主要的功能是用來運輸步兵，載具和貨物。他能應付的貨物重量是12噸。Huron是CH-47Chinook的現代化版本，同時他有兩種不一樣的版本。武裝的版本配有兩名槍手，裝設著6.5mm的迷你砲機槍，使直升機有一定的防禦手段，而純運輸的版本則把槍手的位置置換成兩個乘員座位。</Chinese>
+        <Chinesesimp>CH-67“休伦”是北约部队使用一种双发动机，串联旋翼的重型吊挂直升机。它基本职责是用来运输步兵，载具和货物。它的最大搭载重量是12吨。“休伦”是CH-47“支奴干”的现代化版本，有两种型号。武装型配有两名侧门机枪手，操作两台6.5毫米“米尼岗”速射机枪，使直升机有一定的防御手段，而纯运输的版本则把机枪手的位置置换成两个乘员座位。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_HURON_TITLE_F0">
         <Original>CH-67 Huron</Original>

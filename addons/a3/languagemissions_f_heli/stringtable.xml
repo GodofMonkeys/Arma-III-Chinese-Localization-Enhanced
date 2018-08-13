@@ -1601,13 +1601,13 @@
           <Container name="x05_CargoDestroyed" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="x05_CargoDestroyed" dubbingLanguage="english" namePrefix="showcase_slingloading_x05_cargodestroyed" note="" participants="HELI B Pilot;HELI B Tower;" situation="one of the cargo has been destroyed">
             <Key ID="str_a3_showcase_slingloading_x05_cargodestroyed_pil_0">
               <Original>Uh... Eagle, November. Message. Over.</Original>
-              <Chinese>痾。。。Eagle，November。訊息。完畢。</Chinese>
-              <Chinesesimp>痾。。。“鹰”，“十一月”。讯息。完毕。</Chinesesimp>
+              <Chinese>痾...Eagle，November。訊息。完畢。</Chinese>
+              <Chinesesimp>痾...“鹰”，“十一月”。讯息。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x05_cargodestroyed_pil_1">
               <Original>Yeah, we've uh... Lost the cargo. Over.</Original>
-              <Chinese>這個，我們恩。。。損失貨物了。完畢。</Chinese>
-              <Chinesesimp>这个，我们，呃。。。损失了货物。完毕。</Chinesesimp>
+              <Chinese>這個，我們恩...損失貨物了。完畢。</Chinese>
+              <Chinesesimp>这个，我们，呃...损失了货物。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x05_cargodestroyed_tow_0">
               <Original>We read you, November. Send it. Over.</Original>
@@ -1754,8 +1754,8 @@
             </Key>
             <Key ID="str_a3_showcase_slingloading_17_confirm_pil_1">
               <Original>It's gonna be a long day...</Original>
-              <Chinese>這將會是漫長的一天。。。</Chinese>
-              <Chinesesimp>这将会是漫长的一天。。。</Chinesesimp>
+              <Chinese>這將會是漫長的一天...</Chinese>
+              <Chinesesimp>这将会是漫长的一天...</Chinesesimp>
             </Key>
           </Container>
           <Container name="16_NewTask" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="16_NewTask" dubbingLanguage="english" namePrefix="showcase_slingloading_16_newtask" note="" participants="HELI B Pilot;HELI B Tower;" situation="player receives his new task">
@@ -2619,8 +2619,8 @@
           </Key>
           <Key ID="str_a3_vr_heli_advanced_engine_failure">
             <Original>Incoming main engine failure...</Original>
-            <Chinese>主引擎即將失效。。。</Chinese>
-            <Chinesesimp>主发动机即将失效。。。</Chinesesimp>
+            <Chinese>主引擎即將失效...</Chinese>
+            <Chinesesimp>主发动机即将失效...</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_course_completed">
             <Original>Course completed</Original>
@@ -2644,8 +2644,8 @@
           </Key>
           <Key ID="str_a3_vr_heli_advanced_tail_failure">
             <Original>Incoming tail rotor failure...</Original>
-            <Chinese>尾槳即將失效。。。</Chinese>
-            <Chinesesimp>尾桨即将失效。。。</Chinesesimp>
+            <Chinese>尾槳即將失效...</Chinese>
+            <Chinesesimp>尾桨即将失效...</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_heli_basics_stage3_title">
             <Original>Flight</Original>
@@ -3202,8 +3202,8 @@
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_unloadinggroup">
           <Original>Unloading...</Original>
-          <Chinese>卸載中。。。</Chinese>
-          <Chinesesimp>卸载中。。。</Chinesesimp>
+          <Chinese>卸載中...</Chinese>
+          <Chinesesimp>卸载中...</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_transportingammointerrupted">
           <Original>Transporting Ammo Interrupted</Original>
@@ -3217,8 +3217,8 @@
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_transportingammo">
           <Original>Transporting Ammo...</Original>
-          <Chinese>補給彈藥中。。。</Chinese>
-          <Chinesesimp>补给弹药中。。。</Chinesesimp>
+          <Chinese>補給彈藥中...</Chinese>
+          <Chinesesimp>补给弹药中...</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_resupplyinterrupted">
           <Original>Resupply Interrupted</Original>
@@ -3232,23 +3232,23 @@
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_repairing">
           <Original>Repairing...</Original>
-          <Chinese>維修中。。。</Chinese>
-          <Chinesesimp>维修中。。。</Chinesesimp>
+          <Chinese>維修中...</Chinese>
+          <Chinesesimp>维修中...</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_refueling">
           <Original>Refueling...</Original>
-          <Chinese>加油中。。。</Chinese>
-          <Chinesesimp>加油中。。。</Chinesesimp>
+          <Chinese>加油中...</Chinese>
+          <Chinesesimp>加油中...</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_rearmingweapon">
           <Original>Rearming %1...</Original>
-          <Chinese>重新武裝%1。。。</Chinese>
-          <Chinesesimp>重新武装%1。。。</Chinesesimp>
+          <Chinese>重新武裝%1...</Chinese>
+          <Chinesesimp>重新武装%1...</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_rearming">
           <Original>Rearming...</Original>
-          <Chinese>重新武裝中。。。</Chinese>
-          <Chinesesimp>重新武装中。。。</Chinesesimp>
+          <Chinese>重新武裝中...</Chinese>
+          <Chinesesimp>重新武装中...</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_loadinggroupinterrupted">
           <Original>Loading Interrupted</Original>
@@ -3262,8 +3262,8 @@
         </Key>
         <Key ID="str_a3_mp_groundsupport_progressbar_loadinggroup">
           <Original>Loading...</Original>
-          <Chinese>裝載中。。。</Chinese>
-          <Chinesesimp>装载中。。。</Chinesesimp>
+          <Chinese>裝載中...</Chinese>
+          <Chinesesimp>装载中...</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_medevac_requesting">
           <Original>Priority. %1 are requesting medevac.</Original>

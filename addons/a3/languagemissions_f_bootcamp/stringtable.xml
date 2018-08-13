@@ -167,8 +167,8 @@
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_32">
               <Original>Heading ...</Original>
-              <Chinese>你的朝向。。。</Chinese>
-              <Chinesesimp>你的朝向。。。</Chinesesimp>
+              <Chinese>你的朝向...</Chinese>
+              <Chinesesimp>你的朝向...</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_33">
               <Original>Check heading</Original>
@@ -439,8 +439,8 @@
           <Container name="d01_Hate" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="d01_Hate" dubbingLanguage="english" namePrefix="boot_m05_d01_hate" note="" participants="BOOT B Lacey;BOOT B Adams;" situation="lacey is getting frustrated">
             <Key ID="str_a3_boot_m05_d01_hate_ada_0">
               <Original>Hearts and minds, Sergeant. Hearts and minds...</Original>
-              <Chinese>冷靜點，中士。冷靜點。。。</Chinese>
-              <Chinesesimp>冷静点，中士。冷静点。。。</Chinesesimp>
+              <Chinese>冷靜點，中士。冷靜點...</Chinese>
+              <Chinesesimp>冷静点，中士。冷静点...</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_d01_hate_lac_0">
               <Original>Just so you fucking know, I'm about to shoot something.</Original>
@@ -461,8 +461,8 @@
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_lac_0">
               <Original>Shit...</Original>
-              <Chinese>該死。。。</Chinese>
-              <Chinesesimp>该死。。。</Chinesesimp>
+              <Chinese>該死...</Chinese>
+              <Chinesesimp>该死...</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_lac_1">
               <Original>Hey! What are you doing?</Original>
@@ -541,8 +541,8 @@
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_lac_9">
               <Original>... Solid copy, sir. Out.</Original>
-              <Chinese>。。。完整收到，長官。通話完畢。</Chinese>
-              <Chinesesimp>。。。完整收到，长官。通话完毕。</Chinesesimp>
+              <Chinese>...完整收到，長官。通話完畢。</Chinese>
+              <Chinesesimp>...完整收到，长官。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Orders" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="40_Orders" dubbingLanguage="english" namePrefix="boot_m05_40_orders" note="" participants="BOOT B Adams;" situation="adams tells the player to investigate the situation">
@@ -859,8 +859,8 @@
             </Key>
             <Key ID="str_a3_boot_m04_d01_situation_ada_2">
               <Original>I don't know who thought that was a good idea...</Original>
-              <Chinese>我不知道是誰認為這是個好主意。。。</Chinese>
-              <Chinesesimp>我想不出谁能觉得这是个好主意。。。</Chinesesimp>
+              <Chinese>我不知道是誰認為這是個好主意...</Chinese>
+              <Chinesesimp>我想不出谁能觉得这是个好主意...</Chinesesimp>
             </Key>
           </Container>
           <Container name="95_Check_Up" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="95_Check_Up" dubbingLanguage="english" namePrefix="boot_m04_95_check_up" note="" participants="BOOT B Adams;" situation="adams checks on wounded aaf">
@@ -871,8 +871,8 @@
             </Key>
             <Key ID="str_a3_boot_m04_95_check_up_ada_1">
               <Original>... He's non-responsive.</Original>
-              <Chinese>。。。他沒有回應了。</Chinese>
-              <Chinesesimp>。。。他没有回应了。</Chinesesimp>
+              <Chinese>...他沒有回應了。</Chinese>
+              <Chinesesimp>...他没有回应了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="90_Wounded_Leader" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="90_Wounded_Leader" dubbingLanguage="english" namePrefix="boot_m04_90_wounded_leader" note="" participants="BOOT B Adams;" situation="adams spots the wounded aaf">
@@ -1439,8 +1439,8 @@
           <Container name="x20_Long_3_Warning" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="x20_Long_3_Warning" dubbingLanguage="english" namePrefix="boot_m02_x20_long_3_warning" note="" participants="BOOT B Adams;" situation="adams reiterates the information on the target">
             <Key ID="str_a3_boot_m02_x20_long_3_warning_ada_0">
               <Original>... Once more, just for the sake of clarity: 100 meters, bearing 290.</Original>
-              <Chinese>。。。再提醒你一次:它距離100公尺，方位290。</Chinese>
-              <Chinesesimp>。。。再提醒你一次:它距离100米，方位290。</Chinesesimp>
+              <Chinese>...再提醒你一次:它距離100公尺，方位290。</Chinese>
+              <Chinesesimp>...再提醒你一次:它距离100米，方位290。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x15_Long_2_Reprimand" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="x15_Long_2_Reprimand" dubbingLanguage="english" namePrefix="boot_m02_x15_long_2_reprimand" note="" participants="BOOT B Adams;" situation="adams points out the target">
@@ -1453,8 +1453,8 @@
           <Container name="x10_Long_2_Warning" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="x10_Long_2_Warning" dubbingLanguage="english" namePrefix="boot_m02_x10_long_2_warning" note="" participants="BOOT B Adams;" situation="adams reiterates the information on the target">
             <Key ID="str_a3_boot_m02_x10_long_2_warning_ada_0">
               <Original>... For the sake of those watching at home, the target is at 400 meters, bearing 307.</Original>
-              <Chinese>。。。你就不能表現更好點嗎，目標距離400公尺，方外307。</Chinese>
-              <Chinesesimp>。。。你就不能表现更好点吗，目标距离400米，方位307。</Chinesesimp>
+              <Chinese>...你就不能表現更好點嗎，目標距離400公尺，方外307。</Chinese>
+              <Chinesesimp>...你就不能表现更好点吗，目标距离400米，方位307。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_Long_1_Reprimand" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="x05_Long_1_Reprimand" dubbingLanguage="english" namePrefix="boot_m02_x05_long_1_reprimand" note="" participants="BOOT B Adams;" situation="adams points out the target">
@@ -1467,8 +1467,8 @@
           <Container name="x01_Long_1_Warning" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="x01_Long_1_Warning" dubbingLanguage="english" namePrefix="boot_m02_x01_long_1_warning" note="" participants="BOOT B Adams;" situation="adams reiterates the information on the target">
             <Key ID="str_a3_boot_m02_x01_long_1_warning_ada_0">
               <Original>... That's 300 meters away from you, at bearing 330, Sergeant.</Original>
-              <Chinese>。。。它距離你300公尺，方位在330，中士。</Chinese>
-              <Chinesesimp>。。。它距离你300米，方位在330，中士。</Chinesesimp>
+              <Chinese>...它距離你300公尺，方位在330，中士。</Chinese>
+              <Chinesesimp>...它距离你300米，方位在330，中士。</Chinesesimp>
             </Key>
           </Container>
           <Container name="d20_Fatigue" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="d20_Fatigue" dubbingLanguage="english" namePrefix="boot_m02_d20_fatigue" note="" participants="BOOT B Adams;BOOT B Lacey;" situation="adams instructs the trainees as to the importance of managing fatigue">
@@ -1531,8 +1531,8 @@
             </Key>
             <Key ID="str_a3_boot_m02_d15_run_around_lac_1">
               <Original>... Goddamnit.</Original>
-              <Chinese>。。。天殺的。</Chinese>
-              <Chinesesimp>。。。天杀的。</Chinesesimp>
+              <Chinese>...天殺的。</Chinese>
+              <Chinesesimp>...天杀的。</Chinesesimp>
             </Key>
           </Container>
           <Container name="d10_Ballistics_and_Bearings" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="d10_Ballistics_and_Bearings" dubbingLanguage="english" namePrefix="boot_m02_d10_ballistics_and_bearings" note="" participants="BOOT B Adams;BOOT B Lacey;" situation="adams switches the lesson to bearings">
@@ -1575,8 +1575,8 @@
             </Key>
             <Key ID="str_a3_boot_m02_d05_aaf_anger_lac_0">
               <Original>Yeah, right...</Original>
-              <Chinese>是阿，我有同感。。。</Chinese>
-              <Chinesesimp>是啊，我有同感。。。</Chinesesimp>
+              <Chinese>是阿，我有同感...</Chinese>
+              <Chinesesimp>是啊，我有同感...</Chinesesimp>
             </Key>
           </Container>
           <Container name="d01_Hello_World" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="d01_Hello_World" dubbingLanguage="english" namePrefix="boot_m02_d01_hello_world" note="" participants="BOOT B Adams;BOOT B Lacey;" situation="lacey and adams return to the real world">
@@ -1592,8 +1592,8 @@
             </Key>
             <Key ID="str_a3_boot_m02_d01_hello_world_ada_2">
               <Original>Ah... here comes the cavalry.</Original>
-              <Chinese>喔。。。看來我們的新兵來了。</Chinese>
-              <Chinesesimp>喔。。。看来骑兵来了。</Chinesesimp>
+              <Chinese>喔...看來我們的新兵來了。</Chinese>
+              <Chinesesimp>喔...看来骑兵来了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_d01_hello_world_lac_0">
               <Original>Not bad. Not bad at all.</Original>
@@ -1785,8 +1785,8 @@
           <Container name="110_Incident" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="110_Incident" dubbingLanguage="english" namePrefix="boot_m02_110_incident" note="" participants="BOOT I Soldier A;" situation="aaf once again interrupt adams">
             <Key ID="str_a3_boot_m02_110_incident_isa_0">
               <Original>American, please, I need to speak with you. There has been an... Incident. Over.</Original>
-              <Chinese>美國佬，抱歉，我有件事必須跟你報備。我們這裡，呵。。。有點意外。完畢。</Chinese>
-              <Chinesesimp>美国佬，抱歉，我得跟你谈谈。我们这里，有。。。有起事件。完毕。</Chinesesimp>
+              <Chinese>美國佬，抱歉，我有件事必須跟你報備。我們這裡，呵...有點意外。完畢。</Chinese>
+              <Chinesesimp>美国佬，抱歉，我得跟你谈谈。我们这里，有...有起事件。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Assembled" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="10_Assembled" dubbingLanguage="english" namePrefix="boot_m02_10_assembled" note="" participants="BOOT B Lacey;BOOT B Adams;BOOT I Soldier B;" situation="player assembles the target">
@@ -2047,13 +2047,13 @@
           <Container name="d05_Course" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="d05_Course" dubbingLanguage="english" namePrefix="boot_m01_d05_course" note="" participants="BOOT B Adams;BOOT B Lacey;" situation="adams tells lacey what to expect with the course">
             <Key ID="str_a3_boot_m01_d05_course_ada_0">
               <Original>So, uh... Looks like it wants you to run from marker to marker as fast as you can.</Original>
-              <Chinese>恩。。。看來它希望你跑過這些標記點越快越好。</Chinese>
-              <Chinesesimp>嗯。。。看来它希望你跑过这些标记点越快越好。</Chinesesimp>
+              <Chinese>恩...看來它希望你跑過這些標記點越快越好。</Chinese>
+              <Chinesesimp>嗯...看来它希望你跑过这些标记点越快越好。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_d05_course_ada_1">
               <Original>Yeah, it says here that, uh... It'll spawn targets at each marker. You'll need to drop them before you can proceed.</Original>
-              <Chinese>是阿，是這個系統說的，喔。。。我會在下個標記點生些目標給你。你必須先放倒他們在移動到下個標記點。</Chinese>
-              <Chinesesimp>是啊，是这个系统说的，喔。。。我会在下个标记点生些目标给你。你必须先放倒他们在移动到下个标记点。</Chinesesimp>
+              <Chinese>是阿，是這個系統說的，喔...我會在下個標記點生些目標給你。你必須先放倒他們在移動到下個標記點。</Chinese>
+              <Chinesesimp>是啊，是这个系统说的，喔...我会在下个标记点生些目标给你。你必须先放倒他们在移动到下个标记点。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_d05_course_ada_2">
               <Original>Well, whenever you're ready.</Original>
@@ -2062,8 +2062,8 @@
             </Key>
             <Key ID="str_a3_boot_m01_d05_course_lac_0">
               <Original>Oh, that's what 'it' wants, huh? Great...</Original>
-              <Chinese>喔，這真的是'它'所希望的，恩?太棒了。。。</Chinese>
-              <Chinesesimp>喔，这真的是'它'所希望的，嗯?太棒了。。。</Chinesesimp>
+              <Chinese>喔，這真的是'它'所希望的，恩?太棒了...</Chinese>
+              <Chinesesimp>喔，这真的是'它'所希望的，嗯?太棒了...</Chinesesimp>
             </Key>
           </Container>
           <Container name="d01_Reveal" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="d01_Reveal" dubbingLanguage="english" namePrefix="boot_m01_d01_reveal" note="" participants="BOOT B Lacey;BOOT B Adams;" situation="vr program boots, player sees the world for the first time">
@@ -2074,8 +2074,8 @@
             </Key>
             <Key ID="str_a3_boot_m01_d01_reveal_ada_1">
               <Original>Okay... Let's see what this baby can do...</Original>
-              <Chinese>好的。。。讓我們看看這寶貝可以幹到哪些事。。。</Chinese>
-              <Chinesesimp>好的。。。让我们看看这宝贝可以干哪些事。。。</Chinesesimp>
+              <Chinese>好的...讓我們看看這寶貝可以幹到哪些事...</Chinese>
+              <Chinesesimp>好的...让我们看看这宝贝可以干哪些事...</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_d01_reveal_lac_0">
               <Original>Holy shit!</Original>
@@ -2091,18 +2091,18 @@
           <Container name="65_Interruption" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="65_Interruption" dubbingLanguage="english" namePrefix="boot_m01_65_interruption" note="" participants="BOOT B Adams;" situation="adams gets interrupted by a radio message from nearby aaf">
             <Key ID="str_a3_boot_m01_65_interruption_ada_0">
               <Original>Say again? Negative...</Original>
-              <Chinese>請重發?否定。。。</Chinese>
-              <Chinesesimp>再说一遍?不行。。。</Chinesesimp>
+              <Chinese>請重發?否定...</Chinese>
+              <Chinesesimp>再说一遍?不行...</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_65_interruption_ada_1">
               <Original>Uh... Yes, this is Staff Sergeant Adams. Send it.</Original>
-              <Chinese>呵。。。是，這裡是上士Adams。請說。</Chinese>
-              <Chinesesimp>呵。。。是，这里是上士亚当斯。请说。</Chinesesimp>
+              <Chinese>呵...是，這裡是上士Adams。請說。</Chinese>
+              <Chinesesimp>呵...是，这里是上士亚当斯。请说。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_65_interruption_ada_2">
               <Original>Christ, these people... Hold on!</Original>
-              <Chinese>該死，這些人。。。請稍等!</Chinese>
-              <Chinesesimp>该死，这些人。。。请稍等!</Chinesesimp>
+              <Chinese>該死，這些人...請稍等!</Chinese>
+              <Chinesesimp>该死，这些人...请稍等!</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_65_interruption_ada_3">
               <Original>You know what? Go bother someone else. Out.</Original>
@@ -2111,8 +2111,8 @@
             </Key>
             <Key ID="str_a3_boot_m01_65_interruption_ada_4">
               <Original>AAF morons...</Original>
-              <Chinese>白癡AAF。。。</Chinese>
-              <Chinesesimp>阿尔蒂斯武装力量那帮白痴。。。</Chinesesimp>
+              <Chinese>白癡AAF...</Chinese>
+              <Chinesesimp>阿尔蒂斯武装力量那帮白痴...</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_To_Start" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="60_To_Start" dubbingLanguage="english" namePrefix="boot_m01_60_to_start" note="" participants="BOOT B Adams;" situation="adams tells the player to move to the start of the course">
@@ -2130,8 +2130,8 @@
             </Key>
             <Key ID="str_a3_boot_m01_55_all_down_ada_1">
               <Original>Moving along... Ah, here we go.</Original>
-              <Chinese>讓我們繼續。。。恩，開始吧。</Chinese>
-              <Chinesesimp>让我们继续。。。嗯，开始吧。</Chinesesimp>
+              <Chinese>讓我們繼續...恩，開始吧。</Chinese>
+              <Chinesesimp>让我们继续...嗯，开始吧。</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_Second_Target" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="50_Second_Target" dubbingLanguage="english" namePrefix="boot_m01_50_second_target" note="" participants="BOOT B Adams;" situation="adams tells the player the location of the second target">
@@ -2184,8 +2184,8 @@
           <Container name="20_Targets" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="20_Targets" dubbingLanguage="english" namePrefix="boot_m01_20_targets" note="" participants="BOOT B Adams;" situation="adams prepares the targets for the player">
             <Key ID="str_a3_boot_m01_20_targets_ada_0">
               <Original>Now, let's give you something to shoot at...</Original>
-              <Chinese>現在，讓我們給點目標給你射擊。。。</Chinese>
-              <Chinesesimp>现在，让我们给点目标让你射击。。。</Chinesesimp>
+              <Chinese>現在，讓我們給點目標給你射擊...</Chinese>
+              <Chinesesimp>现在，让我们给点目标让你射击...</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_Move" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="15_Move" dubbingLanguage="english" namePrefix="boot_m01_15_move" note="" participants="BOOT B Adams;" situation="adams tells the player to go to him">
@@ -2205,8 +2205,8 @@
           <Container name="05_Turn_On" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="05_Turn_On" dubbingLanguage="english" namePrefix="boot_m01_05_turn_on" note="" participants="BOOT B Adams;" situation="vr program boots">
             <Key ID="str_a3_boot_m01_05_turn_on_ada_0">
               <Original>There we go... Calibrating... Looking good so far.</Original>
-              <Chinese>我們進來了。。。校準中。。。看來一切正常。</Chinese>
-              <Chinesesimp>我们进来了。。。校准中。。。看来一切正常。</Chinesesimp>
+              <Chinese>我們進來了...校準中...看來一切正常。</Chinese>
+              <Chinesesimp>我们进来了...校准中...看来一切正常。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_Start" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="01_Start" dubbingLanguage="english" namePrefix="boot_m01_01_start" note="" participants="BOOT B Adams;" situation="starting the vr program">
@@ -2946,8 +2946,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_lac_0">
               <Original>Christ...</Original>
-              <Chinese>天殺的。。。</Chinese>
-              <Chinesesimp>天杀的。。。</Chinesesimp>
+              <Chinese>天殺的...</Chinese>
+              <Chinesesimp>天杀的...</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_ada_2">
               <Original>Cool it, Sergeant.</Original>
@@ -2971,8 +2971,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_ada_4">
               <Original>You searched all of them? ... Including the ones down there?</Original>
-              <Chinese>你真的搜索全部了?。。。包括那邊那棟?</Chinese>
-              <Chinesesimp>你真的都搜了?。。。包括那边那栋?</Chinesesimp>
+              <Chinese>你真的搜索全部了?...包括那邊那棟?</Chinese>
+              <Chinesesimp>你真的都搜了?...包括那边那栋?</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d01_situation_isa_1">
               <Original>Yes.</Original>
@@ -3144,8 +3144,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_55_hill_marked_ada_2">
               <Original>So, let's do a 180... That makes it 310 from the chapel itself.</Original>
-              <Chinese>所以，讓我們轉個180度。。。他們是在禮拜堂方位310左右的位置。</Chinese>
-              <Chinesesimp>所以，让我们转个180度。。。他们是在礼拜堂方位310左右的位置。</Chinesesimp>
+              <Chinese>所以，讓我們轉個180度...他們是在禮拜堂方位310左右的位置。</Chinese>
+              <Chinesesimp>所以，让我们转个180度...他们是在礼拜堂方位310左右的位置。</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_Mark_Hill" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="50_Mark_Hill" dubbingLanguage="english" namePrefix="boot_m03_50_mark_hill" note="" participants="BOOT B Adams;" situation="adams tells the player to mark the hill">
@@ -3173,8 +3173,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_49_more_info_isa_0">
               <Original>There´s a hill nearby. It has a small chapel on top of it. It´s at bearing... 130, from our position. Over.</Original>
-              <Chinese>我們附近有一座小山。它山頂有個小禮拜堂。它的方位是。。。130，從我們這邊位置看的話。完畢。</Chinese>
-              <Chinesesimp>我们附近有一座小山。它山顶有个小礼拜堂。它的方位是。。。130，从我们这边位置看的话。完毕。</Chinesesimp>
+              <Chinese>我們附近有一座小山。它山頂有個小禮拜堂。它的方位是...130，從我們這邊位置看的話。完畢。</Chinese>
+              <Chinesesimp>我们附近有一座小山。它山顶有个小礼拜堂。它的方位是...130，从我们这边位置看的话。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="45_Town_Marked" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="45_Town_Marked" dubbingLanguage="english" namePrefix="boot_m03_45_town_marked" note="" participants="BOOT B Adams;" situation="the player marked the town correctly">
@@ -3192,8 +3192,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_40_mark_town_ada_1">
               <Original>... 3 kilometers, in other words.</Original>
-              <Chinese>。。。3公里，也可這麼說。</Chinese>
-              <Chinesesimp>。。。3公里，也可这么说。</Chinesesimp>
+              <Chinese>...3公里，也可這麼說。</Chinese>
+              <Chinesesimp>...3公里，也可这么说。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_40_mark_town_isb_0">
               <Original>Klicks?</Original>
@@ -3224,15 +3224,15 @@
             </Key>
             <Key ID="str_a3_boot_m03_35_info_isa_1">
               <Original>Well... We know that we are west of Syrta. We drove through it.</Original>
-              <Chinese>這個嗎。。。我們知道我們是在Syrta的西方。我們剛剛有經過它。</Chinese>
-              <Chinesesimp>好吧。。。我们知道我们是在西尔塔的西方。我们刚刚有经过它。</Chinesesimp>
+              <Chinese>這個嗎...我們知道我們是在Syrta的西方。我們剛剛有經過它。</Chinese>
+              <Chinesesimp>好吧...我们知道我们是在西尔塔的西方。我们刚刚有经过它。</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_Triangulate" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="30_Triangulate" dubbingLanguage="english" namePrefix="boot_m03_30_triangulate" note="" participants="BOOT B Adams;" situation="adams explains that they're going to triangulate the aaf's position">
             <Key ID="str_a3_boot_m03_30_triangulate_ada_0">
               <Original>We're going to try and triangulate their position. However, before we get on to that...</Original>
-              <Chinese>現在讓我們來試試用三角定位來找出他們的位置。然而，在我們開始之前。。。</Chinese>
-              <Chinesesimp>现在让我们来试试用三角定位来找出他们的位置。然而，在我们开始之前。。。</Chinesesimp>
+              <Chinese>現在讓我們來試試用三角定位來找出他們的位置。然而，在我們開始之前...</Chinese>
+              <Chinesesimp>现在让我们来试试用三角定位来找出他们的位置。然而，在我们开始之前...</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_Grids" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="25_Grids" dubbingLanguage="english" namePrefix="boot_m03_25_grids" note="" participants="BOOT B Adams;" situation="adams tells the player to place a marker on their position">
@@ -3404,8 +3404,8 @@
           <Container name="105_Earthquake" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="105_Earthquake" dubbingLanguage="english" namePrefix="boot_m03_105_earthquake" note="" participants="BOOT B Soldier A;" situation="earthquake triggered">
             <Key ID="str_a3_boot_m03_105_earthquake_bsa_0">
               <Original>Okay...</Original>
-              <Chinese>恩。。。</Chinese>
-              <Chinesesimp>嗯。。。</Chinesesimp>
+              <Chinese>恩...</Chinese>
+              <Chinesesimp>嗯...</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_105_earthquake_bsa_1">
               <Original>For the record, I'm blaming CSAT.</Original>
@@ -3423,8 +3423,8 @@
           <Container name="05_Idiots" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="05_Idiots" dubbingLanguage="english" namePrefix="boot_m03_05_idiots" note="" participants="BOOT B Adams;" situation="adams comments on the aaf">
             <Key ID="str_a3_boot_m03_05_idiots_ada_0">
               <Original>It's always something with these people...</Original>
-              <Chinese>他們總是能幹出這種傻事。。。</Chinese>
-              <Chinesesimp>他们总是脑子有毛病。。。</Chinesesimp>
+              <Chinese>他們總是能幹出這種傻事...</Chinese>
+              <Chinesesimp>他们总是脑子有毛病...</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_05_idiots_ada_1">
               <Original>Alright. Change of plans.</Original>
@@ -3450,8 +3450,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_01_start_isa_0">
               <Original>We... Cannot do that.</Original>
-              <Chinese>我們。。。沒法提供。</Chinese>
-              <Chinesesimp>我们。。。没法提供。</Chinesesimp>
+              <Chinese>我們...沒法提供。</Chinese>
+              <Chinesesimp>我们...没法提供。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_01_start_ada_3">
               <Original>Copy. Wait one.</Original>
@@ -3465,8 +3465,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_01_start_isa_2">
               <Original>Uh ... Negative.</Original>
-              <Chinese>呵。。。沒有。</Chinese>
-              <Chinesesimp>呃。。。没有。</Chinesesimp>
+              <Chinese>呵...沒有。</Chinese>
+              <Chinesesimp>呃...没有。</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_Location_Marked" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="50_Location_Marked" dubbingLanguage="english" namePrefix="boot_m03_50_location_marked" note="" participants="BOOT B Adams;" situation="lacey locates the aaf">
@@ -3503,8 +3503,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_35_radio_isa_0">
               <Original>We have a hill southeast of us, bearing... 130. It has a small chapel on it. Over.</Original>
-              <Chinese>我們東南方的方向有一座小山，方位是。。。130。它的上面有一間小禮拜堂。完畢。</Chinese>
-              <Chinesesimp>我们东南方的方向有一座小山，方位是。。。130。它的上面有一间小礼拜堂。完毕。</Chinesesimp>
+              <Chinese>我們東南方的方向有一座小山，方位是...130。它的上面有一間小禮拜堂。完畢。</Chinese>
+              <Chinesesimp>我们东南方的方向有一座小山，方位是...130。它的上面有一间小礼拜堂。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_More_Info" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="30_More_Info" dubbingLanguage="english" namePrefix="boot_m03_30_more_info" note="" participants="BOOT B Adams;" situation="adams fails to locate the aaf">
@@ -3517,8 +3517,8 @@
           <Container name="25_Town_Marked" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="25_Town_Marked" dubbingLanguage="english" namePrefix="boot_m03_25_town_marked" note="" participants="BOOT B Adams;" situation="adams attempts to locate the aaf">
             <Key ID="str_a3_boot_m03_25_town_marked_ada_0">
               <Original>They said they're to the west, so let's see where that takes us...</Original>
-              <Chinese>他們說他們在西面那側，讓我們看看這會是哪裡。。。</Chinese>
-              <Chinesesimp>他们说他们在西面那侧，让我们看看这会是哪里。。。</Chinesesimp>
+              <Chinese>他們說他們在西面那側，讓我們看看這會是哪裡...</Chinese>
+              <Chinesesimp>他们说他们在西面那侧，让我们看看这会是哪里...</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_Mark_Town" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="20_Mark_Town" dubbingLanguage="english" namePrefix="boot_m03_20_mark_town" note="" participants="BOOT B Adams;" situation="adams tells him to mark syrta">
@@ -3563,13 +3563,13 @@
           </Key>
           <Key ID="str_a3_vr_terminating_program">
             <Original>Terminating VR Program...</Original>
-            <Chinese>結束虛擬實境程式。。。</Chinese>
-            <Chinesesimp>结束虚拟实境程序。。。</Chinesesimp>
+            <Chinese>結束虛擬實境程式...</Chinese>
+            <Chinesesimp>结束虚拟实境程序...</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_terminating_course">
             <Original>Terminating Course...</Original>
-            <Chinese>結束課程。。。</Chinese>
-            <Chinesesimp>结束课程。。。</Chinesesimp>
+            <Chinese>結束課程...</Chinese>
+            <Chinesesimp>结束课程...</Chinesesimp>
           </Key>
           <Key ID="str_a3_vr_task_hub_01_title">
             <Original>Select Course</Original>
@@ -3633,8 +3633,8 @@
           </Key>
           <Key ID="STR_A3_vr_connectionLost">
             <Original>CONNECTION LOST, Terminating VR Program...</Original>
-            <Chinese>連線中斷，關閉虛擬實境程式中。。。</Chinese>
-            <Chinesesimp>连接中断，关闭虚拟实境程序中。。。</Chinesesimp>
+            <Chinese>連線中斷，關閉虛擬實境程式中...</Chinese>
+            <Chinesesimp>连接中断，关闭虚拟实境程序中...</Chinesesimp>
           </Key>
           <Container name="Commanding_Actions">
             <Key ID="STR_A3_Task180_name">
@@ -4042,13 +4042,13 @@
             </Key>
             <Key ID="str_a3_vr_ballistics_stage3_title">
               <Original>7.62 mm</Original>
-              <Chinese>7。62mm</Chinese>
-              <Chinesesimp>7。62毫米</Chinesesimp>
+              <Chinese>7.62mm</Chinese>
+              <Chinesesimp>7.62毫米</Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_ballistics_stage2_title">
               <Original>5.56 mm</Original>
-              <Chinese>5。56mm</Chinese>
-              <Chinesesimp>5。56毫米</Chinesesimp>
+              <Chinese>5.56mm</Chinese>
+              <Chinesesimp>5.56毫米</Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_ballistics_stage1_title">
               <Original>9 mm</Original>

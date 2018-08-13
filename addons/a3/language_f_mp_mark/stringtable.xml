@@ -113,8 +113,8 @@
       </Key>
       <Key ID="STR_A3_AssignedPlayers2">
         <Original>%1 ... and %2 more</Original>
-        <Chinese>%1。。。還有%2個</Chinese>
-        <Chinesesimp>%1。。。还有%2个</Chinesesimp>
+        <Chinese>%1...還有%2個</Chinese>
+        <Chinesesimp>%1...还有%2个</Chinesesimp>
       </Key>
     </Container>
     <Container name="Revive">
@@ -130,8 +130,8 @@
       </Key>
       <Key ID="STR_A3_Revive_Status_Respawning">
         <Original>RESPAWNING IN...</Original>
-        <Chinese>重生於。。。</Chinese>
-        <Chinesesimp>重生于。。。</Chinesesimp>
+        <Chinese>重生於...</Chinese>
+        <Chinesesimp>重生于...</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Revive_Status_Reviving">
         <Original>BEING REVIVED</Original>
@@ -392,8 +392,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaydynamicgroups_hint">
         <Original>Select, join or create a group...</Original>
-        <Chinese>選擇加入或創建一個小隊。。。</Chinese>
-        <Chinesesimp>选择加入或创建一个小队。。。</Chinesesimp>
+        <Chinese>選擇加入或創建一個小隊...</Chinese>
+        <Chinesesimp>选择加入或创建一个小队...</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaydynamicgroups_groups">
         <Original>GROUPS</Original>

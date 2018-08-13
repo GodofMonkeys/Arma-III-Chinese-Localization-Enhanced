@@ -495,13 +495,13 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box0">
             <Original>7.62 mm 150Rnd Box</Original>
-            <Chinese>7。62mm150發彈盒</Chinese>
-            <Chinesesimp>7。62毫米150发弹链盒</Chinesesimp>
+            <Chinese>7.62mm150發彈盒</Chinese>
+            <Chinesesimp>7.62毫米150发弹链盒</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box_tracer0">
             <Original>7.62 mm 150Rnd Tracer (Green) Box</Original>
-            <Chinese>7。62mm150發曳光彈(綠色)彈盒</Chinese>
-            <Chinesesimp>7。62毫米150发曳光弹(绿色)弹链盒</Chinesesimp>
+            <Chinese>7.62mm150發曳光彈(綠色)彈盒</Chinese>
+            <Chinesesimp>7.62毫米150发曳光弹(绿色)弹链盒</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_140rnd_30mm_mp_shells_tracer_red0">
             <Original>30 mm MP-T</Original>
@@ -557,13 +557,13 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box_tracer1">
             <Original>Caliber: 7.62x54 mm Tracer - Green&lt;br/&gt;Rounds: 150&lt;br /&gt;Used in: Zafir</Original>
-            <Chinese>口徑:7。62x54mm曳光彈-綠色&lt;br/&gt;發數:150&lt;br/&gt;使用於:Zafir</Chinese>
-            <Chinesesimp>口径:7。62x54毫米曳光弹-绿色&lt;br/&gt;发数:150&lt;br/&gt;使用于:Zafir</Chinesesimp>
+            <Chinese>口徑:7.62x54mm曳光彈-綠色&lt;br/&gt;發數:150&lt;br/&gt;使用於:Zafir</Chinese>
+            <Chinesesimp>口径:7.62x54毫米曳光弹-绿色&lt;br/&gt;发数:150&lt;br/&gt;使用于:Zafir</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_150rnd_762x51_box1">
             <Original>Caliber: 7.62x54 mm&lt;br/&gt;Rounds: 150&lt;br /&gt;Used in: Zafir</Original>
-            <Chinese>口徑:7。62x54mm&lt;br/&gt;發數:150&lt;br/&gt;使用於:Zafir</Chinese>
-            <Chinesesimp>口径:7。62x54毫米&lt;br/&gt;发数:150&lt;br/&gt;使用于:Zafir</Chinesesimp>
+            <Chinese>口徑:7.62x54mm&lt;br/&gt;發數:150&lt;br/&gt;使用於:Zafir</Chinese>
+            <Chinesesimp>口径:7.62x54毫米&lt;br/&gt;发数:150&lt;br/&gt;使用于:Zafir</Chinesesimp>
           </Key>
         </Container>
         <Container name="DisplayNameShort">
@@ -673,13 +673,13 @@
           </Key>
           <Key ID="str_a3_cfgweapons_lmg_zafir_f1">
             <Original>Light Machine Gun&lt;br /&gt;Caliber: 7.62x54 mm</Original>
-            <Chinese>輕機槍&lt;br/&gt;口徑:7。62x54mm</Chinese>
-            <Chinesesimp>轻机枪&lt;br/&gt;口径:7。62x54毫米</Chinesesimp>
+            <Chinese>輕機槍&lt;br/&gt;口徑:7.62x54mm</Chinese>
+            <Chinesesimp>轻机枪&lt;br/&gt;口径:7.62x54毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk201">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
-            <Chinese>突擊步槍&lt;br/&gt;口徑:5。56x45mm</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5。56x45毫米</Chinesesimp>
+            <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45mm</Chinese>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_01_base_f0">
             <Original>Submachine Gun&lt;br /&gt;Caliber: .45 ACP</Original>
@@ -688,8 +688,8 @@
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
-            <Chinese>突擊步槍&lt;br/&gt;口徑:5。56x45mm</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5。56x45毫米</Chinesesimp>
+            <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45mm</Chinese>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_021">
             <Original>Submachine Gun&lt;br /&gt;Caliber: 9x21 mm</Original>
@@ -698,8 +698,8 @@
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_gl1">
             <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
-            <Chinese>突擊步槍&lt;br/&gt;口徑:5。56x45mm</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5。56x45毫米</Chinesesimp>
+            <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45mm</Chinese>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_011">
             <Original>Submachine Gun&lt;br /&gt;Caliber: .45 ACP</Original>
@@ -718,8 +718,8 @@
           </Key>
           <Key ID="str_a3_cfgweapons_mk20_base_f0">
             <Original>Assault rifle  &lt;br/&gt;Caliber: 5.56x45 mm NATO</Original>
-            <Chinese>突擊步槍&lt;br/&gt;口徑:5。56x45mmNATO</Chinese>
-            <Chinesesimp>突击步枪&lt;br/&gt;口径:5。56x45mmNATO</Chinesesimp>
+            <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45mmNATO</Chinese>
+            <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45mmNATO</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl1">
             <Original>Rocket Launcher&lt;br /&gt;Ammo: 127 mm Titan Rocket</Original>
@@ -735,8 +735,8 @@
           </Key>
           <Key ID="str_a3_cfgweapons_lmg_zafir_f0">
             <Original>Zafir 7.62 mm</Original>
-            <Chinese>Zafir7。62mm</Chinese>
-            <Chinesesimp>“扎菲尔”7。62毫米</Chinesesimp>
+            <Chinese>Zafir7.62mm</Chinese>
+            <Chinesesimp>“扎菲尔”7.62毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_test_mk200">
             <Original>TEST</Original>
@@ -745,8 +745,8 @@
           </Key>
           <Key ID="STR_A3_cfgweapons_afrile_mk20_gl_camo">
             <Original>Mk20 EGLM 5.56 mm (Camo)</Original>
-            <Chinese>Mk20EGLM5。56mm(迷彩)</Chinese>
-            <Chinesesimp>Mk20EGLM5。56毫米(迷彩)</Chinesesimp>
+            <Chinese>Mk20EGLM5.56mm(迷彩)</Chinese>
+            <Chinesesimp>Mk20EGLM5.56毫米(迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_hgun_acpc2_f0">
             <Original>ACP-C2 .45 ACP</Original>
@@ -755,13 +755,13 @@
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk200">
             <Original>Mk20 5.56 mm</Original>
-            <Chinese>Mk205。56mm</Chinese>
-            <Chinesesimp>Mk205。56毫米</Chinesesimp>
+            <Chinese>Mk205.56mm</Chinese>
+            <Chinesesimp>Mk205.56毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c0">
             <Original>Mk20C 5.56 mm</Original>
-            <Chinese>Mk20C5。56mm</Chinese>
-            <Chinesesimp>Mk20C5。56毫米</Chinesesimp>
+            <Chinese>Mk20C5.56mm</Chinese>
+            <Chinesesimp>Mk20C5.56毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_010">
             <Original>Vermin SMG .45 ACP</Original>
@@ -780,18 +780,18 @@
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_camo">
             <Original>Mk20 5.56 mm (Camo)</Original>
-            <Chinese>Mk205。56mm(迷彩)</Chinese>
-            <Chinesesimp>Mk205。56毫米(迷彩)</Chinesesimp>
+            <Chinese>Mk205.56mm(迷彩)</Chinese>
+            <Chinesesimp>Mk205.56毫米(迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c_camo">
             <Original>Mk20C 5.56 mm (Camo)</Original>
-            <Chinese>Mk20C5。56mm(迷彩)</Chinese>
-            <Chinesesimp>Mk20C5。56毫米(迷彩)</Chinesesimp>
+            <Chinese>Mk20C5.56mm(迷彩)</Chinese>
+            <Chinesesimp>Mk20C5.56毫米(迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_gl0">
             <Original>Mk20 EGLM 5.56 mm</Original>
-            <Chinese>Mk20EGLM5。56mm</Chinese>
-            <Chinesesimp>Mk20EGLM5。56毫米</Chinesesimp>
+            <Chinese>Mk20EGLM5.56mm</Chinese>
+            <Chinesesimp>Mk20EGLM5.56毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl_f1">
             <Original>Titan MPRL (Sand)</Original>
@@ -827,8 +827,8 @@
         <Container name="Library">
           <Key ID="str_a3_cfgweapons_lmg_zafir_f_library0">
             <Original>The Zafir 7.62 mm is a light machine gun mass-produced by China. It is said to be based on a copied Israeli design, which spawned a lengthy legal conflict that still remains unresolved. The Zafir is a gas-powered automatic firearm, that uses easily replaceable ammo boxes carrying up to 150 rounds. 7.62 mm caliber ammunition gives the Zafir an advantage over BLUFOR MX SW weapons when compared in power and range, but the weapon itself is heavier and less maneuverable. </Original>
-            <Chinese>Zafir7。62mm是一把由中國量產的輕機槍。據說是抄襲了以色列的設計，這個設計引出了一個漫長的法律糾紛，且至今仍未解決。Zafir是一個使用瓦斯動力的自動武器，使用了可以輕易替換的彈盒，彈盒內可容納150發子彈。7。62mm口徑彈藥與藍方的MXSW相比，在火力和射程上具有優勢，但缺點是重量過重而不便攜帶。</Chinese>
-            <Chinesesimp>"扎菲尔"7。62毫米是一把中国大规模生产的轻机枪。据说是抄袭了以色列的设计，这引出了一场漫长的法律纠纷，至今仍未解决。“扎菲尔”是一种导气式自动武器，使用了可以轻易替换的弹盒，弹盒内可容纳150发子弹。7。62毫米口径弹药与蓝方的MXSW相比在火力和射程上具有优势，但缺点是重量过重而不便携带。</Chinesesimp>
+            <Chinese>Zafir7.62mm是一把由中國量產的輕機槍。據說是抄襲了以色列的設計，這個設計引出了一個漫長的法律糾紛，且至今仍未解決。Zafir是一個使用瓦斯動力的自動武器，使用了可以輕易替換的彈盒，彈盒內可容納150發子彈。7.62mm口徑彈藥與藍方的MXSW相比，在火力和射程上具有優勢，但缺點是重量過重而不便攜帶。</Chinese>
+            <Chinesesimp>"扎菲尔"7.62毫米是一把中国大规模生产的轻机枪。据说是抄袭了以色列的设计，这引出了一场漫长的法律纠纷，至今仍未解决。“扎菲尔”是一种导气式自动武器，使用了可以轻易替换的弹盒，弹盒内可容纳150发子弹。7.62毫米口径弹药与蓝方的MXSW相比在火力和射程上具有优势，但缺点是重量过重而不便携带。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_02_library0">
             <Original>The Sting is a 9x21 mm submachine gun. The weapon is designed to be used by security forces, vehicle crews and special forces. Due to its small size, accuracy, ambidextrous use and rate of fire, it became a popular SMG around the world.</Original>
@@ -2144,8 +2144,8 @@
         </Key>
         <Key ID="str_a3_CfgVehicles_apc_wheeled_02_library0">
           <Original>The MSE-3 Marid is an amphibious 6-wheeled APC used by the OPFOR army. It's an agile and maneuverable vehicle with a low silhouette and compact size. Its reliability and maintenance costs match the western APCs. It's fitted as standard with an RCWS turret with 40 mm GMG and 6.5 mm LMG and is able to carry up to 8 soldiers in the cargo space.</Original>
-          <Chinese>MSE-3Marid是一台紅方的兩棲六輪裝甲運兵車。他是一輛低底盤和小尺寸的敏捷機動車。其可靠性和維護成本比得上西方的裝甲運兵車。它的標準配備是裝設有40mm榴彈機槍和6。5mm輕機槍的遙控砲塔。它能夠在後座搭載8名士兵。</Chinese>
-          <Chinesesimp>MSE-3“马里德”是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40毫米榴弹机枪和6。5毫米轻机枪的遥控炮塔。它能够在后座搭载8名士兵。</Chinesesimp>
+          <Chinese>MSE-3Marid是一台紅方的兩棲六輪裝甲運兵車。他是一輛低底盤和小尺寸的敏捷機動車。其可靠性和維護成本比得上西方的裝甲運兵車。它的標準配備是裝設有40mm榴彈機槍和6.5mm輕機槍的遙控砲塔。它能夠在後座搭載8名士兵。</Chinese>
+          <Chinesesimp>MSE-3“马里德”是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40毫米榴弹机枪和6.5毫米轻机枪的遥控炮塔。它能够在后座搭载8名士兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_01_base_library0">
           <Original>The Heavy Expanded Mobility Tactical Truck is an 8x8 diesel-powered off-road truck. It serves as a standard heavy transport vehicle for BLUFOR armies. There are several versions covering the basic transport functions: cargo, refuel, medical, repair, and ammo resupply. </Original>

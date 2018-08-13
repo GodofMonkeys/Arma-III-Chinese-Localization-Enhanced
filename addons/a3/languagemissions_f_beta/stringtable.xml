@@ -296,8 +296,8 @@
             </Key>
             <Key ID="str_a3_showcase_supports_x01_casaulties_haw_0">
               <Original>It's bad... we're getting our asses handed to us, sir. Please advise, over.</Original>
-              <Chinese>這太糟糕了。。。我們正在被屠殺，長官。請下達指示，完畢。</Chinese>
-              <Chinesesimp>这太糟糕了。。。我们正在被屠杀，长官。请下达指示，完毕。</Chinesesimp>
+              <Chinese>這太糟糕了...我們正在被屠殺，長官。請下達指示，完畢。</Chinese>
+              <Chinesesimp>这太糟糕了...我们正在被屠杀，长官。请下达指示，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_Base_clear" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="15_Base_clear" dubbingLanguage="english" namePrefix="showcase_supports_15_base_clear" note="" participants="PB B Hawkeye;PB B HQ;" situation="player reports mission complete to the hq">
@@ -1004,13 +1004,13 @@
             </Key>
             <Key ID="str_a3_firing_drills_timing_rof_26">
               <Original>Your time ...</Original>
-              <Chinese>你的時間。。。</Chinese>
-              <Chinesesimp>你的时间。。。</Chinesesimp>
+              <Chinese>你的時間...</Chinese>
+              <Chinesesimp>你的时间...</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_timing_rof_27">
               <Original>Final time ...</Original>
-              <Chinese>最終時間。。。</Chinese>
-              <Chinesesimp>最终时间。。。</Chinesesimp>
+              <Chinese>最終時間...</Chinese>
+              <Chinesesimp>最终时间...</Chinesesimp>
             </Key>
           </Container>
           <Container name="Rules" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Rules" dubbingLanguage="english" namePrefix="firing_drills_rules" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor (rules, rule-sets)">
@@ -1296,13 +1296,13 @@
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_14">
               <Original>Targets appearing at different times ...</Original>
-              <Chinese>目標會在不同時間出現。。。</Chinese>
-              <Chinesesimp>目标会在不同时间出现。。。</Chinesesimp>
+              <Chinese>目標會在不同時間出現...</Chinese>
+              <Chinesesimp>目标会在不同时间出现...</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_15">
               <Original>... and multiple targets at once here.</Original>
-              <Chinese>。。。和多名目標同時出現。</Chinese>
-              <Chinesesimp>。。。和多名目标同时出现。</Chinesesimp>
+              <Chinese>...和多名目標同時出現。</Chinese>
+              <Chinesesimp>...和多名目标同时出现。</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_16">
               <Original>Watch out for the no-shoot targets!</Original>
@@ -1341,8 +1341,8 @@
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_23">
               <Original>And ... there's the finish!</Original>
-              <Chinese>和。。。這裡就是終點!</Chinese>
-              <Chinesesimp>和。。。这里就是终点!</Chinesesimp>
+              <Chinese>和...這裡就是終點!</Chinese>
+              <Chinesesimp>和...这里就是终点!</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_cofgreen_rof_24">
               <Original>The key to improving your skills is repetition. Train, train and train some more.</Original>
@@ -1523,8 +1523,8 @@
             </Key>
             <Key ID="str_a3_firing_drills_hint_return">
               <Original>Returned to start: drill restarting ...</Original>
-              <Chinese>回到出發點:訓練重新開始中。。。</Chinese>
-              <Chinesesimp>回到出发点:训练重新开始中。。。</Chinesesimp>
+              <Chinese>回到出發點:訓練重新開始中...</Chinese>
+              <Chinesesimp>回到出发点:训练重新开始中...</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_results_unit_seconds">
               <Original>s</Original>
@@ -1598,8 +1598,8 @@
             </Key>
             <Key ID="str_a3_firing_drills_hint_restart">
               <Original>Drill restarting ...</Original>
-              <Chinese>訓練重新開始中。。。</Chinese>
-              <Chinesesimp>训练重新开始中。。。</Chinesesimp>
+              <Chinese>訓練重新開始中...</Chinese>
+              <Chinesesimp>训练重新开始中...</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_hint_ready">
               <Original>Get ready and prepare for firing drill.</Original>
@@ -1608,8 +1608,8 @@
             </Key>
             <Key ID="str_a3_firing_drills_hint_exit_cof">
               <Original>Exited Course of Fire: drill restarting ...</Original>
-              <Chinese>退出靶場:訓練重新開始中。。。</Chinese>
-              <Chinesesimp>退出靶场:训练重新开始中。。。</Chinesesimp>
+              <Chinese>退出靶場:訓練重新開始中...</Chinese>
+              <Chinesesimp>退出靶场:训练重新开始中...</Chinesesimp>
             </Key>
             <Key ID="str_a3_firing_drills_function5">
               <Original>Clear all profile statistics for Firing Drills</Original>
@@ -2093,8 +2093,8 @@
             </Key>
             <Key ID="str_a3_showcase_night2_13_quickbriefing3_rok_0">
               <Original>Ok... we're approaching the bay. Move inland and get into a good position.</Original>
-              <Chinese>Ok。。。我們正接近港灣了。往內陸移動並尋找良好的位置。</Chinese>
-              <Chinesesimp>Ok。。。我们正接近港湾了。往内陆移动并寻找良好的位置。</Chinesesimp>
+              <Chinese>Ok...我們正接近港灣了。往內陸移動並尋找良好的位置。</Chinese>
+              <Chinesesimp>Ok...我们正接近港湾了。往内陆移动并寻找良好的位置。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_night2_13_quickbriefing3_rok_1">
               <Original>Go loud, strike fast, and await confirmation. Bishop will only move on Archangel once it's clear. Understood?</Original>
@@ -2141,8 +2141,8 @@
           <Container name="01_Slow_Down" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="01_Slow_Down" dubbingLanguage="english" namePrefix="showcase_night2_01_slow_down" note="" participants="PB B Fox;PB B Rook;" situation="player orders boat driver to slow down in order to stay undetected">
             <Key ID="str_a3_showcase_night2_01_slow_down_fox_0">
               <Original>Ok, slow it down... quiet as possible from here on in.</Original>
-              <Chinese>Ok，慢下來。。。保持安靜直到裡面。</Chinese>
-              <Chinesesimp>Ok，慢下来。。。从这里开始保持安静。</Chinesesimp>
+              <Chinese>Ok，慢下來...保持安靜直到裡面。</Chinese>
+              <Chinesesimp>Ok，慢下来...从这里开始保持安静。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_night2_01_slow_down_rok_0">
               <Original>Understood.</Original>
@@ -2452,8 +2452,8 @@
           <Container name="x15_Away" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x15_Away" dubbingLanguage="english" namePrefix="showcase_commanding_i_x15_away" note="" participants="PB B Bravo Lead;" situation="player outside of ao">
             <Key ID="str_a3_showcase_commanding_i_x15_away_bra_0">
               <Original>Where the hell am I? I should take a look at the map...</Original>
-              <Chinese>我在哪裡阿?我應該看一下地圖。。。</Chinese>
-              <Chinesesimp>我在哪里啊?我应该看一下地图。。。</Chinesesimp>
+              <Chinese>我在哪裡阿?我應該看一下地圖...</Chinese>
+              <Chinesesimp>我在哪里啊?我应该看一下地图...</Chinesesimp>
             </Key>
           </Container>
           <Container name="x10_Late" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x10_Late" dubbingLanguage="english" namePrefix="showcase_commanding_i_x10_late" note="" participants="PB B Bravo Lead;" situation="player to himself when he takes too much time to get into the village">
@@ -2488,8 +2488,8 @@
           <Container name="x01_Transport_Immobile" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x01_Transport_Immobile" dubbingLanguage="english" namePrefix="showcase_commanding_i_x01_transport_immobile" note="" participants="PB B Bravo Lead;" situation="player mumbling to himself about immobilized vehicle">
             <Key ID="str_a3_showcase_commanding_i_x01_transport_immobile_bra_0">
               <Original>Oh, for fucks sake...</Original>
-              <Chinese>Oh，可惡。。。</Chinese>
-              <Chinesesimp>哦，可恶。。。</Chinesesimp>
+              <Chinese>Oh，可惡...</Chinese>
+              <Chinesesimp>哦，可恶...</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_Victory" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="35_Victory" dubbingLanguage="english" namePrefix="showcase_commanding_i_35_victory" note="" participants="PB B Bravo Lead;PB B HQ;" situation="player informing hq of his success">
@@ -2571,8 +2571,8 @@
             </Key>
             <Key ID="str_a3_showcase_commanding_i_23_girna_advice_bra_2">
               <Original>We'll draw them in, then give 'em hell. Questions? ... Good. Let's go.</Original>
-              <Chinese>我們會守住，然後把他們打回地獄。有問題嗎?。。。非常好。我們走吧。</Chinese>
-              <Chinesesimp>我们会守住，然后给他们好看。有问题吗?。。。非常好。我们走吧。</Chinesesimp>
+              <Chinese>我們會守住，然後把他們打回地獄。有問題嗎?...非常好。我們走吧。</Chinese>
+              <Chinesesimp>我们会守住，然后给他们好看。有问题吗?...非常好。我们走吧。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_Girna" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="20_Girna" dubbingLanguage="english" namePrefix="showcase_commanding_i_20_girna" note="" participants="PB B Bravo Lead;PB B HQ;" situation="rendezvous with remains of foxtrot squad in girna">
@@ -2605,8 +2605,8 @@
             </Key>
             <Key ID="str_a3_showcase_commanding_i_15_situation_haw_1">
               <Original>Two squads, around ... twenty or so in total - split into an advanced element and a main force, over.</Original>
-              <Chinese>兩支小隊，人數大概。。。二十人左右-為大部隊的前鋒隊伍，完畢。</Chinese>
-              <Chinesesimp>两个班，人数大概。。。二十人左右-分为尖刀分队和主力，完毕。</Chinesesimp>
+              <Chinese>兩支小隊，人數大概...二十人左右-為大部隊的前鋒隊伍，完畢。</Chinese>
+              <Chinesesimp>两个班，人数大概...二十人左右-分为尖刀分队和主力，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="13_En_Route" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="13_En_Route" dubbingLanguage="english" namePrefix="showcase_commanding_i_13_en_route" note="" participants="PB B Bravo Lead;PB B HQ;" situation="player reporting to hq, than speaking to his subordinates">
@@ -2636,8 +2636,8 @@
           <Container name="05_Landing" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="05_Landing" dubbingLanguage="english" namePrefix="showcase_commanding_i_05_landing" note="" participants="PB B Bravo Lead;" situation="player - first half silently to himself, second normally to his subordinate, levine">
             <Key ID="str_a3_showcase_commanding_i_05_landing_bra_0">
               <Original>Here we go... Levine, get set for landing. We need to link up with the rest of the squad and move out ASAP.</Original>
-              <Chinese>讓我們開始吧。。。Levine，準備著陸。我必須盡快與剩下的隊員會合。</Chinese>
-              <Chinesesimp>让我们开始吧。。。莱文，准备着陆。我必须尽快与剩下的队员会合。</Chinesesimp>
+              <Chinese>讓我們開始吧...Levine，準備著陸。我必須盡快與剩下的隊員會合。</Chinese>
+              <Chinesesimp>让我们开始吧...莱文，准备着陆。我必须尽快与剩下的队员会合。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_Prolog" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="01_Prolog" dubbingLanguage="english" namePrefix="showcase_commanding_i_01_prolog" note="" participants="PB B Bravo Lead;PB B HQ;" situation="prolog, player and hq discussing situation">
@@ -2675,8 +2675,8 @@
           <Container name="45_Away" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="45_Away" dubbingLanguage="english" namePrefix="showcase_commanding_i_45_away" note="" participants="PB B Bravo Lead;" situation="player outside of ao">
             <Key ID="str_a3_showcase_commanding_i_45_away_bra_0">
               <Original>Where the hell am I? I should take a look at the map...</Original>
-              <Chinese>我在哪裡阿?我應該看一下地圖。。。</Chinese>
-              <Chinesesimp>我在哪里啊?我应该看一下地图。。。</Chinesesimp>
+              <Chinese>我在哪裡阿?我應該看一下地圖...</Chinese>
+              <Chinesesimp>我在哪里啊?我应该看一下地图...</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -2944,8 +2944,8 @@
             </Key>
             <Key ID="str_a3_showcase_combined_arms_05_ambient_chatter_1_ech_0">
               <Original>This is Echo, town is secure. Rolling to staging area. Multiple contacts reported. ETA ... 2 mikes!</Original>
-              <Chinese>這裡是Echo，小鎮已肅清。正前往等候區。已有多起衝突回報。預計抵達時間。。。。2分鐘!</Chinese>
-              <Chinesesimp>这里是“回声”，小镇已肃清。正前往等候区。已有多起冲突回报。预计抵达时间。。。。2分钟!</Chinesesimp>
+              <Chinese>這裡是Echo，小鎮已肅清。正前往等候區。已有多起衝突回報。預計抵達時間....2分鐘!</Chinese>
+              <Chinesesimp>这里是“回声”，小镇已肃清。正前往等候区。已有多起冲突回报。预计抵达时间....2分钟!</Chinesesimp>
             </Key>
           </Container>
           <Key ID="str_a3_showcase_combined_arms1_mission_name">

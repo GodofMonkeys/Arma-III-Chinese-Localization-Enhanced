@@ -318,13 +318,13 @@
             </Key>
             <Key ID="str_a3_faction_blufor_20_b_weapons_exb_1">
               <Original>The MX is a 6.5mm assault rifle, standard issue for NATO forces.</Original>
-              <Chinese>MX突擊步槍配備著6。5mm子彈，是NATO部隊的標準配備。</Chinese>
-              <Chinesesimp>MX突击步枪配备着6。5毫米子弹，是北约部队的标准配备。</Chinesesimp>
+              <Chinese>MX突擊步槍配備著6.5mm子彈，是NATO部隊的標準配備。</Chinese>
+              <Chinesesimp>MX突击步枪配备着6.5毫米子弹，是北约部队的标准配备。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_20_b_weapons_exb_2">
               <Original>The Special Purpose Assault Rifle series, NATO's newest, high-tech primary weapon system. 7.62mm and 5.56mm caliber variants, combined with an optional grenade launcher, make the series a fan favorite among special operations groups.</Original>
-              <Chinese>北約的新型高科技特殊用途突擊步槍系列，有著7。62mm與5。56mm兩種口徑，可以再選配榴彈發射器來配合不同的任務，使這把武器深獲特種部隊的青睞。</Chinese>
-              <Chinesesimp>北约新式的SPAR高科技特殊用途突击步枪系列，有着7。62毫米与5。56毫米两种口径，可以再选配榴弹发射器来配合不同的任务，使这把武器深获特种部队的青睐。</Chinesesimp>
+              <Chinese>北約的新型高科技特殊用途突擊步槍系列，有著7.62mm與5.56mm兩種口徑，可以再選配榴彈發射器來配合不同的任務，使這把武器深獲特種部隊的青睞。</Chinese>
+              <Chinesesimp>北约新式的SPAR高科技特殊用途突击步枪系列，有着7.62毫米与5.56毫米两种口径，可以再选配榴弹发射器来配合不同的任务，使这把武器深获特种部队的青睐。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_B_Water" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="15_B_Water" dubbingLanguage="english" namePrefix="faction_blufor_15_b_water" note="" participants="RC B Expo;" situation="player visits the naval area of the expo">
@@ -357,8 +357,8 @@
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_2">
               <Original>The AH-9 Pawnee is an armed variant of the MH-9 Hummingbird, with DAR unguided rocket pods and two 7.62mm miniguns.</Original>
-              <Chinese>AH-9Pawnee是MH-9Hummingbird武裝過後的版本，配備有DAR非制導火箭莢艙與兩個7。62mm迷你砲機槍。</Chinese>
-              <Chinesesimp>AH-9“波尼”是MH-9“蜂鸟”的武装版本，配备有DAR非制导火箭巢与两挺7。62毫米“米尼岗”机枪。</Chinesesimp>
+              <Chinese>AH-9Pawnee是MH-9Hummingbird武裝過後的版本，配備有DAR非制導火箭莢艙與兩個7.62mm迷你砲機槍。</Chinese>
+              <Chinesesimp>AH-9“波尼”是MH-9“蜂鸟”的武装版本，配备有DAR非制导火箭巢与两挺7.62毫米“米尼岗”机枪。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_3">
               <Original>The V-44 X Blackfish is a rotor-based, Vertical Take-off and Landing capable airframe that comes in 3 standard-issue configurations.</Original>
@@ -399,8 +399,8 @@
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_4">
               <Original>The armed variant of the Prowler is equipped with both .50 cal and .338 caliber machinegun turrets.</Original>
-              <Chinese>武裝版本的"徘徊者"裝備著兩挺。50與。338口徑的機槍。</Chinese>
-              <Chinesesimp>武装版本的"徘徊者"装备着两挺。50与。338口径的机枪。</Chinesesimp>
+              <Chinese>武裝版本的"徘徊者"裝備著兩挺.50與。338口徑的機槍。</Chinese>
+              <Chinesesimp>武装版本的"徘徊者"装备着两挺.50与。338口径的机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_B_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="01_B_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_blufor_01_b_expowelcome" note="" participants="RC B Expo;" situation="player starts the expo, offered introduction">
@@ -479,8 +479,8 @@
             </Key>
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_1">
               <Original>The Katiba is a 6.5mm bullpup assault rifle known for its reliability and low recoil.</Original>
-              <Chinese>Katiba是一把有著6。5mm子彈的無托突擊步槍，他因他的可靠性與低後座力而聞名。</Chinese>
-              <Chinesesimp>“卡提巴”是一把装填6。5毫米子弹的无托突击步枪，因其可靠性与低后座力而闻名。</Chinesesimp>
+              <Chinese>Katiba是一把有著6.5mm子彈的無托突擊步槍，他因他的可靠性與低後座力而聞名。</Chinese>
+              <Chinesesimp>“卡提巴”是一把装填6.5毫米子弹的无托突击步枪，因其可靠性与低后座力而闻名。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_2">
               <Original>The CAR rifle series. Capable of a firerate of 800 rounds per minute, the CAR has recently seen deployment among CSAT forces in the Pacific.</Original>
@@ -560,8 +560,8 @@
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_4">
               <Original>The armed variant of Qilin LSV provides space for 7 soldiers and comes equipped with a 6.5mm Minigun.</Original>
-              <Chinese>武裝版本的"麒麟"可以運送7名士兵，並配有一挺6。5mm迷你砲機槍。</Chinese>
-              <Chinesesimp>武装版本的"麒麟"可以运送7名士兵，并配有一挺6。5毫米“米尼岗”机枪。</Chinesesimp>
+              <Chinese>武裝版本的"麒麟"可以運送7名士兵，並配有一挺6.5mm迷你砲機槍。</Chinese>
+              <Chinesesimp>武装版本的"麒麟"可以运送7名士兵，并配有一挺6.5毫米“米尼岗”机枪。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_O_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="01_O_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_opfor_01_o_expowelcome" note="" participants="RC O Expo;" situation="player starts the expo, offered introduction">
@@ -591,8 +591,8 @@
             </Key>
             <Key ID="str_a3_showcase_gunships_x15_recondead_grn_1">
               <Original>...</Original>
-              <Chinese>。。。</Chinese>
-              <Chinesesimp>。。。</Chinesesimp>
+              <Chinese>...</Chinese>
+              <Chinesesimp>...</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x15_recondead_ohq_0">
               <Original>Viper-Green? Viper-Green, this is Griffin. Do you copy?</Original>
@@ -754,8 +754,8 @@
           <Container name="x25_ReconDead_Backup" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x25_ReconDead_Backup" dubbingLanguage="english" namePrefix="showcase_gunships_x25_recondead_backup" note="" participants="RC O Viper Green;RC O HQ;RC O Pilot;" situation="viper is dead. god job, idiot.">
             <Key ID="str_a3_showcase_gunships_x25_recondead_backup_grn_0">
               <Original>...</Original>
-              <Chinese>。。。</Chinese>
-              <Chinesesimp>。。。</Chinesesimp>
+              <Chinese>...</Chinese>
+              <Chinesesimp>...</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_gunships_x25_recondead_backup_ohq_0">
               <Original>Viper-Green? Viper-Green, this is Griffin. Do you copy?</Original>
@@ -947,8 +947,8 @@
             </Key>
             <Key ID="str_a3_showcase_drones_x05_ugvdestroyed_rok_0">
               <Original>Shit ... Alright, understood. Be careful. Continue with the operation. Get it done, Fox. Out.</Original>
-              <Chinese>該死。。。好吧，了解了。請小心。繼續你們的任務。把它搞定，Fox。通話完畢。</Chinese>
-              <Chinesesimp>该死。。。好吧，了解了。请小心。继续你们的任务。把它搞定，“狐狸”。通话完毕。</Chinesesimp>
+              <Chinese>該死...好吧，了解了。請小心。繼續你們的任務。把它搞定，Fox。通話完畢。</Chinese>
+              <Chinesesimp>该死...好吧，了解了。请小心。继续你们的任务。把它搞定，“狐狸”。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x01_UAVDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x01_UAVDestroyed" dubbingLanguage="english" namePrefix="showcase_drones_x01_uavdestroyed" note="" participants="RC B Fox;RC B Rook;" situation="fox comments on the skylark being destroyed.">
@@ -959,8 +959,8 @@
             </Key>
             <Key ID="str_a3_showcase_drones_x01_uavdestroyed_rok_0">
               <Original>Shit ... Alright, understood. Be careful. Continue with the operation. Get it done, Fox. Out.</Original>
-              <Chinese>該死。。。好吧，了解了。請小心。繼續你們的任務。把它搞定，Fox。通話完畢。</Chinese>
-              <Chinesesimp>该死。。。好吧，了解了。请小心。继续你们的任务。把它搞定，“狐狸”。通话完毕。</Chinesesimp>
+              <Chinese>該死...好吧，了解了。請小心。繼續你們的任務。把它搞定，Fox。通話完畢。</Chinese>
+              <Chinesesimp>该死...好吧，了解了。请小心。继续你们的任务。把它搞定，“狐狸”。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_ExfilRV" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="30_ExfilRV" dubbingLanguage="english" namePrefix="showcase_drones_30_exfilrv" note="" participants="RC B Rook;RC B Bishop;" situation="bishop orders fox to exfil and other squads to engage.">
@@ -2308,8 +2308,8 @@
         </Key>
         <Key ID="str_a3_showcase_gunships_rearm_text02">
           <Original>10 MINUTES LATER ...</Original>
-          <Chinese>10分鐘過後。。。</Chinese>
-          <Chinesesimp>10分钟过后。。。</Chinesesimp>
+          <Chinese>10分鐘過後...</Chinese>
+          <Chinesesimp>10分钟过后...</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_titlecard">
           <Original>SHOWCASE: GUNSHIPS - Attack Helicopters, Countermeasures, Huge Terrain</Original>

@@ -36,8 +36,8 @@
       </Key>
       <Key ID="str_a3_targets1">
         <Original>Guided missiles are only useful when a target is locked. Press %11 to lock the target. Normal targets have a square sign &lt;img size='1' %5  image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_known_target_ca.paa' /&gt;, the locked target has an additional diamond mark &lt;img size='1' %5  image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa' /&gt;. To switch to the next target, press %11 again.</Original>
-        <Chinese>導引飛彈只能在鎖定目標的狀況下使用。點擊%11來鎖定目標。未鎖定的目標會用正方形圖示&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_known_target_ca。paa'/&gt;，被鎖定的目標則會多出一個菱形圖示&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca。paa'/&gt;。再次點擊%11，可以用來切換目標。</Chinese>
-        <Chinesesimp>导弹只能在锁定目标的状况下使用。点击%11来锁定目标。未锁定的目标会用正方形图示&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_known_target_ca。paa'/&gt;，被锁定的目标则会多出一个菱形图示&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca。paa'/&gt;。再次点击%11，可以用来切换目标。</Chinesesimp>
+        <Chinese>導引飛彈只能在鎖定目標的狀況下使用。點擊%11來鎖定目標。未鎖定的目標會用正方形圖示&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_known_target_ca.paa'/&gt;，被鎖定的目標則會多出一個菱形圖示&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa'/&gt;。再次點擊%11，可以用來切換目標。</Chinese>
+        <Chinesesimp>导弹只能在锁定目标的状况下使用。点击%11来锁定目标。未锁定的目标会用正方形图示&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_known_target_ca.paa'/&gt;，被锁定的目标则会多出一个菱形图示&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa'/&gt;。再次点击%11，可以用来切换目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_targets0">
         <Original>Targets</Original>
@@ -377,23 +377,23 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_gmg_01_base_armory0">
           <Original>The Mk32 GMG is a static grenade launcher. It's based on the Mk30 HMG, using the same electronic targeting and tripod, but fires 20 mm grenades instead of .50 BMG. Mk32 also exists in an automatic/remotely controlled variant which is labeled Mk32A.</Original>
-          <Chinese>Mk32榴彈機槍一種固定式榴彈發射器。基本架構同Mk30重機槍，使用相同的電子瞄準和腳架，但是發射20mm榴彈而不是。50子彈。一種Mk32版本為自動/遙控，並且安裝在車頂上，被命名為Mk32A。</Chinese>
-          <Chinesesimp>Mk32榴弹机枪一种固定式榴弹发射器。基本架构同Mk30重机枪，使用相同的电子瞄准和脚架，但是发射20mm榴弹而不是。50子弹。一种Mk32版本为自动/遥控，并且安装在车顶上，被命名为Mk32A。</Chinesesimp>
+          <Chinese>Mk32榴彈機槍一種固定式榴彈發射器。基本架構同Mk30重機槍，使用相同的電子瞄準和腳架，但是發射20mm榴彈而不是.50子彈。一種Mk32版本為自動/遙控，並且安裝在車頂上，被命名為Mk32A。</Chinese>
+          <Chinesesimp>Mk32榴弹机枪一种固定式榴弹发射器。基本架构同Mk30重机枪，使用相同的电子瞄准和脚架，但是发射20mm榴弹而不是.50子弹。一种Mk32版本为自动/遥控，并且安装在车顶上，被命名为Mk32A。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_a_base0">
           <Original>Mk30A HMG .50</Original>
-          <Chinese>Mk30A。50重機槍</Chinese>
+          <Chinese>Mk30A.50重機槍</Chinese>
           <Chinesesimp>Mk30A点50重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_base0">
           <Original>Mk30 HMG .50</Original>
-          <Chinese>Mk30。50重機槍</Chinese>
+          <Chinese>Mk30.50重機槍</Chinese>
           <Chinesesimp>Mk30点50重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_base_armory0">
           <Original>The Mk30 HMG is a static machine gun used by infantry and support. Several projects were launched to replace the Browning M2, but each resulted in them being shelved for various reasons. The Mk30 made it through. Compared to the M2, it's lighter and more portable with better accuracy, utilizing new materials, electronic targeting help and a new tripod, trading portability for rate of fire. Based on the previous concept of the XM307/XM312, the Mk30 is chambered for .50 BMG cartridges with a rate of fire of 350 rpm and effective range up to 2000 meters. Mk30 also exists in an automatic/remotely controlled variant which is labeled Mk30A.</Original>
-          <Chinese>Mk30重機槍是一種固定式機槍，用來給予步兵支援性火力。軍方開始了幾個不同的機槍開發計劃，其目的是為要取代白朗寧M2重機槍，但每個計劃都因一些原因而暫時停止開發。但Mk30卻成功了。跟M2相比，它的重量更輕，更好攜帶，以及有著更棒的精準度，利用新材料，電子瞄準，新腳架，和在便攜性與射速中取得平衡。基於之前XM312/XM307的概念，Mk30使用。50子彈，每分鐘射速為350發，有效射程高達2000公尺。一種Mk30版本為自動/遙控，並且安裝在車頂上，被命名為Mk30A。</Chinese>
-          <Chinesesimp>Mk30重机枪是一种固定式机枪，用来给予步兵支援性火力。军方开始了几个不同的机枪开发计划，其目的是为要取代白朗宁M2重机枪，但每个计划都因一些原因而暂时停止开发。但Mk30却成功了。跟M2相比，它的重量更轻，更好携带，以及有着更棒的精准度，利用新材料，电子瞄准，新脚架，和在便携性与射速中取得平衡。基于之前XM312/XM307的概念，Mk30使用。50子弹，每分钟射速为350发，有效射程高达2000公尺。一种Mk30版本为自动/遥控，并且安装在车顶上，被命名为Mk30A。</Chinesesimp>
+          <Chinese>Mk30重機槍是一種固定式機槍，用來給予步兵支援性火力。軍方開始了幾個不同的機槍開發計劃，其目的是為要取代白朗寧M2重機槍，但每個計劃都因一些原因而暫時停止開發。但Mk30卻成功了。跟M2相比，它的重量更輕，更好攜帶，以及有著更棒的精準度，利用新材料，電子瞄準，新腳架，和在便攜性與射速中取得平衡。基於之前XM312/XM307的概念，Mk30使用.50子彈，每分鐘射速為350發，有效射程高達2000公尺。一種Mk30版本為自動/遙控，並且安裝在車頂上，被命名為Mk30A。</Chinese>
+          <Chinesesimp>Mk30重机枪是一种固定式机枪，用来给予步兵支援性火力。军方开始了几个不同的机枪开发计划，其目的是为要取代白朗宁M2重机枪，但每个计划都因一些原因而暂时停止开发。但Mk30却成功了。跟M2相比，它的重量更轻，更好携带，以及有着更棒的精准度，利用新材料，电子瞄准，新脚架，和在便携性与射速中取得平衡。基于之前XM312/XM307的概念，Mk30使用.50子弹，每分钟射速为350发，有效射程高达2000公尺。一种Mk30版本为自动/遥控，并且安装在车顶上，被命名为Mk30A。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_gmg_01_base0">
           <Original>Mk32 GMG 20 mm</Original>
@@ -1615,8 +1615,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_02_base_library0">
           <Original>A modernized version of the Russian T-95 MBT. The ongoing development of the new generation battle tank was restarted in 2016 thanks to revenues from the oil crisis. The new concept of battle tank is lower and lighter, with increased maneuverability. The T-100 Varsuk comes with a standard 125 mm cannon, 7.62 mm coaxial machine gun and a commander-controlled NSVT-M 12.7 mm HMG.</Original>
-          <Chinese>一種俄羅斯T-95主戰坦克的現代版本。新一代主戰坦克的發展得益於2016年石油危機所帶來的收益。這種新坦克更輕更低，為的是讓機動性更好。T-100Varsuk主戰坦克使用標準125mm加農炮，7。62mm同軸機槍，指揮官座位還配有遙控版NSVT-M12。7mm重機槍。</Chinese>
-          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100“獾”式主战坦克使用标准125毫米加农炮，7。62毫米同轴机枪，车长座位还配有遥控版NSVT-M12。7毫米重机枪。</Chinesesimp>
+          <Chinese>一種俄羅斯T-95主戰坦克的現代版本。新一代主戰坦克的發展得益於2016年石油危機所帶來的收益。這種新坦克更輕更低，為的是讓機動性更好。T-100Varsuk主戰坦克使用標準125mm加農炮，7.62mm同軸機槍，指揮官座位還配有遙控版NSVT-M12。7mm重機槍。</Chinese>
+          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100“獾”式主战坦克使用标准125毫米加农炮，7.62毫米同轴机枪，车长座位还配有遥控版NSVT-M12。7毫米重机枪。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_van_01_base_library0">
           <Original>The civilian 4x4 truck is a highly customizable truck with off-road capabilities preferred by the civilian population. It builds on retro design, but utilizes a modern engine and electronics. Most common truck setups are boxed, cistern and pick-up set.</Original>
@@ -4863,13 +4863,13 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_hmg_01_a_high_base_f0">
         <Original>Mk30A HMG .50 (Raised)</Original>
-        <Chinese>Mk30A。50重機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk30A。50重机枪(高射脚架)</Chinesesimp>
+        <Chinese>Mk30A.50重機槍(高射腳架)</Chinese>
+        <Chinesesimp>Mk30A.50重机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_hmg_01_high_base_f0">
         <Original>Mk30 HMG .50 (Raised)</Original>
-        <Chinese>Mk30。50重機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk30。50重机枪(高射脚架)</Chinesesimp>
+        <Chinese>Mk30.50重機槍(高射腳架)</Chinese>
+        <Chinesesimp>Mk30.50重机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f0">
         <Original>Dismantled Mk30 HMG (Raised) [NATO]</Original>

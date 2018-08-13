@@ -445,13 +445,13 @@
     <Container name="Weapons_F">
       <Key ID="str_a3_cfgweapons_srifle_dmr_01_f1">
         <Original>Assault rifle &lt;br/&gt;Caliber: 7.62x54 mm</Original>
-        <Chinese>突擊步槍&lt;br/&gt;口徑:7。62x54mm</Chinese>
-        <Chinesesimp>突击步枪&lt;br/&gt;口径:7。62x54毫米</Chinesesimp>
+        <Chinese>突擊步槍&lt;br/&gt;口徑:7.62x54mm</Chinese>
+        <Chinesesimp>突击步枪&lt;br/&gt;口径:7.62x54毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_dmr_01_f0">
         <Original>Rahim 7.62 mm</Original>
-        <Chinese>Rahim7。62mm</Chinese>
-        <Chinesesimp>“拉希姆”7。62毫米</Chinesesimp>
+        <Chinese>Rahim7.62mm</Chinese>
+        <Chinesesimp>“拉希姆”7.62毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_optic_mrd1">
         <Original>MRD&lt;br /&gt;Magnification: 1x</Original>
@@ -515,8 +515,8 @@
       </Key>
       <Key ID="STR_A3_CfgWeapons_srifle_DMR_01_F_library">
         <Original>The Rahim 7.62 mm is a bullpup rifle serving as a designated marksman weapon for the OPFOR. It's based on the older Russian rifle with upgraded modern features such as firing mechanism, trigger and rail. The bullpup design allows the rifle to be more compact and maneuverable without shortening the barrel.</Original>
-        <Chinese>Rahim7。62mm是一把給紅方精準射手使用的無托步槍。它是基於老一輩的俄羅斯步槍，在加上一些現代的擊發機制，板機與滑軌所製而成。它的無托設計使它的槍身更為緊湊，使其具有高機動性而不用縮短槍管。</Chinese>
-        <Chinesesimp>“拉希姆”7。62毫米是一把给红方精准射手使用的无托步枪。它在老一代的俄制步枪的基础上加入了一些现代化特性，诸如发射机制，扳机与导轨。无托设计使它的枪身更为紧凑，使其具有高便携性而不用缩短枪管。</Chinesesimp>
+        <Chinese>Rahim7.62mm是一把給紅方精準射手使用的無托步槍。它是基於老一輩的俄羅斯步槍，在加上一些現代的擊發機制，板機與滑軌所製而成。它的無托設計使它的槍身更為緊湊，使其具有高機動性而不用縮短槍管。</Chinese>
+        <Chinesesimp>“拉希姆”7.62毫米是一把给红方精准射手使用的无托步枪。它在老一代的俄制步枪的基础上加入了一些现代化特性，诸如发射机制，扳机与导轨。无托设计使它的枪身更为紧凑，使其具有高便携性而不用缩短枪管。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag0">
         <Original>12.7mm 5Rnd APDS Mag</Original>
@@ -525,13 +525,13 @@
       </Key>
       <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag1">
         <Original>Caliber: 7.62x54 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Rahim</Original>
-        <Chinese>口徑:7。62x54mm&lt;br/&gt;發數:10&lt;br/&gt;使用於:Rahim</Chinese>
-        <Chinesesimp>口径:7。62x54毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:“拉希姆”</Chinesesimp>
+        <Chinese>口徑:7.62x54mm&lt;br/&gt;發數:10&lt;br/&gt;使用於:Rahim</Chinese>
+        <Chinesesimp>口径:7.62x54毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:“拉希姆”</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag0">
         <Original>7.62mm 10Rnd Mag</Original>
-        <Chinese>7。62mm10發彈匣</Chinese>
-        <Chinesesimp>7。62毫米10发弹匣</Chinesesimp>
+        <Chinese>7.62mm10發彈匣</Chinese>
+        <Chinesesimp>7.62毫米10发弹匣</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag0">
         <Original>.45 ACP 11Rnd Mag</Original>

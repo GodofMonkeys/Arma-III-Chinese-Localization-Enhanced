@@ -150,8 +150,8 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_entityselect_description">
           <Original>Select an entity by clicking %3[LMB]%4 on its icon or name in the entity list.%1%2 Hold %11 to select add / remove the entity from selection.%1%2 Hold %12 to select multiple entities (works only in the list).%1%2 Click and drag %3[LMB]%4 to select multiple entities in the frame.&lt;br /&gt;&lt;br /&gt;While all entities can be selected, not all of them can be edited:%1&lt;img image='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_object_ca.paa' size='1.5' shadow='0' /&gt; Normal object, can be edited%1&lt;img image='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDestroyed_ca.paa' size='1.5' shadow='0' /&gt; Destroyed object, can be edited%1&lt;img image='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDisabled_ca.paa' size='1.5' shadow='0' /&gt; Not in the editing area, cannot be edited%1&lt;img image='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectPlayer_ca.paa' size='1.5' shadow='0' /&gt; Player, cannot be edited%1&lt;img image='%13' size='1.5' shadow='0' /&gt; Waypoint, can always be edited</Original>
-          <Chinese>使用%3[滑鼠左鍵]%4點擊單位的圖示，或清單上的名字來選擇他。%1%2按住%11來選擇多名單位。%1%2按住%12來選擇多名單位(只在清單中有效)。%1%2使用%3[滑鼠左鍵]%4點擊並拖曳，即可選擇拖曳出範圍內的所有單位。&lt;br/&gt;&lt;br/&gt;雖然所有的單位都可以被選擇，但並不是所有的單位都可以被編輯:%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_object_ca。paa'size='1。5'shadow='0'/&gt;普通的單位，可以被編輯%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDestroyed_ca。paa'size='1。5'shadow='0'/&gt;已經被摧毀的單位，可以被編輯%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDisabled_ca。paa'size='1。5'shadow='0'/&gt;不在編輯範圍內的單位，不能被編輯%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectPlayer_ca。paa'size='1。5'shadow='0'/&gt;玩家，不能被編輯%1&lt;imgimage='%13'size='1。5'shadow='0'/&gt;路徑點，可以被編輯</Chinese>
-          <Chinesesimp>使用%3[鼠标左键]%4点击单位的图示，或清单上的名字来选择它。%1%2按住%11来选择多名单位。%1%2按住%12来选择多名单位(只在清单中有效)。%1%2使用%3[鼠标左键]%4点击并拖拽，即可选择拖拽出范围内的所有单位。&lt;br/&gt;&lt;br/&gt;虽然所有的单位都可以被选择，但并不是所有的单位都可以被编辑:%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_object_ca。paa'size='1。5'shadow='0'/&gt;普通的单位，可以被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDestroyed_ca。paa'size='1。5'shadow='0'/&gt;已经被摧毁的单位，可以被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDisabled_ca。paa'size='1。5'shadow='0'/&gt;不在编辑范围内的单位，不能被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectPlayer_ca。paa'size='1。5'shadow='0'/&gt;玩家，不能被编辑%1&lt;imgimage='%13'size='1。5'shadow='0'/&gt;路径点，可以被编辑</Chinesesimp>
+          <Chinese>使用%3[滑鼠左鍵]%4點擊單位的圖示，或清單上的名字來選擇他。%1%2按住%11來選擇多名單位。%1%2按住%12來選擇多名單位(只在清單中有效)。%1%2使用%3[滑鼠左鍵]%4點擊並拖曳，即可選擇拖曳出範圍內的所有單位。&lt;br/&gt;&lt;br/&gt;雖然所有的單位都可以被選擇，但並不是所有的單位都可以被編輯:%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_object_ca.paa'size='1。5'shadow='0'/&gt;普通的單位，可以被編輯%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDestroyed_ca.paa'size='1。5'shadow='0'/&gt;已經被摧毀的單位，可以被編輯%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDisabled_ca.paa'size='1。5'shadow='0'/&gt;不在編輯範圍內的單位，不能被編輯%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectPlayer_ca.paa'size='1。5'shadow='0'/&gt;玩家，不能被編輯%1&lt;imgimage='%13'size='1。5'shadow='0'/&gt;路徑點，可以被編輯</Chinese>
+          <Chinesesimp>使用%3[鼠标左键]%4点击单位的图示，或清单上的名字来选择它。%1%2按住%11来选择多名单位。%1%2按住%12来选择多名单位(只在清单中有效)。%1%2使用%3[鼠标左键]%4点击并拖拽，即可选择拖拽出范围内的所有单位。&lt;br/&gt;&lt;br/&gt;虽然所有的单位都可以被选择，但并不是所有的单位都可以被编辑:%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_object_ca.paa'size='1。5'shadow='0'/&gt;普通的单位，可以被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDestroyed_ca.paa'size='1。5'shadow='0'/&gt;已经被摧毁的单位，可以被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectDisabled_ca.paa'size='1。5'shadow='0'/&gt;不在编辑范围内的单位，不能被编辑%1&lt;imgimage='\a3\Ui_F_Curator\Data\CfgHints\entitySelect_objectPlayer_ca.paa'size='1。5'shadow='0'/&gt;玩家，不能被编辑%1&lt;imgimage='%13'size='1。5'shadow='0'/&gt;路径点，可以被编辑</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityplace_tip">
           <Original>****TO TRANSLATE****</Original>
@@ -165,8 +165,8 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_entityplace_description">
           <Original>Zeus can place new entities in the scene:%1%2Select editing mode%1 %2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa' size='1.0' shadow='0' /&gt; - Objects (soldier, vehicles and objects, can be placed only in the editing area)%1 %2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa' size='1.0' shadow='0' /&gt; - Groups of objects%1 %2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa' size='1.0' shadow='0' /&gt; - Modules (systems like artillery strikes, respawn points, weather settings, ...). Can usually be placed anywhere.%1 %2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_markers_ca.paa' size='1.0' shadow='0' /&gt; - Markers (visible to every player, can be placed anywhere for free)%1%2Pick a side (&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_west_ca.paa' size='1.0' shadow='0' %6 /&gt;&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_east_ca.paa' size='1.0' shadow='0' %7 /&gt;&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_guer_ca.paa' size='1.0' shadow='0' %8 /&gt;&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_civ_ca.paa' size='1.0' shadow='0' %9 /&gt;&lt;img image='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_unknown_ca.paa' size='1.0' shadow='0' %10 /&gt;).%1%2Select an entity to place.%1%2Click %3[LMB]%4 on the ground to place the entity.%1%2Hold %11 while clicking %3[LMB]%4 to continue with placement afterwards.&lt;br /&gt;&lt;br /&gt;Object cost is previewed on the resources bar at the top of the screen. Entities which are too expensive are greyed out and cannot be placed.</Original>
-          <Chinese>宙斯可以擺放新的單位:%1%2切換到編輯介面%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca。paa'size='1。0'shadow='0'/&gt;-物件(士兵，載具與物件，可以被放置在編輯區域內)%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca。paa'size='1。0'shadow='0'/&gt;-群組物件%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca。paa'size='1。0'shadow='0'/&gt;-模塊(像是火力支援，重生點，天氣設定等等。。。)。可以被擺放在任何地方。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_markers_ca。paa'size='1。0'shadow='0'/&gt;-標誌(可以被所有玩家看見，可以擺放在地圖上的任何地方，它是免費的)%1%2挑選陣營(&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_west_ca。paa'size='1。0'shadow='0'%6/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_east_ca。paa'size='1。0'shadow='0'%7/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_guer_ca。paa'size='1。0'shadow='0'%8/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_civ_ca。paa'size='1。0'shadow='0'%9/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_unknown_ca。paa'size='1。0'shadow='0'%10/&gt;)。%1%2選擇一個單位來放置。%1%2按下%3滑鼠左鍵]%4即可擺放該單位在點擊的位置上。%1%2按住%11在點擊%3[滑鼠左鍵]%4，即可連續新增多名單位。&lt;br/&gt;&lt;br/&gt;單位會消費的點數會預先顯示在畫面上方的資源條。點數不夠則無法擺放該單位。</Chinese>
-          <Chinesesimp>宙斯可以摆放新的单位:%1%2切换到编辑界面%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca。paa'size='1。0'shadow='0'/&gt;-物件(士兵，载具与物件，可以被放置在编辑区域内)%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca。paa'size='1。0'shadow='0'/&gt;-群组物件%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca。paa'size='1。0'shadow='0'/&gt;-模块(像是火力支援，重生点，天气设定等等。。。)。可以被摆放在任何地方。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_markers_ca。paa'size='1。0'shadow='0'/&gt;-标志(可以被所有玩家看见，可以摆放在地图上的任何地方，它是免费的)%1%2挑选阵营(&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_west_ca。paa'size='1。0'shadow='0'%6/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_east_ca。paa'size='1。0'shadow='0'%7/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_guer_ca。paa'size='1。0'shadow='0'%8/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_civ_ca。paa'size='1。0'shadow='0'%9/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_unknown_ca。paa'size='1。0'shadow='0'%10/&gt;)。%1%2选择一个单位来放置。%1%2按下%3[鼠标左键]%4即可摆放该单位在点击的位置上。%1%2按住%11在点击%3[鼠标左键]%4，即可连续新增多名单位。&lt;br/&gt;&lt;br/&gt;单位会消费的点数会预先显示在画面上方的资源条。点数不够则无法摆放该单位。</Chinesesimp>
+          <Chinese>宙斯可以擺放新的單位:%1%2切換到編輯介面%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。0'shadow='0'/&gt;-物件(士兵，載具與物件，可以被放置在編輯區域內)%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。0'shadow='0'/&gt;-群組物件%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。0'shadow='0'/&gt;-模塊(像是火力支援，重生點，天氣設定等等...)。可以被擺放在任何地方。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_markers_ca.paa'size='1。0'shadow='0'/&gt;-標誌(可以被所有玩家看見，可以擺放在地圖上的任何地方，它是免費的)%1%2挑選陣營(&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_west_ca.paa'size='1。0'shadow='0'%6/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_east_ca.paa'size='1。0'shadow='0'%7/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_guer_ca.paa'size='1。0'shadow='0'%8/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_civ_ca.paa'size='1。0'shadow='0'%9/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_unknown_ca.paa'size='1。0'shadow='0'%10/&gt;)。%1%2選擇一個單位來放置。%1%2按下%3滑鼠左鍵]%4即可擺放該單位在點擊的位置上。%1%2按住%11在點擊%3[滑鼠左鍵]%4，即可連續新增多名單位。&lt;br/&gt;&lt;br/&gt;單位會消費的點數會預先顯示在畫面上方的資源條。點數不夠則無法擺放該單位。</Chinese>
+          <Chinesesimp>宙斯可以摆放新的单位:%1%2切换到编辑界面%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。0'shadow='0'/&gt;-物件(士兵，载具与物件，可以被放置在编辑区域内)%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。0'shadow='0'/&gt;-群组物件%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。0'shadow='0'/&gt;-模块(像是火力支援，重生点，天气设定等等...)。可以被摆放在任何地方。%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_markers_ca.paa'size='1。0'shadow='0'/&gt;-标志(可以被所有玩家看见，可以摆放在地图上的任何地方，它是免费的)%1%2挑选阵营(&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_west_ca.paa'size='1。0'shadow='0'%6/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_east_ca.paa'size='1。0'shadow='0'%7/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_guer_ca.paa'size='1。0'shadow='0'%8/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_civ_ca.paa'size='1。0'shadow='0'%9/&gt;&lt;imgimage='\a3\ui_f_curator\Data\Displays\RscDisplayCurator\side_unknown_ca.paa'size='1。0'shadow='0'%10/&gt;)。%1%2选择一个单位来放置。%1%2按下%3[鼠标左键]%4即可摆放该单位在点击的位置上。%1%2按住%11在点击%3[鼠标左键]%4，即可连续新增多名单位。&lt;br/&gt;&lt;br/&gt;单位会消费的点数会预先显示在画面上方的资源条。点数不够则无法摆放该单位。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityedit_tip">
           <Original>Soldiers and ground vehicles moved to a high altitude will parachute to the ground.</Original>
@@ -210,8 +210,8 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_entityconnect_description">
           <Original>Hold %11, click %3[LMB]%4 on an object and drag the line.%1%2Release the button on another object to connect them together.%1%2Release the button over an empty space to disconnect objects.&lt;br /&gt;&lt;br /&gt;Two types of connection exist:%1%2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa' size='1.5' shadow='0' /&gt;&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa' size='1.5' shadow='0' /&gt; Grouping - when Units or Groups modes are selected, you can group them together. Works only with AI units (e.g. soldiers or manned vehicles)%1%2&lt;img image='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa' size='1.5' shadow='0' /&gt; Syncing - when Modules mode is selected, objects are synchronized. Some modules may require synchronization to affected objects.</Original>
-          <Chinese>按住%11並點擊%3[滑鼠左鍵]%4在單位上即可拖曳出一條線。%1%2在另一個單位上釋放他，即可讓這兩個物件連接上。%1%2在空曠的區域釋放，則會刪除已有的連接線。&lt;br/&gt;&lt;br/&gt;連接有兩種形式:%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca。paa'size='1。5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca。paa'size='1。5'shadow='0'/&gt;群組-當你連接單位或一個小隊，你就可以讓他們組成一個小隊。這功能只能在AI控制的單位上運作%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca。paa'size='1。5'shadow='0'/&gt;同步-這可以讓單位與模塊做出同步線。有些模塊是需要連接上單位才會有作用的。</Chinese>
-          <Chinesesimp>按住%11并点击%3[鼠标左键]%4在单位上即可拖拽出一条线。%1%2在另一个单位上释放他，即可让这两个物件连接上。%1%2在空旷的区域释放，则会删除已有的连接线。&lt;br/&gt;&lt;br/&gt;连接有两种形式:%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca。paa'size='1。5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca。paa'size='1。5'shadow='0'/&gt;群组-当你连接单位或一个小队，你就可以让他们组成一个小队。这功能只能在AI控制的单位上运作%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca。paa'size='1。5'shadow='0'/&gt;同步-这可以让单位与模块做出同步线。有些模块是需要连接上单位才会有作用的。</Chinesesimp>
+          <Chinese>按住%11並點擊%3[滑鼠左鍵]%4在單位上即可拖曳出一條線。%1%2在另一個單位上釋放他，即可讓這兩個物件連接上。%1%2在空曠的區域釋放，則會刪除已有的連接線。&lt;br/&gt;&lt;br/&gt;連接有兩種形式:%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。5'shadow='0'/&gt;群組-當你連接單位或一個小隊，你就可以讓他們組成一個小隊。這功能只能在AI控制的單位上運作%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。5'shadow='0'/&gt;同步-這可以讓單位與模塊做出同步線。有些模塊是需要連接上單位才會有作用的。</Chinese>
+          <Chinesesimp>按住%11并点击%3[鼠标左键]%4在单位上即可拖拽出一条线。%1%2在另一个单位上释放他，即可让这两个物件连接上。%1%2在空旷的区域释放，则会删除已有的连接线。&lt;br/&gt;&lt;br/&gt;连接有两种形式:%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_units_ca.paa'size='1。5'shadow='0'/&gt;&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_groups_ca.paa'size='1。5'shadow='0'/&gt;群组-当你连接单位或一个小队，你就可以让他们组成一个小队。这功能只能在AI控制的单位上运作%1%2&lt;imgimage='\a3\Ui_f\data\GUI\Rsc\RscDisplayArcadeMap\icon_toolbox_modules_ca.paa'size='1。5'shadow='0'/&gt;同步-这可以让单位与模块做出同步线。有些模块是需要连接上单位才会有作用的。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_curator_tip">
           <Original>To become a Zeus, take the slot marked by &lt;img image='%11' size='2' /&gt; in the multiplayer lobby.</Original>
@@ -240,8 +240,8 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_camera_description">
           <Original>The camera provides an aerial view over the battlefield.%1%2Move using %11, %12, %13, %14.%1%2Change altitude with %15 and %16.%1%2Hold %17 to accelerate.%1%2Press %18 to move to the selected unit.%1%2Press %19 to toggle the view of the selected unit.%1%2Press %20 to move to the last pinged player’s position.%1%2Press %3Ctrl + F1...F12%4 to save the camera position, and %3F1...F12%4 to restore it.%1%1In some scenarios, the camera’s movement area may be limited. While not visualized, you will recognize the border when you’ve reached it.</Original>
-          <Chinese>攝影機會幫助你取得戰場的鳥瞰圖。%1%2使用%11，%12，%13，%14來移動攝影機%1%2使用%15和%16來改變高度。%1%2按住%17來加速動作。%1%2按下%18則會移動攝影機到選中的單位上。%1%2按下%19來從選中的單位視野中進行觀察。%1%2按下%20來移動到最後呼叫你的玩家位置。%1%2使用%3Ctrl+F1。。。F12%4來保存攝影機的位置，而%3F1。。。F12%4則會幫助你的攝影機回到儲存的位置上。%1%1在某些任務中，攝影機能觀察的範圍是會被限制的。雖然平常看不到邊界，但當你靠近它時它就會顯示出來給你看。</Chinese>
-          <Chinesesimp>摄影机会帮助你取得战场的鸟瞰图。%1%2使用%11，%12，%13，%14来移动摄影机%1%2使用%15和%16来改变高度。%1%2按住%17来加速动作。%1%2按下%18则会移动摄影机到选中的单位上。%1%2按下%19来从选中的单位视野中进行观察。%1%2按下%20来移动到最后呼叫你的玩家位置。%1%2使用%3Ctrl+F1。。。F12%4来保存摄影机的位置，而%3F1。。。F12%4则会帮助你的摄影机回到储存的位置上。%1%1在某些任务中，摄影机能观察的范围是会被限制的。虽然平常看不到边界，但当你靠近它时它就会显示出来给你看。</Chinesesimp>
+          <Chinese>攝影機會幫助你取得戰場的鳥瞰圖。%1%2使用%11，%12，%13，%14來移動攝影機%1%2使用%15和%16來改變高度。%1%2按住%17來加速動作。%1%2按下%18則會移動攝影機到選中的單位上。%1%2按下%19來從選中的單位視野中進行觀察。%1%2按下%20來移動到最後呼叫你的玩家位置。%1%2使用%3Ctrl+F1...F12%4來保存攝影機的位置，而%3F1...F12%4則會幫助你的攝影機回到儲存的位置上。%1%1在某些任務中，攝影機能觀察的範圍是會被限制的。雖然平常看不到邊界，但當你靠近它時它就會顯示出來給你看。</Chinese>
+          <Chinesesimp>摄影机会帮助你取得战场的鸟瞰图。%1%2使用%11，%12，%13，%14来移动摄影机%1%2使用%15和%16来改变高度。%1%2按住%17来加速动作。%1%2按下%18则会移动摄影机到选中的单位上。%1%2按下%19来从选中的单位视野中进行观察。%1%2按下%20来移动到最后呼叫你的玩家位置。%1%2使用%3Ctrl+F1...F12%4来保存摄影机的位置，而%3F1...F12%4则会帮助你的摄影机回到储存的位置上。%1%1在某些任务中，摄影机能观察的范围是会被限制的。虽然平常看不到边界，但当你靠近它时它就会显示出来给你看。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_attributes_tip">
           <Original>Many modules won't even be initialized until you configure their attributes.</Original>
@@ -256,9 +256,9 @@
         <Key ID="str_a3_cfghints_curator_attributes_description">
           <Original>Scenarios can allow you to set specific entity attributes.%1Doubleclick %3[LMB]%4 on the entity icon or its name in the entity list to open the attributes window.&lt;br /&gt;&lt;br /&gt;Available attributes can be:%1%2Objects - health, skill, fuel, lock, ...%1%2Groups - callsign, combat mode, formation, ...%1%2Waypoints - combat mode, speed, ...%1%2Markers - text, color, ...
 </Original>
-          <Chinese>任務可以讓你設定一些特殊的屬性。%1雙擊%3[滑鼠左鍵]%4在單位圖示上或他在清單上的名字，即可開始編輯他的屬性。&lt;br/&gt;&lt;br/&gt;可以設定的屬性有以下幾種:%1%2單位-生命值，戰鬥技巧，燃料，載具鎖定。。。%1%2群組-呼號，交戰模式，隊形。。。%1%2路徑點-交戰模式，速度。。。%1%2標誌-文本，顏色。。。
+          <Chinese>任務可以讓你設定一些特殊的屬性。%1雙擊%3[滑鼠左鍵]%4在單位圖示上或他在清單上的名字，即可開始編輯他的屬性。&lt;br/&gt;&lt;br/&gt;可以設定的屬性有以下幾種:%1%2單位-生命值，戰鬥技巧，燃料，載具鎖定...%1%2群組-呼號，交戰模式，隊形...%1%2路徑點-交戰模式，速度...%1%2標誌-文本，顏色...
 </Chinese>
-          <Chinesesimp>任务可以让你设定一些特殊的属性。%1双击%3[鼠标左键]%4在单位图示上或它在清单上的名字，即可开始编辑它的属性。&lt;br/&gt;&lt;br/&gt;可以设定的属性有以下几种:%1%2单位-生命值，战斗技巧，燃料，载具锁定。。。%1%2群组-呼号，交战模式，队形。。。%1%2路径点-交战模式，速度。。。%1%2标志-文本，颜色。。。
+          <Chinesesimp>任务可以让你设定一些特殊的属性。%1双击%3[鼠标左键]%4在单位图示上或它在清单上的名字，即可开始编辑它的属性。&lt;br/&gt;&lt;br/&gt;可以设定的属性有以下几种:%1%2单位-生命值，战斗技巧，燃料，载具锁定...%1%2群组-呼号，交战模式，队形...%1%2路径点-交战模式，速度...%1%2标志-文本，颜色...
 </Chinesesimp>
         </Key>
         <Key ID="str_a3_dlc_curator_description">
@@ -1043,13 +1043,13 @@
       <Container name="CfgCuratorChallenges">
         <Key ID="str_a3_cfgcuratorchallenges_spawnlightning">
           <Original>... see a lightning bolt</Original>
-          <Chinese>。。。見到閃電火</Chinese>
-          <Chinesesimp>。。。见到闪电火</Chinesesimp>
+          <Chinese>...見到閃電火</Chinese>
+          <Chinesesimp>...见到闪电火</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgcuratorchallenges_illuminate">
           <Original>... see a flare</Original>
-          <Chinese>。。。見到信號彈</Chinese>
-          <Chinesesimp>。。。见到信号弹</Chinesesimp>
+          <Chinese>...見到信號彈</Chinese>
+          <Chinesesimp>...见到信号弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgcuratorchallenges_getinvehicle_description">
           <Original>Compatible vehicles:&lt;br /&gt;&lt;br /&gt;</Original>
@@ -1063,8 +1063,8 @@
         </Key>
         <Key ID="str_a3_cfgcuratorchallenges_findintel">
           <Original>... find Intel</Original>
-          <Chinese>。。。尋找情報</Chinese>
-          <Chinesesimp>。。。寻找情报</Chinesesimp>
+          <Chinese>...尋找情報</Chinese>
+          <Chinesesimp>...寻找情报</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgcuratorchallenges_spawnlightning_description">
           <Original>Compatible modules:&lt;br /&gt;&lt;br /&gt;</Original>
@@ -1075,152 +1075,152 @@
       <Container name="BIS_fnc_curatorChallengeGetInVehicle">
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_wheeledapc">
           <Original>... get in a wheeled APC</Original>
-          <Chinese>。。。進入一台輪式裝甲運兵車</Chinese>
-          <Chinesesimp>。。。进入一台轮式装甲运兵车</Chinesesimp>
+          <Chinese>...進入一台輪式裝甲運兵車</Chinese>
+          <Chinesesimp>...进入一台轮式装甲运兵车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_trackedapc">
           <Original>... get in a tracked APC</Original>
-          <Chinese>。。。進入一台履帶裝甲運兵車</Chinese>
-          <Chinesesimp>。。。进入一台履带装甲运兵车</Chinesesimp>
+          <Chinese>...進入一台履帶裝甲運兵車</Chinese>
+          <Chinesesimp>...进入一台履带装甲运兵车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_tank">
           <Original>... get in a tank</Original>
-          <Chinese>。。。進入一台坦克</Chinese>
-          <Chinesesimp>。。。进入一台坦克</Chinesesimp>
+          <Chinese>...進入一台坦克</Chinese>
+          <Chinesesimp>...进入一台坦克</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_submarine">
           <Original>... get in a submarine</Original>
-          <Chinese>。。。進入一台潛水艇</Chinese>
-          <Chinesesimp>。。。进入一台潜水艇</Chinesesimp>
+          <Chinese>...進入一台潛水艇</Chinese>
+          <Chinesesimp>...进入一台潜水艇</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_staticweapon">
           <Original>... get in a static weapon</Original>
-          <Chinese>。。。進入一座固定式武器</Chinese>
-          <Chinesesimp>。。。进入一座固定式武器</Chinesesimp>
+          <Chinese>...進入一座固定式武器</Chinese>
+          <Chinesesimp>...进入一座固定式武器</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_ship">
           <Original>... get in a ship</Original>
-          <Chinese>。。。進入一台船</Chinese>
-          <Chinesesimp>。。。进入一台船</Chinesesimp>
+          <Chinese>...進入一台船</Chinese>
+          <Chinesesimp>...进入一台船</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_plane">
           <Original>... get in a plane</Original>
-          <Chinese>。。。進入一台飛機</Chinese>
-          <Chinesesimp>。。。进入一台飞机</Chinesesimp>
+          <Chinese>...進入一台飛機</Chinese>
+          <Chinesesimp>...进入一台飞机</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_motorcycle">
           <Original>... get in a motorcycle</Original>
-          <Chinese>。。。進入一台摩托車</Chinese>
-          <Chinesesimp>。。。进入一台摩托车</Chinesesimp>
+          <Chinese>...進入一台摩托車</Chinese>
+          <Chinesesimp>...进入一台摩托车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_helicopter">
           <Original>... get in a helicopter</Original>
-          <Chinese>。。。進入一台直升機</Chinese>
-          <Chinesesimp>。。。进入一台直升机</Chinesesimp>
+          <Chinese>...進入一台直升機</Chinese>
+          <Chinesesimp>...进入一台直升机</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_car">
           <Original>... get in a car</Original>
-          <Chinese>。。。進入一台車</Chinese>
-          <Chinesesimp>。。。进入一台车</Chinesesimp>
+          <Chinese>...進入一台車</Chinese>
+          <Chinesesimp>...进入一台车</Chinesesimp>
         </Key>
       </Container>
       <Container name="BIS_fnc_curatorChallengeFireWeapon">
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_submachinegun">
           <Original>... fire a submachine gun</Original>
-          <Chinese>。。。使用衝鋒槍開火</Chinese>
-          <Chinesesimp>。。。使用冲锋枪开火</Chinesesimp>
+          <Chinese>...使用衝鋒槍開火</Chinese>
+          <Chinesesimp>...使用冲锋枪开火</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_sniperrifle">
           <Original>... fire a sniper rifle</Original>
-          <Chinese>。。。使用狙擊槍開火</Chinese>
-          <Chinesesimp>。。。使用狙击枪开火</Chinesesimp>
+          <Chinese>...使用狙擊槍開火</Chinese>
+          <Chinesesimp>...使用狙击枪开火</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_shotgun">
           <Original>... fire a shotgun</Original>
-          <Chinese>。。。使用散彈槍開火</Chinese>
-          <Chinesesimp>。。。使用散弹枪开火</Chinesesimp>
+          <Chinese>...使用散彈槍開火</Chinese>
+          <Chinesesimp>...使用散弹枪开火</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_rocketlauncher">
           <Original>... fire a rocket launcher</Original>
-          <Chinese>。。。使用火箭發射器開火</Chinese>
-          <Chinesesimp>。。。使用火箭发射器开火</Chinesesimp>
+          <Chinese>...使用火箭發射器開火</Chinese>
+          <Chinesesimp>...使用火箭发射器开火</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_missilelauncher">
           <Original>... fire a missile launcher</Original>
-          <Chinese>。。。使用導彈發射器開火</Chinese>
-          <Chinesesimp>。。。使用导弹发射器开火</Chinesesimp>
+          <Chinese>...使用導彈發射器開火</Chinese>
+          <Chinesesimp>...使用导弹发射器开火</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_machinegun">
           <Original>... fire a machine gun</Original>
-          <Chinese>。。。使用機槍開火</Chinese>
-          <Chinesesimp>。。。使用机枪开火</Chinesesimp>
+          <Chinese>...使用機槍開火</Chinese>
+          <Chinesesimp>...使用机枪开火</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_handgun">
           <Original>... fire a sidearm</Original>
-          <Chinese>。。。使用手槍開火</Chinese>
-          <Chinesesimp>。。。使用手枪开火</Chinesesimp>
+          <Chinese>...使用手槍開火</Chinese>
+          <Chinesesimp>...使用手枪开火</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_grenadelauncher">
           <Original>... fire a grenade launcher</Original>
-          <Chinese>。。。使用榴彈發射器開火</Chinese>
-          <Chinesesimp>。。。使用榴弹发射器开火</Chinesesimp>
+          <Chinese>...使用榴彈發射器開火</Chinese>
+          <Chinesesimp>...使用榴弹发射器开火</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_assaultrifle">
           <Original>... fire an assault rifle</Original>
-          <Chinese>。。。使用突擊步槍開火</Chinese>
-          <Chinesesimp>。。。使用突击步枪开火</Chinesesimp>
+          <Chinese>...使用突擊步槍開火</Chinese>
+          <Chinesesimp>...使用突击步枪开火</Chinesesimp>
         </Key>
       </Container>
       <Container name="BIS_fnc_curatorChallengeDestroyVehicle">
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_wheeledapc">
           <Original>... destroy a wheeled APC</Original>
-          <Chinese>。。。摧毀輪式裝甲運兵車</Chinese>
-          <Chinesesimp>。。。摧毁轮式装甲运兵车</Chinesesimp>
+          <Chinese>...摧毀輪式裝甲運兵車</Chinese>
+          <Chinesesimp>...摧毁轮式装甲运兵车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_trackedapc">
           <Original>... destroy a tracked APC</Original>
-          <Chinese>。。。摧毀履帶裝甲運兵車</Chinese>
-          <Chinesesimp>。。。摧毁履带装甲运兵车</Chinesesimp>
+          <Chinese>...摧毀履帶裝甲運兵車</Chinese>
+          <Chinesesimp>...摧毁履带装甲运兵车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_tank">
           <Original>... destroy a tank</Original>
-          <Chinese>。。。摧毀坦克</Chinese>
-          <Chinesesimp>。。。摧毁坦克</Chinesesimp>
+          <Chinese>...摧毀坦克</Chinese>
+          <Chinesesimp>...摧毁坦克</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_submarine">
           <Original>... destroy a submarine</Original>
-          <Chinese>。。。摧毀潛水艇</Chinese>
-          <Chinesesimp>。。。摧毁潜水艇</Chinesesimp>
+          <Chinese>...摧毀潛水艇</Chinese>
+          <Chinesesimp>...摧毁潜水艇</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_staticweapon">
           <Original>... destroy a static weapon</Original>
-          <Chinese>。。。摧毀固定式武器</Chinese>
-          <Chinesesimp>。。。摧毁固定式武器</Chinesesimp>
+          <Chinese>...摧毀固定式武器</Chinese>
+          <Chinesesimp>...摧毁固定式武器</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_ship">
           <Original>... destroy a ship</Original>
-          <Chinese>。。。摧毀船</Chinese>
-          <Chinesesimp>。。。摧毁船</Chinesesimp>
+          <Chinese>...摧毀船</Chinese>
+          <Chinesesimp>...摧毁船</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_plane">
           <Original>... destroy a plane</Original>
-          <Chinese>。。。摧毀飛機</Chinese>
-          <Chinesesimp>。。。摧毁飞机</Chinesesimp>
+          <Chinese>...摧毀飛機</Chinese>
+          <Chinesesimp>...摧毁飞机</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_motorcycle">
           <Original>... destroy a motorcycle</Original>
-          <Chinese>。。。摧毀摩托車</Chinese>
-          <Chinesesimp>。。。摧毁摩托车</Chinesesimp>
+          <Chinese>...摧毀摩托車</Chinese>
+          <Chinesesimp>...摧毁摩托车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_helicopter">
           <Original>... destroy a helicopter</Original>
-          <Chinese>。。。摧毀直升機</Chinese>
-          <Chinesesimp>。。。摧毁直升机</Chinesesimp>
+          <Chinese>...摧毀直升機</Chinese>
+          <Chinesesimp>...摧毁直升机</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengedestroyvehicle_car">
           <Original>... destroy a car</Original>
-          <Chinese>。。。摧毀車</Chinese>
-          <Chinesesimp>。。。摧毁车</Chinesesimp>
+          <Chinese>...摧毀車</Chinese>
+          <Chinesesimp>...摧毁车</Chinesesimp>
         </Key>
       </Container>
       <Container name="BIS_fnc_manageCuratorChallenges">
@@ -1797,8 +1797,8 @@
       <Container name="BIS_fnc_addCuratorChallenge">
         <Key ID="str_a3_bis_fnc_addcuratorchellange_tasktitle">
           <Original>A player has to ...</Original>
-          <Chinese>玩家必須。。。</Chinese>
-          <Chinesesimp>玩家必须。。。</Chinesesimp>
+          <Chinese>玩家必須...</Chinese>
+          <Chinesesimp>玩家必须...</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_addcuratorchellange_taskdescription">
           <Original>Complete all subtasks to receive an award.</Original>
@@ -2298,8 +2298,8 @@
           </Key>
           <Key ID="str_a3_cfgtaskdescriptions_exit_description">
             <Original>Leave the Zeus interface to end the scenario ...&lt;br /&gt;&lt;br /&gt;... or experiment as you see fit. Everything is available, and free of charge.</Original>
-            <Chinese>離開宙斯編輯介面來結束任務。。。&lt;br/&gt;&lt;br/&gt;。。。或者你可以繼續在這體驗宙斯模式。所有東西都是可用的，而且不花費點數。</Chinese>
-            <Chinesesimp>离开宙斯编辑界面来结束任务。。。&lt;br/&gt;&lt;br/&gt;。。。或者继续体验宙斯模式。所有东西都是可用的，而且不花费点数。</Chinesesimp>
+            <Chinese>離開宙斯編輯介面來結束任務...&lt;br/&gt;&lt;br/&gt;...或者你可以繼續在這體驗宙斯模式。所有東西都是可用的，而且不花費點數。</Chinese>
+            <Chinesesimp>离开宙斯编辑界面来结束任务...&lt;br/&gt;&lt;br/&gt;...或者继续体验宙斯模式。所有东西都是可用的，而且不花费点数。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgtaskdescriptions_exit">
             <Original>End the showcase</Original>

@@ -448,8 +448,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_02_base_f_library0">
           <Original>An agile (maximum speed 160 km/h) light protected vehicle for up to 7 soldiers – depending on the configuration. The Qilin provides safe and fast operating speeds with superior levels of mobility and maneuverability. It is highly adaptable to severe, rugged and restrictive terrains while providing off-road, cross-country mobility under all types of weather conditions. The vehicle was produced in China with Russian cooperation, so some minor influence from Ifrit MRAP can be seen in the Qilin design. The Qilin is a highly customizable platform which can be fitted according to the mission. CSAT Pacific forces primarily use the unarmed variant and the armed variants fitted with either a 6.5 mm minigun or a Vorona missile launcher.</Original>
-          <Chinese>一台可供最多7名士兵搭乘的敏捷輕型防護載具(最高時速可達160公里)。"麒麟"在高速行駛下也有一定的安全性，這使他成為高機動，高操控性的一台載具。它可以迅速適應各種崎嶇難走的越野地形。此台載具由中國與俄羅斯共同開發，所以不難見到有些防地雷反伏擊車的影子在"麒麟"上出現。"麒麟"是個可以高度客製化的平台，使其適應各式類型的任務。廣協同盟太平洋部隊主要使用無武裝與裝配6。5mm機槍或「沃羅納」反坦克導彈等三種版本。</Chinese>
-          <Chinesesimp>一台可供最多7名士兵搭乘的敏捷轻型防护载具(最高时速可达160公里)。"麒麟"在高速行驶下也有一定的安全性，这使他成为高机动，高操控性的一台载具。它可以迅速适应各种崎岖难走的越野地形。此台载具由中国与俄罗斯共同开发，所以不难见到有些防地雷反伏击车的影子在"麒麟"上出现。"麒麟"是个可以高度客制化的平台，使其适应各式类型的任务。广协同盟太平洋部队主要使用无武装与装配6。5mm机枪或“沃罗纳”反坦克导弹等三种版本。</Chinesesimp>
+          <Chinese>一台可供最多7名士兵搭乘的敏捷輕型防護載具(最高時速可達160公里)。"麒麟"在高速行駛下也有一定的安全性，這使他成為高機動，高操控性的一台載具。它可以迅速適應各種崎嶇難走的越野地形。此台載具由中國與俄羅斯共同開發，所以不難見到有些防地雷反伏擊車的影子在"麒麟"上出現。"麒麟"是個可以高度客製化的平台，使其適應各式類型的任務。廣協同盟太平洋部隊主要使用無武裝與裝配6.5mm機槍或「沃羅納」反坦克導彈等三種版本。</Chinese>
+          <Chinesesimp>一台可供最多7名士兵搭乘的敏捷轻型防护载具(最高时速可达160公里)。"麒麟"在高速行驶下也有一定的安全性，这使他成为高机动，高操控性的一台载具。它可以迅速适应各种崎岖难走的越野地形。此台载具由中国与俄罗斯共同开发，所以不难见到有些防地雷反伏击车的影子在"麒麟"上出现。"麒麟"是个可以高度客制化的平台，使其适应各式类型的任务。广协同盟太平洋部队主要使用无武装与装配6.5mm机枪或“沃罗纳”反坦克导弹等三种版本。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_plane_civil_01_base_f_library0">
           <Original>Caesar BTT is a single-engine, fixed-gear, low-wing general aviation aircraft built from composite materials. The Caesar BTT is one of the fastest fixed-gear, single-engined piston aircraft, reaching a speed of 235 knots (435 km/h) true air speed at 25,000 feet (7,600 m). It is used by civilians and smaller shipping companies all around the world.</Original>
@@ -4940,8 +4940,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list3">
         <Original>AKS-74U 5.45 mm Assault Rifle, AKM 7.62 mm Assault Rifle, AK-12 7.62 mm Assault Rifle, RPG-7 Launcher, PM 9 mm Pistol, SPAR-16/S/17 Assault Rifles, CAR-95 5.8 mm Assault Rifle, CAR-95-1 5.8 mm Light Support Weapon, LIM-85 5.56 mm Light Machine Gun, Type 115 6.5 mm / .50 cal Assault Rifle, Protector 9 mm Sub-Machine Gun, CMR-76 6.5 mm Designated Marksman Rifle, ERCO Optics</Original>
-        <Chinese>AKS-74U5。45mm突擊步槍，AKM7。62mm突擊步槍，AK-127。62mm突擊步槍，RPG-7發射器，PM9mm手槍，SPAR-16/S/17突擊步槍，CAR-955。8mm突擊步槍，CAR-95-15。8mm輕型支援武器，LIM-855。56mm輕機槍，Type1156。5mm/。50口徑突擊步槍，Protector9mm衝鋒槍，CMR-766。5mm指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡</Chinese>
-        <Chinesesimp>AKS-74U5。45毫米突击步枪，AKM7。62毫米突击步枪，AK-127。62毫米突击步枪，RPG-7火箭筒，PM9毫米手枪，SPAR-16/S/17突击步枪，CAR-955。8毫米突击步枪，CAR-95-15。8毫米轻型支援武器，LIM-855。56毫米轻机枪，Type1156。5毫米/。50口径突击步枪，“保护者”9毫米冲锋枪，CMR-766。5毫米指定精准射手步枪，增强型步枪战斗光学瞄准镜</Chinesesimp>
+        <Chinese>AKS-74U5.45mm突擊步槍，AKM7.62mm突擊步槍，AK-127.62mm突擊步槍，RPG-7發射器，PM9mm手槍，SPAR-16/S/17突擊步槍，CAR-955.8mm突擊步槍，CAR-95-15.8mm輕型支援武器，LIM-855.56mm輕機槍，Type1156.5mm/.50口徑突擊步槍，Protector9mm衝鋒槍，CMR-766.5mm指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡</Chinese>
+        <Chinesesimp>AKS-74U5.45毫米突击步枪，AKM7.62毫米突击步枪，AK-127.62毫米突击步枪，RPG-7火箭筒，PM9毫米手枪，SPAR-16/S/17突击步枪，CAR-955.8毫米突击步枪，CAR-95-15.8毫米轻型支援武器，LIM-855.56毫米轻机枪，Type1156.5毫米/.50口径突击步枪，“保护者”9毫米冲锋枪，CMR-766.5毫米指定精准射手步枪，增强型步枪战斗光学瞄准镜</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list2_title">
         <Original>Vehicles</Original>
@@ -5082,8 +5082,8 @@
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumapex1">
         <Original>Be deployed to the 100 km² South Pacific island archipelago Tanoa, with 13 new weapons and 10 new vehicles, a co-op campaign, and more, in the Arma 3 Apex expansion.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co' /&gt;%1%2Tanoa Terrain%1%2Vehicles - V-44 X Blackfish VTOL, Y-32 Xi'an VTOL, Prowler LSV, Qilin LSV, KH-3A Fenghuang Drone, MQ-12 Falcon Drone, Caesar BTT Propellor Airplane, MB 4WD Offroad Car, RHIB Boat, Water Scooter%1%2Weapons - AKS-74U 5.45 mm Assault Rifle, AKM 7.62 mm Assault Rifle, AK-12 7.62 mm Assault Rifle, RPG-7 Launcher, PM 9 mm Pistol, SPAR-16/S/17 Assault Rifles, CAR-95 5.8 mm Assault Rifle, CAR-95-1 5.8 mm Light Support Weapon, LIM-85 5.56 mm Light Machine Gun, Type 115 6.5 mm / .50 cal Assault Rifle, Protector 9 mm Sub-Machine Gun, CMR-76 6.5 mm Designated Marksman Rifle, ERCO Optics%1%2Gear - new clothes, uniforms, backpacks, headgear, NVGs, and more%1%2Syndikat Faction - a criminal organisation composed of armed thugs and ex-paramilitaries%1%2Gendarmerie Faction - the local Tanoa law enforcement agency%1%2NATO &amp;amp; CSAT Special Forces - operators equipped with modern weaponry, thermal-masking camouflage, new Night Vision Goggles, and other unique gear%1%2NATO &amp;amp; CSAT Pacific Forces - suitably camouflaged assets for the primary armed forces%1%2Props - Tanoa environment decorations and special field equipment%1%2Character Appearances - Tanoan and Chinese%1%2Radio Protocols - French, French-English and Chinese%1%2"Apex Protocol" - a 1-4 player co-op campaign with ties to "The East Wind"%1%2Showcase End Game - become familiar with the End Game mode in a singleplayer scenario%1%2&lt;a href='https://community.bistudio.com/wiki/MP_End_Game'&gt;End Game&lt;/a&gt; Instances - "Moddergat" and "Balavu" variants specifically designed for Tanoa's varied environments%1%2&lt;a href="https://arma3.com/dlc/zeus"&gt;Zeus&lt;/a&gt; - Tanoa Game Master scenarios%1%2Official Sound Track - new tracks to score "Apex Protocol"%1%2Main Menu - a re-imagined take on your main window into the game%1%2Controls Presets - play using the new default "Arma 3 Apex" preset, or stick to the setup you're used to via "Arma 3"%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
-        <Chinese>準備好，你即將被佈署到一處100平方公里的南太平洋群島-Tanoa，此資料片為您帶來13種新武器與10輛新載具，以及一個可多人合作的劇情戰役，這些內容盡在ArmA3頂尖資料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2Tanoa島嶼%1%2載具-V-44X"黑鯨"垂直起降機，Y-32"西安"垂直起降機，"徘徊者"輕型突擊車，"麒麟"輕型突擊車，KH-3A"鳳凰"無人偵察機，MQ-12"獵隼"無人直升機，"凱撒"BTT單引擎飛機，四輪驅動越野車，硬殼充氣快艇，水上摩托車%1%2武器-AKS-74U5。45mm突擊步槍，AKM7。62mm突擊步槍，AK-127。62mm突擊步槍，RPG-7發射器，PM9mm手槍，SPAR-16/S/17突擊步槍，CAR-955。8mm突擊步槍，CAR-95-15。8mm輕型支援武器，LIM-855。56mm輕機槍，Type1156。5mm/。50口徑突擊步槍，Protector9mm衝鋒槍，CMR-766。5mm指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡%1%2裝備-新衣服，制服，背包，頭盔，夜視鏡等等%1%2辛迪加陣營-一個由前準軍事人員與罪犯等所組成的犯罪組織%1%2憲兵隊陣營-Tanoa當地的執法組織%1%2北約&amp;amp;廣協同盟特種部隊-裝備更先進的武器，防熱成像迷彩，新式夜視鏡以及其他的獨特裝備%1%2北約&amp;amp;廣協同盟太平洋部隊-主力部隊裝備著與當地符合的迷彩偽裝%1%2道具-Tanoa當地的環境物件與專業道具%1%2登場人物-Tanoa人與中國人%1%2無線電對話-法語，法式英語與中文%1%2"頂尖協議"-接續"東風"戰役的合作戰役，可由1-4人共同遊玩%1%2終戰任務展示-在單人模式中體驗當前最受歡迎的模式-終戰%1%2新的&lt;ahref='https://community。bistudio。com/wiki/MP_End_Game'&gt;終戰&lt;/a&gt;任務-在"Moddergat"與"Balavu"兩座城市中體驗我們為Tanoa設計的終戰模式%1%2&lt;ahref="https://arma3。com/dlc/zeus"&gt;宙斯&lt;/a&gt;-為Tanoa設計的遊戲管理員模式%1%2官方原聲帶-聆聽為"頂尖協議"新譜寫的曲子%1%2主選單-全新的主選單介面%1%2控制設定-你可以使用我們為"ArmA3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置%1%2成就-一組新的&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>准备好，你即将被布署到一处100平方公里的南太平洋群岛-塔诺亚，此资料片为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在ArmA3顶尖资料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2Tanoa岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U5。45mm突击步枪，AKM7。62mm突击步枪，AK-127。62mm突击步枪，RPG-7发射器，PM9mm手枪，SPAR-16/S/17突击步枪，CAR-955。8mm突击步枪，CAR-95-15。8mm轻型支援武器，LIM-855。56mm轻机枪，Type1156。5mm/。50口径突击步枪，Protector9mm冲锋枪，CMR-766。5mm指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备-新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营-一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营-Tanoa当地的执法组织%1%2北约&amp;amp;广协同盟特种部队-装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;广协同盟太平洋部队-主力部队装备着与当地符合的迷彩伪装%1%2道具-Tanoa当地的环境物件与专业道具%1%2登场人物-Tanoa人与中国人%1%2无线电对话-法语，法式英语与中文%1%2"顶尖协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示-在单人模式中体验当前最受欢迎的模式-终战%1%2新的&lt;ahref='https://community。bistudio。com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务-在"Moddergat"与"Balavu"两座城市中体验我们为Tanoa设计的终战模式%1%2&lt;ahref="https://arma3。com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为Tanoa设计的游戏管理员模式%1%2官方原声带-聆听为"顶尖协议"新谱写的曲子%1%2主选单-全新的主选单介面%1%2控制设定-你可以使用我们为"ArmA3顶尖"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就-一组新的&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinese>準備好，你即將被佈署到一處100平方公里的南太平洋群島-Tanoa，此資料片為您帶來13種新武器與10輛新載具，以及一個可多人合作的劇情戰役，這些內容盡在ArmA3頂尖資料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2Tanoa島嶼%1%2載具-V-44X"黑鯨"垂直起降機，Y-32"西安"垂直起降機，"徘徊者"輕型突擊車，"麒麟"輕型突擊車，KH-3A"鳳凰"無人偵察機，MQ-12"獵隼"無人直升機，"凱撒"BTT單引擎飛機，四輪驅動越野車，硬殼充氣快艇，水上摩托車%1%2武器-AKS-74U5.45mm突擊步槍，AKM7.62mm突擊步槍，AK-127.62mm突擊步槍，RPG-7發射器，PM9mm手槍，SPAR-16/S/17突擊步槍，CAR-955.8mm突擊步槍，CAR-95-15.8mm輕型支援武器，LIM-855.56mm輕機槍，Type1156.5mm/.50口徑突擊步槍，Protector9mm衝鋒槍，CMR-766.5mm指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡%1%2裝備-新衣服，制服，背包，頭盔，夜視鏡等等%1%2辛迪加陣營-一個由前準軍事人員與罪犯等所組成的犯罪組織%1%2憲兵隊陣營-Tanoa當地的執法組織%1%2北約&amp;amp;廣協同盟特種部隊-裝備更先進的武器，防熱成像迷彩，新式夜視鏡以及其他的獨特裝備%1%2北約&amp;amp;廣協同盟太平洋部隊-主力部隊裝備著與當地符合的迷彩偽裝%1%2道具-Tanoa當地的環境物件與專業道具%1%2登場人物-Tanoa人與中國人%1%2無線電對話-法語，法式英語與中文%1%2"頂尖協議"-接續"東風"戰役的合作戰役，可由1-4人共同遊玩%1%2終戰任務展示-在單人模式中體驗當前最受歡迎的模式-終戰%1%2新的&lt;ahref='https://community。bistudio。com/wiki/MP_End_Game'&gt;終戰&lt;/a&gt;任務-在"Moddergat"與"Balavu"兩座城市中體驗我們為Tanoa設計的終戰模式%1%2&lt;ahref="https://arma3。com/dlc/zeus"&gt;宙斯&lt;/a&gt;-為Tanoa設計的遊戲管理員模式%1%2官方原聲帶-聆聽為"頂尖協議"新譜寫的曲子%1%2主選單-全新的主選單介面%1%2控制設定-你可以使用我們為"ArmA3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置%1%2成就-一組新的&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
+        <Chinesesimp>准备好，你即将被布署到一处100平方公里的南太平洋群岛-塔诺亚，此资料片为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在ArmA3顶尖资料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2Tanoa岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U5.45mm突击步枪，AKM7.62mm突击步枪，AK-127.62mm突击步枪，RPG-7发射器，PM9mm手枪，SPAR-16/S/17突击步枪，CAR-955.8mm突击步枪，CAR-95-15.8mm轻型支援武器，LIM-855.56mm轻机枪，Type1156.5mm/.50口径突击步枪，Protector9mm冲锋枪，CMR-766.5mm指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备-新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营-一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营-Tanoa当地的执法组织%1%2北约&amp;amp;广协同盟特种部队-装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;广协同盟太平洋部队-主力部队装备着与当地符合的迷彩伪装%1%2道具-Tanoa当地的环境物件与专业道具%1%2登场人物-Tanoa人与中国人%1%2无线电对话-法语，法式英语与中文%1%2"顶尖协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示-在单人模式中体验当前最受欢迎的模式-终战%1%2新的&lt;ahref='https://community。bistudio。com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务-在"Moddergat"与"Balavu"两座城市中体验我们为Tanoa设计的终战模式%1%2&lt;ahref="https://arma3。com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为Tanoa设计的游戏管理员模式%1%2官方原声带-聆听为"顶尖协议"新谱写的曲子%1%2主选单-全新的主选单介面%1%2控制设定-你可以使用我们为"ArmA3顶尖"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就-一组新的&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
     <Container name="Roles">
@@ -5231,8 +5231,8 @@
         </Key>
         <Key ID="STR_A3_BeingRevived">
           <Original>Being revived...</Original>
-          <Chinese>正在甦醒中。。。</Chinese>
-          <Chinesesimp>正在苏醒中。。。</Chinesesimp>
+          <Chinese>正在甦醒中...</Chinese>
+          <Chinesesimp>正在苏醒中...</Chinesesimp>
         </Key>
         <Key ID="STR_A3_Revive">
           <Original>Revive</Original>
@@ -5241,8 +5241,8 @@
         </Key>
         <Key ID="STR_A3_BeingRevivedBy">
           <Original>Being revived by %1</Original>
-          <Chinese>%1正在為你包紮。。。</Chinese>
-          <Chinesesimp>%1正在为你包扎。。。</Chinesesimp>
+          <Chinese>%1正在為你包紮...</Chinese>
+          <Chinesesimp>%1正在为你包扎...</Chinesesimp>
         </Key>
         <Key ID="STR_A3_ForceRespawn">
           <Original>Force Respawn</Original>
@@ -6218,78 +6218,78 @@
       <Container name="Rifles">
         <Key ID="str_a3_cfgweapons_arifle_spar_03_snd_f0">
           <Original>SPAR-17 7.62 mm (Sand)</Original>
-          <Chinese>SPAR-177。62mm(沙色)</Chinese>
-          <Chinesesimp>SPAR-177。62毫米(沙色)</Chinesesimp>
+          <Chinese>SPAR-177.62mm(沙色)</Chinese>
+          <Chinesesimp>SPAR-177.62毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_khk_f0">
           <Original>SPAR-17 7.62 mm (Khaki)</Original>
-          <Chinese>SPAR-177。62mm(卡其色)</Chinese>
-          <Chinesesimp>SPAR-177。62毫米(卡其色)</Chinesesimp>
+          <Chinese>SPAR-177.62mm(卡其色)</Chinese>
+          <Chinesesimp>SPAR-177.62毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_blk_f0">
           <Original>SPAR-17 7.62 mm (Black)</Original>
-          <Chinese>SPAR-177。62mm(黑色)</Chinese>
-          <Chinesesimp>SPAR-177。62毫米(黑色)</Chinesesimp>
+          <Chinese>SPAR-177.62mm(黑色)</Chinese>
+          <Chinesesimp>SPAR-177.62毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_base_f1">
           <Original>Marksman rifle&lt;br /&gt;Caliber: 7.62x51 mm</Original>
-          <Chinese>精準射手步槍&lt;br/&gt;口徑:7。62x51mm</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:7。62x51毫米</Chinesesimp>
+          <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51mm</Chinese>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:7.62x51毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_base_f_library0">
           <Original>The SPAR-17 designated marksman rifle is in many ways similar to the SPAR-16. The main difference is the chambering to 7.62 mm which also means a longer, thicker barrel and more weight. Thanks to the more powerful ammunition, the SPAR-17 is most suitable for ranges from 600 to 800 meters. The rifle offers a single and full auto mode and is, like the SPAR-16, compatible with a large number of accessories.</Original>
-          <Chinese>SPAR-17指定精準射手步槍在許多意義上都神似於SPAR-16。他們之間最大的差別在於其使用了7。62mm子彈，這也表示它使用了更長，更厚且更重的槍管因而增加了它的重量。多虧了這強大的彈藥，SPAR-17的有效射程可達600至800公尺左右。它有著單發與全自動射擊兩種模式，而就像SPAR-16一樣，此槍也可以兼容大量的槍身配件。</Chinese>
-          <Chinesesimp>SPAR-17指定精准射手步枪在许多意义上都神似于SPAR-16。他们之间最大的差别在于其使用了7。62毫米子弹，这也表示它使用了更长，更厚且更重的枪管因而增加了它的重量。多亏了这强大的弹药，SPAR-17的有效射程可达600至800米左右。它有着单发与全自动射击两种模式，而就像SPAR-16一样，此枪也可以兼容大量的枪身配件。</Chinesesimp>
+          <Chinese>SPAR-17指定精準射手步槍在許多意義上都神似於SPAR-16。他們之間最大的差別在於其使用了7.62mm子彈，這也表示它使用了更長，更厚且更重的槍管因而增加了它的重量。多虧了這強大的彈藥，SPAR-17的有效射程可達600至800公尺左右。它有著單發與全自動射擊兩種模式，而就像SPAR-16一樣，此槍也可以兼容大量的槍身配件。</Chinese>
+          <Chinesesimp>SPAR-17指定精准射手步枪在许多意义上都神似于SPAR-16。他们之间最大的差别在于其使用了7.62毫米子弹，这也表示它使用了更长，更厚且更重的枪管因而增加了它的重量。多亏了这强大的弹药，SPAR-17的有效射程可达600至800米左右。它有着单发与全自动射击两种模式，而就像SPAR-16一样，此枪也可以兼容大量的枪身配件。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_base_f0">
           <Original>SPAR-17 7.62 mm</Original>
-          <Chinese>SPAR-177。62mm</Chinese>
-          <Chinesesimp>SPAR-177。62毫米</Chinesesimp>
+          <Chinese>SPAR-177.62mm</Chinese>
+          <Chinesesimp>SPAR-177.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_snd_f0">
           <Original>SPAR-16S 5.56 mm (Sand)</Original>
-          <Chinese>SPAR-16S5。56mm(沙色)</Chinese>
-          <Chinesesimp>SPAR-16S5。56毫米(沙色)</Chinesesimp>
+          <Chinese>SPAR-16S5.56mm(沙色)</Chinese>
+          <Chinesesimp>SPAR-16S5.56毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_khk_f0">
           <Original>SPAR-16S 5.56 mm (Khaki)</Original>
-          <Chinese>SPAR-16S5。56mm(卡其色)</Chinese>
-          <Chinesesimp>SPAR-16S5。56毫米(卡其色)</Chinesesimp>
+          <Chinese>SPAR-16S5.56mm(卡其色)</Chinese>
+          <Chinesesimp>SPAR-16S5.56毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_blk_f0">
           <Original>SPAR-16S 5.56 mm (Black)</Original>
-          <Chinese>SPAR-16S5。56mm(黑色)</Chinese>
-          <Chinesesimp>SPAR-16S5。56毫米(黑色)</Chinesesimp>
+          <Chinese>SPAR-16S5.56mm(黑色)</Chinese>
+          <Chinesesimp>SPAR-16S5.56毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_snd_f0">
           <Original>SPAR-16 5.56 mm (Sand)</Original>
-          <Chinese>SPAR-165。56mm(沙色)</Chinese>
-          <Chinesesimp>SPAR-165。56毫米(沙色)</Chinesesimp>
+          <Chinese>SPAR-165.56mm(沙色)</Chinese>
+          <Chinesesimp>SPAR-165.56毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_khk_f0">
           <Original>SPAR-16 5.56 mm (Khaki)</Original>
-          <Chinese>SPAR-165。56mm(卡其色)</Chinese>
-          <Chinesesimp>SPAR-165。56毫米(卡其色)</Chinesesimp>
+          <Chinese>SPAR-165.56mm(卡其色)</Chinese>
+          <Chinesesimp>SPAR-165.56毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_base_f1">
           <Original>Light Machine Gun&lt;br /&gt;Caliber: 5.56x45 mm</Original>
-          <Chinese>輕機槍&lt;br/&gt;口徑:5。56x45mm</Chinese>
-          <Chinesesimp>轻机枪&lt;br/&gt;口径:5。56x45毫米</Chinesesimp>
+          <Chinese>輕機槍&lt;br/&gt;口徑:5.56x45mm</Chinese>
+          <Chinesesimp>轻机枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_snd_f0">
           <Original>SPAR-16 GL 5.56 mm (Sand)</Original>
-          <Chinese>SPAR-16GL5。56mm(沙色)</Chinese>
-          <Chinesesimp>SPAR-16GL5。56毫米(沙色)</Chinesesimp>
+          <Chinese>SPAR-16GL5.56mm(沙色)</Chinese>
+          <Chinesesimp>SPAR-16GL5.56毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_khk_f0">
           <Original>SPAR-16 GL 5.56 mm (Khaki)</Original>
-          <Chinese>SPAR-16GL5。56mm(卡其色)</Chinese>
-          <Chinesesimp>SPAR-16GL5。56毫米(卡其色)</Chinesesimp>
+          <Chinese>SPAR-16GL5.56mm(卡其色)</Chinese>
+          <Chinesesimp>SPAR-16GL5.56毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_blk_f0">
           <Original>SPAR-16 GL 5.56 mm (Black)</Original>
-          <Chinese>SPAR-16GL5。56mm(黑色)</Chinese>
-          <Chinesesimp>SPAR-16GL5。56毫米(黑色)</Chinesesimp>
+          <Chinese>SPAR-16GL5.56mm(黑色)</Chinese>
+          <Chinesesimp>SPAR-16GL5.56毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_base_f_eglm0">
           <Original>GLM</Original>
@@ -6298,88 +6298,88 @@
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_blk_f0">
           <Original>SPAR-16 5.56 mm (Black)</Original>
-          <Chinese>SPAR-165。56mm(黑色)</Chinese>
-          <Chinesesimp>SPAR-165。56毫米(黑色)</Chinesesimp>
+          <Chinese>SPAR-165.56mm(黑色)</Chinese>
+          <Chinesesimp>SPAR-165.56毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_base_f0">
           <Original>SPAR-16 5.56 mm</Original>
-          <Chinese>SPAR-165。56mm</Chinese>
-          <Chinesesimp>SPAR-165。56毫米</Chinesesimp>
+          <Chinese>SPAR-165.56mm</Chinese>
+          <Chinesesimp>SPAR-165.56毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mx_sw_khk_f0">
           <Original>MX SW 6.5 mm (Khaki)</Original>
-          <Chinese>MXSW6。5mm(卡其色)</Chinese>
-          <Chinesesimp>MXSW6。5毫米(卡其色)</Chinesesimp>
+          <Chinese>MXSW6.5mm(卡其色)</Chinese>
+          <Chinesesimp>MXSW6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mxm_khk_f0">
           <Original>MXM 6.5 mm (Khaki)</Original>
-          <Chinese>MXM6。5mm(卡其色)</Chinese>
-          <Chinesesimp>MXM6。5毫米(卡其色)</Chinesesimp>
+          <Chinese>MXM6.5mm(卡其色)</Chinese>
+          <Chinesesimp>MXM6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
-          <Chinese>突擊步槍&lt;br/&gt;口徑:5。56x45mm</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:5。56x45毫米</Chinesesimp>
+          <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45mm</Chinese>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_base_f_library0">
           <Original>The SPAR-16 is a standard issue assault rifle of CTRG units in Pacific, chambered for 5.56 mm ammunition. The gun is a reliable rifle compatible with a large number of accessories. Multiple variants of this rifle exist, each suitable for a different role. The SPAR-16 GL is equipped with an underslung grenade launcher, the SPAR-16S with its thicker barrel and drum magazine works as a light support weapon.</Original>
-          <Chinese>SPAR-16突擊步槍是戰研大隊太平洋部隊的標準裝備，使用5。56mm子彈。此槍可搭配為數眾多的槍身配件，使其產生出不同的版本來配合任務需求。SPAR-16GL為加掛榴彈發射器的版本，而SPAR-16S則是加裝圓形彈鼓的輕機槍版本。</Chinese>
-          <Chinesesimp>SPAR-16突击步枪是战研大队太平洋部队的标准装备，使用5。56毫米子弹。此枪可搭配为数众多的枪身配件，使其产生出不同的版本来配合任务需求。SPAR-16GL为加挂榴弹发射器的版本，而SPAR-16S则是加装圆形弹鼓的轻机枪版本。</Chinesesimp>
+          <Chinese>SPAR-16突擊步槍是戰研大隊太平洋部隊的標準裝備，使用5.56mm子彈。此槍可搭配為數眾多的槍身配件，使其產生出不同的版本來配合任務需求。SPAR-16GL為加掛榴彈發射器的版本，而SPAR-16S則是加裝圓形彈鼓的輕機槍版本。</Chinese>
+          <Chinesesimp>SPAR-16突击步枪是战研大队太平洋部队的标准装备，使用5.56毫米子弹。此枪可搭配为数众多的枪身配件，使其产生出不同的版本来配合任务需求。SPAR-16GL为加挂榴弹发射器的版本，而SPAR-16S则是加装圆形弹鼓的轻机枪版本。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mx_khk_f0">
           <Original>MX 6.5 mm (Khaki)</Original>
-          <Chinese>MX6。5mm(卡其色)</Chinese>
-          <Chinesesimp>MX6。5毫米(卡其色)</Chinesesimp>
+          <Chinese>MX6.5mm(卡其色)</Chinese>
+          <Chinesesimp>MX6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mx_gl_khk_f0">
           <Original>MX 3GL 6.5 mm (Khaki)</Original>
-          <Chinese>MX3GL6。5mm(卡其色)</Chinese>
-          <Chinesesimp>MX3GL6。5毫米(卡其色)</Chinesesimp>
+          <Chinese>MX3GL6.5mm(卡其色)</Chinese>
+          <Chinesesimp>MX3GL6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mxc_khk_f0">
           <Original>MXC 6.5 mm (Khaki)</Original>
-          <Chinese>MXC6。5mm(卡其色)</Chinese>
-          <Chinesesimp>MXC6。5毫米(卡其色)</Chinesesimp>
+          <Chinese>MXC6.5mm(卡其色)</Chinese>
+          <Chinesesimp>MXC6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_wdm_f0">
           <Original>CAR-95 5.8 mm (Green Hex)</Original>
-          <Chinese>CAR-955。8mm(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CAR-955。8毫米(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>CAR-955.8mm(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CAR-955.8毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctars_wdm_f0">
           <Original>CAR-95-1 5.8mm (Green Hex)</Original>
-          <Chinese>CAR-95-15。8mm(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CAR-95-15。8毫米(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>CAR-95-15.8mm(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CAR-95-15.8毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctars_hex_f0">
           <Original>CAR-95-1 5.8mm (Hex)</Original>
-          <Chinese>CAR-95-15。8mm(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CAR-95-15。8毫米(数位蜂巢迷彩)</Chinesesimp>
+          <Chinese>CAR-95-15.8mm(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CAR-95-15.8毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctars_blk_f0">
           <Original>CAR-95-1 5.8mm (Black)</Original>
-          <Chinese>CAR-95-15。8mm(黑色)</Chinese>
-          <Chinesesimp>CAR-95-15。8毫米(黑色)</Chinesesimp>
+          <Chinese>CAR-95-15.8mm(黑色)</Chinese>
+          <Chinesesimp>CAR-95-15.8毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_hex_f0">
           <Original>CAR-95 5.8 mm (Hex)</Original>
-          <Chinese>CAR-955。8mm(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CAR-955。8毫米(数位蜂巢迷彩)</Chinesesimp>
+          <Chinese>CAR-955.8mm(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CAR-955.8毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_gl_wdm_f0">
           <Original>CAR-95 GL 5.8 mm (Green Hex)</Original>
-          <Chinese>CAR-95GL5。8mm(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CAR-95GL5。8毫米(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>CAR-95GL5.8mm(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CAR-95GL5.8毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_gl_hex_f0">
           <Original>CAR-95 GL 5.8 mm (Hex)</Original>
-          <Chinese>CAR-95GL5。8mm(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CAR-95GL5。8毫米(数位蜂巢迷彩)</Chinesesimp>
+          <Chinese>CAR-95GL5.8mm(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CAR-95GL5.8毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_gl_blk_f0">
           <Original>CAR-95 GL 5.8 mm (Black)</Original>
-          <Chinese>CAR-95GL5。8mm(黑色)</Chinese>
-          <Chinesesimp>CAR-95GL5。8毫米(黑色)</Chinesesimp>
+          <Chinese>CAR-95GL5.8mm(黑色)</Chinese>
+          <Chinesesimp>CAR-95GL5.8毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_gl_base_f_eglm0">
           <Original>GL 15A</Original>
@@ -6388,83 +6388,83 @@
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctars_base_f1">
           <Original>Light Machine Gun&lt;br /&gt;Caliber: 5.8x42 mm</Original>
-          <Chinese>輕機槍&lt;br/&gt;口徑:5。8x42mm</Chinese>
-          <Chinesesimp>轻机枪&lt;br/&gt;口径:5。8x42毫米</Chinesesimp>
+          <Chinese>輕機槍&lt;br/&gt;口徑:5.8x42mm</Chinese>
+          <Chinesesimp>轻机枪&lt;br/&gt;口径:5.8x42毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_blk_f0">
           <Original>CAR-95 5.8 mm (Black)</Original>
-          <Chinese>CAR-955。8mm(黑色)</Chinese>
-          <Chinesesimp>CAR-955。8毫米(黑色)</Chinesesimp>
+          <Chinese>CAR-955.8mm(黑色)</Chinese>
+          <Chinesesimp>CAR-955.8毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f0">
           <Original>CAR-95 5.8 mm</Original>
-          <Chinese>CAR-955。8mm</Chinese>
-          <Chinesesimp>CAR-955。8毫米</Chinesesimp>
+          <Chinese>CAR-955.8mm</Chinese>
+          <Chinesesimp>CAR-955.8毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_hex_f_secondary0">
           <Original>Type 115 .50 BW (Hex)</Original>
-          <Chinese>Type115。50BW(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>115式。50BW(数位蜂巢迷彩)</Chinesesimp>
+          <Chinese>Type115.50BW(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>115式.50BW(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_hex_f0">
           <Original>Type 115 6.5 mm (Hex)</Original>
-          <Chinese>Type1156。5mm(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>115式6。5毫米(数位蜂巢迷彩)</Chinesesimp>
+          <Chinese>Type1156.5mm(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>115式6.5毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_ghex_f_secondary0">
           <Original>Type 115 .50 BW (Green Hex)</Original>
-          <Chinese>Type115。50BW(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>115式。50BW(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>Type115.50BW(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>115式.50BW(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_ghex_f0">
           <Original>Type 115 6.5 mm (Green Hex)</Original>
-          <Chinese>Type1156。5mm(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>115式6。5毫米(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>Type1156.5mm(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>115式6.5毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_blk_f_secondary0">
           <Original>Type 115 .50 BW (Black)</Original>
-          <Chinese>Type115。50BW(黑色)</Chinese>
-          <Chinesesimp>115式。50BW(黑色)</Chinesesimp>
+          <Chinese>Type115.50BW(黑色)</Chinese>
+          <Chinesesimp>115式.50BW(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.8x42 mm</Original>
-          <Chinese>突擊步槍&lt;br/&gt;口徑:5。8x42mm</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:5。8x42毫米</Chinesesimp>
+          <Chinese>突擊步槍&lt;br/&gt;口徑:5.8x42mm</Chinese>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径:5.8x42毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f_library0">
           <Original>A bullpup style assault rifle used by CSAT Pacific forces. It works as a common platform for different weapon types: a standard rifle, GL variant with attached grenade launcher and a light support version with a longer barrel and drum magazine. The CAR-95 uses polymer materials in its construction and fires 5.8x42 mm small-caliber, high-velocity bullets.</Original>
-          <Chinese>這是把被廣協同盟太平洋部隊所使用的無托式突擊步槍。它有者不同的版本:標準版，加掛榴彈發射器的版本，使用圓形彈鼓的輕機槍版本。CAR-95的外殼使用了聚合物當作材料，並使用5。8x42mm的小口徑，高射速子彈。</Chinese>
-          <Chinesesimp>这是一种被广协同盟太平洋部队所使用的无托式突击步枪。它有多种不同的版本:标准版，加挂榴弹发射器的版本，使用圆形弹鼓的轻机枪版本。CAR-95的外壳使用了聚合物当作材料，并使用5。8x42mm的小口径，高射速子弹。</Chinesesimp>
+          <Chinese>這是把被廣協同盟太平洋部隊所使用的無托式突擊步槍。它有者不同的版本:標準版，加掛榴彈發射器的版本，使用圓形彈鼓的輕機槍版本。CAR-95的外殼使用了聚合物當作材料，並使用5.8x42mm的小口徑，高射速子彈。</Chinese>
+          <Chinesesimp>这是一种被广协同盟太平洋部队所使用的无托式突击步枪。它有多种不同的版本:标准版，加挂榴弹发射器的版本，使用圆形弹鼓的轻机枪版本。CAR-95的外壳使用了聚合物当作材料，并使用5.8x42mm的小口径，高射速子弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_blk_f0">
           <Original>Type 115 6.5 mm (Black)</Original>
-          <Chinese>Type1156。5mm(黑色)</Chinese>
-          <Chinesesimp>115式6。5毫米(黑色)</Chinesesimp>
+          <Chinese>Type1156.5mm(黑色)</Chinese>
+          <Chinesesimp>115式6.5毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_base_f0">
           <Original>Type 115 6.5 mm</Original>
-          <Chinese>Type1156。5mm</Chinese>
-          <Chinesesimp>115式6。5毫米</Chinesesimp>
+          <Chinese>Type1156.5mm</Chinese>
+          <Chinesesimp>115式6.5毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_aks_f0">
           <Original>AKS-74U 5.45 mm</Original>
-          <Chinese>AKS-74U5。45mm</Chinese>
-          <Chinesesimp>AKS-74U5。45毫米</Chinesesimp>
+          <Chinese>AKS-74U5.45mm</Chinese>
+          <Chinesesimp>AKS-74U5.45毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_aks_base_f_library0">
           <Original>The AKS-74U was created as an answer for the Soviet need for a fully automatic carbine. The gun is basically a shortened AK-74, which enabled significant production savings. Like the AK-74, this variant is also chambered in 5.45x39 mm, but its compact dimensions make it intended for special forces, vehicle crews, police patrols, etc. However, the lower muzzle velocity makes the AKS-74U effective up to only around 400 meters.</Original>
-          <Chinese>AKS-74U是蘇聯為了製造一把全自動的卡賓槍所得出的最後答案。該槍基本上就是一把縮短的AK-74，但也因為這樣而顯著的增加了生產效率。就像AK-74，此版本也使用了5。45x39mm子彈，由於其精巧的尺寸，此槍常被特種部隊，載具機組員，警察等單位所使用。然而由於較低的槍口初速，其有效射程僅落在400公尺左右而已。</Chinese>
-          <Chinesesimp>AKS-74U为应对苏联对全自动卡宾枪的需求的成果。该枪基本上就是一把缩短的AK-74，也因为这样而显著的增加了生产效率。就像AK-74一样，此种衍生型也使用了5。45x39毫米子弹，由于其精巧的尺寸，此枪常被特种部队，载具乘员，警察等单位所使用。然而由于较低的枪口初速，其有效射程仅有400米左右。</Chinesesimp>
+          <Chinese>AKS-74U是蘇聯為了製造一把全自動的卡賓槍所得出的最後答案。該槍基本上就是一把縮短的AK-74，但也因為這樣而顯著的增加了生產效率。就像AK-74，此版本也使用了5.45x39mm子彈，由於其精巧的尺寸，此槍常被特種部隊，載具機組員，警察等單位所使用。然而由於較低的槍口初速，其有效射程僅落在400公尺左右而已。</Chinese>
+          <Chinesesimp>AKS-74U为应对苏联对全自动卡宾枪的需求的成果。该枪基本上就是一把缩短的AK-74，也因为这样而显著的增加了生产效率。就像AK-74一样，此种衍生型也使用了5.45x39毫米子弹，由于其精巧的尺寸，此枪常被特种部队，载具乘员，警察等单位所使用。然而由于较低的枪口初速，其有效射程仅有400米左右。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_aks_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.45x39 mm</Original>
-          <Chinese>突擊步槍&lt;br/&gt;口徑:5。45x39mm</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:5。45x39毫米</Chinesesimp>
+          <Chinese>突擊步槍&lt;br/&gt;口徑:5.45x39mm</Chinese>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径:5.45x39毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_akm_f0">
           <Original>AKM 7.62 mm</Original>
-          <Chinese>AKM7。62mm</Chinese>
-          <Chinesesimp>AKM7。62毫米</Chinesesimp>
+          <Chinese>AKM7.62mm</Chinese>
+          <Chinesesimp>AKM7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_akm_base_f_library0">
           <Original>The AKM gas operated assault rifle with a rotating bolt is a modernized version of the old AK-47. Despite the later introduction of the AK-74, it has remained in use in many countries all over the world with more than 10 million units built. Its improvements over the AK-47 made mass manufacturing simpler, but also decreased the weight and increased accuracy of the weapon. At the same time, the gun's exceptional wear and corrosion resistance has been preserved.</Original>
@@ -6478,48 +6478,48 @@
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_gl_base_f0">
           <Original>AK-12 GL 7.62 mm</Original>
-          <Chinese>AK-12GL7。62mm</Chinese>
-          <Chinesesimp>AK-12GL7。62毫米</Chinesesimp>
+          <Chinese>AK-12GL7.62mm</Chinese>
+          <Chinesesimp>AK-12GL7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm / .50 BW</Original>
-          <Chinese>突擊步槍&lt;br/&gt;口徑:6。5x39mm/。50BW</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:6。5x39毫米/。50BW</Chinesesimp>
+          <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39mm/.50BW</Chinese>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径:6.5x39毫米/.50BW</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_base_f_library0">
           <Original>The Type 115 is a modern multi weapon. It consists of two separate weapons combined into a single unit: a lower semi auto rifle chambered to fire 0.50 caseless rounds and upper automatic/ semi auto rifle chambered in caseless 6.5mm. The gun can be modified by attachments to fulfill carious roles in battle. Its versatility turns every soldier into an universal threat against both infantry and armored targets.</Original>
-          <Chinese>Type115是把現代的多功能武器。它把兩種不同的武器組裝成一把武器:下掛的半自動步槍使用了。50子彈，而上層的全自動/半自動步槍則使用了6。5mm子彈。此把武器可再搭配不同的槍身配件來配合不同的任務。藉由這把武器，戰場上的士兵便能同時打擊步兵與裝甲目標。</Chinese>
-          <Chinesesimp>115式是把现代的多功能武器。它把两种不同的武器组装成一把武器:下挂的半自动步枪使用。50无壳弹，而上层的全自动/半自动步枪则使用6。5毫米弹。此把武器可再搭配不同的枪身配件来执行不同的任务。藉由这把武器，战场上的士兵便能同时打击步兵与装甲目标。</Chinesesimp>
+          <Chinese>Type115是把現代的多功能武器。它把兩種不同的武器組裝成一把武器:下掛的半自動步槍使用了.50子彈，而上層的全自動/半自動步槍則使用了6.5mm子彈。此把武器可再搭配不同的槍身配件來配合不同的任務。藉由這把武器，戰場上的士兵便能同時打擊步兵與裝甲目標。</Chinese>
+          <Chinesesimp>115式是把现代的多功能武器。它把两种不同的武器组装成一把武器:下挂的半自动步枪使用.50无壳弹，而上层的全自动/半自动步枪则使用6.5毫米弹。此把武器可再搭配不同的枪身配件来执行不同的任务。藉由这把武器，战场上的士兵便能同时打击步兵与装甲目标。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_base_f_library0">
           <Original>The AK-12 is a modern assault rifle designed to replace the legendary AK-74 as general issue for the Russian Army. The weapon introduces many improvements over its predecessors: better recoil control, versions suitable for various ammunition, compatibility with several underslung grenade launchers, accessory rails, or better ergonomics. This particular version is chambered in 7.62x39 mm, so it trades a bit of accuracy for a bigger punch and better penetration.</Original>
-          <Chinese>AK-12是由俄羅斯軍方所研製的一把現代突擊步槍，用意是為了取代傳奇的AK-74成為主力裝備。這把武器改進了許多前輩的缺點:改進的後座力反饋，適用不同類型的子彈，兼容不同的下掛式榴彈發射器，戰術導軌及更好的人體工學造型。在此版本中使用了7。62x39mm的子彈，這種子彈雖然犧牲了些準確度，但卻大大增加了穿甲力與殺傷力。</Chinese>
-          <Chinesesimp>AK-12是由俄罗斯军方所研制的一把现代突击步枪，用意是为了取代传奇的AK-74成为主力装备。这把武器改进了许多前辈的缺点:改进的后座力反馈，适用不同类型的子弹，兼容不同的下挂式榴弹发射器，战术导轨及更好的人体工学造型。在此版本中使用了7。62x39毫米的子弹，这种子弹虽然牺牲了些准确度，但大大增加了穿甲力与杀伤力。</Chinesesimp>
+          <Chinese>AK-12是由俄羅斯軍方所研製的一把現代突擊步槍，用意是為了取代傳奇的AK-74成為主力裝備。這把武器改進了許多前輩的缺點:改進的後座力反饋，適用不同類型的子彈，兼容不同的下掛式榴彈發射器，戰術導軌及更好的人體工學造型。在此版本中使用了7.62x39mm的子彈，這種子彈雖然犧牲了些準確度，但卻大大增加了穿甲力與殺傷力。</Chinese>
+          <Chinesesimp>AK-12是由俄罗斯军方所研制的一把现代突击步枪，用意是为了取代传奇的AK-74成为主力装备。这把武器改进了许多前辈的缺点:改进的后座力反馈，适用不同类型的子弹，兼容不同的下挂式榴弹发射器，战术导轨及更好的人体工学造型。在此版本中使用了7.62x39毫米的子弹，这种子弹虽然牺牲了些准确度，但大大增加了穿甲力与杀伤力。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 7.62x39 mm</Original>
-          <Chinese>突擊步槍&lt;br/&gt;口徑:7。62x39mm</Chinese>
-          <Chinesesimp>突击步枪&lt;br/&gt;口径:7。62x39毫米</Chinesesimp>
+          <Chinese>突擊步槍&lt;br/&gt;口徑:7.62x39mm</Chinese>
+          <Chinesesimp>突击步枪&lt;br/&gt;口径:7.62x39毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_base_f0">
           <Original>AK-12 7.62 mm</Original>
-          <Chinese>AK-127。62mm</Chinese>
-          <Chinesesimp>AK-127。62毫米</Chinesesimp>
+          <Chinese>AK-127.62mm</Chinese>
+          <Chinesesimp>AK-127.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f2">
           <Original>CAR-95-1 5.8 mm</Original>
-          <Chinese>CAR-95-15。8mm</Chinese>
-          <Chinesesimp>CAR-95-15。8毫米</Chinesesimp>
+          <Chinese>CAR-95-15.8mm</Chinese>
+          <Chinesesimp>CAR-95-15.8毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_f0">
           <Original>SPAR-16 GL 5.56 mm</Original>
-          <Chinese>SPAR-16GL5。56mm</Chinese>
-          <Chinesesimp>SPAR-16GL5。56毫米</Chinesesimp>
+          <Chinese>SPAR-16GL5.56mm</Chinese>
+          <Chinesesimp>SPAR-16GL5.56毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_f0">
           <Original>SPAR-16S 5.56 mm</Original>
-          <Chinese>SPAR-16S5。56mm</Chinese>
-          <Chinesesimp>SPAR-16S5。56毫米</Chinesesimp>
+          <Chinese>SPAR-16S5.56mm</Chinese>
+          <Chinesesimp>SPAR-16S5.56毫米</Chinesesimp>
         </Key>
       </Container>
       <Container name="Accessories">
@@ -6595,73 +6595,73 @@
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_m_snd_f0">
           <Original>Sound Suppressor (5.56 mm, Sand)</Original>
-          <Chinese>消音器(5。56mm，沙色)</Chinese>
-          <Chinesesimp>消音器(5。56毫米，沙色)</Chinesesimp>
+          <Chinese>消音器(5.56mm，沙色)</Chinese>
+          <Chinesesimp>消音器(5.56毫米，沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_m_khk_f0">
           <Original>Sound Suppressor (5.56 mm, Khaki)</Original>
-          <Chinese>消音器(5。56mm，卡其色)</Chinese>
-          <Chinesesimp>消音器(5。56毫米，卡其色)</Chinesesimp>
+          <Chinese>消音器(5.56mm，卡其色)</Chinese>
+          <Chinesesimp>消音器(5.56毫米，卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h_snd_f0">
           <Original>Sound Suppressor (6.5 mm, Sand)</Original>
-          <Chinese>消音器(6。5mm，沙色)</Chinese>
-          <Chinesesimp>消音器(6。5毫米，沙色)</Chinesesimp>
+          <Chinese>消音器(6.5mm，沙色)</Chinese>
+          <Chinesesimp>消音器(6.5毫米，沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h_mg_khk_f0">
           <Original>Sound Suppressor LMG (6.5 mm, Khaki)</Original>
-          <Chinese>輕機槍消音器(6。5mm，卡其色)</Chinese>
-          <Chinesesimp>轻机枪消音器(6。5毫米，卡其色)</Chinesesimp>
+          <Chinese>輕機槍消音器(6.5mm，卡其色)</Chinese>
+          <Chinesesimp>轻机枪消音器(6.5毫米，卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h_mg_blk_f0">
           <Original>Sound Suppressor LMG (6.5 mm, Black)</Original>
-          <Chinese>輕機槍消音器(6。5mm，黑色)</Chinese>
-          <Chinesesimp>轻机枪消音器(6。5毫米，黑色)</Chinesesimp>
+          <Chinese>輕機槍消音器(6.5mm，黑色)</Chinese>
+          <Chinesesimp>轻机枪消音器(6.5毫米，黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h_khk_f0">
           <Original>Sound Suppressor (6.5 mm, Khaki)</Original>
-          <Chinese>消音器(6。5mm，卡其色)</Chinese>
-          <Chinesesimp>消音器(6。5毫米，卡其色)</Chinesesimp>
+          <Chinese>消音器(6.5mm，卡其色)</Chinese>
+          <Chinesesimp>消音器(6.5毫米，卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_b_snd_f0">
           <Original>Sound Suppressor (7.62 mm, Sand)</Original>
-          <Chinese>消音器(7。62mm，沙色)</Chinese>
-          <Chinesesimp>消音器(7。62毫米，沙色)</Chinesesimp>
+          <Chinese>消音器(7.62mm，沙色)</Chinese>
+          <Chinesesimp>消音器(7.62毫米，沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_b_khk_f0">
           <Original>Sound Suppressor (7.62 mm, Khaki)</Original>
-          <Chinese>消音器(7。62mm，卡其色)</Chinese>
-          <Chinesesimp>消音器(7。62毫米，卡其色)</Chinesesimp>
+          <Chinese>消音器(7.62mm，卡其色)</Chinese>
+          <Chinesesimp>消音器(7.62毫米，卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_65_ti_hex_f0">
           <Original>Stealth Sound Suppressor (6.5 mm, Hex)</Original>
-          <Chinese>潛行消音器(6。5mm，數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>潜行消音器(6。5毫米，蜂巢迷彩)</Chinesesimp>
+          <Chinese>潛行消音器(6.5mm，數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>潜行消音器(6.5毫米，蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_65_ti_ghex_f0">
           <Original>Stealth Sound Suppressor (6.5 mm, Green Hex)</Original>
-          <Chinese>潛行消音器(6。5mm，綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>潜行消音器(6。5毫米，绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>潛行消音器(6.5mm，綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>潜行消音器(6.5毫米，绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_65_ti_blk_f0">
           <Original>Stealth Sound Suppressor (6.5 mm, Black)</Original>
-          <Chinese>潛行消音器(6。5mm，黑色)</Chinese>
-          <Chinesesimp>潜行消音器(6。5毫米，黑色)</Chinesesimp>
+          <Chinese>潛行消音器(6.5mm，黑色)</Chinese>
+          <Chinesesimp>潜行消音器(6.5毫米，黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_58_wdm_f0">
           <Original>Stealth Sound Suppressor (5.8 mm, Green Hex)</Original>
-          <Chinese>潛行消音器(5。8mm，綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>潜行消音器(5。8毫米，绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>潛行消音器(5.8mm，綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>潜行消音器(5.8毫米，绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_58_hex_f0">
           <Original>Stealth Sound Suppressor (5.8 mm, Hex)</Original>
-          <Chinese>潛行消音器(5。8mm，數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>潜行消音器(5。8毫米，数位蜂巢迷彩)</Chinesesimp>
+          <Chinese>潛行消音器(5.8mm，數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>潜行消音器(5.8毫米，数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_58_blk_f0">
           <Original>Stealth Sound Suppressor (5.8 mm, Black)</Original>
-          <Chinese>潛行消音器(5。8mm，黑色)</Chinese>
-          <Chinesesimp>潜行消音器(5。8毫米，黑色)</Chinesesimp>
+          <Chinese>潛行消音器(5.8mm，黑色)</Chinese>
+          <Chinesesimp>潜行消音器(5.8毫米，黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_laserdesignator_02_ghex_f0">
           <Original>Laser Designator (Green Hex)</Original>
@@ -6697,33 +6697,33 @@
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_07_wdm_f0">
           <Original>CMR-76 6.5 mm (Green Hex)</Original>
-          <Chinese>CMR-766。5mm(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CMR-766。5毫米(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>CMR-766.5mm(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CMR-766.5毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_07_hex_f0">
           <Original>CMR-76 6.5 mm (Hex)</Original>
-          <Chinese>CMR-766。5mm(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CMR-766。5毫米(数位蜂巢迷彩)</Chinesesimp>
+          <Chinese>CMR-766.5mm(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CMR-766.5毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_07_blk_f0">
           <Original>CMR-76 6.5 mm (Black)</Original>
-          <Chinese>CMR-766。5mm(黑色)</Chinese>
-          <Chinesesimp>CMR-766。5毫米(黑色)</Chinesesimp>
+          <Chinese>CMR-766.5mm(黑色)</Chinese>
+          <Chinesesimp>CMR-766.5毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_07_base_f_library0">
           <Original>Designated marksman rifle of an Eastern origin. It is a gas operated, semiautomatic rifle of a bullpup construction. The housing is made from polymer. The rifle is chambered in 6.5 mm and therefore is most suited to ranges from 500 to 700 meters. The CMR-76 is missing both the sides and the bottom rails but is by default equipped with a bipod.</Original>
-          <Chinese>由東方國家研製的一把指定精準射手步槍。其架構使用氣體傳動機構與無托構造來組成一把半自動步槍。它的外殼使用聚合物來製作。這把步槍使用了6。5mm子彈，因為這樣，他的最佳射擊距離落在500至700公尺之間。CMR-76本身並無兩側與底部的戰術導軌，但它的配件已經預裝著腳架了。</Chinese>
-          <Chinesesimp>由东方国家研制的一把指定精确射手步枪。这是一种导气式半自动的无托步枪，外壳使用聚合物来制作。这把步枪使用6。5毫米弹，因此它的最佳射击距离在500至700米之间。CMR-76本身并无两侧与底部的战术导轨，但它的配件已经预装着脚架了。</Chinesesimp>
+          <Chinese>由東方國家研製的一把指定精準射手步槍。其架構使用氣體傳動機構與無托構造來組成一把半自動步槍。它的外殼使用聚合物來製作。這把步槍使用了6.5mm子彈，因為這樣，他的最佳射擊距離落在500至700公尺之間。CMR-76本身並無兩側與底部的戰術導軌，但它的配件已經預裝著腳架了。</Chinese>
+          <Chinesesimp>由东方国家研制的一把指定精确射手步枪。这是一种导气式半自动的无托步枪，外壳使用聚合物来制作。这把步枪使用6.5毫米弹，因此它的最佳射击距离在500至700米之间。CMR-76本身并无两侧与底部的战术导轨，但它的配件已经预装着脚架了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_07_base_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 6.5x39 mm</Original>
-          <Chinese>精準射手步槍&lt;br/&gt;口徑:6。5x39mm</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:6。5x39毫米</Chinesesimp>
+          <Chinese>精準射手步槍&lt;br/&gt;口徑:6.5x39mm</Chinese>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:6.5x39毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_07_base_f0">
           <Original>CMR-76 6.5 mm</Original>
-          <Chinese>CMR-766。5mm</Chinese>
-          <Chinesesimp>CMR-766。5毫米</Chinesesimp>
+          <Chinese>CMR-766.5mm</Chinese>
+          <Chinesesimp>CMR-766.5毫米</Chinesesimp>
         </Key>
       </Container>
       <Container name="Launchers">
@@ -6766,18 +6766,18 @@
       <Container name="Machineguns">
         <Key ID="str_a3_cfgweapons_lmg_03_f0">
           <Original>LIM-85 5.56 mm</Original>
-          <Chinese>LIM-855。56mm</Chinese>
-          <Chinesesimp>LIM-855。56毫米</Chinesesimp>
+          <Chinese>LIM-855.56mm</Chinese>
+          <Chinesesimp>LIM-855.56毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_lmg_03_base_f_library0">
           <Original>The light infantry machine gun 85 is an iteration of a special purpose weapon. Combining a high fire-rate and relatively easy maintenance with high reliability, it was adopted by several armies around the world. It features standard accessory rails and 200-round box 5.56x45 mm magazines. Its weight is 7.1 kilograms which is less than its predecessors.</Original>
-          <Chinese>這把輕步兵機槍85是新一代的特殊用途武器。其結合了高射速，易於維護且非常可靠等特性，使他被世上不同國家的軍隊所採用。它配備著標準的戰術導軌並使用了5。56x45mm200發裝彈盒。它的重量比它的前輩還輕，僅有7。1公斤。</Chinese>
-          <Chinesesimp>轻步兵机枪85(LIM-85)是新一代的特殊用途武器。其结合了高射速，易于维护且非常可靠等特性，使它被世上不同国家的军队所采用。它配备着标准的战术导轨并使用了5。56x4毫米200发弹链盒。重量比它的前身还轻，仅有7。1公斤。</Chinesesimp>
+          <Chinese>這把輕步兵機槍85是新一代的特殊用途武器。其結合了高射速，易於維護且非常可靠等特性，使他被世上不同國家的軍隊所採用。它配備著標準的戰術導軌並使用了5.56x45mm200發裝彈盒。它的重量比它的前輩還輕，僅有7。1公斤。</Chinese>
+          <Chinesesimp>轻步兵机枪85(LIM-85)是新一代的特殊用途武器。其结合了高射速，易于维护且非常可靠等特性，使它被世上不同国家的军队所采用。它配备着标准的战术导轨并使用了5.56x4毫米200发弹链盒。重量比它的前身还轻，仅有7。1公斤。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_lmg_03_base_f1">
           <Original>Light Machine Gun&lt;br /&gt;Caliber: 5.56x45 mm</Original>
-          <Chinese>輕機槍&lt;br/&gt;口徑:5。56x45mm</Chinese>
-          <Chinesesimp>轻机枪&lt;br/&gt;口径:5。56x45毫米</Chinesesimp>
+          <Chinese>輕機槍&lt;br/&gt;口徑:5.56x45mm</Chinese>
+          <Chinesesimp>轻机枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
         </Key>
       </Container>
       <Container name="SMGs">
@@ -6810,28 +6810,28 @@
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt_tracer_yellow0">
           <Original>6.5 mm 500Rnd Belt Case Tracer (Yellow)</Original>
-          <Chinese>6。5mm500發曳光彈(黃色)彈鏈盒</Chinese>
-          <Chinesesimp>6。5毫米500发曳光弹(黄色)弹链盒</Chinesesimp>
+          <Chinese>6.5mm500發曳光彈(黃色)彈鏈盒</Chinese>
+          <Chinesesimp>6.5毫米500发曳光弹(黄色)弹链盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt_tracer_red0">
           <Original>6.5 mm 500Rnd Belt Case Tracer (Red)</Original>
-          <Chinese>6。5mm500發曳光彈(紅色)彈鏈盒</Chinese>
-          <Chinesesimp>6。5毫米500发曳光弹(红色)弹链盒</Chinesesimp>
+          <Chinese>6.5mm500發曳光彈(紅色)彈鏈盒</Chinese>
+          <Chinesesimp>6.5毫米500发曳光弹(红色)弹链盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt_tracer_green0">
           <Original>6.5 mm 500Rnd Belt Case Tracer (Green)</Original>
-          <Chinese>6。5mm500發曳光彈(綠色)彈鏈盒</Chinese>
-          <Chinesesimp>6。5毫米500发曳光弹(绿色)弹链盒</Chinesesimp>
+          <Chinese>6.5mm500發曳光彈(綠色)彈鏈盒</Chinese>
+          <Chinesesimp>6.5毫米500发曳光弹(绿色)弹链盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt1">
           <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
-          <Chinese>口徑:6。5x39mm&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-          <Chinesesimp>口径:6。5x39毫米&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
+          <Chinese>口徑:6.5x39mm&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
+          <Chinesesimp>口径:6.5x39毫米&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt0">
           <Original>6.5 mm 500Rnd Belt Case</Original>
-          <Chinese>6。5mm500發彈鏈盒</Chinese>
-          <Chinesesimp>6。5毫米500发弹链盒</Chinesesimp>
+          <Chinese>6.5mm500發彈鏈盒</Chinese>
+          <Chinesesimp>6.5毫米500发弹链盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_4rnd_lg_jian0">
           <Original>Jian</Original>
@@ -6840,118 +6840,118 @@
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_tracer_green_f0">
           <Original>7.62 mm 30Rnd Tracer (Green) Mag</Original>
-          <Chinese>7。62mm30發曳光彈(綠色)彈匣</Chinese>
-          <Chinesesimp>7。62毫米30发曳光弹(绿色)弹匣</Chinesesimp>
+          <Chinese>7.62mm30發曳光彈(綠色)彈匣</Chinese>
+          <Chinesesimp>7.62毫米30发曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_tracer_f0">
           <Original>7.62 mm 30Rnd Tracer (Yellow) Mag</Original>
-          <Chinese>7。62mm30發曳光彈(黃色)彈匣</Chinese>
-          <Chinesesimp>7。62毫米30发曳光弹(黄色)弹匣</Chinesesimp>
+          <Chinese>7.62mm30發曳光彈(黃色)彈匣</Chinese>
+          <Chinesesimp>7.62毫米30发曳光弹(黄色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_green_f0">
           <Original>7.62 mm 30Rnd Reload Tracer (Green) Mag</Original>
-          <Chinese>7。62mm30發重新裝填曳光彈(綠色)彈匣</Chinese>
-          <Chinesesimp>7。62毫米30发重新装填曳光弹(绿色)弹匣</Chinesesimp>
+          <Chinese>7.62mm30發重新裝填曳光彈(綠色)彈匣</Chinese>
+          <Chinesesimp>7.62毫米30发重新装填曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_f1">
           <Original>Caliber: 7.62x39 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: AK-12, AK-12 GL, AKM</Original>
-          <Chinese>口徑:7。62x39mm&lt;br/&gt;發數:30&lt;br/&gt;使用於:AK-12，AK-12GL，AKM</Chinese>
-          <Chinesesimp>口径:7。62x39毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:AK-12，AK-12GL，AKM</Chinesesimp>
+          <Chinese>口徑:7.62x39mm&lt;br/&gt;發數:30&lt;br/&gt;使用於:AK-12，AK-12GL，AKM</Chinese>
+          <Chinesesimp>口径:7.62x39毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:AK-12，AK-12GL，AKM</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_f0">
           <Original>7.62 mm 30Rnd Reload Tracer (Yellow) Mag</Original>
-          <Chinese>7。62mm30發重新裝填曳光彈(黃色)彈匣</Chinese>
-          <Chinesesimp>7。62毫米30发重新装填曳光弹(黄色)弹匣</Chinesesimp>
+          <Chinese>7.62mm30發重新裝填曳光彈(黃色)彈匣</Chinese>
+          <Chinesesimp>7.62毫米30发重新装填曳光弹(黄色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_580x42_mag_tracer_f0">
           <Original>5.8 mm 30Rnd Tracer (Green) Mag</Original>
-          <Chinese>5。8mm30發曳光彈(綠色)彈匣</Chinese>
-          <Chinesesimp>5。8毫米30发曳光弹(绿色)弹匣</Chinesesimp>
+          <Chinese>5.8mm30發曳光彈(綠色)彈匣</Chinese>
+          <Chinesesimp>5.8毫米30发曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_580x42_mag_f1">
           <Original>Caliber: 5.8x42 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: CAR-95, CAR-95 GL</Original>
-          <Chinese>口徑:5。8x42mm&lt;br/&gt;發數:30&lt;br/&gt;使用於:CAR-95，CAR-95GL</Chinese>
-          <Chinesesimp>口径:5。8x42毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:CAR-95，CAR-95GL</Chinesesimp>
+          <Chinese>口徑:5.8x42mm&lt;br/&gt;發數:30&lt;br/&gt;使用於:CAR-95，CAR-95GL</Chinese>
+          <Chinesesimp>口径:5.8x42毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:CAR-95，CAR-95GL</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_580x42_mag_f0">
           <Original>5.8 mm 30Rnd Mag</Original>
-          <Chinese>5。8mm30發彈匣</Chinese>
-          <Chinesesimp>5。8毫米30发弹匣</Chinesesimp>
+          <Chinese>5.8mm30發彈匣</Chinese>
+          <Chinesesimp>5.8毫米30发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_tracer_green_f0">
           <Original>5.45 mm 30Rnd Tracer (Green) Mag</Original>
-          <Chinese>5。45mm30發曳光彈(綠色)彈匣</Chinese>
-          <Chinesesimp>5。45毫米30发曳光弹(绿色)弹匣</Chinesesimp>
+          <Chinese>5.45mm30發曳光彈(綠色)彈匣</Chinese>
+          <Chinesesimp>5.45毫米30发曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_tracer_f0">
           <Original>5.45 mm 30Rnd Tracer (Yellow) Mag</Original>
-          <Chinese>5。45mm30發曳光彈(黃色)彈匣</Chinese>
-          <Chinesesimp>5。45毫米30发曳光弹(黄色)弹匣</Chinesesimp>
+          <Chinese>5.45mm30發曳光彈(黃色)彈匣</Chinese>
+          <Chinesesimp>5.45毫米30发曳光弹(黄色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_green_f0">
           <Original>5.45 mm 30Rnd Reload Tracer (Green) Mag</Original>
-          <Chinese>5。45mm30發重新裝填曳光彈(綠色)彈匣</Chinese>
-          <Chinesesimp>5。45毫米30发重新装填曳光弹(绿色)弹匣</Chinesesimp>
+          <Chinese>5.45mm30發重新裝填曳光彈(綠色)彈匣</Chinese>
+          <Chinesesimp>5.45毫米30发重新装填曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_f1">
           <Original>Caliber: 5.45x39 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: AKS-74U</Original>
-          <Chinese>口徑:5。45x39mm&lt;br/&gt;發數:30&lt;br/&gt;使用於:AKS-74U</Chinese>
-          <Chinesesimp>口径:5。45x39毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:AKS-74U</Chinesesimp>
+          <Chinese>口徑:5.45x39mm&lt;br/&gt;發數:30&lt;br/&gt;使用於:AKS-74U</Chinese>
+          <Chinesesimp>口径:5.45x39毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:AKS-74U</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_f0">
           <Original>5.45 mm 30Rnd Reload Tracer (Yellow) Mag</Original>
-          <Chinese>5。45mm30發重新裝填曳光彈(黃色)彈匣</Chinese>
-          <Chinesesimp>5。45毫米30发重新装填曳光弹(黄色)弹匣</Chinesesimp>
+          <Chinese>5.45mm30發重新裝填曳光彈(黃色)彈匣</Chinese>
+          <Chinesesimp>5.45毫米30发重新装填曳光弹(黄色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_20rnd_650x39_cased_mag_f1">
           <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: CMR-76</Original>
-          <Chinese>口徑:6。5x39mm&lt;br/&gt;發數:20&lt;br/&gt;使用於:CMR-76</Chinese>
-          <Chinesesimp>口径:6。5x39毫米lt;br/&gt;发数:20&lt;br/&gt;使用于:CMR-76</Chinesesimp>
+          <Chinese>口徑:6.5x39mm&lt;br/&gt;發數:20&lt;br/&gt;使用於:CMR-76</Chinese>
+          <Chinesesimp>口径:6.5x39毫米lt;br/&gt;发数:20&lt;br/&gt;使用于:CMR-76</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_20rnd_650x39_cased_mag_f0">
           <Original>6.5 mm 20Rnd Mag</Original>
-          <Chinese>6。5mm20發彈匣</Chinese>
-          <Chinesesimp>6。5毫米20发弹匣</Chinesesimp>
+          <Chinese>6.5mm20發彈匣</Chinese>
+          <Chinesesimp>6.5毫米20发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_tracer_red_f0">
           <Original>5.56 mm 200Rnd Tracer (Red) Box</Original>
-          <Chinese>5。56mm200發曳光彈(紅色)彈盒</Chinese>
-          <Chinesesimp>5。56毫米200发曳光弹(红色)弹盒</Chinesesimp>
+          <Chinese>5.56mm200發曳光彈(紅色)彈盒</Chinese>
+          <Chinesesimp>5.56毫米200发曳光弹(红色)弹盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_tracer_f0">
           <Original>5.56 mm 200Rnd Tracer (Yellow) Box</Original>
-          <Chinese>5。56mm200發曳光彈(黃色)彈盒</Chinese>
-          <Chinesesimp>5。56毫米200发曳光弹(黄色)弹盒</Chinesesimp>
+          <Chinese>5.56mm200發曳光彈(黃色)彈盒</Chinese>
+          <Chinesesimp>5.56毫米200发曳光弹(黄色)弹盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_red_f0">
           <Original>5.56 mm 200Rnd Reload Tracer (Red) Box</Original>
-          <Chinese>5。56mm200發重新裝填曳光彈(紅色)彈盒</Chinese>
-          <Chinesesimp>5。56毫米200发重新装填曳光弹(红色)弹盒</Chinesesimp>
+          <Chinese>5.56mm200發重新裝填曳光彈(紅色)彈盒</Chinese>
+          <Chinesesimp>5.56毫米200发重新装填曳光弹(红色)弹盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_f1">
           <Original>Caliber: 5.56x45 mm&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: LIM-85</Original>
-          <Chinese>口徑:5。56x45mm&lt;br/&gt;發數:200&lt;br/&gt;使用於:LIM-85</Chinese>
-          <Chinesesimp>口径:5。56x45毫米&lt;br/&gt;发数:200&lt;br/&gt;使用于:LIM-85</Chinesesimp>
+          <Chinese>口徑:5.56x45mm&lt;br/&gt;發數:200&lt;br/&gt;使用於:LIM-85</Chinese>
+          <Chinesesimp>口径:5.56x45毫米&lt;br/&gt;发数:200&lt;br/&gt;使用于:LIM-85</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_f0">
           <Original>5.56 mm 200Rnd Reload Tracer (Yellow) Box</Original>
-          <Chinese>5。56mm200發重新裝填曳光彈(黃色)彈盒</Chinese>
-          <Chinesesimp>5。56毫米200发重新装填曳光弹(黄色)弹盒</Chinesesimp>
+          <Chinese>5.56mm200發重新裝填曳光彈(黃色)彈盒</Chinese>
+          <Chinesesimp>5.56毫米200发重新装填曳光弹(黄色)弹盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_mag_tracer_f0">
           <Original>5.56 mm 150Rnd Tracer (Red) Mag</Original>
-          <Chinese>5。56mm150發曳光彈(紅色)彈匣</Chinese>
-          <Chinesesimp>5。56毫米150发曳光弹(红色)弹匣</Chinesesimp>
+          <Chinese>5.56mm150發曳光彈(紅色)彈匣</Chinese>
+          <Chinesesimp>5.56毫米150发曳光弹(红色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_mag_f1">
           <Original>Caliber: 5.56x45 mm&lt;br /&gt;Rounds: 150&lt;br /&gt;Used in: SPAR-16S</Original>
-          <Chinese>口徑:5。56x45mm&lt;br/&gt;發數:150&lt;br/&gt;使用於:SPAR-16S</Chinese>
-          <Chinesesimp>口径:5。56x45毫米&lt;br/&gt;发数:150&lt;br/&gt;使用于:SPAR-16S</Chinesesimp>
+          <Chinese>口徑:5.56x45mm&lt;br/&gt;發數:150&lt;br/&gt;使用於:SPAR-16S</Chinese>
+          <Chinesesimp>口径:5.56x45毫米&lt;br/&gt;发数:150&lt;br/&gt;使用于:SPAR-16S</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_mag_f0">
           <Original>5.56 mm 150Rnd Mag</Original>
-          <Chinese>5。56mm150發彈匣</Chinese>
-          <Chinesesimp>5。56毫米150发弹匣</Chinesesimp>
+          <Chinese>5.56mm150發彈匣</Chinese>
+          <Chinesesimp>5.56毫米150发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_9x21_mag1">
           <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: PM</Original>
@@ -6965,28 +6965,28 @@
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_50bw_mag_f1">
           <Original>Caliber: .50 BW - Caseless&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Type 115</Original>
-          <Chinese>口徑:。50BW-無殼彈&lt;br/&gt;發數:10&lt;br/&gt;使用於:Type115</Chinese>
-          <Chinesesimp>口径:。50BW-无壳弹&lt;br/&gt;发数:10&lt;br/&gt;使用于:Type115</Chinesesimp>
+          <Chinese>口徑:.50BW-無殼彈&lt;br/&gt;發數:10&lt;br/&gt;使用於:Type115</Chinese>
+          <Chinesesimp>口径:.50BW-无壳弹&lt;br/&gt;发数:10&lt;br/&gt;使用于:Type115</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_50bw_mag_f0">
           <Original>.50 BW 10Rnd Caseless Mag</Original>
-          <Chinese>。50BW10發無殼彈彈匣</Chinese>
-          <Chinesesimp>。50BW10发无壳弹弹匣</Chinesesimp>
+          <Chinese>.50BW10發無殼彈彈匣</Chinese>
+          <Chinesesimp>.50BW10发无壳弹弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_100rnd_580x42_mag_tracer_f0">
           <Original>5.8 mm 100Rnd Tracer (Green) Mag</Original>
-          <Chinese>5。8mm100發曳光彈(綠色)彈匣</Chinese>
-          <Chinesesimp>5。8毫米100发曳光弹(绿色)弹匣</Chinesesimp>
+          <Chinese>5.8mm100發曳光彈(綠色)彈匣</Chinese>
+          <Chinesesimp>5.8毫米100发曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_100rnd_580x42_mag_f1">
           <Original>Caliber: 5.8x42 mm&lt;br /&gt;Rounds: 100&lt;br /&gt;Used in: CAR-95-1</Original>
-          <Chinese>口徑:5。8x42mm&lt;br/&gt;發數:100&lt;br/&gt;使用於:CAR-95-1</Chinese>
-          <Chinesesimp>口径:5。8x42毫米&lt;br/&gt;发数:100&lt;br/&gt;使用于:CAR-95-1</Chinesesimp>
+          <Chinese>口徑:5.8x42mm&lt;br/&gt;發數:100&lt;br/&gt;使用於:CAR-95-1</Chinese>
+          <Chinesesimp>口径:5.8x42毫米&lt;br/&gt;发数:100&lt;br/&gt;使用于:CAR-95-1</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_100rnd_580x42_mag_f0">
           <Original>5.8 mm 100Rnd Mag</Original>
-          <Chinese>5。8mm100發彈匣</Chinese>
-          <Chinesesimp>5。8毫米100发弹匣</Chinesesimp>
+          <Chinese>5.8mm100發彈匣</Chinese>
+          <Chinesesimp>5.8毫米100发弹匣</Chinesesimp>
         </Key>
       </Container>
       <Container name="Pylons">
@@ -7697,8 +7697,8 @@
       </Key>
       <Key ID="STR_A3_CFGWORLDS_TANOA_LOADINGTEXT7">
         <Original>Once upon a time, there was a living, fire-breathing volcano...</Original>
-        <Chinese>從前從前，這個島上有一座生氣蓬勃，會噴火的火山。。。</Chinese>
-        <Chinesesimp>很久以前，这个岛上有一座活跃的，会喷火的火山。。。</Chinesesimp>
+        <Chinese>從前從前，這個島上有一座生氣蓬勃，會噴火的火山...</Chinese>
+        <Chinesesimp>很久以前，这个岛上有一座活跃的，会喷火的火山...</Chinesesimp>
       </Key>
     </Container>
     <Container name="Rocks_F">
