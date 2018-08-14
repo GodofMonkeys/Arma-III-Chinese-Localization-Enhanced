@@ -16,7 +16,7 @@
         <Key ID="str_a3_cfghints_tactics_respawncamps_description">
           <Original>Camps are respawn points which players can pack into a backpack, and later unpack on a different location. Use %3Assemble%4 and %3Disassemble%4 in the action menu to pack and unpack them.%1%2A tent will give a respawn point to the player who unpacked it and all friendlies nearby.%1%2A sleeping bag will create a point available only to the player who unpacked it.</Original>
           <Chinese>重生營地是一種重生點，它可以讓玩家把它打包成背包，在移動到所需要的位置上進行組裝的動作，藉此來新增重生點。使用動作選單裡的%3組裝%4和%3拆解%4來使用它。%1%2帳篷將會為幫其打開之人與其陣營產生一個重生點。%1%2睡袋則是為幫其打開之人設立一個重生點。</Chinese>
-          <Chinesesimp>重生营地是一种重生点，玩家可以把它打包成背包，移动到所需要的位置上进行组装，藉此来新增重生点。使用动作选单里的%3组装%4和%3拆解%4来使用它。%1%2帐篷将会为帮其打开之人与其阵营产生一个重生点。%1%2睡袋则是为帮其打开之人设立一个重生点。</Chinesesimp>
+          <Chinesesimp>重生营地是一种重生点，玩家可以把它打包成背包，移动到所需要的位置上进行组装，藉此来新增重生点。使用动作菜单里的%3组装%4和%3拆解%4来使用它。%1%2帐篷将会为帮其打开之人与其阵营产生一个重生点。%1%2睡袋则是为帮其打开之人设立一个重生点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_wpplace_tip">
           <Original>****TO TRANSLATE****</Original>
@@ -106,7 +106,7 @@
         <Key ID="str_a3_cfghints_curator_openinterface_description">
           <Original>Press %11 to toggle the Zeus interface.&lt;br /&gt;&lt;br /&gt;It can be available in these two forms:%1%2%3Free%4 - Zeus is a soldier on the battlefield who can at any time open the interface to curate the scenario, but risks being killed.%1%2%3Forced%4 - the interface is opened automatically and cannot be closed by pressing the key. Zeus is not represented in the world and is safe from any danger.</Original>
           <Chinese>按下%11來進入到宙斯編輯介面。&lt;br/&gt;&lt;br/&gt;他主要有兩種形式:%1%2%3自由模式%4-宙斯在戰場中擔當其中一名士兵，並能隨時切換到編輯介面，但同時他也會承擔被殺死的風險。%1%2%3專注模式%4-介面會自動開啟並不能關閉。宙斯本體並不會出現在遊戲中，這可讓他免於受傷的危險。</Chinese>
-          <Chinesesimp>按下%11来进入到宙斯编辑界面。&lt;br/&gt;&lt;br/&gt;他主要有两种形式:%1%2%3自由模式%4-宙斯在战场中担当其中一名士兵，并能随时切换到编辑界面，但同时他也会承担被杀死的风险。%1%2%3专注模式%4-界面会自动开启并不能关闭。宙斯本体并不会出现在游戏中，这可让他免于受伤的危险。</Chinesesimp>
+          <Chinesesimp>按下%11来进入到宙斯编辑界面。&lt;br/&gt;&lt;br/&gt;它主要有两种形式:%1%2%3自由模式%4-宙斯在战场中担当其中一名士兵，并能随时切换到编辑界面，但同时它也会承担被杀死的风险。%1%2%3专注模式%4-界面会自动开启并不能关闭。宙斯本体并不会出现在游戏中，这可让它免于受伤的危险。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_map_tip">
           <Original>****TO TRANSLATE****</Original>
@@ -1075,22 +1075,22 @@
       <Container name="BIS_fnc_curatorChallengeGetInVehicle">
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_wheeledapc">
           <Original>... get in a wheeled APC</Original>
-          <Chinese>...進入一台輪式裝甲運兵車</Chinese>
+          <Chinese>...進入一臺輪式裝甲運兵車</Chinese>
           <Chinesesimp>...进入一台轮式装甲运兵车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_trackedapc">
           <Original>... get in a tracked APC</Original>
-          <Chinese>...進入一台履帶裝甲運兵車</Chinese>
+          <Chinese>...進入一臺履帶裝甲運兵車</Chinese>
           <Chinesesimp>...进入一台履带装甲运兵车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_tank">
           <Original>... get in a tank</Original>
-          <Chinese>...進入一台坦克</Chinese>
+          <Chinese>...進入一臺坦克</Chinese>
           <Chinesesimp>...进入一台坦克</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_submarine">
           <Original>... get in a submarine</Original>
-          <Chinese>...進入一台潛水艇</Chinese>
+          <Chinese>...進入一臺潛水艇</Chinese>
           <Chinesesimp>...进入一台潜水艇</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_staticweapon">
@@ -1100,27 +1100,27 @@
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_ship">
           <Original>... get in a ship</Original>
-          <Chinese>...進入一台船</Chinese>
+          <Chinese>...進入一臺船</Chinese>
           <Chinesesimp>...进入一台船</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_plane">
           <Original>... get in a plane</Original>
-          <Chinese>...進入一台飛機</Chinese>
+          <Chinese>...進入一臺飛機</Chinese>
           <Chinesesimp>...进入一台飞机</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_motorcycle">
           <Original>... get in a motorcycle</Original>
-          <Chinese>...進入一台摩托車</Chinese>
+          <Chinese>...進入一臺摩托車</Chinese>
           <Chinesesimp>...进入一台摩托车</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_helicopter">
           <Original>... get in a helicopter</Original>
-          <Chinese>...進入一台直升機</Chinese>
+          <Chinese>...進入一臺直升機</Chinese>
           <Chinesesimp>...进入一台直升机</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengegetinvehicle_car">
           <Original>... get in a car</Original>
-          <Chinese>...進入一台車</Chinese>
+          <Chinese>...進入一臺車</Chinese>
           <Chinesesimp>...进入一台车</Chinesesimp>
         </Key>
       </Container>
@@ -1299,12 +1299,12 @@
         <Key ID="str_a3_itemtype_shotgunshell">
           <Original>shotgun shell</Original>
           <Chinese>散彈槍彈殼</Chinese>
-          <Chinesesimp>散弹枪弹壳</Chinesesimp>
+          <Chinesesimp>霰弹枪弹壳</Chinesesimp>
         </Key>
         <Key ID="str_a3_itemtype_shotgun">
           <Original>shotgun</Original>
           <Chinese>散彈槍</Chinese>
-          <Chinesesimp>散弹枪</Chinesesimp>
+          <Chinesesimp>霰弹枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_itemtype_shell">
           <Original>shell</Original>
@@ -1676,7 +1676,7 @@
         <Key ID="str_a3_objecttype_medic">
           <Original>combat life-saver</Original>
           <Chinese>戰鬥醫護兵</Chinese>
-          <Chinesesimp>战斗医护兵</Chinesesimp>
+          <Chinesesimp>战斗卫生兵</Chinesesimp>
         </Key>
         <Key ID="str_a3_objecttype_marker">
           <Original>marker</Original>
@@ -2054,7 +2054,7 @@
         </Key>
         <Key ID="str_a3_paramdebugconsole_title">
           <Original>Admin debug console</Original>
-          <Chinese>管理員調試控制台</Chinese>
+          <Chinese>管理員調試控制臺</Chinese>
           <Chinesesimp>管理员调试控制台</Chinesesimp>
         </Key>
         <Key ID="str_a3_paramdaytimeperiod_title">
@@ -2283,7 +2283,7 @@
           </Key>
           <Key ID="str_a3_cfgtaskdescriptions_lightning">
             <Original>Strike the helicopter</Original>
-            <Chinese>攻擊那台直升機</Chinese>
+            <Chinese>攻擊那臺直升機</Chinese>
             <Chinesesimp>攻击那台直升机</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgtaskdescriptions_interface">
@@ -3620,8 +3620,8 @@
         </Key>
         <Key ID="str_a3_argumentcuratordescription">
           <Original>Variable name of 'Zeus' modules. Works together with synchronized Zeus modules.</Original>
-          <Chinese>'宙斯'模塊的變量名。與宙斯模塊一同使用。</Chinese>
-          <Chinesesimp>'宙斯'模块的变量名。与宙斯模块一同使用。</Chinesesimp>
+          <Chinese>‘宙斯’模塊的變量名。與宙斯模塊一同使用。</Chinese>
+          <Chinesesimp>‘宙斯’模块的变量名。与宙斯模块一同使用。</Chinesesimp>
         </Key>
         <Key ID="str_a3_argumentcurator">
           <Original>Assigned Zeus</Original>
@@ -3690,17 +3690,17 @@
         <Key ID="str_a3_cfgvehicles_moduleordnancerocket_f">
           <Original>230 mm Rocket</Original>
           <Chinese>230mm火箭彈</Chinese>
-          <Chinesesimp>230mm火箭弹</Chinesesimp>
+          <Chinesesimp>230毫米火箭弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleordnancemortar_f">
           <Original>82 mm Mortar</Original>
           <Chinese>82mm迫擊炮</Chinese>
-          <Chinesesimp>82mm迫击炮</Chinesesimp>
+          <Chinesesimp>82毫米迫击炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleordnancehowitzer_f">
           <Original>155 mm Howitzer</Original>
           <Chinese>155mm火炮</Chinese>
-          <Chinesesimp>155mm火炮</Chinesesimp>
+          <Chinesesimp>155毫米火炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleordnance_f_moduledescription">
           <Original>Create an artillery shell on the module position. It will take a few seconds until it hits the ground.</Original>
@@ -4002,7 +4002,7 @@
         <Key ID="str_a3_cfgvehicles_moduleendmission_f_arguments_win">
           <Original>Custom Status</Original>
           <Chinese>自訂狀態</Chinese>
-          <Chinesesimp>自订状态</Chinesesimp>
+          <Chinesesimp>自定义状态</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleendmission_f_arguments_type_values_sidescore">
           <Original>Side with the best score wins</Original>
@@ -4073,7 +4073,7 @@
         <Key ID="str_a3_cfgvehicles_moduleradio_f">
           <Original>Play Radio Message</Original>
           <Chinese>播放無線電訊息</Chinese>
-          <Chinesesimp>播放无线电讯息</Chinesesimp>
+          <Chinesesimp>播放无线电信息</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulepostprocess_f_moduledescription">
           <Original>Set a scene Post-Processing effect (e.g. color correction or film grain)</Original>
@@ -4262,7 +4262,7 @@
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list1_title">
         <Original>Master Altis and Master Stratis</Original>
         <Chinese>主宰Altis和Stratis</Chinese>
-        <Chinesesimp>主宰Altis和Stratis</Chinesesimp>
+        <Chinesesimp>主宰阿尔蒂斯和Stratis</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list1">
         <Original>completely open scenarios, where everything is controlled by Zeus</Original>
@@ -4276,8 +4276,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_footer">
         <Original>More at www.arma3.com/whatsnewzeus</Original>
-        <Chinese>更多詳情請上www。arma3。com/whatsnewzeus</Chinese>
-        <Chinesesimp>更多详情请上www。arma3。com/whatsnewzeus</Chinesesimp>
+        <Chinese>更多詳情請上www.arma3.com/whatsnewzeus</Chinese>
+        <Chinesesimp>更多详情请上www.arma3.com/whatsnewzeus</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pard_title">
         <Original>MP MODES</Original>
@@ -4286,13 +4286,13 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pard_footer">
         <Original>More at www.arma3.com/zeus</Original>
-        <Chinese>更多詳情請上www。arma3。com/zeus</Chinese>
-        <Chinesesimp>更多详情请上www。arma3。com/zeus</Chinesesimp>
+        <Chinese>更多詳情請上www.arma3.com/zeus</Chinese>
+        <Chinesesimp>更多详情请上www.arma3.com/zeus</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pard">
         <Original>Play Arma 3 Zeus across its distinctive 'Game Master' game type scenarios, where nothing has been predetermined. Or visit familiar modes like 'Coop', 'Team Deathmatch', and 'Sector Control' in a completely new way. Zeus multiplayer also works with custom player-created scenarios.</Original>
         <Chinese>在ArmA3裡擔當宙斯，這可以讓你成為遊戲的主宰，你將可以在完全開放的地圖中自訂所有的任務與狀況。你將可以透過此種模式來重新體驗'合作'，'團隊死鬥'，'控制防禦區'等任務。宙斯模式也可以在玩家自訂任務中啟動。</Chinese>
-        <Chinesesimp>在Arma3里担当宙斯，这可以让你成为游戏的主宰，你将可以在完全开放的地图中自定义所有的任务与状况。你将可以透过此种模式来重新体验'合作'，'团队死斗'，'控制防御区'等任务。宙斯模式也可以在玩家自定义任务中启动。</Chinesesimp>
+        <Chinesesimp>在Arma3里担当宙斯，这可以让你成为游戏的主宰，你将可以在完全开放的地图中自定义所有的任务与状况。你将可以透过此种模式来重新体验‘合作’，‘团队死斗’，‘控制防御区’等任务。宙斯模式也可以在玩家自定义任务中启动。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_parc_title">
         <Original>ENROLL AS PLAYERS</Original>

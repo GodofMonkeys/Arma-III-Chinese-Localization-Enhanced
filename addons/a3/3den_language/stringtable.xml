@@ -706,7 +706,7 @@
             </Key>
             <Key ID="str_3den_display3den_menubar_debugconsole_text">
               <Original>Debug Console</Original>
-              <Chinese>除錯控制台</Chinese>
+              <Chinese>除錯控制臺</Chinese>
               <Chinesesimp>除错控制台</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_configviewer_text">
@@ -1267,8 +1267,8 @@
     <Container name="CfgNonAIVehicles">
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetectorAreaR250">
         <Original>Trigger (Ø 500 m)</Original>
-        <Chinese>觸發器(Ø500公尺)</Chinese>
-        <Chinesesimp>触发器(Ø500米)</Chinesesimp>
+        <Chinese>觸發器(O500公尺)</Chinese>
+        <Chinesesimp>触发器(?500米)</Chinesesimp>
       </Key>
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetector">
         <Original>Trigger</Original>
@@ -1282,8 +1282,8 @@
       </Key>
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetectorAreaR50">
         <Original>Trigger (Ø 100 m)</Original>
-        <Chinese>觸發器(Ø100公尺)</Chinese>
-        <Chinesesimp>触发器(Ø100米)</Chinesesimp>
+        <Chinese>觸發器(O100公尺)</Chinese>
+        <Chinesesimp>触发器(?100米)</Chinesesimp>
       </Key>
     </Container>
     <Container name="Achievements">
@@ -2020,7 +2020,7 @@
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_transforming_surfacesnap_text">
               <Original>When an entity gets near any surface while its altitude is being changed, it will be snapped to it. This is useful for quick positioning on building floors or terraces. You can &lt;%2&gt;Toggle Surface Snap&lt;%3&gt; to disable this behavior when necessary.</Original>
-              <Chinese>當物件偵測到一個與他不同高度的平面時，物件會自動與該平面貼齊。這功能讓作者能簡單的放置物件在屋子樓層中或是陽台上。如有需要的話，你也可以透過&lt;%2&gt;切換貼齊平面&lt;%3&gt;的按鈕來關閉此功能。</Chinese>
+              <Chinese>當物件偵測到一個與他不同高度的平面時，物件會自動與該平面貼齊。這功能讓作者能簡單的放置物件在屋子樓層中或是陽臺上。如有需要的話，你也可以透過&lt;%2&gt;切換貼齊平面&lt;%3&gt;的按鈕來關閉此功能。</Chinese>
               <Chinesesimp>当物件侦测到一个与它不同高度的平面时，物件会自动与该平面贴齐。这项功能让作者能简单的放置物件在屋子楼层中或是阳台上。如有需要的话，你也可以通过&lt;%2&gt;切换贴齐平面&lt;%3&gt;的按钮来关闭此功能。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_transforming_rotate_text">
@@ -2453,7 +2453,7 @@
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_preview_previewmp2_text">
               <Original>When you return to the editor from the multiplayer preview, the server will keep running and already connected players will not be kicked out. However, running a singleplayer preview afterwards will terminate the server.</Original>
-              <Chinese>當你從多人遊戲預覽中返回時，該伺服器將繼續在後台運行，已連線的玩家將不會被踢除到伺服器之外。然而，當你又把模式改成單人模式時，該伺服器便會被關閉。</Chinese>
+              <Chinese>當你從多人遊戲預覽中返回時，該伺服器將繼續在後臺運行，已連線的玩家將不會被踢除到伺服器之外。然而，當你又把模式改成單人模式時，該伺服器便會被關閉。</Chinese>
               <Chinesesimp>当你从多人游戏预览中返回时，该服务器将继续在后台运行，已连线的玩家将不会被踢除到服务器之外。然而，当你又把模式改成单人模式时，该服务器便会被关闭。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_preview_previewcamera_text">
@@ -3097,7 +3097,7 @@
           <Key ID="str_3den_object_attribute_simpleobject_tooltip">
             <Original>When enabled, the object will behave like a map object (e.g. rocks or trees), which significantly saves performance. This option is available only for objects where it leads to improved performance.\n\nWarning: If set, the setting is enforced at the start of the scenario and is irreversible during its runtime!</Original>
             <Chinese>當本功能開啟時，此物件的表現就會像是一般的地形物件(例如房子或是樹)，這可顯著的節省遊戲效能。這功能只會在該載具內並無任何機組員時才可啟用。\n\n警告:此功能將會在遊戲開始後啟用，爾後不能再做任何更改!</Chinese>
-            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件(例如房子或是树)，这可显著的节省游戏效能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，尔后不能再做任何更改!</Chinesesimp>
+            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件(例如房子或是树)，这可显着的节省游戏效能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，尔后不能再做任何更改!</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom0_displayname">
             <Original>Texture #0</Original>
@@ -3126,8 +3126,8 @@
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom_tooltip">
             <Original>Custom texture applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myTexture_ca.paa", relative to the game's directory (e.g., "\a3\Ui_f\data\Logos\arma3_white_ca.paa" or a procedural texture (e.g., "#(argb,8,8,3_color(1,0,1,1)").</Original>
-            <Chinese>自定義目標物件的貼圖。請使用任務資料夾的相對路徑(例如"Textures\myTexture_ca.paa")，你也可以指定到遊戲資料夾中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用腳本貼圖(例如"#(argb,8,8,3_color(1,0,1,1)")。</Chinese>
-            <Chinesesimp>自定义目标物件的纹理。请使用任务资料夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏资料夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如"#(argb,8,8,3_color(1,0,1,1)")。</Chinesesimp>
+            <Chinese>自定義目標物件的貼圖。請使用任務資料夾的相對路徑(例如"Textures\myTexture_ca.paa")，你也可以指定到遊戲資料夾中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用腳本貼圖(例如"#(argb，8，8，3_color(1，0，1，1)")。</Chinese>
+            <Chinesesimp>自定义目标物件的纹理。请使用任务资料夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏资料夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如"#(argb，8，8，3_color(1，0，1，1)")。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_wakeupdynsim_displayname">
             <Original>Wake-Up Dynamic Simulation</Original>
@@ -3345,7 +3345,7 @@
         </Key>
         <Key ID="STR_3DEN_Messages_missionPreviewWillEndServer">
           <Original>You have a hosted server running in the background. Do you want to shut it down?</Original>
-          <Chinese>你有一個伺服器正在後台運行。你想要關掉它嗎?</Chinese>
+          <Chinese>你有一個伺服器正在後臺運行。你想要關掉它嗎?</Chinese>
           <Chinesesimp>你有一个服务器正在后台运行。你想要关掉它吗?</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_MissionLoadImported">
@@ -3596,7 +3596,7 @@
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_westseized_tooltip">
             <Original>Activated when the given side is in control of the area. Strength matters, which means one tank can be in control of an area while ten enemy infantrymen are still present. </Original>
-            <Chinese>只有指定陣營佔領觸發器的範圍時才能成功啟用觸發器。佔領成功與否取決於兵力的強弱，這意味著只要有一台坦克，即使範圍內仍有敵人的步兵，該區仍是被該坦克的陣營所佔領。</Chinese>
+            <Chinese>只有指定陣營佔領觸發器的範圍時才能成功啟用觸發器。佔領成功與否取決於兵力的強弱，這意味著只要有一臺坦克，即使範圍內仍有敵人的步兵，該區仍是被該坦克的陣營所佔領。</Chinese>
             <Chinesesimp>只有指定阵营占领触发器的范围时才能成功启用触发器。占领成功与否取决于兵力的强弱，这意味着只要有一台坦克，即使范围内仍有敌人的步兵，该区仍是被该坦克的阵营所占领。</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_westseized_text">
@@ -5429,7 +5429,7 @@
             </Key>
             <Key ID="str_3den_scenario_attribute_enabledebugconsole_tooltip">
               <Original>Determines debug console availability</Original>
-              <Chinese>設定除錯控制台的使用權限</Chinese>
+              <Chinese>設定除錯控制臺的使用權限</Chinese>
               <Chinesesimp>设定除错控制台的使用权限</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_donekeys_tooltip">

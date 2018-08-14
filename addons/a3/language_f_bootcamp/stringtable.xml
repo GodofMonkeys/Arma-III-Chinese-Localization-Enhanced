@@ -351,7 +351,7 @@
       </Key>
       <Key ID="STR_A3_EnteringVehicle2_sub">
         <Original>To enter a vehicle:%1%2Point the cursor at it until the icon &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\Actions\getindriver_ca.paa' /&gt; appears.%1%2Use default action %11.</Original>
-        <Chinese>要進入一台載具:%1%2使用準心對準並等待圖示&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;的出現。%1%2使用%11來執行預設的動作。</Chinese>
+        <Chinese>要進入一臺載具:%1%2使用準心對準並等待圖示&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;的出現。%1%2使用%11來執行預設的動作。</Chinese>
         <Chinesesimp>要进入一台载具:%1%2使用准星对准并等待图示&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;的出现。%1%2使用%11来执行预设的动作。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Repairing1_sub">
@@ -396,7 +396,7 @@
       </Key>
       <Key ID="STR_A3_Countermeasures3_sub">
         <Original>Number of flares available is different for every air vehicle, some don't even have any.%1If you miss a few times, your foe may return to base to refill the flares or simply flee from the area.</Original>
-        <Chinese>每台飛機的熱焰彈數量不同，有些甚至沒有熱焰彈。%1假如你用光它們了，那你最好趕快返回基地補充，或趕緊飛離會被攻擊的空域。</Chinese>
+        <Chinese>每臺飛機的熱焰彈數量不同，有些甚至沒有熱焰彈。%1假如你用光它們了，那你最好趕快返回基地補充，或趕緊飛離會被攻擊的空域。</Chinese>
         <Chinesesimp>每台飞机的热焰弹数量不同，有些甚至没有热焰弹。%1假如你用光它们了，那你最好赶快返回基地补充，或赶紧飞离会被攻击的空域。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_WatchDirection3_sub">
@@ -1162,7 +1162,7 @@
           <Key ID="str_a3_rscdisplaymain_buttoncommunityguide_tooltip">
             <Original>Watch our official 'Community Guide' video series.</Original>
             <Chinese>觀看我們官方的'社群指導'影片。</Chinese>
-            <Chinesesimp>观看我们官方的'社区指导'影片。</Chinesesimp>
+            <Chinesesimp>观看我们官方的‘社区指导’影片。</Chinesesimp>
           </Key>
           <Key ID="str_a3_rscdisplaymain_buttoncommunityguide">
             <Original>Community Guides</Original>
@@ -2228,7 +2228,7 @@
       <Key ID="str_a3_cfgvehicles_c_protagonist_vr_f0">
         <Original>VR Man</Original>
         <Chinese>VR人員</Chinese>
-        <Chinesesimp>VR人員</Chinesesimp>
+        <Chinesesimp>VR人员</Chinesesimp>
       </Key>
       <Key ID="STR_A3_guerilla_garment">
         <Original>Guerilla Garment</Original>
@@ -2355,13 +2355,13 @@
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_gm6_camo_f0">
         <Original>GM6 Lynx 12.7 mm (Camo)</Original>
-        <Chinese>GM6Lynx12。7mm(迷彩)</Chinese>
-        <Chinesesimp>GM6“山猫”12。7毫米(迷彩)</Chinesesimp>
+        <Chinese>GM6Lynx12.7mm(迷彩)</Chinese>
+        <Chinesesimp>GM6“山猫”12.7毫米(迷彩)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_lrr_camo_f0">
         <Original>M320 LRR .408 (Camo)</Original>
         <Chinese>M320LRR。408(迷彩)</Chinese>
-        <Chinesesimp>M320LRR。408(迷彩)</Chinesesimp>
+        <Chinesesimp>M320LRR.408(迷彩)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_box_fia_ammo_f0">
         <Original>FIA Ammo Cache</Original>
@@ -2460,7 +2460,7 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_parc_list1">
         <Original>a new 'Virtual Reality' world offers a blank canvas for VR training and more!</Original>
         <Chinese>新增了一個'虛擬實境'地圖，讓玩家可以運用來測試與訓練!</Chinese>
-        <Chinesesimp>新增了一个'虚拟实境'地图，让玩家可以运用来测试与训练!</Chinesesimp>
+        <Chinesesimp>新增了一个‘虚拟实境’地图，让玩家可以运用来测试与训练!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_parc">
         <Original>Supporting these tutorials, you'll find several new items that expand the platform:</Original>

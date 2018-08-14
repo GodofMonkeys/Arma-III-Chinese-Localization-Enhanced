@@ -5,7 +5,7 @@
       <Key ID="str_a3_sdv0">
         <Original>%1%2Operate the SDV with %11, %12, %13, %14.%1%2Use %15 and %16 to ascend and descend.%1Access the action menu for %3periscope commands%4. When the periscope is up, its view is available via commander's optics %17.</Original>
         <Chinese>%1%2使用%11，%12，%13，%14來操作海豹運輸艇。%1%2使用%15和%16來上升和下降。%1開啟動作選單的%3潛望鏡命令%4。當潛望鏡在海平面上時，玩家可以透過%17來查看潛望鏡的視野。</Chinese>
-        <Chinesesimp>%1%2使用%11，%12，%13，%14来操作海豹运输艇。%1%2使用%15和%16来上升和下降。%1开启动作选单的%3潜望镜命令%4。当潜望镜在海平面上时，玩家可以透过%17来查看潜望镜的视野。</Chinesesimp>
+        <Chinesesimp>%1%2使用%11，%12，%13，%14来操作海豹运输艇。%1%2使用%15和%16来上升和下降。%1开启动作菜单的%3潜望镜命令%4。当潜望镜在海平面上时，玩家可以透过%17来查看潜望镜的视野。</Chinesesimp>
       </Key>
       <Key ID="str_a3_sdv1">
         <Original>SDV</Original>
@@ -174,7 +174,7 @@
       </Key>
       <Key ID="str_a3_firingdrills_tips2">
         <Original>%2Don't always trust the most direct route. Sometimes a detour can be quicker if there are no obstacles in your path.%1%1%2 Consider what will cost you more time: missing a target and re-engaging it, or moving on and taking the penalty.%1%1%2 Think about your aiming path from target to target, as well as clever use of fire modes. Remember that some targets offer bonuses for accuracy.%1%1%2 Scan for bonus targets, but balance your search time against the gained bonuses. Check your map for clues.%1%1%2 Not all targets appear upon arriving at a Check Point. Remain vigilant until the all clear is given.%1%1%2Consider your fatigue and how often you sprint. It all affects your continued performance and aiming.</Original>
-        <Chinese>不要總是相信直線的路線。有時走沒有障礙的小路反而會比較快。%1%1%2考慮什麼事讓你花費了更多的時間:錯過目標並重新追踪目標，或是繼續移動不管目標而獲得的懲罰。%1%1%2考慮你在目標與目標間的火線，同樣也要明智的使用射擊模式。記住，準確射擊某一些目標可以讓你獲得加成獎勵。%1%1%2搜尋加成目標，但要平衡你搜索與獲得加成的時間，不要因小失大。查看地圖來獲得線索。%1%1%2到達檢查點時並不會馬上顯示所有目標。在擊倒全部目標前請隨時保持警覺。%1%1%2考慮到疲憊與衝刺頻率。這些都影響到你的行動力與瞄準精度。</Chinese>
+        <Chinese>不要總是相信直線的路線。有時走沒有障礙的小路反而會比較快。%1%1%2考慮什麼事讓你花費了更多的時間:錯過目標並重新追?目標，或是繼續移動不管目標而獲得的懲罰。%1%1%2考慮你在目標與目標間的火線，同樣也要明智的使用射擊模式。記住，準確射擊某一些目標可以讓你獲得加成獎勵。%1%1%2搜尋加成目標，但要平衡你搜索與獲得加成的時間，不要因小失大。查看地圖來獲得線索。%1%1%2到達檢查點時並不會馬上顯示所有目標。在擊倒全部目標前請隨時保持警覺。%1%1%2考慮到疲憊與衝刺頻率。這些都影響到你的行動力與瞄準精度。</Chinese>
         <Chinesesimp>不要总是相信直线的路线。有时走没有障碍的小路反而会比较快。%1%1%2考虑什么事让你花费了更多的时间:错过目标并重新追踪目标，或是继续移动不管目标而获得的惩罚。%1%1%2考虑你在目标与目标间的火线，同样也要明智的使用射击模式。记住，准确射击某一些目标可以让你获得加成奖励。%1%1%2搜寻加成目标，但要平衡你搜索与获得加成的时间，不要因小失大。查看地图来获得线索。%1%1%2到达检查点时并不会马上显示所有目标。在击倒全部目标前请随时保持警觉。%1%1%2考虑到疲惫与冲刺频率。这些都影响到你的行动力与瞄准精度。</Chinesesimp>
       </Key>
     </Container>
@@ -668,7 +668,7 @@
         <Container name="DescriptionShort">
           <Key ID="str_cfgweapons_launch_mprl_short_f1">
             <Original>Rocket Launcher&lt;br /&gt;Ammo: 127 mm Titan Rocket</Original>
-            <Chinese>火箭發射器&lt;br/&gt;彈藥:127毫米“泰坦”火箭弹</Chinese>
+            <Chinese>火箭發射器&lt;br/&gt;彈藥:127毫米“泰坦”火箭?</Chinese>
             <Chinesesimp>火箭发射器&lt;br/&gt;弹药:127毫米“泰坦”火箭弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_lmg_zafir_f1">
@@ -723,7 +723,7 @@
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl1">
             <Original>Rocket Launcher&lt;br /&gt;Ammo: 127 mm Titan Rocket</Original>
-            <Chinese>火箭發射器&lt;br/&gt;彈藥:127毫米“泰坦”火箭弹</Chinese>
+            <Chinese>火箭發射器&lt;br/&gt;彈藥:127毫米“泰坦”火箭?</Chinese>
             <Chinesesimp>火箭发射器&lt;br/&gt;弹药:127毫米“泰坦”火箭弹</Chinesesimp>
           </Key>
         </Container>
@@ -2114,7 +2114,7 @@
       <Container name="Library">
         <Key ID="str_a3_heli_attack_01_lib">
           <Original>A two-seat attack helicopter armed with 20 mm Minigun, ASRAAM and DAGR missiles. Even though the construction dates back some time and the program faced cancelation in the first years of the 21st century, the project was finished successfully and the Blackfoot became the first attack helicopter with stealth technology applied even to the main rotor. The Blackfoot is extremely fast, agile and hard to detect even by contemporary sensors, but it's slowly becoming outdated.</Original>
-          <Chinese>一種雙人攻擊直升機，配備20mm迷你砲機槍，以及對空和對地導彈。儘管在21世紀初，這個直升機開發計劃因其機體結構老舊等問題而面臨取消開發的風險，Blackfoot最終還是得以順利研發完成，這是世界上首架應用了隱形技術的攻擊直升機。Blackfoot以快速靈活，且其隱形效果好到連現代的傳感器都很難偵測到而聞名，但它現在正逐漸退出歷史的舞台。</Chinese>
+          <Chinese>一種雙人攻擊直升機，配備20mm迷你砲機槍，以及對空和對地導彈。儘管在21世紀初，這個直升機開發計劃因其機體結構老舊等問題而面臨取消開發的風險，Blackfoot最終還是得以順利研發完成，這是世界上首架應用了隱形技術的攻擊直升機。Blackfoot以快速靈活，且其隱形效果好到連現代的傳感器都很難偵測到而聞名，但它現在正逐漸退出歷史的舞臺。</Chinese>
           <Chinesesimp>一种双人攻击直升机，配备20毫米“米尼岗”机炮，先进近程空空导弹和直接攻击制导火箭弹。尽管在21世纪初这一直升机开发计划因其机体结构老旧等问题而面临取消开发的风险，“黑足”最终还是得以顺利研发完成，这是世界上首架应用隐形技术的攻击直升机。“黑足”以快速灵活，且其隐形效果好到连现代的传感器都很难侦测到而闻名，但它现在正逐渐开始落后。</Chinesesimp>
         </Key>
         <Key ID="str_a3_heli_transport_02_lib">
@@ -2134,7 +2134,7 @@
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_lib0">
           <Original>The infantry fighting vehicle BTR-K Kamysh and its anti-aircraft cousin ZSU-39 Tigris share the same vehicle platform. Developed by Russia with a pinch of undeniable inspiration from Israeli IFVs, they serve in the OPFOR army as a prime example of a leveling of the technology field with the West. The Kamysh is equipped with a CTWS turret fitted with a 30 mm cannon, coaxial machinegun and 2 guided AT missiles, making the vehicle significant in the infantry support role. The Tigris is fitted with a 35 mm autocannon and 4 Titan AA missiles.</Original>
-          <Chinese>BTR-KKamysh步兵戰車和它的ZSU-39Tigris防空車兄弟，同樣都使用同一款車體。由俄羅斯研發與製造，但不可否認，其靈感多少有點取材以色列的步兵戰車。它們主要在紅方服役，同時它也代表著紅方的技術水平逐漸追上西方。Kamysh使用埋頭彈武器系統，並裝設30mm機砲，同軸機槍和兩顆反坦克導引飛彈，使這台載具被定位成步兵支援的角色。Tigris則是裝上35mm自動機砲和四顆Titan防空導彈。</Chinese>
+          <Chinese>BTR-KKamysh步兵戰車和它的ZSU-39Tigris防空車兄弟，同樣都使用同一款車體。由俄羅斯研發與製造，但不可否認，其靈感多少有點取材以色列的步兵戰車。它們主要在紅方服役，同時它也代表著紅方的技術水平逐漸追上西方。Kamysh使用埋頭彈武器系統，並裝設30mm機砲，同軸機槍和兩顆反坦克導引飛彈，使這臺載具被定位成步兵支援的角色。Tigris則是裝上35mm自動機砲和四顆Titan防空導彈。</Chinese>
           <Chinesesimp>BTR-K“卡米什”步兵战车和其近亲ZSU-39“底格里斯”防空系统使用同一款底盘。这一车族由俄罗斯在一些以色列灵感的基础上研发制造，它们在红方中的服役代表红方在基本硬件上已经赶上西方。“卡米什”装备30毫米埋头弹武器系统，同轴机枪和两枚反坦克制导导弹，使这台载具被定位成步兵支援的角色。“底格里斯”则装35毫米自动炮和四枚“泰坦”防空导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_apc_wheeled_01_library0">
@@ -2144,7 +2144,7 @@
         </Key>
         <Key ID="str_a3_CfgVehicles_apc_wheeled_02_library0">
           <Original>The MSE-3 Marid is an amphibious 6-wheeled APC used by the OPFOR army. It's an agile and maneuverable vehicle with a low silhouette and compact size. Its reliability and maintenance costs match the western APCs. It's fitted as standard with an RCWS turret with 40 mm GMG and 6.5 mm LMG and is able to carry up to 8 soldiers in the cargo space.</Original>
-          <Chinese>MSE-3Marid是一台紅方的兩棲六輪裝甲運兵車。他是一輛低底盤和小尺寸的敏捷機動車。其可靠性和維護成本比得上西方的裝甲運兵車。它的標準配備是裝設有40mm榴彈機槍和6.5mm輕機槍的遙控砲塔。它能夠在後座搭載8名士兵。</Chinese>
+          <Chinese>MSE-3Marid是一臺紅方的兩棲六輪裝甲運兵車。他是一輛低底盤和小尺寸的敏捷機動車。其可靠性和維護成本比得上西方的裝甲運兵車。它的標準配備是裝設有40mm榴彈機槍和6.5mm輕機槍的遙控砲塔。它能夠在後座搭載8名士兵。</Chinese>
           <Chinesesimp>MSE-3“马里德”是一台红方的两栖六轮装甲运兵车。这是一种低底盘，小尺寸的敏捷型机动车辆。其可靠性和维护成本比得上西方的装甲运兵车。它的标准配备是装有40毫米榴弹机枪和6.5毫米轻机枪的遥控炮塔。它能够在后座搭载8名士兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_01_base_library0">
@@ -3425,7 +3425,7 @@
         <Key ID="str_a3_cfgvehicles_modulegenericradio_f_0">
           <Original>Generic radio message</Original>
           <Chinese>預設無線電訊息</Chinese>
-          <Chinesesimp>预设无线电讯息</Chinesesimp>
+          <Chinesesimp>预设无线电信息</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduledate_f_moduledescription_0">
           <Original>Set mission date.</Original>
@@ -3779,7 +3779,7 @@
         <Key ID="str_a3_cfgvehicles_moduletaskcreate_f_arguments_shownotification_0">
           <Original>Show Notification</Original>
           <Chinese>顯示通知訊息</Chinese>
-          <Chinesesimp>显示通知讯息</Chinesesimp>
+          <Chinesesimp>显示通知信息</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduletaskcreate_f_arguments_type_0">
           <Original>Task Type</Original>
@@ -4432,7 +4432,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Key ID="str_a3_cfgvehicles_modulerespawnposition_f_arguments_name_1">
           <Original>Respawn name visible in the respawn menu and on a map</Original>
           <Chinese>重生點的名稱，將會顯示在重生選單與地圖上</Chinese>
-          <Chinesesimp>重生点的名称，将会显示在重生选单与地图上</Chinesesimp>
+          <Chinesesimp>重生点的名称，将会显示在重生菜单与地图上</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulesector_f_rewards">
           <Original>Rewards</Original>

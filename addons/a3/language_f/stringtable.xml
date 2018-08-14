@@ -147,7 +147,7 @@
       <Key ID="str_a3_tactics_supports0">
         <Original>Sometimes it's possible to call in various kinds of support such as artillery, close air support and other means of support. You may call in support by:%1%2Opening a command menu %3[0]%4.%1%2Selecting %3Communications [8]%4.%1%2Requesting Support Type.%1%2And finally, selecting the unit to provide support.</Original>
         <Chinese>有時玩家可以呼叫各種支援，像是火砲，密接空中支援等等。您可以透過以下步驟來呼叫支援:%1%2打開命令選單%3[0]%4。%1%2選擇請求的支援類型%1%2最後選擇單位來提供支援。</Chinese>
-        <Chinesesimp>有时玩家可以呼叫各种支援，如火炮和近距离空中支援等等。您可以透过以下步骤来呼叫支援:%1%2打开命令菜单%3[0]%4。%1%2选择请求的支援类型%1%2最后选择单位来提供支援。</Chinesesimp>
+        <Chinesesimp>有时玩家可以呼叫各种支援，如火炮和近距离空中支援等等。您可以通过以下步骤来呼叫支援:%1%2打开命令菜单%3[0]%4。%1%2选择请求的支援类型%1%2最后选择单位来提供支援。</Chinesesimp>
       </Key>
       <Key ID="str_a3_vehicguided1">
         <Original>Guided Missiles</Original>
@@ -207,7 +207,7 @@
       <Key ID="str_a3_spectating_spectatorcamera0">
         <Original>%1%2Use %3[Space]%4 to switch between unit view and free camera.%1%2Use %3[Arrow left]%4, %3[Arrow right]%4 to scroll through watchable soldiers. The selected one is marked with an icon &lt;img size='1' %5 image='\A3\ui_f\data\igui\cfg\cursors\select_ca.paa' /&gt;.%1%2Tap %3[M]%4 to open the map. %1%2Clicking %3[LMB]%4 anywhere on the map will move the free camera under the cursor position.%1%2Press %3[N]%4 to toggle night vision.</Original>
         <Chinese>%1%2使用%3[空白鍵]%4在單位視角和自由鏡頭之間切換。%1%2使用%3[左鍵]%4，%3[右鍵]%4在可見的士兵中進行切換。被選中的單位會標記上一個圖標&lt;imgsize='1'%5image='\A3\ui_f\data\igui\cfg\cursors\select_ca.paa'/&gt;。%1%2按%3[M]%4打開地圖。%1%2使用%3[滑鼠左鍵]%4點擊地圖上的任何地方，會把自由鏡頭移動到指定的位置。%1%2按%3[N]%4來切換到夜視模式。</Chinese>
-        <Chinesesimp>%1%2使用%3[空白键]%4在单位视角和自由镜头之间切换。%1%2使用%3[左键]%4，%3[右键]%4在可见的士兵中进行切换。被选中的单位会标记上一个图标&lt;imgsize='1'%5image='\A3\ui_f\data\igui\cfg\cursors\select_ca.paa'/&gt;。%1%2按%3[M]%4打开地图。%1%2使用%3[滑鼠左键]%4点击地图上的任何地方，会把自由镜头移动到指定的位置。%1%2按%3[N]%4来切换到夜视模式。</Chinesesimp>
+        <Chinesesimp>%1%2使用%3[空白键]%4在单位视角和自由镜头之间切换。%1%2使用%3[左键]%4，%3[右键]%4在可见的士兵中进行切换。被选中的单位会标记上一个图标&lt;imgsize='1'%5image='\A3\ui_f\data\igui\cfg\cursors\select_ca.paa'/&gt;。%1%2按%3[M]%4打开地图。%1%2使用%3[鼠标左键]%4点击地图上的任何地方，会把自由镜头移动到指定的位置。%1%2按%3[N]%4来切换到夜视模式。</Chinesesimp>
       </Key>
       <Key ID="str_a3_spectating_spectatorcamera1">
         <Original>Camera Controls</Original>
@@ -222,7 +222,7 @@
       <Key ID="str_a3_spectating_spectatorfreeview0">
         <Original>%1%2Move the camera with %3[W]%4, %3[A]%4, %3[S]%4, %3[D]%4, %3[Q]%4 and %3[Z]%4.%1%2Use mouse and Numpad numbers to look around.%1%2Tap %3[Num *]%4 to toggle between moving and looking around with the mouse.%1%2Press %3[Delete]%4 to toggle a floating mode.%1%2Use %3[F]%4 to focus the camera on a cursor target or a position.%1%2Press %3[L]%4 to hide the crosshair.%1%2Tap %3[Left Alt]%4 to move the camera to selected unit's position.</Original>
         <Chinese>%1%2用%3[W]%4，%3[A]%4，%3[S]%4，%3[D]%4，%3[Q]%4和%3[Z]%4移動鏡頭。%1%2用滑鼠和小鍵盤來四處觀看。%1%2按%3[Num*]%4來切換滑鼠的移動或觀察模式。%1%2按%3[Delete]%4切換漂浮模式。%1%2用%3[F]%4把鏡頭聚焦到一個目標或地方上。%1%2按%3[L]%4隱藏準心。%1%2按%3[LeftAlt]%4來把鏡頭移動到選定的單位位置上。</Chinese>
-        <Chinesesimp>%1%2用%3[W]%4，%3[A]%4，%3[S]%4，%3[D]%4，%3[Q]%4和%3[Z]%4移动镜头。%1%2用滑鼠和小键盘来四处观看。%1%2按%3[Num*]%4来切换滑鼠的移动或观察模式。%1%2按%3[Delete]%4切换漂浮模式。%1%2用%3[F]%4把镜头聚焦到一个目标或地方上。%1%2按%3[L]%4隐藏准星。%1%2按%3[LeftAlt]%4来把镜头移动到选定的单位位置上。</Chinesesimp>
+        <Chinesesimp>%1%2用%3[W]%4，%3[A]%4，%3[S]%4，%3[D]%4，%3[Q]%4和%3[Z]%4移动镜头。%1%2用鼠标和小键盘来四处观看。%1%2按%3[Num*]%4来切换鼠标的移动或观察模式。%1%2按%3[Delete]%4切换漂浮模式。%1%2用%3[F]%4把镜头聚焦到一个目标或地方上。%1%2按%3[L]%4隐藏准星。%1%2按%3[LeftAlt]%4来把镜头移动到选定的单位位置上。</Chinesesimp>
       </Key>
       <Key ID="str_a3_spectating_spectatorfreeview1">
         <Original>Camera Free View</Original>
@@ -272,7 +272,7 @@
       <Key ID="str_a3_medikit0">
         <Original>Medics are trained to use a %3Medkit%4, which can permanently heal any damage. When healing yourself as a Medic equipped with a Medkit:%1%2Open the action menu %11.%1%2Select %3Treat yourself%4.%1%2Confirm with %12.</Original>
         <Chinese>醫療兵被受訓使用%3醫療包%4，醫療包可以永久的治愈任何傷害。當醫療兵要使用醫療包來醫療自己時:%1%2使用%11來打開動作選單。%1%2選擇%3醫療自己%4。%1%2使用%12來確認選擇。</Chinese>
-        <Chinesesimp>卫生员被受训使用%3医药箱%4，医药箱可以永久治愈任何伤害。当卫生员要使用医药箱来医疗自己时:%1%2使用%11来打开动作选单。%1%2选择%3医疗自己%4。%1%2使用%12来确认选择。</Chinesesimp>
+        <Chinesesimp>卫生员被受训使用%3医药箱%4，医药箱可以永久治愈任何伤害。当卫生员要使用医药箱来医疗自己时:%1%2使用%11来打开动作菜单。%1%2选择%3医疗自己%4。%1%2使用%12来确认选择。</Chinesesimp>
       </Key>
       <Key ID="str_a3_alpha_goals1">
         <Original>Goals of the Beta</Original>
@@ -327,7 +327,7 @@
       <Key ID="str_a3_basiclook0">
         <Original>Free look enables you to move while keeping awareness of your surroundings.%1%2Hold %11 and move the mouse left and right to look around.%1%2Tap %12 to toggle between static and free look.</Original>
         <Chinese>自由觀察可以使你在移動時能持續對周圍保持警戒，而不須把整個身體轉向。%1%2持續按住%11可以使滑鼠切換為自由觀察。%1%2點擊%12來在一般和自由觀察中切換。</Chinese>
-        <Chinesesimp>自由观察可以使你在移动时能持续对周围保持警戒，而不用把整个身体转向。%1%2持续按住%11可以使滑鼠切换为自由观察。%1%2点击%12来在一般和自由观察中切换。</Chinesesimp>
+        <Chinesesimp>自由观察可以使你在移动时能持续对周围保持警戒，而不用把整个身体转向。%1%2持续按住%11可以使鼠标切换为自由观察。%1%2点击%12来在一般和自由观察中切换。</Chinesesimp>
       </Key>
       <Key ID="str_a3_basiclook1">
         <Original>Free Look</Original>
@@ -347,7 +347,7 @@
       <Key ID="str_a3_basicmove0">
         <Original>Use basic controls %11, %12, %13, %14 to move around and explore the surroundings. Use the mouse to rotate and adjust the direction.</Original>
         <Chinese>使用%11，%12，%13，%14來移動你的身體。使用滑鼠來調整你面向的方向。</Chinese>
-        <Chinesesimp>使用%11，%12，%13，%14来移动你的身体。使用滑鼠来调整你面向的方向。</Chinesesimp>
+        <Chinesesimp>使用%11，%12，%13，%14来移动你的身体。使用鼠标来调整你面向的方向。</Chinesesimp>
       </Key>
       <Key ID="str_a3_basicmove1">
         <Original>Movement</Original>
@@ -407,12 +407,12 @@
       <Key ID="str_a3_cfghints_complex0">
         <Original>Assign complex commands from the command menu.%1%2Open the quick command menu %11. This selects all your subordinate units.%1%2Press %3[Backspace]%4 to open complex commands.%1Alternatively access specific categories via predefined keys %3[0–9]:%4&lt;t&gt;&lt;t/&gt;%1&lt;t&gt;&lt;t/&gt;1 – Move%1&lt;t&gt;&lt;t/&gt;2 – Target%1&lt;t&gt;&lt;t/&gt;3 – Engage%1&lt;t&gt;&lt;t/&gt;4 – Mount%1&lt;t&gt;&lt;t/&gt;5 – Status%1&lt;t&gt;&lt;t/&gt;6 – Action%1&lt;t&gt;&lt;t/&gt;7 – Combat mode%1&lt;t&gt;&lt;t/&gt;8 – Formation%1&lt;t&gt;&lt;t/&gt;9 – Team%1&lt;t&gt;&lt;t/&gt;0 – Reply%1%2%3[Backspace]%4 returns to the root menu for selected units or closes the menu.</Original>
         <Chinese>從命令選單指派進階命令。%1%2使用%11來打開快速命令選單。這將選定你所有的下屬單位。%1%2按下%3[Backspace]%4打開進階命令。%1或者通過預先定義的按鍵使用特定的類別%3[0–9]:%4&lt;t&gt;&lt;t/&gt;%1&lt;t&gt;&lt;t/&gt;1–移動%1&lt;t&gt;&lt;t/&gt;2–瞄準%1&lt;t&gt;&lt;t/&gt;3–交戰%1&lt;t&gt;&lt;t/&gt;4–上車%1&lt;t&gt;&lt;t/&gt;5–狀態%1&lt;t&gt;&lt;t/&gt;6–行動%1&lt;t&gt;&lt;t/&gt;7–戰鬥模式%1&lt;t&gt;&lt;t/&gt;8–隊形%1&lt;t&gt;&lt;t/&gt;9–團隊%1&lt;t&gt;&lt;t/&gt;0–回報%1%2使用%3[Backspace]%4回到主選單或者關閉選單。</Chinese>
-        <Chinesesimp>用从命令菜单下达复杂命令。%1%2使用%11来打开快速命令菜单。这将选定你所有的下属单位。%1%2按下%3[Backspace]%4打开进阶命令。%1或者通过预先定义的按键使用特定的类别%3[0–9]:%4&lt;t&gt;&lt;t/&gt;%1&lt;t&gt;&lt;t/&gt;1–移动%1&lt;t&gt;&lt;t/&gt;2–瞄准%1&lt;t&gt;&lt;t/&gt;3–交战%1&lt;t&gt;&lt;t/&gt;4–上车%1&lt;t&gt;&lt;t/&gt;5–状态%1&lt;t&gt;&lt;t/&gt;6–行动%1&lt;t&gt;&lt;t/&gt;7–战斗模式%1&lt;t&gt;&lt;t/&gt;8–队形%1&lt;t&gt;&lt;t/&gt;9–团队%1&lt;t&gt;&lt;t/&gt;0–回报%1%2使用%3[Backspace]%4回到主选单或者关闭选单。</Chinesesimp>
+        <Chinesesimp>用从命令菜单下达复杂命令。%1%2使用%11来打开快速命令菜单。这将选定你所有的下属单位。%1%2按下%3[Backspace]%4打开进阶命令。%1或者通过预先定义的按键使用特定的类别%3[0–9]:%4&lt;t&gt;&lt;t/&gt;%1&lt;t&gt;&lt;t/&gt;1–移动%1&lt;t&gt;&lt;t/&gt;2–瞄准%1&lt;t&gt;&lt;t/&gt;3–交战%1&lt;t&gt;&lt;t/&gt;4–上车%1&lt;t&gt;&lt;t/&gt;5–状态%1&lt;t&gt;&lt;t/&gt;6–行动%1&lt;t&gt;&lt;t/&gt;7–战斗模式%1&lt;t&gt;&lt;t/&gt;8–队形%1&lt;t&gt;&lt;t/&gt;9–团队%1&lt;t&gt;&lt;t/&gt;0–回报%1%2使用%3[Backspace]%4回到主菜单或者关闭菜单。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_hcwaypoints0">
         <Original>Give units multiple waypoints:%1%2Switch to High command mode %11.%1%2Select the unit with %3[LMB]%4.%1%2Hold down %3[Left Ctrl]%4 while setting waypoints.%1%2Edit the waypoint properties. Click on it with %3[RMB]%4 and change group's formation or combat style.</Original>
         <Chinese>給單位多個路徑點:%1%2使用%11來切換到高級指揮模式。%1%2用%3[滑鼠左鍵]%4選擇單位。%1%2當設定路徑點的時候，請按住%3[LeftCtrl]%4。%1%2編輯路徑點參數。使用%3[滑鼠右鍵]%4點擊路徑點，可以改變隊形或者戰鬥風格。</Chinese>
-        <Chinesesimp>给单位设置多个路径点:%1%2使用%11来切换到高级指挥模式。%1%2用%3[滑鼠左键]%4选择单位。%1%2当设定路径点的时候，请按住%3[LeftCtrl]%4。%1%2编辑路径点参数。使用%3[滑鼠右键]%4点击路径点，可以改变队形或者战斗风格。</Chinesesimp>
+        <Chinesesimp>给单位设置多个路径点:%1%2使用%11来切换到高级指挥模式。%1%2用%3[鼠标左键]%4选择单位。%1%2当设定路径点的时候，请按住%3[LeftCtrl]%4。%1%2编辑路径点参数。使用%3[鼠标右键]%4点击路径点，可以改变队形或者战斗风格。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_hcwaypoints1">
         <Original>High Comm. Waypoints</Original>
@@ -502,7 +502,7 @@
       <Key ID="str_a3_cfghints_teams0">
         <Original>Units can be organized into teams for a quick selection. This is useful when commanding a large number of units.%1%2Select units.%1%2Choose Assign %3[9]%4.%1%2Choose a team color from the menu.%1Alternatively:%1%2Select units.%1%2Press %3[Left Ctrl] + [F1-F5]%4 to create a team.%1To select the entire team:%1%2Use %3[Left Shift] + [F1-F5]%4.</Original>
         <Chinese>單位可以編輯成隊伍，以利進行快速選擇。在指揮大部隊時非常管用。%1%2選擇單位。%1%2選擇%3[9]%4來進入分配選單。%1%2從選單中選擇一個該隊伍的顏色。%1除此之外，也可以使用以下的方法:%1%2選擇部隊。%1%2按%3[LeftCtrl]+[F1-F5]%4來建立小隊。%1要選擇你設定的小隊:%1%2按%3[LeftShift]+[F1-F5]%4來進行選擇。</Chinese>
-        <Chinesesimp>单位可以编成小组，以便进行快速选择。在指挥大部队时非常管用。%1%2选择单位。%1%2选择%3[9]%4来进入分配选单。%1%2从选单中选择一个该队伍的颜色。%1除此之外，也可以使用以下的方法:%1%2选择部队。%1%2按%3[LeftCtrl]+[F1-F5]%4来建立小队。%1要选择你设定的小队:%1%2按%3[LeftShift]+[F1-F5]%4来进行选择。</Chinesesimp>
+        <Chinesesimp>单位可以编成小组，以便进行快速选择。在指挥大部队时非常管用。%1%2选择单位。%1%2选择%3[9]%4来进入分配菜单。%1%2从菜单中选择一个该队伍的颜色。%1除此之外，也可以使用以下的方法:%1%2选择部队。%1%2按%3[LeftCtrl]+[F1-F5]%4来建立小队。%1要选择你设定的小队:%1%2按%3[LeftShift]+[F1-F5]%4来进行选择。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_teams1">
         <Original>Teams</Original>
@@ -576,8 +576,8 @@
       </Key>
       <Key ID="str_a3_commanding2">
         <Original>%2Switch the gunner's weapons with %12.%1%2The commander is able to acquire %3manual fire%4 - %13.%1%2This is best combined with the optics view %14.%1%Other important commands for the driver:%1%2%3[1-1-1]%4 Stay in formation. The driver follows your commanding vehicle, maintaining the formation. %1%2%3[1-1-9]%4 Move to the next waypoint. The driver moves to your current waypoint.</Original>
-        <Chinese>%2使用%12來切換砲手正在使用的武器。%1%2指揮官可以透過%13來使用%3手動開火%4。%1%2手動開火最好搭配瞄準鏡%14來使用。%1%其它給駕駛的重要命令:%1%2使用%3[1-1-1]%4來保持隊形。駕駛跟隨著你的指揮車，並保持隊形。%1%2使用%3[1-1-9]%4來移動到下一個路徑點。而下一台車的駕駛會移動到你目前的路徑點上。</Chinese>
-        <Chinesesimp>%2使用%12来切换炮手正在使用的武器。%1%2指挥官可以透过%13来使用%3超越射击%4。%1%2超越射击最好搭配瞄准镜%14来使用。%1%其他给驾驶的重要命令:%1%2使用%3[1-1-1]%4来保持队形。驾驶跟随着你的指挥车，并保持队形。%1%2使用%3[1-1-9]%4来移动到下一个路径点。而下一台车的驾驶会移动到你目前的路径点上。</Chinesesimp>
+        <Chinese>%2使用%12來切換砲手正在使用的武器。%1%2指揮官可以透過%13來使用%3手動開火%4。%1%2手動開火最好搭配瞄準鏡%14來使用。%1%其它給駕駛的重要命令:%1%2使用%3[1-1-1]%4來保持隊形。駕駛跟隨著你的指揮車，並保持隊形。%1%2使用%3[1-1-9]%4來移動到下一個路徑點。而下一臺車的駕駛會移動到你目前的路徑點上。</Chinese>
+        <Chinesesimp>%2使用%12来切换炮手正在使用的武器。%1%2指挥官可以通过%13来使用%3超越射击%4。%1%2超越射击最好搭配瞄准镜%14来使用。%1%其他给驾驶的重要命令:%1%2使用%3[1-1-1]%4来保持队形。驾驶跟随着你的指挥车，并保持队形。%1%2使用%3[1-1-9]%4来移动到下一个路径点。而下一台车的驾驶会移动到你目前的路径点上。</Chinesesimp>
       </Key>
       <Key ID="str_a3_containers0">
         <Original>Uniforms, vests and backpacks work as containers in your inventory. To exchange a container:%1%2Open Inventory %11.%1%2Point the cursor at the container with this equipment.%1%2Drag the replacement to the specific position.</Original>
@@ -647,7 +647,7 @@
       <Key ID="str_a3_designator0">
         <Original>Laser designator is used for aiming guided missiles, bombs and artillery.%1&lt;t&gt;&lt;/t&gt;1. Select %3Laser Designator%4 by pressing %16.%1&lt;t&gt;&lt;/t&gt;2. Use its optics by pressing %17.%1&lt;t&gt;&lt;/t&gt;3. Zoom using %12&lt;t&gt;&lt;/t&gt;, %13.%1&lt;t&gt;&lt;/t&gt;4. Switch view modes with %14.%1&lt;t&gt;&lt;/t&gt;5. And finally, press %15 to mark the target.</Original>
         <Chinese>雷射指示器用於引導導彈，炸彈和砲擊。%1&lt;t&gt;&lt;/t&gt;1。按下%16來選擇%3雷射指示器%4。%1&lt;t&gt;&lt;/t&gt;2。使用%17來開啟瞄準畫面。%1&lt;t&gt;&lt;/t&gt;3。放大縮小畫面使用%12&lt;t&gt;&lt;/t&gt;，%13。%1&lt;t&gt;&lt;/t&gt;4。使用%14來切換視角模式。%1&lt;t&gt;&lt;/t&gt;5。最後，按下%15來標記目標。</Chinese>
-        <Chinesesimp>激光指示器用于引导导弹，炸弹和炮击。%1&lt;t&gt;&lt;/t&gt;1。按下%16来选择%3激光指示器%4。%1&lt;t&gt;&lt;/t&gt;2。使用%17来开启瞄准画面。%1&lt;t&gt;&lt;/t&gt;3。放大缩小画面使用%12&lt;t&gt;&lt;/t&gt;，%13。%1&lt;t&gt;&lt;/t&gt;4。使用%14来切换视角模式。%1&lt;t&gt;&lt;/t&gt;5。最后，按下%15来标记目标。</Chinesesimp>
+        <Chinesesimp>激光指示器用于制导导弹，炸弹和炮击。%1&lt;t&gt;&lt;/t&gt;1。按下%16来选择%3激光指示器%4。%1&lt;t&gt;&lt;/t&gt;2。使用%17来开启瞄准画面。%1&lt;t&gt;&lt;/t&gt;3。放大缩小画面使用%12&lt;t&gt;&lt;/t&gt;，%13。%1&lt;t&gt;&lt;/t&gt;4。使用%14来切换视角模式。%1&lt;t&gt;&lt;/t&gt;5。最后，按下%15来标记目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_designator1">
         <Original>Designator</Original>
@@ -722,7 +722,7 @@
       <Key ID="str_a3_dots2">
         <Original>On lower difficulties, dots will stick to their units anywhere on the screen, making it easier to distinguish between friends and foes. </Original>
         <Chinese>在難易度低的遊戲中，每個單位都會在螢幕上顯示一個點，這可以讓玩家更容易區分友軍或者敵人。</Chinese>
-        <Chinesesimp>在难易度低的游戏中，每个单位都会在荧幕上显示一个点，这可以让玩家更容易区分友军或者敌人。</Chinesesimp>
+        <Chinesesimp>在难易度低的游戏中，每个单位都会在屏幕上显示一个点，这可以让玩家更容易区分友军或者敌人。</Chinesesimp>
       </Key>
       <Key ID="str_a3_actionmenu1">
         <Original>Action Menu</Original>
@@ -772,7 +772,7 @@
       <Key ID="str_a3_exit0">
         <Original>There are two ways to exit a vehicle (accessible also from the action menu).%1%2%11 or %3Get out%4 &lt;img size='1' %5 image='A3\Ui_f\data\IGUI\Cfg\Actions\getout_ca.paa' /&gt; stands for a proper exit, when the vehicle is at a full stop and it's safe to get out. %1%2%12 or %3Eject%4 &lt;img size='1' %5 image='A3\Ui_f\data\IGUI\Cfg\Actions\eject_ca.paa' /&gt; is an immediate, emergency exit from a moving or flying vehicle and can lead to injury or death.</Original>
         <Chinese>有兩種方式可以離開載具(你也可以透過動作選單來選擇)。%1%2%11或者%3離開%4&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getout_ca.paa'/&gt;可以讓你正常的離開載具，這必須在載具完全停止與安全的狀況下才能使用。%1%2%12或者%3緊急逃生%4&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\eject_ca.paa'/&gt;可以在緊急狀態下立即離開移動中或飛行中的載具，但你很可能會受傷或是死亡。</Chinese>
-        <Chinesesimp>有两种方式可以离开载具(你也可以透过动作菜单来选择)。%1%2%11或者%3离开%4&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getout_ca.paa'/&gt;可以让你正常的离开载具，这必须在载具完全停止与安全的状况下才能使用。%1%2%12或者%3紧急逃生%4&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\eject_ca.paa'/&gt;可以在紧急状态下立即离开移动中或飞行中的载具，但你很可能会受伤或是死亡。</Chinesesimp>
+        <Chinesesimp>有两种方式可以离开载具(你也可以通过动作菜单来选择)。%1%2%11或者%3离开%4&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getout_ca.paa'/&gt;可以让你正常的离开载具，这必须在载具完全停止与安全的状况下才能使用。%1%2%12或者%3紧急逃生%4&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\eject_ca.paa'/&gt;可以在紧急状态下立即离开移动中或飞行中的载具，但你很可能会受伤或是死亡。</Chinesesimp>
       </Key>
       <Key ID="str_a3_exit1">
         <Original>Get out or Eject</Original>
@@ -792,7 +792,7 @@
       <Key ID="str_a3_fak0">
         <Original>The First Aid Kit (FAK) is used to treat small wounds.%1%2Point the cursor at a wounded soldier.%1%2Open the action menu %11.%1%2Select %3treat%4.%1%2Confirm with %12 to use the FAK.%1You can even use it on yourself. </Original>
         <Chinese>急救包被用來治療小傷口。%1%將滑鼠指向受傷的士兵。%1%2使用%11來打開動作選單。%1%2選擇%3醫治%4。%1%2用%12來確認使用急救包。%1你可以對自己使用急救包。</Chinese>
-        <Chinesesimp>急救包被用来治疗小伤口。%1%将鼠标指向受伤的士兵。%1%2使用%11来打开动作选单。%1%2选择%3医治%4。%1%2用%12来确认使用急救包。%1你可以对自己使用急救包。</Chinesesimp>
+        <Chinesesimp>急救包被用来治疗小伤口。%1%将鼠标指向受伤的士兵。%1%2使用%11来打开动作菜单。%1%2选择%3医治%4。%1%2用%12来确认使用急救包。%1你可以对自己使用急救包。</Chinesesimp>
       </Key>
       <Key ID="str_a3_fak1">
         <Original>First Aid Kit</Original>
@@ -901,7 +901,7 @@
       </Key>
       <Key ID="str_a3_gear0">
         <Original>%2Access your Inventory &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa' /&gt; by pressing %11. %1%2Use %3drag and drop%4 to move items between slots and containers. %1%2Close the Inventory window by pressing %11 again. </Original>
-        <Chinese>%2按%11來開啟你的裝備欄&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;%1%2使用%3拖拽%4使物品在容器和裝備欄裡移動。%1%2再次點擊%11來關閉裝備欄。</Chinese>
+        <Chinese>%2按%11來開啟你的裝備欄&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;%1%2使用%3拖曳%4使物品在容器和裝備欄裡移動。%1%2再次點擊%11來關閉裝備欄。</Chinese>
         <Chinesesimp>%2按%11来开启你的装备栏&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;%1%2使用%3拖拽%4使物品在容器和装备栏里移动。%1%2再次点击%11来关闭装备栏。</Chinesesimp>
       </Key>
       <Key ID="str_a3_gear1">
@@ -942,7 +942,7 @@
       <Key ID="str_a3_gui0">
         <Original>Weapon info (in the upper right corner) shows the name of the weapon, selected ammunition, remaining magazines, zeroing of the weapon and most importantly, the selected fire-mode. The more rectangles in fire-mode, the higher the fire rate.</Original>
         <Chinese>武器資訊(右上角)會顯示武器名稱，選擇的彈藥，剩餘彈匣，武器歸零校正以及選擇的開火模式。在開火模式裡，方塊越多，射速越快。</Chinese>
-        <Chinesesimp>武器资讯(右上角)会显示武器名称，选择的弹药，剩余弹匣，武器归零校正以及选择的开火模式。在开火模式里，方块越多，射速越快。</Chinesesimp>
+        <Chinesesimp>武器信息(右上角)会显示武器名称，选择的弹药，剩余弹匣，武器归零校正以及选择的开火模式。在开火模式里，方块越多，射速越快。</Chinesesimp>
       </Key>
       <Key ID="str_a3_gui1">
         <Original>Weapon Info</Original>
@@ -952,7 +952,7 @@
       <Key ID="str_a3_gui2">
         <Original>Weapon info reappears anytime the state of the weapon changes. So you can either fire a bullet or switch weapons or fire-mode to trigger it. Or press %11 to show it.</Original>
         <Chinese>武器資訊會隨武器狀態而變化。你可以射一枚子彈，切換武器或者切換開火模式來觀察武器資訊的變化。或者也可以按%11來顯示它。</Chinese>
-        <Chinesesimp>武器剪接会在武器状态改变时复现。你可以通过开一枪，切换武器或者切换开火模式来观察武器简介的变化。也可以按%11来显示它。</Chinesesimp>
+        <Chinesesimp>武器信息会在武器状态改变时复现。你可以通过开一枪，切换武器或者切换开火模式来观察武器简介的变化。也可以按%11来显示它。</Chinesesimp>
       </Key>
       <Key ID="str_a3_handgun0">
         <Original>Handguns are secondary weapons, used in a close combat or for self-defense.%1%2Use %11 to quickly switch to the handgun.</Original>
@@ -987,7 +987,7 @@
       <Key ID="str_a3_hitdamage0">
         <Original>When you fall from certain heights, you suffer damage according to your gained momentum (speed and mass). The same applies to vehicles and also for being hit by them.</Original>
         <Chinese>如果你從一定的高度落下，你會受到重力加速度所帶來的慣性傷害，最終傷害端看你著地時的速度。載具也會受到掉落的傷害，而當你被載具撞到時，也是會受到傷害。</Chinese>
-        <Chinesesimp>如果你从一定的高度落下，你会受到重力动量(=质量乘速度)所带来的惯性伤害。载具和被载具撞到的物体也会受到同样伤害。</Chinesesimp>
+        <Chinesesimp>如果你从一定的高度落下，你会受到重力加速度(质量乘速度)所带来的惯性伤害。载具和被载具撞到的物体也会受到同样伤害。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hitdamage1">
         <Original>Fall and Hit Damage</Original>
@@ -1012,7 +1012,7 @@
       <Key ID="str_a3_ieds0">
         <Original>Charges and IEDs can be detonated remotely or set with a timer. If you have an IED in your inventory, an item will appear in your action menu.%1%2Open the action menu %11.%1%2Place the IED on the ground using %3Put%4.%1%2Confirm with %12.%1%2Point at it with the cursor.%1%2Now you can set a timer in 40–second steps using the action menu.</Original>
         <Chinese>炸藥和簡易爆炸裝置可以使用遠程引爆或定時引爆。如果你擁有簡易爆炸裝置在你的裝備欄裡，這個物品將會自動出現在你的動作選單中。%1%2使用%1來打開動作選單。%1%2使用%3擺放%4按鈕來將簡易爆炸裝置放置在地上。%1%2使用%12來確認選擇。%1%2用準心瞄準它。%1%2現在你可以透過動作選單來設置一個40秒的引爆時間。</Chinese>
-        <Chinesesimp>炸药和简易爆炸装置可以使用远程引爆或定时引爆。如果你在你的装备栏里拥有简易爆炸装置，这个物品将会自动出现在你的动作选单中。%1%2使用%1来打开动作选单。%1%2使用%3摆放%4按钮来将简易爆炸装置放置在地上。%1%2使用%12来确认选择。%1%2用准心瞄准它。%1%2现在你可以透过动作选单来设置一个40秒的引爆时间。</Chinesesimp>
+        <Chinesesimp>炸药和简易爆炸装置可以使用远程引爆或定时引爆。如果你在你的装备栏里拥有简易爆炸装置，这个物品将会自动出现在你的动作菜单中。%1%2使用%1来打开动作菜单。%1%2使用%3摆放%4按钮来将简易爆炸装置放置在地上。%1%2使用%12来确认选择。%1%2用准心瞄准它。%1%2现在你可以通过动作菜单来设置一个40秒的引爆时间。</Chinesesimp>
       </Key>
       <Key ID="str_a3_ieds1">
         <Original>Arming Charges</Original>
@@ -1047,7 +1047,7 @@
       <Key ID="str_a3_injury0">
         <Original>A few hits usually result in death, but for now you are just injured &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa' /&gt;. Your condition affects your view, aim and speed, but it is treatable. Now, call for a medic: %1%2Press %11 to open fast commands.%1%2Report %3Injured%4.%1Alternative call procedure:%1%2Press %3[5]%4 for status reports.%1%2Press %3[4]%4 for %3Injured%4.</Original>
         <Chinese>通常被幾發子彈命中後就會喪命，但現在你只會受傷&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa'/&gt;。你的狀態會影響你的視野，精準度和速度，但這一切都可以醫治。現在，請你呼叫醫護兵:%1%2按下%11來打開快捷命令選單。%1%2回報%3受傷%4。%1除此之外，你還可以使用以下步驟:%1%2按下%3[5]%4來回報狀況。%1%2按下%3[4]%4來回報%3受傷%4。</Chinese>
-        <Chinesesimp>通常被几发子弹命中后就会丧命，但现在你只会受伤&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa'/&gt;。你的状态会影响你的视野，精准度和速度，但这一切都可以医治。现在，请你呼叫医护兵:%1%2按下%11来打开快捷命令菜单。%1%2回报%3受伤%4。%1除此之外，你还可以使用以下步骤:%1%2按下%3[5]%4来回报状况。%1%2按下%3[4]%4来回报%3受伤%4。</Chinesesimp>
+        <Chinesesimp>通常被几发子弹命中后就会丧命，但现在你只会受伤&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa'/&gt;。你的状态会影响你的视野，精准度和速度，但这一切都可以医治。现在，请你呼叫卫生兵:%1%2按下%11来打开快捷命令菜单。%1%2回报%3受伤%4。%1除此之外，你还可以使用以下步骤:%1%2按下%3[5]%4来回报状况。%1%2按下%3[4]%4来回报%3受伤%4。</Chinesesimp>
       </Key>
       <Key ID="str_a3_injury1">
         <Original>Injury</Original>
@@ -1062,7 +1062,7 @@
       <Key ID="str_a3_launcher0">
         <Original>Launchers give infantry a way to neutralize armored vehicles. %1%2Equip the launcher by pressing %11.%1%2You can press %12 to see through the launcher's optics.%1%2Point at the target.%1%2Shoot with %13.&lt;br /&gt;For launchers armed with guided missiles, press %14 to lock the target and wait for the missile to lock &lt;img size='1' %5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa' /&gt; before shooting.</Original>
         <Chinese>步兵能使用發射器摧毀裝甲載具。%1%2按下%11來裝備發射器。%1%2你可以使用%12來使用發射器瞄具。%1%2瞄準目標。%1%2按下%13來發射火箭。&lt;br/&gt;而對於可以發射導引導彈的發射器，發射之前請按下%14，並等待幾秒來鎖定目標。&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa'/&gt;</Chinese>
-        <Chinesesimp>发射器让步兵也能摧毁装甲车辆。%1%2按%11来装备发射器。%1%2你可以使用%12来使用发射器瞄具。%1%2瞄准目标。%1%2按%13来发射火箭。&lt;br/&gt;而对于可以发射导引导弹的发射器，发射之前请按下%14，并等待几秒来锁定目标。&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa'/&gt;</Chinesesimp>
+        <Chinesesimp>发射器让步兵也能摧毁装甲车辆。%1%2按%11来装备发射器。%1%2你可以使用%12来使用发射器瞄具。%1%2瞄准目标。%1%2按%13来发射火箭。&lt;br/&gt;而对于可以发射制导导弹的发射器，发射之前请按下%14，并等待几秒来锁定目标。&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa'/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_launcher1">
         <Original>Launchers</Original>
@@ -1077,7 +1077,7 @@
       <Key ID="str_a3_looting0">
         <Original>To loot a dead body:%1%2Get close and point the cursor at the body.%1%2Press %11 to open the Inventory.%1%2%3Drag and drop%4 desired items into your inventory.%1%2Use %3double-click LMB%4 to open a bag/vest/uniform on the ground. It will open to a new tab. </Original>
         <Chinese>要搜刮屍體:%1%2接近並將游標指向屍體。%1%2按%11來打開背包。%1%2%3拖曳%4想要的東西到你的背包中。%1%2使用%3雙擊滑鼠左鍵%4來打開地上的一個背包/背心/制服，它將會顯示出該容器內的東西。</Chinese>
-        <Chinesesimp>要搜刮尸体:%1%2接近并将游标指向尸体。%1%2按%11来打开背包。%1%2%3拖曳%4想要的东西到你的背包中。%1%2使用%3双击鼠标左键%4来打开地上的一个背包/背心/制服，它将会显示出该容器内的东西。</Chinesesimp>
+        <Chinesesimp>要搜刮尸体:%1%2接近并将游标指向尸体。%1%2按%11来打开背包。%1%2%3拖拽%4想要的东西到你的背包中。%1%2使用%3双击鼠标左键%4来打开地上的一个背包/背心/制服，它将会显示出该容器内的东西。</Chinesesimp>
       </Key>
       <Key ID="str_a3_looting1">
         <Original>Looting</Original>
@@ -1117,7 +1117,7 @@
       <Key ID="str_a3_mines0">
         <Original>You don't need to be an explosives specialist to set mines. If you have a mine in your inventory, an item will appear in your action menu.%1%2Open the action menu %11.%1%2Go to a place you want mined.%1%2Select %3Put%4 mine.%1%2Confirm with %12.</Original>
         <Chinese>就算你不是爆破專精兵也可以裝設地雷。如果你的裝備欄中有地雷，在動作選單中會有相對應的圖標顯示。%1%2使用%11來打開動作選單。%1%2前往你想要裝設地雷的地點。%1%2選擇%3擺放%4地雷。%1%2按%12確認。</Chinese>
-        <Chinesesimp>就算你不是爆破专精兵也可以敷设地雷。如果你的装备栏中有地雷，在动作选单中会有相对应的图标显示。%1%2使用%11来打开动作选单。%1%2前往你想要装设地雷的地点。%1%2选择%3摆放%4地雷。%1%2按%12确认。</Chinesesimp>
+        <Chinesesimp>就算你不是爆破专精兵也可以敷设地雷。如果你的装备栏中有地雷，在动作菜单中会有相对应的图标显示。%1%2使用%11来打开动作菜单。%1%2前往你想要装设地雷的地点。%1%2选择%3摆放%4地雷。%1%2按%12确认。</Chinesesimp>
       </Key>
       <Key ID="str_a3_mines1">
         <Original>Arming Mines</Original>
@@ -1197,7 +1197,7 @@
       <Key ID="STR_A3_Multiplayer_Markers2">
         <Original>This marker is visible to a selected chat channel (e.g. placing a map marker while in the Side channel ensures only other players on your side will see it). Use markers to point out enemy forces, plot routes, assign artillery targets and convey any other useful information required.</Original>
         <Chinese>標記只會被所屬的頻道成員看見(例如，在陣營頻道放置一處地圖標記，這樣的話該標記只有友軍能看見)。使用標記來指出敵軍，路線，火砲目標或其他有用的訊息。</Chinese>
-        <Chinesesimp>标记只会被所属的频道成员看见(例如，在阵营频道放置一处地图标记，这样的话该标记只有友军能看见)。使用标记来指出敌军，路线，火炮目标或其他有用的讯息。</Chinesesimp>
+        <Chinesesimp>标记只会被所属的频道成员看见(例如，在阵营频道放置一处地图标记，这样的话该标记只有友军能看见)。使用标记来指出敌军，路线，火炮目标或其他有用的信息。</Chinesesimp>
       </Key>
       <Key ID="str_a3_muzzles0">
         <Original>Suppressors are used to reduce a weapon's sound and muzzle flash. To equip a suppressor:%1%2Open Inventory %11.%1%2%3Drag and drop%4 a suppressor to your weapon's suppressor slot. The slot will be marked.</Original>
@@ -1322,7 +1322,7 @@
       <Key ID="str_a3_reload2">
         <Original>The Action menu also gives you a selection of all magazines possible to reload. This is useful when you need to use some utility ammo.</Original>
         <Chinese>當你背包裡有可用的通用彈匣類型，你可以透過動作選單來更換彈匣類型。</Chinese>
-        <Chinesesimp>当你背包里有可用的通用弹匣类型，你可以透过动作菜单来更换弹匣类型。</Chinesesimp>
+        <Chinesesimp>当你背包里有可用的通用弹匣类型，你可以通过动作菜单来更换弹匣类型。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rifles0">
         <Original>Rifles are primary weapons with great fire-power, magazine capacity, range and accuracy. Rifles can be fitted with various accessories such as pointers, suppressors or optics to customize them for specific situations.</Original>
@@ -1427,7 +1427,7 @@
       <Key ID="str_a3_tactics_ammotype0">
         <Original>Artillery operates with several different ammo types: %1%2HE shells – simple explosive ammo.%1%2Flares – used for signaling.%1%2Smoke shells – for signaling or screening.%1%2Guided – heat seeking shells.%1%2Laser Guided – precise, guided by laser designation.</Original>
         <Chinese>火砲可以使用幾種不同類型的彈藥:%1%2高爆彈-簡單的爆炸彈藥。%1%2信號彈-用於發送信號。%1%2煙霧彈-用於發送信號或掩護。%1%2導引砲彈-追蹤熱訊號的砲彈。%1%2雷射導引砲彈-精準，受雷射導引。</Chinese>
-        <Chinesesimp>火炮可以使用几种不同类型的弹药:%1%2高爆弹-简单的爆炸弹药。%1%2信号弹-用于发送信号。%1%2烟雾弹-用于发送信号或掩护。%1%2制导炮弹-追踪热讯号的炮弹。%1%2激光制导炮弹-精准，受激光制导。</Chinesesimp>
+        <Chinesesimp>火炮可以使用几种不同类型的弹药:%1%2高爆弹-简单的爆炸弹药。%1%2信号弹-用于发送信号。%1%2烟雾弹-用于发送信号或掩护。%1%2制导炮弹-追踪热信号的炮弹。%1%2激光制导炮弹-精准，受激光制导。</Chinesesimp>
       </Key>
       <Key ID="str_a3_tactics_ammotype1">
         <Original>Artillery Ammo Types</Original>
@@ -1437,7 +1437,7 @@
       <Key ID="str_a3_tactics_artillerycall0">
         <Original>Artillery is a precise strike effective against well defended or armored targets.%1&lt;t&gt;&lt;/t&gt;1. Point at the target.%1&lt;t&gt;&lt;/t&gt;2. Press %11 or %3[0]%4 to enter the command menu.%1&lt;t&gt;&lt;/t&gt;3. Select %3Communications%4 - %3[8]%4.%1&lt;t&gt;&lt;/t&gt;4. Select %3Artillery Strike%4.%1&lt;t&gt;&lt;/t&gt;5. Choose an artillery type.%1&lt;t&gt;&lt;/t&gt;6. Select a type of ammo.%1&lt;t&gt;&lt;/t&gt;7. Pick the number of rounds.%1Artillery support will then confirm the request and report the splash.</Original>
         <Chinese>火砲是個能夠精準打擊掩體與裝甲目標的一種支援。%1&lt;t&gt;&lt;/t&gt;1。瞄準目標。%1&lt;t&gt;&lt;/t&gt;2。按下%11或%3[0]%4來進入命令選單。%1&lt;t&gt;&lt;/t&gt;3。選擇%3通信%4或按%3[8]%4。%1&lt;t&gt;&lt;/t&gt;4。選擇%3火砲打擊%4。%1&lt;t&gt;&lt;/t&gt;5。選擇火砲種類。%1&lt;t&gt;&lt;/t&gt;6。選擇彈藥類型。%1&lt;t&gt;&lt;/t&gt;7。選擇要發射幾發砲彈。%1火砲支援單位隨後會確認請求，要著彈時會再通知一次。</Chinese>
-        <Chinesesimp>火炮是能有效对付对付坚固或装甲目标的精确打击手段。%1&lt;t&gt;&lt;/t&gt;1。瞄准目标。%1&lt;t&gt;&lt;/t&gt;2。按下%11或%3[0]%4来进入命令选单。%1&lt;t&gt;&lt;/t&gt;3。选择%3通信%4或按%3[8]%4。%1&lt;t&gt;&lt;/t&gt;4。选择%3火炮打击%4。%1&lt;t&gt;&lt;/t&gt;5。选择火炮种类。%1&lt;t&gt;&lt;/t&gt;6。选择弹药类型。%1&lt;t&gt;&lt;/t&gt;7。选择要发射几发炮弹。%1火炮支援单位随后会确认请求，要着弹时会再通知一次。</Chinesesimp>
+        <Chinesesimp>火炮是能有效对付对付坚固或装甲目标的精确打击手段。%1&lt;t&gt;&lt;/t&gt;1。瞄准目标。%1&lt;t&gt;&lt;/t&gt;2。按下%11或%3[0]%4来进入命令菜单。%1&lt;t&gt;&lt;/t&gt;3。选择%3通信%4或按%3[8]%4。%1&lt;t&gt;&lt;/t&gt;4。选择%3火炮打击%4。%1&lt;t&gt;&lt;/t&gt;5。选择火炮种类。%1&lt;t&gt;&lt;/t&gt;6。选择弹药类型。%1&lt;t&gt;&lt;/t&gt;7。选择要发射几发炮弹。%1火炮支援单位随后会确认请求，要着弹时会再通知一次。</Chinesesimp>
       </Key>
       <Key ID="str_a3_tactics_artillerycall1">
         <Original>Artillery Support</Original>
@@ -1457,7 +1457,7 @@
       <Key ID="str_a3_slots0">
         <Original>The inventory has designated slots for specific items. %3Drag and drop%4 an item from your containers. Available slots for the item will be highlighted.</Original>
         <Chinese>在裝備欄中，會有幾個插槽可以供玩家自訂化裝備之用。使用%3拖曳%4的方式，把適合的配件放入所屬的插槽中。</Chinese>
-        <Chinesesimp>在装备栏中，会有几个插槽可以供玩家自订化装备之用。使用%3拖曳%4的方式，把适合的配件放入所属的插槽中。</Chinesesimp>
+        <Chinesesimp>在装备栏中，会有几个插槽可以供玩家自订化装备之用。使用%3拖拽%4的方式，把适合的配件放入所属的插槽中。</Chinesesimp>
       </Key>
       <Key ID="str_a3_slots1">
         <Original>Slots</Original>
@@ -1577,7 +1577,7 @@
       <Key ID="str_a3_ugl0">
         <Original>Underslung grenade launchers are great for engaging groups of enemies or enemies hidden behind cover. If your weapon has a grenade launcher: %1&lt;t&gt;&lt;/t&gt;1. Select it by cycling fire modes %11.%1&lt;t&gt;&lt;/t&gt;2. You can switch to sights by pressing %12.%1&lt;t&gt;&lt;/t&gt;3. Adjust zeroing to match the target range %14, %15.%1&lt;t&gt;&lt;/t&gt;4. Aim with the red dot on the sights.%1&lt;t&gt;&lt;/t&gt;5. Finally, fire with %13.</Original>
         <Chinese>下掛式榴彈發射器，是用來對付一群敵人或隱藏在掩體後的敵人的最佳武器。如果你的武器有一個榴彈發射器:%1&lt;t&gt;&lt;/t&gt;1。通過%11來切換武器的開火模式。%1&lt;t&gt;&lt;/t&gt;2。你可以透過%12來切換視角。%1&lt;t&gt;&lt;/t&gt;3。使用%14，%15來調整歸零，好來匹配目標的距離。%1&lt;t&gt;&lt;/t&gt;4。用內紅點瞄準。%1&lt;t&gt;&lt;/t&gt;5。最後使用%13來開火。</Chinese>
-        <Chinesesimp>下挂式榴弹发射器是用来对付集群或隐藏在掩体后的敌人的最佳武器。如果你的武器有榴弹发射器:%1&lt;t&gt;&lt;/t&gt;1。通过%11来切换武器的开火模式。%1&lt;t&gt;&lt;/t&gt;2。你可以透过%12来切换视角。%1&lt;t&gt;&lt;/t&gt;3。使用%14，%15来调整归零，好来匹配目标的距离。%1&lt;t&gt;&lt;/t&gt;4。用内红点瞄准。%1&lt;t&gt;&lt;/t&gt;5。最后使用%13来开火。</Chinesesimp>
+        <Chinesesimp>下挂式榴弹发射器是用来对付集群或隐藏在掩体后的敌人的最佳武器。如果你的武器有榴弹发射器:%1&lt;t&gt;&lt;/t&gt;1。通过%11来切换武器的开火模式。%1&lt;t&gt;&lt;/t&gt;2。你可以通过%12来切换视角。%1&lt;t&gt;&lt;/t&gt;3。使用%14，%15来调整归零，好来匹配目标的距离。%1&lt;t&gt;&lt;/t&gt;4。用全息瞄准。%1&lt;t&gt;&lt;/t&gt;5。最后使用%13来开火。</Chinesesimp>
       </Key>
       <Key ID="str_a3_ugl1">
         <Original>Grenade Launchers</Original>
@@ -1692,7 +1692,7 @@
       <Key ID="str_a3_waypoint0">
         <Original>Waypoints mark a location you are ordered to go to by your team-leader or a task. All waypoints and go-to orders will be shown by a marker on the screen. When moving in a formation, a formation marker will also be shown on the screen, but without any distance and description.</Original>
         <Chinese>路徑點會標記你的隊長或者是任務要去的地點。所有路徑點和要去幹嘛的指令都會在螢幕上標示出來。當要排隊形時，隊形標記也會在螢幕上顯示，幫助你排進隊形裡。</Chinese>
-        <Chinesesimp>路径点指示你的组长命令或任务目标要求你去的地点。所有路径点和移动指令都会在荧幕上标示出来。当你在队形中时，你应处的位置也会被表示出来，但不标记距离或类别。</Chinesesimp>
+        <Chinesesimp>路径点指示你的组长命令或任务目标要求你去的地点。所有路径点和移动指令都会在屏幕上标示出来。当你在队形中时，你应处的位置也会被表示出来，但不标记距离或类别。</Chinesesimp>
       </Key>
       <Key ID="str_a3_waypoint1">
         <Original>Waypoints</Original>
@@ -2624,7 +2624,7 @@
         </Key>
         <Key ID="str_a3_mdl_supp_comm_burst">
           <Original>Rounds</Original>
-          <Chinese>砲撃</Chinese>
+          <Chinese>砲?</Chinese>
           <Chinesesimp>弹数</Chinesesimp>
         </Key>
         <Key ID="str_a3_mdl_supp_comm_ammo">
@@ -3523,20 +3523,20 @@
         <Key ID="str_a3_cfgmagazines_directionalmineremotemagazine_library0">
           <Original>A Claymore fragmentation charge is one of the deadliest anti-personnel charges available. On a timed or remote-triggered detonation, the Claymore sends deadly steel balls in a frontal direction. Effective kill radius is up to 50 meters. Unlike dug-in mines the Claymore is placed on the ground and is easier to spot.</Original>
           <Chinese>闊劍地雷是一種反人員殺傷地雷，也能經由設置定時器和遙控引爆。這種地雷引爆時會向前方範圍炸射出許多鋼珠，有效殺傷範圍達50公尺。它非常容易裝設，不像其他必須埋在地下的埋設式地雷。</Chinese>
-          <Chinesesimp>阔剑地雷是一种反人员杀伤地雷，也能经由设置定时器和遥控引爆。这种地雷引爆时会向前方范围炸射出许多钢珠，有效杀伤范围达50米。与埋设式地雷不同，该地雷被放置在地表上，使其容易被肉眼发现。</Chinesesimp>
+          <Chinesesimp>阔剑地雷是一种反人员杀伤地雷，也能经由设置定时器和遥控引爆。这种地雷引爆时会向前方范围炸射出许多钢珠，有效杀伤范围达50米。与敷设式地雷不同，该地雷被放置在地表上，使其容易被肉眼发现。</Chinesesimp>
         </Key>
       </Container>
       <Container name="Magazines">
         <Container name="DisplayName">
           <Key ID="str_a3_weapons_f_cfgmagazines_450rnd_127x108_ball0">
             <Original>12.7 mm NSVT-M</Original>
-            <Chinese>12。7mmNSVT-M</Chinese>
-            <Chinesesimp>12。7毫米NSVT-M</Chinesesimp>
+            <Chinese>12.7mmNSVT-M</Chinese>
+            <Chinesesimp>12.7毫米NSVT-M</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_7rnd_408_mag0">
             <Original>.408 7Rnd LRR Mag</Original>
-            <Chinese>。4087發LRR彈匣</Chinese>
-            <Chinesesimp>。408口径7发LRR弹匣</Chinesesimp>
+            <Chinese>.408口?7發LRR彈匣</Chinese>
+            <Chinesesimp>.408口径7发LRR弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_yellow_mag0">
             <Original>9 mm 30Rnd Reload Tracer (Yellow) Mag</Original>
@@ -3625,18 +3625,18 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_green0">
             <Original>12.7 mm M2 HMG Tracer (Green) Belt</Original>
-            <Chinese>12。7mmM2重機槍曳光彈(綠色)彈鏈</Chinese>
-            <Chinesesimp>12。7毫米M2重机枪曳光弹(绿色)弹链</Chinesesimp>
+            <Chinese>12.7mmM2重機槍曳光彈(綠色)彈鏈</Chinese>
+            <Chinesesimp>12.7毫米M2重机枪曳光弹(绿色)弹链</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_red0">
             <Original>12.7 mm M2 HMG Tracer (Red) Belt</Original>
-            <Chinese>12。7mmM2重機槍曳光彈(紅色)彈鏈</Chinese>
-            <Chinesesimp>12。7毫米M2重机枪曳光弹(红色)弹链</Chinesesimp>
+            <Chinese>12.7mmM2重機槍曳光彈(紅色)彈鏈</Chinese>
+            <Chinesesimp>12.7毫米M2重机枪曳光弹(红色)弹链</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_yellow0">
             <Original>12.7 mm M2 HMG Tracer (Yellow) Belt</Original>
-            <Chinese>12。7mmM2重機槍曳光彈(黃色)彈鏈</Chinese>
-            <Chinesesimp>12。7毫米M2重机枪曳光弹(黄色)弹链</Chinesesimp>
+            <Chinese>12.7mmM2重機槍曳光彈(黃色)彈鏈</Chinese>
+            <Chinesesimp>12.7毫米M2重机枪曳光弹(黄色)弹链</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt0">
             <Original>6.5 mm 1000Rnd LMG Belt</Original>
@@ -3650,8 +3650,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag0">
             <Original>12.7 mm M2 HMG Belt</Original>
-            <Chinese>12。7mmM2重機槍彈鏈</Chinese>
-            <Chinesesimp>12。7毫米M2重机枪弹链</Chinesesimp>
+            <Chinese>12.7mmM2重機槍彈鏈</Chinese>
+            <Chinesesimp>12.7毫米M2重机枪弹链</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_10rnd_120mm_mo_cluster0">
             <Original>Cluster Shells</Original>
@@ -3755,18 +3755,18 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_green0">
             <Original>12.7 mm RCWS HMG Tracer (Green)</Original>
-            <Chinese>12。7mm遙控砲塔重機槍曳光彈(綠色)</Chinese>
-            <Chinesesimp>12。7毫米遥控炮塔重机枪曳光弹(绿色)</Chinesesimp>
+            <Chinese>12.7mm遙控砲塔重機槍曳光彈(綠色)</Chinese>
+            <Chinesesimp>12.7毫米遥控炮塔重机枪曳光弹(绿色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_red0">
             <Original>12.7 mm RCWS HMG Tracer (Red)</Original>
-            <Chinese>12。7mm遙控砲塔重機槍曳光彈(紅色)</Chinese>
-            <Chinesesimp>12。7毫米遥控炮塔重机枪曳光弹(红色)</Chinesesimp>
+            <Chinese>12.7mm遙控砲塔重機槍曳光彈(紅色)</Chinese>
+            <Chinesesimp>12.7毫米遥控炮塔重机枪曳光弹(红色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_yellow0">
             <Original>12.7 mm RCWS HMG Tracer (Yellow)</Original>
-            <Chinese>12。7mm遙控砲塔重機槍曳光彈(黃色)</Chinese>
-            <Chinesesimp>12。7毫米遥控炮塔重机枪曳光弹(黄色)</Chinesesimp>
+            <Chinese>12.7mm遙控砲塔重機槍曳光彈(黃色)</Chinese>
+            <Chinesesimp>12.7毫米遥控炮塔重机枪曳光弹(黄色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_14rnd_80mm_rockets0">
             <Original>Skyfire</Original>
@@ -3866,7 +3866,7 @@
           <Key ID="str_a3_cfgmagazines_2rnd_gaa_missiles0">
             <Original>Zephyr</Original>
             <Chinese>Zephyr長程空對空導彈</Chinese>
-            <Chinesesimp>"西风"远程空空导弹</Chinesesimp>
+            <Chinesesimp>“西风”远程空空导弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_300rnd_20mm_shells0">
             <Original>20 mm HE Shells</Original>
@@ -3900,8 +3900,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_01_tracer_green0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Green) Mag</Original>
-            <Chinese>。45ACP30發Vermin曳光彈(綠色)彈匣</Chinese>
-            <Chinesesimp>。45ACP口径30发"恶徒"曳光弹(绿色)弹匣</Chinesesimp>
+            <Chinese>.45ACP30發Vermin曳光彈(綠色)彈匣</Chinese>
+            <Chinesesimp>.45ACP口径30发"恶徒"曳光弹(绿色)弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokeblue_grenade_shell0">
             <Original>3Rnd 3GL Smoke Rounds (Blue)</Original>
@@ -3976,22 +3976,22 @@
           <Key ID="str_a3_cfgmagazines_4rnd_gaa_missiles0">
             <Original>Zephyr</Original>
             <Chinese>Zephyr長程空對空導彈</Chinese>
-            <Chinesesimp>"西风"远程空空导弹</Chinesesimp>
+            <Chinesesimp>“西风”远程空空导弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_green0">
             <Original>12.7 mm AA MG Tracer (Green) Mag</Original>
-            <Chinese>12。7mm對空機槍曳光彈(綠色)彈匣</Chinese>
-            <Chinesesimp>12。7毫米高射机枪曳光弹(绿色)弹匣</Chinesesimp>
+            <Chinese>12.7mm對空機槍曳光彈(綠色)彈匣</Chinese>
+            <Chinesesimp>12.7毫米高射机枪曳光弹(绿色)弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_red0">
             <Original>12.7 mm AA MG Tracer (Red) Mag</Original>
-            <Chinese>12。7mm對空機槍曳光彈(紅色)彈匣</Chinese>
-            <Chinesesimp>12。7毫米高射机枪曳光弹(红色)弹匣</Chinesesimp>
+            <Chinese>12.7mm對空機槍曳光彈(紅色)彈匣</Chinese>
+            <Chinesesimp>12.7毫米高射机枪曳光弹(红色)弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_yellow0">
             <Original>12.7 mm AA MG Tracer (Yellow) Mag</Original>
-            <Chinese>12。7mm對空機槍曳光彈(黃色)彈匣</Chinese>
-            <Chinesesimp>12。7毫米高射机枪曳光弹(黄色)弹匣</Chinesesimp>
+            <Chinese>12.7mm對空機槍曳光彈(黃色)彈匣</Chinese>
+            <Chinesesimp>12.7毫米高射机枪曳光弹(黄色)弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag0">
             <Original>9 mm 30Rnd Mag</Original>
@@ -4000,8 +4000,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_010">
             <Original>.45 ACP 30Rnd Vermin Mag</Original>
-            <Chinese>。45ACP30發Vermin彈匣</Chinese>
-            <Chinesesimp>。45ACP口径30发"恶徒"弹匣</Chinesesimp>
+            <Chinese>.45ACP30發Vermin彈匣</Chinese>
+            <Chinesesimp>.45ACP口径30发"恶徒"弹匣</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgMagazines_50Rnd_120mm_Mo_shells0">
             <Original>155 mm HE Shells</Original>
@@ -4015,8 +4015,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_5rnd_127x108_mag0">
             <Original>12.7 mm 5Rnd Mag</Original>
-            <Chinese>12。7mm5發彈匣</Chinese>
-            <Chinesesimp>12。7毫米5发弹匣</Chinesesimp>
+            <Chinese>12.7mm5發彈匣</Chinese>
+            <Chinesesimp>12.7毫米5发弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_120mm_he_shells0">
             <Original>HE Shells</Original>
@@ -4105,8 +4105,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag0">
             <Original>12.7 mm AA MG Mag</Original>
-            <Chinese>12。7mm對空機槍彈匣</Chinese>
-            <Chinesesimp>12。7毫米高射机枪弹链盒</Chinesesimp>
+            <Chinese>12.7mm對空機槍彈匣</Chinese>
+            <Chinesesimp>12.7毫米高射机枪弹链盒</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_handgrenade0">
             <Original>RGO Grenade</Original>
@@ -4120,8 +4120,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag0">
             <Original>12.7 mm RCWS HMG </Original>
-            <Chinese>12。7mm遙控砲塔重機槍</Chinese>
-            <Chinesesimp>12。7毫米遥控炮塔重机枪</Chinesesimp>
+            <Chinese>12.7mm遙控砲塔重機槍</Chinese>
+            <Chinesesimp>12.7毫米遥控炮塔重机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_belt0">
             <Original>6.5 mm 200Rnd Belt Case</Original>
@@ -4235,8 +4235,8 @@
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_RED0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Red) Mag</Original>
-            <Chinese>。45ACP口徑30發"惡徒"曳光彈(紅色)彈匣</Chinese>
-            <Chinesesimp>。45ACP口径30发"恶徒"曳光弹(红色)弹匣</Chinesesimp>
+            <Chinese>.45ACP口徑30發"惡徒"曳光彈(紅色)彈匣</Chinese>
+            <Chinesesimp>.45ACP口径30发"恶徒"曳光弹(红色)弹匣</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_chemlight_blue0">
             <Original>Chemlight (Blue)</Original>
@@ -4255,15 +4255,15 @@
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_YELLOW0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Yellow) Mag</Original>
-            <Chinese>。45ACP口徑30發"惡徒"曳光彈(黃色)彈匣</Chinese>
-            <Chinesesimp>。45ACP口径30发"恶徒"曳光弹(黄色)弹匣</Chinesesimp>
+            <Chinese>.45ACP口徑30發"惡徒"曳光彈(黃色)彈匣</Chinese>
+            <Chinesesimp>.45ACP口径30发"恶徒"曳光弹(黄色)弹匣</Chinesesimp>
           </Key>
         </Container>
         <Container name="DescriptionShort">
           <Key ID="str_a3_cfgmagazines_7rnd_408_mag1">
             <Original>Caliber: .408&lt;br /&gt;Rounds: 7&lt;br /&gt;Used in: M320 LRR</Original>
-            <Chinese>口徑:。408&lt;br/&gt;發數:7&lt;br/&gt;使用於:M320LRR</Chinese>
-            <Chinesesimp>口径:。408&lt;br/&gt;发数:7&lt;br/&gt;使用于:M320LRR</Chinesesimp>
+            <Chinese>口徑:.408&lt;br/&gt;發數:7&lt;br/&gt;使用於:M320LRR</Chinese>
+            <Chinesesimp>口径:.408&lt;br/&gt;发数:7&lt;br/&gt;使用于:M320LRR</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_556x45_stanag_tracer_red1">
             <Original>Caliber: 5.56x45 mm STANAG Tracers - Red&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: TRG-20, TRG-21/EGLM, Mk20/C/EGLM, SDAR, SPAR-16</Original>
@@ -4297,18 +4297,18 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
-            <Chinese>口徑:12。7x99mm曳光彈-綠色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径:12。7x99毫米曳光弹-绿色&lt;br/&gt;发数:100&lt;br/&gt;使用于:M2机枪</Chinesesimp>
+            <Chinese>口徑:12.7x99mm曳光彈-綠色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
+            <Chinesesimp>口径:12.7x99毫米曳光弹-绿色&lt;br/&gt;发数:100&lt;br/&gt;使用于:M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
-            <Chinese>口徑:12。7x99mm曳光彈-紅色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径:12。7x99毫米曳光弹-红色&lt;br/&gt;发数:100&lt;br/&gt;使用于:M2机枪</Chinesesimp>
+            <Chinese>口徑:12.7x99mm曳光彈-紅色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
+            <Chinesesimp>口径:12.7x99毫米曳光弹-红色&lt;br/&gt;发数:100&lt;br/&gt;使用于:M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
-            <Chinese>口徑:12。7x99mm曳光彈-黃色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径:12。7x99毫米曳光弹-黄色&lt;br/&gt;发数:100&lt;br/&gt;使用于:M2机枪</Chinesesimp>
+            <Chinese>口徑:12.7x99mm曳光彈-黃色&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
+            <Chinesesimp>口径:12.7x99毫米曳光弹-黄色&lt;br/&gt;发数:100&lt;br/&gt;使用于:M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_1000rnd_65x39_belt_tracer_green1">
             <Original>Caliber: 6.5x39 mm Tracer - Red&lt;br /&gt;Rounds: 1000&lt;br /&gt;Used in: Vehicles</Original>
@@ -4322,8 +4322,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_100rnd_127x99_mag1">
             <Original>Caliber: 1.27x99 mm NATO&lt;br/&gt;Rounds: 100&lt;br /&gt;Used in: Mounted M2</Original>
-            <Chinese>口徑:1。27x99mmNATO&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
-            <Chinesesimp>口径:1。27x99毫米北约弹&lt;br/&gt;发数:100&lt;br/&gt;使用于:M2机枪</Chinesesimp>
+            <Chinese>口徑:1.27x99mmNATO&lt;br/&gt;發數:100&lt;br/&gt;使用於:M2機槍</Chinese>
+            <Chinesesimp>口径:1.27x99毫米北约弹&lt;br/&gt;发数:100&lt;br/&gt;使用于:M2机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_12rnd_pg_missiles1">
             <Original>Type: ATGM&lt;br /&gt;Rounds: 12&lt;br /&gt;Used in: Ka-60</Original>
@@ -4402,18 +4402,18 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
-            <Chinese>口徑:12。7x99mm曳光彈-綠色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径:12。7x99毫米曳光弹-绿色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
+            <Chinese>口徑:12.7x99mm曳光彈-綠色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
+            <Chinesesimp>口径:12.7x99毫米曳光弹-绿色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
-            <Chinese>口徑:12。7x99mm曳光彈-紅色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径:12。7x99毫米曳光弹-红色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
+            <Chinese>口徑:12.7x99mm曳光彈-紅色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
+            <Chinesesimp>口径:12.7x99毫米曳光弹-红色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
-            <Chinese>口徑:12。7x99mm曳光彈-黃色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径:12。7x99毫米曳光弹-黄色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
+            <Chinese>口徑:12.7x99mm曳光彈-黃色&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
+            <Chinesesimp>口径:12.7x99毫米曳光弹-黄色&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_2000rnd_65x39_belt1">
             <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 2000&lt;br /&gt;Used in: Vehicles</Original>
@@ -4447,8 +4447,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_127x99_mag1">
             <Original>Caliber: 12.7x99 mm NATO&lt;br/&gt;Rounds: 200&lt;br /&gt;Used in: RCWS</Original>
-            <Chinese>口徑:12。7x99mmNATO&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
-            <Chinesesimp>口径:12。7x99毫米北约弹&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
+            <Chinese>口徑:12.7x99mmNATO&lt;br/&gt;發數:200&lt;br/&gt;使用於:遙控砲塔</Chinese>
+            <Chinesesimp>口径:12.7x99毫米北约弹&lt;br/&gt;发数:200&lt;br/&gt;使用于:遥控炮塔</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_200rnd_65x39_box_tracer_red1">
             <Original>Caliber: 6.5x39 mm Tracer - Green&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: Mk200</Original>
@@ -4517,8 +4517,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_01_tracer_green1">
             <Original>Caliber: .45 ACP Tracers - Green&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
-            <Chinese>口徑:。45ACP曳光彈-綠色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径:。45ACP口径曳光弹-绿色&lt;br/&gt;发数:30&lt;br/&gt;使用于:VerminSMG</Chinesesimp>
+            <Chinese>口徑:.45ACP曳光彈-綠色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
+            <Chinesesimp>口径:.45ACP口径曳光弹-绿色&lt;br/&gt;发数:30&lt;br/&gt;使用于:VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag2">
             <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Sting, Protector</Original>
@@ -4537,8 +4537,8 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_011">
             <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
-            <Chinese>口徑:。45ACP&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径:。45ACP&lt;br/&gt;发数:30&lt;br/&gt;使用于:VerminSMG</Chinesesimp>
+            <Chinese>口徑:.45ACP&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
+            <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:30&lt;br/&gt;使用于:VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokeblue_grenade_shell1">
             <Original>Type: Smoke Rounds - Blue&lt;br /&gt;Rounds: 3&lt;br /&gt;Used in: 3GL</Original>
@@ -4597,8 +4597,8 @@
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_RED1">
             <Original>Caliber: .45 ACP Tracers - Red&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
-            <Chinese>口徑:。45ACP曳光彈-紅色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径:。45ACP曳光弹-红色&lt;br/&gt;发数:30&lt;br/&gt;使用于:VerminSMG</Chinesesimp>
+            <Chinese>口徑:.45ACP曳光彈-紅色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
+            <Chinesesimp>口径:.45ACP曳光弹-红色&lt;br/&gt;发数:30&lt;br/&gt;使用于:VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_40rnd_20mm_g_belt1">
             <Original>Caliber: 20 mm&lt;br/&gt;Rounds: 40&lt;br /&gt;Used in: Grenade Launcher</Original>
@@ -4607,33 +4607,33 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_green1">
             <Original>Caliber: 12.7x99 mm Tracer - Green&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
-            <Chinese>口徑:12。7x99mm曳光彈-綠色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径:12。7x99毫米曳光弹-绿色&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
+            <Chinese>口徑:12.7x99mm曳光彈-綠色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
+            <Chinesesimp>口径:12.7x99毫米曳光弹-绿色&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_red1">
             <Original>Caliber: 12.7x99 mm Tracer - Red&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
-            <Chinese>口徑:12。7x99mm曳光彈-紅色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径:12。7x99毫米曳光弹-红色&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
+            <Chinese>口徑:12.7x99mm曳光彈-紅色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
+            <Chinesesimp>口径:12.7x99毫米曳光弹-红色&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_yellow1">
             <Original>Caliber: 12.7x99 mm Tracer - Yellow&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
-            <Chinese>口徑:12。7x99mm曳光彈-黃色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径:12。7x99毫米曳光弹-黄色&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
+            <Chinese>口徑:12.7x99mm曳光彈-黃色&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
+            <Chinesesimp>口径:12.7x99毫米曳光弹-黄色&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_YELLOW1">
             <Original>Caliber: .45 ACP Tracers - Yellow&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Vermin SMG</Original>
-            <Chinese>口徑:。45ACP曳光彈-黃色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
-            <Chinesesimp>口径:。45ACP曳光弹-黄色&lt;br/&gt;发数:30&lt;br/&gt;使用于:VerminSMG</Chinesesimp>
+            <Chinese>口徑:.45ACP曳光彈-黃色&lt;br/&gt;發數:30&lt;br/&gt;使用於:VerminSMG</Chinese>
+            <Chinesesimp>口径:.45ACP曳光弹-黄色&lt;br/&gt;发数:30&lt;br/&gt;使用于:VerminSMG</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_5rnd_127x108_mag1">
             <Original>Caliber: 12.7x108 mm Russian&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
-            <Chinese>口徑:12。7x108mmRussian&lt;br/&gt;發數:5&lt;br/&gt;使用於:GM6Lynx</Chinese>
-            <Chinesesimp>口径:12。7x108毫米俄制弹&lt;br/&gt;发数:5&lt;br/&gt;使用于:GM6Lynx</Chinesesimp>
+            <Chinese>口徑:12.7x108mmRussian&lt;br/&gt;發數:5&lt;br/&gt;使用於:GM6Lynx</Chinese>
+            <Chinesesimp>口径:12.7x108毫米俄制弹&lt;br/&gt;发数:5&lt;br/&gt;使用于:GM6Lynx</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag1">
             <Original>Caliber: 12.7x99 mm NATO&lt;br/&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
-            <Chinese>口徑:12。7x99mmNATO&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
-            <Chinesesimp>口径:12。7x99毫米北约弹&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
+            <Chinese>口徑:12.7x99mmNATO&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
+            <Chinesesimp>口径:12.7x99毫米北约弹&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_8rnd_12gauge_pellets1">
             <Original>Type: 12 Gauge Pellets&lt;br /&gt;Rounds: 8&lt;br /&gt;Used in: AA-12, M4, Bulldog</Original>
@@ -4686,8 +4686,8 @@ Used in: F35F, L159
           </Key>
           <Key ID="str_a3_cfgmagazines_7rnd_127x33_mag1">
             <Original>Caliber: 12.7x33 mm&lt;br /&gt;Rounds: 7&lt;br /&gt;Used in: Mk26</Original>
-            <Chinese>口徑:12。7x33mm&lt;br/&gt;發數:7&lt;br/&gt;使用於:Mk26</Chinese>
-            <Chinesesimp>口径:12。7x33毫米&lt;br/&gt;发数:7&lt;br/&gt;使用于:Mk26</Chinesesimp>
+            <Chinese>口徑:12.7x33mm&lt;br/&gt;發數:7&lt;br/&gt;使用於:Mk26</Chinese>
+            <Chinesesimp>口径:12.7x33毫米&lt;br/&gt;发数:7&lt;br/&gt;使用于:Mk26</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_handgrenade1">
             <Original>Type: Defensive Grenade&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: Hand</Original>
@@ -5177,7 +5177,7 @@ Used in: F35F, L159</Original>
           <Key ID="str_a3_cfgweapons_medikit1">
             <Original>Enables the treatment of any wounds.&lt;br/&gt;Unlimited number of uses&lt;br /&gt;Used by: Medic</Original>
             <Chinese>可以治療任何傷口。&lt;br/&gt;無限使用&lt;br/&gt;使用人:醫護兵</Chinese>
-            <Chinesesimp>可以治疗任何伤口。&lt;br/&gt;无限使用&lt;br/&gt;使用人:医护兵</Chinesesimp>
+            <Chinesesimp>可以治疗任何伤口。&lt;br/&gt;无限使用&lt;br/&gt;使用人:卫生兵</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_acc_flashlight1">
             <Original>Weapon mounted light.</Original>
@@ -5384,13 +5384,13 @@ Used in: F35F, L159</Original>
         <Container name="DescriptionShort">
           <Key ID="str_a3_cfgweapons_srifle_lrr1">
             <Original>Sniper Rifle&lt;br /&gt;Caliber: .408</Original>
-            <Chinese>狙擊槍&lt;br/&gt;口徑:。408</Chinese>
-            <Chinesesimp>狙击枪&lt;br/&gt;口径:。408</Chinesesimp>
+            <Chinese>狙擊槍&lt;br/&gt;口徑:.408</Chinese>
+            <Chinesesimp>狙击枪&lt;br/&gt;口径:.408</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_gm61">
             <Original>Sniper Rifle&lt;br /&gt;Caliber: 12.7x108 mm Russian</Original>
-            <Chinese>狙擊槍&lt;br/&gt;口徑:12。7x108mmRussian</Chinese>
-            <Chinesesimp>狙击枪&lt;br/&gt;口径:12。7x108毫米俄制弹</Chinesesimp>
+            <Chinese>狙擊槍&lt;br/&gt;口徑:12.7x108mmRussian</Chinese>
+            <Chinesesimp>狙击枪&lt;br/&gt;口径:12.7x108毫米俄制弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder1">
             <Original>Magnification: 5x-25x</Original>
@@ -5496,18 +5496,18 @@ Used in: F35F, L159</Original>
         <Container name="DisplayName">
           <Key ID="str_cfgweapons_hgun_rook40_f0">
             <Original>Rook-40 9 mm</Original>
-            <Chinese>Rook-409mm</Chinese>
-            <Chinesesimp>"白嘴鸦"-409毫米</Chinesesimp>
+            <Chinese>Rook-40 9mm</Chinese>
+            <Chinesesimp>“白嘴鸦”-40 9毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_lrr0">
             <Original>M320 LRR .408</Original>
-            <Chinese>M320LRR。408</Chinese>
-            <Chinesesimp>M320LRR。408狙击步枪</Chinesesimp>
+            <Chinese>M320LRR.408</Chinese>
+            <Chinesesimp>M320LRR.408狙击步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_gm60">
             <Original>GM6 Lynx 12.7 mm</Original>
-            <Chinese>GM6Lynx12。7mm</Chinese>
-            <Chinesesimp>GM6"山猫"12。7毫米</Chinesesimp>
+            <Chinese>GM6Lynx12.7mm</Chinese>
+            <Chinesesimp>GM6“山猫”12.7毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder0">
             <Original>Rangefinder</Original>
@@ -5527,7 +5527,7 @@ Used in: F35F, L159</Original>
           <Key ID="str_a3_cfgweapons_arifle_katiba_gl_f0">
             <Original>Katiba GL 6.5 mm</Original>
             <Chinese>KatibaGL6.5mm</Chinese>
-            <Chinesesimp>卡提巴6.5毫米榴弹发射器型</Chinesesimp>
+            <Chinesesimp>“卡提巴”6.5毫米榴弹发射器型</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_rpg32_aa_f0">
             <Original>RPG-42 HE Rocket</Original>
@@ -5542,17 +5542,17 @@ Used in: F35F, L159</Original>
           <Key ID="str_a3_cfgweapons_lmg_mk2000">
             <Original>Mk200 6.5 mm</Original>
             <Chinese>Mk2006.5mm</Chinese>
-            <Chinesesimp>Mk2006.5毫米轻机枪</Chinesesimp>
+            <Chinesesimp>Mk200 6.5毫米轻机枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_abr0">
             <Original>Mk18 ABR 7.62 mm</Original>
             <Chinese>Mk18ABR7.62mm</Chinese>
-            <Chinesesimp>Mk18ABR7.62毫米先进战斗步枪</Chinesesimp>
+            <Chinesesimp>Mk18ABR 7.62毫米先进战斗步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_f0">
             <Original>Katiba 6.5 mm</Original>
             <Chinese>Katiba6.5mm</Chinese>
-            <Chinesesimp>卡提巴6.5毫米自动步枪</Chinesesimp>
+            <Chinesesimp>“卡提巴”6.5毫米自动步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_nlaw0">
             <Original>PCML</Original>
@@ -5562,27 +5562,27 @@ Used in: F35F, L159</Original>
           <Key ID="str_a3_cfgweapons_arifle_katiba_c_f0">
             <Original>Katiba Carbine 6.5 mm</Original>
             <Chinese>KatibaCarbine6.5mm</Chinese>
-            <Chinesesimp>卡提巴6.5毫米卡宾枪</Chinesesimp>
+            <Chinesesimp>“卡提巴”6.5毫米卡宾枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_law0">
             <Original>RPG-42 Alamut</Original>
             <Chinese>RPG-42Alamut</Chinese>
-            <Chinesesimp>RPG-42""阿拉穆特"火箭筒</Chinesesimp>
+            <Chinesesimp>RPG-42“阿拉穆特”火箭筒</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_sdar0">
             <Original>SDAR 5.56 mm</Original>
             <Chinese>SDAR5.56mm</Chinese>
-            <Chinesesimp>SDAR5.56毫米</Chinesesimp>
+            <Chinesesimp>SDAR 5.56毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_hgun_p070">
             <Original>P07 9 mm</Original>
             <Chinese>P079mm</Chinese>
-            <Chinesesimp>P079毫米手枪</Chinesesimp>
+            <Chinesesimp>P07 9毫米手枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_trg200">
             <Original>TRG-20 5.56 mm</Original>
             <Chinese>TRG-205.56mm</Chinese>
-            <Chinesesimp>TRG-205.56毫米步枪</Chinesesimp>
+            <Chinesesimp>TRG-20 5.56毫米步枪</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgweapons_eglm0">
             <Original>EGLM</Original>
@@ -5592,49 +5592,49 @@ Used in: F35F, L159</Original>
           <Key ID="str_a3_cfgweapons_arifle_trg210">
             <Original>TRG-21 5.56 mm</Original>
             <Chinese>TRG-215.56mm</Chinese>
-            <Chinesesimp>TRG-215.56毫米步枪</Chinesesimp>
+            <Chinesesimp>TRG-21 5.56毫米步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_trg21_gl0">
             <Original>TRG-21 EGLM 5.56 mm</Original>
             <Chinese>TRG-21EGLM5.56mm</Chinese>
-            <Chinesesimp>TRG-21EGLM5.56毫米步枪</Chinesesimp>
+            <Chinesesimp>TRG-21EGLM 5.56毫米步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmx0">
             <Original>MX 6.5 mm</Original>
             <Chinese>MX6.5mm</Chinese>
-            <Chinesesimp>MX6.5毫米步枪</Chinesesimp>
+            <Chinesesimp>MX 6.5毫米步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmx_gl0">
             <Original>MX 3GL 6.5 mm</Original>
             <Chinese>MX3GL6.5mm</Chinese>
-            <Chinesesimp>MX3GL6.5毫米步枪</Chinesesimp>
+            <Chinesesimp>MX3GL 6.5毫米步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmc0">
             <Original>MXC 6.5 mm</Original>
             <Chinese>MXC6.5mm</Chinese>
-            <Chinesesimp>MXC6.5毫米紧凑步枪</Chinesesimp>
+            <Chinesesimp>MXC 6.5毫米紧凑步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xm_lsw0">
             <Original>MX SW 6.5 mm</Original>
             <Chinese>MXSW6.5mm</Chinese>
-            <Chinesesimp>MXSW6.5毫米自动步枪</Chinesesimp>
+            <Chinesesimp>MXSW 6.5毫米自动步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_xmm0">
             <Original>MXM 6.5 mm</Original>
             <Chinese>MXM6.5mm</Chinese>
-            <Chinesesimp>MXM6.5毫米精确射手步枪</Chinesesimp>
+            <Chinesesimp>MXM 6.5毫米精确射手步枪</Chinesesimp>
           </Key>
         </Container>
         <Container name="Library">
           <Key ID="str_a3_cfgweapons_srifle_lrr_library0">
             <Original>M320 Long Range Rifle is a .408 caliber sniper rifle developed in the United States. The M320 LRR is a bolt-action rifle valued for its accuracy up to 2000 m.</Original>
-            <Chinese>M320長距離步槍是在美國開發的一個。408口徑狙擊步槍。M320是一種半自動步槍，估值其準確性可達2000公尺。</Chinese>
-            <Chinesesimp>M320长距离步枪是美国开发的一种。408口径狙击步枪。M320是一种栓动步枪，精确射程可达2000米。</Chinesesimp>
+            <Chinese>M320長距離步槍是在美國開發的一個.408口徑狙擊步槍。M320是一種半自動步槍，估值其準確性可達2000公尺。</Chinese>
+            <Chinesesimp>M320长距离步枪是美国开发的一种.408口径狙击步枪。M320是一种栓动步枪，精确射程可达2000米。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_gm6_library0">
             <Original>The Gepard GM6 Lynx is a semi-automatic anti-material rifle using Russian 12.7x108 mm ammo. Its purpose is to stop or disable targets such as light armored vehicles, light shelters and helicopters from 600–800 m range. Due to its weight and portability, it is good for parachute, airmobile and territorial troops. The barrel recoil technology brings the recoil of the GM6 below the recoil of other rifles in the same category. The weapon is highly accurate and effective up to a range of 1500 m.</Original>
-            <Chinese>GepardGM6Lynx是一種半自動反物質的步槍，使用的是俄國12。7x108mm子彈。它的目的是為了在600–800公尺的射程內阻止目標或者使目標癱瘓，例如輕型裝甲車，輕型掩蔽處以及直升機。因為它的重量和輕便性，這種步槍很適合傘兵，空軍機動部隊以及陸軍部隊。GM6的槍管後座力技術使得它的後坐力小於其他同類型的槍支。這個武器在1500公尺的射程內，具有高精確度和高效能。</Chinese>
-            <Chinesesimp>猎豹GM6"山猫"是一种半自动反器材步枪，使用俄制12。7x108毫米子弹。它的目的是为了在600–800米的射程上阻止或瘫痪目标，如轻型装甲车，轻型掩蔽处以及直升机。因为它的重量和轻便性，这种步枪很适合伞兵，空中机动部队以及地方部队。GM6的枪管后座力技术使得它的后坐力小于其他同类型的枪支。这种武器在1500米的射程内具有高精确度和高效能。</Chinesesimp>
+            <Chinese>GepardGM6Lynx是一種半自動反物質的步槍，使用的是俄國12.7x108mm子彈。它的目的是為了在600–800公尺的射程內阻止目標或者使目標癱瘓，例如輕型裝甲車，輕型掩蔽處以及直升機。因為它的重量和輕便性，這種步槍很適合傘兵，空軍機動部隊以及陸軍部隊。GM6的槍管後座力技術使得它的後坐力小於其他同類型的槍支。這個武器在1500公尺的射程內，具有高精確度和高效能。</Chinese>
+            <Chinesesimp>猎豹GM6"山猫"是一种半自动反器材步枪，使用俄制12.7x108毫米子弹。它的目的是为了在600–800米的射程上阻止或瘫痪目标，如轻型装甲车，轻型掩蔽处以及直升机。因为它的重量和轻便性，这种步枪很适合伞兵，空中机动部队以及地方部队。GM6的枪管后座力技术使得它的后坐力小于其他同类型的枪支。这种武器在1500米的射程内具有高精确度和高效能。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder_library0">
             <Original>A rangefinder is a basic tool for spotting distances and targets. It has several active parts: one being the rangefinder itself on the right side where you can see the distance to the target. AZT displays the azimuth and the mode switches between the visible spectrum and night vision.</Original>
@@ -5669,7 +5669,7 @@ Used in: F35F, L159</Original>
           <Key ID="str_a3_cfgweapons_launch_law_library0">
             <Original>The RPG-42 Alamut is a lightweight, reloadable and recoilless anti-tank weapon fired from the shoulder. It's based on modern Russian rocket launchers and produced in the Middle East. The RPG-42 Rocket is best used against light-armored vehicles and defenses, though when used against a tank, it could damage its tracks.</Original>
             <Chinese>RPG-42Alamut是一把輕量級，可重複裝填並且無後座力，從肩上發射的反坦克武器。它的基礎是現代的俄羅斯火箭發射器，並在中東製造。RPG-42火箭最好用來對付輕型車輛或者是防禦工事，但當它面對坦克時，它通常只能損壞坦克的履帶。</Chinese>
-            <Chinesesimp>RPG-42"阿拉穆特"是一把轻量级，可重复装填并且无后座力的肩扛反坦克武器。它的基础是现代的俄罗斯火箭筒，在中东制造。RPG-42火箭筒最好用来对付轻型车辆或者是防御工事，但当它面对坦克时，它通常也能损坏坦克的履带。</Chinesesimp>
+            <Chinesesimp>RPG-42“阿拉穆特”是一把轻量级，可重复装填并且无后座力的肩扛反坦克武器。它的基础是现代的俄罗斯火箭筒，在中东制造。RPG-42火箭筒最好用来对付轻型车辆或者是防御工事，但当它面对坦克时，它通常也能损坏坦克的履带。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_nlaw_library0">
             <Original>The PCML (Person-Carried Missile Launcher) is a portable, short range, fire-and-forget anti-tank guided missile system. The PCML is a soft-launch system, allowing it to be used from within an enclosed room.</Original>
@@ -6174,7 +6174,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_gmg_20mm0">
           <Original>Mk32 GMG 20 mm</Original>
           <Chinese>Mk3220mm榴彈機槍</Chinese>
-          <Chinesesimp>Mk3220毫米榴弹机枪</Chinesesimp>
+          <Chinesesimp>Mk32 20毫米榴弹机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_missiles_dagr0">
           <Original>DAGR</Original>
@@ -6193,23 +6193,23 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_hmg_1270">
           <Original>RCWS HMG 12.7 mm</Original>
-          <Chinese>遙控砲塔12。7mm重機槍</Chinese>
-          <Chinesesimp>遥控炮塔12。7毫米重机枪</Chinesesimp>
+          <Chinese>遙控砲塔12.7mm重機槍</Chinese>
+          <Chinesesimp>遥控炮塔12.7毫米重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_m20">
           <Original>M2 HMG .50</Original>
           <Chinese>M2.50重機槍</Chinese>
-          <Chinesesimp>M2.50口径重机枪</Chinesesimp>
+          <Chinesesimp>M2 .50口径重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_mk300">
           <Original>Mk30 HMG .50</Original>
           <Chinese>Mk30.50重機槍</Chinese>
-          <Chinesesimp>Mk30.50口径重机枪</Chinesesimp>
+          <Chinesesimp>Mk30 .50口径重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_hmg_nsvt0">
           <Original>NSVT-M HMG 12.7 mm </Original>
-          <Chinese>NSVT-M12。7mm重機槍</Chinese>
-          <Chinesesimp>NSVT-M12。7毫米重机枪</Chinesesimp>
+          <Chinese>NSVT-M12.7mm重機槍</Chinese>
+          <Chinesesimp>NSVT-M 12.7毫米重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_laserdesignator_mounted0">
           <Original>Laser Marker</Original>
@@ -6219,7 +6219,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_lmg_m2000">
           <Original>M200 LMG 6.5 mm</Original>
           <Chinese>M2006.5mm輕機槍</Chinese>
-          <Chinesesimp>M2006.5毫米轻机枪</Chinesesimp>
+          <Chinesesimp>M200 6.5毫米轻机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_lmg_minigun0">
           <Original>Minigun 6.5 mm</Original>
@@ -6239,7 +6239,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_m134_minigun0">
           <Original>2x M134 Minigun 7.62 mm</Original>
           <Chinese>2xM1347.62mm迷你砲機槍</Chinese>
-          <Chinesesimp>双联装M1347.62毫米"米尼岗"机枪</Chinesesimp>
+          <Chinesesimp>双联装M134 7.62毫米"米尼岗"机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_m134_minigun_highrof0">
           <Original>4000rpm</Original>
@@ -6309,7 +6309,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_cfgweapons_muzzle_snds_b0">
           <Original>Sound Suppressor (7.62 mm)</Original>
           <Chinese>消音器(7.62mm)</Chinese>
-          <Chinesesimp>消音器(7.62mm)</Chinesesimp>
+          <Chinesesimp>消音器(7.62毫米)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_arco1">
           <Original>Advanced Rifle Combat Optics&lt;br /&gt;Magnification: 2x</Original>
@@ -6319,7 +6319,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h0">
           <Original>Sound Suppressor (6.5 mm)</Original>
           <Chinese>消音器(6.5mm)</Chinese>
-          <Chinesesimp>消音器(6.5mm)</Chinesesimp>
+          <Chinesesimp>消音器(6.5毫米)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_arco0">
           <Original>ARCO</Original>
@@ -6334,7 +6334,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_cfgweapons_muzzle_snds_l0">
           <Original>Sound Suppressor (9 mm)</Original>
           <Chinese>消音器(9mm)</Chinese>
-          <Chinesesimp>消音器(9mm)</Chinesesimp>
+          <Chinesesimp>消音器(9毫米)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_aco0">
           <Original>ACO (Red)</Original>
@@ -10755,7 +10755,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_civwomen_firstnames44">
           <Original>Nevaeh</Original>
           <Chinese>Nevaeh</Chinese>
-          <Chinesesimp>內瓦亚</Chinesesimp>
+          <Chinesesimp>内瓦亚</Chinesesimp>
         </Key>
         <Key ID="str_a3_natomen_firstnames122">
           <Original>Spencer</Original>
@@ -13562,7 +13562,7 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_cfgvehicleclasses_wreck0">
           <Original>Wrecks</Original>
-          <Chinese>残骸</Chinese>
+          <Chinese>?骸</Chinese>
           <Chinesesimp>残骸</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgeditorsubcategories_edsubcat_vests0">
@@ -14367,17 +14367,17 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_cfgvehicles_b_heli_light_01_armory0">
           <Original>A light single-engine helicopter used in special operations by the US Army since the Vietnam War. It now exists in several variants used by both military and civilian transport. The AH-9 Pawnee variant is a light helicopter with the ability to carry anti-ground fixed forward-firing weapons such as unguided rockets and machine guns to provide direct air-support for the special operations forces. The MH-9 Hummingbird is mostly used as a special forces troop transport with two outboard benches.</Original>
           <Chinese>一種輕型的單引擎直升機，在越戰時被美軍用於特種作戰。現存幾個變種，分別應用於軍事和民用運輸。AH-9Pawnee直升機是一種輕型直升機，可搭載反地面固定前射武器，如非導引火箭和機槍，為特種部隊提供空中火力支援。而MH-9Hummingbird則因其在靠近外側的位置有兩個外席，而常被當做特種部隊的運輸工具。</Chinese>
-          <Chinesesimp>一种轻型的单引擎直升机，在越战时被美军用于特种作战。现存几个变种，分别应用于军事和民用运输。AH-9Pawnee直升机是一种轻型直升机，可搭载反地面固定前射武器，如非导引火箭和机枪，为特种部队提供空中火力支援。而MH-9Hummingbird则因其在靠近外侧的位置有两个外席，而常被当做特种部队的运输工具。</Chinesesimp>
+          <Chinesesimp>一种轻型的单引擎直升机，在越战时被美军用于特种作战。现存几个变种，分别应用于军事和民用运输。AH-9“波尼”直升机是一种轻型直升机，可搭载反地面固定前射武器，如非制导火箭和机枪，为特种部队提供空中火力支援。而MH-9“蜂鸟”轻型直升机则因其在靠近外侧的位置有两个外席，而常被当做特种部队的运输工具。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_rubber_duck_base_library0">
           <Original>An inflatable boat, often nicknamed 'Rubber Duck', is a lightweight boat constructed from tubes containing pressurized gas. Inflatables typically come in lengths between 2 to 7 meters. Due to their speed, weight and portability, inflatable boats are used in diverse roles such as lifeguard and rescue boats and even more often in the military as a landing craft.</Original>
-          <Chinese>突擊橡皮艇，綽號"橡皮鴨"，是一種輕量級的橡皮艇，由加壓氣體進行充氣。充氣後的長度介於2到7公尺之間。由於其速度性，輕重量與便攜性，使這種橡皮艇能扮演不同的角色，像是用於救生的救生艇，但它更常被用作軍事上的登陸用途。</Chinese>
-          <Chinesesimp>突击橡皮艇，绰号"橡皮鸭"，是一种轻量级的橡皮艇，由加压气体进行充气。充气后的长度介于2到7公尺之间。由于其速度性，轻重量与便携性，使这种橡皮艇能扮演不同的角色，像是用于救生的救生艇，但它更常被用作军事上的登陆用途。</Chinesesimp>
+          <Chinese>突擊橡皮艇，綽號“橡皮鴨”，是一種輕量級的橡皮艇，由加壓氣體進行充氣。充氣後的長度介於2到7公尺之間。由於其速度性，輕重量與便攜性，使這種橡皮艇能扮演不同的角色，像是用於救生的救生艇，但它更常被用作軍事上的登陸用途。</Chinese>
+          <Chinesesimp>突击橡皮艇，绰号“橡皮鸭”，是一种轻量级的橡皮艇，由加压气体进行充气。充气后的长度介于2到7公尺之间。由于其速度性，轻重量与便携性，使这种橡皮艇能扮演不同的角色，像是用于救生的救生艇，但它更常被用作军事上的登陆用途。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_mrap_02_Base_Library0">
           <Original>The Ifrit is a new Mine-Resistant Ambush Protected (MRAP) vehicle designed and manufactured in Russia. Its strengths lie in reliability in extreme weather conditions and crew protection, but its manufacturing costs are somewhat higher compared to other MRAPs. The Ifrit can be fitted with a RCWS turret and armed with a 12.7 mm heavy machine gun or a 40 mm grenade launcher.</Original>
-          <Chinese>Ifrit是由俄羅斯設計與製造的一種全新防地雷反伏擊車(MRAP)。它的優點是能夠在極端的天候條件下保持可靠性並保護組員免受傷害，但它的製造成本略比其它的防地雷反伏擊車高。Ifrit可以在其車頂裝上遙控砲塔，並可以在砲塔上裝設12。7mm重機槍或40mm榴彈發射器。</Chinese>
-          <Chinesesimp>“焰灵”是由俄罗斯设计与制造的一种全新防地雷反伏击车(MRAP)。它的优点是能够在极端的天候条件下保持可靠性并保护组员免受伤害，但其制造成本比其他的防地雷反伏击车略高。“焰灵”可以在其车顶装上遥控炮塔，并可以在炮塔上装设12。7毫米重机枪或40毫米榴弹发射器。</Chinesesimp>
+          <Chinese>Ifrit是由俄羅斯設計與製造的一種全新防地雷反伏擊車(MRAP)。它的優點是能夠在極端的天候條件下保持可靠性並保護組員免受傷害，但它的製造成本略比其它的防地雷反伏擊車高。Ifrit可以在其車頂裝上遙控砲塔，並可以在砲塔上裝設12.7mm重機槍或40mm榴彈發射器。</Chinese>
+          <Chinesesimp>“焰灵”是由俄罗斯设计与制造的一种全新防地雷反伏击车(MRAP)。它的优点是能够在极端的天候条件下保持可靠性并保护组员免受伤害，但其制造成本比其他的防地雷反伏击车略高。“焰灵”可以在其车顶装上遥控炮塔，并可以在炮塔上装设12.7毫米重机枪或40毫米榴弹发射器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_armed_01_base_library0">
           <Original>This V shaped boat with two powerful jet impellers excels in speed and maneuverability. It is used by both BLUFOR and OPFOR as a coastline guard boat and for special operations. The speedboat has a front-facing, remote controlled GMG turret. The OPFOR version is commonly equipped with a HMG in the rear, while BLUFOR speedboats are armed with a minigun.</Original>
@@ -14391,8 +14391,8 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_cfgvehicles_MRAP_01_base_library0">
           <Original>The Hunter is a Mine-Resistant Ambush Protected (MRAP) vehicle manufactured by US arms factories to provide troops with enhanced protection. The armored hull can withstand light weapons and protects the crew against landmines and improvised explosive devices. Even though the heavy armor and powerful engine cause increased fuel consumption, it has been favored by frontline troops over the lighter vehicles for its easy maintenance and good protection level.&lt;br /&gt;Armed version of the sturdy Hunter MRAP vehicle is fitted with a Remotely Controlled Weapons System turret. The turret is fitted with the universal 12.7 mm heavy machinegun or the multi-role 40 mm Grenade Machine Gun. The armed Hunters are used for troop transport in combat zones, as light reconnaissance vehicles or even in fire support role in COIN operations.</Original>
-          <Chinese>Hunter是由美國軍火工廠製造的一種防地雷反伏擊車(MRAP)，提供軍隊增強的保護。它的裝甲可以抵禦輕武器，並且保護乘員免受地雷或簡易爆炸裝置傷害的危險。即使因其使用重裝甲和強大的引擎而讓燃料消耗增加，但它一直因易於維護且有著優良的保護，而讓前線部隊喜愛它遠大於喜愛輕型車輛。&lt;br/&gt;武裝版本的Hunter，其裝有一個遙控砲塔。這個砲塔使用通用12。7mm重機槍或多功能40mm榴彈機槍。武裝版的Hunter被用於在作戰區域運輸部隊，偵察敵情或提供步兵火力支援。</Chinese>
-          <Chinesesimp>Hunter是由美国军火工厂制造的一种防地雷反伏击车(MRAP)，提供军队增强的保护。它的装甲可以抵御轻武器，并且保护乘员免受地雷或简易爆炸装置伤害的危险。即使因其使用重装甲和强大的引擎而让燃料消耗增加，但它一直因易于维护且有着优良的保护，而让前线部队喜爱它远大于喜爱轻型车辆。&lt;br/&gt;武装版本的Hunter，其装有一个遥控炮塔。这个炮塔使用通用12。7mm重机枪或多功能40mm榴弹机枪。武装版的Hunter被用于在作战区域运输部队，侦察敌情或提供步兵火力支援。</Chinesesimp>
+          <Chinese>Hunter是由美國軍火工廠製造的一種防地雷反伏擊車(MRAP)，提供軍隊增強的保護。它的裝甲可以抵禦輕武器，並且保護乘員免受地雷或簡易爆炸裝置傷害的危險。即使因其使用重裝甲和強大的引擎而讓燃料消耗增加，但它一直因易於維護且有著優良的保護，而讓前線部隊喜愛它遠大於喜愛輕型車輛。&lt;br/&gt;武裝版本的Hunter，其裝有一個遙控砲塔。這個砲塔使用通用12.7mm重機槍或多功能40mm榴彈機槍。武裝版的Hunter被用於在作戰區域運輸部隊，偵察敵情或提供步兵火力支援。</Chinese>
+          <Chinesesimp>Hunter是由美国军火工厂制造的一种防地雷反伏击车(MRAP)，提供军队增强的保护。它的装甲可以抵御轻武器，并且保护乘员免受地雷或简易爆炸装置伤害的危险。即使因其使用重装甲和强大的引擎而让燃料消耗增加，但它一直因易于维护且有着优良的保护，而让前线部队喜爱它远大于喜爱轻型车辆。&lt;br/&gt;武装版本的Hunter，其装有一个遥控炮塔。这个炮塔使用通用12.7mm重机枪或多功能40mm榴弹机枪。武装版的Hunter被用于在作战区域运输部队，侦察敌情或提供步兵火力支援。</Chinesesimp>
         </Key>
       </Container>
       <Container name="DynamicLoadouts">
@@ -15289,7 +15289,7 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_combatengage">
           <Original>CombatEngage</Original>
-          <Chinese>戰鬥交戦</Chinese>
+          <Chinese>戰鬥交?</Chinese>
           <Chinesesimp>战斗交战</Chinesesimp>
         </Key>
         <Key ID="str_a3_combatcontact_1">
@@ -15849,12 +15849,12 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3___1_1___flank_right">
           <Original>%1.1 - Flank right</Original>
-          <Chinese>%1.1-往右翼攻撃</Chinese>
+          <Chinese>%1.1-往右翼攻?</Chinese>
           <Chinesesimp>%1.1-往右翼攻击</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___flank_left">
           <Original>%1.1 - Flank left</Original>
-          <Chinese>%1.1-往左翼攻撃</Chinese>
+          <Chinese>%1.1-往左翼攻?</Chinese>
           <Chinesesimp>%1.1-往左翼攻击</Chinesesimp>
         </Key>
         <Key ID="str_a3___1_1___extinguish_fire">
@@ -16406,7 +16406,7 @@ Used in: F35F, L159</Original>
       </Key>
       <Key ID="str_a3_airstation0">
         <Original>Air Station Mike-26</Original>
-        <Chinese>Mike-26基地台</Chinese>
+        <Chinese>Mike-26基地臺</Chinese>
         <Chinesesimp>Mike-26航空站</Chinesesimp>
       </Key>
       <Key ID="str_a3_campmaxwell0">
@@ -16588,11 +16588,11 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_cfgworlds_stratis_loadingtext4">
           <Original>The coasts of Stratis are dangerous. Many shipwrecks can be found underwater near the coastline, including two large fishing trawlers Sofia and Apex Marshall.</Original>
           <Chinese>Stratis的海岸是很危險的。許多船隻的殘骸都分佈在沿岸的海底下，其中包括了兩艘大型拖網漁船Sofia和ApexMarshall。</Chinese>
-          <Chinesesimp>斯特拉蒂斯的海岸是很危险的。许多船只的残骸都分布在沿岸的海底下，其中包括了两艘大型拖网渔船“索菲娅”号和“阿派克斯警长”号。</Chinesesimp>
+          <Chinesesimp>斯特拉蒂斯的海岸是很危险的。许多船只的残骸都分布在沿岸的海底下，其中包括了两艘大型拖网渔船"索菲娅"号和"阿派克斯警长"号。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_stratis_loadingtext3">
           <Original>Stratis is of volcanic origin, with many rocks and crevices.</Original>
-          <Chinese>Stratis是一座火山島，因此島上有許多的碎石及岩縫。</Chinese>
+          <Chinese>Stratis是一座火山島，因此島上有許多的碎石及巖縫。</Chinese>
           <Chinesesimp>斯特拉蒂斯是一座火山岛，因此岛上有许多的碎石及岩缝。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_stratis_loadingtext2">
@@ -16613,7 +16613,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_cfgworlds_stratis_loadingtext12">
           <Original>The Spartan, a monument in the southern part of Stratis, was built to honor the memory of Altian soldiers fighting alongside the Allies in the WW2's Operation Torch.</Original>
           <Chinese>斯巴達紀念碑，建造在Stratis的南端，它被用來緬懷那些Altian士兵在二次世界大戰的時候，與盟軍一同在火炬行動中並肩作戰。</Chinese>
-          <Chinesesimp>斯巴达纪念碑建造在斯特拉蒂斯岛的南端，用来缅怀在二次世界大战时期与盟军一同在“火炬行动”中并肩作战的阿尔蒂斯士兵。</Chinesesimp>
+          <Chinesesimp>斯巴达纪念碑建造在斯特拉蒂斯岛的南端，用来缅怀在二次世界大战时期与盟军一同在"火炬行动"中并肩作战的阿尔蒂斯士兵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_stratis_loadingtext11">
           <Original>Camp Rogain was named after the favorite pastime of NATO troops stationed in the area.</Original>
@@ -16653,7 +16653,7 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_workstand_f0">
           <Original>Workstand</Original>
-          <Chinese>工作台</Chinese>
+          <Chinese>工作臺</Chinese>
           <Chinesesimp>工作台</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_lampstreet_small_f0">
@@ -17047,7 +17047,7 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cashdesk_f0">
           <Original>Cashdesk</Original>
-          <Chinese>收銀台</Chinese>
+          <Chinese>收銀臺</Chinese>
           <Chinesesimp>收银台</Chinesesimp>
         </Key>
       </Container>
@@ -17236,7 +17236,7 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_airport_tower_f0">
           <Original>Airport Control Tower</Original>
-          <Chinese>機場塔台</Chinese>
+          <Chinese>機場塔臺</Chinese>
           <Chinesesimp>机场塔台</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_dp_transformer_f0">
@@ -17944,7 +17944,7 @@ Used in: F35F, L159</Original>
       <Container name="Wrecks">
         <Key ID="str_a3_cfgvehicles_land_wreck_skodovka_f0">
           <Original>Car Wreck</Original>
-          <Chinese>汽車残骸</Chinese>
+          <Chinese>汽車?骸</Chinese>
           <Chinesesimp>汽车残骸</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_truck_dropside_f0">
@@ -18350,17 +18350,17 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_rowboat_v1_f0">
           <Original>Rowboat (v1)</Original>
-          <Chinese>划船(1型)</Chinese>
+          <Chinese>劃船(1型)</Chinese>
           <Chinesesimp>划船(1型)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_rowboat_v2_f0">
           <Original>Rowboat (v2)</Original>
-          <Chinese>划船(2型)</Chinese>
+          <Chinese>劃船(2型)</Chinese>
           <Chinesesimp>划船(2型)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_rowboat_v3_f0">
           <Original>Rowboat (v3)</Original>
-          <Chinese>划船(3型)</Chinese>
+          <Chinese>劃船(3型)</Chinese>
           <Chinesesimp>划船(3型)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_sea_wall_f0">
@@ -18375,7 +18375,7 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pier_addon0">
           <Original>Pier Platform</Original>
-          <Chinese>碼頭平台</Chinese>
+          <Chinese>碼頭平臺</Chinese>
           <Chinesesimp>码头平台</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pier_box_f0">
