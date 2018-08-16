@@ -1,899 +1,275 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="Arma3">
-    <Package name="Language_Sams">
-        <Container name="Weapon_Names">
-            <Key ID="STR_A3_Missile_HARM_weapon_name">
-                <Original>AGM-88C HARM</Original>
-                <Chinese>AGM-88C高速反輻射導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>AGM-88C HARM</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>AGM-88C HARM</Korean>
-                <Chinesesimp>AGM-88C高速反辐射导弹</Chinesesimp>
-                <Japanese>AGM-88C HARM</Japanese>
-                <Turkish>AGM-88C HARM</Turkish>
-            </Key>
-            <Key ID="STR_A3_Bomb_SDB_weapon_name">
-                <Original>Small Diameter Bomb</Original>
-                <Chinese>小直徑炸彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Small Diameter Bomb</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Small Diameter Bomb</Korean>
-                <Chinesesimp>小直径炸弹</Chinesesimp>
-                <Japanese>Small Diameter Bomb</Japanese>
-                <Turkish>Small Diameter Bomb</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_KH58_weapon_name">
-                <Original>KH58 ARM</Original>
-                <Chinese>Kh-58反輻射導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>KH58 ARM</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>KH58 ARM</Korean>
-                <Chinesesimp>Kh-58反辐射导弹</Chinesesimp>
-                <Japanese>KH58 ARM</Japanese>
-                <Turkish>KH58 ARM</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_mim145_weapon_name">
-                <Original>MIM-145 Defender</Original>
-                <Chinese>MIM-145「防禦者」地空導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>MIM-145 Defender</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>MIM-145 Defender</Korean>
-                <Chinesesimp>MIM-145“防御者”地空导弹</Chinesesimp>
-                <Japanese>MIM-145 Defender</Japanese>
-                <Turkish>MIM-145 Defender</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_S750_weapon_name">
-                <Original>S-750 Rhea</Original>
-                <Chinese>S-750「美洲鴕」地空導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>S-750 Rhea</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>S-750 Rhea</Korean>
-                <Chinesesimp>S-750“美洲鸵”地空导弹</Chinesesimp>
-                <Japanese>S-750 Rhea</Japanese>
-                <Turkish>S-750 Rhea</Turkish>
-            </Key>
-        </Container>
-        <Container name="Magazine_Names">
-            <Key ID="STR_A3_Missile_HARM_x1_magazine_name">
-                <Original>AGM-88C HARM x1</Original>
-                <Chinese>AGM-88C「哈姆」x1</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>AGM-88C HARM x1</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>AGM-88C HARM x1</Korean>
-                <Chinesesimp>AGM-88C“哈姆”x1</Chinesesimp>
-                <Japanese>AGM-88C HARM x1</Japanese>
-                <Turkish>AGM-88C HARM x1</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_HARM_x1_magazine_shortName">
-                <Original>ARM</Original>
-                <Chinese>反輻射導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>ARM</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>ARM</Korean>
-                <Chinesesimp>反辐射导弹</Chinesesimp>
-                <Japanese>ARM</Japanese>
-                <Turkish>ARM</Turkish>
-            </Key>
-            <Key ID="STR_A3_Bomb_SDB_magazine_description">
-                <Original>250lb, high-explosive, infrared/laser-guided bomb</Original>
-                <Chinese>250磅，高爆，紅外/激光制導炸彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>250lb, high-explosive, infrared/laser-guided bomb</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>250lb, high-explosive, infrared/laser-guided bomb</Korean>
-                <Chinesesimp>250磅，高爆，红外/激光制导炸弹</Chinesesimp>
-                <Japanese>250lb, high-explosive, infrared/laser-guided bomb</Japanese>
-                <Turkish>250lb, high-explosive, infrared/laser-guided bomb</Turkish>
-            </Key>
-            <Key ID="STR_A3_Bomb_SDB_magazine_shortName">
-                <Original>Bomb</Original>
-                <Chinese>炸彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Bomb</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Bomb</Korean>
-                <Chinesesimp>炸弹</Chinesesimp>
-                <Japanese>Bomb</Japanese>
-                <Turkish>Bomb</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_HARM_x1_magazine_description">
-                <Original>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Original>
-                <Chinese>中距離反輻射高爆戰鬥部空面導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Korean>
-                <Chinesesimp>中距离反辐射高爆战斗部空面导弹</Chinesesimp>
-                <Japanese>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Japanese>
-                <Turkish>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Turkish>
-            </Key>
-            <Key ID="STR_A3_Bomb_SDB_x1_magazine_name">
-                <Original>GBU SDB x1</Original>
-                <Chinese>激光制導小直徑炸彈x1</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>GBU SDB x1</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>GBU SDB x1</Korean>
-                <Chinesesimp>激光制导小直径炸弹x1</Chinesesimp>
-                <Japanese>GBU SDB x1</Japanese>
-                <Turkish>GBU SDB x1</Turkish>
-            </Key>
-            <Key ID="STR_A3_Bomb_SDB_x4_magazine_name">
-                <Original>GBU SDB x4</Original>
-                <Chinese>激光制導小直徑炸彈x4</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>GBU SDB x4</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>GBU SDB x4</Korean>
-                <Chinesesimp>激光制导小直径炸弹x4</Chinesesimp>
-                <Japanese>GBU SDB x4</Japanese>
-                <Turkish>GBU SDB x4</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_KH58_x1_magazine_name">
-                <Original>KH58 ARM x1</Original>
-                <Chinese>Kh-58反輻射導彈x1</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>KH58 ARM x1</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>KH58 ARM x1</Korean>
-                <Chinesesimp>Kh-58反辐射导弹x1</Chinesesimp>
-                <Japanese>KH58 ARM x1</Japanese>
-                <Turkish>KH58 ARM x1</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_KH58_x1_magazine_shortName">
-                <Original>ARM</Original>
-                <Chinese>反輻射導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>ARM</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>ARM</Korean>
-                <Chinesesimp>反辐射导弹</Chinesesimp>
-                <Japanese>ARM</Japanese>
-                <Turkish>ARM</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_KH58_x1_magazine_description">
-                <Original>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Original>
-                <Chinese>中距離反輻射高爆戰鬥部空面導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Korean>
-                <Chinesesimp>中距离反辐射高爆战斗部空面导弹</Chinesesimp>
-                <Japanese>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Japanese>
-                <Turkish>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_mim145_x4_magazine_name">
-                <Original>Defender AA</Original>
-                <Chinese>「防禦者」防空系統</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Defender AA</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Defender AA</Korean>
-                <Chinesesimp>“防御者”防空系统</Chinesesimp>
-                <Japanese>Defender AA</Japanese>
-                <Turkish>Defender AA</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_mim145_datalink_x4_magazine_description">
-                <Original>Defender Surface-to-Air Missile (MIM-145 with data-link)</Original>
-                <Chinese>「防禦者」地空導彈（安裝數據鏈的MIM-145）</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Defender Surface-to-Air Missile (MIM-145 with data-link)</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Defender Surface-to-Air Missile (MIM-145 with data-link)</Korean>
-                <Chinesesimp>“防御者”地空导弹（安装数据链的MIM-145）</Chinesesimp>
-                <Japanese>Defender Surface-to-Air Missile (MIM-145 with data-link)</Japanese>
-                <Turkish>Defender Surface-to-Air Missile (MIM-145 with data-link)</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_mim145_x4_magazine_shortName">
-                <Original>SAM LR</Original>
-                <Chinese>遠程地空導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>SAM LR</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>SAM LR</Korean>
-                <Chinesesimp>远程地空导弹</Chinesesimp>
-                <Japanese>SAM LR</Japanese>
-                <Turkish>SAM LR</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_mim145_datalink_x4_magazine_name">
-                <Original>Defender AA (data-link)</Original>
-                <Chinese>「防禦者」防空系統（數據鏈）</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Defender AA (data-link)</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Defender AA (data-link)</Korean>
-                <Chinesesimp>“防御者”防空系统（数据链）</Chinesesimp>
-                <Japanese>Defender AA (data-link)</Japanese>
-                <Turkish>Defender AA (data-link)</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_mim145_datalink_x4_magazine_shortName">
-                <Original>SAM LR</Original>
-                <Chinese>遠程地空導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>SAM LR</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>SAM LR</Korean>
-                <Chinesesimp>远程地空导弹</Chinesesimp>
-                <Japanese>SAM LR</Japanese>
-                <Turkish>SAM LR</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_mim145_x4_magazine_description">
-                <Original>Defender Surface-to-Air Missile (MIM-145)</Original>
-                <Chinese>「防禦者」地空導彈(MIM-145)</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Defender Surface-to-Air Missile (MIM-145)</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Defender Surface-to-Air Missile (MIM-145)</Korean>
-                <Chinesesimp>“防御者”地空导弹(MIM-145)</Chinesesimp>
-                <Japanese>Defender Surface-to-Air Missile (MIM-145)</Japanese>
-                <Turkish>Defender Surface-to-Air Missile (MIM-145)</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_S750_x4_magazine_name">
-                <Original>Rhea AA</Original>
-                <Chinese>「美洲鴕」空空導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Rhea AA</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Rhea AA</Korean>
-                <Chinesesimp>“美洲鸵”空空导弹</Chinesesimp>
-                <Japanese>Rhea AA</Japanese>
-                <Turkish>Rhea AA</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_S750_x4_magazine_shortName">
-                <Original>SAM LR</Original>
-                <Chinese>遠程地空導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>SAM LR</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>SAM LR</Korean>
-                <Chinesesimp>远程地空导弹</Chinesesimp>
-                <Japanese>SAM LR</Japanese>
-                <Turkish>SAM LR</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_S750_datalink_x4_magazine_description">
-                <Original>Rhea Surface-to-Air Missile (S-750 with data-link)</Original>
-                <Chinese>「美洲鴕」地空導彈 (S-750安裝數據鏈)</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Rhea Surface-to-Air Missile (S-750 with data-link)</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Rhea Surface-to-Air Missile (S-750 with data-link)</Korean>
-                <Chinesesimp>“美洲鸵”地空导弹 (S-750安装数据链)</Chinesesimp>
-                <Japanese>Rhea Surface-to-Air Missile (S-750 with data-link)</Japanese>
-                <Turkish>Rhea Surface-to-Air Missile (S-750 with data-link)</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_S750_datalink_x4_magazine_name">
-                <Original>Rhea AA (data-link)</Original>
-                <Chinese>「美洲鴕」空空導彈(數據鏈)</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Rhea AA (data-link)</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Rhea AA (data-link)</Korean>
-                <Chinesesimp>“美洲鸵”空空导弹(数据链)</Chinesesimp>
-                <Japanese>Rhea AA (data-link)</Japanese>
-                <Turkish>Rhea AA (data-link)</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_S750_x4_magazine_description">
-                <Original>Rhea Surface-to-Air Missile (S-750)</Original>
-                <Chinese>「美洲鴕」地空導彈(S-750)</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Rhea Surface-to-Air Missile (S-750)</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Rhea Surface-to-Air Missile (S-750)</Korean>
-                <Chinesesimp>“美洲鸵”地空导弹(S-750)</Chinesesimp>
-                <Japanese>Rhea Surface-to-Air Missile (S-750)</Japanese>
-                <Turkish>Rhea Surface-to-Air Missile (S-750)</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_S750_datalink_x4_magazine_shortName">
-                <Original>SAM LR</Original>
-                <Chinese>遠程地空導彈</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>SAM LR</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>SAM LR</Korean>
-                <Chinesesimp>远程地空导弹</Chinesesimp>
-                <Japanese>SAM LR</Japanese>
-                <Turkish>SAM LR</Turkish>
-            </Key>
-        </Container>
-        <Container name="Static_Weapon_Systems">
-            <Key ID="STR_A3_Radar_System_01_name">
-                <Original>AN/MPQ-105 Radar</Original>
-                <Chinese>AN/MPQ-105雷達</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>AN/MPQ-105 Radar</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>AN/MPQ-105 Radar</Korean>
-                <Chinesesimp>AN/MPQ-105雷达</Chinesesimp>
-                <Japanese>AN/MPQ-105 Radar</Japanese>
-                <Turkish>AN/MPQ-105 Radar</Turkish>
-            </Key>
-            <Key ID="STR_A3_Radar_System_02_name">
-                <Original>R-750 Cronus Radar</Original>
-                <Chinese>R-750「克羅諾斯」雷達</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>R-750 Cronus Radar</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>R-750 Cronus Radar</Korean>
-                <Chinesesimp>R-750“克罗诺斯”雷达</Chinesesimp>
-                <Japanese>R-750 Cronus Radar</Japanese>
-                <Turkish>R-750 Cronus Radar</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_03_name">
-                <Original>MIM-145 Defender</Original>
-                <Chinese>MIM-145「防禦者」</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>MIM-145 Defender</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>MIM-145 Defender</Korean>
-                <Chinesesimp>MIM-145“防御者”</Chinesesimp>
-                <Japanese>MIM-145 Defender</Japanese>
-                <Turkish>MIM-145 Defender</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_04_name">
-                <Original>S-750 Rhea</Original>
-                <Chinese>S-750「美洲鴕」</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>S-750 Rhea</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>S-750 Rhea</Korean>
-                <Chinesesimp>S-750“美洲鸵”</Chinesesimp>
-                <Japanese>S-750 Rhea</Japanese>
-                <Turkish>S-750 Rhea</Turkish>
-            </Key>
-        </Container>
-        <Container name="Turret_position_Names">
-            <Key ID="STR_A3_Radar_System_01_operator_displayName">
-                <Original>AN/MPQ-105 Radar Operator</Original>
-                <Chinese>AN/MPQ-105雷達操作員</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>AN/MPQ-105 Radar Operator</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>AN/MPQ-105 Radar Operator</Korean>
-                <Chinesesimp>AN/MPQ-105雷达操作员</Chinesesimp>
-                <Japanese>AN/MPQ-105 Radar Operator</Japanese>
-                <Turkish>AN/MPQ-105 Radar Operator</Turkish>
-            </Key>
-            <Key ID="STR_A3_Radar_System_02_operator_displayName">
-                <Original>R-750 Cronus Radar Operator</Original>
-                <Chinese>R-750「克羅努斯」雷達操作員</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>R-750 Cronus Radar Operator</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>R-750 Cronus Radar Operator</Korean>
-                <Chinesesimp>R-750“克罗努斯”雷达操作员</Chinesesimp>
-                <Japanese>R-750 Cronus Radar Operator</Japanese>
-                <Turkish>R-750 Cronus Radar Operator</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_03_operator_displayName">
-                <Original>MIM-145 Defender Operator</Original>
-                <Chinese>MIM-145「防禦者」操作員</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>MIM-145 Defender Operator</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>MIM-145 Defender Operator</Korean>
-                <Chinesesimp>MIM-145“防御者”操作员</Chinesesimp>
-                <Japanese>MIM-145 Defender Operator</Japanese>
-                <Turkish>MIM-145 Defender Operator</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_04_operator_displayName">
-                <Original>S-750 Rhea Operator</Original>
-                <Chinese>S-750「美洲鴕」操作員</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>S-750 Rhea Operator</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>S-750 Rhea Operator</Korean>
-                <Chinesesimp>S-750“美洲鸵”操作员</Chinesesimp>
-                <Japanese>S-750 Rhea Operator</Japanese>
-                <Turkish>S-750 Rhea Operator</Turkish>
-            </Key>
-        </Container>
-        <Container name="Hints_And_Descriptions">
-            <Key ID="STR_A3_Missile_HARM_weapon_hint_description">
-                <Original>Medium-range, semi-active radar-guided Anti-Radiation missile.</Original>
-                <Chinese>中程半主動雷達制導反輻射導彈。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Medium-range, semi-active radar-guided Anti-Radiation missile.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Medium-range, semi-active radar-guided Anti-Radiation missile.</Korean>
-                <Chinesesimp>中程半主动雷达制导反辐射导弹。</Chinesesimp>
-                <Japanese>Medium-range, semi-active radar-guided Anti-Radiation missile.</Japanese>
-                <Turkish>Medium-range, semi-active radar-guided Anti-Radiation missile.</Turkish>
-            </Key>
-            <Key ID="STR_A3_Bomb_SDB_weapon_hint_description">
-                <Original>Air-to-surface IR precision guided bomb. This weapon is designed to have less collateral damage.</Original>
-                <Chinese>空地紅外制導精確制導彈藥。該武器用於降低連帶損傷。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Air-to-surface IR precision guided bomb. This weapon is designed to have less collateral damage.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Air-to-surface IR precision guided bomb. This weapon is designed to have less collateral damage.</Korean>
-                <Chinesesimp>空地红外制导精确制导弹药。该武器用于降低连带损伤。</Chinesesimp>
-                <Japanese>Air-to-surface IR precision guided bomb. This weapon is designed to have less collateral damage.</Japanese>
-                <Turkish>Air-to-surface IR precision guided bomb. This weapon is designed to have less collateral damage.</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_KH58_weapon_hint_description">
-                <Original>Medium-range, semi-active radar-guided Anti-Radiation missile.</Original>
-                <Chinese>中程半主動雷達制導反輻射導彈。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Medium-range, semi-active radar-guided Anti-Radiation missile.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Medium-range, semi-active radar-guided Anti-Radiation missile.</Korean>
-                <Chinesesimp>中程半主动雷达制导反辐射导弹。</Chinesesimp>
-                <Japanese>Medium-range, semi-active radar-guided Anti-Radiation missile.</Japanese>
-                <Turkish>Medium-range, semi-active radar-guided Anti-Radiation missile.</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_mim145_weapon_hint_description">
-                <Original>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Original>
-                <Chinese>遠程，半主動雷達制導地空導彈。在超視距範圍內靈活而致命。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Korean>
-                <Chinesesimp>远程，半主动雷达制导地空导弹。在超视距范围内灵活而致命。</Chinesesimp>
-                <Japanese>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Japanese>
-                <Turkish>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Turkish>
-            </Key>
-            <Key ID="STR_A3_Missile_S750_weapon_hint_description">
-                <Original>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Original>
-                <Chinese>遠程半主動雷達制導地空導彈。在超視距範圍內靈活而致命。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Korean>
-                <Chinesesimp>远程半主动雷达制导地空导弹。在超视距范围内灵活而致命。</Chinesesimp>
-                <Japanese>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Japanese>
-                <Turkish>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Turkish>
-            </Key>
-            <Key ID="STR_A3_Radar_System_01_hint_description">
-                <Original>The AN/MPQ-105 radar system is designed for medium-to-long-range aerial threat detection. Its companion MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats.</Original>
-                <Chinese>AN/MPQ-105雷達系統用於中遠距離對空威脅探測。其搭配使用的MIM-145「防禦者」地空導彈系統被用於保衛北約領空免遭敵國入侵。通常配置在高價值目標如機場和軍事基地附近以保護其免遭敵遠程空中威脅。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>The AN/MPQ-105 radar system is designed for medium-to-long-range aerial threat detection. Its companion MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>The AN/MPQ-105 radar system is designed for medium-to-long-range aerial threat detection. Its companion MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats.</Korean>
-                <Chinesesimp>AN/MPQ-105雷达系统用于中远距离对空威胁探测。其搭配使用的MIM-145“防御者”地空导弹系统被用于保卫北约领空免遭敌国入侵。通常配置在高价值目标如机场和军事基地附近以保护其免遭敌远程空中威胁。</Chinesesimp>
-                <Japanese>The AN/MPQ-105 radar system is designed for medium-to-long-range aerial threat detection. Its companion MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats.</Japanese>
-                <Turkish>The AN/MPQ-105 radar system is designed for medium-to-long-range aerial threat detection. Its companion MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats.</Turkish>
-            </Key>
-            <Key ID="STR_A3_Radar_System_01_DLCbrowser_description">
-                <Original>One of four Surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
-                <Chinese>四種用於保衛高價值目標免遭空襲的防空系統中的一種。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>One of four Surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>One of four Surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Korean>
-                <Chinesesimp>四种用于保卫高价值目标免遭空袭的防空系统中的一种。</Chinesesimp>
-                <Japanese>One of four Surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Japanese>
-                <Turkish>One of four Surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Turkish>
-            </Key>
-            <Key ID="STR_A3_Radar_System_01_DLCbrowser_title">
-                <Original>AN/MPQ-105 radar</Original>
-                <Chinese>AN/MPQ-105雷達</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>AN/MPQ-105 radar</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>AN/MPQ-105 radar</Korean>
-                <Chinesesimp>AN/MPQ-105雷达</Chinesesimp>
-                <Japanese>AN/MPQ-105 radar</Japanese>
-                <Turkish>AN/MPQ-105 radar</Turkish>
-            </Key>
-            <Key ID="STR_A3_Radar_System_02_hint_description">
-                <Original>The R-750 Cronus radar system is designed for medium-to-long-range aerial threat detection. Its companion S-750 Rhea Surface-Air-Missile system was designed by Russian/CSAT joint syndicate to protect airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. </Original>
-                <Chinese>R-750「克羅努斯」雷達系統被用於探測中遠距離空中威脅。其搭配的S-750「美洲鴕」地空導彈系統被俄羅斯和廣協同盟用於保衛空域免遭外敵入侵。通常會被部署在高價值目標諸如機場和軍事基地附近以阻止遠程空襲。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>The R-750 Cronus radar system is designed for medium-to-long-range aerial threat detection. Its companion S-750 Rhea Surface-Air-Missile system was designed by Russian/CSAT joint syndicate to protect airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. </English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>The R-750 Cronus radar system is designed for medium-to-long-range aerial threat detection. Its companion S-750 Rhea Surface-Air-Missile system was designed by Russian/CSAT joint syndicate to protect airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. </Korean>
-                <Chinesesimp>R-750“克罗努斯”雷达系统被用于探测中远距离空中威胁。其搭配的S-750“美洲鸵”地空导弹系统被俄罗斯和广协同盟用于保卫空域免遭外敌入侵。通常会被部署在高价值目标诸如机场和军事基地附近以阻止远程空袭。</Chinesesimp>
-                <Japanese>The R-750 Cronus radar system is designed for medium-to-long-range aerial threat detection. Its companion S-750 Rhea Surface-Air-Missile system was designed by Russian/CSAT joint syndicate to protect airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. </Japanese>
-                <Turkish>The R-750 Cronus radar system is designed for medium-to-long-range aerial threat detection. Its companion S-750 Rhea Surface-Air-Missile system was designed by Russian/CSAT joint syndicate to protect airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. </Turkish>
-            </Key>
-            <Key ID="STR_A3_Radar_System_02_DLCbrowser_description">
-                <Original>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
-                <Chinese>四種用於保衛高價值目標免遭空襲的防空系統中的一種。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Korean>
-                <Chinesesimp>四种用于保卫高价值目标免遭空袭的防空系统中的一种。</Chinesesimp>
-                <Japanese>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Japanese>
-                <Turkish>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Turkish>
-            </Key>
-            <Key ID="STR_A3_Radar_System_02_DLCbrowser_title">
-                <Original>R-750 Cronus Radar</Original>
-                <Chinese>R-750「克羅努斯」雷達</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>R-750 Cronus Radar</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>R-750 Cronus Radar</Korean>
-                <Chinesesimp>R-750“克罗努斯”雷达</Chinesesimp>
-                <Japanese>R-750 Cronus Radar</Japanese>
-                <Turkish>R-750 Cronus Radar</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_03_hint_description">
-                <Original>The MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Defender missiles, and connected to AN/MPQ-105 radar via data-link, this system is a serious threat to any opponent.</Original>
-                <Chinese>MIM-145「防禦者」地空導彈系統被用於保衛北約領空免遭敵國入侵。通常配置在高價值目標如機場和軍事基地附近以保護其免遭敵遠程空中威脅。裝備遠程的「防禦者」導彈，並能和AN/MPQ-105雷達通過數據鏈連接，該系統對任何敵對目標都有巨大威脅。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>The MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Defender missiles, and connected to AN/MPQ-105 radar via data-link, this system is a serious threat to any opponent.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>The MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Defender missiles, and connected to AN/MPQ-105 radar via data-link, this system is a serious threat to any opponent.</Korean>
-                <Chinesesimp>MIM-145“防御者”地空导弹系统被用于保卫北约领空免遭敌国入侵。通常配置在高价值目标如机场和军事基地附近以保护其免遭敌远程空中威胁。装备远程的“防御者”导弹，并能和AN/MPQ-105雷达通过数据链连接，该系统对任何敌对目标都有巨大威胁。</Chinesesimp>
-                <Japanese>The MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Defender missiles, and connected to AN/MPQ-105 radar via data-link, this system is a serious threat to any opponent.</Japanese>
-                <Turkish>The MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Defender missiles, and connected to AN/MPQ-105 radar via data-link, this system is a serious threat to any opponent.</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_03_DLCbrowser_description">
-                <Original>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
-                <Chinese>四種用於保衛高價值目標免遭空襲的防空系統中的一種。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Korean>
-                <Chinesesimp>四种用于保卫高价值目标免遭空袭的防空系统中的一种。</Chinesesimp>
-                <Japanese>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Japanese>
-                <Turkish>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_03_DLCbrowser_title">
-                <Original>MIM-145 Defender Surface-Air-Missile system</Original>
-                <Chinese>MIM-145「防禦者」地空導彈系統</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>MIM-145 Defender Surface-Air-Missile system</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>MIM-145 Defender Surface-Air-Missile system</Korean>
-                <Chinesesimp>MIM-145“防御者”地空导弹系统</Chinesesimp>
-                <Japanese>MIM-145 Defender Surface-Air-Missile system</Japanese>
-                <Turkish>MIM-145 Defender Surface-Air-Missile system</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_04_hint_description">
-                <Original>The S-750 Rhea Surface-Air-Missile system was designed by Russia to defend its airspace against hostile intrusion. The asset was adapted by CSAT based on a joint CSAT/Russian arms syndicate deal. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Rhea missiles, and connected to R-750 Cronus radar via data-link, this system is a serious threat to any opponent.</Original>
-                <Chinese>S-750「美洲鴕」地空導彈系統是俄羅斯設計用於保護其領空免遭敵國入侵的。該系統在一次廣協同盟/俄羅斯一攬子軍貿協定中被廣協同盟引進。通常被部署在高價值目標諸如機場和軍事基地周邊以阻止遠程空中威脅。裝備遠程的「美洲鴕」導彈，並能和R-750「克羅努斯」雷達通過數據鏈連接，該系統對任何敵對目標都有巨大威脅。 </Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>The S-750 Rhea Surface-Air-Missile system was designed by Russia to defend its airspace against hostile intrusion. The asset was adapted by CSAT based on a joint CSAT/Russian arms syndicate deal. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Rhea missiles, and connected to R-750 Cronus radar via data-link, this system is a serious threat to any opponent.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>The S-750 Rhea Surface-Air-Missile system was designed by Russia to defend its airspace against hostile intrusion. The asset was adapted by CSAT based on a joint CSAT/Russian arms syndicate deal. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Rhea missiles, and connected to R-750 Cronus radar via data-link, this system is a serious threat to any opponent.</Korean>
-                <Chinesesimp>S-750“美洲鸵”地空导弹系统是俄罗斯设计用于保护其领空免遭敌国入侵的。该系统在一次广协同盟/俄罗斯一揽子军贸协定中被广协同盟引进。通常被部署在高价值目标诸如机场和军事基地周边以阻止远程空中威胁。装备远程的“美洲鸵”导弹，并能和R-750“克罗努斯”雷达通过数据链连接，该系统对任何敌对目标都有巨大威胁。 </Chinesesimp>
-                <Japanese>The S-750 Rhea Surface-Air-Missile system was designed by Russia to defend its airspace against hostile intrusion. The asset was adapted by CSAT based on a joint CSAT/Russian arms syndicate deal. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Rhea missiles, and connected to R-750 Cronus radar via data-link, this system is a serious threat to any opponent.</Japanese>
-                <Turkish>The S-750 Rhea Surface-Air-Missile system was designed by Russia to defend its airspace against hostile intrusion. The asset was adapted by CSAT based on a joint CSAT/Russian arms syndicate deal. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Rhea missiles, and connected to R-750 Cronus radar via data-link, this system is a serious threat to any opponent.</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_04_DLCbrowser_description">
-                <Original>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
-                <Chinese>四種用於保衛高價值目標免遭空襲的防空系統中的一種。</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Korean>
-                <Chinesesimp>四种用于保卫高价值目标免遭空袭的防空系统中的一种。</Chinesesimp>
-                <Japanese>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Japanese>
-                <Turkish>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Turkish>
-            </Key>
-            <Key ID="STR_A3_SAM_System_04_DLCbrowser_title">
-                <Original>S-750 Rhea Surface-Air-Missile system</Original>
-                <Chinese>S-750「美洲鴕」地空導彈系統</Chinese>
-                <French>to be done</French>
-                <Spanish>to be done</Spanish>
-                <Italian>to be done</Italian>
-                <Polish>to be done</Polish>
-                <Russian>to be done</Russian>
-                <German>to be done</German>
-                <Czech>to be done</Czech>
-                <English>S-750 Rhea Surface-Air-Missile system</English>
-                <Portuguese>to be done</Portuguese>
-                <Korean>S-750 Rhea Surface-Air-Missile system</Korean>
-                <Chinesesimp>S-750“美洲鸵”地空导弹系统</Chinesesimp>
-                <Japanese>S-750 Rhea Surface-Air-Missile system</Japanese>
-                <Turkish>S-750 Rhea Surface-Air-Missile system</Turkish>
-            </Key>
-        </Container>
-    </Package>
+  <Package name="Language_Sams">
+    <Container name="Weapon_Names">
+      <Key ID="STR_A3_Missile_HARM_weapon_name">
+        <Original>AGM-88C HARM</Original>
+        <Chinese>AGM-88C高速反輻射導彈</Chinese>
+        <Chinesesimp>AGM-88C高速反辐射导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Bomb_SDB_weapon_name">
+        <Original>Small Diameter Bomb</Original>
+        <Chinese>小直徑炸彈</Chinese>
+        <Chinesesimp>小直径炸弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_KH58_weapon_name">
+        <Original>KH58 ARM</Original>
+        <Chinese>Kh-58反輻射導彈</Chinese>
+        <Chinesesimp>Kh-58反辐射导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_mim145_weapon_name">
+        <Original>MIM-145 Defender</Original>
+        <Chinese>MIM-145「防禦者」地空導彈</Chinese>
+        <Chinesesimp>MIM-145“防御者”地空导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_S750_weapon_name">
+        <Original>S-750 Rhea</Original>
+        <Chinese>S-750「美洲鴕」地空導彈</Chinese>
+        <Chinesesimp>S-750“美洲鸵”地空导弹</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Magazine_Names">
+      <Key ID="STR_A3_Missile_HARM_x1_magazine_name">
+        <Original>AGM-88C HARM x1</Original>
+        <Chinese>AGM-88C「哈姆」x1</Chinese>
+        <Chinesesimp>AGM-88C“哈姆”x1</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_HARM_x1_magazine_shortName">
+        <Original>ARM</Original>
+        <Chinese>反輻射導彈</Chinese>
+        <Chinesesimp>反辐射导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Bomb_SDB_magazine_description">
+        <Original>250lb, high-explosive, infrared/laser-guided bomb</Original>
+        <Chinese>250磅，高爆，紅外/激光制導炸彈</Chinese>
+        <Chinesesimp>250磅，高爆，红外/激光制导炸弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Bomb_SDB_magazine_shortName">
+        <Original>Bomb</Original>
+        <Chinese>炸彈</Chinese>
+        <Chinesesimp>炸弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_HARM_x1_magazine_description">
+        <Original>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Original>
+        <Chinese>中距離反輻射高爆戰鬥部空面導彈</Chinese>
+        <Chinesesimp>中距离反辐射高爆战斗部空面导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Bomb_SDB_x1_magazine_name">
+        <Original>GBU SDB x1</Original>
+        <Chinese>激光制導小直徑炸彈x1</Chinese>
+        <Chinesesimp>激光制导小直径炸弹x1</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Bomb_SDB_x4_magazine_name">
+        <Original>GBU SDB x4</Original>
+        <Chinese>激光制導小直徑炸彈x4</Chinese>
+        <Chinesesimp>激光制导小直径炸弹x4</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_KH58_x1_magazine_name">
+        <Original>KH58 ARM x1</Original>
+        <Chinese>Kh-58反輻射導彈x1</Chinese>
+        <Chinesesimp>Kh-58反辐射导弹x1</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_KH58_x1_magazine_shortName">
+        <Original>ARM</Original>
+        <Chinese>反輻射導彈</Chinese>
+        <Chinesesimp>反辐射导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_KH58_x1_magazine_description">
+        <Original>Medium-range, anti-radiation, air-to-surface missile with high-explosive warhead</Original>
+        <Chinese>中距離反輻射高爆戰鬥部空面導彈</Chinese>
+        <Chinesesimp>中距离反辐射高爆战斗部空面导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_mim145_x4_magazine_name">
+        <Original>Defender AA</Original>
+        <Chinese>「防禦者」防空系統</Chinese>
+        <Chinesesimp>“防御者”防空系统</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_mim145_datalink_x4_magazine_description">
+        <Original>Defender Surface-to-Air Missile (MIM-145 with data-link)</Original>
+        <Chinese>「防禦者」地空導彈(安裝數據鏈的MIM-145)</Chinese>
+        <Chinesesimp>“防御者”地空导弹(安装数据链的MIM-145)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_mim145_x4_magazine_shortName">
+        <Original>SAM LR</Original>
+        <Chinese>遠程地空導彈</Chinese>
+        <Chinesesimp>远程地空导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_mim145_datalink_x4_magazine_name">
+        <Original>Defender AA (data-link)</Original>
+        <Chinese>「防禦者」防空系統(數據鏈)</Chinese>
+        <Chinesesimp>“防御者”防空系统(数据链)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_mim145_datalink_x4_magazine_shortName">
+        <Original>SAM LR</Original>
+        <Chinese>遠程地空導彈</Chinese>
+        <Chinesesimp>远程地空导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_mim145_x4_magazine_description">
+        <Original>Defender Surface-to-Air Missile (MIM-145)</Original>
+        <Chinese>「防禦者」地空導彈(MIM-145)</Chinese>
+        <Chinesesimp>“防御者”地空导弹(MIM-145)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_S750_x4_magazine_name">
+        <Original>Rhea AA</Original>
+        <Chinese>「美洲鴕」空空導彈</Chinese>
+        <Chinesesimp>“美洲鸵”空空导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_S750_x4_magazine_shortName">
+        <Original>SAM LR</Original>
+        <Chinese>遠程地空導彈</Chinese>
+        <Chinesesimp>远程地空导弹</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_S750_datalink_x4_magazine_description">
+        <Original>Rhea Surface-to-Air Missile (S-750 with data-link)</Original>
+        <Chinese>「美洲鴕」地空導彈(S-750安裝數據鏈)</Chinese>
+        <Chinesesimp>“美洲鸵”地空导弹(S-750安装数据链)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_S750_datalink_x4_magazine_name">
+        <Original>Rhea AA (data-link)</Original>
+        <Chinese>「美洲鴕」空空導彈(數據鏈)</Chinese>
+        <Chinesesimp>“美洲鸵”空空导弹(数据链)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_S750_x4_magazine_description">
+        <Original>Rhea Surface-to-Air Missile (S-750)</Original>
+        <Chinese>「美洲鴕」地空導彈(S-750)</Chinese>
+        <Chinesesimp>“美洲鸵”地空导弹(S-750)</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_S750_datalink_x4_magazine_shortName">
+        <Original>SAM LR</Original>
+        <Chinese>遠程地空導彈</Chinese>
+        <Chinesesimp>远程地空导弹</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Static_Weapon_Systems">
+      <Key ID="STR_A3_Radar_System_01_name">
+        <Original>AN/MPQ-105 Radar</Original>
+        <Chinese>AN/MPQ-105雷達</Chinese>
+        <Chinesesimp>AN/MPQ-105雷达</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Radar_System_02_name">
+        <Original>R-750 Cronus Radar</Original>
+        <Chinese>R-750「克羅諾斯」雷達</Chinese>
+        <Chinesesimp>R-750“克罗诺斯”雷达</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_03_name">
+        <Original>MIM-145 Defender</Original>
+        <Chinese>MIM-145「防禦者」</Chinese>
+        <Chinesesimp>MIM-145“防御者”</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_04_name">
+        <Original>S-750 Rhea</Original>
+        <Chinese>S-750「美洲鴕」</Chinese>
+        <Chinesesimp>S-750“美洲鸵”</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Turret_position_Names">
+      <Key ID="STR_A3_Radar_System_01_operator_displayName">
+        <Original>AN/MPQ-105 Radar Operator</Original>
+        <Chinese>AN/MPQ-105雷達操作員</Chinese>
+        <Chinesesimp>AN/MPQ-105雷达操作员</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Radar_System_02_operator_displayName">
+        <Original>R-750 Cronus Radar Operator</Original>
+        <Chinese>R-750「克羅努斯」雷達操作員</Chinese>
+        <Chinesesimp>R-750“克罗努斯”雷达操作员</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_03_operator_displayName">
+        <Original>MIM-145 Defender Operator</Original>
+        <Chinese>MIM-145「防禦者」操作員</Chinese>
+        <Chinesesimp>MIM-145“防御者”操作员</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_04_operator_displayName">
+        <Original>S-750 Rhea Operator</Original>
+        <Chinese>S-750「美洲鴕」操作員</Chinese>
+        <Chinesesimp>S-750“美洲鸵”操作员</Chinesesimp>
+      </Key>
+    </Container>
+    <Container name="Hints_And_Descriptions">
+      <Key ID="STR_A3_Missile_HARM_weapon_hint_description">
+        <Original>Medium-range, semi-active radar-guided Anti-Radiation missile.</Original>
+        <Chinese>中程半主動雷達制導反輻射導彈。</Chinese>
+        <Chinesesimp>中程半主动雷达制导反辐射导弹。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Bomb_SDB_weapon_hint_description">
+        <Original>Air-to-surface IR precision guided bomb. This weapon is designed to have less collateral damage.</Original>
+        <Chinese>空地紅外制導精確制導彈藥。該武器用於降低連帶損傷。</Chinese>
+        <Chinesesimp>空地红外制导精确制导弹药。该武器用于降低连带损伤。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_KH58_weapon_hint_description">
+        <Original>Medium-range, semi-active radar-guided Anti-Radiation missile.</Original>
+        <Chinese>中程半主動雷達制導反輻射導彈。</Chinese>
+        <Chinesesimp>中程半主动雷达制导反辐射导弹。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_mim145_weapon_hint_description">
+        <Original>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Original>
+        <Chinese>遠程，半主動雷達制導地空導彈。在超視距範圍內靈活而致命。</Chinese>
+        <Chinesesimp>远程，半主动雷达制导地空导弹。在超视距范围内灵活而致命。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Missile_S750_weapon_hint_description">
+        <Original>Long-range, semi-active radar-guided Surface-to-Air missile. Agile and deadly at beyond-visual range.</Original>
+        <Chinese>遠程半主動雷達制導地空導彈。在超視距範圍內靈活而致命。</Chinese>
+        <Chinesesimp>远程半主动雷达制导地空导弹。在超视距范围内灵活而致命。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Radar_System_01_hint_description">
+        <Original>The AN/MPQ-105 radar system is designed for medium-to-long-range aerial threat detection. Its companion MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats.</Original>
+        <Chinese>AN/MPQ-105雷達系統用於中遠距離對空威脅探測。其搭配使用的MIM-145「防禦者」地空導彈系統被用於保衛北約領空免遭敵國入侵。通常配置在高價值目標如機場和軍事基地附近以保護其免遭敵遠程空中威脅。</Chinese>
+        <Chinesesimp>AN/MPQ-105雷达系统用于中远距离对空威胁探测。其搭配使用的MIM-145“防御者”地空导弹系统被用于保卫北约领空免遭敌国入侵。通常配置在高价值目标如机场和军事基地附近以保护其免遭敌远程空中威胁。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Radar_System_01_DLCbrowser_description">
+        <Original>One of four Surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
+        <Chinese>四種用於保衛高價值目標免遭空襲的防空系統中的一種。</Chinese>
+        <Chinesesimp>四种用于保卫高价值目标免遭空袭的防空系统中的一种。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Radar_System_01_DLCbrowser_title">
+        <Original>AN/MPQ-105 radar</Original>
+        <Chinese>AN/MPQ-105雷達</Chinese>
+        <Chinesesimp>AN/MPQ-105雷达</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Radar_System_02_hint_description">
+        <Original>The R-750 Cronus radar system is designed for medium-to-long-range aerial threat detection. Its companion S-750 Rhea Surface-Air-Missile system was designed by Russian/CSAT joint syndicate to protect airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. </Original>
+        <Chinese>R-750「克羅努斯」雷達系統被用於探測中遠距離空中威脅。其搭配的S-750「美洲鴕」地空導彈系統被俄羅斯和廣協同盟用於保衛空域免遭外敵入侵。通常會被部署在高價值目標諸如機場和軍事基地附近以阻止遠程空襲。</Chinese>
+        <Chinesesimp>R-750“克罗努斯”雷达系统被用于探测中远距离空中威胁。其搭配的S-750“美洲鸵”地空导弹系统被俄罗斯和广协同盟用于保卫空域免遭外敌入侵。通常会被部署在高价值目标诸如机场和军事基地附近以阻止远程空袭。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Radar_System_02_DLCbrowser_description">
+        <Original>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
+        <Chinese>四種用於保衛高價值目標免遭空襲的防空系統中的一種。</Chinese>
+        <Chinesesimp>四种用于保卫高价值目标免遭空袭的防空系统中的一种。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_Radar_System_02_DLCbrowser_title">
+        <Original>R-750 Cronus Radar</Original>
+        <Chinese>R-750「克羅努斯」雷達</Chinese>
+        <Chinesesimp>R-750“克罗努斯”雷达</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_03_hint_description">
+        <Original>The MIM-145 Defender Surface-Air-Missile system was designed to protect NATO airspace against hostile intrusion. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Defender missiles, and connected to AN/MPQ-105 radar via data-link, this system is a serious threat to any opponent.</Original>
+        <Chinese>MIM-145「防禦者」地空導彈系統被用於保衛北約領空免遭敵國入侵。通常配置在高價值目標如機場和軍事基地附近以保護其免遭敵遠程空中威脅。裝備遠程的「防禦者」導彈，並能和AN/MPQ-105雷達通過數據鏈連接，該系統對任何敵對目標都有巨大威脅。</Chinese>
+        <Chinesesimp>MIM-145“防御者”地空导弹系统被用于保卫北约领空免遭敌国入侵。通常配置在高价值目标如机场和军事基地附近以保护其免遭敌远程空中威胁。装备远程的“防御者”导弹，并能和AN/MPQ-105雷达通过数据链连接，该系统对任何敌对目标都有巨大威胁。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_03_DLCbrowser_description">
+        <Original>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
+        <Chinese>四種用於保衛高價值目標免遭空襲的防空系統中的一種。</Chinese>
+        <Chinesesimp>四种用于保卫高价值目标免遭空袭的防空系统中的一种。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_03_DLCbrowser_title">
+        <Original>MIM-145 Defender Surface-Air-Missile system</Original>
+        <Chinese>MIM-145「防禦者」地空導彈系統</Chinese>
+        <Chinesesimp>MIM-145“防御者”地空导弹系统</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_04_hint_description">
+        <Original>The S-750 Rhea Surface-Air-Missile system was designed by Russia to defend its airspace against hostile intrusion. The asset was adapted by CSAT based on a joint CSAT/Russian arms syndicate deal. Typically found near high-value assets such as airfields and military bases to protect against long-range aerial threats. Armed with long-range Rhea missiles, and connected to R-750 Cronus radar via data-link, this system is a serious threat to any opponent.</Original>
+        <Chinese>S-750「美洲鴕」地空導彈系統是俄羅斯設計用於保護其領空免遭敵國入侵的。該系統在一次廣協同盟/俄羅斯一攬子軍貿協定中被廣協同盟引進。通常被部署在高價值目標諸如機場和軍事基地周邊以阻止遠程空中威脅。裝備遠程的「美洲鴕」導彈，並能和R-750「克羅努斯」雷達通過數據鏈連接，該系統對任何敵對目標都有巨大威脅。</Chinese>
+        <Chinesesimp>S-750“美洲鸵”地空导弹系统是俄罗斯设计用于保护其领空免遭敌国入侵的。该系统在一次广协同盟/俄罗斯一揽子军贸协定中被广协同盟引进。通常被部署在高价值目标诸如机场和军事基地周边以阻止远程空中威胁。装备远程的“美洲鸵”导弹，并能和R-750“克罗努斯”雷达通过数据链连接，该系统对任何敌对目标都有巨大威胁。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_04_DLCbrowser_description">
+        <Original>One of four surface-to-air defense systems designed to protect high-value targets from hostile airstrikes.</Original>
+        <Chinese>四種用於保衛高價值目標免遭空襲的防空系統中的一種。</Chinese>
+        <Chinesesimp>四种用于保卫高价值目标免遭空袭的防空系统中的一种。</Chinesesimp>
+      </Key>
+      <Key ID="STR_A3_SAM_System_04_DLCbrowser_title">
+        <Original>S-750 Rhea Surface-Air-Missile system</Original>
+        <Chinese>S-750「美洲鴕」地空導彈系統</Chinese>
+        <Chinesesimp>S-750“美洲鸵”地空导弹系统</Chinesesimp>
+      </Key>
+    </Container>
+  </Package>
 </Project>
