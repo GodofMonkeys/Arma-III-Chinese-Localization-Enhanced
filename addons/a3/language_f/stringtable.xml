@@ -13562,7 +13562,7 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="str_a3_cfgvehicleclasses_wreck0">
           <Original>Wrecks</Original>
-          <Chinese>?骸</Chinese>
+          <Chinese>殘骸</Chinese>
           <Chinesesimp>残骸</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgeditorsubcategories_edsubcat_vests0">
@@ -17944,7 +17944,7 @@ Used in: F35F, L159</Original>
       <Container name="Wrecks">
         <Key ID="str_a3_cfgvehicles_land_wreck_skodovka_f0">
           <Original>Car Wreck</Original>
-          <Chinese>汽車?骸</Chinese>
+          <Chinese>汽車殘骸</Chinese>
           <Chinesesimp>汽车残骸</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_truck_dropside_f0">
