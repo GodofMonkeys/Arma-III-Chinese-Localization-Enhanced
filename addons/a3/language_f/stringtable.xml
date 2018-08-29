@@ -281,8 +281,8 @@
       </Key>
       <Key ID="str_a3_alpha_goals0">
         <Original>The Beta scales up from the Alpha version, which was designed to involve you more directly in the development of Arma 3™ on several levels. Compared to the Alpha, the Beta introduces the Combined Arms element, which is the nature of the Arma gameplay.%1As with the Alpha, the goal of the Beta remains to be an opportunity for early access to the game while it's still in development and to provide feedback to the team and affect the final game.%1Your objective is to locate performance, balancing and design issues. Together, as player and developer, we can ensure a more solid release of Arma 3.</Original>
-        <Chinese>Beta版比Alpha版規模要大一些，它讓你直接體驗不同水平的ARMA3TM。與Alpha版相比，Beta版加入了聯合作戰的元素，這是ARMA遊戲特有的特點。%1與Alpha版相同，Beta版的目標同樣是讓玩家有機會提早接觸到遊戲，並回報BUG以及其他建議給開發團隊，讓最後的正式遊戲更加完整。%1通過玩家與開發團隊一起努力，期望能讓最終的正式遊戲變得更加完整。</Chinese>
-        <Chinesesimp>Beta版比Alpha版规模要大一些，它让你直接体验不同水平的ARMA3TM。与Alpha版相比，Beta版加入了联合作战的元素，这是ARMA游戏特有的特点。%1与Alpha版相同，Beta版的目标同样是让玩家有机会提早接触到游戏，并回报BUG以及其他建议给开发团队，让最后的正式游戏更加完整。%1通过玩家与开发团队一起努力，期望能让最终的正式游戏变得更加完整。</Chinesesimp>
+        <Chinese>Beta版比Alpha版規模要大一些，它讓你直接體驗不同水平的ARMA3?。與Alpha版相比，Beta版加入了聯合作戰的元素，這是ARMA遊戲特有的特點。%1與Alpha版相同，Beta版的目標同樣是讓玩家有機會提早接觸到遊戲，並回報BUG以及其他建議給開發團隊，讓最後的正式遊戲更加完整。%1通過玩家與開發團隊一起努力，期望能讓最終的正式遊戲變得更加完整。</Chinese>
+        <Chinesesimp>Beta版比Alpha版规模要大一些，它让你直接体验不同水平的武装突袭3?。与Alpha版相比，Beta版加入了联合作战的元素，这是武装突袭游戏特有的特点。%1与Alpha版相同，Beta版的目标同样是让玩家有机会提早接触到游戏，并回报BUG以及其他建议给开发团队，让最后的正式游戏更加完整。%1通过玩家与开发团队一起努力，期望能让最终的正式游戏变得更加完整。</Chinesesimp>
       </Key>
       <Key ID="str_a3_alpha_feedback0">
         <Original>We intend this to involve you more directly in the development process and give you the opportunity to affect the final game. Your feedback and bug reports are welcome and can help us to improve the game significantly.%1Please visit %3&lt;a href='http://feedback.arma3.com/'&gt;feedback.arma3.com&lt;/a&gt;%4 to learn how to submit feedback. To discuss the game and related topics, please visit %3&lt;a href='http://forums.bistudio.com/'&gt;forums.bistudio.com&lt;/a&gt;%4. Thank you kindly for your support!</Original>
@@ -602,7 +602,7 @@
       <Key ID="str_a3_alpha_content0">
         <Original>The Arma 3 Beta features the Island of 'Stratis', which hosts 20 km² of Mediterranean terrain. Playable content is considerably limited.%1%2&lt;t&gt;&lt;/t&gt;Stratis (20 km²)%1%2&lt;t&gt;&lt;/t&gt;4 Factions%1%2&lt;t&gt;&lt;/t&gt;20 Weapons%1%2&lt;t&gt;&lt;/t&gt;18 Vehicles%1%2&lt;t&gt;&lt;/t&gt;3 Multiplayer Scenarios%1%2&lt;t&gt;&lt;/t&gt;8 Singleplayer Showcases%1%2&lt;t&gt;&lt;/t&gt;4 Firing Drills%1%2&lt;t&gt;&lt;/t&gt;Multiple Weapon Attachments%1%2&lt;t&gt;&lt;/t&gt;Customizable Gear%1%2&lt;t&gt;&lt;/t&gt;Scenario Editor%1%2&lt;t&gt;&lt;/t&gt;Modding%1The Beta version is limited in comparison to the full version. We intend this to involve you more directly in the development process and give you the opportunity to affect the final game.</Original>
         <Chinese>ArmA3Beta版提供了一個名叫'Stratis'的地中海小島，面積大概有20平方公里左右。可以試玩的內容很有限。%1%2&lt;t&gt;&lt;/t&gt;Stratis(20平方公里)%1%2&lt;t&gt;&lt;/t&gt;4個派別%1%2&lt;t&gt;&lt;/t&gt;20種武器%1%2&lt;t&gt;&lt;/t&gt;18輛載具%1%2&lt;t&gt;&lt;/t&gt;3個多人任務%1%2&lt;t&gt;&lt;/t&gt;8個單人任務展示%1%2&lt;t&gt;&lt;/t&gt;4個射擊訓練任務%1%2&lt;t&gt;&lt;/t&gt;多種武器配件%1%2&lt;t&gt;&lt;/t&gt;自訂化裝備%1%2&lt;t&gt;&lt;/t&gt;任務編輯器%1%2&lt;t&gt;&lt;/t&gt;模組支援%1Beta版的內容非常有限，我們開放這個版本的目的，為的是要讓玩家有機會參與開發過程，讓最終的正式遊戲能更加完整。</Chinese>
-        <Chinesesimp>ArmA3Beta版提供了一个名叫'斯特拉蒂斯'的地中海小岛，面积大概有20平方公里左右。可以试玩的内容很有限。%1%2&lt;t&gt;&lt;/t&gt;Stratis(20平方公里)%1%2&lt;t&gt;&lt;/t&gt;4个派别%1%2&lt;t&gt;&lt;/t&gt;20种武器%1%2&lt;t&gt;&lt;/t&gt;18辆载具%1%2&lt;t&gt;&lt;/t&gt;3个多人任务%1%2&lt;t&gt;&lt;/t&gt;8个单人任务展示%1%2&lt;t&gt;&lt;/t&gt;4个射击训练任务%1%2&lt;t&gt;&lt;/t&gt;多种武器配件%1%2&lt;t&gt;&lt;/t&gt;自订化装备%1%2&lt;t&gt;&lt;/t&gt;任务编辑器%1%2&lt;t&gt;&lt;/t&gt;模组支援%1Beta版的内容非常有限，我们开放这个版本的目的，为的是要让玩家有机会参与开发过程，让最终的正式游戏能更加完整。</Chinesesimp>
+        <Chinesesimp>武装突袭3Beta版提供了一个名叫'斯特拉蒂斯'的地中海小岛，面积大概有20平方公里左右。可以试玩的内容很有限。%1%2&lt;t&gt;&lt;/t&gt;Stratis(20平方公里)%1%2&lt;t&gt;&lt;/t&gt;4个派别%1%2&lt;t&gt;&lt;/t&gt;20种武器%1%2&lt;t&gt;&lt;/t&gt;18辆载具%1%2&lt;t&gt;&lt;/t&gt;3个多人任务%1%2&lt;t&gt;&lt;/t&gt;8个单人任务展示%1%2&lt;t&gt;&lt;/t&gt;4个射击训练任务%1%2&lt;t&gt;&lt;/t&gt;多种武器配件%1%2&lt;t&gt;&lt;/t&gt;自订化装备%1%2&lt;t&gt;&lt;/t&gt;任务编辑器%1%2&lt;t&gt;&lt;/t&gt;模组支援%1Beta版的内容非常有限，我们开放这个版本的目的，为的是要让玩家有机会参与开发过程，让最终的正式游戏能更加完整。</Chinesesimp>
       </Key>
       <Key ID="str_a3_alpha0">
         <Original>Beta</Original>
@@ -672,7 +672,7 @@
       <Key ID="str_a3_direction2">
         <Original>Clock position is often used for a relative direction. Based on a 12-hour clock analogy, 12 o'clock means directly ahead, 3 o'clock means right and so on.</Original>
         <Chinese>在ARMA3中經常會用到手錶方位來表示相對位置。根據12小時制手錶進行類推，12點鐘代表在正前方，3點鐘代表右邊，以此類推。</Chinese>
-        <Chinesesimp>在Arma3中经常会用到手表方位来表示相对位置。根据12小时制手表进行类推，12点钟代表在正前方，3点钟代表右边，以此类推。</Chinesesimp>
+        <Chinesesimp>在武装突袭3中经常会用到手表方位来表示相对位置。根据12小时制手表进行类推，12点钟代表在正前方，3点钟代表右边，以此类推。</Chinesesimp>
       </Key>
       <Key ID="str_a3_directional0">
         <Original>%11 and %12 are directional explosives with a narrow arc of effect. They're especially useful in corridors and when defending enclosed areas. When placing them, face the direction in which you want the mine to explode.</Original>
@@ -13229,22 +13229,22 @@ Used in: F35F, L159</Original>
         <Key ID="STR_A3_CfgMods_DLCBundle2_name">
           <Original>Arma 3 DLC Bundle 2</Original>
           <Chinese>ArmA3資料片合輯2</Chinese>
-          <Chinesesimp>Arma3DLC合集2</Chinesesimp>
+          <Chinesesimp>武装突袭3资料片合集2</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgMods_DLCBundle2_nameShort">
           <Original>DLC Bundle 2</Original>
           <Chinese>資料片合輯2</Chinese>
-          <Chinesesimp>DLC合集2</Chinesesimp>
+          <Chinesesimp>资料片合集2</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgMods_DLCBundle2_overview">
           <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes the upcoming Arma 3 Jets, Arma 3 "Orange" (working title), Arma 3 Tac-Ops, and Arma 3 Tanks DLC! %1%2Press %11 to open the store page.</Original>
           <Chinese>購買ArmA3資料片合輯2將節省你超過25&amp;#37;以上的折扣，這會包含以下資料片，ArmA3戰機，ArmA3"橘色"(暫定標題)，ArmA3戰術行動和ArmA3坦克等資料片!%1%2按下%11來開啟商店頁面。</Chinese>
-          <Chinesesimp>购买Arma3DLC合集2，将节省超过25&amp;#37;以上的折扣，这会包含以下DLC，ArmA3战机，ArmA3"橘色"(暂定标题)，ArmA3战术行动和ArmA3坦克等DLC!%1%2按下%11来开启商店页面。</Chinesesimp>
+          <Chinesesimp>购买武装突袭3资料片合集2，将节省超过25&amp;#37;以上的折扣，这会包含以下资料片，武装突袭3战机，武装突袭3"橘色"(暂定标题)，武装突袭3战术行动和武装突袭3坦克等DLC!%1%2按下%11来开启商店页面。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgMods_DLCBundle2_overview_expansion">
           <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes the upcoming Arma 3 Jets, Arma 3 "Orange" (working title), Arma 3 Tac-Ops, and Arma 3 Tanks DLC!</Original>
           <Chinese>購買ArmA3資料片合輯2將節省你超過25&amp;#37;以上的折扣，這會包含以下資料片，ArmA3戰機，ArmA3"橘色"(暫定標題)，ArmA3戰術行動和ArmA3坦克等資料片!</Chinese>
-          <Chinesesimp>购买Arma3DLC合集2，将节省超过25&amp;#37;以上的折扣，这会包含以下DLC，ArmA3战机，ArmA3"橘色"(暂定标题)，ArmA3战术行动和ArmA3坦克等DLC!</Chinesesimp>
+          <Chinesesimp>购买武装突袭3资料片合集2，将节省超过25&amp;#37;以上的折扣，这会包含以下资料片，武装突袭3战机，武装突袭3"橘色"(暂定标题)，武装突袭3战术行动和武装突袭3坦克等DLC!</Chinesesimp>
         </Key>
       </Container>
       <Container name="Groups">
@@ -13438,7 +13438,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_cfgvehicleclasses_communication0">
           <Original>Objects (Communications)</Original>
           <Chinese>物件(通訊)</Chinese>
-          <Chinesesimp>物件(通讯)</Chinesesimp>
+          <Chinesesimp>物件(通信)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicleclasses_container0">
           <Original>Objects (Containers)</Original>
@@ -17287,7 +17287,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_cfgvehicles_land_communication_anchor_f0">
           <Original>Communication Tower (Anchor)</Original>
           <Chinese>通訊塔(鋼索錨)</Chinese>
-          <Chinesesimp>通讯塔(钢索锚)</Chinesesimp>
+          <Chinesesimp>通信塔(钢索锚)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_powerpolewooden_f0">
           <Original>Wooden Power Pole</Original>
@@ -17297,7 +17297,7 @@ Used in: F35F, L159</Original>
         <Key ID="str_a3_cfgvehicles_land_communication_f0">
           <Original>Communication Tower</Original>
           <Chinese>通訊塔</Chinese>
-          <Chinesesimp>通讯塔</Chinesesimp>
+          <Chinesesimp>通信塔</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe1_90degl_f0">
           <Original>Industrial Pipe (Curve, Left)</Original>
@@ -18004,8 +18004,8 @@ Used in: F35F, L159</Original>
         </Key>
         <Key ID="STR_A3_CfgVehicles_Land_Wreck_Heli_Attack_01_F0">
           <Original>Blackfoot Wreck</Original>
-          <Chinese>「黑足」殘骸</Chinese>
-          <Chinesesimp>「黑足」残骸</Chinesesimp>
+          <Chinese>“黑足”殘骸</Chinese>
+          <Chinesesimp>“黑足”残骸</Chinesesimp>
         </Key>
       </Container>
       <Container name="System">
@@ -18404,12 +18404,12 @@ Used in: F35F, L159</Original>
       <Key ID="str_a3_cfgmods_a31">
         <Original>Arma 3 Beta</Original>
         <Chinese>Arma 3 Beta</Chinese>
-        <Chinesesimp>Arma 3 Beta</Chinesesimp>
+        <Chinesesimp>武装突袭3 Beta</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_a30">
         <Original>Arma 3</Original>
         <Chinese>Arma 3</Chinese>
-        <Chinesesimp>Arma 3</Chinesesimp>
+        <Chinesesimp>武装突袭3</Chinesesimp>
       </Key>
     </Container>
     <Container name="Sounds_F" />

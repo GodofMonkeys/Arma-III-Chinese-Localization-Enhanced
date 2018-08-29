@@ -261,7 +261,7 @@
     <Key ID="STR_STATE_HEALSOLDIER_SELF">
       <Original>Heal self</Original>
       <Chinese>醫療自己</Chinese>
-      <Chinesesimp>医疗自己</Chinesesimp>
+      <Chinesesimp>医治自己</Chinesesimp>
     </Key>
     <Key ID="STR_STATE_FIRST_AID_KITS">
       <Original>(%d FAKs left)</Original>
@@ -484,12 +484,12 @@
         <Key ID="str_a3_cfguicolors_gui_presets_presetbeta_0">
           <Original>Arma 3 Beta</Original>
           <Chinese>ArmA3Beta</Chinese>
-          <Chinesesimp>ArmA3Beta</Chinesesimp>
+          <Chinesesimp>武装突袭3 Beta</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguicolors_gui_presets_presetalpha_0">
           <Original>Arma 3 Alpha</Original>
           <Chinese>ArmA3Alpha</Chinese>
-          <Chinesesimp>ArmA3Alpha</Chinesesimp>
+          <Chinesesimp>武装突袭3 Alpha</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguicolors_gui_0">
           <Original>Menu</Original>
@@ -499,11 +499,11 @@
         <Key ID="str_a3_cfguicolors_gui_presets_presetbeta_0_rc">
           <Original>Arma 3</Original>
           <Chinese>ArmA3</Chinese>
-          <Chinesesimp>ArmA3</Chinesesimp>
+          <Chinesesimp>武装突袭3</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguicolors_gui_presets_presetblack">
           <Original>Platform Black</Original>
-          <Chinese>黑色平台</Chinese>
+          <Chinese>黑色平臺</Chinese>
           <Chinesesimp>黑色平台</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguicolors_gui_presets_presetbronze">
@@ -518,7 +518,7 @@
         </Key>
         <Key ID="str_a3_cfguicolors_gui_presets_presetgold">
           <Original>Platform Gold</Original>
-          <Chinese>金黃色平台</Chinese>
+          <Chinese>金黃色平臺</Chinese>
           <Chinesesimp>金黄色平台</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguicolors_gui_presets_presetmarine">
@@ -538,7 +538,7 @@
         </Key>
         <Key ID="str_a3_cfguicolors_gui_presets_presetwhite">
           <Original>Platform White</Original>
-          <Chinese>白色平台</Chinese>
+          <Chinese>白色平臺</Chinese>
           <Chinesesimp>白色平台</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguicolors_gui_variables_titletext_rgb_0">
@@ -556,7 +556,7 @@
         <Key ID="str_a3_rscdisplayinsertmarker_buttonmenuinfo">
           <Original>Show info</Original>
           <Chinese>顯示訊息</Chinese>
-          <Chinesesimp>显示讯息</Chinesesimp>
+          <Chinesesimp>显示信息</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplayOptionsLayout">
@@ -724,7 +724,7 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_menu_1">
           <Original>Squad control commands and replies.</Original>
           <Chinese>指揮小隊或回覆訊息。</Chinese>
-          <Chinesesimp>指挥小队或回覆讯息。</Chinesesimp>
+          <Chinesesimp>指挥小队或回覆信息。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_menu_0">
           <Original>Commanding menu</Original>
@@ -839,7 +839,7 @@
         <Key ID="str_a3_cfguigrids_igui_presets_arma3_0">
           <Original>Arma 3</Original>
           <Chinese>ArmA3</Chinese>
-          <Chinesesimp>ArmA3</Chinesesimp>
+          <Chinesesimp>武装突袭3</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_0">
           <Original>HUD</Original>
@@ -864,12 +864,12 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_mission_1">
           <Original>Scenario-specific texts (e.g. info about time and location)</Original>
           <Chinese>任務-具體文本(例如:時間資訊和位置地點)</Chinese>
-          <Chinesesimp>任务-具体文本(例如:时间资讯和位置地点)</Chinesesimp>
+          <Chinesesimp>任务-具体文本(例如:时间信息和位置地点)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_gui_presets_arma3_0">
           <Original>Arma 3</Original>
           <Chinese>ArmA3</Chinese>
-          <Chinesesimp>ArmA3</Chinesesimp>
+          <Chinesesimp>武装突袭3</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_gaugealt_0">
           <Original>Altimeter</Original>
@@ -889,7 +889,7 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_custominfoleft_0">
           <Original>Left Panel - Custom Info</Original>
           <Chinese>左面版-自訂訊息</Chinese>
-          <Chinesesimp>左面版-自订讯息</Chinesesimp>
+          <Chinesesimp>左面版-自定义信息</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_custominfoleft_1">
           <Original>Shows Minimap, Radar, Slingload assistant, Camera feeds or other modules based on player's selection.</Original>
@@ -899,7 +899,7 @@
         <Key ID="str_a3_cfguigrids_igui_variables_grid_custominforight_0">
           <Original>Right Panel - Custom Info</Original>
           <Chinese>右面板-自訂訊息</Chinese>
-          <Chinesesimp>右面板-自订讯息</Chinesesimp>
+          <Chinesesimp>右面板-自定义信息</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfguigrids_igui_variables_grid_custominforight_1">
           <Original>Shows Minimap, Radar, Slingload assistant, Camera feeds or other modules based on player's selection.</Original>
@@ -1751,12 +1751,12 @@
         <Key ID="str_a3_rscdisplaystrategicmap_text_m">
           <Original>1 M</Original>
           <Chinese>1M</Chinese>
-          <Chinesesimp>1M</Chinesesimp>
+          <Chinesesimp>1米</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaystrategicmap_text_km">
           <Original>1 Km</Original>
           <Chinese>1Km</Chinese>
-          <Chinesesimp>1Km</Chinesesimp>
+          <Chinesesimp>1千米</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaystrategicmap_missions">
           <Original>Select a mission</Original>
@@ -2333,7 +2333,7 @@
         </Key>
         <Key ID="str_a3_rscdisplaycamera_subheader">
           <Original>ULTIMATE SCREENSHOT SIMULATOR\n\nControls can be previewed and configured\nin 'Camera' controls options.\n\nAdditional controls:\nRMB - camera rotation and pitch\nCtrl + RMB - camera bank\nF1 - open debug console\nSpace - teleport player under crosshair\nCtrl + X - export camera params\nCtrl + C - copy camera params\nCtrl + V - paste camera params\n\nEsc - Exit</Original>
-          <Chinese>專業照相機模擬器\n\n控制按鍵可以在\n'攝影機'選項中更改。\n\n控制按鍵:\n滑鼠右鍵-相機的旋轉和俯仰\nCtrl+滑鼠右鍵-相機傾斜\nF1-除錯控制台\n空白鍵-移動玩家到十字準新瞄準的地方\nCtrl+X-導出相機參數\nCtrl+C-複製相機參數\nCtrl+V-貼上相機參數\n\nEsc-離開</Chinese>
+          <Chinese>專業照相機模擬器\n\n控制按鍵可以在\n'攝影機'選項中更改。\n\n控制按鍵:\n滑鼠右鍵-相機的旋轉和俯仰\nCtrl+滑鼠右鍵-相機傾斜\nF1-除錯控制臺\n空白鍵-移動玩家到十字準新瞄準的地方\nCtrl+X-導出相機參數\nCtrl+C-複製相機參數\nCtrl+V-貼上相機參數\n\nEsc-離開</Chinese>
           <Chinesesimp>专业照相机模拟器\n\n控制按键可以在\n'摄影机'选项中更改。\n\n控制按键:\n鼠标右键-相机的旋转和俯仰\nCtrl+鼠标右键-相机倾斜\nF1-除错控制台\n空格键-移动玩家到十字准新瞄准的地方\nCtrl+X-导出相机参数\nCtrl+C-复制相机参数\nCtrl+V-贴上相机参数\n\nEsc-离开</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaycamera_header">
@@ -2503,7 +2503,7 @@
         <Key ID="str_a3_rscdisplaygameoptions_textstreamfriendlyui">
           <Original>Stream Friendly UI:</Original>
           <Chinese>串流友好的介面:</Chinese>
-          <Chinesesimp>串流友好的介面:</Chinesesimp>
+          <Chinesesimp>串流友好的界面:</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaygameoptions_textdifficulty">
           <Original>Difficulty:</Original>
@@ -2568,7 +2568,7 @@
         <Key ID="str_a3_rscdisplaygameoptions_buttonlayout">
           <Original>Layout</Original>
           <Chinese>遊戲資訊介面配置</Chinese>
-          <Chinesesimp>游戏资讯介面配置</Chinesesimp>
+          <Chinesesimp>游戏信息界面配置</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaygameoptions_buttongui">
           <Original>Colors</Original>
@@ -2613,7 +2613,7 @@
         <Key ID="str_a3_rscdisplaygameoptions_textadaptivecrosshair">
           <Original>Adaptive Crosshair:</Original>
           <Chinese>自動調整準心:</Chinese>
-          <Chinesesimp>自动调整准心:</Chinesesimp>
+          <Chinesesimp>自动调整准星:</Chinesesimp>
         </Key>
         <Key ID="STR_A3_RSCDISPLAYGAMEOPTIONS_RTDTEXTSTRESSDAMAGE_TOOLTIP">
           <Original>Enables damaging the helicopter when flying dangerously</Original>
@@ -2843,7 +2843,7 @@
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valueiguisize_tooltip">
           <Original>Interface size.</Original>
           <Chinese>遊戲介面顯示的尺寸。</Chinese>
-          <Chinesesimp>游戏介面显示的尺寸。</Chinesesimp>
+          <Chinesesimp>游戏界面显示的尺寸。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsvideo_ca_valuehdrdetail_tooltip">
           <Original>High Dynamic Range lighting quality.</Original>
@@ -3303,7 +3303,7 @@
         <Key ID="str_a3_rscdisplaymain_buttonexpansions">
           <Original>Expansions</Original>
           <Chinese>模組掛載資訊</Chinese>
-          <Chinesesimp>模组挂载资讯</Chinesesimp>
+          <Chinesesimp>模组挂载信息</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymain_buttonexit">
           <Original>Exit</Original>
@@ -3520,12 +3520,12 @@
         <Key ID="str_a3_credits_itlead">
           <Original>IT Lead</Original>
           <Chinese>資訊技術負責人</Chinese>
-          <Chinesesimp>资讯技术负责人</Chinesesimp>
+          <Chinesesimp>信息技术负责人</Chinesesimp>
         </Key>
         <Key ID="str_a3_credits_it">
           <Original>IT</Original>
           <Chinese>資訊技術成員</Chinese>
-          <Chinesesimp>资讯技术成员</Chinesesimp>
+          <Chinesesimp>信息技术成员</Chinesesimp>
         </Key>
         <Key ID="str_a3_credits_icrc">
           <Original>International Committee of the Red Cross</Original>
@@ -3653,7 +3653,7 @@
           <Original>Associate Producers</Original>
           <Chinese>副製作人</Chinese>
           <Chinesesimp>助理制片人</Chinesesimp>
-          </Key>
+        </Key>
         <Key ID="str_a3_credits_artlead">
           <Original>Art Lead</Original>
           <Chinese>美術負責人</Chinese>
@@ -4012,7 +4012,7 @@
         <Key ID="str_a3_credits_itdivision">
           <Original>3rd IT Division</Original>
           <Chinese>第三資訊技術部門</Chinese>
-          <Chinesesimp>第三资讯技术部门</Chinesesimp>
+          <Chinesesimp>第三信息技术部门</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CREDITS_RDDIVISION">
           <Original>11th Research &amp;amp; Development Division</Original>
@@ -4037,7 +4037,7 @@
         <Key ID="str_a3_credits_itleads">
           <Original>IT Leads</Original>
           <Chinese>資訊技術部門主管</Chinese>
-          <Chinesesimp>资讯技术部门主管</Chinesesimp>
+          <Chinesesimp>信息技术部门主管</Chinesesimp>
         </Key>
         <Key ID="str_a3_credits_researchdevelopmentlead">
           <Original>Research &amp;amp; Development Lead</Original>
@@ -4163,7 +4163,7 @@
         <Key ID="str_a3_rscdisplayoptionsaudio_ca_textvon">
           <Original>VON:</Original>
           <Chinese>遊戲內建語音:</Chinese>
-          <Chinesesimp>游戏内建语音:</Chinesesimp>
+          <Chinesesimp>游戏内置语音:</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayoptionsaudio_ca_textsamplescount">
           <Original>Sound Sources:</Original>
@@ -4263,12 +4263,12 @@
         <Key ID="str_a3_rscdisplaychooseeditorlayout_title">
           <Original>Choose editor's layout</Original>
           <Chinese>選擇編輯器的介面</Chinese>
-          <Chinesesimp>选择编辑器的介面</Chinesesimp>
+          <Chinesesimp>选择编辑器的界面</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaychooseeditorlayout_texttip">
           <Original>TIP: Save your mission before changing layout (requires editor restart).</Original>
           <Chinese>提示:請先保存您目前的任務，然後再更改編輯器的介面。(更改介面需要重新啟動編輯器)。</Chinese>
-          <Chinesesimp>提示:请先保存您目前的任务，然后再更改编辑器的介面。(更改介面需要重新启动编辑器)。</Chinesesimp>
+          <Chinesesimp>提示:请先保存您目前的任务，然后再更改编辑器的界面。(更改界面需要重新启动编辑器)。</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplayIntel">
@@ -4372,7 +4372,7 @@
         <Key ID="str_a3_rscdisplaypublishmission_valuedescription_tooltip">
           <Original>Provide a description of your scenario visible on Steam Workshop.</Original>
           <Chinese>為你在Steam工作坊上的任務撰寫描述。</Chinese>
-          <Chinesesimp>为你在Steam工作坊上的任务撰写描述。</Chinesesimp>
+          <Chinesesimp>为你在Steam创意工坊上的任务撰写描述。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_valuechangenotes_tooltip">
           <Original>Describe the changes in the update.</Original>
@@ -4382,7 +4382,7 @@
         <Key ID="str_a3_rscdisplaypublishmission_title">
           <Original>Workshop Scenario Management</Original>
           <Chinese>工作坊任務管理</Chinese>
-          <Chinesesimp>工作坊任务管理</Chinesesimp>
+          <Chinesesimp>创意工坊任务管理</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_textvisibility">
           <Original>Visibility:</Original>
@@ -4432,12 +4432,12 @@
         <Key ID="str_a3_rscdisplaypublishmission_checkboxlicence_tooltip">
           <Original>Click to agree with the SteamWorks licence.</Original>
           <Chinese>點擊同意Steam工作坊用戶合約。</Chinese>
-          <Chinesesimp>点击同意Steam工作坊用户合约。</Chinesesimp>
+          <Chinesesimp>点击同意Steam创意工坊用户条约。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_buttonselectimage_tooltip">
           <Original>Browse for the preview image on your disk including Steam screenshots.</Original>
           <Chinese>瀏覽你在硬碟上的圖片，或者Steam的截圖。</Chinese>
-          <Chinesesimp>浏览你在硬碟上的图片，或者Steam的截图。</Chinesesimp>
+          <Chinesesimp>浏览你在硬盘上的图片，或者Steam的截图。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_buttonselectimage">
           <Original>Browse...</Original>
@@ -4447,12 +4447,12 @@
         <Key ID="str_a3_rscdisplaypublishmission_buttonlicence_tooltip">
           <Original>View the SteamWorkshop license (opens the Steam overlay, press Shift+Tab to close).</Original>
           <Chinese>查看Steam工作坊用戶合約(打開Steam內崁介面，按Shift+Tab關閉)。</Chinese>
-          <Chinesesimp>查看Steam工作坊用户合约(打开Steam内崁介面，按Shift+Tab关闭)。</Chinesesimp>
+          <Chinesesimp>查看Steam创意工坊用户条约(打开Steam内嵌界面，按Shift+Tab关闭)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_buttonlicence">
           <Original>Steam Workshop Agreement</Original>
           <Chinese>Steam工作坊用戶合約</Chinese>
-          <Chinesesimp>Steam工作坊用户合约</Chinesesimp>
+          <Chinesesimp>Steam创意工坊用户条约</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_buttonedittags">
           <Original>Edit Tags</Original>
@@ -4472,7 +4472,7 @@
         <Key ID="str_a3_rscdisplaypublishmission_buttondopublish_tooltip">
           <Original>Publish the scenario on SteamWorkshop.</Original>
           <Chinese>發佈任務到Steam工作坊。</Chinese>
-          <Chinesesimp>发布任务到Steam工作坊。</Chinesesimp>
+          <Chinesesimp>发布任务到Steam创意工坊。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_buttondopublish">
           <Original>Publish</Original>
@@ -4482,7 +4482,7 @@
         <Key ID="str_a3_rscdisplaypublishmission_buttondelete_tooltip">
           <Original>Delete the selected published scenario from the Steam Workshop.</Original>
           <Chinese>在Steam工作坊裡刪除選取的已發佈任務。</Chinese>
-          <Chinesesimp>在Steam工作坊里删除选取的已发布任务。</Chinesesimp>
+          <Chinesesimp>在Steam创意工坊里删除选取的已发布任务。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_buttondelete">
           <Original>Delete</Original>
@@ -4492,7 +4492,7 @@
         <Key ID="str_a3_rscdisplaypublishmission_buttondefaultimage_tooltip">
           <Original>Clears any custom image and restores the default A3 Workshop image.</Original>
           <Chinese>清除任何自定義圖片並還原回默認A3工作坊圖片。</Chinese>
-          <Chinesesimp>清除任何自定义图片并还原回默认A3工作坊图片。</Chinesesimp>
+          <Chinesesimp>清除任何自定义图片并还原回默认A3创意工坊图片。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_buttondefaultimage">
           <Original>Predefined</Original>
@@ -4507,7 +4507,7 @@
         <Key ID="STR_A3_RscDisplayPublishMission_ComboBoxVisibility_tooltip">
           <Original>Set visibility of your scenario in the Workshop.</Original>
           <Chinese>設置任務在工作坊的可見性。</Chinese>
-          <Chinesesimp>设置任务在工作坊的可见性。</Chinesesimp>
+          <Chinesesimp>设置任务在创意工坊的可见性。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaypublishmission_overviewpicture_tooltip">
           <Original>Preview image for your scenario. If no custom image is provided, default is used.</Original>
@@ -4602,12 +4602,12 @@
         <Key ID="str_a3_rscdisplayhostsettings_port_invalid">
           <Original>Invalid game network port; please choose a port between %d and %d.</Original>
           <Chinese>無效的遊戲網路端口;請設置端口數值在%d到%d之間。</Chinese>
-          <Chinesesimp>无效的游戏网路端口;请设置端口数值在%d到%d之间。</Chinesesimp>
+          <Chinesesimp>无效的游戏网络端口;请设置端口数值在%d到%d之间。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayhostsettings_port_warning">
           <Original>Please ensure the game has Internet accessibility via the following network ports: %d, %d.</Original>
           <Chinese>請保證網路開放以下遊戲端口給ArmA使用:%d，%d。</Chinese>
-          <Chinesesimp>请保证网路开放以下游戏端口给ArmA使用:%d，%d。</Chinesesimp>
+          <Chinesesimp>请保证网络开放以下游戏端口给武装突袭使用:%d，%d。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayhostsettings_upnp">
           <Original>UPnP:</Original>
@@ -4654,7 +4654,7 @@
         <Key ID="str_a3_rscdisplaymultiplayer_quick_play_tip">
           <Original>The game is running with custom mods. You can only be connected to servers with mods compatible with yours.</Original>
           <Chinese>你的遊戲正加載自訂模組中。你只會與可相容的伺服器進行連線。</Chinese>
-          <Chinesesimp>你的游戏正加载自订模组中。你只会与可相容的服务器进行连线。</Chinesesimp>
+          <Chinesesimp>你的游戏正加载自定义模组中。你只会与可相容的服务器进行连线。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_refreshdone">
           <Original> (done)</Original>
@@ -4729,7 +4729,7 @@
         <Key ID="str_a3_rscdisplaymultiplayer_host_server_tooltip">
           <Original>Create a new server on Internet or LAN.</Original>
           <Chinese>創建一個新的伺服器在網際網路或區域網路上。</Chinese>
-          <Chinesesimp>创建一个新的服务器在网际网路或区域网路上。</Chinesesimp>
+          <Chinesesimp>创建一个新的服务器在网际网络或区域网络上。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaymultiplayer_matchtype">
           <Original>Find:</Original>
@@ -4826,7 +4826,7 @@
         <Key ID="str_a3_rscdisplaymultiplayersetup_buttonsteamworkshop">
           <Original>Steam Workshop</Original>
           <Chinese>Steam工作坊</Chinese>
-          <Chinesesimp>Steam工作坊</Chinesesimp>
+          <Chinesesimp>Steam创意工坊</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplayRemoteMissions">
@@ -4853,7 +4853,7 @@
         <Key ID="str_a3_rscdisplayremotemissions_buttonsteamworkshop">
           <Original>Steam Workshop</Original>
           <Chinese>Steam工作坊</Chinese>
-          <Chinesesimp>Steam工作坊</Chinesesimp>
+          <Chinesesimp>Steam创意工坊</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayremotemissions_buttonmissionsummary">
           <Original>Mission Summary</Original>
@@ -4902,7 +4902,7 @@
         <Key ID="str_a3_splasharma3_0">
           <Original>Splash screen Arma 3</Original>
           <Chinese>啟動畫面-ArmA3</Chinese>
-          <Chinesesimp>启动画面-ArmA3</Chinesesimp>
+          <Chinesesimp>启动画面-武装突袭3</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscstatic_0">
           <Original>Video Glitch</Original>
@@ -4912,7 +4912,7 @@
         <Key ID="str_a3_rscnoise_0">
           <Original>Video Noise</Original>
           <Chinese>影像雜訊</Chinese>
-          <Chinesesimp>影像杂讯</Chinesesimp>
+          <Chinesesimp>影像杂信</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscinterlacing_0">
           <Original>Video Interlacing</Original>
@@ -5741,54 +5741,54 @@
         <Key ID="str_a3_cfgdefaultkeyspresets_arma31">
           <Original>Arma 3: sprint, tactical pace, default action selection, grenade throw and inventory keys redefined.</Original>
           <Chinese>ArmA3:選擇默認的按鍵設定，手榴彈投擲與裝備的按鍵比較不一樣。</Chinese>
-          <Chinesesimp>ArmA3:选择默认的按键设定，手榴弹投掷与装备的按键比较不一样。</Chinesesimp>
+          <Chinesesimp>武装突袭3:选择默认的按键设定，手榴弹投掷与装备的按键不一样。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgdefaultkeyspresets_arma30">
           <Original>Arma 3</Original>
           <Chinese>ArmA3</Chinese>
-          <Chinesesimp>ArmA3</Chinesesimp>
+          <Chinesesimp>武装突袭3</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgdefaultkeyspresets_arma21">
           <Original>Arma 2: the smallest differences in key mappings from the previous Bohemia Interactive title.</Original>
           <Chinese>ArmA2:與之前的版本差異較小。</Chinese>
-          <Chinesesimp>ArmA2:与之前的版本差异较小。</Chinesesimp>
+          <Chinesesimp>武装突袭2:与之前的版本差异较小。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgdefaultkeyspresets_arma20">
           <Original>Arma 2</Original>
           <Chinese>ArmA2</Chinese>
-          <Chinesesimp>ArmA2</Chinesesimp>
+          <Chinesesimp>武装突袭2</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgdefaultkeyspresets_a3_alternative1">
           <Original>Alternative Arma 3: dynamic controls for smooth aiming and movement.</Original>
           <Chinese>ArmA3另類:這種設定提供你平滑的瞄準和移動。</Chinese>
-          <Chinesesimp>ArmA3另类:这种设定提供你平滑的瞄准和移动。</Chinesesimp>
+          <Chinesesimp>武装突袭3另类:这种设定提供你平滑的瞄准和移动。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgdefaultkeyspresets_a3_alternative0">
           <Original>Arma 3 Alternative</Original>
           <Chinese>ArmA3另類</Chinese>
-          <Chinesesimp>ArmA3另类</Chinesesimp>
+          <Chinesesimp>武装突袭3另类</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgdefaultkeyspresets_apex0">
           <Original>Arma 3 Apex</Original>
           <Chinese>ArmA3頂尖</Chinese>
-          <Chinesesimp>ArmA3顶尖</Chinesesimp>
+          <Chinesesimp>武装突袭3顶尖</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgdefaultkeyspresets_apex1">
           <Original>Arma 3 Apex: re-imagined controls for the Apex expansion with industry standard influences.</Original>
           <Chinese>ArmA3頂尖:頂尖將重新定義並擴展遊戲的內容。</Chinese>
-          <Chinesesimp>ArmA3顶尖:顶尖将重新定义并扩展游戏的内容。</Chinesesimp>
+          <Chinesesimp>武装突袭3顶尖:顶尖将重新定义并扩展游戏的内容。</Chinesesimp>
         </Key>
       </Container>
       <Container name="cfgEditorLayouts">
         <Key ID="str_a3_cfgeditorlayouts_layout021">
           <Original>Streamlined</Original>
           <Chinese>ARMA3新式介面</Chinese>
-          <Chinesesimp>ARMA3新式介面</Chinesesimp>
+          <Chinesesimp>武装突袭3新式界面</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgeditorlayouts_layout011">
           <Original>Traditional</Original>
           <Chinese>ARMA2傳統介面</Chinese>
-          <Chinesesimp>ARMA2传统介面</Chinesesimp>
+          <Chinesesimp>武装突袭2传统界面</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscCommandMenuUAV">
@@ -5935,7 +5935,7 @@
         <Key ID="STR_A3_UI_NEWSFEED3">
           <Original>Welcome to &lt;a href="http://www.arma3.com/"&gt;Arma 3&lt;/a&gt;!&lt;br /&gt;&lt;br /&gt;The newsfeed provides the latest coverage of updates, content, community news, and more - straight to your game!</Original>
           <Chinese>歡迎來到&lt;ahref="http://www。arma3。com/"&gt;ArmA3&lt;/a&gt;!&lt;br/&gt;&lt;br/&gt;最新消息提供了遊戲最新的更新，內容，社區新聞和更多的相關訊息!</Chinese>
-          <Chinesesimp>欢迎来到&lt;ahref="http://www。arma3。com/"&gt;ArmA3&lt;/a&gt;!&lt;br/&gt;&lt;br/&gt;最新消息提供了游戏最新的更新，内容，社区新闻和更多的相关讯息!</Chinesesimp>
+          <Chinesesimp>欢迎来到&lt;ahref="http://www。arma3。com/"&gt;武装突袭3&lt;/a&gt;!&lt;br/&gt;&lt;br/&gt;最新消息提供了游戏最新的更新，内容，社区新闻和更多的相关信息!</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscAVCamera">
@@ -6152,7 +6152,7 @@
         <Key ID="STR_A3_RscMsgBoxKeysPreset_Text">
           <Original>Arma 3 Apex introduces new controls preset. Do you want to go to the controls menu and preview it?</Original>
           <Chinese>ArmA3頂尖引進了一組新的控制設定。你想要前往控制設定中查看它嗎?</Chinese>
-          <Chinesesimp>ArmA3顶尖引进了一组新的控制设定。你想要前往控制设定中查看它吗?</Chinesesimp>
+          <Chinesesimp>武装突袭3顶尖引进了一组新的控制设定。你想要前往控制设定中查看它吗?</Chinesesimp>
         </Key>
       </Container>
       <Container name="RscDisplayServerFound">
@@ -6249,13 +6249,13 @@
       <Container name="RscDisplayWelcome">
         <Key ID="str_a3_rscdisplaywelcome_parb">
           <Original>Arma 3 is a &lt;t color='%1'&gt;unique military game&lt;/t&gt; with an &lt;t color='%1'&gt;infantry focus&lt;/t&gt;. Built upon &lt;t color='%1'&gt;appropriate&lt;/t&gt;, &lt;t color='%1'&gt;useful&lt;/t&gt; and &lt;t color='%1'&gt;engaging&lt;/t&gt; elements of &lt;t color='%1'&gt;simulation&lt;/t&gt;, it's an &lt;t color='%1'&gt;accessible platform&lt;/t&gt; for a variety of official and community playable / sandbox content, based on the principles of &lt;t color='%1'&gt;authenticity&lt;/t&gt;, &lt;t color='%1'&gt;diversity&lt;/t&gt; and &lt;t color='%1'&gt;opportunity&lt;/t&gt;.</Original>
-          <Chinese>ArmA3是一個&lt;tcolor='%1'&gt;獨特的軍事遊戲&lt;/t&gt;，並且&lt;tcolor='%1'&gt;專注於步兵戰鬥&lt;/t&gt;上的體驗。建立於&lt;tcolor='%1'&gt;合理&lt;/t&gt;，&lt;tcolor='%1'&gt;有用&lt;/t&gt;和&lt;tcolor='%1'&gt;引人入勝&lt;/t&gt;的&lt;tcolor='%1'&gt;擬真&lt;/t&gt;元素，這個&lt;tcolor='%1'&gt;平台&lt;/t&gt;集合了各種官方和玩家論壇的模組或任務，這些模組或任務都基於&lt;tcolor='%1'&gt;真實性&lt;/t&gt;，&lt;tcolor='%1'&gt;多樣性&lt;/t&gt;和&lt;tcolor='%1'&gt;隨機性&lt;/t&gt;來當做開發原則。</Chinese>
-          <Chinesesimp>ArmA3是一个&lt;tcolor='%1'&gt;独特的军事游戏&lt;/t&gt;，并且&lt;tcolor='%1'&gt;专注于步兵战斗&lt;/t&gt;上的体验。建立于&lt;tcolor='%1'&gt;合理&lt;/t&gt;，&lt;tcolor='%1'&gt;有用&lt;/t&gt;和&lt;tcolor='%1'&gt;引人入胜&lt;/t&gt;的&lt;tcolor='%1'&gt;拟真&lt;/t&gt;元素，这个&lt;tcolor='%1'&gt;平台&lt;/t&gt;集合了各种官方和玩家论坛的模组或任务，这些模组或任务都基于&lt;tcolor='%1'&gt;真实性&lt;/t&gt;，&lt;tcolor='%1'&gt;多样性&lt;/t&gt;和&lt;tcolor='%1'&gt;随机性&lt;/t&gt;来当做开发原则。</Chinesesimp>
+          <Chinese>ArmA3是一個&lt;tcolor='%1'&gt;獨特的軍事遊戲&lt;/t&gt;，並且&lt;tcolor='%1'&gt;專注於步兵戰鬥&lt;/t&gt;上的體驗。建立於&lt;tcolor='%1'&gt;合理&lt;/t&gt;，&lt;tcolor='%1'&gt;有用&lt;/t&gt;和&lt;tcolor='%1'&gt;引人入勝&lt;/t&gt;的&lt;tcolor='%1'&gt;擬真&lt;/t&gt;元素，這個&lt;tcolor='%1'&gt;平臺&lt;/t&gt;集合了各種官方和玩家論壇的模組或任務，這些模組或任務都基於&lt;tcolor='%1'&gt;真實性&lt;/t&gt;，&lt;tcolor='%1'&gt;多樣性&lt;/t&gt;和&lt;tcolor='%1'&gt;隨機性&lt;/t&gt;來當做開發原則。</Chinese>
+          <Chinesesimp>武装突袭3是一个&lt;tcolor='%1'&gt;独特的军事游戏&lt;/t&gt;，并且&lt;tcolor='%1'&gt;专注于步兵战斗&lt;/t&gt;上的体验。建立于&lt;tcolor='%1'&gt;合理&lt;/t&gt;，&lt;tcolor='%1'&gt;有用&lt;/t&gt;和&lt;tcolor='%1'&gt;引人入胜&lt;/t&gt;的&lt;tcolor='%1'&gt;拟真&lt;/t&gt;元素，这个&lt;tcolor='%1'&gt;平台&lt;/t&gt;集合了各种官方和玩家论坛的模组或任务，这些模组或任务都基于&lt;tcolor='%1'&gt;真实性&lt;/t&gt;，&lt;tcolor='%1'&gt;多样性&lt;/t&gt;和&lt;tcolor='%1'&gt;随机性&lt;/t&gt;来当做开发原则。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_parb_footer">
           <Original>More about Arma 3</Original>
           <Chinese>更多關於ArmA3的介紹</Chinese>
-          <Chinesesimp>更多关于ArmA3的介绍</Chinesesimp>
+          <Chinesesimp>更多关于武装突袭3的介绍</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_parb_list1">
           <Original>Richly detailed battlefields</Original>
@@ -6275,17 +6275,17 @@
         <Key ID="str_a3_rscdisplaywelcome_parb_list4">
           <Original>Powerful scenario editor, mod creation, &lt;a href="%2" color="%1"&gt;Steam Workshop&lt;/a&gt; integration and a creative community</Original>
           <Chinese>強大的任務編輯器，模組工具和&lt;ahref="%2"color="%1"&gt;Steam工作坊&lt;/a&gt;，這些全部統整為一個創意無限的玩家論壇</Chinese>
-          <Chinesesimp>强大的任务编辑器，模组工具和&lt;ahref="%2"color="%1"&gt;Steam工作坊&lt;/a&gt;，这些全部统整为一个创意无限的玩家论坛</Chinesesimp>
+          <Chinesesimp>强大的任务编辑器，模组工具和&lt;ahref="%2"color="%1"&gt;Steam创意工坊&lt;/a&gt;，这些全部统整为一个创意无限的玩家论坛</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_parb_title">
           <Original>NEW TO ARMA?</Original>
           <Chinese>第一次玩ArmA?</Chinese>
-          <Chinesesimp>第一次玩ArmA?</Chinesesimp>
+          <Chinesesimp>第一次玩武装突袭?</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_parc">
           <Original>As compared to Arma 2, you'll find the significantly updated &lt;t color='%1'&gt;Real Virtuality%2 4&lt;/t&gt; engine powering your experience. With it, we're aiming to take the elements that make Arma great, enhance them where it's appropriate, and deliver a robust &lt;t color='%1'&gt;platform&lt;/t&gt; for future growth.</Original>
-          <Chinese>與ArmA2相比，你會發現&lt;tcolor='%1'&gt;RealVirtuality%24&lt;/t&gt;引擎的效能有顯著的提升。有了它，我們能加上更多的元素來使ArmA變得更棒，在適當的情況下對遊戲進行調整，並且發展了一個堅固的&lt;tcolor='%1'&gt;平台&lt;/t&gt;以供未來成長。</Chinese>
-          <Chinesesimp>与ArmA2相比，你会发现&lt;tcolor='%1'&gt;RealVirtuality%24&lt;/t&gt;引擎的效能有显著的提升。有了它，我们能加上更多的元素来使ArmA变得更棒，在适当的情况下对游戏进行调整，并且发展了一个坚固的&lt;tcolor='%1'&gt;平台&lt;/t&gt;以供未来成长。</Chinesesimp>
+          <Chinese>與ArmA2相比，你會發現&lt;tcolor='%1'&gt;RealVirtuality%24&lt;/t&gt;引擎的效能有顯著的提升。有了它，我們能加上更多的元素來使ArmA變得更棒，在適當的情況下對遊戲進行調整，並且發展了一個堅固的&lt;tcolor='%1'&gt;平臺&lt;/t&gt;以供未來成長。</Chinese>
+          <Chinesesimp>与武装突袭2相比，你会发现&lt;tcolor='%1'&gt;RealVirtuality%24&lt;/t&gt;引擎的效能有显着的提升。有了它，我们能加上更多的元素来使武装突袭变得更棒，在适当的情况下对游戏进行调整，并且发展了一个坚固的&lt;tcolor='%1'&gt;平台&lt;/t&gt;以供未来成长。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_parc_footer">
           <Original>More about these differences</Original>
@@ -6315,17 +6315,17 @@
         <Key ID="str_a3_rscdisplaywelcome_parc_title">
           <Original>ARMA VETERAN?</Original>
           <Chinese>ArmaA老兵?</Chinese>
-          <Chinesesimp>ArmaA老兵?</Chinesesimp>
+          <Chinesesimp>武装突袭老兵?</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pard">
           <Original>After our Alpha and Beta programs, we are now unleashing the primary Arma 3 release. This is just the &lt;t color='%1'&gt;beginning&lt;/t&gt; however. We see this as the proper start of the Arma 3 &lt;t color='%1'&gt;platform&lt;/t&gt;. Both us and you will hopefully expand and enhance it for years to come. These are just a few of the highlighted changes since the Beta:</Original>
-          <Chinese>繼Alpha測試版和Beta測試版之後，我們現在很榮幸為大家推出ArmA3正式版。不過，這只不過是剛剛&lt;tcolor='%1'&gt;開始&lt;/t&gt;而已。我們把它看作是ArmA3&lt;tcolor='%1'&gt;這個平台&lt;/t&gt;的開始。在今後的幾年裡，我們和各位玩家都會對它進行擴展和增強。以下特色是正式版與Beta版最大的不同:</Chinese>
-          <Chinesesimp>继Alpha测试版和Beta测试版之后，我们现在很荣幸为大家推出ArmA3正式版。不过，这只不过是刚刚&lt;tcolor='%1'&gt;开始&lt;/t&gt;而已。我们把它看作是ArmA3&lt;tcolor='%1'&gt;这个平台&lt;/t&gt;的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与Beta版最大的不同:</Chinesesimp>
+          <Chinese>繼Alpha測試版和Beta測試版之後，我們現在很榮幸為大家推出ArmA3正式版。不過，這只不過是剛剛&lt;tcolor='%1'&gt;開始&lt;/t&gt;而已。我們把它看作是ArmA3&lt;tcolor='%1'&gt;這個平臺&lt;/t&gt;的開始。在今後的幾年裡，我們和各位玩家都會對它進行擴展和增強。以下特色是正式版與Beta版最大的不同:</Chinese>
+          <Chinesesimp>继Alpha测试版和Beta测试版之后，我们现在很荣幸为大家推出武装突袭3正式版。不过，这只不过是刚刚&lt;tcolor='%1'&gt;开始&lt;/t&gt;而已。我们把它看作是武装突袭3&lt;tcolor='%1'&gt;这个平台&lt;/t&gt;的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与Beta版最大的不同:</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pard_footer">
           <Original>More at www.arma3.com/whatsnewfull</Original>
           <Chinese>更多訊息請參見www.arma3.com/whatsnewfull</Chinese>
-          <Chinesesimp>更多讯息请参见www.arma3.com/whatsnewfull</Chinesesimp>
+          <Chinesesimp>更多信息请参见www.arma3.com/whatsnewfull</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pard_list1">
           <Original>the massive virtual terrain inviting you to endless exploration</Original>
@@ -6340,7 +6340,7 @@
         <Key ID="str_a3_rscdisplaywelcome_pard_list2">
           <Original>Main Battle Tanks, self-propelled artillery and Anti-Aircraft vehicles</Original>
           <Chinese>主戰坦克，自走炮和防空載具</Chinese>
-          <Chinesesimp>主战坦克，自走炮和防空载具</Chinesesimp>
+          <Chinesesimp>主战坦克，自行火炮和防空载具</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pard_list2_title">
           <Original>Armor</Original>
@@ -6395,7 +6395,7 @@
         <Key ID="str_a3_rscdisplaywelcome_pare_footer2">
           <Original>Team Arma 3</Original>
           <Chinese>ArmA3開發團隊</Chinese>
-          <Chinesesimp>ArmA3开发团队</Chinesesimp>
+          <Chinesesimp>武装突袭3开发团队</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list1">
           <Original>an improved automatic benchmark should provide better defaults, but have a look in the video options to hit the perfect balance between performance, quality, and personal preference.</Original>
@@ -6410,7 +6410,7 @@
         <Key ID="str_a3_rscdisplaywelcome_pare_list2">
           <Original>some default bindings are different to Arma 2 (e.g. grenades and inventory). See how you like them, experiment with the different presets on offer, or configure your own set up.</Original>
           <Chinese>一些默認的鍵位設置與ArmA2不同了(比如手榴彈和背包)。看看你是否習慣，使用遊戲提供的幾套不同鍵位設置或者自定義你自己的一套鍵位。</Chinese>
-          <Chinesesimp>一些默认的键位设置与ArmA2不同了(比如手榴弹和背包)。看看你是否习惯，使用游戏提供的几套不同键位设置或者自定义你自己的一套键位。</Chinesesimp>
+          <Chinesesimp>一些默认的键位设置与武装突袭2不同了(比如手榴弹和背包)。看看你是否习惯，使用游戏提供的几套不同键位设置或者自定义你自己的一套键位。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list2_title">
           <Original>Controls</Original>
@@ -6430,7 +6430,7 @@
         <Key ID="str_a3_rscdisplaywelcome_pare_list4">
           <Original>play the campaign, check out showcases of our new features and gameplay, load up quick and fun challenges, explore multiplayer in &lt;a href="%2" color="%1"&gt;Arma 3 Zeus&lt;/a&gt; and other modes, or dig into the sandbox with the &lt;a href="%3" color="%1"&gt;Eden Editor&lt;/a&gt;.</Original>
           <Chinese>玩玩戰役，任務展示等來體驗新的特色，參與快速且有趣的挑戰，在多人模式中和好友們合作，遊玩&lt;ahref="%2"color="%1"&gt;ArmA3宙斯&lt;/a&gt;等遊戲模式，或者在&lt;ahref="%3"color="%1"&gt;伊甸編輯器&lt;/a&gt;沙箱模式中和設計師們一起鑽研任務設計。更多的內容將被逐步地加入!</Chinese>
-          <Chinesesimp>玩玩战役，任务展示等来体验新的特色，参与快速且有趣的挑战，在多人模式中和好友们合作，游玩&lt;ahref="%2"color="%1"&gt;ArmA3宙斯&lt;/a&gt;等游戏模式，或者在&lt;ahref="%3"color="%1"&gt;伊甸编辑器&lt;/a&gt;沙箱模式中和设计师们一起钻研任务设计。更多的内容将被逐步地加入!</Chinesesimp>
+          <Chinesesimp>玩玩战役，任务展示等来体验新的特色，参与快速且有趣的挑战，在多人模式中和好友们合作，游玩&lt;ahref="%2"color="%1"&gt;武装突袭3宙斯&lt;/a&gt;等游戏模式，或者在&lt;ahref="%3"color="%1"&gt;伊甸编辑器&lt;/a&gt;沙箱模式中和设计师们一起钻研任务设计。更多的内容将被逐步地加入!</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list4_title">
           <Original>Playable Content</Original>
@@ -6455,7 +6455,7 @@
         <Key ID="str_a3_rscdisplaywelcome_para">
           <Original>It's great to have you with us as we take on the next evolution of the &lt;t color='%1'&gt;Arma&lt;/t&gt; series! To get started, we'd like to let you know about what Arma 3%2 is about, what's new since Arma 2, what's been added since the Beta, and how to get going.</Original>
           <Chinese>很高興有你來一同體驗新&lt;tcolor='%1'&gt;ArmA&lt;/t&gt;系列的一個重要里程碑!在開始玩之前，我們希望讓你知道ArmA3%2有什麼內容，與ArmA2之間有什麼差別，測試版之後又增加了些什麼，並且該怎麼開始遊玩。</Chinese>
-          <Chinesesimp>很高兴有你来一同体验新&lt;tcolor='%1'&gt;ArmA&lt;/t&gt;系列的一个重要里程碑!在开始玩之前，我们希望让你知道ArmA3%2有什么内容，与ArmA2之间有什么差别，测试版之后又增加了些什么，并且该怎么开始游玩。</Chinesesimp>
+          <Chinesesimp>很高兴有你来一同体验新&lt;tcolor='%1'&gt;武装突袭&lt;/t&gt;系列的一个重要里程碑!在开始玩之前，我们希望让你知道武装突袭3%2有什么内容，与武装突袭2之间有什么差别，测试版之后又增加了些什么，并且该怎么开始游玩。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list6">
           <Original>get to know the game in the Bootcamp campaign prologue, Virtual Reality training lessons, an extensive in-game Field Manual and more.</Original>
@@ -6475,12 +6475,12 @@
         <Key ID="str_a3_rscdisplaywelcome_pare_list7_title">
           <Original>Make Arma Not War</Original>
           <Chinese>讓ArmA不要戰爭</Chinese>
-          <Chinesesimp>让ArmA不要战争</Chinesesimp>
+          <Chinesesimp>让武装突袭不要战争</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list8_trial">
           <Original>enjoy the &lt;a href="%2" color="%1"&gt;most complete Arma 3 package&lt;/a&gt;, including &lt;a href="%3" color="%1"&gt;Karts&lt;/a&gt;, &lt;a href="%4" color="%1"&gt;Helicopters&lt;/a&gt; and &lt;a href="%5" color="%1"&gt;Marksmen&lt;/a&gt; DLC, and the &lt;a href="%6" color="%1"&gt;Apex&lt;/a&gt; expansion. Try the premium DLC content for free in VR Arsenal mode.</Original>
-          <Chinese>享受&lt;ahref="%2"color="%1"&gt;更完整的ArmA3&lt;/a&gt;，你可以遊玩&lt;ahref="%3"color="%1"&gt;卡丁車&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升機&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精準射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;頂尖&lt;/a&gt;等資料片。這些付費內容可以免費在虛擬軍火庫中進行體驗。</Chinese>
-          <Chinesesimp>享受&lt;ahref="%2"color="%1"&gt;更完整的ArmA3&lt;/a&gt;，你可以游玩&lt;ahref="%3"color="%1"&gt;卡丁车&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升机&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精准射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;顶尖&lt;/a&gt;等资料片。这些付费内容可以免费在虚拟军械库中进行体验。</Chinesesimp>
+          <Chinese>享受&lt;ahref="%2"color="%1"&gt;更完整的武?突?3&lt;/a&gt;，你可以遊玩&lt;ahref="%3"color="%1"&gt;卡丁車&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升機&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精準射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;頂尖&lt;/a&gt;等資料片。這些付費內容可以免費在虛擬軍火庫中進行體驗。</Chinese>
+          <Chinesesimp>享受&lt;ahref="%2"color="%1"&gt;更完整的武装突袭3&lt;/a&gt;，你可以游玩&lt;ahref="%3"color="%1"&gt;卡丁车&lt;/a&gt;，&lt;ahref="%4"color="%1"&gt;直升机&lt;/a&gt;，&lt;ahref="%5"color="%1"&gt;精准射手&lt;/a&gt;以及&lt;ahref="%6"color="%1"&gt;顶尖&lt;/a&gt;等资料片。这些付费内容可以免费在虚拟军械库中进行体验。</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaywelcome_pare_list8_trial_title">
           <Original>Apex Edition</Original>
@@ -7048,12 +7048,12 @@
       <Key ID="STR_MULTI_TITLE_RECENT">
         <Original>Network games played recently.</Original>
         <Chinese>最近遊玩的網路遊戲。</Chinese>
-        <Chinesesimp>最近游玩的网路游戏。</Chinesesimp>
+        <Chinesesimp>最近游玩的网络游戏。</Chinesesimp>
       </Key>
       <Key ID="STR_MULTI_TITLE_FRIENDS">
         <Original>Network games with friends.</Original>
         <Chinese>與朋友一同進行網路遊戲。</Chinese>
-        <Chinesesimp>与朋友一同进行网路游戏。</Chinesesimp>
+        <Chinesesimp>与朋友一同进行网络游戏。</Chinesesimp>
       </Key>
       <Key ID="STR_MULTI_TITLE_OFFICIAL">
         <Original>Network games on official servers.</Original>
@@ -7070,7 +7070,7 @@
       <Key ID="STR_MP_KICKED_SLOW_NETWORK">
         <Original>Player's network does not meet server's speed requirements</Original>
         <Chinese>玩家的網路速度並沒有達到伺服器的要求</Chinese>
-        <Chinesesimp>玩家的网路速度并没有达到服务器的要求</Chinesesimp>
+        <Chinesesimp>玩家的网络速度并没有达到服务器的要求</Chinesesimp>
       </Key>
       <Key ID="STR_PICTURE_NOT_FOUND">
         <Original>Picture %s not found</Original>
@@ -7405,7 +7405,7 @@
       <Key ID="STR_TOOLTIP_VID_SKIP">
         <Original>Skip video message.</Original>
         <Chinese>跳過影片訊息。</Chinese>
-        <Chinesesimp>跳过影片讯息。</Chinesesimp>
+        <Chinesesimp>跳过影片信息。</Chinesesimp>
       </Key>
       <Key ID="STR_TOOLTIP_MAIN_AGAIN">
         <Original>Replay mission briefing.</Original>
@@ -7435,7 +7435,7 @@
       <Key ID="STR_TOOLTIP_MAIN_CREDITS">
         <Original>View game credits, see the names behind Arma 3.</Original>
         <Chinese>觀看工作人員名單，看看是誰製作ArmA3。</Chinese>
-        <Chinesesimp>观看工作人员名单，看看是谁制作ArmA3。</Chinesesimp>
+        <Chinesesimp>观看工作人员名单，看看是谁制作武装突袭3。</Chinesesimp>
       </Key>
       <Key ID="str_tooltip_main_fieldmanual">
         <Original>Browse hints, tips and instructions about game mechanics and controls.</Original>
@@ -7460,7 +7460,7 @@
       <Key ID="str_tooltip_main_showcases">
         <Original>Discover a range of fundamental Arma 3 gameplay.</Original>
         <Chinese>體驗ArmA3一系列的基本操作。</Chinese>
-        <Chinesesimp>体验ArmA3一系列的基本操作。</Chinesesimp>
+        <Chinesesimp>体验武装突袭3一系列的基本操作。</Chinesesimp>
       </Key>
       <Key ID="STR_TOOLTIP_MAIN_SUSPEND">
         <Original>Save and exit current mission to the menu.</Original>
@@ -7482,7 +7482,7 @@
       <Key ID="str_diff_weapon_info_desc">
         <Original>Shows weapon info box (contains round &amp; magazine count, firing mode, etc.).</Original>
         <Chinese>顯示武器資訊視窗(剩餘發數&amp;彈匣數量，開火模式等等。)。</Chinese>
-        <Chinesesimp>显示武器资讯视窗(剩余发数&amp;弹匣数量，开火模式等等。)。</Chinesesimp>
+        <Chinesesimp>显示武器信息视窗(剩余发数&amp;弹匣数量，开火模式等等。)。</Chinesesimp>
       </Key>
       <Key ID="str_diff_waypoints_desc">
         <Original>Manages visibility of waypoint markers.</Original>
@@ -7497,7 +7497,7 @@
       <Key ID="str_diff_von_id_desc">
         <Original>Indicates who is speaking through VON communication.</Original>
         <Chinese>標明誰使用遊戲內建語音講話。</Chinese>
-        <Chinesesimp>标明谁使用游戏内建语音讲话。</Chinesesimp>
+        <Chinesesimp>标明谁使用游戏内置语音讲话。</Chinesesimp>
       </Key>
       <Key ID="str_diff_vision_aid_desc">
         <Original>Helps to detect units in visual range and identify friend from foe.</Original>
@@ -7527,7 +7527,7 @@
       <Key ID="str_diff_score_table_desc">
         <Original>Displays table with kills, deaths and overall score in multiplayer.</Original>
         <Chinese>在多人模式下顯示擊殺，死亡與得分訊息。</Chinese>
-        <Chinesesimp>在多人模式下显示击杀，死亡与得分讯息。</Chinesesimp>
+        <Chinesesimp>在多人模式下显示击杀，死亡与得分信息。</Chinesesimp>
       </Key>
       <Key ID="str_diff_score_table">
         <Original>Score Table</Original>
@@ -7622,7 +7622,7 @@
       <Key ID="str_diff_friendly_name_tags_desc">
         <Original>Friendly unit identification. Works only when the player aims at a unit.</Original>
         <Chinese>顯示友軍單位。只在玩家準心對準單位時出現。</Chinese>
-        <Chinesesimp>显示友军单位。只在玩家准心对准单位时出现。</Chinesesimp>
+        <Chinesesimp>显示友军单位。只在玩家准星对准单位时出现。</Chinesesimp>
       </Key>
       <Key ID="STR_DIFFICULTY_DISABLED_MISSION">
         <Original>Difficulty for this scenario is forced and can't be changed.</Original>
@@ -7647,7 +7647,7 @@
       <Key ID="STR_difficulty_custom">
         <Original>Custom</Original>
         <Chinese>自訂</Chinese>
-        <Chinesesimp>自订</Chinesesimp>
+        <Chinesesimp>自定义</Chinesesimp>
       </Key>
       <Key ID="STR_difficulty_custom_desc">
         <Original>Custom difficulty set by the player.</Original>
@@ -7667,7 +7667,7 @@
       <Key ID="str_diff_enemy_name_tags_desc">
         <Original>Enemy unit identification. Works only when the player aims at a unit.</Original>
         <Chinese>顯示敵軍身分。只在準心對準單位時出現。</Chinese>
-        <Chinesesimp>显示敌军身分。只在准心对准单位时出现。</Chinesesimp>
+        <Chinesesimp>显示敌军身分。只在准星对准单位时出现。</Chinesesimp>
       </Key>
       <Key ID="str_diff_enemy_name_tags">
         <Original>Enemy Name Tags</Original>
@@ -7687,12 +7687,12 @@
       <Key ID="str_diff_crosshair_desc">
         <Original>Shows weapon crosshair both in 1st and 3rd person view.</Original>
         <Chinese>在第一人稱與第三人稱模式中顯示十字準心。</Chinese>
-        <Chinesesimp>在第一人称与第三人称模式中显示十字准心。</Chinesesimp>
+        <Chinesesimp>在第一人称与第三人称模式中显示十字准星。</Chinesesimp>
       </Key>
       <Key ID="str_diff_crosshair">
         <Original>Crosshair</Original>
         <Chinese>十字準心</Chinese>
-        <Chinesesimp>十字准心</Chinesesimp>
+        <Chinesesimp>十字准星</Chinesesimp>
       </Key>
       <Key ID="str_diff_commands_desc">
         <Original>Displays command icons like target markers, get in command and others.</Original>
@@ -7938,7 +7938,7 @@
       <Key ID="STR_CA_ARCMAP_LAYOUT">
         <Original>Choose editor's layout [CTRL+L]</Original>
         <Chinese>選擇編輯器介面[CTRL+L]</Chinese>
-        <Chinesesimp>选择编辑器介面[CTRL+L]</Chinesesimp>
+        <Chinesesimp>选择编辑器界面[CTRL+L]</Chinesesimp>
       </Key>
       <Key ID="STR_DISP_ARCMAP_SAVE_first">
         <Original>Save [CTRL+S]</Original>
@@ -7948,7 +7948,7 @@
       <Key ID="STR_CA_ARCMAP_PUBLISH">
         <Original>Publish on Steam Workshop</Original>
         <Chinese>在Steam工作坊上發佈</Chinese>
-        <Chinesesimp>在Steam工作坊上发布</Chinesesimp>
+        <Chinesesimp>在Steam创意工坊上发布</Chinesesimp>
       </Key>
       <Key ID="STR_DISP_ARCMAP_LOAD_first">
         <Original>Load [CTRL+O]</Original>
@@ -8174,12 +8174,12 @@
       <Key ID="STR_AUDIO_TOOLTIP_RADIO">
         <Original>The volume of scripted radio chatter. </Original>
         <Chinese>遊戲內建無線電訊息音量。</Chinese>
-        <Chinesesimp>游戏内建无线电讯息音量。</Chinesesimp>
+        <Chinesesimp>游戏内置无线电信息音量。</Chinesesimp>
       </Key>
       <Key ID="STR_AUDIO_TOOLTIP_VON">
         <Original>Voice-over-the-Net volume, used for communication between players. </Original>
         <Chinese>遊戲內建語音的音量，用於玩家間的交流。</Chinese>
-        <Chinesesimp>游戏内建语音的音量，用于玩家间的交流。</Chinesesimp>
+        <Chinesesimp>游戏内置语音的音量，用于玩家间的交流。</Chinesesimp>
       </Key>
       <Key ID="STR_AUDIO_TOOLTIP_ADJUST">
         <Original>Automatically adjusts microphone sensitivity.</Original>
@@ -8215,8 +8215,8 @@
       </Key>
       <Key ID="STR_copyright_disclaimer">
         <Original>© 2013-2018 Bohemia Interactive a.s. All rights reserved.</Original>
-        <Chinese>©2013-2018波希米亞互動工作室a。s。保留所有權利。</Chinese>
-        <Chinesesimp>c2013-2018波希米亚互动工作室a。s。保留所有权利。</Chinesesimp>
+        <Chinese>c2013-2018波希米亞互動工作室a。s。保留所有權利。</Chinese>
+        <Chinesesimp>?2013-2018波希米亚互动工作室a。s。保留所有权利。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MAP_EXPLOSIVE">
         <Original>Explosive</Original>
@@ -8381,7 +8381,7 @@
       <Key ID="STR_MSG_font_replaced">
         <Original>Custom font %s is not present, it was replaced by the default Arma3 font. </Original>
         <Chinese>自定義字體%s不存在，將替換為ArmA3默認字體。</Chinese>
-        <Chinesesimp>自定义字体%s不存在，将替换为ArmA3默认字体。</Chinesesimp>
+        <Chinesesimp>自定义字体%s不存在，将替换为武装突袭3默认字体。</Chinesesimp>
       </Key>
       <Key ID="STR_MSG_LICENCE">
         <Original>License</Original>
@@ -8794,7 +8794,7 @@
         <Key ID="STR_STEAM_RESULT_BANNED">
           <Original>VAC2 banned.</Original>
           <Chinese>VAC2banned。</Chinese>
-          <Chinesesimp>VAC2banned。</Chinesesimp>
+          <Chinesesimp>VAC2封禁。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_RESULT_PERSIST_FAILED">
           <Original>Failed to write change to the data store.</Original>
@@ -8839,7 +8839,7 @@
         <Key ID="STR_STEAM_RESULT_IP_NOT_FOUND">
           <Original>IP address not found.</Original>
           <Chinese>IP位址未找到。</Chinese>
-          <Chinesesimp>IP位址未找到。</Chinesesimp>
+          <Chinesesimp>IP地址未找到。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_RESULT_LOGON_SESSION_REPLACED">
           <Original>Logon session replaced.</Original>
@@ -9015,12 +9015,12 @@
       <Key ID="STR_MISSION_PUBLISH_PROGRESS">
         <Original>Publishing mission to Steam Workshop...</Original>
         <Chinese>發佈任務至Steam工作坊...</Chinese>
-        <Chinesesimp>发布任务至Steam工作坊...</Chinesesimp>
+        <Chinesesimp>发布任务至Steam创意工坊...</Chinesesimp>
       </Key>
       <Key ID="STR_MISSION_UPDATE_PROGRESS">
         <Original>Updating mission in Steam workshop....</Original>
         <Chinese>更新任務至Steam工作坊....</Chinese>
-        <Chinesesimp>更新任务至Steam工作坊....</Chinesesimp>
+        <Chinesesimp>更新任务至Steam创意工坊....</Chinesesimp>
       </Key>
       <Key ID="STR_MISSION_DOWNLOAD_PROGRESS">
         <Original>Downloading Steam file (%dKB/%dKB).</Original>
@@ -9080,7 +9080,7 @@
       <Key ID="STR_MISSION_WORKSHOP_AGREEMENT_FAILED">
         <Original>You have to agree to the Steam Workshop license to be able to publish your mission.</Original>
         <Chinese>你必須同意steam工作坊的許可，才能夠發佈任務。</Chinese>
-        <Chinesesimp>你必须同意steam工作坊的许可，才能够发布任务。</Chinesesimp>
+        <Chinesesimp>你必须同意steam创意工坊的许可，才能够发布任务。</Chinesesimp>
       </Key>
       <Key ID="STR_MISSION_TITLE_TEXT">
         <Original>Title:</Original>
@@ -9115,7 +9115,7 @@
       <Key ID="STR_WORKSHOP_BUTTON_GAME">
         <Original>Workshop</Original>
         <Chinese>工作坊</Chinese>
-        <Chinesesimp>工作坊</Chinesesimp>
+        <Chinesesimp>创意工坊</Chinesesimp>
       </Key>
       <Key ID="STR_MISSION_PUBLISH_NOT_ENOUGHT_SPACE">
         <Original>There is not enough free space in Steam Cloud. Remove some content and try again.</Original>
@@ -9155,7 +9155,7 @@
       <Key ID="STR_STEAM_CLOUD_DISABLED">
         <Original>Steam cloud is disabled in steam client. To use workshop features, please enable cloud services in your client for your account and for this application.</Original>
         <Chinese>Steam帳號被禁用Steam雲。要使用工作坊的功能，請啟用雲端服務。</Chinese>
-        <Chinesesimp>Steam帐号被禁用Steam云。要使用工作坊的功能，请启用云端服务。</Chinesesimp>
+        <Chinesesimp>Steam帐号被禁用Steam云。要使用创意工坊的功能，请启用云端服务。</Chinesesimp>
       </Key>
       <Key ID="STR_STEAM_DELETE_QUESTION">
         <Original>Do you want to delete mission: "%s"?</Original>
@@ -9170,7 +9170,7 @@
       <Key ID="STR_STEAM_FILE_DOWNLOAD_DISK_FULL">
         <Original>Disk is full. Downloading of the steam file has failed.</Original>
         <Chinese>硬碟已滿。從Steam下載的檔案已失敗。</Chinese>
-        <Chinesesimp>硬碟已满。从Steam下载的档案已失败。</Chinesesimp>
+        <Chinesesimp>硬盘已满。从Steam下载的档案已失败。</Chinesesimp>
       </Key>
       <Container name="Tag_tooltips">
         <Key ID="STR_sw_tag_singleplayer">
@@ -9417,7 +9417,7 @@
       <Key ID="STR_STEAM_OPEN_WORKSHOP_TOOLTIP_GAME">
         <Original>Opens game workshop to browse and subscribe new content.</Original>
         <Chinese>打開工作坊來瀏覽與訂閱新的內容。</Chinese>
-        <Chinesesimp>打开工作坊来浏览与订阅新的内容。</Chinesesimp>
+        <Chinesesimp>打开创意工坊来浏览与订阅新的内容。</Chinesesimp>
       </Key>
       <Key ID="STR_STEAM_SLIDER_TOOLTIP_FREED">
         <Original>Currently used space: %4.2fMB. New mission will take %4.2fMB less.</Original>
@@ -9427,7 +9427,7 @@
       <Key ID="STR_STEAM_OPEN_WORKSHOP_TOOLTIP_MISSION">
         <Original>Open selected mission in Steam workshop to show more details.</Original>
         <Chinese>打開在Steam工作坊選定的任務來獲取更多資訊。</Chinese>
-        <Chinesesimp>打开在Steam工作坊选定的任务来获取更多资讯。</Chinesesimp>
+        <Chinesesimp>打开在Steam创意工坊选定的任务来获取更多信息。</Chinesesimp>
       </Key>
       <Key ID="STR_STEAM_SAVE_QUESTION">
         <Original>Mission has to be saved before publishing on Steam. Do you want to save current mission?</Original>
@@ -9442,7 +9442,7 @@
       <Key ID="STR_STEAM_SCENARIOS_FOLDER_INVITE">
         <Original>Subscribe to user-generated scenarios and download them straight into the game from Steam Workshop.</Original>
         <Chinese>直接透過Steam工作坊來下載已訂閱用戶自行創作的任務到遊戲中。</Chinese>
-        <Chinesesimp>直接透过Steam工作坊来下载已订阅用户自行创作的任务到游戏中。</Chinesesimp>
+        <Chinesesimp>直接透过Steam创意工坊来下载已订阅用户自行创作的任务到游戏中。</Chinesesimp>
       </Key>
       <Key ID="STR_WORKSHOP_SORT_RATING">
         <Original>Sort by rating</Original>
@@ -9473,17 +9473,17 @@
         <Key ID="STR_STEAM_OVERLAY_DISABLED">
           <Original>Opening the page failed because the Steam overlay is disabled. Please enable Steam overlay in the Steam client options and restart the game.</Original>
           <Chinese>開啟網頁失敗，因為Steam內嵌介面並未啟動。請在Steam客戶端選項中開啟Steam內嵌介面並重新啟動遊戲。</Chinese>
-          <Chinesesimp>开启网页失败，因为Steam内嵌介面并未启动。请在Steam客户端选项中开启Steam内嵌介面并重新启动游戏。</Chinesesimp>
+          <Chinesesimp>开启网页失败，因为Steam内嵌界面并未启动。请在Steam客户端选项中开启Steam内嵌界面并重新启动游戏。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_OVERLAY_DISABLED_WORKSHOP">
           <Original>Opening the Workshop page failed because the Steam overlay is disabled. Please enable Steam overlay in the Steam client options and restart the game.</Original>
           <Chinese>開啟工作坊失敗，因為Steam內嵌介面並未啟動。請在Steam客戶端選項中開啟Steam內嵌介面並重新啟動遊戲。</Chinese>
-          <Chinesesimp>开启工作坊失败，因为Steam内嵌介面并未启动。请在Steam客户端选项中开启Steam内嵌介面并重新启动游戏。</Chinesesimp>
+          <Chinesesimp>开启创意工坊失败，因为Steam内嵌界面并未启动。请在Steam客户端选项中开启Steam内嵌界面并重新启动游戏。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_OVERLAY_DISABLED_STORE">
           <Original>Opening the Store page failed because the Steam overlay is disabled. Please enable Steam overlay in the Steam client options and restart the game.</Original>
           <Chinese>開啟商店失敗，因為Steam內嵌介面並未啟動。請在Steam客戶端選項中開啟Steam內嵌介面並重新啟動遊戲。</Chinese>
-          <Chinesesimp>开启商店失败，因为Steam内嵌介面并未启动。请在Steam客户端选项中开启Steam内嵌介面并重新启动游戏。</Chinesesimp>
+          <Chinesesimp>开启商店失败，因为Steam内嵌界面并未启动。请在Steam客户端选项中开启Steam内嵌界面并重新启动游戏。</Chinesesimp>
         </Key>
         <Key ID="STR_STEAM_OVERLAY_DISABLED_WEBSITE_TOOLTIP">
           <Original>Open the page in your (external) web browser instead.</Original>
@@ -9517,13 +9517,13 @@
     <Container name="Splash">
       <Key ID="STR_A3_legal_splash">
         <Original>© 2013-2018 Bohemia Interactive a.s. Arma® and Bohemia Interactive® are registered trademarks of Bohemia Interactive a.s. All rights reserved.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;NVIDIA GameWorks™ Technology provided under license from NVIDIA Corporation. Copyright © 2002-2018 NVIDIA Corporation. All rights reserved.&lt;br /&gt;NVIDIA® and PhysX® are trademarks of NVIDIA Corporation and are used under license.&lt;br /&gt;&lt;br /&gt;Portions of this software utilize Simul True Sky technology (© 2015 Simul Software Ltd, all rights reserved).&lt;br /&gt;&lt;br /&gt;This product includes copyrighted material of DigitalGlobe, Inc. All rights reserved.&lt;br /&gt;&lt;br /&gt;Arma 3 simulates real-world weapons, vehicles and other equipment. The product names, logos, brands and other trademarks&lt;br /&gt;depicted or referred to in the game or in its ancillary materials are the property of their respective trademark owners.&lt;br /&gt;These trademark owners, and the manufacturers of the weapons, vehicles and other equipment used in the game,&lt;br /&gt;are not affiliated with the producer of Arma 3 and do not endorse or sponsor the game.</Original>
-        <Chinese>©2013-2018波希米亞互動工作室a。s。Arma®和波希米亞互動工作室®皆為波希米亞互動工作室a。s。的註冊商標。保留所有權利。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;NVIDIAGameWorksTM技術由NVIDIA公司提供。版權訊息©2002-2018NVIDIA公司。保留所有權利。&lt;br/&gt;NVIDIA®和PhysX®皆為NVIDIA公司之商標並已授權使用。&lt;br/&gt;&lt;br/&gt;本產品包含一部分SimulTrueSky的技術(©2015SimulSoftware公司，保留所有權利)。&lt;br/&gt;&lt;br/&gt;本產品包括一些DigitalGlobe公司授權的素材。保留所有權利。&lt;br/&gt;&lt;br/&gt;ArmA3模擬重現真實世界的武器，載具以及其他裝備。在本產品裡提及的名稱，商標，品牌等等&lt;br/&gt;在遊戲中使用於描述或提及，其版權皆屬於原註冊之公司所有。&lt;br/&gt;這些商標所有者，以及其他在遊戲中使用的武器，載具及其他裝備的製造商，&lt;br/&gt;其版權並不屬於ArmA3的製作團隊。</Chinese>
-        <Chinesesimp>c2013-2018波希米亚互动工作室a。s。ArmaR和波希米亚互动工作室R皆为波希米亚互动工作室a。s。的注册商标。保留所有权利。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;NVIDIAGameWorksTM技术由NVIDIA公司提供。版权讯息c2002-2018NVIDIA公司。保留所有权利。&lt;br/&gt;NVIDIAR和PhysXR皆为NVIDIA公司之商标并已授权使用。&lt;br/&gt;&lt;br/&gt;本产品包含一部分SimulTrueSky的技术(c2015SimulSoftware公司，保留所有权利)。&lt;br/&gt;&lt;br/&gt;本产品包括一些DigitalGlobe公司授权的素材。保留所有权利。&lt;br/&gt;&lt;br/&gt;ArmA3模拟重现真实世界的武器，载具以及其他装备。在本产品里提及的名称，商标，品牌等等&lt;br/&gt;在游戏中使用于描述或提及，其版权皆属于原注册之公司所有。&lt;br/&gt;这些商标所有者，以及其他在游戏中使用的武器，载具及其他装备的制造商，&lt;br/&gt;其版权并不属于ArmA3的制作团队。</Chinesesimp>
+        <Chinese>c2013-2018波希米亞互動工作室a。s。ArmaR和波希米亞互動工作室R皆為波希米亞互動工作室a。s。的註冊商標。保留所有權利。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;NVIDIA GameWorks?技術由NVIDIA公司提供。版權訊息c2002-2018 NVIDIA公司。保留所有權利。&lt;br/&gt;NVIDIAR和PhysXR皆為NVIDIA公司之商標並已授權使用。&lt;br/&gt;&lt;br/&gt;本產品包含一部分Simul True Sky的技術(c 2015 Simul Software公司，保留所有權利)。&lt;br/&gt;&lt;br/&gt;本產品包括一些DigitalGlobe公司授權的素材。保留所有權利。&lt;br/&gt;&lt;br/&gt;ArmA3模擬重現真實世界的武器，載具以及其他裝備。在本產品裡提及的名稱，商標，品牌等等&lt;br/&gt;在遊戲中使用於描述或提及，其版權皆屬於原註冊之公司所有。&lt;br/&gt;這些商標所有者，以及其他在遊戲中使用的武器，載具及其他裝備的製造商，&lt;br/&gt;其版權並不屬於ArmA3的製作團隊。</Chinese>
+        <Chinesesimp>?2013-2018波希米亚互动工作室a。s。武装突袭?和波希米亚互动工作室R皆为波希米亚互动工作室a。s。的注册商标。保留所有权利。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;NVIDIA GameWorks?技术由NVIDIA公司提供。版权信息?2002-2018 NVIDIA公司。保留所有权利。&lt;br/&gt;NVIDIA?和PhysX?皆为NVIDIA公司之商标并已授权使用。&lt;br/&gt;&lt;br/&gt;本产品包含一部分Simul True Sky的技术(? 2015 Simul Software公司，保留所有权利)。&lt;br/&gt;&lt;br/&gt;本产品包括一些DigitalGlobe公司授权的素材。保留所有权利。&lt;br/&gt;&lt;br/&gt;武装突袭3模拟重现真实世界的武器，载具以及其他装备。在本产品里提及的名称，商标，品牌等等&lt;br/&gt;在游戏中使用于描述或提及，其版权皆属于原注册之公司所有。&lt;br/&gt;这些商标所有者，以及其他在游戏中使用的武器，载具及其他装备的制造商，&lt;br/&gt;其版权并不属于武装突袭3的制作团队。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_basic_copyright">
         <Original>© 2013-2018 Bohemia Interactive a.s. All rights reserved. Arma 3™ and Bohemia Interactive® are trademarks or registered trademarks of Bohemia Interactive a.s.</Original>
-        <Chinese>©2013-2018波希米亞互動工作室a。s。保留所有權利。ArmA3TM和波希米亞互動工作室®皆為波希米亞互動工作室a。s。的註冊商標。</Chinese>
-        <Chinesesimp>c2013-2018波希米亚互动工作室a。s。保留所有权利。ArmA3TM和波希米亚互动工作室R皆为波希米亚互动工作室a。s。的注册商标。</Chinesesimp>
+        <Chinese>c2013-2018波希米亞互動工作室a。s。保留所有權利。ArmA3?和波希米亞互動工作室R皆為波希米亞互動工作室a。s。的註冊商標。</Chinese>
+        <Chinesesimp>?2013-2018波希米亚互动工作室a。s。保留所有权利。武装突袭?和波希米亚互动工作室?皆为波希米亚互动工作室a。s。的注册商标。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_game_version">
         <Original>%s</Original>
@@ -9538,7 +9538,7 @@
       <Key ID="STR_A3_MORE_INFO">
         <Original>FOR MORE INFORMATION</Original>
         <Chinese>欲瞭解更多訊息</Chinese>
-        <Chinesesimp>欲了解更多讯息</Chinesesimp>
+        <Chinesesimp>欲了解更多信息</Chinesesimp>
       </Key>
     </Container>
     <Container name="Controls">
@@ -10043,7 +10043,7 @@
         <Key ID="str_controls_tooltips_VOICE_OVER_NET">
           <Original>Activates voice-over-network permanently</Original>
           <Chinese>開啟語音通訊</Chinese>
-          <Chinesesimp>开启语音通讯</Chinesesimp>
+          <Chinesesimp>开启语音通信</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_CONFIGURE_KEY_AMBIGUITY_FULL">
           <Original>Duplicate</Original>
@@ -10078,7 +10078,7 @@
         <Key ID="str_controls_tooltips_NEXT_CHANNEL">
           <Original>Switches to next channel in communications: chat, voice-over-network</Original>
           <Chinese>切換下一個通訊頻道:聊天，語音通訊</Chinese>
-          <Chinesesimp>切换下一个通讯频道:聊天，语音通讯</Chinesesimp>
+          <Chinesesimp>切换下一个通信频道:聊天，语音通信</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_SLOW_FORWARD">
           <Original>Move forward with decreased speed</Original>
@@ -10093,12 +10093,12 @@
         <Key ID="str_controls_tooltips_PREV_CHANNEL">
           <Original>Switches to previous channel in communications: chat, voice-over-network</Original>
           <Chinese>切換上一個通訊頻道:聊天，語音通訊</Chinese>
-          <Chinesesimp>切换上一个通讯频道:聊天，语音通讯</Chinesesimp>
+          <Chinesesimp>切换上一个通信频道:聊天，语音通信</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_PUSH_TO_TALK">
           <Original>Push to talk</Original>
           <Chinese>按下開始語音通訊</Chinese>
-          <Chinesesimp>按下开始语音通讯</Chinesesimp>
+          <Chinesesimp>按下开始语音通信</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_ACTION_FREELOOK">
           <Original>Press to look around</Original>
@@ -10938,7 +10938,7 @@
         <Key ID="str_controls_tooltips_user_defined">
           <Original>Click to assign custom action</Original>
           <Chinese>點擊來指定自訂動作</Chinese>
-          <Chinesesimp>点击来指定自订动作</Chinesesimp>
+          <Chinesesimp>点击来指定自定义动作</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_HELI_ROPE_ACTION">
           <Original>Attach cargo or release attached cargo</Original>
@@ -11294,7 +11294,7 @@
         <Key ID="STR_CONTROLS_TOOLTIPS_CAMERA_INTERFACE">
           <Original>Toggle interface</Original>
           <Chinese>切換介面</Chinese>
-          <Chinesesimp>切换介面</Chinesesimp>
+          <Chinesesimp>切换界面</Chinesesimp>
         </Key>
         <Key ID="STR_CONTROLS_TOOLTIPS_CAMERA_VISION_MODE">
           <Original>Toggle vision mode (e.g. night or thermal vision)</Original>
@@ -11389,7 +11389,7 @@
         <Key ID="STR_USRACT_CAMERA_INTERFACE">
           <Original>Toggle Interface</Original>
           <Chinese>切換介面</Chinese>
-          <Chinesesimp>切换介面</Chinesesimp>
+          <Chinesesimp>切换界面</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_CAMERA_VISION_MODE">
           <Original>Toggle Vision Mode</Original>
@@ -11747,7 +11747,7 @@
         <Key ID="str_usract_curator_watch">
           <Original>Toggle time information</Original>
           <Chinese>切換時間資訊</Chinese>
-          <Chinesesimp>切换时间资讯</Chinesesimp>
+          <Chinesesimp>切换时间信息</Chinesesimp>
         </Key>
         <Key ID="str_usract_curator_toggle_interface">
           <Original>Toggle interface</Original>
@@ -11862,7 +11862,7 @@
         <Key ID="str_controls_tooltips_curator_toggle_interface">
           <Original>Hide the Zeus interface. This can be useful for capturing screenshots or videos.</Original>
           <Chinese>隱藏宙斯介面。這可用於拍攝影片或照片。</Chinese>
-          <Chinesesimp>隐藏宙斯介面。这可用于拍摄影片或照片。</Chinesesimp>
+          <Chinesesimp>隐藏宙斯界面。这可用于拍摄影片或照片。</Chinesesimp>
         </Key>
         <Key ID="str_controls_tooltips_curator_toggle_edit">
           <Original>Show or hide the list of editable entities</Original>
@@ -12541,7 +12541,7 @@
       <Key ID="STR_SESSION_STATUS_WRONG_VERSION">
         <Original>Different version of Arma 3.</Original>
         <Chinese>ArmA3的版本並不相同。</Chinese>
-        <Chinesesimp>ArmA3的版本并不相同。</Chinesesimp>
+        <Chinesesimp>武装突袭3的版本并不相同。</Chinesesimp>
       </Key>
       <Key ID="STR_FILTER_MONETIZED">
         <Original>%s</Original>
@@ -13153,8 +13153,8 @@
         </Key>
         <Key ID="str_disp_conf_floating_zone">
           <Original>Aiming deadzone:</Original>
-          <Chinese>准心浮動區域:</Chinese>
-          <Chinesesimp>准心浮动区域:</Chinesesimp>
+          <Chinese>準心浮動區域:</Chinese>
+          <Chinesesimp>准星浮动区域:</Chinesesimp>
         </Key>
         <Key ID="str_disp_conf_mouse_filtering">
           <Original>Smoothing:</Original>
@@ -13243,8 +13243,8 @@
         </Key>
         <Key ID="str_credit_copyright">
           <Original>© 2007 Bohemia Interactive Studio</Original>
-          <Chinese>©2007波希米亞互動工作室</Chinese>
-          <Chinesesimp>c2007波希米亚互动工作室</Chinesesimp>
+          <Chinese>c2007波希米亞互動工作室</Chinese>
+          <Chinesesimp>?2007波希米亚互动工作室</Chinesesimp>
         </Key>
         <Key ID="str_reply_one_less">
           <Original>One Less</Original>
@@ -13334,7 +13334,7 @@
         <Key ID="str_radio_custom">
           <Original>Custom</Original>
           <Chinese>自訂義</Chinese>
-          <Chinesesimp>自订义</Chinesesimp>
+          <Chinesesimp>自定义义</Chinesesimp>
         </Key>
         <Key ID="str_disp_arceff_title">
           <Original>Edit effects</Original>
@@ -13359,7 +13359,7 @@
         <Key ID="str_opt_video_uisize">
           <Original>Interface size:</Original>
           <Chinese>用戶介面尺寸:</Chinese>
-          <Chinesesimp>用户介面尺寸:</Chinesesimp>
+          <Chinesesimp>用户界面尺寸:</Chinesesimp>
         </Key>
         <Key ID="str_disp_ip_port">
           <Original>Port:</Original>
@@ -13484,7 +13484,7 @@
         <Key ID="str_disp_new_user_speaker">
           <Original>Speaker:</Original>
           <Chinese>內建人物聲音:</Chinese>
-          <Chinesesimp>内建人物声音:</Chinesesimp>
+          <Chinesesimp>内置人物声音:</Chinesesimp>
         </Key>
         <Key ID="str_disp_new_user_squad">
           <Original>Squad URL:</Original>
@@ -14064,7 +14064,7 @@
         </Key>
         <Key ID="str_ui_debug_title">
           <Original>Debug console</Original>
-          <Chinese>除錯控制台</Chinese>
+          <Chinese>除錯控制臺</Chinese>
           <Chinesesimp>除错控制台</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_mp_player_count">
@@ -14680,12 +14680,12 @@
         <Key ID="str_disp_ip_address">
           <Original>Address:</Original>
           <Chinese>位址:</Chinese>
-          <Chinesesimp>位址:</Chinesesimp>
+          <Chinesesimp>地址:</Chinesesimp>
         </Key>
         <Key ID="str_disp_ip_title">
           <Original>Host IP Address</Original>
           <Chinese>伺服器IP位址</Chinese>
-          <Chinesesimp>服务器IP位址</Chinesesimp>
+          <Chinesesimp>服务器IP地址</Chinesesimp>
         </Key>
         <Key ID="STR_DISP_LATER">
           <Original>Later</Original>
@@ -14815,7 +14815,7 @@
         <Key ID="str_disp_mp_pl_icq">
           <Original>IM:</Original>
           <Chinese>即時通訊:</Chinese>
-          <Chinesesimp>即时通讯:</Chinesesimp>
+          <Chinesesimp>即时通信:</Chinesesimp>
         </Key>
         <Key ID="str_disp_mp_pl_mail">
           <Original>E-mail:</Original>
@@ -15160,7 +15160,7 @@
         <Key ID="str_disp_opt_resolution">
           <Original>Interface resolution:</Original>
           <Chinese>介面分辨率:</Chinese>
-          <Chinesesimp>介面分辨率:</Chinesesimp>
+          <Chinesesimp>界面分辨率:</Chinesesimp>
         </Key>
         <Key ID="str_disp_opt_shading_detail">
           <Original>Shading detail:</Original>
@@ -15529,7 +15529,7 @@
         </Key>
         <Key ID="str_language_chinesesimp">
           <Original>Chinese simplified</Original>
-          <Chinese>简体中文</Chinese>
+          <Chinese>?體中文</Chinese>
           <Chinesesimp>简体中文</Chinesesimp>
         </Key>
         <Key ID="str_language_chinesetrad">
@@ -15676,7 +15676,7 @@
           <Key ID="str_atoc_treea2">
             <Original>Arma 2 trees</Original>
             <Chinese>ArmA2樹木</Chinese>
-            <Chinesesimp>ArmA2树木</Chinesesimp>
+            <Chinesesimp>武装突袭2树木</Chinesesimp>
           </Key>
           <Key ID="str_fxaa">
             <Original>FXAA</Original>
@@ -15686,7 +15686,7 @@
           <Key ID="str_atoc_treea2_grass">
             <Original>Arma 2 trees + grass</Original>
             <Chinese>ArmA2樹木+草地</Chinese>
-            <Chinesesimp>ArmA2树木+草地</Chinesesimp>
+            <Chinesesimp>武装突袭2树木+草地</Chinesesimp>
           </Key>
           <Key ID="str_atoc_treeoa_treea2_grass">
             <Original>All trees + grass</Original>
@@ -15753,7 +15753,7 @@
           <Key ID="STR_DISP_EXPANSIONS">
             <Original>Expansions</Original>
             <Chinese>模組掛載資訊</Chinese>
-            <Chinesesimp>模组挂载资讯</Chinesesimp>
+            <Chinesesimp>模组挂载信息</Chinesesimp>
           </Key>
           <Key ID="STR_DISP_ADDON_ACTIONS_TITLE">
             <Original>Select what to do</Original>
@@ -15773,7 +15773,7 @@
           <Key ID="STR_TOOLTIP_MAIN_EXPANSIONS">
             <Original>Browse and configure available expansions and mods.</Original>
             <Chinese>瀏覽及設定可用的模組及資訊。</Chinese>
-            <Chinesesimp>浏览及设定可用的模组及资讯。</Chinesesimp>
+            <Chinesesimp>浏览及设定可用的模组及信息。</Chinesesimp>
           </Key>
           <Key ID="STR_MOD_LAUNCHER_ACTION">
             <Original>Website</Original>
@@ -16445,7 +16445,7 @@
         <Key ID="str_xbox_voice_communicator">
           <Original>Communicator</Original>
           <Chinese>通訊</Chinese>
-          <Chinesesimp>通讯</Chinesesimp>
+          <Chinesesimp>通信</Chinesesimp>
         </Key>
         <Key ID="str_ac_land">
           <Original>LAND</Original>
@@ -16654,8 +16654,8 @@
         </Key>
         <Key ID="str_xbox_msg_stats_not_uploaded">
           <Original>You are about to continue without uploading your score to Xbox Live.</Original>
-          <Chinese>您是否繼續上傳你的分數到XboxLive。</Chinese>
-          <Chinesesimp>您是否继续上传你的分数到XboxLive。</Chinesesimp>
+          <Chinese>您是否繼續上傳你的分數到Xbox Live。</Chinese>
+          <Chinesesimp>您是否继续上传你的分数到Xbox Live。</Chinesesimp>
         </Key>
         <Key ID="str_action_engineoff">
           <Original>Engine off</Original>
@@ -16685,7 +16685,7 @@
         <Key ID="str_xbox_msg_cable">
           <Original>Network cable is not connected to your Xbox console. Please check your network cable.</Original>
           <Chinese>網路線沒有連接到Xbox主機。請檢查您的網路線。</Chinese>
-          <Chinesesimp>网路线没有连接到Xbox主机。请检查您的网路线。</Chinesesimp>
+          <Chinesesimp>网线没有连接到Xbox主机。请检查您的网线。</Chinesesimp>
         </Key>
         <Key ID="str_action_first_aid">
           <Original>First Aid</Original>
@@ -16729,8 +16729,8 @@
         </Key>
         <Key ID="str_xbox_live_suffix">
           <Original>I authorize you to charge my payment method. Please see the Terms of Use in the Xbox Dashboard or www.xbox.com/live for Xbox Live policy on cancellations and refunds.</Original>
-          <Chinese>同意授權個人付款方式。請參閱Xbox使用條款或www。xbox。com的取消和退款XboxLive的說明。</Chinese>
-          <Chinesesimp>同意授权个人付款方式。请参阅Xbox使用条款或www。xbox。com的取消和退款XboxLive的说明。</Chinesesimp>
+          <Chinese>同意授權個人付款方式。請參閱Xbox使用條款或www。xbox。com的取消和退款Xbox Live的說明。</Chinese>
+          <Chinesesimp>同意授权个人付款方式。请参阅Xbox使用条款或www。xbox。com的取消和退款Xbox Live的说明。</Chinesesimp>
         </Key>
         <Key ID="str_action_gearopen">
           <Original>Open subordinate's inventory</Original>
@@ -17099,8 +17099,8 @@
         </Key>
         <Key ID="str_xbox_live_error_update">
           <Original>A required update is available for the Xbox Live service. You cannot connect to Xbox Live until the update is installed.</Original>
-          <Chinese>目前所需更新的服務無法連接至XboxLive更新。</Chinese>
-          <Chinesesimp>目前所需更新的服务无法连接至XboxLive更新。</Chinesesimp>
+          <Chinese>目前所需更新的服務無法連接至Xbox Live更新。</Chinese>
+          <Chinesesimp>目前所需更新的服务无法连接至Xbox Live更新。</Chinesesimp>
         </Key>
         <Key ID="str_action_strokegun">
           <Original>Strike with weapon</Original>
@@ -17114,8 +17114,8 @@
         </Key>
         <Key ID="str_xbox_live_error_signed_out">
           <Original>You were signed out of Xbox Live because another person signed on using your account.</Original>
-          <Chinese>你所註冊XboxLive帳戶，已有用戶已有註冊。</Chinese>
-          <Chinesesimp>你所注册XboxLive帐户，已有用户已有注册。</Chinesesimp>
+          <Chinese>你所註冊Xbox Live帳戶，已有用戶已有註冊。</Chinese>
+          <Chinesesimp>你所注册Xbox Live帐户，已有用户已有注册。</Chinesesimp>
         </Key>
         <Key ID="str_action_takeflag">
           <Original>Take Flag</Original>
@@ -17174,8 +17174,8 @@
         </Key>
         <Key ID="str_xbox_live_error_new_msg">
           <Original>You have a new Xbox Live message.</Original>
-          <Chinese>你有新的XboxLive訊息。</Chinese>
-          <Chinesesimp>你有新的XboxLive讯息。</Chinesesimp>
+          <Chinese>你有新的Xbox Live訊息。</Chinese>
+          <Chinesesimp>你有新的Xbox Live信息。</Chinesesimp>
         </Key>
         <Key ID="str_action_to_driver">
           <Original>Switch to Driver</Original>
@@ -17189,8 +17189,8 @@
         </Key>
         <Key ID="str_xbox_live_error_important_msg">
           <Original>You have an important message from Xbox Live.</Original>
-          <Chinese>您有一個重要的消息於XboxLive。</Chinese>
-          <Chinesesimp>您有一个重要的消息于XboxLive。</Chinesesimp>
+          <Chinese>您有一個重要的消息於Xbox Live。</Chinese>
+          <Chinesesimp>您有一个重要的消息于Xbox Live。</Chinesesimp>
         </Key>
         <Key ID="str_action_to_pilot">
           <Original>Switch to Pilot</Original>
@@ -17219,8 +17219,8 @@
         </Key>
         <Key ID="str_xbox_live_error_connect">
           <Original>Your Xbox console cannot connect to Xbox Live.</Original>
-          <Chinese>你的Xbox不能連線到XboxLive。</Chinese>
-          <Chinesesimp>你的Xbox不能连线到XboxLive。</Chinesesimp>
+          <Chinese>你的Xbox不能連線到Xbox Live。</Chinese>
+          <Chinesesimp>你的Xbox不能连线到Xbox Live。</Chinesesimp>
         </Key>
         <Key ID="str_action_turnout">
           <Original>Turn Out</Original>
@@ -17249,8 +17249,8 @@
         </Key>
         <Key ID="str_xbox_live_error_busy">
           <Original>The Xbox Live service is very busy.</Original>
-          <Chinese>XboxLive服務目前忙碌中。</Chinese>
-          <Chinesesimp>XboxLive服务目前忙碌中。</Chinesesimp>
+          <Chinese>Xbox Live服務目前忙碌中。</Chinese>
+          <Chinesesimp>Xbox Live服务目前忙碌中。</Chinesesimp>
         </Key>
         <Key ID="str_action_weapononback">
           <Original>%1 on back</Original>
@@ -17370,7 +17370,7 @@
         <Key ID="str_ailevel_custom">
           <Original>Custom</Original>
           <Chinese>自訂義</Chinese>
-          <Chinesesimp>自订义</Chinesesimp>
+          <Chinesesimp>自定义义</Chinesesimp>
         </Key>
         <Key ID="str_xbox_hint_free_blocks">
           <Original>%1 Free blocks</Original>
@@ -17665,7 +17665,7 @@
         <Key ID="str_author_23">
           <Original>John Fitzgerald Kennedy</Original>
           <Chinese>約翰·甘迺迪</Chinese>
-          <Chinesesimp>约翰·甘迺迪</Chinesesimp>
+          <Chinesesimp>约翰·甘乃迪</Chinesesimp>
         </Key>
         <Key ID="str_word_distfar">
           <Original>very far</Original>
@@ -19030,12 +19030,12 @@
         <Key ID="str_diff_hud">
           <Original>Extended HUD info</Original>
           <Chinese>額外的用戶介面訊息</Chinese>
-          <Chinesesimp>额外的用户介面讯息</Chinesesimp>
+          <Chinesesimp>额外的用户界面信息</Chinesesimp>
         </Key>
         <Key ID="str_diff_hud_group_info">
           <Original>HUD show group</Original>
           <Chinese>用戶介面顯示組隊訊息</Chinese>
-          <Chinesesimp>用户介面显示组队讯息</Chinesesimp>
+          <Chinesesimp>用户界面显示组队信息</Chinesesimp>
         </Key>
         <Key ID="str_usract_prev_channel">
           <Original>Previous Channel</Original>
@@ -19045,12 +19045,12 @@
         <Key ID="str_diff_hud_perm">
           <Original>Permanent extended HUD info</Original>
           <Chinese>永不消失的額外用戶介面訊息</Chinese>
-          <Chinesesimp>永不消失的额外用户介面讯息</Chinesesimp>
+          <Chinesesimp>永不消失的额外用户界面信息</Chinesesimp>
         </Key>
         <Key ID="str_diff_hud_wp">
           <Original>HUD waypoints info</Original>
           <Chinese>用戶介面顯示路徑點訊息</Chinese>
-          <Chinesesimp>用户介面显示路径点讯息</Chinesesimp>
+          <Chinesesimp>用户界面显示路径点信息</Chinesesimp>
         </Key>
         <Key ID="str_usract_prev_action">
           <Original>Previous</Original>
@@ -19060,7 +19060,7 @@
         <Key ID="str_diff_hud_wp_perm">
           <Original>HUD waypoints info permanently</Original>
           <Chinese>永不消失的用戶介面路徑點訊息</Chinese>
-          <Chinesesimp>永不消失的用户介面路径点讯息</Chinesesimp>
+          <Chinesesimp>永不消失的用户界面路径点信息</Chinesesimp>
         </Key>
         <Key ID="str_diff_map">
           <Original>Extended map info</Original>
@@ -19119,8 +19119,8 @@
         </Key>
         <Key ID="str_diff_weapon_cursor">
           <Original>Weapon crosshair</Original>
-          <Chinese>武器准心</Chinese>
-          <Chinesesimp>武器准心</Chinesesimp>
+          <Chinese>武器準心</Chinese>
+          <Chinesesimp>武器准星</Chinesesimp>
         </Key>
         <Key ID="str_dik_0">
           <Original>0</Original>
@@ -20330,7 +20330,7 @@
         <Key ID="str_disp_main_live">
           <Original>XBOX LIVE</Original>
           <Chinese>XBOXLIVE</Chinese>
-          <Chinesesimp>XBOXLIVE</Chinesesimp>
+          <Chinesesimp>Xbox LIVE</Chinesesimp>
         </Key>
         <Key ID="str_usract_car_left">
           <Original>Car Left</Original>
@@ -20415,7 +20415,7 @@
         <Key ID="str_disp_multi_sockets">
           <Original>Implementation: Sockets</Original>
           <Chinese>執行:通訊端</Chinese>
-          <Chinesesimp>执行:通讯端</Chinesesimp>
+          <Chinesesimp>执行:通信端</Chinesesimp>
         </Key>
         <Key ID="str_disp_port_button">
           <Original>Port: %d</Original>
@@ -20480,7 +20480,7 @@
         <Key ID="str_usract_buld_texture_info">
           <Original>Buldozer Show Texture Info</Original>
           <Chinese>Buldozer顯示地質訊息</Chinese>
-          <Chinesesimp>Buldozer显示地质讯息</Chinesesimp>
+          <Chinesesimp>Buldozer显示地质信息</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_friends_online_playing">
           <Original>Playing %s</Original>
@@ -20629,8 +20629,8 @@
         </Key>
         <Key ID="str_disp_xbox_hint_lost_connection">
           <Original>Your Xbox console lost connection with Xbox Live.</Original>
-          <Chinese>您的Xbox主機無法與XboxLive的連線。</Chinese>
-          <Chinesesimp>您的Xbox主机无法与XboxLive的连线。</Chinesesimp>
+          <Chinese>您的Xbox主機無法與Xbox Live的連線。</Chinese>
+          <Chinesesimp>您的Xbox主机无法与Xbox Live的连线。</Chinesesimp>
         </Key>
         <Key ID="str_disp_xbox_hint_mission_create">
           <Original>%1 Create mission</Original>
@@ -20735,7 +20735,7 @@
         <Key ID="str_disp_xbox_hint_not_connect">
           <Original>Your Xbox console cannot connect to the network.</Original>
           <Chinese>您的Xbox主機無法連線到網際網路。</Chinese>
-          <Chinesesimp>您的Xbox主机无法连线到网际网路。</Chinesesimp>
+          <Chinesesimp>您的Xbox主机无法连线到网际网络。</Chinesesimp>
         </Key>
         <Key ID="str_usract_buld_move_back">
           <Original>Buldozer Move Back</Original>
@@ -21029,8 +21029,8 @@
         </Key>
         <Key ID="str_usract_aim_up">
           <Original>Aim Up</Original>
-          <Chinese>准心向上</Chinese>
-          <Chinesesimp>准心向上</Chinesesimp>
+          <Chinese>準心向上</Chinese>
+          <Chinesesimp>准星向上</Chinesesimp>
         </Key>
         <Key ID="str_ds_game_finished">
           <Original>Game finished.</Original>
@@ -21044,8 +21044,8 @@
         </Key>
         <Key ID="str_usract_aim_right">
           <Original>Aim Right</Original>
-          <Chinese>准心向右</Chinese>
-          <Chinesesimp>准心向右</Chinesesimp>
+          <Chinese>準心向右</Chinese>
+          <Chinesesimp>准星向右</Chinesesimp>
         </Key>
         <Key ID="str_ds_game_started">
           <Original>Game started.</Original>
@@ -21059,8 +21059,8 @@
         </Key>
         <Key ID="str_usract_aim_left">
           <Original>Aim Left</Original>
-          <Chinese>准心向左</Chinese>
-          <Chinesesimp>准心向左</Chinesesimp>
+          <Chinese>準心向左</Chinese>
+          <Chinesesimp>准星向左</Chinesesimp>
         </Key>
         <Key ID="str_ds_mission_read">
           <Original>Mission read.</Original>
@@ -21074,8 +21074,8 @@
         </Key>
         <Key ID="str_usract_aim_down">
           <Original>Aim Down</Original>
-          <Chinese>准心向下</Chinese>
-          <Chinesesimp>准心向下</Chinesesimp>
+          <Chinese>準心向下</Chinese>
+          <Chinesesimp>准星向下</Chinesesimp>
         </Key>
         <Key ID="str_ds_mission_read_from_dir">
           <Original>Mission %s read from directory.</Original>
@@ -21295,7 +21295,7 @@
         <Key ID="str_tooltip_information">
           <Original>Information</Original>
           <Chinese>資訊</Chinese>
-          <Chinesesimp>资讯</Chinesesimp>
+          <Chinesesimp>信息</Chinesesimp>
         </Key>
         <Key ID="str_empty">
           <Original>Empty</Original>
@@ -23050,7 +23050,7 @@
         <Key ID="str_sessions_source">
           <Original>Address: %s</Original>
           <Chinese>位址:%s</Chinese>
-          <Chinesesimp>位址:%s</Chinesesimp>
+          <Chinesesimp>地址:%s</Chinesesimp>
         </Key>
         <Key ID="str_line">
           <Original>Line</Original>
@@ -23215,7 +23215,7 @@
         <Key ID="str_server_monitor">
           <Original>Server load: FPS %.0f, memory used: %.0f MB, out: %.0f Kbps, in: %.0f Kbps</Original>
           <Chinese>伺服器載入:FPS%.0f，使用的記憶體:%.0fMB，上傳:%.0fKbps，下載:%.0fKbps</Chinese>
-          <Chinesesimp>服务器载入:FPS%.0f，使用的记忆体:%.0fMB，上传:%.0fKbps，下载:%.0fKbps</Chinesesimp>
+          <Chinesesimp>服务器载入:FPS%.0f，使用的储存空间:%.0fMB，上传:%.0fKbps，下载:%.0fKbps</Chinesesimp>
         </Key>
         <Key ID="str_log_mute">
           <Original>Mute</Original>
@@ -24010,7 +24010,7 @@
         <Key ID="str_radio_unassigned">
           <Original>****TO TRANSLATE****</Original>
           <Chinese>****TOTRANSLATE****</Chinese>
-          <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+          <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_msg_confirm_kick_off">
           <Original>Are you sure you want to remove %s from this game?</Original>
@@ -24080,7 +24080,7 @@
         <Key ID="str_msg_disk_full_t">
           <Original>Your Xbox console does not have enough free blocks to download this content. Please free %d blocks.</Original>
           <Chinese>您的Xbox主機沒有足夠的硬碟空間可存放，請釋放%空間。</Chinese>
-          <Chinesesimp>您的Xbox主机没有足够的硬碟空间可存放，请释放%空间。</Chinesesimp>
+          <Chinesesimp>您的Xbox主机没有足够的硬盘空间可存放，请释放%空间。</Chinesesimp>
         </Key>
         <Key ID="str_radio_foxtrot">
           <Original>Foxtrot</Original>
@@ -24109,8 +24109,8 @@
         </Key>
         <Key ID="str_msg_live_disconnected">
           <Original>You've been returned to the main menu because the connection to Xbox LIVE has been lost.</Original>
-          <Chinese>你已經退回到主選單，因為沒有連接上XboxLive。</Chinese>
-          <Chinesesimp>你已经退回到主选单，因为没有连接上XboxLive。</Chinesesimp>
+          <Chinese>你已經退回到主選單，因為沒有連接上Xbox Live。</Chinese>
+          <Chinesesimp>你已经退回到主选单，因为没有连接上Xbox Live。</Chinesesimp>
         </Key>
         <Key ID="str_radio_delta">
           <Original>Delta</Original>
@@ -24120,12 +24120,12 @@
         <Key ID="str_msg_live_not_signed_in">
           <Original>You need to be signed into Xbox LIVE to access this feature.</Original>
           <Chinese>你需要登入XboxLIVE後才能使用此功能。</Chinese>
-          <Chinesesimp>你需要登入XboxLIVE后才能使用此功能。</Chinesesimp>
+          <Chinesesimp>你需要登入Xbox LIVE后才能使用此功能。</Chinesesimp>
         </Key>
         <Key ID="str_msg_live_stats_warn">
           <Original>You are not signed into Xbox LIVE. Statistics will not be posted on leaderboards.</Original>
           <Chinese>您還沒有登錄到XboxLIVE的。統計數據將不會被顯示在排行榜。</Chinese>
-          <Chinesesimp>您还没有登录到XboxLIVE的。统计数据将不会被显示在排行榜。</Chinesesimp>
+          <Chinesesimp>您还没有登录到Xbox LIVE的。统计数据将不会被显示在排行榜。</Chinesesimp>
         </Key>
         <Key ID="str_radio_charlie">
           <Original>Charlie</Original>
@@ -24229,7 +24229,7 @@
         </Key>
         <Key ID="str_msg_mp_no_password">
           <Original>Password is required to join this session. Press 'Password' button and enter password for the session.</Original>
-          <Chinese>參加本伺服器需要密碼。按「密碼」按鈕，並輸入密碼。</Chinese>
+          <Chinese>參加本伺服器需要密碼。按“密碼”按鈕，並輸入密碼。</Chinese>
           <Chinesesimp>参加本服务器需要密码。按“密码”按钮，并输入密码。</Chinesesimp>
         </Key>
         <Key ID="str_quote_8">
@@ -24240,12 +24240,12 @@
         <Key ID="str_msg_mp_no_privileges">
           <Original>Your gamer profile does not have the correct permissions to access Xbox LIVE.</Original>
           <Chinese>你的玩家檔案沒有正確的權限訪問XboxLIVE。</Chinese>
-          <Chinesesimp>你的玩家档案没有正确的权限访问XboxLIVE。</Chinesesimp>
+          <Chinesesimp>你的玩家档案没有正确的权限访问Xbox LIVE。</Chinesesimp>
         </Key>
         <Key ID="str_msg_mp_not_signed_in">
           <Original>You need to be signed into Xbox LIVE to access Xbox LIVE features.</Original>
           <Chinese>您需要登錄到XboxLIVE訪問XboxLIVE功能。</Chinese>
-          <Chinesesimp>您需要登录到XboxLIVE访问XboxLIVE功能。</Chinesesimp>
+          <Chinesesimp>您需要登录到Xbox LIVE访问Xbox LIVE功能。</Chinesesimp>
         </Key>
         <Key ID="str_quote_7">
           <Original>War is not nice.</Original>
@@ -24305,7 +24305,7 @@
         <Key ID="str_msg_network_fail">
           <Original>Network services not found!</Original>
           <Chinese>網路服務沒被找到!</Chinese>
-          <Chinesesimp>网路服务没被找到!</Chinesesimp>
+          <Chinesesimp>网络服务没被找到!</Chinesesimp>
         </Key>
         <Key ID="str_quote_41">
           <Original>Much good work is lost for the lack of a little more.</Original>
@@ -24585,7 +24585,7 @@
         <Key ID="str_multi_lan">
           <Original>LAN</Original>
           <Chinese>區域網路</Chinese>
-          <Chinesesimp>区域网路</Chinesesimp>
+          <Chinesesimp>区域网络</Chinesesimp>
         </Key>
         <Key ID="str_multi_remote">
           <Original>Remote</Original>
@@ -24600,12 +24600,12 @@
         <Key ID="str_multi_title_internet">
           <Original>Network games on Internet.</Original>
           <Chinese>網際網路-多人連線模式。</Chinese>
-          <Chinesesimp>网际网路-多人连线模式。</Chinesesimp>
+          <Chinesesimp>网际网络-多人连线模式。</Chinesesimp>
         </Key>
         <Key ID="str_multi_title_lan">
           <Original>Network games on LAN.</Original>
           <Chinese>位於區域網路的多人遊戲。</Chinese>
-          <Chinesesimp>位于区域网路的多人游戏。</Chinesesimp>
+          <Chinesesimp>位于区域网络的多人游戏。</Chinesesimp>
         </Key>
         <Key ID="str_quote_23">
           <Original>Mankind must put an end to war, or war will put an end to mankind.</Original>
@@ -24654,7 +24654,7 @@
         </Key>
         <Key ID="str_quote_20">
           <Original>A man who won't die for something is not fit to live.</Original>
-          <Chinese>無法以生命捍衛某事的人，只是苟活於世上。</Chinese>
+          <Chinese>無法以生命捍衛某事的人，只是茍活於世上。</Chinese>
           <Chinesesimp>一个人如果不会为某种东西而死，就不能适应生存。</Chinesesimp>
         </Key>
         <Key ID="str_name_capital">
@@ -24714,7 +24714,7 @@
         </Key>
         <Key ID="str_quote_17">
           <Original>It is hard to have patience with people who say 'There is no death' or 'Death doesn't matter.' There is death and whatever is matters.</Original>
-          <Chinese>跟那些滿嘴「死亡不存在」、「死亡不重要」的人講話，我很難保持耐性。死亡是真實存在，而且至關重要的。</Chinese>
+          <Chinese>跟那些滿嘴“死亡不存在”、“死亡不重要”的人講話，我很難保持耐性。死亡是真實存在，而且至關重要的。</Chinese>
           <Chinesesimp>对那些说“没有死亡”或“死亡不重要”这种活的人很难有耐心。死亡是存在的，而且不管怎样都是关系重大之事。</Chinesesimp>
         </Key>
         <Key ID="str_name_hill">
@@ -24759,7 +24759,7 @@
         </Key>
         <Key ID="str_quote_14">
           <Original>As to you, Life, I reckon you are the leavings of many deaths; No doubt I have died, myself ten thousand times before.</Original>
-          <Chinese>至於你呢，「生命」，我算計你是許多個死亡留下的殘餘;無疑我自己以前已死過無數次。</Chinese>
+          <Chinese>至於你呢，“生命”，我算計你是許多個死亡留下的殘餘;無疑我自己以前已死過無數次。</Chinese>
           <Chinesesimp>至于你，生命，我想你是许多死亡的遗物;无疑我自己以前已经死过了一万次。</Chinesesimp>
         </Key>
         <Key ID="str_name_vegp">
@@ -24774,7 +24774,7 @@
         </Key>
         <Key ID="str_quote_13">
           <Original>And lastly there is the oldest and deepest desire, the Great Escape: the Escape from Death.</Original>
-          <Chinese>生命的盡頭是那最古老深層的渴望「大逃避」--逃避死亡。</Chinese>
+          <Chinese>生命的盡頭是那最古老深層的渴望“大逃避”--逃避死亡。</Chinese>
           <Chinesesimp>最后，最古老和最深切的渴望就是大逃亡:逃离死亡。</Chinesesimp>
         </Key>
         <Key ID="str_name_viewpoint">
@@ -25338,7 +25338,7 @@
         <Key ID="str_usract_group_user">
           <Original>Custom Controls</Original>
           <Chinese>自訂義控制</Chinese>
-          <Chinesesimp>自订义控制</Chinesesimp>
+          <Chinesesimp>自定义义控制</Chinesesimp>
         </Key>
         <Key ID="str_usract_group_vehicle">
           <Original>Vehicle controls</Original>
@@ -25587,7 +25587,7 @@
         <Key ID="str_usract_lite_info_type">
           <Original>Toggle Full HUD Info</Original>
           <Chinese>切換完整的HUD訊息</Chinese>
-          <Chinesesimp>切换完整的HUD讯息</Chinesesimp>
+          <Chinesesimp>切换完整的HUD信息</Chinesesimp>
         </Key>
         <Key ID="str_action_apu_off">
           <Original>APU off</Original>
@@ -25612,7 +25612,7 @@
         <Key ID="str_diff_lite_unitinfo">
           <Original>Allow full HUD info</Original>
           <Chinese>允許完整的HUD訊息</Chinese>
-          <Chinesesimp>允许完整的HUD讯息</Chinesesimp>
+          <Chinesesimp>允许完整的HUD信息</Chinesesimp>
         </Key>
         <Key ID="str_action_apu_on_tip">
           <Original> &lt;br /&gt;&lt;t size='0.64'&gt;APU on&lt;/t&gt;</Original>
@@ -26827,7 +26827,7 @@
           <Key ID="str_ca_multi_remote">
             <Original>Remote</Original>
             <Chinese>IP位址連線</Chinese>
-            <Chinesesimp>IP位址连线</Chinesesimp>
+            <Chinesesimp>IP地址连线</Chinesesimp>
           </Key>
           <Key ID="str_ca_new">
             <Original>New</Original>
@@ -27175,7 +27175,7 @@
           <Key ID="str_cfg_faces_custom">
             <Original>Custom face</Original>
             <Chinese>自訂臉譜</Chinese>
-            <Chinesesimp>自订脸谱</Chinesesimp>
+            <Chinesesimp>自定义脸谱</Chinesesimp>
           </Key>
           <Key ID="str_cfg_faces_default">
             <Original>Default face</Original>
@@ -27428,7 +27428,7 @@
           </Key>
           <Key ID="str_dn_platform">
             <Original>Platform</Original>
-            <Chinese>平台</Chinese>
+            <Chinese>平臺</Chinese>
             <Chinesesimp>平台</Chinesesimp>
           </Key>
           <Key ID="str_dn_rampconcrete">

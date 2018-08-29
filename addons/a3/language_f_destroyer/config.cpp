@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
 //DeRap: language_f_destroyer\config.bin
 //Produced from mikero's Dos Tools Dll version 6.80
-//'now' is Tue Jul 17 06:00:11 2018 : 'file' last modified on Thu Jun 14 22:55:27 2018
+//'now' is Wed Aug 29 20:48:34 2018 : 'file' last modified on Mon Jul 23 20:02:54 2018
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 

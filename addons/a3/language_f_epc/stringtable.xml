@@ -40,7 +40,7 @@
       <Key ID="str_a3_guide_smoke1">
         <Original>The proper integration of smoke into a battle is critical to both offensive and defensive roles. Smoke is on-demand concealment that allows a force to mask their movements, deceive the enemy, mask the enemy’s observation or fire, or signal.%1%1The main roles of smoke are as follows:%1%1%2%3Screening movement.%4 Smoke can be used to reduce the effectiveness of enemy fire when movement across dangerous areas is required. The enemy tends to fire at any smoke that they suspect is being used to screen movement, but due to the reduced or nonexistent visibility it causes, their fire becomes significantly degraded.%1%2%3Masking the enemy’s fire or observation.%4 By putting smoke onto the enemy’s positions, particularly their bunkers, snipers, or other high-casualty-producing systems, their fire can be greatly degraded or even eliminated for a period of time.%1%2%3Deception.%4 When employed smartly, smoke can lead an enemy to believe that hostile forces are maneuvering through a given area even when they aren’t. This can cause the enemy to direct fires into the smokescreen, wasting ammo and potentially giving away positions to supporting friendly forces.%1%2%3Signaling.%4 Smoke can be used to signal to air as well as ground forces. For aircraft, it can be used to mark enemy targets, friendly locations, landing zones, et cetera. For ground forces, it can be used in limited-communication situations (such as no radios) to convey pre-arranged signals to distant forces (such as the seizure of an objective).</Original>
         <Chinese>適當的使用煙霧彈，它可以幫助你在戰鬥中可攻可守。煙霧彈可以隱藏自己人的蹤跡，欺騙敵人，標記敵人的位置或是打信號用。%1%1他的使用方式如下:%1%1%2%3隱蔽移動。%4煙霧彈可以減少你跨越交火區時的危險。當敵人想要向你射擊時，因為有煙霧彈的掩護，敵人只能亂槍打鳥，對你的危險大大的降低。%1%2%3使用煙霧彈來遮擋敵人的火力或觀察。%4藉由設置煙霧彈在敵人的位置，掩體，狙擊手或其他危險的載具，他們的精準度將在一定的時間內降低很多。%1%2%3欺騙。%4當你把煙霧彈丟在一個地方的時候，敵人可能會以為你們將要經過煙霧裡面，進而朝裡面開火，而讓自己的位置暴露。%1%2%3信號。%4煙霧彈可以用來給空中或地面單位打信號。例如他可以為空中單位標記敵人的位置，友軍位置，降落點等等。對地面單位來說，它可用來在沒有通訊能力的狀況下(沒有無線電的時候)，發送預先安排好的信號給遠方的隊伍(像是肅清目標)。</Chinese>
-        <Chinesesimp>适当的使用烟雾弹，它可以帮助你在战斗中可攻可守。烟雾弹可以隐藏自己人的踪迹，欺骗敌人，标记敌人的位置或是打信号用。%1%1他的使用方式如下:%1%1%2%3隐蔽移动。%4烟雾弹可以减少你跨越交火区时的危险。当敌人想要向你射击时，因为有烟雾弹的掩护，敌人只能乱枪打鸟，对你的危险大大的降低。%1%2%3使用烟雾弹来遮挡敌人的火力或观察。%4藉由设置烟雾弹在敌人的位置，掩体，狙击手或其他危险的载具，他们的精准度将在一定的时间内降低很多。%1%2%3欺骗。%4当你把烟雾弹丢在一个地方的时候，敌人可能会以为你们将要经过烟雾里面，进而朝里面开火，而让自己的位置暴露。%1%2%3信号。%4烟雾弹可以用来给空中或地面单位打信号。例如他可以为空中单位标记敌人的位置，友军位置，降落点等等。对地面单位来说，它可用来在没有通讯能力的状况下(没有无线电的时候)，发送预先安排好的信号给远方的队伍(像是肃清目标)。</Chinesesimp>
+        <Chinesesimp>适当的使用烟雾弹，它可以帮助你在战斗中可攻可守。烟雾弹可以隐藏自己人的踪迹，欺骗敌人，标记敌人的位置或是打信号用。%1%1他的使用方式如下:%1%1%2%3隐蔽移动。%4烟雾弹可以减少你跨越交火区时的危险。当敌人想要向你射击时，因为有烟雾弹的掩护，敌人只能乱枪打鸟，对你的危险大大的降低。%1%2%3使用烟雾弹来遮挡敌人的火力或观察。%4藉由设置烟雾弹在敌人的位置，掩体，狙击手或其他危险的载具，他们的精准度将在一定的时间内降低很多。%1%2%3欺骗。%4当你把烟雾弹丢在一个地方的时候，敌人可能会以为你们将要经过烟雾里面，进而朝里面开火，而让自己的位置暴露。%1%2%3信号。%4烟雾弹可以用来给空中或地面单位打信号。例如他可以为空中单位标记敌人的位置，友军位置，降落点等等。对地面单位来说，它可用来在没有通信能力的状况下(没有无线电的时候)，发送预先安排好的信号给远方的队伍(像是肃清目标)。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_smoke0">
         <Original>C03 Integration of Smoke</Original>
@@ -90,7 +90,7 @@
       <Key ID="str_a3_guide_antiarmor1">
         <Original>Arma 3 offers two categories of anti-tank weapons: medium (PCML and RPG-42 Alamut) and heavy (Titan launcher). The following tips should give you an edge when using them.%1%1%2%3Know your rocket types.%4PCML uses only one type of rocket but Alamut and Titan can be loaded with standard anti-tank rocket or heavy explosive variant which is excellent when dealing with large groups of soldiers.%1%2%3When not fighting armor,%4 the launcher’s optic can be used to assist the infantry in spotting concealed or distant targets.%1%2%3Reload in cover.%4 Fire from different positions each time, as the situation permits. Backblast will give you away most of the time, so ensure that you move away from it after each shot.%1%2%3Do not waste your missiles%4 on light armored targets. MAT teams can deal with light armor just fine - save the HAT missiles for enemy main battle tanks or other high-priority threats.</Original>
         <Chinese>ArmA3提供了幾種反坦克武器供你選用:中型(PCML和RPG-42Alamut)和重型(Titan發射器)。遵從以下建議將帶給你一定的優勢。%1%1%2%3知道你的彈頭類型。%4PCML只有一種，但Alamut和Titan除了可以裝載標準反坦克彈頭外，還可使用高爆彈頭來對付敵方一群步兵。%1%2%3對付裝甲載具。%4發射器的瞄準鏡可以幫助步兵發現隱藏或遠處的目標。%1%2%3在掩體後重裝彈藥。%4如果情況允許，每次發射的位置都要有所不同。因為發射後的煙霧會把你的位置給暴露出來，發射完後請不要留在原地。%1%2%3不要浪費你的彈藥。%4不要把彈藥浪費在輕型目標上。使用高爆彈頭來對付敵人步兵，使用重彈頭來對付敵軍主戰坦克或其他高威脅目標。</Chinese>
-        <Chinesesimp>Arma3提供了几种反坦克武器供你选用:中型(PCML和RPG-42“阿拉穆特”)和重型(“泰坦”发射器)。遵从以下建议将带给你一定的优势。%1%1%2%3知道你的弹头类型。%4PCML只有一种，但“阿拉穆特”和“泰坦”除了可以装载标准反坦克弹药外，还可使用高爆弹来对付敌方集群步兵。%1%2%3对付装甲载具。%4发射器的瞄准镜可以帮助步兵发现隐藏或远处的目标。%1%2%3在掩体后重装弹药。%4如果情况允许，每次发射的位置都要有所不同。因为发射后的烟雾会把你的位置给暴露出来，发射完后请不要留在原地。%1%2%3不要浪费你的弹药。%4不要把弹药浪费在轻型目标上。使用高爆弹头来对付敌人步兵，使用重弹头来对付敌军主战坦克或其他高威胁目标。</Chinesesimp>
+        <Chinesesimp>武装突袭3提供了几种反坦克武器供你选用:中型(PCML和RPG-42“阿拉穆特”)和重型(“泰坦”发射器)。遵从以下建议将带给你一定的优势。%1%1%2%3知道你的弹头类型。%4PCML只有一种，但“阿拉穆特”和“泰坦”除了可以装载标准反坦克弹药外，还可使用高爆弹来对付敌方集群步兵。%1%2%3对付装甲载具。%4发射器的瞄准镜可以帮助步兵发现隐藏或远处的目标。%1%2%3在掩体后重装弹药。%4如果情况允许，每次发射的位置都要有所不同。因为发射后的烟雾会把你的位置给暴露出来，发射完后请不要留在原地。%1%2%3不要浪费你的弹药。%4不要把弹药浪费在轻型目标上。使用高爆弹头来对付敌人步兵，使用重弹头来对付敌军主战坦克或其他高威胁目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_antiarmor0">
         <Original>C05 Anti-Armor Gunner Tips</Original>
@@ -99,7 +99,7 @@
       </Key>
       <Key ID="str_a3_guide_antiair1">
         <Original>An anti-air missile team consists of a gunner and assistant gunner. Equipped with a manportable AA missile system such as the Titan MPRL, and an additional missile, the two must be ready to use their launcher to engage and destroy any enemy air threats that might appear over the battlefield.%1%1Basic Anti-Air Missile Gunner Guidelines:%1%1%2%3Fire high-probability shots only.%4 Try to hit the aircraft when it's flying away, or flying at a shallow oblique angle relative to you. The closer they are (to a reasonable degree), the more likely the missile will be able to hit them before their flare countermeasures can be effective.%1&lt;img size='4.2' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\good_shot01_ca.paa' /&gt; &lt;t %10&gt;(Good shots: rear, rear oblique)&lt;/t&gt; %1%2%3Seek positions that give good visibility %4 over large areas of terrain, with clear lines of fire into the sky. An anti-air team sitting at the bottom of a valley is far less effective than one positioned in a concealed ridgeline location. Likewise, a missile team hidden in thick forest isn’t in a position to do much should the enemy appear suddenly.%1&lt;img size='4.2' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\bad_shot01_ca.paa' /&gt; &lt;t %10&gt;(Bad shots: flank, frontal)&lt;/t&gt; %1%2%3Avoid shots against a jet aircraft that is flying perpendicular to you.%4 You will usually be better off waiting for a rear shot when firing on jets. Close-range flank shots against fast-moving helicopters can also be risky, but generally helos are flying at a speed that allows almost any aspect shot to work on them with equal effectiveness.%1&lt;img size='4.2' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\good_shot02_ca.paa' /&gt; &lt;t %10&gt;(Good shots: flank, rear oblique, rear)&lt;/t&gt; %1%2%3Be aware of friendly positions.%4 Shooting down an aircraft and having it land on top of a nearby friendly squad is less than desirable.</Original>
-        <Chinese>一支防空小隊是由槍手與助理所組成。通常配備著攜帶式的防空系統，像是TitanMPRL。通常由槍手來發射，助理則盡可能攜帶更多的彈藥，緊急時也可讓助理一起射擊，他們必須盡快的處裡掉出現在戰場的空中威脅。%1%1基礎防空導彈槍手的教戰守則:%1%1%2%3只在最有可能擊中時發射。%4試著在飛行單位遠離你時對它開火，或是相對你而言，它的轉彎是個淺角度時。它們越接近你的時候(角度也要合理)，就更有可能擊中它們，並避免它們啟用反制措施。%1&lt;imgsize='5'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\good_shot01_ca.paa'/&gt;&lt;t%10&gt;(好的時機:斜後方，後方)&lt;/t&gt;%1%2%3尋找擁有良好視野的位置。%4該位置最好能監控一大片區域，並且沒有障礙會妨礙到火箭的發射。躲藏在山谷中或是樹林裡，都是不好的選擇，因為沒有良好的視野與射擊的空間。%1&lt;imgsize='4'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\bad_shot01_ca.paa'/&gt;&lt;t%10&gt;(壞的時機:側面，正面)&lt;/t&gt;%1%2%3避免射擊那些飛行方向跟你成直角的空中單位。%4通常對付戰鬥機的時候，你必須挑選它們屁股對你的時候對他們射擊。近距離側面開火是很容易打不中的。但是在對付直升機的時候，由於直升機的速度幾乎都不是很快，以至於不管任何射擊角度，幾乎都是可以命中的。%1&lt;imgsize='3'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\good_shot02_ca.paa'/&gt;&lt;t%10&gt;(好的時機:側面，斜後方，後方)&lt;/t&gt;%1%2%3小心友軍的位置。%4當擊落一台空中單位時，最怕的就是它會掉落到友軍的位置，這後果會不堪設想。</Chinese>
+        <Chinese>一支防空小隊是由槍手與助理所組成。通常配備著攜帶式的防空系統，像是TitanMPRL。通常由槍手來發射，助理則盡可能攜帶更多的彈藥，緊急時也可讓助理一起射擊，他們必須盡快的處裡掉出現在戰場的空中威脅。%1%1基礎防空導彈槍手的教戰守則:%1%1%2%3只在最有可能擊中時發射。%4試著在飛行單位遠離你時對它開火，或是相對你而言，它的轉彎是個淺角度時。它們越接近你的時候(角度也要合理)，就更有可能擊中它們，並避免它們啟用反制措施。%1&lt;imgsize='5'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\good_shot01_ca.paa'/&gt;&lt;t%10&gt;(好的時機:斜後方，後方)&lt;/t&gt;%1%2%3尋找擁有良好視野的位置。%4該位置最好能監控一大片區域，並且沒有障礙會妨礙到火箭的發射。躲藏在山谷中或是樹林裡，都是不好的選擇，因為沒有良好的視野與射擊的空間。%1&lt;imgsize='4'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\bad_shot01_ca.paa'/&gt;&lt;t%10&gt;(壞的時機:側面，正面)&lt;/t&gt;%1%2%3避免射擊那些飛行方向跟你成直角的空中單位。%4通常對付戰鬥機的時候，你必須挑選它們屁股對你的時候對他們射擊。近距離側面開火是很容易打不中的。但是在對付直升機的時候，由於直升機的速度幾乎都不是很快，以至於不管任何射擊角度，幾乎都是可以命中的。%1&lt;imgsize='3'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\good_shot02_ca.paa'/&gt;&lt;t%10&gt;(好的時機:側面，斜後方，後方)&lt;/t&gt;%1%2%3小心友軍的位置。%4當擊落一臺空中單位時，最怕的就是它會掉落到友軍的位置，這後果會不堪設想。</Chinese>
         <Chinesesimp>一支防空小组由射手与副射手所组成。通常配备着携带式防空系统如“泰坦”多用途火箭发射器。通常由射手来发射，副手则尽可能携带更多的弹药，紧急时也可让副手一起射击，他们必须尽快的处理掉出现在战场的空中威胁。%1%1基础防空导弹枪手的交战守则:%1%1%2%3只在最有可能击中时发射。%4试着在飞行单位远离你时对它开火，或是相对你而言，它的转弯是个浅角度时。它们越接近你的时候(角度也要合理)，就更有可能击中它们，并避免它们启用反制措施。%1&lt;imgsize='5'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\good_shot01_ca.paa'/&gt;&lt;t%10&gt;(好的时机:斜后方，后方)&lt;/t&gt;%1%2%3寻找拥有良好视野的位置。%4该位置最好能监控一大片区域，并且没有障碍会妨碍到火箭的发射。躲藏在山谷中或是树林里，都是不好的选择，因为没有良好的视野与射击的空间。%1&lt;imgsize='4'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\bad_shot01_ca.paa'/&gt;&lt;t%10&gt;(坏的时机:侧面，正面)&lt;/t&gt;%1%2%3避免射击那些飞行方向跟你成直角的空中单位。%4通常对付战斗机的时候，你必须挑选它们屁股对你的时候对他们射击。近距离侧面开火是很容易打不中的。但是在对付直升机的时候，由于直升机的速度几乎都不是很快，以至于不管任何射击角度，几乎都是可以命中的。%1&lt;imgsize='3'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\good_shot02_ca.paa'/&gt;&lt;t%10&gt;(好的时机:侧面，斜后方，后方)&lt;/t&gt;%1%2%3小心友军的位置。%4当击落一台空中单位时，最怕的就是它会掉落到友军的位置，这后果会不堪设想。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_antiair0">
@@ -238,8 +238,8 @@
     <Container name="Air_F">
       <Key ID="str_a3_cfgvehicles_o_plane_cas_02_f_library0">
         <Original>The To-199 Neophron is a new addition to CSAT air forces. An agile single-seat aircraft is used for close air support but can also take down air threats. It cannot carry as much payload as NATO's A-164 and has to rearm more often, but it can take-off from even the roughest terrain, not being so dependent on air bases or aircraft carriers. Neophron in CAS variant is fitted with 30 mm Cannon, Sahr-3 short range air-to-air missiles, Sharur air-to-ground missiles, Tratnyr rockets (HE and AP variants) and LOM-250G bombs.</Original>
-        <Chinese>To-199Neophron是一台最近才開始在CSAT空軍中服役的攻擊機。他是一台靈敏的單座攻擊機，主要用於密接空中支援與空中攔截。他的負載量並不像NATO的A-164那樣多，所以他必須更常進行補給，不過它的優點是能在最惡劣的地形中進行起降，並不需要特別依賴空軍基地或航空母艦。Neophron的密接空中支援版本配備有30mm機炮，Sahr-3短程空對空導彈，Sharur空對地導彈，"矛叉"火箭彈(有高爆或穿甲的彈藥)以及LOM-250G炸彈。</Chinese>
-        <Chinesesimp>To-199“兀鹫”是最近才开始在广协同盟空军中服役的攻击机。它是一种灵活的单座攻击机，主要用于近距离空中支援，但也能对付空中威胁。他的负载量并没有北约的A-164那样多，所以它必须经常进行补给，不过它的优点是能在最恶劣的地形中进行起降，并不需要特别依赖空军基地或航空母舰。“兀鹫”的近距离空中支援版本配备有30毫米机炮，“沙尔”-3短程空对空导弹，“神杖”空对地导弹，"矛叉"火箭弹(有高爆和穿甲两型)以及LOM-250G炸弹。</Chinesesimp>
+        <Chinese>To-199Neophron是一臺最近才開始在CSAT空軍中服役的攻擊機。他是一臺靈敏的單座攻擊機，主要用於密接空中支援與空中攔截。他的負載量並不像NATO的A-164那樣多，所以他必須更常進行補給，不過它的優點是能在最惡劣的地形中進行起降，並不需要特別依賴空軍基地或航空母艦。Neophron的密接空中支援版本配備有30mm機炮，Sahr-3短程空對空導彈，Sharur空對地導彈，"矛叉"火箭彈(有高爆或穿甲的彈藥)以及LOM-250G炸彈。</Chinese>
+        <Chinesesimp>To-199“兀鹫”是最近才开始在广协同盟空军中服役的攻击机。它是一种灵活的单座攻击机，主要用于近距离空中支援，但也能对付空中威胁。它的负载量并没有北约的A-164那样多，所以它必须经常进行补给，不过它的优点是能在最恶劣的地形中进行起降，并不需要特别依赖空军基地或航空母舰。“兀鹫”的近距离空中支援版本配备有30毫米机炮，“沙尔”-3短程空对空导弹，“神杖”空对地导弹，"矛叉"火箭弹(有高爆和穿甲两型)以及LOM-250G炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_plane_cas_02_f0">
         <Original>To-199 Neophron (CAS)</Original>
@@ -248,8 +248,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_b_plane_cas_01_f_library0">
         <Original>The A-164 Wipeout is a single-seat aircraft used for close air support and air interdiction. The life-cycle of its predecessor, the A-10, ended in 2030 and the need for replacement grew more important with the rising tension in the Pacific. A limited development budget did not allow for a fresh start, instead the concept of the A-10 was improved with better shape, engines and armaments. Wipeout is armed with a 30 mm seven-barrel Minigun, Falchion-22 short range air-to-air missiles, Macer air-to-ground missiles, unguided Shrieker rockets (HE and AP variants) and GBU-12 laser guided bombs.</Original>
-        <Chinese>A-164Wipeout是一台單座攻擊機，主要的任務是密接空中支援與空中遮斷。他的前身是A-10，A-10於2030服役完後，軍方急需一台代替品來因應太平洋區的緊張情勢。在有限的資源與不能重頭開發的壓力之下，他們直接把A-10的機身做改進，並加強了引擎與武裝來製作成A-164。Wipeout配備有30mm七槍管迷你砲機槍，Falchion-22短程空對空導彈，"梅瑟"空地導彈，無導引"尖叫者"火箭彈(有高爆或穿甲的彈藥)以及GBU-12雷射導引炸彈。</Chinese>
-        <Chinesesimp>A-164“抹杀者”是一种单座攻击机，主要用于近距离空中支援与空中遮断。在其前身A-10于2030年退役后，军方急需一种代替品来应对太平洋地区的紧张情势。资源的紧缺不允许开展全新设计，于是设计方直接在A-10的基础上改进外形，发动和武器，成果便是A-164。“抹杀者”配备有30毫米七管“米尼岗”机炮，“大刀”-22短程空对空导弹，"梅瑟"空地导弹，无引导"尖叫者"火箭弹(有高爆或穿甲的弹药)以及GBU-12激光引导炸弹。</Chinesesimp>
+        <Chinese>A-164Wipeout是一臺單座攻擊機，主要的任務是密接空中支援與空中遮斷。他的前身是A-10，A-10於2030服役完後，軍方急需一臺代替品來因應太平洋區的緊張情勢。在有限的資源與不能重頭開發的壓力之下，他們直接把A-10的機身做改進，並加強了引擎與武裝來製作成A-164。Wipeout配備有30mm七槍管迷你砲機槍，Falchion-22短程空對空導彈，"梅瑟"空地導彈，無導引"尖叫者"火箭彈(有高爆或穿甲的彈藥)以及GBU-12雷射導引炸彈。</Chinese>
+        <Chinesesimp>A-164“抹杀者”是一种单座攻击机，主要用于近距离空中支援与空中遮断。在其前身A-10于2030年退役后，军方急需一种代替品来应对太平洋地区的紧张情势。资源的紧缺不允许开展全新设计，于是设计方直接在A-10的基础上改进外形，发动机和武器，成果便是A-164。“抹杀者”配备有30毫米七管“米尼岗”机炮，“大刀”-22短程空对空导弹，"梅瑟"空地导弹，无引导"尖叫者"火箭弹(有高爆或穿甲的弹药)以及GBU-12激光制导炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_plane_cas_01_f0">
         <Original>A-164 Wipeout (CAS)</Original>
@@ -270,7 +270,7 @@
     <Container name="Soft_F">
       <Key ID="str_a3_cfgvehicles_truck_03_base_f_library0">
         <Original>The Tempest is a 6x6 mine resistant standard transport truck for the CSAT army. Its primary role is to carry troops and cargo under armor. The modular design of the truck allows several transport versions: cargo, refuel, medical, repair and ammo resupply.</Original>
-        <Chinese>Tempest是服役於CSAT裡的一台六輪驅動標準防地雷運輸卡車。他的主要特點有別於其他部隊的運輸卡車，他是一台有裝甲保護的運輸卡車，用他來運輸部隊或貨物更能比其他部隊的卡車來的安全。他的設計允許能有很多種用途，除了基本的運輸還有以下幾種功能:貨物，燃油，醫療，維修和彈藥。</Chinese>
+        <Chinese>Tempest是服役於CSAT裡的一臺六輪驅動標準防地雷運輸卡車。他的主要特點有別於其他部隊的運輸卡車，他是一臺有裝甲保護的運輸卡車，用他來運輸部隊或貨物更能比其他部隊的卡車來的安全。他的設計允許能有很多種用途，除了基本的運輸還有以下幾種功能:貨物，燃油，醫療，維修和彈藥。</Chinese>
         <Chinesesimp>“风暴”是服役于广协同盟部队的一种6x6驱动防地雷标准运输卡车。其主要职责是在装甲保护下运输部队和物资。卡车的模块化设计允许其拥有多种运输型号:货物运输，燃油补给，医疗救护，维修车辆和弹药补给。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_truck_03_base_f0">
@@ -514,7 +514,7 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_land_gh_platform_f0">
         <Original>Ghost Hotel (Platform)</Original>
-        <Chinese>幽靈飯店(平台)</Chinese>
+        <Chinese>幽靈飯店(平臺)</Chinese>
         <Chinesesimp>幽灵饭店(平台)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_gh_mainbuilding_right_f0">
@@ -658,7 +658,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_pard_list3">
         <Original>a brand-new heavy truck for CSAT, including all variants</Original>
-        <Chinese>一台CSAT的全新重型卡車，包括所有的型號</Chinese>
+        <Chinese>一臺CSAT的全新重型卡車，包括所有的型號</Chinese>
         <Chinesesimp>一种广协同盟的全新重型卡车，包括所有的型号</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_pard_list2_title">
@@ -678,7 +678,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_pard_list1">
         <Original>a highly detailed NATO Close Air Support jet</Original>
-        <Chinese>一台擁有高細節的NATO密接空中支援攻擊機</Chinese>
+        <Chinese>一臺擁有高細節的NATO密接空中支援攻擊機</Chinese>
         <Chinesesimp>一台拥有高细节的北约近距离空中支援攻击机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_pard_footer2">
@@ -753,8 +753,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epc_para">
         <Original>Welcome to this significant milestone for singleplayer fans, the finale of the campaign: &lt;t color='%1'&gt;'Win'&lt;/t&gt;. Read on for a description of the campaign, a story recap, and to see other additions to the Arma 3%2 platform.</Original>
-        <Chinese>歡迎來到最終章:&lt;tcolor='%1'&gt;'勝利'&lt;/t&gt;。要閱讀劇情大綱，或是其他新增的內容，你可以上ArmA3的%2官方平台。</Chinese>
-        <Chinesesimp>欢迎来到最终章:&lt;tcolor='%1'&gt;'胜利'&lt;/t&gt;。要阅读剧情大纲，或是其他新增的内容，你可以上Arma3的%2官方平台。</Chinesesimp>
+        <Chinese>歡迎來到最終章:&lt;tcolor='%1'&gt;'勝利'&lt;/t&gt;。要閱讀劇情大綱，或是其他新增的內容，你可以上ArmA3的%2官方平臺。</Chinese>
+        <Chinesesimp>欢迎来到最终章:&lt;tcolor='%1'&gt;'胜利'&lt;/t&gt;。要阅读剧情大纲，或是其他新增的内容，你可以前往武装突袭3的%2官方平台。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Armor_F">
@@ -765,7 +765,7 @@
       </Key>
       <Key ID="STR_A3_sfgvehicles_b_mbt_01_tusk_f_library">
         <Original>The M2A4 Slammer UP is the urban purpose variant of the M2A1 Slammer. Compared to the basic version, it features heavier armor with reinforced rear of the tank and a remote-controlled turret fitted with 12.7 mm heavy machine gun.</Original>
-        <Chinese>M2A4「重擊者」主戰坦克城市戰版是M2A1「重擊者」主戰坦克的衍生型號。跟原版相比它的裝甲更為厚重，並且為車長增設了一個裝備有12。7毫米重機槍的遙控武器站。</Chinese>
+        <Chinese>M2A4“重擊者”主戰坦克城市戰版是M2A1“重擊者”主戰坦克的衍生型號。跟原版相比它的裝甲更為厚重，並且為車長增設了一個裝備有12。7毫米重機槍的遙控武器站。</Chinese>
         <Chinesesimp>M2A4“重击者”主战坦克城市战版是M2A1“重击者”主战坦克的衍生型号。跟原版相比它的装甲更为厚重，并且为车长增设了一个装备有12。7毫米重机枪的遥控武器站。</Chinesesimp>
       </Key>
     </Container>

@@ -293,7 +293,7 @@
           <Key ID="str_a3_showcase_helicopters_showcase_summary_text">
             <Original>Take on Arma 3's rotor-wing flight. Transport a Quick Reaction Force to the scene of an attack on one of our facilities.</Original>
             <Chinese>體驗ArmA3的直升機。運輸一支快速應變部隊到正在遭受攻擊的我方設施。</Chinese>
-            <Chinesesimp>体验Arma3的直升机。运输一支快速反应部队到正在遭受攻击的我方设施。</Chinesesimp>
+            <Chinesesimp>体验武装突袭3的直升机。运输一支快速反应部队到正在遭受攻击的我方设施。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_rtb_title">
             <Original>Return to base</Original>
@@ -598,7 +598,7 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x20_enemy_vehicles_near_base_one_alive_pilot_0">
               <Original>Hydra reporting ... one alpha victor has stopped just north of Mike-26.</Original>
-              <Chinese>Hydra回報...一台敵軍載具停在Mike-26的北方。</Chinese>
+              <Chinese>Hydra回報...一臺敵軍載具停在Mike-26的北方。</Chinese>
               <Chinesesimp>“九头蛇”回报...一辆敌军车辆在Mike-26的北方停下了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x20_enemy_vehicles_near_base_one_alive_pilot_1">
@@ -689,7 +689,7 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_helicopters_55_go_kamino_base_1">
               <Original>Enemy forces have set up a firing position on a rocky islet to the east of the Kamino base.</Original>
-              <Chinese>敵軍已在Kamino基地的東方，一個岩石小島上設立了迫擊砲陣地。</Chinese>
+              <Chinese>敵軍已在Kamino基地的東方，一個巖石小島上設立了迫擊砲陣地。</Chinese>
               <Chinesesimp>敌军已在卡米诺基地以东的一个礁石岛上设立了迫击炮阵地。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_55_go_kamino_base_2">
@@ -789,7 +789,7 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="10_Enemy_vehicles_revealed" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="10_Enemy_vehicles_revealed" dubbingLanguage="english" namePrefix="showcase_helicopters_10_enemy_vehicles_revealed" note="" participants="PA O HQ;PA O Player;" situation="played when helicopter is flying from air base  firing range base.">
             <Key ID="str_a3_showcase_helicopters_10_enemy_vehicles_revealed_base_0">
               <Original>Hydra, be advised, we've got two alpha victors approaching the radar facility from the west.</Original>
-              <Chinese>Hydra，請注意，我們發現雷達設施西方有兩台車輛靠近中。</Chinese>
+              <Chinese>Hydra，請注意，我們發現雷達設施西方有兩臺車輛靠近中。</Chinese>
               <Chinesesimp>“九头蛇”，请注意，我们发现雷达设施以西有两辆敌方车辆接近中。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_10_enemy_vehicles_revealed_base_1">
@@ -836,7 +836,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_vehicles_diary_mission_text">
             <Original>Acquire a heavily-armed vehicle and disrupt enemy logistics by destroying their central %2vehicle depot%1.</Original>
-            <Chinese>獲得一台武裝車輛，摧毀%2敵方車庫%1來擾亂他們的後勤系統。</Chinese>
+            <Chinese>獲得一臺武裝車輛，摧毀%2敵方車庫%1來擾亂他們的後勤系統。</Chinese>
             <Chinesesimp>获得一台武装车辆，摧毁%2敌方车库%1来扰乱他们的后勤系统。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_diary_signal_text">
@@ -847,12 +847,12 @@ Be ready for more intel as the situation develops.</Original>
           <Key ID="str_a3_showcase_vehicles_diary_situation_text">
             <Original>With the entire island firmly under enemy control, command wants us to disrupt their comms and logistics network.%1%1One team, Viper-Green, is already in position and is poised to sabotage the %2radar array%3. We need you, call sign Viper-Black, to strike a blow against the enemy's vehicle depot.%1%1An unorthodox opportunity has presented itself in the form of a weakly defended base and a heavily-armed vehicle. We'll turn the enemy's firepower against them and exfiltrate amid the resulting confusion.</Original>
             <Chinese>隨著整個島陷入敵軍的控制，指揮官要我們擾亂他們的通訊和後勤系統。%1%1其中Viper-Green小隊，已經就定位並準備去破壞%2雷達陣列%3。我們需要你去打擊敵方的車庫，而你的呼號是Viper-Black。%1%1我們發現到有一個防禦薄弱的基地，其中的武裝車輛提供了我們一個機會。我們將使用他們自己的槍去攻擊他們，並趁著混亂來逃離這個島</Chinese>
-            <Chinesesimp>随着整个岛陷入敌军的控制，指挥官要我们扰乱他们的通讯和后勤系统。%1%1“毒蛇-绿”小组已经就定位并准备破坏%2雷达阵列%3。我们需要你去打击敌方的车库，而你的呼号是“毒蛇-黑”。%1%1我们发现了一个防御薄弱的基地，其中的武装车辆为我们提供了一个机会。我们将使用他们自己的武器攻击他们，并趁着混乱撤出该岛</Chinesesimp>
+            <Chinesesimp>随着整个岛陷入敌军的控制，指挥官要我们扰乱他们的通信和后勤系统。%1%1“毒蛇-绿”小组已经就定位并准备破坏%2雷达阵列%3。我们需要你去打击敌方的车库，而你的呼号是“毒蛇-黑”。%1%1我们发现了一个防御薄弱的基地，其中的武装车辆为我们提供了一个机会。我们将使用他们自己的武器攻击他们，并趁着混乱撤出该岛</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_diary_summary_text">
             <Original>Try out Arma 3's new vehicle handling. Infiltrate the enemy base, steal the car, and enjoy the fire-power of its mounted weapons.</Original>
             <Chinese>嘗試ArmA3新的車輛操作手感。滲透敵方基地，偷走車輛，並且體驗一下裝載在它上面的火力。</Chinese>
-            <Chinesesimp>尝试Arma3新的车辆操作手感。渗透敌方基地，偷走车辆，并且体验一下装载在它上面的火力。</Chinesesimp>
+            <Chinesesimp>尝试武装突袭3新的车辆操作手感。渗透敌方基地，偷走车辆，并且体验一下装载在它上面的火力。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_end1_text">
             <Original>Not only did you fulfill your primary objective, you also made sure Viper-Green made it back alive. Exceptional job.</Original>
@@ -1116,7 +1116,7 @@ Be ready for more intel as the situation develops.</Original>
         <Container name="Showcase_SCUBA">
           <Key ID="str_a3_showcase_scuba_diary_execution_text">
             <Original>%6 Swim to the bay and deactivate all three mines we've detected there%3%7 A %11speedboat%1 is guarding the area - you can sabotage its engine so long as you remain undetected and the vessel doesn't start moving%3%8 Eliminate the AA patrol stationed in %4the camp%1 and acquire a missile launcher - you can call in a mortar strike provided by %5Echo%1%3%9 Engage the chopper patrolling the western coastline%3%10 Make your way back to %2your team%1 and leave the area </Original>
-            <Chinese>%6游泳到海灣裡解除3個已被我們偵測到的水雷%3%7一台%11快艇%1正在巡防海岸線，你可以偷偷破壞掉它的引擎%3%8摧毀敵軍的%4防空陣地%1並奪取一隻防空導彈-你可以透過無線電%5Echo%1來呼叫迫擊砲打擊%3%9擊落正在海岸線巡防的直升機%3%10撤離該區，回去與你的%2小隊%1會合</Chinese>
+            <Chinese>%6游泳到海灣裡解除3個已被我們偵測到的水雷%3%7一臺%11快艇%1正在巡防海岸線，你可以偷偷破壞掉它的引擎%3%8摧毀敵軍的%4防空陣地%1並奪取一隻防空導彈-你可以透過無線電%5Echo%1來呼叫迫擊砲打擊%3%9擊落正在海岸線巡防的直升機%3%10撤離該區，回去與你的%2小隊%1會合</Chinese>
             <Chinesesimp>%6游泳到海湾里解除3个已被我们侦测到的水雷%3%7一台%11快艇%1正在防御海岸线，你可以偷偷破坏掉它的引擎%3%8摧毁敌军的%4防空阵地%1并夺取防空导弹-你可以通过无线电%5回声%1来呼叫迫击炮打击%3%9击落正在海岸线巡防的直升机%3%10撤离该区，回去与你的%2小组%1会合</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_diary_mission_text">
@@ -1137,7 +1137,7 @@ Be ready for more intel as the situation develops.</Original>
           <Key ID="str_a3_showcase_scuba_diary_summary_text">
             <Original>Dive into Arma 3's new underwater environment. Swim undetected up the coastline and assault an enemy position.</Original>
             <Chinese>體驗ArmA3新的水下系統。保持隱蔽並拆除敵方水雷和摧毀直升機。</Chinese>
-            <Chinesesimp>体验Arma3新的水下系统。保持隐蔽并拆除敌方水雷和摧毁直升机。</Chinesesimp>
+            <Chinesesimp>体验武装突袭3新的水下系统。保持隐蔽并拆除敌方水雷和摧毁直升机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_end1_text">
             <Original>The enemy no longer controls the bay. This should enable us to receive badly needed supplies.</Original>
@@ -1360,7 +1360,7 @@ Be ready for more intel as the situation develops.</Original>
           <Key ID="str_a3_showcase_infantry_showcase_summary_text">
             <Original>Engage in Arma 3's infantry combat. Follow your leader and move through the valley to support a friendly squad pinned down by enemy forces.</Original>
             <Chinese>嘗試ArmA3新的步兵交戰。跟隨你的隊長，進入村莊並支援被敵軍襲擊的友軍。</Chinese>
-            <Chinesesimp>尝试Arma3新的步兵交战。跟随你的队长，进入村庄并支援被敌军袭击的友军。</Chinesesimp>
+            <Chinesesimp>尝试武装突袭3新的步兵交战。跟随你的队长，进入村庄并支援被敌军袭击的友军。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_mission_name">
             <Original>Infantry</Original>

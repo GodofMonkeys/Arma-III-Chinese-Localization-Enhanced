@@ -110,7 +110,7 @@
       <Key ID="STR_A3_Nexus2">
         <Original>With Nexus Update, we have focused on enhancing core gameplay features, systems and content.%1Refined features included:%1%2Personal Protective Equipment%1%2Stamina%1%2System Optimizations%1%2Mod Dependencies%1%2Audio%1We are also presenting our continued development of the %3End Game%4 multiplayer mode and our completely new official web service %3Arma 3 Units%4.</Original>
         <Chinese>隨著樞紐更新的上市，我們提升了核心的遊戲功能，系統與內容。%1包括以下特色:%1%2個人防護裝備%1%2體力%1%2系統優化%1%2模組關聯%1%2音效%1同時我們也推出了%3終戰%4這種多人遊戲模式，並且在官網上架設%3ArmA3戰隊%4的網頁。</Chinese>
-        <Chinesesimp>随着枢纽更新的上市，我们提升了核心的游戏功能，系统与内容。%1包括以下特色:%1%2个人防护装备%1%2体力%1%2系统优化%1%2模组关联%1%2音效%1同时我们也推出了%3终战%4这种多人游戏模式，并且在官网上架设%3Arma3战队%4的网页。</Chinesesimp>
+        <Chinesesimp>随着枢纽更新的上市，我们提升了核心的游戏功能，系统与内容。%1包括以下特色:%1%2个人防护装备%1%2体力%1%2系统优化%1%2模组关联%1%2音效%1同时我们也推出了%3终战%4这种多人游戏模式，并且在官网上架设%3武装突袭3战队%4的网页。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_StaminaInfo1">
         <Original>Stamina</Original>
@@ -120,17 +120,17 @@
       <Key ID="STR_A3_StaminaInfo2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus4_ca.paa' /&gt;%1An overhaul of the Fatigue mechanics resulted in the implementation of a new Stamina system. Stamina is %3simpler%4, %3clearer%4, %3better communicated%4 and has %3easier to grasp%4 mechanics that will allow for the management of exhaustion, encumbrance, terrain gradient penalties and the overall mobility of characters. It is also much more %3open to modifications%4 and should serve as a solid platform for community-made solutions.</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus4_ca.paa'/&gt;%1我們重新對體力系統進行大翻修。體力系統能%3簡單%4，%3明確%4和%3更佳的表達%4。使地形坡度，激烈移動，負重等來對體力產生影響，進而影響移動能力。同時我們也保留%3自訂化調整%4功能來讓社群玩家自製其想要的效果。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus4_ca.paa'/&gt;%1我们重新对体力系统进行大翻修。体力系统能%3简单%4，%3明确%4和%3更佳的表达%4。使地形坡度，激烈移动，负重等来对体力产生影响，进而影响移动能力。同时我们也保留%3自订化调整%4功能来让社群玩家自制其想要的效果。</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus4_ca.paa'/&gt;%1我们重新对体力系统进行大翻修。体力系统能%3简单%4，%3明确%4和%3更佳的表达%4。使地形坡度，激烈移动，负重等来对体力产生影响，进而影响移动能力。同时我们也保留%3自定义调整%4功能来让社区玩家自制其想要的效果。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Units1">
         <Original>Arma 3 Units</Original>
         <Chinese>ArmA3戰隊</Chinese>
-        <Chinesesimp>Arma3战队</Chinesesimp>
+        <Chinesesimp>武装突袭3战队</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Units2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa' /&gt;%1Arma 3 Units is a web-based %3service%4 for %3connecting Arma 3 players%4 to community groups. This initial Foundation Release allows registered Bohemia Accounts to:%1%2Register a Unit, which includes setting the Unit logo, description, biography, server information and more%1%2Browse and search for registered Units, and sort them by multiple characteristics like: Gameplay, Region, Language and more</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa'/&gt;%1ArmA3戰隊是用來%3連接ArmA3玩家%4到社群戰隊的一種%3網頁服務%4。初步的功能能讓波希米亞會員做以下事情:%1%2註冊新的戰隊，並設定戰隊隊徽，介紹，基礎資料，伺服器訊息等等%1%2使用不同的搜尋標籤來找尋適合自己的戰隊:遊戲模式，國家，語言等等</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa'/&gt;%1ArmA3战队是用来%3连接Arma3玩家%4到社区战队的一种%3网页服务%4。初步的功能能让波希米亚会员做以下事情:%1%2注册新的战队，并设定战队队徽，介绍，基础资料，服务器信息等等%1%2使用不同的搜寻标签来找寻适合自己的战队:例如游戏模式，国家，语言等等</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus1_ca.paa'/&gt;%1武装突袭3战队是用来%3连接武装突袭3玩家%4到社区战队的一种%3网页服务%4。初步的功能能让波希米亚会员做以下事情:%1%2注册新的战队，并设定战队队徽，介绍，基础资料，服务器信息等等%1%2使用不同的搜寻标签来找寻适合自己的战队:例如游戏模式，国家，语言等等</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Units3">
         <Original>%3&lt;a href='http://units.arma3.com'&gt;units.arma3.com&lt;/a&gt;%4</Original>
@@ -560,13 +560,13 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_pard_footer2">
         <Original>Arma 3 has been out for over two years and we're humbled to see it's still played by many. We remain committed to improving the game and its platform together with our inspiring community!</Original>
-        <Chinese>ArmA3推出至今已過了兩年多，而我們很開心還看到許多玩家還在其中遊玩。我們將繼續致力於遊戲平台的優化與內容的擴展上!</Chinese>
-        <Chinesesimp>Arma3推出至今已过了两年多，而我们很开心还看到许多玩家还在其中游玩。我们将继续致力于游戏平台的优化与内容的扩展上!</Chinesesimp>
+        <Chinese>ArmA3推出至今已過了兩年多，而我們很開心還看到許多玩家還在其中遊玩。我們將繼續致力於遊戲平臺的優化與內容的擴展上!</Chinese>
+        <Chinesesimp>武装突袭3推出至今已过了两年多，而我们很开心还看到许多玩家还在其中游玩。我们将继续致力于游戏平台的优化与内容的扩展上!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_pard_footer">
         <Original>More about Arma 3 Units</Original>
         <Chinese>更多關於ArmA3戰隊</Chinese>
-        <Chinesesimp>更多关于Arma3战队</Chinesesimp>
+        <Chinesesimp>更多关于武装突袭3战队</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_pard">
         <Original>We're launching the first foundation version of an official web service to support finding, creating and managing community groups and eventually events:</Original>
@@ -616,7 +616,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_parc_list3">
         <Original>Significantly improved multiplayer frameworks for remote execution, tasks and shared objectives</Original>
         <Chinese>顯著提升了多人遊戲的系統架構，使任務目標等觸發能更為一致</Chinese>
-        <Chinesesimp>显著提升了多人游戏的系统架构，使任务目标等触发能更为一致</Chinesesimp>
+        <Chinesesimp>显着提升了多人游戏的系统架构，使任务目标等触发能更为一致</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_parc_list2_title">
         <Original>Stamina</Original>
@@ -641,7 +641,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_parc">
         <Original>Before rolling out new features for Apex, an in-depth evaluation of the game and its players revealed several aspects we wanted to improve and iterate on:</Original>
         <Chinese>在我們推出頂尖資料片前，我們將先加入以下特色:</Chinese>
-        <Chinesesimp>在我们推出顶尖DLC前，我们将先加入以下特色:</Chinesesimp>
+        <Chinesesimp>在我们推出顶尖资料片前，我们将先加入以下特色:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_parb_title">
         <Original>NEXUS UPDATE_</Original>
@@ -701,7 +701,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_parb_footer">
         <Original>More about Arma 3 Nexus Update</Original>
         <Chinese>更多關於ArmA3樞紐更新</Chinese>
-        <Chinesesimp>更多关于Arma3枢纽更新</Chinesesimp>
+        <Chinesesimp>更多关于武装突袭3枢纽更新</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expa_parb">
         <Original>We've continued the development of our &lt;a href='%2' color='%1'&gt;End Game&lt;/a&gt; multiplayer mode, in which two teams compete to find and secure schematics against a common foe. Apart from tweaks to the mode's logic and systems, there are several additions:
@@ -714,7 +714,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expa_para">
         <Original>It's great to be able to welcome you to this major platform update and stepping-stone to the Arma 3 Apex expansion. After a series of regular updates, we've focused with Nexus on enhancing core gameplay features, systems and content. We'll take you on a tour of new multiplayer additions, feature iterations and the launch of a web service to connect players and communities.</Original>
         <Chinese>歡迎來到此次更新，這次更新是我們與ArmA3頂尖資料片間的一個重要里程碑。經過一連串的更新，我們讓樞紐更新更專注在提升核心遊戲特色，系統和內容。我們將帶你認識新的多人遊戲模式與新推出的網頁功能。</Chinese>
-        <Chinesesimp>欢迎来到此次更新，这次更新是我们与Arma3顶尖DLC间的一个重要里程碑。经过一连串的更新，我们让枢纽更新更专注在提升核心游戏特色，系统和内容。我们将带你认识新的多人游戏模式与新推出的网页功能。</Chinesesimp>
+        <Chinesesimp>欢迎来到此次更新，这次更新是我们与武装突袭3顶尖资料片间的一个重要里程碑。经过一连串的更新，我们让枢纽更新更专注在提升核心游戏特色，系统和内容。我们将带你认识新的多人游戏模式与新推出的网页功能。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Functions_F">

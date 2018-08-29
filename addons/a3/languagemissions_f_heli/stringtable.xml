@@ -1543,7 +1543,7 @@
           <Key ID="STR_A3_Showcase_FiringFromVehicles_Titlecard">
             <Original>****TO TRANSLATE****</Original>
             <Chinese>****TOTRANSLATE****</Chinese>
-            <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+            <Chinesesimp>****待翻译****</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_FiringFromVehicles_Missions_Name">
             <Original>Firing from vehicles</Original>
@@ -1553,7 +1553,7 @@
           <Key ID="STR_A3_Showcase_FiringFromVehicles_Showcase_Summary_text">
             <Original>****TO TRANSLATE****</Original>
             <Chinese>****TOTRANSLATE****</Chinese>
-            <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+            <Chinesesimp>****待翻译****</Chinesesimp>
           </Key>
         </Container>
         <Container name="Showcase_SlingLoading">
@@ -1566,7 +1566,7 @@
             <Key ID="str_a3_showcase_slingloading_x20_basefallen_tow_0">
               <Original>November, we've lost comms with the locals. Guess the AAF got to them first.</Original>
               <Chinese>November，我們已與反抗軍失去通訊。我們猜AAF應該已經先逮到他們了。</Chinese>
-              <Chinesesimp>十一月，我们已与反抗军失去通讯。猜测阿尔蒂斯军应该已经先逮到他们了。</Chinesesimp>
+              <Chinesesimp>十一月，我们已与反抗军失去通信。猜测阿尔蒂斯武装力量应该已经先逮到他们了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_x20_basefallen_tow_1">
               <Original>RTB. We'll sort it out.</Original>
@@ -1689,7 +1689,7 @@
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_1">
               <Original>Some locals took a Greenback outpost on the southern peninsula, and now they're surrounded. You're being re-tasked to help them out.</Original>
               <Chinese>一些當地反叛軍從AAF那奪得了一個前哨基地，而現在他們陷入了包圍。你將被重新指派去協助他們。</Chinese>
-              <Chinesesimp>一些当地反叛军从阿尔蒂斯军手中夺得了一个前哨基地，而现在他们陷入了包围。你将被重新指派去协助他们。</Chinesesimp>
+              <Chinesesimp>一些当地反叛军从阿尔蒂斯武装力量手中夺得了一个前哨基地，而现在他们陷入了包围。你将被重新指派去协助他们。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_30_changeofplan_tow_2">
               <Original>Friendlies are waiting on the tarmac at the airfield. You are to insert them at the outpost to support the locals.</Original>
@@ -1722,7 +1722,7 @@
           <Container name="20_StriderLoaded" audioFilePath="\a3\dubbing_f_heli\showcase_slingloading" dialogName="20_StriderLoaded" dubbingLanguage="english" namePrefix="showcase_slingloading_20_striderloaded" note="" participants="HELI B Pilot;HELI B Tower;" situation="player has just loaded the floating strider">
             <Key ID="str_a3_showcase_slingloading_20_striderloaded_pil_0">
               <Original>Eagle, November. We've got one MRAP in tow, proceeding to Pyrgos. Over.</Original>
-              <Chinese>Eagle，November。我們已掛起一台載具了，正前往Pyrgos。完畢。</Chinese>
+              <Chinese>Eagle，November。我們已掛起一臺載具了，正前往Pyrgos。完畢。</Chinese>
               <Chinesesimp>“鹰”，“十一月”。我们已挂起一辆防地雷反伏击车了，正前往皮尔戈斯。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_slingloading_20_striderloaded_pil_1">
@@ -1950,7 +1950,7 @@
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Signal_text">
             <Original>November - Your callsign. &lt;br /&gt;Eagle - Control tower.</Original>
-            <Chinese>November-你的呼號。&lt;br/&gt;Eagle-塔台。</Chinese>
+            <Chinese>November-你的呼號。&lt;br/&gt;Eagle-塔臺。</Chinese>
             <Chinesesimp>“十一月”-你的呼号。&lt;br/&gt;“鹰”-塔台。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_SlingLoading_Briefing_Intel_title">
@@ -2704,12 +2704,12 @@
           <Key ID="STR_A3_MP_GS_SC_02_Briefing_Situation_text">
             <Original>Having successfully routed the AAF, forcing them to retreat to the north-east and south-east corners of Altis, NATO forces prepare to deliver the final blow. However, the AAF are far from defeated. As NATO prepare to launch their assault from Delfinaki, the AAF are consolidating their forces around Molos in the hope of stopping NATO in their tracks.</Original>
             <Chinese>在成功擊退AAF之後，AAF撤退到Altis的東北與東南方的角落，而NATO部隊正準備對他們發動最後一次總攻擊。然而，想要打敗AAF還遠遠早的很。當NATO正準備對Delfinaki發動攻擊之時，AAF開始鞏固Molos附近的防禦，期望半路攔截NATO的部隊。</Chinese>
-            <Chinesesimp>在被迫退却后，阿尔蒂斯武装力量退守阿尔蒂斯岛东北与东南方的角落，而北约部队正准备对他们发动最后一次总攻击。然而，要打败阿尔蒂斯军还远早的很。当北约部队正准备对泽尔菲纳基发动攻击之时，阿尔蒂斯军开始在莫洛斯周边组织力量，企图半路拦截北约部队。</Chinesesimp>
+            <Chinesesimp>在被迫退却后，阿尔蒂斯武装力量退守阿尔蒂斯岛东北与东南方的角落，而北约部队正准备对他们发动最后一次总攻击。然而，要打败阿尔蒂斯武装力量还远早的很。当北约部队正准备对泽尔菲纳基发动攻击之时，阿尔蒂斯武装力量开始在莫洛斯周边组织力量，企图半路拦截北约部队。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_02_Overview_text">
             <Original>Retreating AAF defend themselves from a NATO offensive.</Original>
             <Chinese>撤退中的AAF必須抵禦住NATO的攻勢。</Chinese>
-            <Chinesesimp>撤退中的阿尔蒂斯军必须抵御住北约的攻势。</Chinesesimp>
+            <Chinesesimp>撤退中的阿尔蒂斯武装力量必须抵御住北约的攻势。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_SC_02_Load_name">
             <Original>Sofia</Original>
@@ -2798,7 +2798,7 @@
           <Key ID="STR_A3_MP_GS_COOP_01_Briefing_Situation_text">
             <Original>Labelled an insurgency by the local government, the FIA have reveled in a string of victories against the AAF, seizing major ground in the process. The AAF have called upon CSAT for assistance. In response, elements of one of CSAT's elite Airborne Battalions have been deployed to the region to launch counter-insurgency operations against the FIA.</Original>
             <Chinese>當反叛軍FIA正沉浸在對AAF的勝利時。AAF轉頭向CSAT請求協助。當作回應，CSAT的菁英空降營被部屬到該區，開始對FIA執行反叛亂行動。</Chinese>
-            <Chinesesimp>正当自由阵线沉浸在对阿尔蒂斯武装力量的胜利中时。阿尔蒂斯军向广协同盟请求协助。作为回应，广协同盟的精锐空降营被部属到该区，开始对自由阵线执行反叛乱行动。</Chinesesimp>
+            <Chinesesimp>正当自由阵线沉浸在对阿尔蒂斯武装力量的胜利中时。阿尔蒂斯武装力量向广协同盟请求协助。作为回应，广协同盟的精锐空降营被部属到该区，开始对自由阵线执行反叛乱行动。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_01_Overview_text">
             <Original>Members of an elite CSAT Airborne Battalion launch an offensive against the FIA.</Original>
@@ -2855,7 +2855,7 @@
           <Key ID="STR_A3_MP_GS_COOP_02_Briefing_Situation_text">
             <Original>Months after Task Force Aegis went dark, the 111th Division have successfully commenced their invasion of Stratis with the capture of the Stratis Air Base. However, the rest of the island remains under AAF control, with defenses strategically positioned at all major installations. As a result, the 111th are coming at them from the north-west, supported by the FIA from the south, with the intention of catching the AAF off-guard.</Original>
             <Chinese>在神盾特遣隊失聯後一個月，第111師成功登陸了Stratis並控制住上面的空軍基地。然而島上的其餘部分還是被AAF控制住，包括主要的設施都被嚴密的保護著。為此，第111師打算從西北方發動攻勢，並在南方FIA的幫助之下，希望能打的AAF一個措手不及。</Chinese>
-            <Chinesesimp>在“宙斯盾“特遣队失联后一个月，第111师成功在斯特拉蒂斯岛实施登陆并控制了岛上的空军基地。然而岛上的其余部分还在阿尔蒂斯武装力量手中，其防御主要围绕各重点设施展开。为此，第111师打算从西北方发动攻势，并在南方自由阵线的帮助之下，希望能给阿尔蒂斯军一个措手不及。</Chinesesimp>
+            <Chinesesimp>在“宙斯盾“特遣队失联后一个月，第111师成功在斯特拉蒂斯岛实施登陆并控制了岛上的空军基地。然而岛上的其余部分还在阿尔蒂斯武装力量手中，其防御主要围绕各重点设施展开。为此，第111师打算从西北方发动攻势，并在南方自由阵线的帮助之下，希望能给阿尔蒂斯武装力量一个措手不及。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_GS_COOP_02_Overview_text">
             <Original>The 111th Division launch their invasion of Stratis.</Original>
@@ -2977,7 +2977,7 @@
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_leavingchopper">
           <Original>Leaving your helicopter in the Maintenance area and going for different helicopter is a valid option if you wish to try something different.</Original>
-          <Chinese>如果你想嘗試點不一樣的方法，你可以把直升機留在維護區，並且去換一台不同的直升機。</Chinese>
+          <Chinese>如果你想嘗試點不一樣的方法，你可以把直升機留在維護區，並且去換一臺不同的直升機。</Chinese>
           <Chinesesimp>如果你想尝试点不一样的方法，你可以把直升机留在维护区，并且去换一台不同的直升机。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_completingtasks_4">
@@ -2993,7 +2993,7 @@
         <Key ID="str_a3_mp_groundsupport_tips_completingtasks_2">
           <Original>The side Score has a direct gameplay effect. When it reaches a set threshold, the side HQ will issue a Tactical Strike. </Original>
           <Chinese>陣營的分數會對遊戲產生顯著的變化。當分數達到一個定額時，該陣營的總部將會開始提供戰略打擊。</Chinese>
-          <Chinesesimp>阵营的分数会对游戏产生显著的变化。当分数达到一个定额时，该阵营的总部将会开始提供战略打击。</Chinesesimp>
+          <Chinesesimp>阵营的分数会对游戏产生显着的变化。当分数达到一个定额时，该阵营的总部将会开始提供战略打击。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_tips_completingtasks_1">
           <Original>Your Score measures how well you perform on the battlefield and is shown on the Scoreboard. </Original>
@@ -3308,7 +3308,7 @@
         <Key ID="str_a3_mp_groundsupport_closeairsupport_done">
           <Original>%2, good effect on target. Out.</Original>
           <Chinese>%2，打擊效果顯著。通話完畢。</Chinese>
-          <Chinesesimp>%2，打击效果显著。通话完毕。</Chinesesimp>
+          <Chinesesimp>%2，打击效果显着。通话完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_groundsupport_closeairsupport_canceled">
           <Original>%1 have canceled their request for CAS. Continue on mission.</Original>

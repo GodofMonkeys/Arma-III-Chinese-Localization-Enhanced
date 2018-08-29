@@ -45,7 +45,7 @@
       <Key ID="str_a3_combatpatrol_params_27">
         <Original>Sabotage comms</Original>
         <Chinese>破壞通訊系統</Chinese>
-        <Chinesesimp>破坏通讯系统</Chinesesimp>
+        <Chinesesimp>破坏通信系统</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_params_26">
         <Original>Sabotage vehicles</Original>
@@ -230,12 +230,12 @@
       <Key ID="str_a3_combatpatrol_mission_65">
         <Original>Find and destroy the enemy's communication systems.</Original>
         <Chinese>找到並摧毀敵方的通訊系統。</Chinese>
-        <Chinesesimp>找到并摧毁敌方的通讯系统。</Chinesesimp>
+        <Chinesesimp>找到并摧毁敌方的通信系统。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_64">
         <Original>Sabotage Comms Node</Original>
         <Chinese>摧毀通訊節點</Chinese>
-        <Chinesesimp>摧毁通讯节点</Chinesesimp>
+        <Chinesesimp>摧毁通信节点</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_63">
         <Original>Find and immobilize the OPFOR ammunition truck.</Original>
@@ -269,7 +269,7 @@
       </Key>
       <Key ID="str_a3_combatpatrol_mission_58">
         <Original>The enemy has concealed a command vehicle in the AO, containing a valuable encryption device.&lt;br/&gt;&lt;br/&gt;It's guarded by a platoon-sized, OPFOR infantry element. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
-        <Chinese>敵方在任務區內隱藏了一台指揮載具，它上面裝有高價值的加密機。&lt;br/&gt;&lt;br/&gt;他被一支敵方排級大小的步兵隊保護著。由於緊鄰著旁邊的戰區，他們的援軍應該會在5分鐘之內抵達。敵方的援軍可能會由空中，摩托化或機械化等種類的單位所組成。</Chinese>
+        <Chinese>敵方在任務區內隱藏了一臺指揮載具，它上面裝有高價值的加密機。&lt;br/&gt;&lt;br/&gt;他被一支敵方排級大小的步兵隊保護著。由於緊鄰著旁邊的戰區，他們的援軍應該會在5分鐘之內抵達。敵方的援軍可能會由空中，摩托化或機械化等種類的單位所組成。</Chinese>
         <Chinesesimp>敌方在任务区内隐藏了一台指挥载具，它上面装有高价值的加密机。&lt;br/&gt;&lt;br/&gt;他被一支敌方排级大小的步兵队保护着。由于紧邻着旁边的战区，他们的援军应该会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_57">
@@ -285,7 +285,7 @@
       <Key ID="str_a3_combatpatrol_mission_55">
         <Original>The enemy has set up an SIGINT antenna array, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;There are three devices within the AO, guarded by a platoon-sized, OPFOR infantry element. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
         <Chinese>敵人在我們前線的不遠處設置了一座訊號天線陣列。&lt;br/&gt;&lt;br/&gt;在任務區中有三個裝置，各被排級大小的敵方步兵所防守著。由於緊鄰旁邊的戰區，敵方的援軍會在5分鐘之內抵達。敵方的援軍可能會由空中，摩托化或機械化等種類的單位所組成。</Chinese>
-        <Chinesesimp>敌人在我们前线的不远处设置了一座讯号天线阵列。&lt;br/&gt;&lt;br/&gt;在任务区中有三个装置，各被排级大小的敌方步兵所防守着。由于紧邻旁边的战区，敌方的援军会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
+        <Chinesesimp>敌人在我们前线的不远处设置了一座信号天线阵列。&lt;br/&gt;&lt;br/&gt;在任务区中有三个装置，各被排级大小的敌方步兵所防守着。由于紧邻旁边的战区，敌方的援军会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_54">
         <Original>Conduct a combat patrol to capture sensitive intel.</Original>
@@ -320,17 +320,17 @@
       <Key ID="str_a3_combatpatrol_mission_49">
         <Original>The enemy are using a comms node to coordinate their actions, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;The AO is guarded by a platoon-sized, OPFOR infantry element, while the node itself is being serviced by a squad-sized security detail. Intel also suggests they are defending nearby buildings. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
         <Chinese>敵人在離我們前線的不遠處使用通訊節點方式來協調他們的作戰行動。&lt;br/&gt;&lt;br/&gt;目標區被一支排級大小的步兵單位駐守著，而結點本身也有一支小隊大小的安保部隊保護著。情報也指出他們正駐防在旁邊的建築中。由於緊鄰旁邊的戰區，敵方的援軍會在5分鐘之內抵達。敵方的援軍可能會由空中，摩托化或機械化等種類的單位所組成。</Chinese>
-        <Chinesesimp>敌人在离我们前线的不远处使用通讯节点方式来协调他们的作战行动。&lt;br/&gt;&lt;br/&gt;目标区被一支排级大小的步兵单位驻守着，而结点本身也有一支小队大小的安保部队保护着。情报也指出他们正驻防在旁边的建筑中。由于紧邻旁边的战区，敌方的援军会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
+        <Chinesesimp>敌人在离我们前线的不远处使用通信节点方式来协调他们的作战行动。&lt;br/&gt;&lt;br/&gt;目标区被一支排级大小的步兵单位驻守着，而结点本身也有一支小队大小的安保部队保护着。情报也指出他们正驻防在旁边的建筑中。由于紧邻旁边的战区，敌方的援军会在5分钟之内抵达。敌方的援军可能会由空中，摩托化或机械化等种类的单位所组成。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_48">
         <Original>Conduct a combat patrol to disrupt OPFOR communications in the AO.</Original>
         <Chinese>執行戰鬥巡邏任務並破壞敵方的通訊系統。</Chinese>
-        <Chinesesimp>执行战斗巡逻任务并破坏敌方的通讯系统。</Chinesesimp>
+        <Chinesesimp>执行战斗巡逻任务并破坏敌方的通信系统。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_47">
         <Original>Search the AO for the comms node, then destroy it; an antenna array on a rooftop will help pinpoint its position.</Original>
         <Chinese>搜索任務區中的通訊節點並摧毀之，你們可以透過搜索屋頂的雷達陣列來找到這些節點。</Chinese>
-        <Chinesesimp>搜索任务区中的通讯节点并摧毁之，你们可以透过搜索屋顶的雷达阵列来找到这些节点。</Chinesesimp>
+        <Chinesesimp>搜索任务区中的通信节点并摧毁之，你们可以透过搜索屋顶的雷达阵列来找到这些节点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_46">
         <Original>Enemy forces have concealed supplies at the designated location, not far from our frontlines.&lt;br/&gt;&lt;br/&gt;There are two logistic vehicles in the AO, guarded by a platoon-sized, OPFOR infantry element. Due to the close proximity of the combat zone, OPFOR reinforcements may arrive in five minutes. Such a counterattack could include airborne, motorized, or even mechanized forces.</Original>
@@ -360,7 +360,7 @@
       <Key ID="str_a3_combatpatrol_mission_41">
         <Original>- Team members are CLS-capable and may revive others.&lt;br/&gt;- Team Leader may deploy a Mk 1 Designated Regroup Point Tent as an alternative respawn point.&lt;br/&gt;- Organic UAV Operator and Medic roles are available.</Original>
         <Chinese>-小隊成員有受過戰鬥急救員的訓練，使其能夠復甦倒地的傷兵。&lt;br/&gt;-小隊長能夠放出一座Mk1型指定集合點帳篷被作為另一個重生點使用。&lt;br/&gt;-另有無人載具操作員與醫護兵等職位可供選擇。</Chinese>
-        <Chinesesimp>-小队成员有受过战斗急救员的训练，使其能够复苏倒地的伤兵。&lt;br/&gt;-小队长能够放出一座Mk1型指定集合点帐篷被作为另一个重生点使用。&lt;br/&gt;-另有无人载具操作员与医护兵等职位可供选择。</Chinesesimp>
+        <Chinesesimp>-小队成员有受过战斗急救员的训练，使其能够复苏倒地的伤兵。&lt;br/&gt;-小队长能够放出一座Mk1型指定集合点帐篷被作为另一个重生点使用。&lt;br/&gt;-另有无人载具操作员与卫生兵等职位可供选择。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_40">
         <Original>Location #%1</Original>
@@ -485,7 +485,7 @@
       <Key ID="str_a3_combatpatrol_mission_1d">
         <Original>COOP 12 Combat Patrol</Original>
         <Chinese>COOP12戰鬥巡邏</Chinese>
-        <Chinesesimp>COOP12战斗巡逻</Chinesesimp>
+        <Chinesesimp>合作12战斗巡逻</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1c">
         <Original>Patrol</Original>
@@ -495,7 +495,7 @@
       <Key ID="str_a3_combatpatrol_mission_1b">
         <Original>COOP 10 Combat Patrol</Original>
         <Chinese>COOP10戰鬥巡邏</Chinese>
-        <Chinesesimp>COOP10战斗巡逻</Chinesesimp>
+        <Chinesesimp>合作10战斗巡逻</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_19">
         <Original>Search the AO for enemy vehicles and sabotage them.</Original>

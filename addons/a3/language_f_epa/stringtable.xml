@@ -44,7 +44,7 @@
       </Key>
       <Key ID="STR_A3_wooden_log">
         <Original>Wooden log</Original>
-        <Chinese>圆木</Chinese>
+        <Chinese>?木</Chinese>
         <Chinesesimp>圆木</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_paperbox_open_full_f0">
@@ -348,17 +348,17 @@
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02a_F_EPA">
         <Original>Stage A: Lead Track 02 (Aegis Blues - Alternative 1)</Original>
-        <Chinese>第一章:主音軌02(神盾藍调-另類1)</Chinese>
+        <Chinese>第一章:主音軌02(神盾藍?-另類1)</Chinese>
         <Chinesesimp>第一章:主音轨02(神盾蓝调-编曲1)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02b_F_EPA">
         <Original>Stage A: Lead Track 02 (Aegis Blues - Alternative 2)</Original>
-        <Chinese>第一章:主音軌02(神盾藍调-另類2)</Chinese>
+        <Chinese>第一章:主音軌02(神盾藍?-另類2)</Chinese>
         <Chinesesimp>第一章:主音轨02(神盾蓝调-编曲2)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02_F_EPA">
         <Original>Stage A: Lead Track 02 (Aegis Blues)</Original>
-        <Chinese>第一章:主音軌02(神盾藍调)</Chinese>
+        <Chinese>第一章:主音軌02(神盾藍?)</Chinese>
         <Chinesesimp>第一章:主音轨02(神盾蓝调)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack03_F_EPA">
@@ -471,12 +471,12 @@
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f_library0">
         <Original>The Zubr .45 ACP is a revolver handgun with a distinctive design. The muzzle position is aligned with the bottom chamber. Compared to normal topmost revolvers, this change reduces the muzzle flip after shooting by directing the recoil more into the shooter's wrist. </Original>
         <Chinese>Zubr。45ACP是一把與左輪手槍非常相似的一把手槍。其槍口的位置對準了彈巢的底部。相比傳統左輪手槍對準彈巢上部的設計，這樣的改變可以減低開火後槍身向後翻準的程度，將後座力引導到射手的手腕上。</Chinese>
-        <Chinesesimp>“野牛”。45ACP是一把与左轮手枪非常相似的一把手枪。其枪口的位置对准了弹巢的底部。相比传统左轮手枪对准弹巢上部的设计，这样的改变可以减低开火后枪身向后翻准的程度，将后座力引导到射手的手腕上。</Chinesesimp>
+        <Chinesesimp>“野牛”.45ACP是一把与左轮手枪非常相似的一把手枪。其枪口的位置对准了弹巢的底部。相比传统左轮手枪对准弹巢上部的设计，这样的改变可以减低开火后枪身向后翻准的程度，将后座力引导到射手的手腕上。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f0">
         <Original>Zubr .45 ACP</Original>
         <Chinese>Zubr。45ACP</Chinese>
-        <Chinesesimp>“野牛”点45ACP</Chinesesimp>
+        <Chinesesimp>“野牛”.45ACP</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f_library0">
         <Original>The 4-five is a polymer-based semi-automatic pistol named for using .45 ACP ammunition. The reliability and accuracy are the most appraised features of this weapon. This weapon is favored by firing drills competitors because of an eleven rounds magazine and available collimator sight. </Original>
@@ -491,7 +491,7 @@
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f0">
         <Original>4-five .45 ACP</Original>
         <Chinese>4-five。45ACP</Chinese>
-        <Chinesesimp>4-five。45ACP</Chinesesimp>
+        <Chinesesimp>4-five .45ACP</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_c_supplycrate_f0">
         <Original>Supply Box [CTRG]</Original>
@@ -501,17 +501,17 @@
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Zubr</Original>
         <Chinese>口徑:。45ACP&lt;br/&gt;發數:6&lt;br/&gt;使用於:Zubr</Chinese>
-        <Chinesesimp>口径:。45ACP&lt;br/&gt;发数:6&lt;br/&gt;使用于:野牛</Chinesesimp>
+        <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:6&lt;br/&gt;使用于:野牛</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag1">
         <Original>Caliber: 12.7x108 mm APDS&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
         <Chinese>口徑:12。7x108mm脫殼穿甲彈&lt;br/&gt;發數:5&lt;br/&gt;使用於:GM6Lynx</Chinese>
-        <Chinesesimp>口径:12。7x108mm脱壳穿甲弹&lt;br/&gt;发数:5&lt;br/&gt;使用于:GM6“山猫”</Chinesesimp>
+        <Chinesesimp>口径:12.7x108mm脱壳穿甲弹&lt;br/&gt;发数:5&lt;br/&gt;使用于:GM6“山猫”</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder0">
         <Original>.45 ACP 6Rnd Cylinder</Original>
         <Chinese>。45ACP6發彈筒</Chinese>
-        <Chinesesimp>。45ACP6发弹巢</Chinesesimp>
+        <Chinesesimp>.45ACP6发弹巢</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgWeapons_srifle_DMR_01_F_library">
         <Original>The Rahim 7.62 mm is a bullpup rifle serving as a designated marksman weapon for the OPFOR. It's based on the older Russian rifle with upgraded modern features such as firing mechanism, trigger and rail. The bullpup design allows the rifle to be more compact and maneuverable without shortening the barrel.</Original>
@@ -521,7 +521,7 @@
       <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag0">
         <Original>12.7mm 5Rnd APDS Mag</Original>
         <Chinese>12。7mm5發脫殼穿甲彈彈匣</Chinese>
-        <Chinesesimp>12。7毫米5发脱壳穿甲弹弹匣</Chinesesimp>
+        <Chinesesimp>12.7毫米5发脱壳穿甲弹弹匣</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag1">
         <Original>Caliber: 7.62x54 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Rahim</Original>
@@ -536,12 +536,12 @@
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag0">
         <Original>.45 ACP 11Rnd Mag</Original>
         <Chinese>。45ACP11發彈匣</Chinese>
-        <Chinesesimp>。45ACP11发弹匣</Chinesesimp>
+        <Chinesesimp>.45ACP11发弹匣</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-five</Original>
         <Chinese>口徑:。45ACP&lt;br/&gt;發數:11&lt;br/&gt;使用於:4-five</Chinese>
-        <Chinesesimp>口径:。45ACP&lt;br/&gt;发数:11&lt;br/&gt;使用于:4-five</Chinesesimp>
+        <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:11&lt;br/&gt;使用于:4-five</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_acc_dms0">
         <Original>DMS</Original>

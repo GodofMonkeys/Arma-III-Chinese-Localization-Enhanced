@@ -869,7 +869,7 @@
           <Container name="15_Contact" audioFilePath="\a3\dubbing_f_epc\c_in2" dialogName="15_Contact" dubbingLanguage="english" namePrefix="c_in2_15_contact" note="" participants="EPC B Player;EPC B Member;" situation="kerry reports the landing craft to his co.">
             <Key ID="str_a3_c_in2_15_contact_ker_0">
               <Original>Lieutenant, I've got Zodiacs on the coast here.</Original>
-              <Chinese>中尉，我在海岸這邊發現了幾台突擊艇。</Chinese>
+              <Chinese>中尉，我在海岸這邊發現了幾臺突擊艇。</Chinese>
               <Chinesesimp>中尉，我在海岸这边发现了几艘突击艇。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_in2_15_contact_ker_1">
@@ -2191,12 +2191,12 @@
             </Key>
             <Key ID="str_a3_c_m02_120_underfirediscussiongroup_lea_1">
               <Original>Try to flank that enemy tank. We'll provide suppressive fire from here.</Original>
-              <Chinese>試著繞過去找到那台坦克。我們剩下的人會留在這邊做火力壓制。</Chinese>
+              <Chinese>試著繞過去找到那臺坦克。我們剩下的人會留在這邊做火力壓制。</Chinese>
               <Chinesesimp>试着绕过去找到那辆坦克。我们剩下的人会留在这边做火力压制。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_120_underfirediscussiongroup_lea_2">
               <Original>Be careful. Don't attract too much attention until that armor is neutralized.</Original>
-              <Chinese>請小心。在那台裝甲載具被處理掉之前，你最好不要吸引到太多的注意力。</Chinese>
+              <Chinese>請小心。在那臺裝甲載具被處理掉之前，你最好不要吸引到太多的注意力。</Chinese>
               <Chinesesimp>请小心。在那辆装甲车辆被处理掉之前，你最好不要吸引到太多的注意力。</Chinesesimp>
             </Key>
           </Container>
@@ -2208,7 +2208,7 @@
             </Key>
             <Key ID="str_a3_c_m02_115_underfirediscussion_abb_1">
               <Original>It's immobilized, but they're still using it as static defense.</Original>
-              <Chinese>那台載具已經不能移動了，但他們還是把他當作定點防禦設施。</Chinese>
+              <Chinese>那臺載具已經不能移動了，但他們還是把他當作定點防禦設施。</Chinese>
               <Chinesesimp>它已经瘫痪了，但他们还是把他当作定点防御设施。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_m02_115_underfirediscussion_lea_0">
@@ -2233,7 +2233,7 @@
             </Key>
             <Key ID="str_a3_c_m02_115_underfirediscussion_lea_2">
               <Original>Okay. Hold this position. We'll try to circle around and neutralize that tank.</Original>
-              <Chinese>好的。你們繼續堅守此地。我們會試著繞過去殲滅掉那台坦克。</Chinese>
+              <Chinese>好的。你們繼續堅守此地。我們會試著繞過去殲滅掉那臺坦克。</Chinese>
               <Chinesesimp>好的。你们继续坚守此地。我们会试着绕过去歼灭那辆坦克。</Chinesesimp>
             </Key>
           </Container>
@@ -2601,7 +2601,7 @@
           <Container name="x00_vehicleStolen" audioFilePath="\a3\dubbing_f_epc\c_out1" dialogName="x00_vehicleStolen" dubbingLanguage="english" namePrefix="c_out1_x00_vehiclestolen" note="" participants="EPC B Player;" situation="kerry's team enters enemy armoured vehicle and he reports to friendly units">
             <Key ID="str_a3_c_out1_x00_vehiclestolen_ker_0">
               <Original>All teams, be advised, Nomad's handling the enemy Gorgon at Kappa. Out.</Original>
-              <Chinese>所有小隊，請注意，Nomad小隊在Kappa截獲了一台Gorgon。通話完畢。</Chinese>
+              <Chinese>所有小隊，請注意，Nomad小隊在Kappa截獲了一臺Gorgon。通話完畢。</Chinese>
               <Chinesesimp>所有小队，请注意，“游牧民”正在处理那台在卡帕内的"蛇发女妖"装甲车。通话完毕。</Chinesesimp>
             </Key>
           </Container>
@@ -2662,7 +2662,7 @@
             </Key>
             <Key ID="str_a3_c_out1_i05_uav_ker_0">
               <Original>Crossroads, interrogative, we got a drone at our disposal? Over.</Original>
-              <Chinese>Crossroads，我有疑問，我們是否有一台空中無人載具可供我們使用?完畢。</Chinese>
+              <Chinese>Crossroads，我有疑問，我們是否有一臺空中無人載具可供我們使用?完畢。</Chinese>
               <Chinesesimp>"十字路口"，我有疑问，我们是否有一台无人机可供我们使用?完毕。</Chinesesimp>
             </Key>
           </Container>
@@ -2984,7 +2984,7 @@
           </Key>
           <Key ID="str_a3_c_out2_bis_device_desc">
             <Original>Lieutenant James claims Miller needs a truck stored somewhere in %1the nearby base%2. Find and deliver it to him.</Original>
-            <Chinese>根據上尉James的情報，Miller好像想要一台卡車，而卡車被停放在%1基地的附近%2。找到卡車並交給Miller。</Chinese>
+            <Chinese>根據上尉James的情報，Miller好像想要一臺卡車，而卡車被停放在%1基地的附近%2。找到卡車並交給Miller。</Chinese>
             <Chinesesimp>根据詹姆斯上尉的情报，米勒好像想要一台卡车，而卡车被停放在%1基地的附近%2。找到卡车并交给米勒。</Chinesesimp>
           </Key>
           <Key ID="str_a3_c_out2_bis_destroy_title">
@@ -3030,7 +3030,7 @@
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_ker_0">
               <Original>Lieutenant! Yeah, it's me. I'm in this... Actually, I don't know what the hell it is. A truck carrying something.</Original>
-              <Chinese>上尉!是，是我。我在這台...事實上，我不知道這是啥鬼東西。這台卡車好像載著些什麼。</Chinese>
+              <Chinese>上尉!是，是我。我在這臺...事實上，我不知道這是啥鬼東西。這臺卡車好像載著些什麼。</Chinese>
               <Chinesesimp>上尉!是，是我。我在这辆...事实上，我也不知道这是辆啥鬼东西。反正是一辆不知道载着什么东西的卡车。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_x05_james_bypassed_jam_3">
@@ -3169,7 +3169,7 @@
             </Key>
             <Key ID="str_a3_c_out2_70_miller_ker_3">
               <Original>This is what it's all been about, isn't it? Stratis, Mike-26, the airport, everything.</Original>
-              <Chinese>這台就是你所有任務的目的，是嗎?Stratis，Mike-26，機場，所有的事。</Chinese>
+              <Chinese>這臺就是你所有任務的目的，是嗎?Stratis，Mike-26，機場，所有的事。</Chinese>
               <Chinesesimp>这玩意就是你所有任务的目的，是吗?斯特拉蒂斯，Mike-26雷达站，机场，所有的事。</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_70_miller_mil_1">
@@ -3238,7 +3238,7 @@
           <Container name="60_Truck_Found" audioFilePath="\a3\dubbing_f_epc\c_out2" dialogName="60_Truck_Found" dubbingLanguage="english" namePrefix="c_out2_60_truck_found" note="" participants="EPC B Player;" situation="kerry spots the truck carrying the device.">
             <Key ID="str_a3_c_out2_60_truck_found_ker_0">
               <Original>That's got to be it.</Original>
-              <Chinese>應該就是這台了。</Chinese>
+              <Chinese>應該就是這臺了。</Chinese>
               <Chinesesimp>应该就是这车了。</Chinesesimp>
             </Key>
           </Container>
@@ -3288,7 +3288,7 @@
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_jam_2">
               <Original>In the base ... There's something... A... A truck...</Original>
-              <Chinese>在那個基地...裡面有某個東西...一台...一台卡車...</Chinese>
+              <Chinese>在那個基地...裡面有某個東西...一臺...一臺卡車...</Chinese>
               <Chinesesimp>在那个基地...里面有个东西...一辆...一辆卡车...</Chinesesimp>
             </Key>
             <Key ID="str_a3_c_out2_35_the_device_ker_0">
@@ -3925,7 +3925,7 @@
             </Key>
             <Key ID="str_a3_c_ea_10_getcar_ker_1">
               <Original>Supposed to be car around here somewhere - a red off-road.</Original>
-              <Chinese>我記得車子應該是停在這附近-是一台紅色的越野皮卡貨車。</Chinese>
+              <Chinese>我記得車子應該是停在這附近-是一臺紅色的越野皮卡貨車。</Chinese>
               <Chinesesimp>我记得车子应该是停在这附近-是一台红色的越野皮卡。</Chinesesimp>
             </Key>
           </Container>
@@ -4341,7 +4341,7 @@
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskJoinFIA_desc">
             <Original>Join a small group of %2FIA remnants%1. As they're trapped in a minefield, a mine detector - or MRAP - will be vital instruments to get there and back in one piece. Try to find some or try your luck.</Original>
-            <Chinese>救援一小隊%2殘餘的FIA部隊%1。他們誤入了地雷區，一個地雷探測器-或是一台防地雷反伏擊車-皆可以安全的帶他們離開那裡。要不你也可以試試自己的運氣。</Chinese>
+            <Chinese>救援一小隊%2殘餘的FIA部隊%1。他們誤入了地雷區，一個地雷探測器-或是一臺防地雷反伏擊車-皆可以安全的帶他們離開那裡。要不你也可以試試自己的運氣。</Chinese>
             <Chinesesimp>救援一小队%2残余的自由阵线部队%1。他们误入了地雷区，一个地雷探测器-或是一台防地雷反伏击车-皆可以安全的带他们离开那里。要不你也可以试试自己的运气。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Campaign_C_EB_BIS_tskJoinFIA_title">
@@ -4501,7 +4501,7 @@
           <Container name="x05_HeliEscaped" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="x05_HeliEscaped" dubbingLanguage="english" namePrefix="showcase_fixedwings_x05_heliescaped" note="" participants="EPC B Member;" situation="control tower radio">
             <Key ID="str_a3_showcase_fixedwings_x05_heliescaped_mem_0">
               <Original>Control tower to Avenger, too late, we've lost that radar contact. It's almost certainly landed.</Original>
-              <Chinese>塔台呼叫Avenger，已經太遲了，我們的雷達已經失去直升機的訊號。它應該已經著陸了。</Chinese>
+              <Chinese>塔臺呼叫Avenger，已經太遲了，我們的雷達已經失去直升機的訊號。它應該已經著陸了。</Chinese>
               <Chinesesimp>塔台呼叫“复仇者”，已经太迟了，我们的雷达已经失去直升机的讯号。它应该已经着陆了。</Chinesesimp>
             </Key>
           </Container>
@@ -4537,7 +4537,7 @@
             </Key>
             <Key ID="str_a3_showcase_fixedwings_90_tankhit_lea_0">
               <Original>Avenger to base, one enemy MBT has just been torn apart.</Original>
-              <Chinese>Avenger呼叫基地，一台敵軍主戰坦克已被摧毀。</Chinese>
+              <Chinese>Avenger呼叫基地，一臺敵軍主戰坦克已被摧毀。</Chinese>
               <Chinesesimp>“复仇者”呼叫基地，一辆敌军主战坦克已被摧毁。</Chinesesimp>
             </Key>
           </Container>
@@ -4631,19 +4631,19 @@
             </Key>
             <Key ID="str_a3_showcase_fixedwings_55_bothspgdestroyed_lea_0">
               <Original>Crossroads, second artillery system destroyed, how copy?</Original>
-              <Chinese>Crossroads，第二台自走砲也被殲滅了，有收到嗎?</Chinese>
+              <Chinese>Crossroads，第二臺自走砲也被殲滅了，有收到嗎?</Chinese>
               <Chinesesimp>"十字路口"，第二辆自行火炮也被歼灭了，收到没有?</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_OneSPGDestroyed" audioFilePath="\a3\dubbing_f_epc\showcase_fixedwings" dialogName="50_OneSPGDestroyed" dubbingLanguage="english" namePrefix="showcase_fixedwings_50_onespgdestroyed" note="" participants="EPC B Leader;EPC B HQ;" situation="one spg less confirmation">
             <Key ID="str_a3_showcase_fixedwings_50_onespgdestroyed_bhq_0">
               <Original>Good work, now locate and neutralize the second, over.</Original>
-              <Chinese>幹的好，現在請搜索並摧毀第二台，完畢。</Chinese>
+              <Chinese>幹的好，現在請搜索並摧毀第二臺，完畢。</Chinese>
               <Chinesesimp>干得好，现在请搜索并摧毁第二辆，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_fixedwings_50_onespgdestroyed_lea_0">
               <Original>Avenger to Crossroads, one artillery piece found and destroyed, how copy?</Original>
-              <Chinese>Avenger致Crossroads，一台自走砲已經被殲滅，有收到嗎?</Chinese>
+              <Chinese>Avenger致Crossroads，一臺自走砲已經被殲滅，有收到嗎?</Chinese>
               <Chinesesimp>“复仇者”致“十字路口”，一辆自行火炮已经被歼灭，有收到吗?</Chinesesimp>
             </Key>
           </Container>
@@ -4747,7 +4747,7 @@
             </Key>
             <Key ID="str_a3_showcase_fixedwings_15_helispotted_mem_1">
               <Original>It's flying low and heading south-west. Definitely a helicopter.</Original>
-              <Chinese>他飛的很低，並朝著西南方向前進。絕對是一台直升機。</Chinese>
+              <Chinese>他飛的很低，並朝著西南方向前進。絕對是一臺直升機。</Chinese>
               <Chinesesimp>他飞的很低，并朝着西南方向前进。绝对是一架直升机。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_fixedwings_15_helispotted_lea_0">
@@ -4799,7 +4799,7 @@
             </Key>
             <Key ID="str_a3_showcase_fixedwings_110_shiphit_lea_0">
               <Original>Be advised, OPFOR's got one ship less.</Original>
-              <Chinese>請注意，敵方少掉了一台船隻。</Chinese>
+              <Chinese>請注意，敵方少掉了一臺船隻。</Chinese>
               <Chinesesimp>请注意，敌方少了一艘船只。</Chinesesimp>
             </Key>
           </Container>
@@ -4823,7 +4823,7 @@
             </Key>
             <Key ID="str_a3_showcase_fixedwings_105_mraphit_lea_0">
               <Original>Avenger, update, one enemy armored car neutralized.</Original>
-              <Chinese>Avenger，狀況更新，一台敵軍裝甲載具已被殲滅。</Chinese>
+              <Chinese>Avenger，狀況更新，一臺敵軍裝甲載具已被殲滅。</Chinese>
               <Chinesesimp>“复仇者”，状况更新，一辆敌军装甲载具已被歼灭。</Chinesesimp>
             </Key>
           </Container>
@@ -5003,7 +5003,7 @@
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Briefing_Signal_text">
             <Original>Crossroads - Col. David Armstrong, Commander-in-chief&lt;br /&gt;Guardian - Lieutenant Lewis, control tower&lt;br /&gt;Avenger - your A-164 Wipeout.</Original>
-            <Chinese>Crossroads-上校DavidArmstrong，總司令&lt;br/&gt;Guardian-中尉Lewis，塔台&lt;br/&gt;Avenger-你的A-164Wipeout。</Chinese>
+            <Chinese>Crossroads-上校DavidArmstrong，總司令&lt;br/&gt;Guardian-中尉Lewis，塔臺&lt;br/&gt;Avenger-你的A-164Wipeout。</Chinese>
             <Chinesesimp>"十字路口"-大卫·阿姆斯特朗上校，总司令&lt;br/&gt;“守护者”-路易斯中尉，塔台&lt;br/&gt;“复仇者”-你的A-164"抹杀者"。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_FixedWings_Briefing_Situation_text">

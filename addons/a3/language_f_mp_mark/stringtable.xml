@@ -82,7 +82,7 @@
       <Key ID="STR_A3_EndGameVA2">
         <Original>You can access the Arsenal from the supply crates at the FOB, allowing you to change your loadout as you wish. Your chosen loadout will be saved, and will be restored upon your respawn.</Original>
         <Chinese>你可以在前線作戰基地中的支援箱來開啟軍火庫，透過本功能來自定你的裝備。你選定的裝備將被保存，在下次重生時將會自動讀取該配置。</Chinese>
-        <Chinesesimp>你可以在前进作战基地中的支援箱来开启军火库，通过本功能来自定你的装备。你选定的装备将被保存，在下次重生时将会自动读取该配置。</Chinesesimp>
+        <Chinesesimp>你可以在前进作战基地中的支援箱来开启军火库，通过本功能来自定义你的装备。你选定的装备将被保存，在下次重生时将会自动读取该配置。</Chinesesimp>
       </Key>
     </Container>
     <Container name="SharedObjectives">
@@ -545,7 +545,7 @@
       <Key ID="str_a3_endgame_tasks_description_laptop">
         <Original>Raid the AAF outpost and retrieve any intel you find.</Original>
         <Chinese>突襲AAF的前哨，取回任何你找到的情報。</Chinese>
-        <Chinesesimp>突袭AAF的前哨，取回任何你找到的情报。</Chinesesimp>
+        <Chinesesimp>突袭阿尔蒂斯武装力量的前哨，取回任何你找到的情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_tasks_description_fob">
         <Original>Establish a Forward Operating Base (FOB) at the designated location.</Original>
@@ -940,7 +940,7 @@
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title_warmupDelay">
         <Original>Warmup Delay</Original>
         <Chinese>暖身延遲</Chinese>
-        <Chinesesimp>暖身延迟</Chinesesimp>
+        <Chinesesimp>热身延迟</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EndGame_RespawnDelay">
         <Original>Respawn delay</Original>

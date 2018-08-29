@@ -252,7 +252,7 @@
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_49">
               <Original>To the vehicle</Original>
-              <Chinese>到那台載具邊</Chinese>
+              <Chinese>到那臺載具邊</Chinese>
               <Chinesesimp>到那台载具边</Chinesesimp>
             </Key>
             <Key ID="str_a3_time_trials_misctt_rof_50">
@@ -405,7 +405,7 @@
             </Key>
             <Key ID="str_a3_boot_m05_d10_ending_lac_0">
               <Original>Can't believe MacKinnon just shut us down like that.</Original>
-              <Chinese>我不敢相信麦金农竟然要我們退下。</Chinese>
+              <Chinese>我不敢相信?金?竟然要我們退下。</Chinese>
               <Chinesesimp>我不敢相信麦金农竟然要我们退下。</Chinesesimp>
             </Key>
           </Container>
@@ -417,7 +417,7 @@
             </Key>
             <Key ID="str_a3_boot_m05_d05_results_ada_1">
               <Original>Callsign 'Phalanx'. Colonel Akhanteros. You just bashed horns with the AAF's top brass.</Original>
-              <Chinese>呼號“方陣”。阿坎特罗斯上校。你剛剛頂撞了AAF的高層。</Chinese>
+              <Chinese>呼號“方陣”。阿坎特?斯上校。你剛剛頂撞了AAF的高層。</Chinese>
               <Chinesesimp>呼号“密集阵”。阿坎特罗斯上校。你刚刚顶撞了阿尔蒂斯武装力量的最高层。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_d05_results_lac_0">
@@ -626,7 +626,7 @@
             </Key>
             <Key ID="str_a3_boot_m05_20_fire_bhq_4">
               <Original>We're getting conflicting reports left and right. I need someone on the ground. How copy?</Original>
-              <Chinese>我快被相互矛盾的情報給煩死了。我需要有人在现场。有收到嗎?</Chinese>
+              <Chinese>我快被相互矛盾的情報給煩死了。我需要有人在??。有收到嗎?</Chinese>
               <Chinesesimp>我手里尽是各种相互矛盾的情报。我需要有人在现场。懂吗?</Chinesesimp>
             </Key>
           </Container>
@@ -727,7 +727,7 @@
           </Key>
           <Key ID="str_a3_boot_m04_debriefing_boot_m05_2_description">
             <Original>The convoy was secured, but little remains. Although you broke the Rules of Engagement, it was clear that the FIA had hostile intentions. Let's keep your slip up to ourselves.</Original>
-            <Chinese>車隊已經肅清完成了。儘管你打破了交戰守則，但很明顯的FIA在當時是我們的敵人。讓我們把自己的神经給繃緊點。</Chinese>
+            <Chinese>車隊已經肅清完成了。儘管你打破了交戰守則，但很明顯的FIA在當時是我們的敵人。讓我們把自己的神?給繃緊點。</Chinese>
             <Chinesesimp>车队已经安全了，但也已经不剩什么了。尽管你打破了交战守则，但很明显的自由阵线在当时是我们的敌人。让我们把自己的神经给绷紧点。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_debriefing_boot_m05_1_description">
@@ -1235,12 +1235,11 @@
           <Key ID="str_a3_boot_m02_sitrep_3">
             <Original>BEFORE STRATIS INCIDENT</Original>
             <Chinese>STRATIS變故前</Chinese>
-            <Chinesesimp>一年前</Chinesesimp>
+            <Chinesesimp>斯特拉蒂斯事件一年前</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_sitrep_2">
             <Original>1 YEAR</Original>
-            <Chinese>1年
-			</Chinese>
+            <Chinese>1年</Chinese>
             <Chinesesimp>1年</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_sitrep_1">
@@ -1261,7 +1260,7 @@
           <Key ID="str_a3_boot_m02_briefing_situation_text">
             <Original>Peacekeeping efforts continue in The Republic of Altis and Stratis following the Civil War. Although some progress has been made, the newly-established government still faces serious obstacles, namely the inexperience of the Altis Armed Forces, or AAF for short.%1Officially, NATO Peacekeepers, primarily stationed on Stratis, have been seconded to Altis to cooperate and consult with the AAF. Unofficially, they have been assisting with training members of the AAF in order to ensure their ability to maintain security within the Republic itself.%2Recently, however, member states of CSAT have expressed interest in the Republic, further increasing already-heightened global tensions with NATO.</Original>
             <Chinese>維和行動持續在剛經歷過內戰的Altis和Stratis共和國上進行著。儘管安全已經有些進展，但新成立的政府仍面臨嚴峻的考驗，他們的軍隊全名是Altis政府軍，簡稱AAF。%1表面上來說，NATO的維和部隊只駐紮在Stratis，但他們現在被調派到Altis主島上來與AAF進行合作。事實上，他們私底下仍持續訓練著AAF的士兵，好讓他們有能力自己維持島嶼的和平。%2然而，最近CSAT的會員國逐漸展現出對這個小共和國的興趣，使本已緊張的局勢更進一步升高。</Chinese>
-            <Chinesesimp>维和行动在刚经历过内战的阿尔蒂斯和斯特拉蒂斯共和国内继续进行。尽管已经有了一些进展，但新成立的政府仍面临严峻的考验，特别缺乏经验的政府军，阿尔蒂斯武装力量。%1表面上来说，虽然北约维和部队基本只驻扎在斯特拉蒂斯，在阿尔蒂斯岛上只作为合作并提供顾问意见的次要力量。不过从非官方角度上，他们仍持续训练着阿尔蒂斯武装力量的士兵，以便让他们有能力自己维持共和国的和平。%2然而，最近广州协定同盟组织的成员国逐渐展现出对这个小共和国的兴趣，使本已紧张的局势进一步加剧。</Chinesesimp>
+            <Chinesesimp>维和行动在刚经历过内战的阿尔蒂斯和斯特拉蒂斯共和国内继续进行。尽管已经有了一些进展，但新成立的政府仍面临严峻的考验，特别缺乏经验的政府军，阿尔蒂斯武装力量。%1表面上来说，虽然北约维和部队基本只驻扎在斯特拉蒂斯，在阿尔蒂斯岛上只作为合作并提供顾问意见的次要力量。不过从非官方角度上，他们仍持续训练着阿尔蒂斯武装力量的士兵，以便让他们有能力自己维持共和国的和平。%2然而，最近广东协议同盟组织的成员国逐渐展现出对这个小共和国的兴趣，使本已紧张的局势进一步加剧。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_bis_tank_title">
             <Original>Run to the Tank</Original>
@@ -1688,7 +1687,7 @@
             <Key ID="str_a3_boot_m02_50_take_scope_ada_1">
               <Original>Sergeant, go ahead and grab the RCO from the crate.</Original>
               <Chinese>中士，請在你身旁的箱子中拿取一個步槍戰鬥光學瞄準鏡並裝上它。</Chinese>
-              <Chinesesimp>中士，请在你身旁的箱子中拿一个步枪战斗光学瞄准镜装上。</Chinesesimp>
+              <Chinesesimp>中士，请在你身旁的箱子中拿取一个步枪战斗光学瞄准镜并装上它。</Chinesesimp>
             </Key>
           </Container>
           <Container name="49_CSAT" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="49_CSAT" dubbingLanguage="english" namePrefix="boot_m02_49_csat" note="" participants="BOOT I Soldier B;BOOT B Adams;" situation="csat helicopters fly by in the distance">
@@ -1699,7 +1698,7 @@
             </Key>
             <Key ID="str_a3_boot_m02_49_csat_isb_0">
               <Original>Helicopters? Well. Speaking of CSAT.</Original>
-              <Chinese>直升機?哇嗚。说曹操曹操到。</Chinese>
+              <Chinese>直升機?哇嗚。?曹操曹操到。</Chinese>
               <Chinesesimp>直升机?好吧。说曹操曹操到。</Chinesesimp>
             </Key>
           </Container>
@@ -2330,7 +2329,7 @@
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_vehicles_challenge_4_description">
             <Original>Create a Hunter and make sure all your Recruits board it.</Original>
-            <Chinese>創建一台Hunter，並讓你的新兵進入它。</Chinese>
+            <Chinese>創建一臺Hunter，並讓你的新兵進入它。</Chinese>
             <Chinesesimp>创建一台“猎人”，并让你的新兵进入它。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_vehicles_challenge_3_title">
@@ -2480,7 +2479,7 @@
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_infantry_challenge_11_description">
             <Original>A vehicle is being sent to the Recruits´ position, make sure all Recruits enter its cargo.</Original>
-            <Chinese>一台載具被送往新兵的身旁了，請確保所有新兵都已上車。</Chinese>
+            <Chinese>一臺載具被送往新兵的身旁了，請確保所有新兵都已上車。</Chinese>
             <Chinesesimp>一台载具被送往新兵的身旁了，请确保所有新兵都已上车。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_infantry_challenge_10_title">
@@ -3139,7 +3138,7 @@
             </Key>
             <Key ID="str_a3_boot_m03_55_hill_marked_ada_1">
               <Original>However, that's from them to the chapel. We want to work out the bearing from the chapel to their position.</Original>
-              <Chinese>然而，那是從他們的視角看才准。我們要從禮拜堂的位置推算回他們的位置。</Chinese>
+              <Chinese>然而，那是從他們的視角看才準。我們要從禮拜堂的位置推算回他們的位置。</Chinese>
               <Chinesesimp>然而，那是从他们的视角看才准。我们要从礼拜堂的位置推算回他们的位置。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_55_hill_marked_ada_2">
@@ -3552,7 +3551,7 @@
           <Key ID="STR_A3_Arsenal_overviewText">
             <Original>Try every weapon, item and vehicle Arma 3 has to offer.</Original>
             <Chinese>試用ArmA3提供的各式裝備，武器及載具。</Chinese>
-            <Chinesesimp>试用Arma3提供的各式装备，武器及载具。</Chinesesimp>
+            <Chinesesimp>试用武装突袭3提供的各式装备，武器及载具。</Chinesesimp>
           </Key>
         </Container>
         <Container name="VR">
@@ -4361,7 +4360,7 @@
           <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m13_guer">
             <Original>Zeus 16+2 Master Virtual Reality (AAF)</Original>
             <Chinese>宙斯16+2主宰虛擬實境(Altis政府軍)</Chinese>
-            <Chinesesimp>宙斯16+2主宰虚拟实境(Altis政府军)</Chinesesimp>
+            <Chinesesimp>宙斯16+2主宰虚拟实境(阿尔蒂斯政府军)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m13_west">
             <Original>Zeus 16+2 Master Virtual Reality (NATO)</Original>

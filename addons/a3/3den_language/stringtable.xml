@@ -1758,8 +1758,8 @@
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_vehicle_text">
               <Original>Empty Vehicles are no longer mixed together under &lt;%2&gt;Props&lt;%3&gt;.&lt;br /&gt;&lt;br /&gt;To place a vehicle without default crew, find it under its side (e.g., BLUFOR Hunter) and hold &lt;%2&gt;Alt&lt;%3&gt; while placing it.</Original>
-              <Chinese>空載具再也不歸類在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一個沒有組員的空載具，首先先找到該物件(像是藍方的「獵人」)，在要放置時按住&lt;%2&gt;Alt&lt;%3&gt;然後再放置即可產生空的載具。</Chinese>
-              <Chinesesimp>空载具再也不归类在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一个没有组员的空载具，首先先找到该物件(像是蓝方的「猎人」)，在要放置时按住&lt;%2&gt;Alt&lt;%3&gt;然后再放置即可产生空的载具。</Chinesesimp>
+              <Chinese>空載具再也不歸類在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一個沒有組員的空載具，首先先找到該物件(像是藍方的“獵人”)，在要放置時按住&lt;%2&gt;Alt&lt;%3&gt;然後再放置即可產生空的載具。</Chinese>
+              <Chinesesimp>空载具再也不归类在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一个没有组员的空载具，首先先找到该物件(像是蓝方的“猎人”)，在要放置时按住&lt;%2&gt;Alt&lt;%3&gt;然后再放置即可产生空的载具。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_undo_text">
               <Original>And last, but not least, you can now undo recent changes you have made.&lt;br /&gt;&lt;br /&gt;Please keep in mind that the history is reset every time you play the scenario or load another one.</Original>
@@ -3057,7 +3057,7 @@
           <Key ID="str_3den_object_attribute_namesound_tooltip">
             <Original>Call sign used in radio protocol (e.g., leader will order 'Kerry, fall back' instead of generic '2, fall back'). It doesn't affect character's actual name; consider changing it as well so they match together.</Original>
             <Chinese>呼號被用在無線電通訊中(範例:在設定後隊長會這樣叫你，'克里，快回來'來取代本來的'2，快回來')。這個選項並不會影響到角色的名稱;請仔細考慮好來讓名稱與呼號不相衝突。</Chinese>
-            <Chinesesimp>呼号被用在无线电通讯中(范例:在设定后队长会这样叫你，'克里，快回来'来取代本来的'2，快回来')。这个选项并不会影响到角色的名称;请仔细考虑以便让名称与呼号不相冲突。</Chinesesimp>
+            <Chinesesimp>呼号被用在无线电通信中(范例:在设定后队长会这样叫你，'克里，快回来'来取代本来的'2，快回来')。这个选项并不会影响到角色的名称;请仔细考虑以便让名称与呼号不相冲突。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objectmaterialcustom0_displayname">
             <Original>Material #0</Original>
@@ -4480,12 +4480,12 @@
         <Key ID="str_3den_notifications_missionexportsp_text">
           <Original>Exported to &amp;lt;Arma 3&amp;gt;/Missions</Original>
           <Chinese>匯出到&amp;lt;Arma3&amp;gt;/Missions資料夾</Chinese>
-          <Chinesesimp>汇出到&amp;lt;Arma3&amp;gt;/Missions资料夹</Chinesesimp>
+          <Chinesesimp>汇出到&amp;lt;武装突袭3&amp;gt;/Missions资料夹</Chinesesimp>
         </Key>
         <Key ID="str_3den_notifications_missionexportmp_text">
           <Original>Exported to &amp;lt;Arma 3&amp;gt;/MPMissions</Original>
           <Chinese>匯出到&amp;lt;Arma3&amp;gt;/MPMissions資料夾</Chinese>
-          <Chinesesimp>汇出到&amp;lt;Arma3&amp;gt;/MPMissions资料夹</Chinesesimp>
+          <Chinesesimp>汇出到&amp;lt;武装突袭3&amp;gt;/MPMissions资料夹</Chinesesimp>
         </Key>
         <Key ID="str_3den_notifications_missionautosaved_text">
           <Original>Scenario autosaved</Original>

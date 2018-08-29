@@ -106,7 +106,7 @@
         <Key ID="str_a3_showcase_jets_briefing_mission_text">
           <Original>CSAT jets have been spotted over Altis. Patrol the %4airspace%1 and eliminate hostile air assets.</Original>
           <Chinese>廣協同盟的戰鬥機被發現出沒於Altis的上空。前往該%4空域%1進行巡邏並殲滅掉敵軍的空中單位。</Chinese>
-          <Chinesesimp>广协同盟的战斗机被发现出没于阿尔蒂斯岛上空。前往该%4空域%1进行巡逻并歼灭敌方空中单位。</Chinesesimp>
+          <Chinesesimp>广协同盟的战斗机被发现出没于阿尔蒂斯上空。前往该%4空域%1进行巡逻并歼灭敌方空中单位。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_briefing_execution_text">
           <Original>1. Gear up, board your fighter jet and take off from %2USS Freedom%1. &lt;br/&gt;2. Patrol the %4airspace%1 and eliminate enemy air assets. &lt;br/&gt;3. Return to %2USS Freedom%1 and land.</Original>
@@ -458,7 +458,7 @@
     <Container name="Welcome">
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_titleb">
         <Original>PLATFORM</Original>
-        <Chinese>平台</Chinese>
+        <Chinese>平臺</Chinese>
         <Chinesesimp>平台</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list9_title">
@@ -518,7 +518,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list4">
         <Original>a NATO carrier-based Unmanned Combat Air Vehicle</Original>
-        <Chinese>北約的一台艦載無人戰機</Chinese>
+        <Chinese>北約的一臺艦載無人戰機</Chinese>
         <Chinesesimp>北约的一种舰载无人机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list3_title">
@@ -528,7 +528,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list3">
         <Original>an advanced fourth generation AAF fighter jet</Original>
-        <Chinese>Altis政府軍的一台先進第四代戰鬥機</Chinese>
+        <Chinese>Altis政府軍的一臺先進第四代戰鬥機</Chinese>
         <Chinesesimp>阿尔蒂斯武装力量的一种先进第四代战斗机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list2_title">
@@ -538,7 +538,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list2">
         <Original>a fifth generation CSAT air superiority fighter jet</Original>
-        <Chinese>廣協同盟的一台第五代空優戰鬥機</Chinese>
+        <Chinese>廣協同盟的一臺第五代空優戰鬥機</Chinese>
         <Chinesesimp>广协同盟的一种第五代空优战斗机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list1_title">
@@ -548,7 +548,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list1">
         <Original>a fifth generation NATO carrier-based fighter jet</Original>
-        <Chinese>北約的一台第五代艦載戰鬥攻擊機</Chinese>
+        <Chinese>北約的一臺第五代艦載戰鬥攻擊機</Chinese>
         <Chinesesimp>北约的一台第五代舰载战斗机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_footer">
@@ -559,7 +559,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pare">
         <Original>Arma 3 Jets takes to the skies with the following premium content and platform additions:</Original>
         <Chinese>ArmA3戰機資料片為天空帶來了以下優質付費內容:</Chinese>
-        <Chinesesimp>ArmA3战机资料片为天空带来了以下优质付费内容:</Chinesesimp>
+        <Chinesesimp>武装突袭3战机资料片为天空带来了以下优质付费内容:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pard_unmapped">
         <Original>Unmapped</Original>
@@ -644,7 +644,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pard">
         <Original>With the addition of these new features and deepening of existing gameplay, there have been several &lt;t color='%1'&gt;control additions and tweaks&lt;/t&gt;. You can inspect these in the CONTROLS section of the OPTIONS menu. It's also possible to reset to the Arma 3 or now standard Arma 3 Apex PRESETS, but please be aware that doing so will remove any customized control bindings.</Original>
         <Chinese>隨著新功能的登場與更加細緻的遊戲體驗，我們&lt;tcolor='%1'&gt;新增與調整了一些控制按鍵&lt;/t&gt;。你可以到選項中的按鍵設定進行調整。你也可以直接重設按鍵設定到標準的ArmA3頂尖按鍵配置，但如果這樣做，你的那些自定按鍵就會全部不見。</Chinese>
-        <Chinesesimp>随着新功能的登场与更加细致的游戏体验，我们&lt;tcolor='%1'&gt;新增与调整了一些控制按键&lt;/t&gt;。你可以到选项中的按键设定进行调整。你也可以直接重设按键设定到标准的ArmA3顶尖按键配置，但如果这样做，你的那些自定按键就会全部不见。</Chinesesimp>
+        <Chinesesimp>随着新功能的登场与更加细致的游戏体验，我们&lt;tcolor='%1'&gt;新增与调整了一些控制按键&lt;/t&gt;。你可以到选项中的按键设定进行调整。你也可以直接重设按键设定到标准的武装突袭3顶尖按键配置，但如果这样做，你的那些自定义按键就会全部不见。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list8">
         <Original>optional new throttle behavior, new airplane animation and &lt;a href='%2' color='%1'&gt;MFD&lt;/a&gt; sources for modders, tweaked controls, and more!</Original>
@@ -668,8 +668,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list6">
         <Original>scripted support for carrier launching and automated landing of naval aircraft</Original>
-        <Chinese>現在你擁有一台可以透過腳本來彈射與自動降落的航空母艦</Chinese>
-        <Chinesesimp>现在你拥有一台可以透过脚本来弹射与自动降落的航空母舰</Chinesesimp>
+        <Chinese>現在你擁有一臺可以透過腳本來彈射與自動降落的航空母艦</Chinese>
+        <Chinesesimp>现在你拥有一台可以通过脚本来弹射与自动降落的航空母舰</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list5_title">
         <Original>Improved Airplane Audio</Original>
@@ -709,7 +709,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list2">
         <Original>enables vehicles to transmit their sensor data to other vehicles for advanced cooperation</Original>
         <Chinese>現在飛機之間可以透過資料鏈結來分享傳感器的資訊，進而提高協同作戰的緊密度</Chinese>
-        <Chinesesimp>现在飞机之间可以透过资料链结来分享传感器的资讯，进而提高协同作战的紧密度</Chinesesimp>
+        <Chinesesimp>现在飞机之间可以通过资料链结来分享传感器的信息，进而提高协同作战的紧密度</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parc_list1_title">
         <Original>Sensor Overhaul</Original>
@@ -723,8 +723,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parc">
         <Original>We're pleased to have been able to provide the entire Arma 3 player-base with a solid set of features in the form of a &lt;t color='%1'&gt;free platform update&lt;/t&gt;. Not only do these improvements complement the premium aircraft splendidly, but they can and will be deployed for certain other existing vehicle types and (we hope!) by mod teams as well:</Original>
-        <Chinese>我們很高興能再次為ArmA3這個平台提供&lt;tcolor='%1'&gt;免費的特色更新&lt;/t&gt;。這些新功能不僅只出現在新的付費載具上，你可以在所有的載具上找到這些新功能，而且我們相信很快所有載具模組的製作團隊也會一起更新上來:</Chinese>
-        <Chinesesimp>我们很高兴能再次为ArmA3这个平台提供&lt;tcolor='%1'&gt;免费的特色更新&lt;/t&gt;。这些新功能不仅只出现在新的付费载具上，你可以在所有的载具上找到这些新功能，而且我们相信很快所有载具模组的制作团队也会一起更新上来:</Chinesesimp>
+        <Chinese>我們很高興能再次為ArmA3這個平臺提供&lt;tcolor='%1'&gt;免費的特色更新&lt;/t&gt;。這些新功能不僅只出現在新的付費載具上，你可以在所有的載具上找到這些新功能，而且我們相信很快所有載具模組的製作團隊也會一起更新上來:</Chinese>
+        <Chinesesimp>我们很高兴能再次为武装突袭3这个平台提供&lt;tcolor='%1'&gt;免费的特色更新&lt;/t&gt;。这些新功能不仅只出现在新的付费载具上，你可以在所有的载具上找到这些新功能，而且我们相信很快所有载具模组的制作团队也会一起更新上来:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parb_title">
         <Original>PREMIUM</Original>
@@ -734,17 +734,17 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_parb_footer">
         <Original>More about Arma 3 Jets</Original>
         <Chinese>更多關於ArmA3戰機的資訊</Chinese>
-        <Chinesesimp>更多关于ArmA3战机的资讯</Chinesesimp>
+        <Chinesesimp>更多关于武装突袭3战机的信息</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_parb">
         <Original>As you've come to expect from our DLC strategy, this major release brings great new &lt;t color='%1'&gt;premium content&lt;/t&gt; for DLC owners and enhances the sandbox for all Arma 3 players. With Arma 3 Jets, our goal was to deliver air superiority jets capable of combat beyond visual ranges. Owners will gain unrestricted access to &lt;t color='%1'&gt;3 new fighter aircraft&lt;/t&gt; and an &lt;t color='%1'&gt;Unmanned Combat Air Vehicle&lt;/t&gt;. You can experience the enhanced aerial gameplay in the dedicated &lt;t color='%1'&gt;Showcase&lt;/t&gt;, or if you're looking for a quick hands-on preview, boot up the Virtual Arsenal mode to try the assets without restriction.</Original>
-        <Chinese>如同我們往常的資料片政策，這次除了有優質的&lt;tcolor='%1'&gt;付費內容&lt;/t&gt;外，我們也提供免費的系統升級給所有的ArmA3玩家。在ArmA3戰機中，我們主要的目標就是提供玩家一個超視距空優戰鬥的體驗。資料片買家將能直接擁有&lt;tcolor='%1'&gt;3款新戰機&lt;/t&gt;以及&lt;tcolor='%1'&gt;1台無人戰機&lt;/t&gt;。你可以直接到&lt;tcolor='%1'&gt;任務展示&lt;/t&gt;中體驗全新的空中戰鬥，沒有資料片的玩家也可以直接到虛擬軍火庫中免費體驗這些新載具。</Chinese>
-        <Chinesesimp>如同我们往常的资料片政策，这次除了有优质的&lt;tcolor='%1'&gt;付费内容&lt;/t&gt;外，我们也提供免费的系统升级给所有的ArmA3玩家。在ArmA3战机中，我们主要的目标就是提供玩家一个超视距空优战斗的体验。资料片买家将能直接拥有&lt;tcolor='%1'&gt;3款新战机&lt;/t&gt;以及&lt;tcolor='%1'&gt;1台无人战机&lt;/t&gt;。你可以直接到&lt;tcolor='%1'&gt;任务展示&lt;/t&gt;中体验全新的空中战斗，没有资料片的玩家也可以直接到虚拟军火库中免费体验这些新载具。</Chinesesimp>
+        <Chinese>如同我們往常的資料片政策，這次除了有優質的&lt;tcolor='%1'&gt;付費內容&lt;/t&gt;外，我們也提供免費的系統升級給所有的ArmA3玩家。在ArmA3戰機中，我們主要的目標就是提供玩家一個超視距空優戰鬥的體驗。資料片買家將能直接擁有&lt;tcolor='%1'&gt;3款新戰機&lt;/t&gt;以及&lt;tcolor='%1'&gt;1臺無人戰機&lt;/t&gt;。你可以直接到&lt;tcolor='%1'&gt;任務展示&lt;/t&gt;中體驗全新的空中戰鬥，沒有資料片的玩家也可以直接到虛擬軍火庫中免費體驗這些新載具。</Chinese>
+        <Chinesesimp>如同我们往常的资料片政策，这次除了有优质的&lt;tcolor='%1'&gt;付费内容&lt;/t&gt;外，我们也提供免费的系统升级给所有的武装突袭3玩家。在武装突袭3战机中，我们主要的目标就是提供玩家一个超视距空优战斗的体验。资料片买家将能直接拥有&lt;tcolor='%1'&gt;3款新战机&lt;/t&gt;以及&lt;tcolor='%1'&gt;1台无人战机&lt;/t&gt;。你可以直接到&lt;tcolor='%1'&gt;任务展示&lt;/t&gt;中体验全新的空中战斗，没有资料片的玩家也可以直接到虚拟军火库中免费体验这些新载具。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_para">
         <Original>Scrambling all pilots! We've launched the &lt;t color='%1'&gt;Arma 3 Jets&lt;/t&gt; DLC for immediate interdiction. We hope this first huge milestone on our &lt;a href='%3' color='%2'&gt;2017 roadmap&lt;/a&gt; will please fans of vehicle gameplay and those looking for an even deeper combined arms experience. For the first time in Arma 3's development, this DLC was created together with a third-party external team: &lt;t color='%1'&gt;BRAVO ZERO ONE Studios&lt;/t&gt;, led by &lt;a href='%4' color='%2'&gt;Make Arma Not War&lt;/a&gt; winner Joshua "Saul" Carpenter. We would like to thank these talented developers for their hard work! Inspect the strong line-up of new assets and features below, or jump right into the cockpit for takeoff!</Original>
         <Chinese>通告所有飛行員!我們已經讓&lt;tcolor='%1'&gt;ArmA3戰機&lt;/t&gt;資料片正式上市。我們希望這個&lt;ahref='%3'color='%2'&gt;2017規劃藍圖&lt;/a&gt;的第一個里程碑能讓那些載具愛好者與想要更加擬真體驗的玩家有所感受。關於這次資料片的開發，我們是第一次與其他第三方團隊合作:&lt;tcolor='%1'&gt;BRAVOZEROONE工作室&lt;/t&gt;，是由&lt;ahref='%4'color='%2'&gt;讓ArmA不要戰爭&lt;/a&gt;的贏家Joshua"Saul"Carpenter所領軍。我們很感謝這些厲害的作者做出如此厲害的內容!你可以看看底下的訊息來了解新載具與新特色，或是現在立刻進入遊戲中直接體驗!</Chinese>
-        <Chinesesimp>通告所有飞行员!我们已经让&lt;tcolor='%1'&gt;ArmA3战机&lt;/t&gt;资料片正式上市。我们希望这个&lt;ahref='%3'color='%2'&gt;2017规划蓝图&lt;/a&gt;的第一个里程碑能让那些载具爱好者与想要更加拟真体验的玩家有所感受。关于这次资料片的开发，我们是第一次与其他第三方团队合作:&lt;tcolor='%1'&gt;BRAVOZEROONE工作室&lt;/t&gt;，是由&lt;ahref='%4'color='%2'&gt;让ArmA不要战争&lt;/a&gt;的赢家Joshua"Saul"Carpenter所领军。我们很感谢这些厉害的作者做出如此厉害的内容!你可以看看底下的讯息来了解新载具与新特色，或是现在立刻进入游戏中直接体验!</Chinesesimp>
+        <Chinesesimp>通告所有飞行员!我们已经让&lt;tcolor='%1'&gt;武装突袭3战机&lt;/t&gt;资料片正式上市。我们希望这个&lt;ahref='%3'color='%2'&gt;2017规划蓝图&lt;/a&gt;的第一个里程碑能让那些载具爱好者与想要更加拟真体验的玩家有所感受。关于这次资料片的开发，我们是第一次与其他第三方团队合作:&lt;tcolor='%1'&gt;BRAVOZEROONE工作室&lt;/t&gt;，是由&lt;ahref='%4'color='%2'&gt;让武装突袭不要战争&lt;/a&gt;的赢家Joshua"Saul"Carpenter所领军。我们很感谢这些厉害的作者做出如此厉害的内容!你可以看看底下的信息来了解新载具与新特色，或是现在立刻进入游戏中直接体验!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list10">
         <Original>use the Y-32 Xi'an aircraft to support friendly troops on Tanoa against NATO forces (bonus for &lt;a href='%2'&gt;Apex&lt;/a&gt; owners)</Original>
@@ -760,8 +760,8 @@
     <Container name="FieldManual">
       <Key ID="STR_A3_CfgHints_PremiumContent_PremiumJets1">
         <Original>Dominate the skies over the battlefield in 3 new fighter aircraft and an Unmanned Combat Air Vehicle. Fly fast and agile air superiority jets to provide air support in the dedicated Showcase, and more, in the Arma 3 Jets DLC.%1&lt;img size='9' shadow='0' image='A3\Data_F_Jets\Images\jets_fm_overview_co' /&gt;%1%2F/A-181 Black Wasp II - a fifth generation NATO carrier-based fighter jet%1%2To-201 Shikra - a fifth generation CSAT air superiority fighter jet%1%2A-149 Gryphon - an advanced fourth generation AAF fighter jet%1%2Sentinel - a NATO carrier-based Unmanned Combat Air Vehicle%1%2Deck Crew Vests - colored vests for various characters roles on the carrier%1%2Showcase Fighter Jets - take to the skies over Altis and engage in Air-to-Air and Air-to-Ground operations%1%2Official Sound Track - a new music track befitting the jets theme%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
-        <Chinese>駕馭全新的3款戰機與1款無人戰機，你就可以稱霸整個戰場的領空。你可以在任務展示中體驗到新飛機的高速與敏捷性，讓你獲得絕對的空優，這些盡在ArmA3戰機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型戰鬥攻擊機-北約的一台第五代艦載戰鬥攻擊機%1%2To-201"褐耳鷹"戰鬥機-廣協同盟的一台第五代空優戰鬥機%1%2A-149"獅鷲"戰鬥機-Altis政府軍的一台先進第四代戰鬥機%1%2"哨兵"無人戰機-北約的一台艦載無人戰機%1%2甲板人員背心-數種不同顏色的背心供航空母艦的甲板人員使用%1%2戰鬥機任務展示-前往Altis體驗空對空與空對地的飛行任務%1%2官方原聲帶-一首配合戰機主題的曲子%1%2成就-新的一組&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>驾驭全新的3款战机与1款无人战机，你就可以称霸整个战场的领空。你可以在任务展示中体验到新飞机的高速与敏捷性，让你获得绝对的空优，这些尽在ArmA3战机资料片中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型战斗攻击机-北约的一台第五代舰载战斗攻击机%1%2To-201"褐耳鹰"战斗机-广协同盟的一台第五代空优战斗机%1%2A-149"狮鹫"战斗机-Altis政府军的一台先进第四代战斗机%1%2"哨兵"无人战机-北约的一台舰载无人战机%1%2甲板人员背心-数种不同颜色的背心供航空母舰的甲板人员使用%1%2战斗机任务展示-前往Altis体验空对空与空对地的飞行任务%1%2官方原声带-一首配合战机主题的曲子%1%2成就-新的一组&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinese>駕馭全新的3款戰機與1款無人戰機，你就可以稱霸整個戰場的領空。你可以在任務展示中體驗到新飛機的高速與敏捷性，讓你獲得絕對的空優，這些盡在ArmA3戰機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型戰鬥攻擊機-北約的一臺第五代艦載戰鬥攻擊機%1%2To-201"褐耳鷹"戰鬥機-廣協同盟的一臺第五代空優戰鬥機%1%2A-149"獅鷲"戰鬥機-Altis政府軍的一臺先進第四代戰鬥機%1%2"哨兵"無人戰機-北約的一臺艦載無人戰機%1%2甲板人員背心-數種不同顏色的背心供航空母艦的甲板人員使用%1%2戰鬥機任務展示-前往Altis體驗空對空與空對地的飛行任務%1%2官方原聲帶-一首配合戰機主題的曲子%1%2成就-新的一組&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
+        <Chinesesimp>驾驭全新的3款战机与1款无人战机，你就可以称霸整个战场的领空。你可以在任务展示中体验到新飞机的高速与敏捷性，让你获得绝对的空优，这些尽在武装突袭3战机资料片中。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Jets\Images\jets_fm_overview_co'/&gt;%1%2F/A-181"黑蜂"2型战斗攻击机-北约的一台第五代舰载战斗攻击机%1%2To-201"褐耳鹰"战斗机-广协同盟的一台第五代空优战斗机%1%2A-149"狮鹫"战斗机-Altis政府军的一台先进第四代战斗机%1%2"哨兵"无人战机-北约的一台舰载无人战机%1%2甲板人员背心-数种不同颜色的背心供航空母舰的甲板人员使用%1%2战斗机任务展示-前往Altis体验空对空与空对地的飞行任务%1%2官方原声带-一首配合战机主题的曲子%1%2成就-新的一组&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
   </Package>

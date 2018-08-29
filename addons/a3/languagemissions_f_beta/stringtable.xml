@@ -224,7 +224,7 @@
           <Key ID="str_a3_showcase_supports_diary_summary_text">
             <Original>Wield the power of Arma 3's improved Supports. Neutralize the anti-air defences and coordinate a strike on the enemy airbase.</Original>
             <Chinese>體驗ArmA3改進的支援系統。殲滅敵方防空武力，並負責協調攻擊行動來打擊敵方空軍基地。</Chinese>
-            <Chinesesimp>体验Arma3改进的支援系统。歼灭敌方防空武力，并负责协调攻击行动来打击敌方空军基地。</Chinesesimp>
+            <Chinesesimp>体验武装突袭3改进的支援系统。歼灭敌方防空武力，并负责协调攻击行动来打击敌方空军基地。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_supports_diary_situation_text">
             <Original>We've drawn out most of the enemy forces from the %3airbase%2 and now have a unique opportunity to neutralize the remaining garrison. However, we're still thin on the ground - unable to effectively clear and secure the area against expected OPFOR counter-attacks.%1%1We have two ground teams in position and ready to storm the base: teams %4Bravo%2 (8-man infantry squad) and %5Echo%2 (armed Hunter + 2-man missile team). You also have a Blackfoot (callsign Whisky-6) and a mortar team with 32 HE rounds at your disposal, both stationed at %6Camp Maxwell%2. It's all we can spare; use them wisely.%1%1Be advised, the base is protected by man-portable AA defences; they'll tear our lightly-armoured gunship to pieces. This is an ideal target for your mortar team. Carefully coordinate your attack to result in minimal friendly casualties. We're still perilously out-manned on Stratis.</Original>
@@ -239,7 +239,7 @@
           <Key ID="STR_A3_Showcase_Supports_Showcase_Summary_text">
             <Original>Wield the power of Arma 3's improved Supports. Neutralize the anti-air defences and coordinate a strike on the enemy airbase.</Original>
             <Chinese>體驗ArmA3改進的支援系統。殲滅敵方防空武力，並負責協調攻擊行動來打擊敵方空軍基地。</Chinese>
-            <Chinesesimp>体验Arma3改进的支援系统。歼灭敌方防空武力，并负责协调攻击行动来打击敌方空军基地。</Chinesesimp>
+            <Chinesesimp>体验武装突袭3改进的支援系统。歼灭敌方防空武力，并负责协调攻击行动来打击敌方空军基地。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_supports_diary_mission_text">
             <Original>From an %2overwatch point%1 above the airbase, coordinate a swift combined-arms assault, neutralize hostile forces, and fall back to %3Camp Maxwell%1.</Original>
@@ -2153,7 +2153,7 @@
           <Key ID="STR_A3_Showcase_Night2_Showcase_Summary_text">
             <Original>Sample Arma 3's enhanced night-time operations. Infiltrate enemy territory, create a distraction, and get out of there.</Original>
             <Chinese>體驗ArmA3增強的夜間作戰。滲透到敵方領土，分散他們的注意力，然後逃離那裡。</Chinese>
-            <Chinesesimp>体验Arma3增强的夜间作战。渗透到敌方领土，分散他们的注意力，然后逃离那里。</Chinesesimp>
+            <Chinesesimp>体验武装突袭3增强的夜间作战。渗透到敌方领土，分散他们的注意力，然后逃离那里。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_night2_mission_name">
             <Original>Night</Original>
@@ -2340,7 +2340,7 @@
           <Key ID="STR_A3_Showcase_Commanding_I_Showcase_Summary_text">
             <Original>Get to grips with Arma 3's squad commanding. Regroup with your team and defend a village against an enemy assault.</Original>
             <Chinese>體驗ArmA3的小隊指揮。與你的小隊重新集結，並在敵人的攻擊下防守村莊。</Chinese>
-            <Chinesesimp>体验Arma3的小队指挥。与你的小队重新集结，并在敌人的攻击下防守村庄。</Chinesesimp>
+            <Chinesesimp>体验武装突袭3的小队指挥。与你的小队重新集结，并在敌人的攻击下防守村庄。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_commanding_i_radiositrep">
             <Original>HQ - SITREP</Original>
@@ -2689,7 +2689,7 @@
           <Key ID="STR_A3_Showcase_Combined_Arms_Showcase_Summary_text">
             <Original>Get a taste of Arma 3's combined arms gameplay. Seize an enemy encampment with the help of motorized infantry and close air support.</Original>
             <Chinese>體驗ArmA3的聯合作戰。協同友軍的機械化步兵與密接空中支援，進行肅清敵人營地的任務。</Chinese>
-            <Chinesesimp>体验Arma3的联合作战。协同友军的机械化步兵与近距离空中支援，进行肃清敌人营地的任务。</Chinesesimp>
+            <Chinesesimp>体验武装突袭3的联合作战。协同友军的机械化步兵与近距离空中支援，进行肃清敌人营地的任务。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_combined_arms_mission_name">
             <Original>Combined Arms</Original>

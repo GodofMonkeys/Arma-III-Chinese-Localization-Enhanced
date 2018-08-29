@@ -37,7 +37,7 @@
       <Key ID="str_a3_cfghints_learn_mpbootcamp1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp4_ca.paa' /&gt;%1Multiplayer Bootcamp is a great way for %3veteran players to help newbies adapt%4 to Arma 3! Offering a structured set of challenges for both trainees and instructors, MP Bootcamp uses the %3Zeus%4 framework to give players the tools they need to create a %3tutorial gameplay on-the-fly%4.</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp4_ca.paa'/&gt;%1多人新兵訓練是個非常好的場所，能讓%3老兵帶新兵%4，了解並進入ArmA3的地方!課程裡提供了設定好的練習場地，提供教官跟學員一個學習的場地，同時教官還擁有宙斯的權限，讓訓練不僅限原本的框架，可以%3隨時做出更改%4。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp4_ca.paa'/&gt;%1多人新兵训练是个非常好的场所，是个能让%3老兵带新兵%4了解并进入Arma3的地方!课程里提供了设定好的练习场地，提供教官跟学员一个学习的场地，同时教官还拥有宙斯的权限，让训练不仅限原本的框架，可以%3随时做出更改%4。</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp4_ca.paa'/&gt;%1多人新兵训练是个非常好的场所，是个能让%3老兵带新兵%4了解并进入武装突袭3的地方!课程里提供了设定好的练习场地，提供教官跟学员一个学习的场地，同时教官还拥有宙斯的权限，让训练不仅限原本的框架，可以%3随时做出更改%4。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_OpenInventory1_sub">
         <Original>Open Inventory</Original>
@@ -57,7 +57,7 @@
       <Key ID="str_a3_cfghints_learn_fmanual1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa' /&gt;%1Accessible from the Main Menu and %3Pause Menu%4 (when playing a scenario), the Field Manual contains useful tips on %3how to control and interact%4 with various aspects of Arma 3.</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa'/&gt;%1你可以在主選單和%3暫停選單%4(任務中時)開啟野戰手冊，野戰手冊包含了許多有用的提示，包括%3控制，戰術%4等等ArmA3的相關知識。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa'/&gt;%1你可以在主菜单和%3暂停菜单%4(任务中时)开启野战手册，野战手册包含了许多有用的提示，包括%3控制，战术%4等等Arma3的相关知识。</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp3_ca.paa'/&gt;%1你可以在主菜单和%3暂停菜单%4(任务中时)开启野战手册，野战手册包含了许多有用的提示，包括%3控制，战术%4等等武装突袭3的相关知识。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Scopes1_sub">
         <Original>Scopes</Original>
@@ -97,7 +97,7 @@
       <Key ID="str_a3_cfghints_learn_communityguides1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa' /&gt;%1The 'Community Guides' menu %3links out to a series of videos%4 created in collaboration with Dslyecxi, leader of the Arma community group Shack Tactical.%1These guides introduce both new and old players alike to the %3wealth of possibilities%4 that Arma 3 brings to the table, as well as familiarize them with the %3basic tactical concepts needed to survive%4.</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa'/&gt;%1'社群指導'選單會將你%3連接到我們的影片網頁中%4，這些影片由與我們合作的Dslyecxi所製作，他是ArmA社群戰隊ShackTactical的領導人。%1這些指導可幫助新舊玩家學習%3更多的戰術知識%4，以及%3ArmA3豐富的可能性%4等等。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa'/&gt;%1'社区指导'菜单会将你%3链接到我们的影片网页中%4，这些影片由与我们合作的Dslyecxi所制作，他是Arma社区战队ShackTactical的领导人。%1这些指导可帮助新旧玩家学习%3更多的战术知识%4，以及%3Arma3丰富的可能性%4等等。</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp2_ca.paa'/&gt;%1'社区指导'菜单会将你%3链接到我们的影片网页中%4，这些影片由与我们合作的Dslyecxi所制作，他是武装突袭社区战队ShackTactical的领导人。%1这些指导可帮助新旧玩家学习%3更多的战术知识%4，以及%3武装突袭3丰富的可能性%4等等。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_learn_communityguides0">
         <Original>Community Guides</Original>
@@ -107,7 +107,7 @@
       <Key ID="str_a3_cfghints_learn_bootcampupdate1">
         <Original>Bootcamp Update introduces a number of new components that help new and veteran players discover more about Arma 3.%1The goal is to provide a wide variety of ways to learn about the game. Bootcamp Update includes:%1%2Bootcamp - a singleplayer tutorial campaign.%1%2VR Training - a set of focused tutorial missions.%1%2MP Bootcamp - a Zeus-based multiplayer mode.%1%2Virtual Arsenal - a weapon and character browser.%1%2Community Guides - links to our official Community Guide series.%1%2Find out more information about each component in their respective Field Manual hints.</Original>
         <Chinese>新兵訓練更新導入了許多新的教學課程，幫助新舊玩家更深入認識ArmA3的迷人之處。%1我們提供了許多不同的訓練課程。主要的課程有以下幾樣:%1%新兵訓練-一個單人訓練戰役。%1%2虛擬實境訓練-一個重視單個題目的訓練課程。%1%2多人新兵訓練-一個基於宙斯模式下去改的任務。%1%2虛擬軍火庫-一個武器與角色的瀏覽器。%1%2社群指導-連接到我們官方的影片網頁。%1%2你可以在野戰手冊中找到更多有用的教學提示。</Chinese>
-        <Chinesesimp>新兵训练更新导入了许多新的教学课程，帮助新旧玩家更深入认识Arma3的迷人之处。%1我们提供了许多不同的训练课程。主要的课程有以下几样:%1%新兵训练-一个单人训练战役。%1%2虚拟实境训练-一个重视单个题目的训练课程。%1%2多人新兵训练-一个基于宙斯模式的任务。%1%2虚拟军火库-一个武器与角色的浏览器。%1%2社区指导-链接到我们官方的影片网页。%1%2你可以在野战手册中找到更多有用的教学提示。</Chinesesimp>
+        <Chinesesimp>新兵训练更新导入了许多新的教学课程，帮助新旧玩家更深入认识武装突袭3的迷人之处。%1我们提供了许多不同的训练课程。主要的课程有以下几样:%1%新兵训练-一个单人训练战役。%1%2虚拟实境训练-一个重视单个题目的训练课程。%1%2多人新兵训练-一个基于宙斯模式的任务。%1%2虚拟军火库-一个武器与角色的浏览器。%1%2社区指导-链接到我们官方的影片网页。%1%2你可以在野战手册中找到更多有用的教学提示。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_learn_bootcampupdate0">
         <Original>Bootcamp Update</Original>
@@ -117,7 +117,7 @@
       <Key ID="str_a3_cfghints_learn_bootcamp1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp1_ca.paa' /&gt;%1The singleplayer 'Bootcamp' mode is the best place to get started with Arma 3! Introducing the basic principles of infantry combat - %3actions%4, %3navigation%4, and %3weapon handling%4 - a short prologue campaign challenges new players to complete real objectives.</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp1_ca.paa'/&gt;%1單人戰役的'新兵訓練'，將是你在ArmA3中的最佳起步點!此戰役將會深入淺出的教導玩家關於步兵的基本常識，包括%3行動%4，%3導航%4與%3武器的掌握%4，這個序章將會給你數個任務目標去完成。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp1_ca.paa'/&gt;%1单人战役的'新兵训练'，将是你在Arma3中的最佳起步点!此战役将会深入浅出的教导玩家关于步兵的基本常识，包括%3行动%4，%3导航%4与%3武器的掌握%4，这个序章将会给你数个任务目标去完成。</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Bootcamp\Data\FM_LEARN_Bootcamp1_ca.paa'/&gt;%1单人战役的'新兵训练'，将是你在武装突袭3中的最佳起步点!此战役将会深入浅出的教导玩家关于步兵的基本常识，包括%3行动%4，%3导航%4与%3武器的掌握%4，这个序章将会给你数个任务目标去完成。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Compass1_sub">
         <Original>Compass</Original>
@@ -951,7 +951,7 @@
         <Key ID="str_a3_rscdisplayarsenal_tab_radio">
           <Original>Communication</Original>
           <Chinese>通訊</Chinese>
-          <Chinesesimp>通讯</Chinesesimp>
+          <Chinesesimp>通信</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplayarsenal_tab_primaryweapon">
           <Original>Rifle</Original>
@@ -1152,7 +1152,7 @@
           <Key ID="str_a3_rscdisplaymain_buttonlearn_tooltip">
             <Original>Get comfortable with the controls, tactics, and concepts that are at the heart of Arma 3.</Original>
             <Chinese>學習按鍵的使用，戰術以及ArmA3的核心概念。</Chinese>
-            <Chinesesimp>学习按键的使用，战术以及Arma3的核心概念。</Chinesesimp>
+            <Chinesesimp>学习按键的使用，战术以及武装突袭3的核心概念。</Chinesesimp>
           </Key>
           <Key ID="str_a3_rscdisplaymain_buttonlearn">
             <Original>Learn</Original>
@@ -1196,7 +1196,7 @@
           <Key ID="str_a3_rscdisplaybootcampmsgbox_text">
             <Original>New to Arma 3? The best place to begin is Bootcamp. Start now?</Original>
             <Chinese>你是ArmA3的新玩家嗎?這裡是你最好起步的地方，快來體驗一連串的新兵訓練課程。準備好要開始了嗎?</Chinese>
-            <Chinesesimp>你是Arma3的新玩家吗?这里是你最好起步的地方，快来体验一连串的新兵训练课程。准备好要开始了吗?</Chinesesimp>
+            <Chinesesimp>你是武装突袭3的新玩家吗?这里是你最好起步的地方，快来体验一连串的新兵训练课程。准备好要开始了吗?</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -1204,7 +1204,7 @@
         <Key ID="str_a3_cfgunitinsignia_manw">
           <Original>Make Arma Not War</Original>
           <Chinese>搞ArmA不搞戰</Chinese>
-          <Chinesesimp>做Arma不要作战</Chinesesimp>
+          <Chinesesimp>做武装突袭不要作战</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgunitinsignia_gryffinregiment">
           <Original>Griffin Regiment</Original>
@@ -1258,7 +1258,7 @@
         <Key ID="str_a3_commguide_introduction_overview">
           <Original>Get introduced to Arma 3 and explore the concepts of authenticity, diversity and opportunity.</Original>
           <Chinese>了解ArmA3背後的核心概念，並探索它的多樣性與真實性。</Chinese>
-          <Chinesesimp>了解Arma3背后的核心概念，并探索它的多样性与真实性。</Chinesesimp>
+          <Chinesesimp>了解武装突袭3背后的核心概念，并探索它的多样性与真实性。</Chinesesimp>
         </Key>
         <Key ID="str_a3_commguide_introduction_date">
           <Original>7th March 2013</Original>
@@ -1268,7 +1268,7 @@
         <Key ID="str_a3_commguide_helicopters_overview">
           <Original>Get comfortable with the basic principles of helicopter flight in Arma 3.</Original>
           <Chinese>學習ArmA3直升機的基本飛行知識。</Chinese>
-          <Chinesesimp>学习Arma3直升机的基本飞行知识。</Chinesesimp>
+          <Chinesesimp>学习武装突袭3直升机的基本飞行知识。</Chinesesimp>
         </Key>
         <Key ID="str_a3_commguide_helicopters_date">
           <Original>2nd August 2013</Original>
@@ -1283,7 +1283,7 @@
         <Key ID="str_a3_commguide_zeus_title">
           <Original>Zeus DLC</Original>
           <Chinese>宙斯資料片</Chinese>
-          <Chinesesimp>宙斯DLC</Chinesesimp>
+          <Chinesesimp>宙斯资料片</Chinesesimp>
         </Key>
         <Key ID="str_a3_commguide_guerrillawarfare_overview">
           <Original>Delve into guerrilla tactics and examine the concept of asymmetrical warfare.</Original>
@@ -1293,7 +1293,7 @@
         <Key ID="str_a3_commguide_zeus_overview">
           <Original>Discover Arma 3 Zeus' potential and get introduced to the core capabilities of a Game Master.</Original>
           <Chinese>探索ArmA3宙斯模式的潛力，並體驗到擔當遊戲管理員的樂趣。</Chinese>
-          <Chinesesimp>探索Arma3宙斯模式的潜力，并体验到担任游戏管理员的乐趣。</Chinesesimp>
+          <Chinesesimp>探索武装突袭3宙斯模式的潜力，并体验到担任游戏管理员的乐趣。</Chinesesimp>
         </Key>
         <Key ID="str_a3_commguide_guerrillawarfare_date">
           <Original>27th March 2014</Original>
@@ -1308,7 +1308,7 @@
         <Key ID="str_a3_commguide_disclaimer">
           <Original>The footage in this video was recorded from Arma 3 version %1. Game content and features may have changed in later versions.</Original>
           <Chinese>本影片使用ArmA3%1版本錄製。遊戲內容與特色可能與最新版本有所不同。</Chinese>
-          <Chinesesimp>本影片使用Arma3%1版本录制。游戏内容与特色可能与最新版本有所不同。</Chinesesimp>
+          <Chinesesimp>本影片使用武装突袭3%1版本录制。游戏内容与特色可能与最新版本有所不同。</Chinesesimp>
         </Key>
         <Key ID="str_a3_commguide_defense_date">
           <Original>4th November 2015</Original>
@@ -2420,7 +2420,7 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_pard_footer2">
         <Original>We hope you enjoy these updates, and find them useful while exploring the possibilities of Arma 3!</Original>
         <Chinese>我們希望你可以享受這次的更新，並從中找出ArmA3更多的可能性!</Chinese>
-        <Chinesesimp>我们希望你可以享受这次的更新，并从中找出Arma3更多的可能性!</Chinesesimp>
+        <Chinesesimp>我们希望你可以享受这次的更新，并从中找出武装突袭3更多的可能性!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_pard_footer">
         <Original>More at www.arma3.com/whatsnewbootcamp</Original>
@@ -2530,12 +2530,12 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_parb">
         <Original>Bootcamp Update introduces a number of new components that help new and veteran players discover more about Arma 3. The goal is to provide a variety of ways to learn about the game; Bootcamp Update includes:</Original>
         <Chinese>此次新兵訓練的更新，將為新舊玩家介紹更多ArmA3的細部內容。我們提供了許多方式來讓你更輕鬆的學會遊玩的方法;新兵訓練更新的特色主要包括以下幾點:</Chinese>
-        <Chinesesimp>此次新兵训练的更新，将为新旧玩家介绍更多Arma3的细部内容。我们提供了许多方式来让你更轻松的学会游玩的方法;新兵训练更新的特色主要包括以下几点:</Chinesesimp>
+        <Chinesesimp>此次新兵训练的更新，将为新旧玩家介绍更多武装突袭3的细节内容。我们提供了许多方式来让你更轻松的学会游玩的方法;新兵训练更新的特色主要包括以下几点:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_para">
         <Original>Welcome to &lt;t color='%1'&gt;Arma 3 Bootcamp&lt;/t&gt;! This update is a tutorial-oriented package wrapped around new game modes, new sandbox content, and refined gameplay mechanics. Read on for a description of the new playable content and to see other additions to the Arma 3 platform.</Original>
         <Chinese>歡迎來到&lt;tcolor='%1'&gt;ArmA3新兵訓練&lt;/t&gt;!此次更新包含了教學任務，新的遊戲模式與更多的沙盒內容。以下將交代一些主要的更新特色，其餘細項請上ArmA3官網查閱。</Chinese>
-        <Chinesesimp>欢迎来到&lt;tcolor='%1'&gt;Arma3新兵训练&lt;/t&gt;!此次更新包含了教学任务，新的游戏模式与更多的沙盒内容。以下将交代一些主要的更新特色，其余细项请上Arma3官网查阅。</Chinesesimp>
+        <Chinesesimp>欢迎来到&lt;tcolor='%1'&gt;武装突袭3新兵训练&lt;/t&gt;!此次更新包含了教学任务，新的游戏模式与更多的沙盒内容。以下将交代一些主要的更新特色，其余细项请上武装突袭3官网查阅。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Functions_F_Bootcamp">

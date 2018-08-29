@@ -17,7 +17,7 @@
           <Key ID="str_a3_time_trials_sp_tt05_overview">
             <Original>A more traditional kart racing circuit built on the Altis airport premises. Find the ideal racing line and hit the apex of every corner to set record times.</Original>
             <Chinese>一座設置在Altis機場旁的卡丁車賽道。尋找最佳路線，突破自己，創造佳績。</Chinese>
-            <Chinesesimp>一座设置在Altis机场旁的卡丁车赛道。寻找最佳路线，突破自己，创造佳绩。</Chinesesimp>
+            <Chinesesimp>一座设置在阿尔蒂斯机场旁的卡丁车赛道。寻找最佳路线，突破自己，创造佳绩。</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt05_name_short">
             <Original>TT05</Original>
@@ -32,7 +32,7 @@
           <Key ID="str_a3_time_trials_sp_tt04_overview">
             <Original>This looped trial on the open roads near Negades has you racing both uphill and downhill. Don't be distracted by the stunning views!</Original>
             <Chinese>這座靠近Negades的環形賽道，有著上坡與下坡。請注意，別被驚人的風景給分心了!</Chinese>
-            <Chinesesimp>这座靠近Negades的环形赛道，有着上坡与下坡。请注意，别被惊人的风景给分心了!</Chinesesimp>
+            <Chinesesimp>这座靠近内加泽斯的环形赛道，有着上坡与下坡。请注意，别被惊人的风景给分心了!</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt04_name_short">
             <Original>TT04</Original>
@@ -42,7 +42,7 @@
           <Key ID="str_a3_time_trials_sp_tt04_name">
             <Original>TT4: Negades Speedway</Original>
             <Chinese>TT4:Negades賽道</Chinese>
-            <Chinesesimp>TT4:Negades赛道</Chinesesimp>
+            <Chinesesimp>TT4:内加泽斯赛道</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt03_overview">
             <Original>An improvised circuit set up in an abandoned factory complex. Watch out for the unprotected and unmarked obstacles!</Original>
@@ -62,7 +62,7 @@
           <Key ID="str_a3_time_trials_sp_tt02_overview">
             <Original>Weave through the city of Kavala in an exciting and lengthy course. Frequent turns and narrow streets make this is a test of your spatial awareness.</Original>
             <Chinese>穿梭在Kavala城市中。這個賽道需要你繃緊神經，小心每個轉彎，挑戰你的駕駛技術。</Chinese>
-            <Chinesesimp>穿梭在Kavala城市中。这个赛道需要你绷紧神经，小心每个转弯，挑战你的驾驶技术。</Chinesesimp>
+            <Chinesesimp>穿梭在卡瓦拉城市中。这个赛道需要你绷紧神经，小心每个转弯，挑战你的驾驶技术。</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt02_name_short">
             <Original>TT02</Original>
@@ -72,12 +72,12 @@
           <Key ID="str_a3_time_trials_sp_tt02_name">
             <Original>TT2: Kavala Chase</Original>
             <Chinese>TT2:Kavala賽道</Chinese>
-            <Chinesesimp>TT2:Kavala赛道</Chinesesimp>
+            <Chinesesimp>TT2:卡瓦拉赛道</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt01_overview">
             <Original>This tight closed circuit sits right next to the Altis main airport terminal. Racing the quick loop often is ideal for getting a grip on the kart’s handling.</Original>
             <Chinese>一個坐落在Altis機場旁的卡丁車賽車場。在此場地中你可以快速掌握到卡丁車的駕駛精隨。</Chinese>
-            <Chinesesimp>一个坐落在Altis机场旁的卡丁车赛车场。在此场地中你可以快速掌握到卡丁车的驾驶精随。</Chinesesimp>
+            <Chinesesimp>一个坐落在阿尔蒂斯机场旁的卡丁车赛车场。在此场地中你可以快速掌握到卡丁车的驾驶精随。</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt01_name_short">
             <Original>TT01</Original>
@@ -217,7 +217,7 @@
           <Key ID="str_a3_time_trials_diary_rec2_text">
             <Original>A competitor's raw time is the amount of time it takes to reach the final Check Point.&lt;br /&gt;&lt;br /&gt;Time may be added when you are penalized, for missing a Check Point for example.&lt;br /&gt;&lt;br /&gt;Competitors compete for medals: beat the bronze, silver and gold times. Sometimes a special time is available.</Original>
             <Chinese>最終成績來自於你能多快抵達終點。&lt;br/&gt;&lt;br/&gt;假如你做出犯規動作，像是錯失檢查點，最終時間有可能會增加。&lt;br/&gt;&lt;br/&gt;依據最終成績，將頒發給你不同的獎牌以玆鼓勵。</Chinese>
-            <Chinesesimp>最终成绩来自于你能多快抵达终点。&lt;br/&gt;&lt;br/&gt;假如你做出犯规动作，像是错失检查点，最终时间有可能会增加。&lt;br/&gt;&lt;br/&gt;依据最终成绩，将颁发给你不同的奖牌以玆鼓励。</Chinesesimp>
+            <Chinesesimp>最终成绩来自于你能多快抵达终点。&lt;br/&gt;&lt;br/&gt;假如你做出犯规动作，像是错失检查点，最终时间有可能会增加。&lt;br/&gt;&lt;br/&gt;依据最终成绩，将颁发给你不同的奖牌以兹鼓励。</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_diary_rec2_title">
             <Original>Timing</Original>
@@ -277,7 +277,7 @@
           <Key ID="STR_A3_TIME_TRIALS_KARTS_OVERVIEW">
             <Original>Steer go-karts through a set of circuit and point-to-point trials. Precise steering and optimal use of the kart's low center of mass are key here!</Original>
             <Chinese>駕駛卡丁車通過檢查點。掌握住卡丁車低底盤以及煞車的慣性，將是你致勝的關鍵!</Chinese>
-            <Chinesesimp>驾驶卡丁车通过检查点。掌握住卡丁车低底盘以及煞车的惯性，将是你致胜的关键!</Chinesesimp>
+            <Chinesesimp>驾驶卡丁车通过检查点。掌握住卡丁车低底盘以及刹车的惯性，将是你致胜的关键!</Chinesesimp>
           </Key>
           <Key ID="STR_A3_TIME_TRIALS_RESULTS">
             <Original>Results</Original>

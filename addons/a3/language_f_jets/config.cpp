@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
 //DeRap: language_f_jets\config.bin
-//Produced from mikero's Dos Tools Dll version 6.44
-//'now' is Mon Apr 30 18:29:57 2018 : 'file' last modified on Fri Apr 06 01:26:34 2018
+//Produced from mikero's Dos Tools Dll version 6.80
+//'now' is Wed Aug 29 20:48:34 2018 : 'file' last modified on Mon Jul 23 20:37:52 2018
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 

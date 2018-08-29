@@ -46,7 +46,7 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_i_heli_light_03_f_armory0">
         <Original>The WY-55 Hellcat is a multi-purpose military helicopter, most suited for a role of anti-surface battlefield utility, which also has a limited transport capacity. It replaces its predecessor the Super Lynx, improving the maneuverability, durability and protection. The armed version is fitted with twin miniguns and unguided rockets.</Original>
-        <Chinese>WY-55Hellcat是一台多用途軍用直升機，主要用於反地面作戰，亦可在戰場中做有限的運輸任務。他取代了他的前輩SuperLynx，有著更好的操控性，耐用度與保護。武裝的版本配有兩挺迷你機槍砲與非導引火箭。</Chinese>
+        <Chinese>WY-55Hellcat是一臺多用途軍用直升機，主要用於反地面作戰，亦可在戰場中做有限的運輸任務。他取代了他的前輩SuperLynx，有著更好的操控性，耐用度與保護。武裝的版本配有兩挺迷你機槍砲與非導引火箭。</Chinese>
         <Chinesesimp>WY-55“泼妇”是一种多用途军用直升机，主要用于反地面作战，亦可在战场中做有限的运输任务。作为“超山猫”的替代型号，它有更好的操控性，航程与装甲。武装型配有两挺“米尼岗”速射机枪与非制导火箭弹。</Chinesesimp>
       </Key>
     </Container>
@@ -74,12 +74,12 @@
       <Key ID="str_a3_cfgweapons_arifle_mx_sw_black_f0">
         <Original>MX SW 6.5 mm (Black)</Original>
         <Chinese>MXSW6.5mm(黑色)</Chinese>
-        <Chinesesimp>MXSW6.5毫米(黑色)</Chinesesimp>
+        <Chinesesimp>MXSW 6.5毫米(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_arifle_mxm_black_f0">
         <Original>MXM 6.5 mm (Black)</Original>
         <Chinese>MXM6.5mm(黑色)</Chinese>
-        <Chinesesimp>MXM6.5毫米(黑色)</Chinesesimp>
+        <Chinesesimp>MXM 6.5毫米(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_throw_irstrobe0">
         <Original>IR Strobe</Original>
@@ -89,17 +89,17 @@
       <Key ID="str_a3_cfgweapons_arifle_mx_gl_black_f0">
         <Original>MX 3GL 6.5 mm (Black)</Original>
         <Chinese>MX3GL6.5mm(黑色)</Chinese>
-        <Chinesesimp>MX3GL6.5毫米(黑色)</Chinesesimp>
+        <Chinesesimp>MX3GL 6.5毫米(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_arifle_mxc_black_f0">
         <Original>MXC 6.5 mm (Black)</Original>
         <Chinese>MXC6.5mm(黑色)</Chinese>
-        <Chinesesimp>MXC6.5毫米(黑色)</Chinesesimp>
+        <Chinesesimp>MXC 6.5毫米(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_arifle_mx_black_f0">
         <Original>MX 6.5 mm (Black)</Original>
         <Chinese>MX6.5mm(黑色)</Chinese>
-        <Chinesesimp>MX6.5毫米(黑色)</Chinesesimp>
+        <Chinesesimp>MX 6.5毫米(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_nvg_targetbase0">
         <Original>NVG target</Original>
@@ -190,7 +190,7 @@
     <Container name="Armor_F">
       <Key ID="str_a3_cfgvehicles_mbt_03_base_f_library0">
         <Original>The MBT-52 Kuma is the main battle tank used by Altian Armed Forces. A batch of a few dozen tanks and spare turrets were bought underprice from a south-European country facing an economic collapse. Like similar MBTs of the era, the Kuma is armed with a 120 mm cannon, a 7.62 mm coaxial machinegun and a remotely controlled 12.7 mm HMG. The level of protection for the crew is also remarkable, thanks to additional armor layers. </Original>
-        <Chinese>MBT-52Kuma是Altis政府軍的主戰坦克。他們從一個面臨經濟困境的南歐國家手中，以划算的價格購買了一批坦克與相關備用零件。就像其他同期的主戰坦克，Kuma配備著120mm加農砲，一挺7.62mm同軸機槍和一個裝有12。7mm重機槍的遙控砲塔。他對組員的保護也有相應的提升，這得歸功於他外面的那層裝甲。</Chinese>
+        <Chinese>MBT-52Kuma是Altis政府軍的主戰坦克。他們從一個面臨經濟困境的南歐國家手中，以劃算的價格購買了一批坦克與相關備用零件。就像其他同期的主戰坦克，Kuma配備著120mm加農砲，一挺7.62mm同軸機槍和一個裝有12。7mm重機槍的遙控砲塔。他對組員的保護也有相應的提升，這得歸功於他外面的那層裝甲。</Chinese>
         <Chinesesimp>MBT-52“库玛”是阿尔蒂斯武装力量的主战坦克。他们从一个面临经济崩溃的南欧国家手中以划算的价格购买了一批坦克与相关备用零件。就像其他同时代的主战坦克一样，“库玛”装备一门120毫米加农炮，一挺7.62毫米同轴机枪和一个装有12。7毫米重机枪的遥控炮塔。借由附加装甲，它对乘员的保护也有相应的提升。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_mbt_03_cannon_f0">
@@ -205,7 +205,7 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_apc_tracked_03_base_f_library0">
         <Original>The FV-720 Mora is an infantry fighting vehicle used by the AAF. They were bought by the AAF from British Armed Forces and reconditioned to serve two more decades. The Mora is armed with a 30 mm cannon and a coaxial machinegun, providing not only a carrying capacity, but also reliable fire support.</Original>
-        <Chinese>FV-720Mora是一台服役於AAF的步兵戰車。他們從英軍的手中買下他並著手翻新，打算再用20年。Mora配備著30mm機砲與同軸機槍，這讓他不只能運輸單位，同時也能提供優秀的火力支援。</Chinese>
+        <Chinese>FV-720Mora是一臺服役於AAF的步兵戰車。他們從英軍的手中買下他並著手翻新，打算再用20年。Mora配備著30mm機砲與同軸機槍，這讓他不只能運輸單位，同時也能提供優秀的火力支援。</Chinese>
         <Chinesesimp>FV-720“摩拉”是阿尔蒂斯武装力量所使用的的步兵战车。阿尔蒂斯武装力量从英军的手中买下它们并着手翻新延寿20年。“摩拉”配备着30毫米机炮与同轴机枪，这让它不但能运输单位，同时也能提供优秀的火力支援。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_mbt_03_cannon_slat_f0">
@@ -394,7 +394,7 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_land_grave_rocks_f0">
         <Original>Grave (Rocks)</Original>
-        <Chinese>墳墓(岩石)</Chinese>
+        <Chinese>墳墓(巖石)</Chinese>
         <Chinesesimp>坟墓(岩石)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_grave_mass_f0">
@@ -629,7 +629,7 @@
       <Key ID="str_a3_guide_stamina1">
         <Original>Arma 3 refines stamina into a more significant gameplay factor than in prior games. Dealing with fatigue is best done in a number of different ways. Here are some of them.%1%1%2%3Monitor your encumbrance.%4 You can see your current encumbrance level in the inventory screen, at the bottom of the window. Try to keep this such that there’s a comfortable gap between your current load and the maximum load.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\inventory_ca.paa' /&gt;%1%2%3Take reasonable combat loads.%4 A basic fighting load should include around ten magazines, a rifle, first-aid kit, and some fragmentation grenades. This leaves you room to pack a bit extra as well without becoming unnecessarily overburdened.%1%2%3Sprinting everywhere is not the answer.%4 It is easy to fatigue yourself unnecessarily by trying to sustain a high pace of movement for too great a period of time. Move around at a jog or a walk, and reserve your energy for times when you will badly need it.%1%2%3Rest briefly at tactically appropriate times.%4 Take a moment to rest between significant moves, during long sustained tactical movements, or before moving across a danger area. Resting also gives you an opportunity to increase your situational awareness.%1%2%3Crew-served teams often carry heavier gear.%4 Heavy anti-tank team gunners, anti-air gunners, medium or heavy machinegun teams, and others fall into this category. When acting as one of these roles, you will need to pace yourself. Recognize that carrying hundreds of pounds of gear will slow you down.</Original>
         <Chinese>ArmA3在遊戲中加入了耐力的設定，來突顯他與其他遊戲的不同。要處理疲勞。你可以遵照以下方法來解決。%1%1%2%3監控你的負荷量。%4你可以在裝備欄的底下看到你的負荷量。盡量保持你的當前負荷量與最大負荷量間的距離，不建議你把負荷量撐到滿。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\inventory_ca.paa'/&gt;%1%2%3選擇合理且必要的裝備。%4基本的裝備建議要有十個左右的彈匣，一把步槍，急救箱，以及一些破片手榴彈。這樣的配置，能讓你有一些額外的空間來裝載其他的東西。%1%2%3到處衝刺是不明智的。%4長期衝刺是很容易疲累的。移動時請使用慢跑或走路，把體力留到你真的非常需要它的時候。%1%2%3在適當的時間中休息。%4在要特別移動前，請先短暫休息一下，尤其當你要長期進行衝刺或是通過危險的區域時。休息同時也提供一個機會，好讓你能整理當前狀況。%1%2%3重武器小隊通常會攜帶更沉重的裝備。%4重型反坦克小隊的槍手，防空小隊的槍手，中型或重機槍小隊，這幾類人都屬於同一類型。當你扮演這幾個角色時，請自行調整休息的節奏。你必須體認到數百磅的重量會減低你的行進速度。</Chinese>
-        <Chinesesimp>Arma3在游戏中加入了耐力的设定，来突显它与其它游戏的不同。要处理疲劳。你可以遵照以下方法来解决。%1%1%2%3监控你的负荷量。%4你可以在装备栏的底下看到你的负荷量。尽量保持你的当前负荷量与最大负荷量间的距离，不建议你把负荷量负载到不堪重负。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\inventory_ca.paa'/&gt;%1%2%3选择合理且必要的装备。%4基本的装备建议要有十个左右的弹匣，一把步枪，急救箱，以及一些破片手榴弹。这样的配置，能让你有一些额外的空间来装载其他的东西。%1%2%3到处冲刺是不明智的。%4长期冲刺是很容易疲累的。移动时请使用慢跑或走路，把体力留到你真的非常需要它的时候。%1%2%3在适当的时间中休息。%4在要特别移动前，请先短暂休息一下，尤其当你要长期进行冲刺或是通过危险的区域时。休息同时也提供一个机会，好让你能整理当前状况。%1%2%3重武器小队通常会携带更沉重的装备。%4重型反坦克小队的枪手，防空小队的枪手，中型或重机枪小队，这几类人都属于同一类型。当你扮演这几个角色时，请自行调整休息的节奏。你必须体认到数百磅的重量会减低你的行进速度。</Chinesesimp>
+        <Chinesesimp>武装突袭3在游戏中加入了耐力的设定，来突显它与其它游戏的不同。要处理疲劳。你可以遵照以下方法来解决。%1%1%2%3监控你的负荷量。%4你可以在装备栏的底下看到你的负荷量。尽量保持你的当前负荷量与最大负荷量间的距离，不建议你把负荷量负载到不堪重负。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\inventory_ca.paa'/&gt;%1%2%3选择合理且必要的装备。%4基本的装备建议要有十个左右的弹匣，一把步枪，急救箱，以及一些破片手榴弹。这样的配置，能让你有一些额外的空间来装载其他的东西。%1%2%3到处冲刺是不明智的。%4长期冲刺是很容易疲累的。移动时请使用慢跑或走路，把体力留到你真的非常需要它的时候。%1%2%3在适当的时间中休息。%4在要特别移动前，请先短暂休息一下，尤其当你要长期进行冲刺或是通过危险的区域时。休息同时也提供一个机会，好让你能整理当前状况。%1%2%3重武器小队通常会携带更沉重的装备。%4重型反坦克小队的枪手，防空小队的枪手，中型或重机枪小队，这几类人都属于同一类型。当你扮演这几个角色时，请自行调整休息的节奏。你必须体认到数百磅的重量会减低你的行进速度。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_stamina0">
         <Original>A06 Fatigue and Stamina</Original>
@@ -659,7 +659,7 @@
       <Key ID="str_a3_guide_orientation1">
         <Original>The map and the compass are two basic tools for orientation and you should know how to use them.%1%1%2%3Reading the map.%4 The main thing to remember is that the grids must be read right, and then up. Due to the fact that the map grid is composed entirely of numbers, it’s important that you do not transpose them. Note that depending on the map zoom, you may see two, three, or even four numbers per horizontal or vertical grid. This reflects the precision of the coordinate. For example, a six-digit grid (3+3) defines a square that is 100 meters on a side. A four-digit grid (2+2) defines a square that is one kilometer on a side. An eight-digit grid is 10 meters on a side, while a ten digit grid is 1 meter on a side.%1&lt;img size='9' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\map_ca.paa' /&gt; %1&lt;t %10&gt;(Read right, and then up)&lt;/t&gt; %1%1%2%3Points of elevation.%4 The numbers scattered around the map indicate points of elevation. These occur either at the top of a protrusion (such as a hill) or the bottom of a depression (such as a valley). When communicating map locations over voice chat, numbered hills can be referred to as “Hill 123”.%1%2%3How to read the compass.%4 The compass is graduated three ways. The first and simplest is via the cardinal North, South, East, and West directions. After that it is graduated in degrees - 0 to 359. This is the inner, larger set of numbers, and should be used when calling out specific target bearings. The final outer set of measurements are known as “Mils”, and generally do not have a use aside from communicating with artillery units.%1&lt;img size='9' shadow='0' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\compass_ca.paa' /&gt;</Original>
         <Chinese>地圖與指北針是最基礎的兩樣裝備，你必須學會如何使用它們。%1%1%2%3閱讀地圖。%4第一個最重要的事情，就是座標必須先念橫向座標，再念直向座標。由於地圖完全被網格座標給區分開來，所以不念錯座標就是你應當做到的基本功夫，否則將會跟友軍有溝通上的困難。請注意，由於地圖會縮放，所以你有可能會在橫向與直向座標看到二到四位數字，端看你當前的的放大率是多少而決定。而數字的多寡也反映了座標的精度。舉個例子，一個每邊是100公尺所構成的正方形，它是由六位座標數字(3+3)來標記。四位座標數字(2+2)所標記的方格，則是每邊有1公里長的正方形。而八位座標數字(4+4)所標記方格的邊長是10公尺，十位座標數字(5+5)則是1公尺。%1&lt;imgsize='9'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\map_ca.paa'/&gt;%1&lt;t%10&gt;(先念橫向，再念直向)&lt;/t&gt;%1%1%2%3座標的海拔高度。%4散落在地圖各處的數字，其標記的是各點的海拔高度。這些數字大多會寫在明顯的高地(像是山丘)或者低窪處(像是山谷)。當你使用語音通訊的時候，你可以直接使用高地的標高來當作其代號，像是“123高地”。%1%2%3如何閱讀指北針。%4閱讀指北針有三種方式。第一種同時也是最簡單的方式，就是直接看出北方(箭頭)，東方，西方，南方的位置。再來第二種方式，則是讀出內圈比較大的那組數字，數字範圍從0-359度，這適合在指定特定目標時使用。而最後一種方法，則是閱讀外圈那組小數字，這數字常被大家稱作"密位"，在通常的狀況之下，除了與砲兵通聯外，是不需要用到這組數字的。%1&lt;imgsize='9'shadow='0'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\compass_ca.paa'/&gt;</Chinese>
-        <Chinesesimp>地图与指北针是最基础的两样装备，你必须学会如何使用它们。%1%1%2%3阅读地图。%4第一个最重要的事情，就是座标必须先念横向座标，再念纵向座标。由于地图完全被网格座标给区分开来，所以不念错座标就是你应当做到的基本功，否则将会跟友军有沟通上的困难。请注意，由于地图会缩放，所以你有可能会在横向与纵向座标看到二到四位数字，看你当前的的放大率是多少而决定。而数字的多寡也反映了座标的精度。举个例子，一个每边是100公尺所构成的正方形，它是由六位座标数字(3+3)来标记。四位座标数字(2+2)所标记的方格，则是每边有1公里长的正方形。而八位座标数字(4+4)所标记方格的边长是10公尺，十位座标数字(5+5)则是1公尺。%1&lt;imgsize='9'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\map_ca.paa'/&gt;%1&lt;t%10&gt;(先念横向，再念直向)&lt;/t&gt;%1%1%2%3座标的海拔高度。%4散落在地图各处的数字，其标记的是各点的海拔高度。这些数字大多会写在明显的高地(像是山丘)或者低洼处(像是山谷)。当你使用语音通讯的时候，你可以直接使用高地的标高来当作其代号，像是“123高地”。%1%2%3如何阅读指北针。%4阅读指北针有三种方式。第一种同时也是最简单的方式，就是直接看出北方(箭头)，东方，西方，南方的位置。再来第二种方式，则是读出内圈比较大的那组数字，数字范围从0-359度，这适合在指定特定目标时使用。而最后一种方法，则是阅读外圈那组小数字，这数字常被大家称作"密位"，在通常的状况之下，除了与炮兵通联外，是不需要用到这组数字的。%1&lt;imgsize='9'shadow='0'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\compass_ca.paa'/&gt;</Chinesesimp>
+        <Chinesesimp>地图与指北针是最基础的两样装备，你必须学会如何使用它们。%1%1%2%3阅读地图。%4第一个最重要的事情，就是座标必须先念横向座标，再念纵向座标。由于地图完全被网格座标给区分开来，所以不念错座标就是你应当做到的基本功，否则将会跟友军有沟通上的困难。请注意，由于地图会缩放，所以你有可能会在横向与纵向座标看到二到四位数字，看你当前的的放大率是多少而决定。而数字的多寡也反映了座标的精度。举个例子，一个每边是100公尺所构成的正方形，它是由六位座标数字(3+3)来标记。四位座标数字(2+2)所标记的方格，则是每边有1公里长的正方形。而八位座标数字(4+4)所标记方格的边长是10公尺，十位座标数字(5+5)则是1公尺。%1&lt;imgsize='9'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\map_ca.paa'/&gt;%1&lt;t%10&gt;(先念横向，再念直向)&lt;/t&gt;%1%1%2%3座标的海拔高度。%4散落在地图各处的数字，其标记的是各点的海拔高度。这些数字大多会写在明显的高地(像是山丘)或者低洼处(像是山谷)。当你使用语音通信的时候，你可以直接使用高地的标高来当作其代号，像是“123高地”。%1%2%3如何阅读指北针。%4阅读指北针有三种方式。第一种同时也是最简单的方式，就是直接看出北方(箭头)，东方，西方，南方的位置。再来第二种方式，则是读出内圈比较大的那组数字，数字范围从0-359度，这适合在指定特定目标时使用。而最后一种方法，则是阅读外圈那组小数字，这数字常被大家称作"密位"，在通常的状况之下，除了与炮兵通联外，是不需要用到这组数字的。%1&lt;imgsize='9'shadow='0'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\compass_ca.paa'/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_orientation0">
         <Original>B01 Map and Compass</Original>
@@ -699,7 +699,7 @@
       <Key ID="str_a3_guide_marksmanship1">
         <Original>Several things influence the accuracy of your fire in Arma 3. The more elements you have in your favor, the better your accuracy will be. The specific factors are as follows:%1%1%2%3Stance. %4You will be more accurate the more stable your stance is. You are most accurate when prone, less accurate when crouched, and least accurate when standing. In some unusual stances you may not be able to get a proper sight picture, reducing your capability for aimed fire.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\stances_ca.paa' /&gt;%1%2%3Stamina.%4 If you’re exhausted from sprinting all over the place or carrying heavy loads, your sights will drift and jostle around until you’ve recovered, making accuracy difficult.%1%2%3Breath control.%4 If you use breath control properly, you’ll be able to shoot more accurately than someone who doesn’t. Ensure that you have this feature bound to a readily accessible key, as it will come in handy more than a few times during every mission. Holding your breath for too long will cause your stability to degrade, so make sure you only use this when you’re about to take your shot.%1%2%3Wounds.%4 If you’ve taken damage, particularly to your arms, your ability to hold a rifle stable will be compromised. The only thing you can do to correct this is to find a medic and be healed. %1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\wound2_ca.paa' /&gt; </Original>
         <Chinese>在ArmA3中有幾件事情會影響到你的精準度。掌握這些影響因素，將能大大的提高你的命中率。具體的因素如下:%1%1%2%3姿態。%4在更穩定的姿態中，你將獲得更好的精準度。精準度由高到低依序是趴下，蹲下以及站立。在某些特定的姿態中，你將不能獲得良好的瞄準畫面，這將影響你的射擊能力。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\stances_ca.paa'/&gt;%1%2%3耐力。%4假如你才剛剛衝刺完或是你背的裝備很沉重，都會使你在瞄準時呼吸不順，以至於準心亂飄。當體力恢復之後，準心才會穩定下來。%1%2%3控制呼吸。%4假如你能良好的控制呼吸，你的精準度將會比別人還高。請確保該功能已經設定到鍵盤上你好按的位置。憋氣時間過長將會使你的準心穩定度暫時下降，所以請確保只有你要開火的時候才進行憋氣。%1%2%3受傷。%4假如你受傷了，尤其是手臂的傷害，將會嚴重影響到你拿槍的能力。而這時你唯一能做的事情就是去找醫護兵報到。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\wound2_ca.paa'/&gt;</Chinese>
-        <Chinesesimp>在ArmA3中有几件事情会影响到你的精准度。掌握这些影响因素，将能大大的提高你的命中率。具体的因素如下:%1%1%2%3姿态。%4在更稳定的姿态中，你将获得更好的精准度。精准度由高到低依序是趴下，蹲下以及站立。在某些特定的姿态中，你将不能获得良好的瞄准画面，这将影响你的射击能力。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\stances_ca.paa'/&gt;%1%2%3耐力。%4假如你才刚刚冲刺完或是你背的装备很沉重，都会使你在瞄准时呼吸不顺，以至于准心乱飘。当体力恢复之后，准心才会稳定下来。%1%2%3控制呼吸。%4假如你能良好的控制呼吸，你的精准度将会比别人还高。请确保该功能已经设定到键盘上你好按的位置。憋气时间过长将会使你的准心稳定度暂时下降，所以请确保只有你要开火的时候才进行憋气。%1%2%3受伤。%4假如你受伤了，尤其是手臂的伤害，将会严重影响到你拿枪的能力。而这时你唯一能做的事情就是去找医护兵报到。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\wound2_ca.paa'/&gt;</Chinesesimp>
+        <Chinesesimp>在武装突袭3中有几件事情会影响到你的精准度。掌握这些影响因素，将能大大的提高你的命中率。具体的因素如下:%1%1%2%3姿态。%4在更稳定的姿态中，你将获得更好的精准度。精准度由高到低依序是趴下，蹲下以及站立。在某些特定的姿态中，你将不能获得良好的瞄准画面，这将影响你的射击能力。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\stances_ca.paa'/&gt;%1%2%3耐力。%4假如你才刚刚冲刺完或是你背的装备很沉重，都会使你在瞄准时呼吸不顺，以至于准心乱飘。当体力恢复之后，准心才会稳定下来。%1%2%3控制呼吸。%4假如你能良好的控制呼吸，你的精准度将会比别人还高。请确保该功能已经设定到键盘上你好按的位置。憋气时间过长将会使你的准心稳定度暂时下降，所以请确保只有你要开火的时候才进行憋气。%1%2%3受伤。%4假如你受伤了，尤其是手臂的伤害，将会严重影响到你拿枪的能力。而这时你唯一能做的事情就是去找医护兵报到。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\wound2_ca.paa'/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_marksmanship0">
         <Original>A07 Basic Marksmanship</Original>
@@ -744,7 +744,7 @@
       <Key ID="str_a3_guide_goodshot1">
         <Original>Basic marksmanship is a skill that we encourage practicing. The process starts with learning how it all works, which we’ll go into now.%1%1%2%3Ballistics.%4 Bullets follow a ballistic arc determined by gravity, air resistance etc. Since the muzzle sits below the sights, the barrel and sights are at slightly different angles, this causes the bullet to cross the “point of aim” (where the sights are pointing) twice. After that, the bullet will start to drop below the point of aim. Knowing where to expect the bullet to be at any point along the trajectory helps you to compensate via “offset aiming” for targets that are at ranges other than what your weapon was zeroed for.%1&lt;img size='9'  shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\trajectory_ca.paa' /&gt;%1%2%3Sight Usage.%4 The term “sight picture” refers to the way the front sight, crosshair, or reflex dot is oriented relative to the target being engaged. The typical sight picture you want to achieve is that of the center-of-mass hold, which is where the sight rests on the upper chest of the enemy, or the center of their visible mass. This is intended to give you the best possible chance of hitting them.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\sights_ca.paa' /&gt;%1%2%3Bore Offset.%4 The origin of the bullet will be from the actual weapon muzzle, and not the center of the screen. Keep in mind that your weapon sights are a few inches above the rifle bore. If you do not take this into account, you will occasionally find instances where you’re shooting into the ground (or an obstacle). The crosshair will indicate if something is close to the bore by shifting position backwards to reflect where the bullet will strike (optional).</Original>
         <Chinese>在基礎槍法中我們認識到了一些影響你射擊的事物。現在讓我們開始了解一些射擊本身的技巧。%1%1%2%3彈道學。%4子彈是由重力與空氣阻力等等來決定彈道的走向。由於槍口在瞄準鏡的下方，所以槍管與瞄準鏡的瞄準角度會有一點不一樣，這帶來的後果就是子彈彈道的最高點會高於“瞄準點”兩倍。再達到最高點後，子彈會開始向下降直到低過瞄準點。如果射擊的目標不再你武器的歸零範圍之內，你可以通過“偏移瞄準”來修正彈道。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\trajectory_ca.paa'/&gt;%1%2%3如何瞄準。%4“瞄準景象”這術語指的是由準心，十字線或是反射點所構成瞄準目標的景象。基本的瞄準景象是將準心放在目標的胸口上方，或是其正中間的位置。這是為了讓你能更好擊中敵人。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\sights_ca.paa'/&gt;%1%2%3偏移瞄準。%4子彈射擊的點是來自槍口，而不是畫面的正中央。請記住，你的瞄準鏡跟槍管是具有幾英吋的差距。假如你不注意這點，你很有可能會打不中目標。如果子彈的落點比較下面，你可以通過提高瞄準點來擊中敵人，反之子彈過高，則是壓低瞄準點。</Chinese>
-        <Chinesesimp>在基础枪法中我们认识到了一些影响你射击的事物。现在让我们开始了解一些射击本身的技巧。%1%1%2%3弹道学。%4子弹是由重力与空气阻力等等来决定弹道的走向。由于枪口在瞄准镜的下方，所以枪管与瞄准镜的瞄准角度会有一点不一样，这带来的后果就是子弹弹道的最高点会高于“瞄准点”两倍。再达到最高点后，子弹会开始向下降直到低过瞄准点。如果射击的目标不再你武器的归零范围之内，你可以通过“偏移瞄准”来修正弹道。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\trajectory_ca.paa'/&gt;%1%2%3如何瞄准。%4“瞄准景象”这术语指的是由准星，十字线或是反射点所构成瞄准目标的景象。基本的瞄准景象是将准星放在目标的胸口上方，或是其正中间的位置。这是为了让你能更好击中敌人。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\sights_ca.paa'/&gt;%1%2%3偏移瞄准。%4子弹射击的点是来自枪口，而不是画面的正中央。请记住，你的瞄准镜跟枪管是具有几英吋的差距。假如你不注意这点，你很有可能会打不中目标。如果子弹的落点比较下面，你可以通过提高瞄准点来击中敌人，反之子弹过高，则是压低瞄准点。</Chinesesimp>
+        <Chinesesimp>在基础枪法中我们认识到了一些影响你射击的事物。现在让我们开始了解一些射击本身的技巧。%1%1%2%3弹道学。%4子弹是由重力与空气阻力等等来决定弹道的走向。由于枪口在瞄准镜的下方，所以枪管与瞄准镜的瞄准角度会有一点不一样，这带来的后果就是子弹弹道的最高点会高于“瞄准点”两倍。再达到最高点后，子弹会开始向下降直到低过瞄准点。如果射击的目标不再你武器的归零范围之内，你可以通过“偏移瞄准”来修正弹道。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\trajectory_ca.paa'/&gt;%1%2%3如何瞄准。%4“瞄准景象”这术语指的是由准星，十字线或是反射点所构成瞄准目标的景象。基本的瞄准景象是将准星放在目标的胸口上方，或是其正中间的位置。这是为了让你能更好击中敌人。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\sights_ca.paa'/&gt;%1%2%3偏移瞄准。%4子弹射击的点是来自枪口，而不是画面的正中央。请记住，你的瞄准镜跟枪管是具有几英寸的差距。假如你不注意这点，你很有可能会打不中目标。如果子弹的落点比较下面，你可以通过提高瞄准点来击中敌人，反之子弹过高，则是压低瞄准点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_goodshot0">
         <Original>A08 Elements of a Shot</Original>
@@ -774,7 +774,7 @@
       <Key ID="str_a3_guide_cover1">
         <Original>The first rule of “not being shot” is ensuring that the enemy either cannot see you or cannot hit you, or both. Here are some useful tips for covering and concealing yourself:%1%1%2%3Cover first.%4 You should strive to be always in cover or concealment when combat is occurring. If the enemy cannot visually locate you, they will not be able to accurately shoot at you. Even if they do know where you are, hard cover can prevent them from effectively engaging you.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\conceal_ca.paa' /&gt;%1%2%3Sight Displacement.%4 One critical thing to remember in Arma 3 is that the view you get from iron sight mode is offset down and to the right of your normal view. If you take this into consideration when utilizing cover, you can expose much less of your body.%1%2%3Urban Prone.%4 The lowest stance adjust can allow you to more easily see or fire under a vehicle you’re taking cover behind. While you won’t be able to use your sights easily in this stance, it works very well for putting fire on close enemies in an unexpected fashion.%1%2%3Buddy Cover.%4 If your team has been chewed apart by an ambush and you can’t possibly run for cover without getting mowed down, try hunkering down behind a dead body and using it as cover while you return fire on the enemy.%1&lt;img size='9'  shadow='0' image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\buddy_ca.paa' /&gt;</Original>
         <Chinese>要達成“不被擊中”不外乎有兩項條件，一是敵人看不到你，再來是射不到你，兩者兼具則更佳。以下是一些教你如何尋找掩護與隱蔽的有用提示:%1%1%2%3掩護為第一要務。%4你必須時常在交戰中掩護或隱蔽自己。假使敵人無法有效的看見你，自然他們也不會射中你。即使他們知道你在哪，堅固的掩體總是能有效的幫你抵擋住他們的攻擊。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\conceal_ca.paa'/&gt;%1%2%3位移瞄準。%4在ArmA3中，你只要槍管不被障礙擋到，就可以透過你的瞄準鏡來瞄準敵人。所以你可以透過左傾右傾來露出一點點的身體，使被命中的機率大為降低。%1%2%3側身臥射。%4低矮的姿態能使你輕易的從載具底下的隙縫觀察或開火。儘管在這個姿勢中你將變得不好瞄準，但這可以對極近的敵人達成意想不到的驚喜。%1%2%3屍體掩護。%4假使你們遭遇意想不到的攻擊並深陷泥沼，附近沒有任何有效的掩體時，你也可以利用地上的屍體當作臨時的掩護。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\buddy_ca.paa'/&gt;</Chinese>
-        <Chinesesimp>要达成“不被击中”不外乎有两项条件，一是敌人看不到你，再来是射不到你，两者兼具则更佳。以下是一些教你如何寻找掩护与隐蔽的有用提示:%1%1%2%3掩护为第一要务。%4你必须时常在交战中掩护或隐蔽自己。假使敌人无法有效的看见你，自然他们也不会射中你。即使他们知道你在哪，坚固的掩体总是能有效的帮你抵挡住他们的攻击。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\conceal_ca.paa'/&gt;%1%2%3位移瞄准。%4在Arma3中，你只要枪管不被障碍挡到，就可以透过你的瞄准镜来瞄准敌人。所以你可以透过左倾右倾来露出一点点的身体，使被命中的机率大为降低。%1%2%3侧身卧射。%4低矮的姿态能使你轻易的从载具底下的隙缝观察或开火。尽管在这个姿势中你将变得不好瞄准，但这可以对极近的敌人达成意想不到的惊喜。%1%2%3尸体掩护。%4假使你们遭遇意想不到的攻击并深陷泥沼，附近没有任何有效的掩体时，你也可以利用地上的尸体当作临时的掩护。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\buddy_ca.paa'/&gt;</Chinesesimp>
+        <Chinesesimp>要达成“不被击中”不外乎有两项条件，一是敌人看不到你，再来是射不到你，两者兼具则更佳。以下是一些教你如何寻找掩护与隐蔽的有用提示:%1%1%2%3掩护为第一要务。%4你必须时常在交战中掩护或隐蔽自己。假使敌人无法有效的看见你，自然他们也不会射中你。即使他们知道你在哪，坚固的掩体总是能有效的帮你抵挡住他们的攻击。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\conceal_ca.paa'/&gt;%1%2%3位移瞄准。%4在武装突袭3中，你只要枪管不被障碍挡到，就可以透过你的瞄准镜来瞄准敌人。所以你可以透过左倾右倾来露出一点点的身体，使被命中的机率大为降低。%1%2%3侧身卧射。%4低矮的姿态能使你轻易的从载具底下的隙缝观察或开火。尽管在这个姿势中你将变得不好瞄准，但这可以对极近的敌人达成意想不到的惊喜。%1%2%3尸体掩护。%4假使你们遭遇意想不到的攻击并深陷泥沼，附近没有任何有效的掩体时，你也可以利用地上的尸体当作临时的掩护。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Cfg\Hints\TGuide\buddy_ca.paa'/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_guide_cover0">
         <Original>A09 Cover and Concealment</Original>
@@ -962,7 +962,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_pard_list2">
         <Original>All local NATO command elements &lt;t color='%1'&gt;fell&lt;/t&gt; during the initial attack, &lt;t color='%1'&gt;severing communications&lt;/t&gt; with the outside world.</Original>
         <Chinese>而島上的NATO指揮階級皆在初次打擊中&lt;tcolor='%1'&gt;損失&lt;/t&gt;，與外界的&lt;tcolor='%1'&gt;通訊&lt;/t&gt;也被切斷。</Chinese>
-        <Chinesesimp>而岛上的北约指挥分队皆在初次打击中&lt;tcolor='%1'&gt;损失殆尽&lt;/t&gt;，与外界的&lt;tcolor='%1'&gt;通讯&lt;/t&gt;也被切断。</Chinesesimp>
+        <Chinesesimp>而岛上的北约指挥分队皆在初次打击中&lt;tcolor='%1'&gt;损失殆尽&lt;/t&gt;，与外界的&lt;tcolor='%1'&gt;通信&lt;/t&gt;也被切断。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_epb_pard_list1">
         <Original>The remnants of &lt;t color='%1'&gt;NATO&lt;/t&gt; forces on &lt;t color='%1'&gt;Stratis&lt;/t&gt; were engaged by the &lt;t color='%1'&gt;AAF&lt;/t&gt;.</Original>
@@ -992,7 +992,7 @@
       <Key ID="str_a3_rscdisplaywelcome_epb_para">
         <Original>Glad to see you return for our second campaign episode: &lt;t color='%1'&gt;'Adapt'&lt;/t&gt;. Read on for a description of the campaign, a story recap, and to see other additions to the Arma 3%2 platform.</Original>
         <Chinese>真高興再次見到你來體驗我們新的章節:&lt;tcolor='%1'&gt;'適應'&lt;/t&gt;。閱讀以下訊息來看看戰役的一切故事重點，以及其他我們為ArmA3%2新增的內容。</Chinese>
-        <Chinesesimp>真高兴再次见到你来体验我们新的章节:&lt;tcolor='%1'&gt;'适应'&lt;/t&gt;。阅读以下讯息来看看战役的一切故事重点，以及其他我们为ArmA3%2新增的内容。</Chinesesimp>
+        <Chinesesimp>真高兴再次见到你来体验我们新的章节:&lt;tcolor='%1'&gt;'适应'&lt;/t&gt;。阅读以下讯息来看看战役的一切故事重点，以及其他我们为武装突袭3%2新增的内容。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Sounds_F">

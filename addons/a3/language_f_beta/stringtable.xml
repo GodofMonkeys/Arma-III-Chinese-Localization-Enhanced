@@ -746,22 +746,22 @@
           <Key ID="STR_A3_cfgweapons_afrile_mk20_gl_camo">
             <Original>Mk20 EGLM 5.56 mm (Camo)</Original>
             <Chinese>Mk20EGLM5.56mm(迷彩)</Chinese>
-            <Chinesesimp>Mk20EGLM5.56毫米(迷彩)</Chinesesimp>
+            <Chinesesimp>Mk20EGLM 5.56毫米(迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_hgun_acpc2_f0">
             <Original>ACP-C2 .45 ACP</Original>
             <Chinese>ACP-C2。45ACP</Chinese>
-            <Chinesesimp>ACP-C2。45ACP</Chinesesimp>
+            <Chinesesimp>ACP-C2 。45ACP</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk200">
             <Original>Mk20 5.56 mm</Original>
             <Chinese>Mk205.56mm</Chinese>
-            <Chinesesimp>Mk205.56毫米</Chinesesimp>
+            <Chinesesimp>Mk20 5.56毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c0">
             <Original>Mk20C 5.56 mm</Original>
             <Chinese>Mk20C5.56mm</Chinese>
-            <Chinesesimp>Mk20C5.56毫米</Chinesesimp>
+            <Chinesesimp>Mk20C 5.56毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_smg_010">
             <Original>Vermin SMG .45 ACP</Original>
@@ -781,17 +781,17 @@
           <Key ID="str_a3_cfgweapons_arifle_mk20_camo">
             <Original>Mk20 5.56 mm (Camo)</Original>
             <Chinese>Mk205.56mm(迷彩)</Chinese>
-            <Chinesesimp>Mk205.56毫米(迷彩)</Chinesesimp>
+            <Chinesesimp>Mk20 5.56毫米(迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20c_camo">
             <Original>Mk20C 5.56 mm (Camo)</Original>
             <Chinese>Mk20C5.56mm(迷彩)</Chinese>
-            <Chinesesimp>Mk20C5.56毫米(迷彩)</Chinesesimp>
+            <Chinesesimp>Mk20C 5.56毫米(迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_mk20_gl0">
             <Original>Mk20 EGLM 5.56 mm</Original>
             <Chinese>Mk20EGLM5.56mm</Chinese>
-            <Chinesesimp>Mk20EGLM5.56毫米</Chinesesimp>
+            <Chinesesimp>Mk20EGLM 5.56毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_mprl_f1">
             <Original>Titan MPRL (Sand)</Original>
@@ -1896,7 +1896,7 @@
       <Key ID="STR_A3_cfgmods_a32_rc">
         <Original>Arma 3</Original>
         <Chinese>ArmA3</Chinese>
-        <Chinesesimp>ArmA3</Chinesesimp>
+        <Chinesesimp>武装突袭3</Chinesesimp>
       </Key>
       <Container name="Groups">
         <Key ID="str_a3_cfggroups_west_blu_f_infantry_bus_infteam_aa0">
@@ -1994,7 +1994,7 @@
       <Key ID="str_a3_cfgmods_a32">
         <Original>Arma 3 Beta</Original>
         <Chinese>ArmA3Beta</Chinese>
-        <Chinesesimp>ArmA3Beta</Chinesesimp>
+        <Chinesesimp>武装突袭3 Beta</Chinesesimp>
       </Key>
     </Container>
     <Container name="Vehicles">
@@ -2124,12 +2124,12 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_02_lib">
           <Original>The Zamak heavy truck is a 6x6 vehicle used for transport, repair, and utility roles. In addition, it can also carry a multiple rocket launcher. Fitted with a powerful V8 engine, these trucks are reliable even in harsh conditions.</Original>
-          <Chinese>「扎馬克」重型卡車是一種六輪驅動的運輸，修復和其他用途的重型卡車。此外，他還能裝載多管火箭發射器。裝載有強大的V8發動機，這種卡車即使在最惡劣的條件下也是很可靠的。</Chinese>
+          <Chinese>“扎馬克”重型卡車是一種六輪驅動的運輸，修復和其他用途的重型卡車。此外，他還能裝載多管火箭發射器。裝載有強大的V8發動機，這種卡車即使在最惡劣的條件下也是很可靠的。</Chinese>
           <Chinesesimp>“扎马克”重型卡车是一种六轮驱动的运输，修复和其他用途的重型卡车。此外，他还能装载多管火箭发射器。装载有强大的V8发动机，这种卡车即使在最恶劣的条件下也是很可靠的。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_apc_tracked_01_base_library0">
           <Original>While both IFV-6c Panther and IFV-6a Cheetah are based on the Israeli armored personnel carrier chassis, they serve different roles in combat. The Panther is an APC that boasts strong armor to achieve maximal protection for the transported crew. The standard Panther is armed with an RCWS HMG, 40 mm GMG and smoke grenades and it can take up to 8 soldiers in its cargo area. The Cheetah is a dedicated AA vehicle. The cargo space is taken up by ammunition storage and vehicle is armed with two 35 mm autocannons, four long range surface-to-air missiles and smoke grenades. The CRV (Combat Recovery Vehicle) variant of the IFV-6 also exists and is used by BLUFOR, designation CRV-6e Bobcat.</Original>
-          <Chinese>雖然IFV-6c「黑豹」和IFV-6a「獵豹」同樣都採用以色列裝甲運兵車的底盤，但它們在戰鬥中擔當的是不同的角色。「黑豹」是一種裝甲運兵車，具有厚重的裝甲，為乘員提供最大限度的防護。標準型的「黑豹」配有一個遙控重機槍炮塔，20毫米榴彈機槍和煙霧彈，其後座最多可運載8名士兵。「獵豹」則是專門的防空系統。其後座被用於存放彈藥，並配有兩座35毫米自動炮和煙霧彈，以及四枚遠程地空導彈。此外藍方還使用的IFV-6衍生型為CRV(戰鬥搶救車)，名為CRV-6e「公貓」。</Chinese>
+          <Chinese>雖然IFV-6c“黑豹”和IFV-6a“獵豹”同樣都採用以色列裝甲運兵車的底盤，但它們在戰鬥中擔當的是不同的角色。“黑豹”是一種裝甲運兵車，具有厚重的裝甲，為乘員提供最大限度的防護。標準型的“黑豹”配有一個遙控重機槍炮塔，20毫米榴彈機槍和煙霧彈，其後座最多可運載8名士兵。“獵豹”則是專門的防空系統。其後座被用於存放彈藥，並配有兩座35毫米自動炮和煙霧彈，以及四枚遠程地空導彈。此外藍方還使用的IFV-6衍生型為CRV(戰鬥搶救車)，名為CRV-6e“公貓”。</Chinese>
           <Chinesesimp>虽然IFV-6c“黑豹”和IFV-6a“猎豹”同样都采用以色列装甲运兵车的底盘，但它们在战斗中担当的是不同的角色。“黑豹”是一种装甲运兵车，具有厚重的装甲，为乘员提供最大限度的防护。标准型的“黑豹”配有一个遥控重机枪炮塔，20毫米榴弹机枪和烟雾弹，其后座最多可运载8名士兵。“猎豹”则是专门的防空系统。其后座被用于存放弹药，并配有两座35毫米自动炮和烟雾弹，以及四枚远程地空导弹。此外蓝方还使用的IFV-6衍生型为CRV(战斗抢救车)，名为CRV-6e“公猫”。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_lib0">

@@ -69,7 +69,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_overview">
             <Original>Experience Firing From Vehicles as NATO forces race to rescue AAF hostages.</Original>
             <Chinese>體驗從載具中射擊的功能，並擔當NATO的援救小隊，前往援救AAF人質。</Chinese>
-            <Chinesesimp>体验从载具中射击的功能，并担任北约的搜救小队，前往援救阿尔蒂斯军人质。</Chinesesimp>
+            <Chinesesimp>体验从载具中射击的功能，并担任北约的搜救小队，前往援救阿尔蒂斯武装力量人质。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_notification_bis_showcase_ffv_uav_taken_title">
             <Original>BE ADVISED</Original>
@@ -104,17 +104,17 @@
           <Key ID="str_a3_showcase_firingfromvehicles_debriefing_win03_description">
             <Original>You successfully extracted the crew, but Kilo 1 were forced to destroy the helicopter themselves. The actions of the AAF after the fact, however, remain questionable.</Original>
             <Chinese>你成功救出了機組員，但把摧毀直升機的工作留給了Kilo1。AAF在最後的行動令我們深感疑問，仍有許多問題需被調查。</Chinese>
-            <Chinesesimp>你成功救出了机组员，但把摧毁直升机的工作留给了“基洛1”。然而阿尔蒂斯军在最后的行动仍值得推敲。</Chinesesimp>
+            <Chinesesimp>你成功救出了机组员，但把摧毁直升机的工作留给了“基洛1”。然而阿尔蒂斯武装力量在最后的行动仍值得推敲。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_debriefing_win02_description">
             <Original>You successfully extracted the crew, but you failed to destroy the helicopter. The actions of the AAF after the fact, however, remain questionable.</Original>
             <Chinese>你成功救出了機組員，但沒能摧毀直升機。AAF在最後的行動令我們深感疑問，仍有許多問題需被調查。</Chinese>
-            <Chinesesimp>你成功救出了机组员，但没能摧毁直升机。然而阿尔蒂斯军在最后的行动仍值得推敲。</Chinesesimp>
+            <Chinesesimp>你成功救出了机组员，但没能摧毁直升机。然而阿尔蒂斯武装力量在最后的行动仍值得推敲。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_debriefing_win01_description">
             <Original>The AAF helicopter was destroyed and the crew were safely extracted. The actions of the AAF after the fact, however, remain questionable.</Original>
             <Chinese>AAF的直升機已成功摧毀，並也順利救出機組員。但AAF在最後的行動令我們深感疑問，仍有許多問題需被調查。</Chinese>
-            <Chinesesimp>阿尔蒂斯军的直升机已成功摧毁，并也顺利救出机组员。然而阿尔蒂斯军在最后的行动仍值得推敲。</Chinesesimp>
+            <Chinesesimp>阿尔蒂斯武装力量的直升机已成功摧毁，并也顺利救出机组员。然而阿尔蒂斯武装力量在最后的行动仍值得推敲。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_debriefing_fail02_subtitle">
             <Original>The Crew are Dead!</Original>
@@ -129,12 +129,12 @@
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text2">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.%8A recon team, callsign Foxtrot, are already on station %9above the crash site%10, awaiting your arrival. They will assist you with dispatching the helicopter and locating the crew.</Original>
             <Chinese>在傍晚1815時分，一架屬於AAF的WY-55Hellcat，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被FIA困在墜毀點。%3AAF已請求NATO進行協助。因為如此，%4Kilo1和2%5，還有%6Romeo1和2%7，將被派往執行AAF機組員的搜救任務。%8一個呼號叫Foxtrot的偵察小隊已經抵達%9墜毀點附近%10，正等待你們的抵達。他們將協助你們搜索直升機並定位機組員位置。</Chinese>
-            <Chinesesimp>在傍晚1815时分，一架属于阿尔蒂斯武装力量的WY-55“泼妇”直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被自由阵线困在坠毁点。%3阿尔蒂斯军已请求北约进行协助。因为如此，%4基洛1和2%5，还有%6罗密欧1和2%7，将被派往执行阿尔蒂斯军机组员的搜救任务。%8一个呼号叫“狐步舞”的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
+            <Chinesesimp>在傍晚1815时分，一架属于阿尔蒂斯武装力量的WY-55“泼妇”直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被自由阵线困在坠毁点。%3阿尔蒂斯武装力量已请求北约进行协助。因为如此，%4基洛1和2%5，还有%6罗密欧1和2%7，将被派往执行阿尔蒂斯武装力量机组员的搜救任务。%8一个呼号叫“狐步舞”的侦察小队已经抵达%9坠毁点附近%10，正等待你们的抵达。他们将协助你们搜索直升机并定位机组员位置。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_situation_text1">
             <Original>At 1815 hours this evening, a WY-55 Hellcat belonging to the AAF was %1shot down%2 on return from counter-insurgency operations in the northwest. Only the crew were present in the helicopter when it went down, but now they're trapped by the FIA who are closing in on their position.%3The AAF have requested NATO's assistance. As such, %4Kilo 1 and 2%5, and %6Romeo 1 and 2%7, are being deployed to conduct search and rescue on the AAF crew.</Original>
             <Chinese>在傍晚1815時分，一架屬於AAF的WY-55Hellcat，在任務結束回程的路上被%1擊落%2。當時機上只有機組員，他們現在被FIA困在墜毀點。%3AAF已請求NATO進行協助。因為如此，%4Kilo1和2%5，還有%6Romeo1和2%7，將被派往執行AAF機組員的搜救任務。</Chinese>
-            <Chinesesimp>在傍晚1815时分，一架属于阿尔蒂斯武装力量的WY-55“泼妇”直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被自由阵线困在坠毁点。%3阿尔蒂斯军已请求北约进行协助。因为如此，%4基洛1和2%5，还有%6罗密欧1和2%7，将被派往执行阿尔蒂斯军机组员的搜救任务。</Chinesesimp>
+            <Chinesesimp>在傍晚1815时分，一架属于阿尔蒂斯武装力量的WY-55“泼妇”直升机，在任务结束回程中被%1击落%2。当时机上只有机组员，他们现在被自由阵线困在坠毁点。%3阿尔蒂斯武装力量已请求北约进行协助。因为如此，%4基洛1和2%5，还有%6罗密欧1和2%7，将被派往执行阿尔蒂斯武装力量机组员的搜救任务。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_signal_text2">
             <Original>%1Kilo 1%2 - Lead element.%3%4Kilo 2%5 - Your team.%6%7Romeo%8 - Transport MH-9 Hummingbirds.%9Broadway - Headquarters.%10%11Foxtrot%12 - Recon element.%13Archangel - Inbound Greyhawk UAV.</Original>
@@ -149,12 +149,12 @@
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_mission_text">
             <Original>%1Romeo 1%2 and %3Romeo 2%4 will transport you to %5the crash site%6, where upon you will conduct search and rescue for the downed AAF helicopter's crew. Upon their safe extraction, you are to destroy the wreckage of the helicopter to prevent it from falling into the hands of the FIA.</Original>
             <Chinese>%1Romeo1%2和%3Romeo2%4將帶你們前往%5墜機點%6，你們將在那裡進行搜救AAF直升機機組員的任務。在救出機組員後，你們必須摧毀直升機，避免其落入FIA之手。</Chinese>
-            <Chinesesimp>%1罗密欧1%2和%3罗密欧2%4将带你们前往%5坠机点%6，你们将在那里进行搜救阿尔蒂斯军直升机机组员的任务。在救出机组员后，你们必须摧毁直升机，避免其落入自由阵线之手。</Chinesesimp>
+            <Chinesesimp>%1罗密欧1%2和%3罗密欧2%4将带你们前往%5坠机点%6，你们将在那里进行搜救阿尔蒂斯武装力量直升机机组员的任务。在救出机组员后，你们必须摧毁直升机，避免其落入自由阵线之手。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_briefing_execution_text">
             <Original>1. Move to the &lt;marker name = 'BIS_crashSite'&gt;crash site&lt;/marker&gt;.&lt;br/&gt;2. Extract the AAF crew.&lt;br/&gt;3. Destroy the helicopter.</Original>
             <Chinese>1。前往&lt;markername='BIS_crashSite'&gt;墜機點&lt;/marker&gt;。&lt;br/&gt;2。救出AAF機組員。&lt;br/&gt;3。摧毀直升機。</Chinese>
-            <Chinesesimp>1。前往&lt;markername='BIS_crashSite'&gt;坠机点&lt;/marker&gt;。&lt;br/&gt;2。救出阿尔蒂斯军机组员。&lt;br/&gt;3。摧毁直升机。</Chinesesimp>
+            <Chinesesimp>1。前往&lt;markername='BIS_crashSite'&gt;坠机点&lt;/marker&gt;。&lt;br/&gt;2。救出阿尔蒂斯武装力量机组员。&lt;br/&gt;3。摧毁直升机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_roe_title">
             <Original>Follow the ROE</Original>
@@ -163,7 +163,7 @@
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_roe_desc">
             <Original>Follow the Rules of Engagement. Do not fire unless fired upon.</Original>
-            <Chinese>遵守交戰守則。在敵人開火前不准主動開火。</Chinese>
+            <Chinese>遵守交戰守則。在敵人開火前不準主動開火。</Chinese>
             <Chinesesimp>遵守交战守则。不准先开第一枪。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_locate_title">
@@ -174,7 +174,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_locate_desc">
             <Original>Search %1the indicated area%2 for the downed AAF helicopter.</Original>
             <Chinese>搜索%1指定的區域%2來找到墜毀的AAF直升機。</Chinese>
-            <Chinesesimp>搜索%1指定的区域%2来找到坠毁的阿尔蒂斯军直升机。</Chinesesimp>
+            <Chinesesimp>搜索%1指定的区域%2来找到坠毁的阿尔蒂斯武装力量直升机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_loc2_title">
             <Original>Search the Outpost</Original>
@@ -189,7 +189,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_loc2_desc">
             <Original>Search %1the outpost%2 for the AAF helicopter crew.</Original>
             <Chinese>搜索%1前哨%2，尋找AAF直升機機組員。</Chinese>
-            <Chinesesimp>搜索%1前哨%2，寻找阿尔蒂斯军直升机机组员。</Chinesesimp>
+            <Chinesesimp>搜索%1前哨%2，寻找阿尔蒂斯武装力量直升机机组员。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_loc1_title">
             <Original>Search the Gas Station</Original>
@@ -204,7 +204,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_loc1_desc">
             <Original>Search %1the gas station%2 for the AAF helicopter crew.</Original>
             <Chinese>搜索%1加油站%2，尋找AAF直升機機組員。</Chinese>
-            <Chinesesimp>搜索%1加油站%2，寻找阿尔蒂斯军直升机机组员。</Chinesesimp>
+            <Chinesesimp>搜索%1加油站%2，寻找阿尔蒂斯武装力量直升机机组员。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_firingfromvehicles_bis_extract_title">
             <Original>Extract</Original>
@@ -229,7 +229,7 @@
           <Key ID="str_a3_showcase_firingfromvehicles_bis_destroy_desc">
             <Original>Destroy the downed AAF helicopter to prevent it from falling into FIA hands.</Original>
             <Chinese>摧毀墜毀的AAF直升機，避免其落入FIA之手。</Chinese>
-            <Chinesesimp>摧毁坠毁的阿尔蒂斯军直升机，避免其落入自由阵线之手。</Chinesesimp>
+            <Chinesesimp>摧毁坠毁的阿尔蒂斯武装力量直升机，避免其落入自由阵线之手。</Chinesesimp>
           </Key>
           <Container name="x15_UAV_Punish" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x15_UAV_Punish" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x15_uav_punish" note="" participants="MARK B Team A;" situation="players failed to destroy the wreck in time">
             <Key ID="str_a3_showcase_firingfromvehicles_x15_uav_punish_sfa_0">
@@ -268,12 +268,12 @@
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_bhq_0">
               <Original>Understood, Kilo 1. It's not us. Checking with AAF command. Wait one.</Original>
               <Chinese>了解，Kilo1。那不是我們幹的。正在與AAF指揮官確認中。請稍等。</Chinese>
-              <Chinesesimp>了解，基洛1。那不是我们干的。正在与阿尔蒂斯军指挥部确认中。请稍等。</Chinesesimp>
+              <Chinesesimp>了解，基洛1。那不是我们干的。正在与阿尔蒂斯武装力量指挥部确认中。请稍等。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_bhq_1">
               <Original>Confirmed, Kilo 1. It's the AAF. We've advised them to cease fire. It's on them now. How copy?</Original>
               <Chinese>確認了，Kilo1。是AAF幹的。我們已建議他們停火。但只能由他們決定。有收到嗎?</Chinese>
-              <Chinesesimp>确认了，基洛1。是阿尔蒂斯军干的。我们已建议他们停火。但只能由他们决定。有收到吗?</Chinesesimp>
+              <Chinesesimp>确认了，基洛1。是阿尔蒂斯武装力量干的。我们已建议他们停火。但只能由他们决定。有收到吗?</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_sfa_0">
               <Original>Woah! What the fuck?!</Original>
@@ -305,7 +305,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_45_extracted_bhq_0">
               <Original>Outstanding. Relaying to AAF command. Broadway out.</Original>
               <Chinese>幹得好。我們會通知AAF的指揮官。Broadway通話完畢。</Chinese>
-              <Chinesesimp>干得好。我们会通知阿尔蒂斯军的指挥官。“百老汇”通话完毕。</Chinesesimp>
+              <Chinesesimp>干得好。我们会通知阿尔蒂斯武装力量的指挥官。“百老汇”通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_45_extracted_sfa_0">
               <Original>Broadway, be advised, Kilo is RTB with the package in tow. How copy?</Original>
@@ -670,7 +670,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_01_spotted_bhq_1">
               <Original>It's possible they have the AAF crew members on board. Their command's getting antsy. We'll keep you updated. Broadway out.</Original>
               <Chinese>AAF機組員很有可能已經被載走。他們的指揮官越來越煩躁了。我們將持續更新情報。Broadway通話完畢。</Chinese>
-              <Chinesesimp>阿尔蒂斯军机组员很有可能已经被载走。他们的指挥部越来越烦躁了。我们将持续更新情报。“百老汇”通话完毕。</Chinesesimp>
+              <Chinesesimp>阿尔蒂斯武装力量机组员很有可能已经被载走。他们的指挥部越来越烦躁了。我们将持续更新情报。“百老汇”通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_01_spotted_sfa_0">
               <Original>Broadway, Kilo 1. Be advised, we're a minute out from the crash site. Over.</Original>
@@ -692,7 +692,7 @@
             <Key ID="str_a3_showcase_firingfromvehicles_01b_spotted_remote_bhq_1">
               <Original>Foxtrot thinks the AAF crew members are in the technicals. AAF command's getting antsy. We'll keep you updated. Broadway out.</Original>
               <Chinese>Foxtrot認為AAF的機組員就在那些車輛上。他們的指揮官越來越煩躁了。我們將持續更新情報。Broadway通話完畢。</Chinese>
-              <Chinesesimp>“狐步舞”认为阿尔蒂斯军的机组员就在那些车辆上。他们的指挥部越来越烦躁了。我们将持续更新情报。“百老汇”通话完毕。</Chinesesimp>
+              <Chinesesimp>“狐步舞”认为阿尔蒂斯武装力量的机组员就在那些车辆上。他们的指挥部越来越烦躁了。我们将持续更新情报。“百老汇”通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_firingfromvehicles_01b_spotted_remote_sfa_0">
               <Original>Broadway, Kilo 1. Be advised, we're a minute out from the crash site. Over.</Original>
@@ -856,7 +856,7 @@
             </Key>
             <Key ID="str_a3_showcase_marksman_15_lzclear_pla_1">
               <Original>I have a small insurgent compound here. There is some equipment you may find interesting. In particular, an autonomous ground vehicle. Over.</Original>
-              <Chinese>我在這裡找到一個叛軍的小營地。這裡有些裝備或許你會有興趣。特別是這裡有一台地面無人載具。完畢。</Chinese>
+              <Chinese>我在這裡找到一個叛軍的小營地。這裡有些裝備或許你會有興趣。特別是這裡有一臺地面無人載具。完畢。</Chinese>
               <Chinesesimp>我在这里找到一个叛军的小营地。这里有些装备或许你会有兴趣。特别是这里有一辆自律无人车。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_marksman_15_lzclear_led_2">
@@ -939,7 +939,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Titlecard">
             <Original>SHOWCASE: MARKSMEN - New weapons, Weapon customization, Weapon stabilization</Original>
             <Chinese>任務展示:精準射手-新武器，武器客製化，武器穩定</Chinese>
-            <Chinesesimp>任务展示:精准射手-新武器，武器客制化，武器稳定</Chinesesimp>
+            <Chinesesimp>任务展示:精准射手-新武器，武器定制化，武器稳定</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_mrkCamp">
             <Original>Insurgent camp</Original>
@@ -964,7 +964,7 @@
           <Key ID="STR_A3_Showcase_Marksman_Debriefing_Win01_text">
             <Original>You have succeeded in delivering a significant blow to the FIA's operations.</Original>
             <Chinese>你的行動已成功對FIA造成顯著的打擊。</Chinese>
-            <Chinesesimp>你的行动已成功对自由阵线造成显著的打击。</Chinesesimp>
+            <Chinesesimp>你的行动已成功对自由阵线造成显着的打击。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_BIS_mrkVilla">
             <Original>Insurgent HQ</Original>
@@ -989,12 +989,12 @@
           <Key ID="STR_A3_Showcase_Marksman_Briefing_Mission_text">
             <Original>You are to raid the FIA HQ and search for any valuable intel. According to the AAF, the FIA rely more on camouflage instead of strong defenses. Expect limited resistance.</Original>
             <Chinese>你將掃蕩FIA的指揮部，並搜索任何有用的情報。根據AAF的情報，FIA指揮部有著許多的偽裝多過他們所設的防守兵力。預期將會遇到有限的抵抗。</Chinese>
-            <Chinesesimp>你要突袭自由阵线的指挥部，并搜索任何有用的情报。根据阿尔蒂斯军的情报，自由阵线主要依靠伪装而非强大的防御以自保。预期将会遇到有限的抵抗。</Chinesesimp>
+            <Chinesesimp>你要突袭自由阵线的指挥部，并搜索任何有用的情报。根据阿尔蒂斯武装力量的情报，自由阵线主要依靠伪装而非强大的防御以自保。预期将会遇到有限的抵抗。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_Debriefing_Win02_text">
             <Original>You have succeeded in delivering a significant blow to the FIA's operations. Unfortunately, Viper-Green was KIA.</Original>
             <Chinese>你的行動已成功對FIA造成顯著的打擊。但不幸的是，Viper-Green卻在行動中陣亡了。</Chinese>
-            <Chinesesimp>你的行动已成功对自由阵线造成显著的打击。但不幸的是，“毒蛇-绿”却在行动中阵亡了。</Chinesesimp>
+            <Chinesesimp>你的行动已成功对自由阵线造成显着的打击。但不幸的是，“毒蛇-绿”却在行动中阵亡了。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_Showcase_Marksman_SerpentAttack">
             <Original>Serpent - attack</Original>

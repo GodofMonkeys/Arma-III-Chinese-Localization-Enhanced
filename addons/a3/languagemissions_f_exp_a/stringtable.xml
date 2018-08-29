@@ -6,7 +6,7 @@
         <Container name="EndGame02">
           <Key ID="STR_A3_EndGame02_Task01">
             <Original>An AAF unmanned ground vehicle was knocked out near the abandoned settlement in the southern hills. Find its remains and try to retrieve any intact data.</Original>
-            <Chinese>一台AAF的無人地面載具被擊毀在廢棄小鎮南方附近的丘陵上。尋找殘骸，並奪得裡面剩餘的情報資料。</Chinese>
+            <Chinese>一臺AAF的無人地面載具被擊毀在廢棄小鎮南方附近的丘陵上。尋找殘骸，並奪得裡面剩餘的情報資料。</Chinese>
             <Chinesesimp>一辆阿尔蒂斯武装力量的无人车被击毁在废弃小镇南方附近的丘陵上。寻找残骸，并夺得里面剩余的情报资料。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_EndGame02_Task02">
@@ -210,7 +210,7 @@
           </Key>
           <Key ID="STR_A3_VR_Stamina_04_Task_03_desc">
             <Original>Place the charges near each armored vehicle, get behind cover and detonate them.</Original>
-            <Chinese>對每一台敵軍裝甲載具設置炸藥，並躲在掩體後面進行引爆。</Chinese>
+            <Chinese>對每一臺敵軍裝甲載具設置炸藥，並躲在掩體後面進行引爆。</Chinese>
             <Chinesesimp>对每一台敌军装甲载具设置炸药，并躲在掩体后面进行引爆。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_VR_Stamina_04_Task_03_title">

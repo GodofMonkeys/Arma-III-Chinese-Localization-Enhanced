@@ -2461,7 +2461,7 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_modulemptypesectorcontrol_f_moduledescription_description">
             <Original>Initialize Sector Control game mode.&lt;br /&gt;&lt;br /&gt;Mission will end when the time is up (see estimatedTimeLeft scripting command), tickets of one side are depleted (see 'Respawn Tickets' module or BIS_fnc_respawnTickets function) or when the module is deleted.</Original>
-            <Chinese>初始化控制防禦區遊戲模式。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見「重生次數」模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
+            <Chinese>初始化控制防禦區遊戲模式。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見“重生次數”模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
             <Chinesesimp>初始化控制防御区游戏模式。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见estimatedTimeLeft的脚本指令)，或其中一方势力耗尽重生机会(请见“重生次数”模块，或查询BIS_fnc_respawnTickets的功能)后结束。</Chinesesimp>
           </Key>
           <Key ID="str_a3_modulemptypesectorcontrol">
@@ -2538,7 +2538,7 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_modulemptypegamemaster_f_moduledescription_description">
             <Original>Initialize Game Master game mode. It lets Zeus to insert respawn module for every involved side first and then gives him challenges to complete. No rules are present, it is up to Zeus what he creates.&lt;br /&gt;&lt;br /&gt;Mission ends when the time is up (see estimatedTimeLeft scripting command), tickets of one side are depleted (see 'Respawn Tickets' module or BIS_fnc_respawnTickets function) or when the module is deleted.</Original>
-            <Chinese>初始化遊戲管理員遊戲模式。這會讓宙斯有權先放置各勢力的重生模塊。在本模式中並沒有任何既定的規則，一切都取決於宙斯創造了什麼。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見「重生次數」模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
+            <Chinese>初始化遊戲管理員遊戲模式。這會讓宙斯有權先放置各勢力的重生模塊。在本模式中並沒有任何既定的規則，一切都取決於宙斯創造了什麼。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見“重生次數”模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
             <Chinesesimp>初始化游戏管理员游戏模式。这会让宙斯有权先放置各势力的重生模块。在本模式中并没有任何既定的规则，一切都取决于宙斯创造了什么。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见estimatedTimeLeft的脚本指令)，或其中一方势力耗尽重生机会(请见“重生次数”模块，或查询BIS_fnc_respawnTickets的功能)后结束。</Chinesesimp>
           </Key>
           <Key ID="str_a3_modulemptypegamemoderator">
@@ -2984,7 +2984,7 @@
       <Key ID="STR_A3_cfgmods_curator_name">
         <Original>Arma 3 Zeus</Original>
         <Chinese>ArmA3宙斯</Chinese>
-        <Chinesesimp>Arma3宙斯</Chinesesimp>
+        <Chinesesimp>武装突袭3宙斯</Chinesesimp>
       </Key>
     </Container>
     <Container name="Data_F">
@@ -4292,7 +4292,7 @@
       <Key ID="str_a3_rscdisplaywelcome_curator_pard">
         <Original>Play Arma 3 Zeus across its distinctive 'Game Master' game type scenarios, where nothing has been predetermined. Or visit familiar modes like 'Coop', 'Team Deathmatch', and 'Sector Control' in a completely new way. Zeus multiplayer also works with custom player-created scenarios.</Original>
         <Chinese>在ArmA3裡擔當宙斯，這可以讓你成為遊戲的主宰，你將可以在完全開放的地圖中自訂所有的任務與狀況。你將可以透過此種模式來重新體驗'合作'，'團隊死鬥'，'控制防禦區'等任務。宙斯模式也可以在玩家自訂任務中啟動。</Chinese>
-        <Chinesesimp>在Arma3里担当宙斯，这可以让你成为游戏的主宰，你将可以在完全开放的地图中自定义所有的任务与状况。你将可以透过此种模式来重新体验‘合作’，‘团队死斗’，‘控制防御区’等任务。宙斯模式也可以在玩家自定义任务中启动。</Chinesesimp>
+        <Chinesesimp>在武装突袭3里担当宙斯，这可以让你成为游戏的主宰，你将可以在完全开放的地图中自定义所有的任务与状况。你将可以透过此种模式来重新体验‘合作’，‘团队死斗’，‘控制防御区’等任务。宙斯模式也可以在玩家自定义任务中启动。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_parc_title">
         <Original>ENROLL AS PLAYERS</Original>

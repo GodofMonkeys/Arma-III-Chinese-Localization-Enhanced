@@ -97,7 +97,7 @@
       <Key ID="STR_A3_CampaignDescription">
         <Original>&lt;t color='#999999'&gt;CAMPAIGN INBOUND&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;The official campaign will be added in 3 Free DLC Episodes, available to everyone who owns Arma 3.&lt;br /&gt;&lt;br /&gt;'Survive and adapt to unforgiving circumstances. Fight hard to win victory over a more powerful enemy.'&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;AVAILABLE FOR FREE&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;Each of the Campaign Episodes will be downloaded automatically via a Steam update once they become available.&lt;br /&gt;&lt;br /&gt;For all the latest announcements on Arma 3's campaign and more, be sure to keep track of the in-game newsfeed, www.arma3.com, Facebook and Twitter!</Original>
         <Chinese>&lt;tcolor='#999999'&gt;戰役即將推出&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;官方戰役將在未來分成3個免費的資料片供玩家下載，只要任何擁有ArmA3的玩家都可以獲得。&lt;br/&gt;&lt;br/&gt;'在困境中求生存。並且跟強大的敵人對抗，運用戰術來獲得勝利。'&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;免費獲得&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;當Steam開放更新，每一個章節將會自動下載並安裝。&lt;br/&gt;&lt;br/&gt;請持續追蹤ArmA3戰役的相關報導，你可以觀看遊戲中的新聞摘要，亦或查看www。arma3。com，Facebook和Twitter來持續追蹤!</Chinese>
-        <Chinesesimp>&lt;tcolor='#999999'&gt;战役即将推出&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;官方战役将在未来分成3个免费的资料片供玩家下载，只要任何拥有ArmA3的玩家都可以获得。&lt;br/&gt;&lt;br/&gt;'在困境中求生存。并且跟强大的敌人对抗，运用战术来获得胜利。'&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;免费获得&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;当Steam开放更新，每一个章节将会自动下载并安装。&lt;br/&gt;&lt;br/&gt;请持续追踪ArmA3战役的相关报导，你可以观看游戏中的新闻摘要，亦或查看www。arma3。com，Facebook和Twitter来持续追踪!</Chinesesimp>
+        <Chinesesimp>&lt;tcolor='#999999'&gt;战役即将推出&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;官方战役将在未来分成3个免费的资料片供玩家下载，只要任何拥有武装突袭3的玩家都可以获得。&lt;br/&gt;&lt;br/&gt;'在困境中求生存。并且跟强大的敌人对抗，运用战术来获得胜利。'&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;免费获得&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;当Steam开放更新，每一个章节将会自动下载并安装。&lt;br/&gt;&lt;br/&gt;请持续追踪武装突袭3战役的相关报导，你可以观看游戏中的新闻摘要，亦或查看www。arma3。com，Facebook和Twitter来持续追踪!</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CampaignDescriptionEstimatedTime">
         <Original>&lt;br /&gt;&lt;t align='center' color='#999999'&gt;ESTIMATED DEPLOYMENT OF THE NEXT EPISODE&lt;/t&gt;&lt;br /&gt;&lt;br /&gt;</Original>
@@ -148,24 +148,24 @@
           <Container name="25_I_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="25_I_Auto" dubbingLanguage="english" namePrefix="faction_independent_25_i_auto" note="" participants="RC I Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_independent_25_i_auto_exi_0">
               <Original>The AR-2 Darter is a miniature remote-controlled quadrocopter designed for recon and surveillance roles.</Original>
-              <Chinese>AR-2Darter是一台微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
+              <Chinese>AR-2Darter是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
               <Chinesesimp>AR-2“短刀”是一种微型的遥控四轴无人机，被设计用来做侦察与监视等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_25_i_auto_exi_1">
               <Original>The Stomper is a remote controlled unmanned ground vehicle designed for reconnaissance, surveillance and support.</Original>
-              <Chinese>Stomper是一台遙控的地面無人載具，被設計用來做偵察，監視或支援等任務。</Chinese>
+              <Chinese>Stomper是一臺遙控的地面無人載具，被設計用來做偵察，監視或支援等任務。</Chinese>
               <Chinesesimp>“践踏者”是一种遥控无人车，被设计用来做侦察，监视或支援等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_25_i_auto_exi_2">
               <Original>The MQ-4A Greyhawk is a combat-ready unmanned aerial vehicle equipped with air-to-ground missiles.</Original>
-              <Chinese>MQ-4AGreyhawk是一台武裝的無人偵察機，裝載著空對地導彈。</Chinese>
+              <Chinese>MQ-4AGreyhawk是一臺武裝的無人偵察機，裝載著空對地導彈。</Chinese>
               <Chinesesimp>MQ-4A“灰鹰”是一架武装无人侦察机，装载着空地导弹。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_I_Weapons" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="20_I_Weapons" dubbingLanguage="english" namePrefix="faction_independent_20_i_weapons" note="" participants="RC I Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_independent_20_i_weapons_exi_0">
               <Original>The Mk32 GMG is a static grenade launcher that fires 20mm grenades.</Original>
-              <Chinese>Mk32GMG是一台固定式的榴彈發射器，其子彈為20mm榴彈。</Chinese>
+              <Chinese>Mk32GMG是一臺固定式的榴彈發射器，其子彈為20mm榴彈。</Chinese>
               <Chinesesimp>Mk32GMG是一种固定式榴弹发射器，发射20毫米榴弹。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_20_i_weapons_exi_1">
@@ -187,7 +187,7 @@
             </Key>
             <Key ID="str_a3_faction_independent_15_i_water_exi_1">
               <Original>The SDV is a manned submersible vehicle used to transport teams of divers over long distances underwater.</Original>
-              <Chinese>SDV是一台載人的潛水載具，用來讓潛水小隊在水下做長距離的移動。</Chinese>
+              <Chinese>SDV是一臺載人的潛水載具，用來讓潛水小隊在水下做長距離的移動。</Chinese>
               <Chinesesimp>海豹运输艇是一种载人的潜水载具，用来让蛙人小组在水下做长距离移动。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_15_i_water_exi_2">
@@ -199,29 +199,29 @@
           <Container name="10_I_Air" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="10_I_Air" dubbingLanguage="english" namePrefix="faction_independent_10_i_air" note="" participants="RC I Expo;" situation="player visits the aerial area of the expo">
             <Key ID="str_a3_faction_independent_10_i_air_exi_0">
               <Original>The CH-49 Mohawk is a powerful transport helicopter with a large capacity.</Original>
-              <Chinese>CH-49Mohawk是一台有著高乘載量的強大運輸直升機。</Chinese>
+              <Chinese>CH-49Mohawk是一臺有著高乘載量的強大運輸直升機。</Chinese>
               <Chinesesimp>CH-49“莫霍克”是一种有着高乘载量的强大运输直升机。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_10_i_air_exi_1">
               <Original>The A-143 Buzzard is a single-seat multi-purpose combat aircraft able to deliver a variety of ordinance.</Original>
-              <Chinese>A-143Buzzard是一台單座的多用途戰鬥機，被設計成可以裝載各種武器。</Chinese>
+              <Chinese>A-143Buzzard是一臺單座的多用途戰鬥機，被設計成可以裝載各種武器。</Chinese>
               <Chinesesimp>A-143“秃鹰”是一种单座多用途战斗机，被设计成可以装载各种武器。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_I_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="05_I_Ground" dubbingLanguage="english" namePrefix="faction_independent_05_i_ground" note="" participants="RC I Expo;" situation="player visits the ground vehicles area of the expo">
             <Key ID="str_a3_faction_independent_05_i_ground_exi_0">
               <Original>The Strider is a medium armored personnel carrier designed for recon and troop transport roles.</Original>
-              <Chinese>Strider是一台中型的裝甲運兵車，被設計用來做偵察與小隊運輸的任務。</Chinese>
+              <Chinese>Strider是一臺中型的裝甲運兵車，被設計用來做偵察與小隊運輸的任務。</Chinese>
               <Chinesesimp>“挺进者”是一种中型装甲运兵车，被设计用来做侦察与部队运输的任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_05_i_ground_exi_1">
               <Original>The AFV-4 Gorgon is an 8x8 APC armed with a 30mm cannon.</Original>
-              <Chinese>AFV-4Gorgon是一台8輪驅動的裝甲運兵車，配備著30mm加農砲。</Chinese>
+              <Chinese>AFV-4Gorgon是一臺8輪驅動的裝甲運兵車，配備著30mm加農砲。</Chinese>
               <Chinesesimp>AFV-4“蛇发女妖”是一种8轮驱动的装甲运兵车，配备着30毫米加农炮。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_independent_05_i_ground_exi_2">
               <Original>The quad bike is an all-terrain vehicle used for recon and to access terrain heavier vehicles cannot traverse.</Original>
-              <Chinese>四輪摩托車是一台全地形載具，被用作偵察或是進入一般重型載具到不了的地形。</Chinese>
+              <Chinese>四輪摩托車是一臺全地形載具，被用作偵察或是進入一般重型載具到不了的地形。</Chinese>
               <Chinesesimp>四轮摩托车是一台全地形载具，被用作侦察或是进入一般重型载具到不了的地形。</Chinesesimp>
             </Key>
           </Container>
@@ -286,22 +286,22 @@
           <Container name="25_B_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="25_B_Auto" dubbingLanguage="english" namePrefix="faction_blufor_25_b_auto" note="" participants="RC B Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_0">
               <Original>The AR-2 Darter is a miniature remote-controlled quadrocopter designed for recon and surveillance roles.</Original>
-              <Chinese>AR-2Darter是一台微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
+              <Chinese>AR-2Darter是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
               <Chinesesimp>AR-2“匕首”是一种微型的遥控四轴无人机，被设计用来做侦察与监视等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_1">
               <Original>The Stomper is a remote controlled unmanned ground vehicle designed for reconnaissance, surveillance and support.</Original>
-              <Chinese>Stomper是一台遙控的地面無人載具，被設計用來做偵察，監視或支援等任務。</Chinese>
+              <Chinese>Stomper是一臺遙控的地面無人載具，被設計用來做偵察，監視或支援等任務。</Chinese>
               <Chinesesimp>“践踏者”是一种遥控无人车，被设计用来做侦察，监视或支援等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_2">
               <Original>The MQ-4A Greyhawk is a combat-ready unmanned aerial vehicle equipped with air-to-ground missiles.</Original>
-              <Chinese>MQ-4AGreyhawk是一台武裝的無人偵察機，裝載著空對地導彈。</Chinese>
+              <Chinese>MQ-4AGreyhawk是一臺武裝的無人偵察機，裝載著空對地導彈。</Chinese>
               <Chinesesimp>MQ-4A“灰鹰”是一种武装无人侦察机，装载着空地导弹。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_3">
               <Original>The MQ-12 Falcon is an autonomous, remotely-controlled helicopter drone primarily used for close air support.</Original>
-              <Chinese>MQ-12"獵隼"是台自主式，遙控式的無人直升機，被設計來執行近距離火力支援任務。</Chinese>
+              <Chinese>MQ-12"獵隼"是臺自主式，遙控式的無人直升機，被設計來執行近距離火力支援任務。</Chinese>
               <Chinesesimp>MQ-12"猎隼"是台自主式，遥控式的无人直升机，被设计来执行近距离火力支援任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_4">
@@ -335,7 +335,7 @@
             </Key>
             <Key ID="str_a3_faction_blufor_15_b_water_exb_1">
               <Original>The SDV is a manned submersible vehicle used to transport teams of divers over long distances underwater.</Original>
-              <Chinese>SDV是一台載人的潛水載具，用來讓潛水小隊在水下做長距離的移動。</Chinese>
+              <Chinese>SDV是一臺載人的潛水載具，用來讓潛水小隊在水下做長距離的移動。</Chinese>
               <Chinesesimp>海豹运输艇是一种载人潜水艇，用来让蛙人小组在水下做长距离移动。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_15_b_water_exb_2">
@@ -347,12 +347,12 @@
           <Container name="10_B_Air" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="10_B_Air" dubbingLanguage="english" namePrefix="faction_blufor_10_b_air" note="" participants="RC B Expo;" situation="player visits the aerial area of the expo">
             <Key ID="str_a3_faction_blufor_10_b_air_exb_0">
               <Original>The UH-80 Ghost Hawk is a medium-lift multi-role helicopter originally developed for special operations.</Original>
-              <Chinese>UH-80"鬼鷹"是一台多用途的中型運輸直升機，被開發來用在特種作戰上。</Chinese>
+              <Chinese>UH-80"鬼鷹"是一臺多用途的中型運輸直升機，被開發來用在特種作戰上。</Chinese>
               <Chinesesimp>UH-80"幽灵鹰"是一种多用途中型运输直升机，用于特种作战。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_1">
               <Original>The MH-9 Hummingbird is a light, agile single-engine helicopter.</Original>
-              <Chinese>MH-9Hummingbird是一台輕型與靈活的單引擎直升機。</Chinese>
+              <Chinese>MH-9Hummingbird是一臺輕型與靈活的單引擎直升機。</Chinese>
               <Chinesesimp>MH-9“蜂鸟”是一种轻型且灵活的单发直升机。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_2">
@@ -362,7 +362,7 @@
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_3">
               <Original>The V-44 X Blackfish is a rotor-based, Vertical Take-off and Landing capable airframe that comes in 3 standard-issue configurations.</Original>
-              <Chinese>V-44X"黑鯨"是台可以垂直起降的旋翼式飛機，此機有三種不同裝備配置的版本。</Chinese>
+              <Chinese>V-44X"黑鯨"是臺可以垂直起降的旋翼式飛機，此機有三種不同裝備配置的版本。</Chinese>
               <Chinesesimp>V-44X"黑鲸"是台可以垂直起降的旋翼式飞机，此机有三种不同装备配置的版本。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_10_b_air_exb_4">
@@ -379,22 +379,22 @@
           <Container name="05_B_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="05_B_Ground" dubbingLanguage="english" namePrefix="faction_blufor_05_b_ground" note="" participants="RC B Expo;" situation="player visits the ground vehicles area of the expo">
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_0">
               <Original>The Scorcher M4 is a 155mm self-propelled gun with an advanced artillery computer.</Original>
-              <Chinese>ScorcherM4是一台配備有155mm口徑大砲與先進射控電腦的自走砲。</Chinese>
+              <Chinese>ScorcherM4是一臺配備有155mm口徑大砲與先進射控電腦的自走砲。</Chinese>
               <Chinesesimp>“炙烤者”M4是一台配备先进火控计算机的155毫米自行火炮。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_1">
               <Original>The M2A1 Slammer is a main battle tank armed with a 120mm cannon.</Original>
-              <Chinese>M2A1Slammer是一台配備120mm加農砲的主戰坦克。</Chinese>
+              <Chinese>M2A1Slammer是一臺配備120mm加農砲的主戰坦克。</Chinese>
               <Chinesesimp>M2A1“重击者”是一种配备120毫米加农炮的主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_2">
               <Original>The Panther is an armored personnel carrier armed with a 12.7mm machine gun, 40mm grenade launcher, and a cargo capacity for up to eight soldiers.</Original>
-              <Chinese>Panther是一台裝甲運兵車，配備有12。7mm機槍，40mm榴彈發射器，和可以乘載8名人員的空間。</Chinese>
+              <Chinese>Panther是一臺裝甲運兵車，配備有12。7mm機槍，40mm榴彈發射器，和可以乘載8名人員的空間。</Chinese>
               <Chinesesimp>“黑豹”是一种装甲运兵车，配备有12。7毫米机枪，40毫米榴弹发射器，可容纳8名载员。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_3">
               <Original>The Prowler is NATO's standard-issue Light Strike Vehicle used by special operation groups, with its advantages over other vehicles being its small profile and high mobility.</Original>
-              <Chinese>"徘徊者"是一台給北約特種部隊使用的輕型突擊車，與其載具相比，他有著較嬌小的尺寸與良好的機動性等優勢。</Chinese>
+              <Chinese>"徘徊者"是一臺給北約特種部隊使用的輕型突擊車，與其載具相比，他有著較嬌小的尺寸與良好的機動性等優勢。</Chinese>
               <Chinesesimp>"徘徊者"是一台给北约特种部队使用的轻型突击车，与其载具相比，他有着较娇小的尺寸与良好的机动性等优势。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_4">
@@ -447,22 +447,22 @@
           <Container name="25_O_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="25_O_Auto" dubbingLanguage="english" namePrefix="faction_opfor_25_o_auto" note="" participants="RC O Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_opfor_25_o_auto_exo_0">
               <Original>The Tayran AR-2 is a miniature remote-controlled quadrocopter designed for recon and surveillance roles.</Original>
-              <Chinese>TayranAR-2是一台微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
+              <Chinese>TayranAR-2是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
               <Chinesesimp>泰兰AR-2是一台微型的遥控四轴无人机，被设计用来做侦察与监视等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_25_o_auto_exo_1">
               <Original>The Saif is a remote controlled unmanned ground vehicle designed for reconnaissance, surveillance and support.</Original>
-              <Chinese>"薩夫"是一台遙控的地面無人載具，被設計用來做偵察，監視或支援等任務。</Chinese>
+              <Chinese>"薩夫"是一臺遙控的地面無人載具，被設計用來做偵察，監視或支援等任務。</Chinese>
               <Chinesesimp>"萨夫"是一种遥控无人车，被设计用来做侦察，监视或支援等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_25_o_auto_exo_2">
               <Original>The K40 Adabil-3 is a combat-ready unmanned aerial vehicle equipped with air-to-ground missiles.</Original>
-              <Chinese>K40Adabil-3是一台武裝的空中無人載具，裝載著空對地導彈。</Chinese>
+              <Chinese>K40Adabil-3是一臺武裝的空中無人載具，裝載著空對地導彈。</Chinese>
               <Chinesesimp>K40“燕子”-3是一种武装无人机，装载着空地导弹。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_25_o_auto_exo_3">
               <Original>The KH-3A Fenghuang is a Chinese autonomous, remote-controlled drone used primarily for close air support and recon.</Original>
-              <Chinese>KH-3A"鳳凰"是台中國製的自主式，遙控式無人飛機，被設計來執行近距離火力支援與偵察等任務。</Chinese>
+              <Chinese>KH-3A"鳳凰"是臺中國製的自主式，遙控式無人飛機，被設計來執行近距離火力支援與偵察等任務。</Chinese>
               <Chinesesimp>KH-3A"凤凰"是台中国制的自主式，遥控式无人飞机，被设计来执行近距离火力支援与侦察等任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_25_o_auto_exo_4">
@@ -501,7 +501,7 @@
             </Key>
             <Key ID="str_a3_faction_opfor_15_o_water_exo_1">
               <Original>The SDV is a manned submersible vehicle used to transport diver teams over long distances underwater.</Original>
-              <Chinese>SDV是一台載人的潛水載具，用來讓潛水小隊在水下做長距離的移動。</Chinese>
+              <Chinese>SDV是一臺載人的潛水載具，用來讓潛水小隊在水下做長距離的移動。</Chinese>
               <Chinesesimp>海豹运输艇是一台载人的潜水载具，用来让蛙人小组在水下做长距离的移动。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_15_o_water_exo_2">
@@ -513,17 +513,17 @@
           <Container name="10_O_Air" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="10_O_Air" dubbingLanguage="english" namePrefix="faction_opfor_10_o_air" note="" participants="RC O Expo;" situation="player visits the aerial area of the expo">
             <Key ID="str_a3_faction_opfor_10_o_air_exo_0">
               <Original>The PO-30 Orca is a transport and utility helicopter, originally intended to replace the Mi-8.</Original>
-              <Chinese>PO-30Orca是一台多功能運輸直升機，原本計劃用來取代Mi-8。</Chinese>
+              <Chinese>PO-30Orca是一臺多功能運輸直升機，原本計劃用來取代Mi-8。</Chinese>
               <Chinesesimp>PO-30“逆戟鲸”是一台多功能运输直升机，原本计划用来取代Mi-8。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_10_o_air_exo_1">
               <Original>The Mi-48 is a large helicopter gunship with a cargo capacity of up to eight people.</Original>
-              <Chinese>Mi-48是一台大型的武裝直升機，其擁有可以乘載8人的後艙。</Chinese>
+              <Chinese>Mi-48是一臺大型的武裝直升機，其擁有可以乘載8人的後艙。</Chinese>
               <Chinesesimp>米-48是一种大型武装直升机，拥有可以乘载8人的后舱。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_10_o_air_exo_2">
               <Original>The Y-32 Xi'an is a hybrid Vertical Take-off and Landing capable aircraft designed to operate under difficult conditions. </Original>
-              <Chinese>Y-32"西安"是台能垂直起降的飛機，被設計在各種危險的環境下仍能順利的執行任務。</Chinese>
+              <Chinese>Y-32"西安"是臺能垂直起降的飛機，被設計在各種危險的環境下仍能順利的執行任務。</Chinese>
               <Chinesesimp>Y-32"西安"是一种混合式垂直起降的飞机，在各种复杂环境下仍能顺利执行任务。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_10_o_air_exo_3">
@@ -540,22 +540,22 @@
           <Container name="05_O_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="05_O_Ground" dubbingLanguage="english" namePrefix="faction_opfor_05_o_ground" note="" participants="RC O Expo;" situation="player visits the ground vehicles area of the expo">
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_0">
               <Original>The MSE-3 Marid is a maneuverable, amphibious 6-wheeled APC.</Original>
-              <Chinese>MSE-3Marid是一台具有高機動性，與兩棲作戰能力的6輪裝甲運兵車。</Chinese>
+              <Chinese>MSE-3Marid是一臺具有高機動性，與兩棲作戰能力的6輪裝甲運兵車。</Chinese>
               <Chinesesimp>MSE-3“马里德”是一台具有高机动性与两栖作战能力的6轮装甲运兵车。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_1">
               <Original>The Ifrit is a Mine Resistant Ambush Protected vehicle designed and manufactured in Russia.</Original>
-              <Chinese>Ifrit是一台防地雷反伏擊車，在俄羅斯設計與製造。</Chinese>
+              <Chinese>Ifrit是一臺防地雷反伏擊車，在俄羅斯設計與製造。</Chinese>
               <Chinesesimp>“焰灵”是一种防地雷反伏击车，由俄罗斯设计制造。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_2">
               <Original>The T100 Varsuk main battle tank is equipped with a standard 125mm canon.</Original>
-              <Chinese>T100Varsuk是一台配備125mm加農砲的主戰坦克。</Chinese>
+              <Chinese>T100Varsuk是一臺配備125mm加農砲的主戰坦克。</Chinese>
               <Chinesesimp>T100“獾”是一辆配备125毫米加农炮的主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_3">
               <Original>The Qilin is a Light Strike Vehicle used by special operation groups. Its advantage lies in its small profile and high mobility.</Original>
-              <Chinese>"麒麟"是台給特種部隊使用的輕型突擊載具。他的優點在於其小巧的尺寸與傑出的機動性。</Chinese>
+              <Chinese>"麒麟"是臺給特種部隊使用的輕型突擊載具。他的優點在於其小巧的尺寸與傑出的機動性。</Chinese>
               <Chinesesimp>"麒麟"是给特种部队使用的轻型突击载具。其优点在于小巧的尺寸与杰出的机动性。</Chinesesimp>
             </Key>
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_4">
@@ -1125,7 +1125,7 @@
             </Key>
             <Key ID="str_a3_showcase_tanks_05_meeting_nom_2">
               <Original>Reports indicate infantry, APCs - even a couple of Main Battle Tanks.</Original>
-              <Chinese>報告中指出敵軍有步兵，裝甲運兵車-甚至是幾台主戰坦克。</Chinese>
+              <Chinese>報告中指出敵軍有步兵，裝甲運兵車-甚至是幾臺主戰坦克。</Chinese>
               <Chinesesimp>报告中指出敌军有步兵，装甲运兵车-甚至是几辆主战坦克。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_tanks_05_meeting_nom_3">
@@ -1846,7 +1846,7 @@
       <Key ID="str_a3_cfgmissions_showcases_showcase_arma0">
         <Original>Arma</Original>
         <Chinese>武裝行動</Chinese>
-        <Chinesesimp>武装行动</Chinesesimp>
+        <Chinesesimp>武装突袭</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_showcases_faction_opfor0">
         <Original>Faction: OPFOR</Original>
@@ -2127,7 +2127,7 @@
         <Key ID="STR_A3_Showcase_Drones_Showcase_Summary_text">
           <Original>Utilize Arma 3's unmanned ground and aerial vehicles. Complete a daring operation behind enemy lines.</Original>
           <Chinese>利用ArmA3新增的地面與空中無人載具。來完成一個大膽的敵後行動。</Chinese>
-          <Chinesesimp>利用ArmA3新增的地面与空中无人载具。来完成一个大胆的敌后行动。</Chinesesimp>
+          <Chinesesimp>利用武装突袭3新增的地面与空中无人载具。来完成一个大胆的敌后行动。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_drones_titlecard">
           <Original>SHOWCASE: DRONES - Armed UAVs &amp; UGVs, Recon Quadrocopter, High Value Target</Original>
@@ -2319,7 +2319,7 @@
         <Key ID="STR_A3_Showcase_Gunships_Showcase_Summary_text">
           <Original>Learn how to operate gunships in Arma 3. Repel the enemy assault with your heavily armed attack helicopter.</Original>
           <Chinese>學習如何操控ArmA3的武裝直升機。使用你全副武裝的直升機去擊退敵人的攻擊。</Chinese>
-          <Chinesesimp>学习如何操控ArmA3的武装直升机。使用你全副武装的直升机去击退敌人的攻击。</Chinesesimp>
+          <Chinesesimp>学习如何操控武装突袭3的武装直升机。使用你全副武装的直升机去击退敌人的攻击。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_gunships_rearm_text01">
           <Original>PYRGOS RESUPPLY POINT</Original>
@@ -2496,7 +2496,7 @@
         <Key ID="str_a3_showcase_arma_showcase_text">
           <Original>Experience Arma 3's large-scale combined arms gameplay. Support the assault and secure the enemy position.</Original>
           <Chinese>體驗ArmA3特有的多兵種大規模作戰體驗。支援突擊行動並佔領敵軍陣地。</Chinese>
-          <Chinesesimp>体验ArmA3特有的多兵种大规模作战体验。支援突击行动并占领敌军阵地。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3特有的多兵种大规模作战体验。支援突击行动并占领敌军阵地。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_mission_name">
           <Original>Armed Assault</Original>
@@ -2506,7 +2506,7 @@
         <Key ID="STR_A3_Showcase_Arma_Showcase_Summary_text">
           <Original>Experience Arma 3's large-scale combined arms gameplay. Support the assault and secure the enemy position.</Original>
           <Chinese>體驗ArmA3特有的多兵種大規模作戰體驗。支援突擊行動並佔領敵軍陣地。</Chinese>
-          <Chinesesimp>体验ArmA3特有的多兵种大规模作战体验。支援突击行动并占领敌军阵地。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3特有的多兵种大规模作战体验。支援突击行动并占领敌军阵地。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_debriefing_win3">
           <Original>Despite suffering heavy losses, you completed objectives integral to the mission, supporting an ongoing offensive by providing assistance to our logistics convoy. The enemy has been forced onto the back foot and we're now in a strong position to further the attack.</Original>
@@ -2560,7 +2560,7 @@
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_signal_text">
           <Original>Papa Bear - HQ&lt;br /&gt;&lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt; - Your team&lt;br /&gt;&lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt; - Infantry Squad&lt;br /&gt;&lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt; - 2 IFVs&lt;br /&gt;&lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt; - Armored Platoon&lt;br /&gt;Kilo - Logistics Convoy</Original>
-          <Chinese>PapaBear-總部&lt;br/&gt;&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;-你的小隊&lt;br/&gt;&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;-步兵小隊&lt;br/&gt;&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;-2台多功能步兵車&lt;br/&gt;&lt;markername='BIS_friendlies'&gt;Nomad&lt;/marker&gt;-裝甲排&lt;br/&gt;Kilo-後勤車隊</Chinese>
+          <Chinese>PapaBear-總部&lt;br/&gt;&lt;markername='BIS_startOne'&gt;Alpha&lt;/marker&gt;-你的小隊&lt;br/&gt;&lt;markername='BIS_startTwo'&gt;Bravo&lt;/marker&gt;-步兵小隊&lt;br/&gt;&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;-2臺多功能步兵車&lt;br/&gt;&lt;markername='BIS_friendlies'&gt;Nomad&lt;/marker&gt;-裝甲排&lt;br/&gt;Kilo-後勤車隊</Chinese>
           <Chinesesimp>熊爸爸-指挥部&lt;br/&gt;&lt;markername='BIS_startOne'&gt;阿尔法&lt;/marker&gt;-你的小组&lt;br/&gt;&lt;markername='BIS_startTwo'&gt;布拉沃&lt;/marker&gt;-步兵班&lt;br/&gt;&lt;markername='BIS_start'&gt;Echo&lt;/marker&gt;-2辆步兵战车&lt;br/&gt;&lt;markername='BIS_friendlies'&gt;游牧民&lt;/marker&gt;-装甲排&lt;br/&gt;Kilo-后勤车队</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_mission_text">
@@ -2770,7 +2770,7 @@
         <Key ID="STR_A3_Showcase_Showcase_Faction_INDEPENDENT_Summary_text">
           <Original>Review Arma 3's AAF faction and attend the fixed-wing demonstration.</Original>
           <Chinese>體驗ArmA3的AAF陣營，並參觀固定翼飛機的演習。</Chinese>
-          <Chinesesimp>体验ArmA3的阿尔蒂斯武装力量阵营，并参观固定翼飞机的演习。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3的阿尔蒂斯武装力量阵营，并参观固定翼飞机的演习。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_independent_weapons_title">
           <Original>Weapons</Original>
@@ -2882,7 +2882,7 @@
         <Key ID="STR_A3_Showcase_Showcase_Faction_OPFOR_Summary_text">
           <Original>Familiarize yourself with Arma 3's CSAT faction and visit the firing range.</Original>
           <Chinese>體驗ArmA3的CSAT陣營，並在靶場體驗他們的武器。</Chinese>
-          <Chinesesimp>体验ArmA3的广协同盟阵营，并在靶场体验他们的武器。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3的广协同盟阵营，并在靶场体验他们的武器。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_opfor_weapons_title">
           <Original>Weapons</Original>
@@ -2994,7 +2994,7 @@
         <Key ID="STR_A3_Showcase_Showcase_Faction_BLUFOR_Summary_text">
           <Original>Experiment with Arma 3's NATO faction and experience the live fire exercise.</Original>
           <Chinese>體驗ArmA3的NATO陣營，各個裝備的實彈射擊與練習。</Chinese>
-          <Chinesesimp>体验ArmA3的北约阵营，各个装备的实弹射击与练习。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3的北约阵营，各个装备的实弹射击与练习。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_faction_blufor_weapons_title">
           <Original>Weapons</Original>
@@ -3173,7 +3173,7 @@
         <Key ID="str_a3_showcase_tanks_showcase_summary_text">
           <Original>Put Arma 3's Main Battle Tanks to the test. Command your crew and join the armored offensive.</Original>
           <Chinese>體驗ArmA3的主戰坦克。指揮你的隊員並加入裝甲戰鬥。</Chinese>
-          <Chinesesimp>体验ArmA3的主战坦克。指挥你的乘员加入装甲战斗。</Chinesesimp>
+          <Chinesesimp>体验武装突袭3的主战坦克。指挥你的乘员加入装甲战斗。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_tanks_mission_name">
           <Original>Tanks</Original>

@@ -114,7 +114,7 @@
 </Original>
         <Chinese>無論你怎樣遊玩ArmA3，我們都希望你能一起加入我們前往&lt;ahref='%2'color='%1'&gt;頂尖資料片&lt;/a&gt;的旅程!
 </Chinese>
-        <Chinesesimp>无论你怎样游玩Arma3，我们都希望你能一起加入我们前往&lt;ahref='%2'color='%1'&gt;顶尖DLC&lt;/a&gt;的旅程!
+        <Chinesesimp>无论你怎样游玩武装突袭3，我们都希望你能一起加入我们前往&lt;ahref='%2'color='%1'&gt;顶尖资料片&lt;/a&gt;的旅程!
 </Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expb_pard">
@@ -265,7 +265,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expb_parb_footer">
         <Original>More about Arma 3 Eden Update</Original>
         <Chinese>更多關於ArmA3伊甸更新</Chinese>
-        <Chinesesimp>更多关于Arma3伊甸更新</Chinesesimp>
+        <Chinesesimp>更多关于武装突袭3伊甸更新</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expb_parb">
         <Original>Our goals for this update were to enhance the core usability of the game and cater to custom content creators in meaningful ways:</Original>
@@ -275,7 +275,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expb_para">
         <Original>Thanks to the continued support from its growing player and modder community, Arma 3 now receives this major &lt;t color='%1'&gt;free platform update&lt;/t&gt;. Our central focus has been on bringing &lt;t color='%1'&gt;scenario editing&lt;/t&gt; forward in a major way, but there are many additional improvements to enjoy as well!</Original>
         <Chinese>感謝你繼續支持本作，ArmA3現在已獲得主要的&lt;tcolor='%1'&gt;免費更新&lt;/t&gt;。我們這次將專注在&lt;tcolor='%1'&gt;任務編輯&lt;/t&gt;上的改進，也帶來了其他的改變!</Chinese>
-        <Chinesesimp>感谢你继续支持本作，Arma3现在已获得主要的&lt;tcolor='%1'&gt;免费更新&lt;/t&gt;。我们这次将专注在&lt;tcolor='%1'&gt;任务编辑&lt;/t&gt;上的改进，也带来了其他的改变!</Chinesesimp>
+        <Chinesesimp>感谢你继续支持本作，武装突袭3现在已获得主要的&lt;tcolor='%1'&gt;免费更新&lt;/t&gt;。我们这次将专注在&lt;tcolor='%1'&gt;任务编辑&lt;/t&gt;上的改进，也带来了其他的改变!</Chinesesimp>
       </Key>
     </Container>
     <Container name="TasksOverhaul">
@@ -748,7 +748,7 @@
       </Key>
       <Key ID="str_a3_land_airport_tower_ruins_f0">
         <Original>Airport Control Tower (Ruin)</Original>
-        <Chinese>機場塔台(廢墟)</Chinese>
+        <Chinese>機場塔臺(廢墟)</Chinese>
         <Chinesesimp>机场塔台(废墟)</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_addon_04_v1_ruins_f0">
@@ -781,7 +781,7 @@
       <Key ID="str_a3_cfghints_edenupdate_analytics_description">
         <Original>We're very interested in finding out %3how Arma 3 is played%4, so that we can learn from it and improve the game further. Analytics integration provides us with %3anonymous data%4 about the modes being played, the most popular mods, applied difficulty options, configured video settings, and more. We intend to use such data in addition to our valuable existing methods for gathering feedback. All you need to do is %3play the game%4.%1%1&lt;a href='https://community.bistudio.com/wiki/Arma_3_Analytics'&gt;More about analytics&lt;/a&gt;</Original>
         <Chinese>我們對於玩家%3怎樣遊玩ArmA3%4非常有興趣，因為這能讓我們知道該如何使遊戲更加完整。分析工具將會將玩家的資訊包裝成%3匿名資料%4，告訴我們玩家掛載什麼模組，那些模組最受歡迎，難度選項設定，畫面設定等等資料。有了這些回饋資料，我們就能更快更好的改善遊戲。而你要做的事就只有%3玩遊戲%4而已。%1%1&lt;ahref='https://community。bistudio。com/wiki/Arma_3_Analytics'&gt;欲知道更多分析的事，請上我們官方維基查詢&lt;/a&gt;</Chinese>
-        <Chinesesimp>我们对于玩家%3怎样游玩Arma3%4非常有兴趣，因为这能让我们知道该如何使游戏更加完整。分析工具将会将玩家的信息打包成%3匿名资料%4，告诉我们玩家挂载什么模组，哪些模组最受欢迎，难度选项设定，画面设定等等资料。有了这些回馈资料，我们就能更快更好的改善游戏。而你要做的事就只有%3玩游戏%4而已。%1%1&lt;ahref='https://community。bistudio。com/wiki/Arma_3_Analytics'&gt;欲知道更多分析的事，请上我们官方维基查询&lt;/a&gt;</Chinesesimp>
+        <Chinesesimp>我们对于玩家%3怎样游玩武装突袭3%4非常有兴趣，因为这能让我们知道该如何使游戏更加完整。分析工具将会将玩家的信息打包成%3匿名资料%4，告诉我们玩家挂载什么模组，哪些模组最受欢迎，难度选项设定，画面设定等等资料。有了这些回馈资料，我们就能更快更好的改善游戏。而你要做的事就只有%3玩游戏%4而已。%1%1&lt;ahref='https://community。bistudio。com/wiki/Arma_3_Analytics'&gt;欲知道更多分析的事，请上我们官方维基查询&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_steamleaderboards_displayName">
         <Original>Steam Leaderboards</Original>
@@ -806,7 +806,7 @@
       <Key ID="str_a3_cfghints_edenupdate_font_displayName">
         <Original>Font</Original>
         <Chinese>字型</Chinese>
-        <Chinesesimp>字型</Chinesesimp>
+        <Chinesesimp>字体</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_combataudio_displayName">
         <Original>Combat Audio</Original>
@@ -831,17 +831,17 @@
       <Key ID="str_a3_cfghints_edenupdate_edenupdate_description">
         <Original>Our focus for Eden Update was on bringing %3scenario editing%4 forward in a big way. Many other exciting improvements to the core user experience were included as well:%1%2Combat Audio%1%2Launcher-Based Server Browser%1%2Font%1%2Analytics%1%2Steam Leaderboards%1%2Scripted System Optimizations%1%2Parallax Ground Surfaces%1%1&lt;a href='http://www.arma3.com/eden'&gt;More about Eden Update&lt;/a&gt;</Original>
         <Chinese>在此次伊甸更新中，我們為%3任務編輯%4帶來了重大改變。也包括許多令人興奮的特色:%1%2交戰音效%1%2遊戲啟動器上的伺服器瀏覽器%1%2字型%1%2分析%1%2Steam排行榜%1%2腳本系統優化%1%2表面凹凸優化%1%1&lt;ahref='http://www。arma3。com/eden'&gt;更多資訊請見官方網站&lt;/a&gt;</Chinese>
-        <Chinesesimp>在此次伊甸更新中，我们为%3任务编辑%4带来了重大改变。也包括许多令人兴奋的特色:%1%2交战音效%1%2游戏启动器上的服务器浏览器%1%2字型%1%2分析%1%2Steam排行榜%1%2脚本系统优化%1%2表面凹凸优化%1%1&lt;ahref='http://www。arma3。com/eden'&gt;更多资讯请见官方网站&lt;/a&gt;</Chinesesimp>
+        <Chinesesimp>在此次伊甸更新中，我们为%3任务编辑%4带来了重大改变。也包括许多令人兴奋的特色:%1%2交战音效%1%2游戏启动器上的服务器浏览器%1%2字体%1%2分析%1%2Steam排行榜%1%2脚本系统优化%1%2表面凹凸优化%1%1&lt;ahref='http://www。arma3。com/eden'&gt;更多信息请见官方网站&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_font_description">
         <Original>We've changed Arma 3's font for a more %3legible one%4 - in-game, in our Launcher and on our &lt;a href='https://arma3.com/'&gt;website&lt;/a&gt;. In addition, we've improved our font rendering technology for better %3kerning%4 of characters.</Original>
         <Chinese>我們改變了ArmA3的字型，使其更加%3清晰%4，而遊戲啟動器與&lt;ahref='https://arma3。com/'&gt;官方網站&lt;/a&gt;也同步更改為相同字體。此外，我們也改進了字型的渲染技術，使%3字距%4更加舒適。</Chinese>
-        <Chinesesimp>我们改变了Arma3的字型，使其更加%3清晰%4，而游戏启动器与&lt;ahref='https://arma3。com/'&gt;官方网站&lt;/a&gt;也同步更改为相同字体。此外，我们也改进了字型的渲染技术，使%3字距%4更加舒适。</Chinesesimp>
+        <Chinesesimp>我们改变了武装突袭3的字体，使其更加%3清晰%4，而游戏启动器与&lt;ahref='https://arma3。com/'&gt;官方网站&lt;/a&gt;也同步更改为相同字体。此外，我们也改进了字体的渲染技术，使%3字距%4更加舒适。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_launcherserverbrowser_description">
         <Original>&lt;img size='9' shadow='0' image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa' /&gt;%1The game's official Launcher now contains a server browser that offers greater functionality and usability as compared to its in-game counterpart. Players can skip the main menu and jump straight into a session.%1%2%3Filtering%4 - effectively find a server matching your preferences.%1%2%3&lt;a href='http://steamcommunity.com/workshop/browse/?appid=107410'&gt;Workshop Mod Support%4&lt;/a&gt; - let the Launcher automatically resolve dependencies required by properly configured servers.%1%1&lt;a href='https://dev.arma3.com/post/oprep-the-future-of-server-browsing'&gt;More about the Launcher Server Browser&lt;/a&gt;</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa'/&gt;%1官方遊戲啟動器現在包含了內建的伺服器瀏覽器，此瀏覽器的功能與遊戲裡的一模一樣。玩家可藉由這個瀏覽器來選擇欲加入的伺服器，使遊戲開啟後直接跳過主選單並直接進入該伺服器。%1%2%3篩選器%4-讓你更快找到符合你期望的伺服器。%1%2%3&lt;ahref='http://steamcommunity。com/workshop/browse/?appid=107410'&gt;支援工作坊模組%4&lt;/a&gt;-啟動器將會自動幫你比對伺服器與你的模組掛載狀況，使您加入伺服器無負擔。%1%1&lt;ahref='https://dev。arma3。com/post/oprep-the-future-of-server-browsing'&gt;更多資訊請見官方網站&lt;/a&gt;</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa'/&gt;%1官方游戏启动器现在包含了内建的服务器浏览器，此浏览器的功能与游戏里的一模一样。玩家可藉由这个浏览器来选择欲加入的服务器，使游戏开启后直接跳过主选单并直接进入该服务器。%1%2%3筛选器%4-让你更快找到符合你期望的服务器。%1%2%3&lt;ahref='http://steamcommunity。com/workshop/browse/?appid=107410'&gt;支援创意工坊模组%4&lt;/a&gt;-启动器将会自动帮你比对服务器与你的模组挂载状况，使您加入服务器无担忧。%1%1&lt;ahref='https://dev。arma3。com/post/oprep-the-future-of-server-browsing'&gt;更多资讯请见官方网站&lt;/a&gt;</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='\a3\Data_F_Exp_B\Data\FM_LEARN_LauncherServerBrowser_ca.paa'/&gt;%1官方游戏启动器现在包含了内置的服务器浏览器，此浏览器的功能与游戏里的一模一样。玩家可藉由这个浏览器来选择欲加入的服务器，使游戏开启后直接跳过主菜单并直接进入该服务器。%1%2%3筛选器%4-让你更快找到符合你期望的服务器。%1%2%3&lt;ahref='http://steamcommunity。com/workshop/browse/?appid=107410'&gt;支援创意工坊模组%4&lt;/a&gt;-启动器将会自动帮你比对服务器与你的模组挂载状况，使您加入服务器无担忧。%1%1&lt;ahref='https://dev。arma3。com/post/oprep-the-future-of-server-browsing'&gt;更多资讯请见官方网站&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_steamleaderboards_description">
         <Original>You can now %3compete%4 with your friends in the game's %3Firing Drill%4 and %3Time Trial Challenges%4. These modes will log your best competitive times onto &lt;a href='http://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam Leaderboards&lt;/a&gt;. Compare your performance to your own friends or the best competitors in the world!</Original>

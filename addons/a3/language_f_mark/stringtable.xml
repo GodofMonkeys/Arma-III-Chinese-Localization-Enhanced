@@ -304,7 +304,7 @@
         </Key>
         <Key ID="str_a3_rscdisplaygarage_buttonrandom_tooltip">
           <Original>Select a random vehicle (Ctrl + R)</Original>
-          <Chinese>選擇一台隨機載具(Ctrl+R)</Chinese>
+          <Chinese>選擇一臺隨機載具(Ctrl+R)</Chinese>
           <Chinesesimp>选择一台随机载具(Ctrl+R)</Chinesesimp>
         </Key>
         <Key ID="str_a3_rscdisplaygarage_buttonsave_tooltip">
@@ -328,7 +328,7 @@
       <Key ID="STR_A3_weaponPrevMsg_Karts">
         <Original>This weapon is part of Karts DLC. Purchase it to use this weapon.</Original>
         <Chinese>此武器屬於卡丁車資料片。購買後才能使用。</Chinese>
-        <Chinesesimp>此武器属于卡丁车DLC。购买后才能使用。</Chinesesimp>
+        <Chinesesimp>此武器属于卡丁车资料片。购买后才能使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark_singleplayer_dlcbvr1">
         <Original>3 new VR courses to master weapon handling.</Original>
@@ -338,12 +338,12 @@
       <Key ID="STR_A3_weaponPrevMsg_Mark">
         <Original>This weapon is part of Marksmen DLC. Purchase it to use this weapon.</Original>
         <Chinese>此武器屬於精準射手資料片。購買後才能使用。</Chinese>
-        <Chinesesimp>此武器属于精准射手DLC。购买后才能使用。</Chinesesimp>
+        <Chinesesimp>此武器属于精准射手资料片。购买后才能使用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_weaponPrevMsg_Heli">
         <Original>This weapon is part of Helicopters DLC. Purchase it to use this weapon.</Original>
         <Chinese>此武器屬於直升機資料片。購買後才能使用。</Chinese>
-        <Chinesesimp>此武器属于直升机DLC。购买后才能使用。</Chinesesimp>
+        <Chinesesimp>此武器属于直升机资料片。购买后才能使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark_singleplayer_dlcbvr0">
         <Original>VR Training</Original>
@@ -407,7 +407,7 @@
       </Key>
       <Key ID="str_a3_cfgmods_mark_assets_dlcbremotedesignator0">
         <Original>Remote-controlled laser designator turret on a retractable stick. Comes packed in a small backpack.</Original>
-        <Chinese>一台裝在棍子上的遙控雷射指示器。可拆解裝進小背包來攜帶。</Chinese>
+        <Chinese>一臺裝在棍子上的遙控雷射指示器。可拆解裝進小背包來攜帶。</Chinese>
         <Chinesesimp>一台装在伸缩杆上的遥控激光指示器。可拆解装进小背包来携带。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark_assets_dlcbheavyvest0">
@@ -433,37 +433,37 @@
       <Key ID="str_a3_cfgmods_mark7">
         <Original>This vehicle is part of Marksmen DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此載具屬於精準射手資料片。購買後才能使用。</Chinese>
-        <Chinesesimp>此载具属于精准射手DLC。购买后才能使用。</Chinesesimp>
+        <Chinesesimp>此载具属于精准射手资料片。购买后才能使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark6">
         <Original>This vehicle is part of Marksmen DLC. Purchase it to enter this vehicle as crew.</Original>
         <Chinese>此載具屬於精準射手資料片。購買後才能使用。</Chinese>
-        <Chinesesimp>此载具属于精准射手DLC。购买后才能使用。</Chinesesimp>
+        <Chinesesimp>此载具属于精准射手资料片。购买后才能使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark5">
         <Original>Arma 3 Marksmen</Original>
         <Chinese>ArmA3精準射手</Chinese>
-        <Chinesesimp>Arma3精准射手</Chinesesimp>
+        <Chinesesimp>武装突袭3精准射手</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark3">
         <Original>Hone your shooting skills and engage in ranged combat with the seven new weapons in the Arma 3 Marksmen DLC.</Original>
         <Chinese>使用新增的7把武器，在ArmA3精準射手資料片中磨練你的射擊技巧。</Chinese>
-        <Chinesesimp>使用新增的7把武器，在Arma3精准射手DLC中磨练你的射击技巧。</Chinesesimp>
+        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手资料片中磨练你的射击技巧。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark2">
         <Original>Arma 3 Marksmen</Original>
         <Chinese>ArmA3精準射手</Chinese>
-        <Chinesesimp>Arma3精准射手</Chinesesimp>
+        <Chinesesimp>武装突袭3精准射手</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark1">
         <Original>Arma 3 Marksmen DLC now available. Click to purchase</Original>
         <Chinese>ArmA3精準射手資料片現在已上市。請點選購買</Chinese>
-        <Chinesesimp>Arma3精准射手DLC现在已上市。请点选购买</Chinesesimp>
+        <Chinesesimp>武装突袭3精准射手资料片现在已上市。请点选购买</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgMods_dronePrevNotifText_Mark">
         <Original>This content is part of Marksmen DLC. Purchase it to control this drone.</Original>
         <Chinese>此內容屬於精準射手資料片。購買後才能使用。</Chinese>
-        <Chinesesimp>此内容属于精准射手DLC。购买后才能使用。</Chinesesimp>
+        <Chinesesimp>此内容属于精准射手资料片。购买后才能使用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Mark_Assets_DLCBScope020">
         <Original>Designated marksman scope with a mil-dot reticle and stronger zoom, recommended for NATO and CTRG marksman rifles. </Original>
@@ -473,12 +473,12 @@
       <Key ID="STR_A3_cfgmods_overviewfootnote_mark">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Marksmen DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
         <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於ArmA3精準射手資料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟商店頁面讀取更多訊息。&lt;t/&gt;</Chinese>
-        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于Arma3精准射手DLC。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启商店页面读取更多信息。&lt;t/&gt;</Chinesesimp>
+        <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3精准射手资料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启商店页面读取更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgmods_popupMsgText_Mark">
         <Original>You are using premium content. Purchase Arma 3 Marksmen to remove the message.</Original>
         <Chinese>你正在使用付費內容。想移除該訊息請先購買ArmA3精準射手資料片。</Chinese>
-        <Chinesesimp>你正在使用付费内容。想移除该讯息请先购买Arma3精准射手DLC。</Chinesesimp>
+        <Chinesesimp>你正在使用付费内容。想移除该讯息请先购买武装突袭3精准射手资料片。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Missions_F">
@@ -725,12 +725,12 @@
       <Key ID="str_a3_cfghints_premiumcontent_premiummark1">
         <Original>Hone your shooting skills and engage in ranged combat with the seven new weapons in the Arma 3 Marksmen DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa' /&gt;%1%2&lt;t&gt;&lt;\t&gt;Weapon: Cyrus 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk14 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: ASP-1 Kir 12.7 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: SPMG .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Navid 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk-I EMR 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Character: Sniper - with a new full ghillie suit%1%2&lt;t&gt;&lt;\t&gt;Character: Grenadier - with a new heavy vest%1%2&lt;t&gt;&lt;\t&gt;3 Singleplayer Firing Drills%1%2&lt;t&gt;&lt;\t&gt;End Game - a team based multiplayer mode%1%2&lt;t&gt;&lt;\t&gt;Showcase Firing From Vehicles%1%2&lt;t&gt;&lt;\t&gt;Showcase Marksmen%1%2&lt;t&gt;&lt;\t&gt;VR Training courses%1%2&lt;t&gt;&lt;\t&gt;Remote Designators%1%2&lt;t&gt;&lt;\t&gt;Laser Designators%1%2&lt;t&gt;&lt;\t&gt;Facepaints - 9 faces with camouflage%1%2&lt;t&gt;&lt;\t&gt;Kahlia Scope%1%2&lt;t&gt;&lt;\t&gt;AMS Scope%1%2&lt;t&gt;&lt;\t&gt;Weapon Accessories%1%2&lt;t&gt;&lt;\t&gt;Firing Drills Decorative Objects%1%2&lt;t&gt;&lt;\t&gt;Set of extra Steam Achievements%1&lt;t&gt;&lt;\t&gt;</Original>
         <Chinese>使用新增的7把武器，在ArmA3精準射手資料片中磨練你的射擊技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:Cyrus9.3mm%1%2&lt;t&gt;&lt;\t&gt;武器:Mk147.62mm%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1Kir12。7mm%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG。338%1%2&lt;t&gt;&lt;\t&gt;武器:Navid9.3mm%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10。338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-IEMR7.62mm%1%2&lt;t&gt;&lt;\t&gt;角色:狙擊手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴彈兵-有著新的防彈背心%1%2&lt;t&gt;&lt;\t&gt;3個新的射擊訓練%1%2&lt;t&gt;&lt;\t&gt;終戰-一個新的多人遊戲模式%1%2&lt;t&gt;&lt;\t&gt;任務展示-從載具中射擊%1%2&lt;t&gt;&lt;\t&gt;任務展示-精準射手%1%2&lt;t&gt;&lt;\t&gt;虛擬訓練課程%1%2&lt;t&gt;&lt;\t&gt;遙控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;臉譜-9張新的迷彩臉譜%1%2&lt;t&gt;&lt;\t&gt;Kahlia瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;先進精準射手瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射擊訓練物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinese>
-        <Chinesesimp>使用新增的7把武器，在Arma3精准射手DLC中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:Cyrus9.3mm%1%2&lt;t&gt;&lt;\t&gt;武器:Mk147.62mm%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1Kir12。7mm%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG。338%1%2&lt;t&gt;&lt;\t&gt;武器:Navid9.3mm%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10。338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-IEMR7.62mm%1%2&lt;t&gt;&lt;\t&gt;角色:狙击手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴弹兵-有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战-一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示-从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示-精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;Kahlia瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
+        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手资料片中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:Cyrus 9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1Kir 12。7毫米%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG。338%1%2&lt;t&gt;&lt;\t&gt;武器:Navid 9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10。338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-IEMR 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;角色:狙击手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴弹兵-有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战-一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示-从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示-精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;Kahlia瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiummark0">
         <Original>Marksmen DLC</Original>
         <Chinese>精準射手資料片</Chinese>
-        <Chinesesimp>精准射手DLC</Chinesesimp>
+        <Chinesesimp>精准射手资料片</Chinesesimp>
       </Key>
       <Key ID="STR_A3_TargetLeading1">
         <Original>Leading Targets</Original>
@@ -820,7 +820,7 @@
       <Key ID="STR_A3_Flashlight2">
         <Original>Flashlights can be mounted on the rails belonging to certain weapons. They help shooters during night operations if they lack night vision. On the other hand, they also give away the shooter's position.%1%2To activate the flashlight, press %11</Original>
         <Chinese>戰術燈能被安裝在ㄧ些設有戰術滑軌的武器上。它們可以幫助缺乏夜視鏡的射手在夜間執行任務。相反來說，它們也會容易暴露射手的當前位置。%1%2按下%11即可開/關戰術燈</Chinese>
-        <Chinesesimp>战术灯能被安装在ㄧ些设有战术滑轨的武器上。它们可以帮助缺乏夜视镜的射手在夜间执行任务。相对来说，它们也会容易暴露射手的当前位置。%1%2按下%11即可开/关战术灯</Chinesesimp>
+        <Chinesesimp>战术灯能被安装在一些设有战术滑轨的武器上。它们可以帮助缺乏夜视镜的射手在夜间执行任务。相对来说，它们也会容易暴露射手的当前位置。%1%2按下%11即可开/关战术灯</Chinesesimp>
       </Key>
       <Key ID="STR_A3_LaserPointer1">
         <Original>Laser Pointer</Original>
@@ -830,7 +830,7 @@
       <Key ID="STR_A3_LaserPointer2">
         <Original>Laser pointers can be attached to certain weapons' side rails. When activated by %11, the laser can be seen via night vision and indicates the exact position that the weapon's barrel is pointing at.%1%1However, if the enemy is also equipped with night vision, the laser may give away the position of the shooter.</Original>
         <Chinese>雷射指示器能被安裝在ㄧ些設有側邊戰術滑軌的武器上。使用%11來開啟它，便能透過夜視鏡觀察武器的指向。%1%1然而，假如敵人也有夜視鏡的話，雷射指示器反而會暴露出射手的當前位置。</Chinese>
-        <Chinesesimp>激光指示器能被安装在ㄧ些设有侧边战术滑轨的武器上。使用%11来开启它，便能通过夜视镜观察武器的指向。%1%1然而，假如敌人也有夜视镜的话，激光指示器反而会暴露出射手的当前位置。</Chinesesimp>
+        <Chinesesimp>激光指示器能被安装在一些设有侧边战术滑轨的武器上。使用%11来开启它，便能通过夜视镜观察武器的指向。%1%1然而，假如敌人也有夜视镜的话，激光指示器反而会暴露出射手的当前位置。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MilDot1">
         <Original>Mil-Dots</Original>
@@ -1057,7 +1057,7 @@
         <Key ID="str_a3_cfgmagazines_130rnd_338_mag0">
           <Original>.338 NM 130Rnd Belt</Original>
           <Chinese>。338NM130發彈鏈</Chinese>
-          <Chinesesimp>。338NM130发弹链</Chinesesimp>
+          <Chinesesimp>。338NM 130发弹链</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_93x64_dmr_05_mag1">
           <Original>Caliber: 9.3x64mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Cyrus</Original>
@@ -1077,7 +1077,7 @@
         <Key ID="str_a3_cfgmagazines_10rnd_338_mag0">
           <Original>.338 LM 10Rnd Mag</Original>
           <Chinese>。338LM10發彈匣</Chinese>
-          <Chinesesimp>。338LM10发弹匣</Chinesesimp>
+          <Chinesesimp>。338LM 10发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_127x54_mag1">
           <Original>Caliber: 12.7x54 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: ASP-1 Kir</Original>
@@ -1094,7 +1094,7 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_06_olive_f0">
           <Original>Mk14 7.62 mm (Olive)</Original>
           <Chinese>Mk147.62mm(橄欖色)</Chinese>
-          <Chinesesimp>Mk147.62毫米(橄榄色)</Chinesesimp>
+          <Chinesesimp>Mk14 7.62毫米(橄榄色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_06_camo_f_library0">
           <Original>The Mk14 is a classic battle rifle used in service since the sixties. It is a selective fire automatic rifle that fires the 7.62x51 mm NATO ammunition. Mk14 was replaced by advanced modern variants like Mk18 ABR, but thanks to its low cost, simple construction, and reliability, it is still used in several countries.</Original>
@@ -1109,7 +1109,7 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_06_camo_f0">
           <Original>Mk14 7.62 mm (Camo)</Original>
           <Chinese>Mk147.62mm(迷彩)</Chinese>
-          <Chinesesimp>Mk147.62毫米(迷彩)</Chinesesimp>
+          <Chinesesimp>Mk14 7.62毫米(迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_tan_f0">
           <Original>Cyrus 9.3 mm (Tan)</Original>
@@ -1162,22 +1162,22 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_woodland_f0">
           <Original>Mk-I EMR 7.62 mm (Woodland)</Original>
           <Chinese>Mk-IEMR7.62mm(森林迷彩)</Chinese>
-          <Chinesesimp>Mk-IEMR7.62毫米(森林迷彩)</Chinesesimp>
+          <Chinesesimp>Mk-IEMR 7.62毫米(森林迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_tan_f0">
           <Original>Mk-I EMR 7.62 mm (Sand)</Original>
           <Chinese>Mk-IEMR7.62mm(沙色)</Chinese>
-          <Chinesesimp>Mk-IEMR7.62毫米(沙色)</Chinesesimp>
+          <Chinesesimp>Mk-IEMR 7.62毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_multicam_f0">
           <Original>Mk-I EMR 7.62 mm (Camo)</Original>
           <Chinese>Mk-IEMR7.62mm(迷彩)</Chinese>
-          <Chinesesimp>Mk-IEMR7.62毫米(迷彩)</Chinesesimp>
+          <Chinesesimp>Mk-IEMR 7.62毫米(迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_khaki_f0">
           <Original>Mk-I EMR 7.62 mm (Khaki)</Original>
           <Chinese>Mk-IEMR7.62mm(卡其色)</Chinese>
-          <Chinesesimp>Mk-IEMR7.62毫米(卡其色)</Chinesesimp>
+          <Chinesesimp>Mk-IEMR 7.62毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_f_library0">
           <Original>The Mk-I EMR (Enhanced Marksman Rifle) is a modern marksman rifle chambered in 7.62 mm NATO. It is a light, reliable, and easily serviceable weapon, which can benefit from various attachments. The EMR offers single and full auto fire modes and it is most suited to ranges from 600 to 800 m.</Original>
@@ -1192,12 +1192,12 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_f0">
           <Original>Mk-I EMR 7.62 mm (Black)</Original>
           <Chinese>Mk-IEMR7.62mm(黑色)</Chinese>
-          <Chinesesimp>Mk-IEMR7.62毫米(黑色)</Chinesesimp>
+          <Chinesesimp>Mk-IEMR 7.62毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_sniper_f0">
           <Original>MAR-10 .338 (Sand)</Original>
           <Chinese>MAR-10。338(沙色)</Chinese>
-          <Chinesesimp>MAR-10。338(沙色)</Chinesesimp>
+          <Chinesesimp>MAR-10 。338(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_f_library0">
           <Original>The MAR-10 is a powerful marksman weapon used by CTRG forces. This semi-automatic rifle is chambered in .338 Lapua Magnum. With its 66 cm long barrel and 4.4 kg weight, MAR-10 isn't easy to handle, but high power and extreme precision with effective range up to 1700 m compensate it.</Original>
@@ -1212,17 +1212,17 @@
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_f0">
           <Original>MAR-10 .338 (Black)</Original>
           <Chinese>MAR-10。338(黑色)</Chinese>
-          <Chinesesimp>MAR-10。338(黑色)</Chinesesimp>
+          <Chinesesimp>MAR-10 。338(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_camo_f0">
           <Original>MAR-10 .338 (Camo)</Original>
           <Chinese>MAR-10。338(迷彩)</Chinese>
-          <Chinesesimp>MAR-10。338(迷彩)</Chinesesimp>
+          <Chinesesimp>MAR-10 。338(迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_06_base_f0">
           <Original>Mk14 7.62 mm</Original>
           <Chinese>Mk147.62mm</Chinese>
-          <Chinesesimp>Mk147.62毫米</Chinesesimp>
+          <Chinesesimp>Mk14 7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_05_base_f0">
           <Original>Cyrus 9.3 mm</Original>
@@ -1237,12 +1237,12 @@
         <Key ID="str_a3_cfgweapons_dmr_03_base_f0">
           <Original>Mk-I EMR 7.62 mm</Original>
           <Chinese>Mk-IEMR7.62mm</Chinese>
-          <Chinesesimp>Mk-IEMR7.62毫米</Chinesesimp>
+          <Chinesesimp>Mk-IEMR 7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_02_base_f0">
           <Original>MAR-10 .338</Original>
           <Chinese>MAR-10。338</Chinese>
-          <Chinesesimp>MAR-10。338</Chinesesimp>
+          <Chinesesimp>MAR-10 。338</Chinesesimp>
         </Key>
       </Container>
       <Container name="Machineguns">
@@ -1315,12 +1315,12 @@
       <Key ID="str_a3_cfgmusic_leadtrack02_f_mark">
         <Original>Marksmen DLC: Lead Track 02 (Into the Sun)</Original>
         <Chinese>精準射手資料片:主音軌02(進入太陽)</Chinese>
-        <Chinesesimp>精准射手DLC:主音轨02(进入太阳)</Chinesesimp>
+        <Chinesesimp>精准射手资料片:主音轨02(进入太阳)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack03_f_mark">
         <Original>Marksmen DLC: Lead Track 03 (Marksmen)</Original>
         <Chinese>精準射手資料片:主音軌03(精準射手)</Chinese>
-        <Chinesesimp>精准射手DLC:主音轨03(精准射手)</Chinesesimp>
+        <Chinesesimp>精准射手资料片:主音轨03(精准射手)</Chinesesimp>
       </Key>
     </Container>
     <Container name="Static_F">
@@ -1364,7 +1364,7 @@
       <Key ID="STR_A3_Achievements_Mark_FD_01">
         <Original>Finished any official Marksmen Firing Drill without resting or deploying your weapon (competitive rules).</Original>
         <Chinese>完成任何精準射手資料片的射擊訓練，途中沒有重新開始和佈署武器(競賽規則)。</Chinese>
-        <Chinesesimp>完成任何精准射手DLC的射击训练，途中没有重新开始和架设武器(竞赛规则)。</Chinesesimp>
+        <Chinesesimp>完成任何精准射手资料片的射击训练，途中没有重新开始和架设武器(竞赛规则)。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Achievements_Mark_Snd_01">
         <Original>Deployed any weapon for the first time.</Original>
@@ -1384,12 +1384,12 @@
       <Key ID="STR_A3_Achievements_Mark_Snd_02">
         <Original>Tried all 7 Marksmen DLC weapons.</Original>
         <Chinese>嘗試過7把精準射手資料片的武器。</Chinese>
-        <Chinesesimp>尝试过7把精准射手DLC的武器。</Chinesesimp>
+        <Chinesesimp>尝试过7把精准射手资料片的武器。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Achievements_Mark_FD_02">
         <Original>Finished any official Firing Drill by hitting all targets and spending no more than a single round per target.</Original>
         <Chinese>完成任何精準射手資料片的射擊訓練，途中要擊中所有目標，並不浪費任何一秒鐘。</Chinese>
-        <Chinesesimp>完成任何精准射手DLC的射击训练，途中要击中所有目标，并不浪费任何一秒钟。</Chinesesimp>
+        <Chinesesimp>完成任何精准射手资料片的射击训练，途中要击中所有目标，并不浪费任何一秒钟。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Achievements_Mark_FD_02_Title">
         <Original>Conservative Sharpshooter</Original>
@@ -1521,7 +1521,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list4_title">
         <Original>Mk14 7.62 mm</Original>
         <Chinese>Mk147.62mm</Chinese>
-        <Chinesesimp>Mk147.62毫米</Chinesesimp>
+        <Chinesesimp>Mk14 7.62毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list4">
         <Original>FIA medium power marksman rifle</Original>
@@ -1531,7 +1531,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list3_title">
         <Original>Mk-I EMR 7.62 mm</Original>
         <Chinese>Mk-IEMR7.62mm</Chinese>
-        <Chinesesimp>Mk-IEMR7.62毫米</Chinesesimp>
+        <Chinesesimp>Mk-IEMR 7.62毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list3">
         <Original>NATO medium power marksman rifle</Original>
@@ -1541,7 +1541,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list2_title">
         <Original>MAR-10 .338</Original>
         <Chinese>MAR-10。338</Chinese>
-        <Chinesesimp>MAR-10。338</Chinesesimp>
+        <Chinesesimp>MAR-10 。338</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list25_title">
         <Original>Achievements</Original>
@@ -1726,7 +1726,7 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_pard">
         <Original>Go over all of the premium content and platform additions that Arma 3 Marksmen offers:</Original>
         <Chinese>查看所有ArmA3精準射手所提供的好康:</Chinese>
-        <Chinesesimp>查看所有Arma3精准射手所提供的内容:</Chinesesimp>
+        <Chinesesimp>查看所有武装突袭3精准射手所提供的内容:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parc_list6_title">
         <Original>Weapon Stabilization</Original>
@@ -1786,32 +1786,32 @@
       <Key ID="str_a3_rscdisplaywelcome_mark_parc_list1">
         <Original>Benefit from a passive bonus to your accuracy while your weapon or arms are near any stable surface.</Original>
         <Chinese>透過固定的平面，你將可以穩定住槍枝。</Chinese>
-        <Chinesesimp>透过固定的平面，你将可以稳定住枪枝。</Chinesesimp>
+        <Chinesesimp>通过固定的平面，你将可以稳定住枪支。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parc">
         <Original>We remain committed to bringing new features to every Arma 3 player. The following sandbox improvements have been requested for a long time and they are finally here!</Original>
         <Chinese>我們將繼續致力於開發新功能給所有的ArmA3玩家。以下新增的功能都是長久以來玩家所要求的，現在它們終於成真了!</Chinese>
-        <Chinesesimp>我们将继续致力于开发新功能给所有的Arma3玩家。以下新增的功能都是长久以来玩家所要求的，现在它们终于成真了!</Chinesesimp>
+        <Chinesesimp>我们将继续致力于开发新功能给所有的武装突袭3玩家。以下新增的功能都是长久以来玩家所要求的，现在它们终于成真了!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parb_footer">
         <Original>More about Arma 3 Marksmen</Original>
         <Chinese>更多關於ArmA3精準射手</Chinese>
-        <Chinesesimp>更多关于Arma3精准射手</Chinesesimp>
+        <Chinesesimp>更多关于武装突袭3精准射手</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parb2">
         <Original>With this release, our goal was to improve medium to long range infantry combat and provide the appropriate tools, be it marksman rifles or medium machine guns. A mix of playable content brings the new gear and features together, to demonstrate how it changes your tactics on the battlefield. Should you not yet be convinced about the package, boot up the VR Arsenal mode to try all premium DLC assets without restrictions.</Original>
         <Chinese>這次更新中，我們的目標是提升中/長距離的步兵交戰體驗，並提供相關的工具像是精準射手步槍或中型機槍等。透過這些裝備與內容，你將可以改變你在戰場上的戰術。假如你還不心動的話，趕緊開啟虛擬軍火庫，你將可以免費試用所有新增的裝備。</Chinese>
-        <Chinesesimp>这次更新中，我们的目标是提升中/长距离的步兵交战体验，并提供相关的工具像是精准射手步枪或中型机枪等。透过这些装备与内容，你将可以改变你在战场上的战术。假如你还不心动的话，赶紧开启虚拟军火库，你将可以免费试用所有新增的装备。</Chinesesimp>
+        <Chinesesimp>这次更新中，我们的目标是提升中/长距离的步兵交战体验，并提供相关的工具像是精准射手步枪或中型机枪等。通过这些装备与内容，你将可以改变你在战场上的战术。假如你还不心动的话，赶紧开启虚拟军火库，你将可以免费试用所有新增的装备。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parb">
         <Original>In line with our established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;, Arma 3 Marksmen is another premium content pack, supported by a free platform update. Owners will gain unrestricted access to &lt;t color='%1'&gt;7 new weapons, 2 new scopes, remote designators and ghillie suits&lt;/t&gt;. By purchasing the DLC you also support our further development of the Arma 3 platform for everyone!</Original>
-        <Chinese>在我們的&lt;ahref='%3'color='%2'&gt;資料片計劃&lt;/a&gt;中，ArmA3精準射手是另一個可購買的資料片，並且會透過更新來開放給大家。購買者將會擁有&lt;tcolor='%1'&gt;7把新武器，2個新瞄準鏡，遙控指示器與全身吉利服&lt;/t&gt;。透過購買本資料片，你將幫助我們繼續發展ArmA3這個遊戲平台!</Chinese>
-        <Chinesesimp>在我们的&lt;ahref='%3'color='%2'&gt;DLC计划&lt;/a&gt;中，Arma3精准射手是另一个可购买的DLC，并且会通过更新来开放给大家。购买者将会拥有&lt;tcolor='%1'&gt;7把新武器，2个新瞄准镜，遥控指示器与全身吉利服&lt;/t&gt;。通过购买本DLC，你将帮助我们继续发展Arma3这个游戏平台!</Chinesesimp>
+        <Chinese>在我們的&lt;ahref='%3'color='%2'&gt;資料片計劃&lt;/a&gt;中，ArmA3精準射手是另一個可購買的資料片，並且會透過更新來開放給大家。購買者將會擁有&lt;tcolor='%1'&gt;7把新武器，2個新瞄準鏡，遙控指示器與全身吉利服&lt;/t&gt;。透過購買本資料片，你將幫助我們繼續發展ArmA3這個遊戲平臺!</Chinese>
+        <Chinesesimp>在我们的&lt;ahref='%3'color='%2'&gt;资料片计划&lt;/a&gt;中，武装突袭3精准射手是另一个可购买的资料片，并且会通过更新来开放给大家。购买者将会拥有&lt;tcolor='%1'&gt;7把新武器，2个新瞄准镜，遥控指示器与全身吉利服&lt;/t&gt;。通过购买本资料片，你将帮助我们继续发展武装突袭3这个游戏平台!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_para">
         <Original>Bipods! We've released the &lt;t color='%1'&gt;Arma 3 Marksmen DLC&lt;/t&gt;, bringing shooting gameplay to the next level. Owners can look forward to playing with powerful new gunnery options, but this update also elevates the gun-play experience for everyone. Read on to learn what hugely anticipated features we've added, and what range of content you get to explore. Now, stabilize your weapons, take aim and master your sharpshooting skills!</Original>
         <Chinese>大家好!我們很榮幸推出了&lt;tcolor='%1'&gt;ArmA3精準射手資料片&lt;/t&gt;，帶領射擊體驗到一個新的層次。購買者可以擁有新加入的武器與配件，但射擊系統的調整是開放給所有玩家的。讀取以下說明，你將可了解我們新增了哪些功能。現在，讓我們一起成為頂尖的精準射手吧!</Chinese>
-        <Chinesesimp>大家好!我们很荣幸推出了&lt;tcolor='%1'&gt;ArmA3精准射手DLC&lt;/t&gt;，带领射击体验到一个新的层次。购买者可以拥有新加入的武器与配件，但射击系统的调整是开放给所有玩家的。读取以下说明，你将可了解我们新增了哪些功能。现在，让我们一起成为顶尖的精准射手吧!</Chinesesimp>
+        <Chinesesimp>大家好!我们很荣幸推出了&lt;tcolor='%1'&gt;武装突袭3精准射手资料片&lt;/t&gt;，带领射击体验到一个新的层次。购买者可以拥有新加入的武器与配件，但射击系统的调整是开放给所有玩家的。读取以下说明，你将可了解我们新增了哪些功能。现在，让我们一起成为顶尖的精准射手吧!</Chinesesimp>
       </Key>
     </Container>
     <Container name="VhC">
@@ -2008,7 +2008,7 @@
       <Key ID="str_a3_texturesources_bluecustom0">
         <Original>Blue Custom</Original>
         <Chinese>自訂藍色</Chinese>
-        <Chinesesimp>自订蓝色</Chinesesimp>
+        <Chinesesimp>自定义蓝色</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_blue0">
         <Original>Blue</Original>
@@ -2023,7 +2023,7 @@
       <Key ID="str_a3_texturesources_blackcustom0">
         <Original>Black Custom</Original>
         <Chinese>自訂黑色</Chinese>
-        <Chinesesimp>自订黑色</Chinesesimp>
+        <Chinesesimp>自定义黑色</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_black0">
         <Original>Black</Original>
@@ -2033,7 +2033,7 @@
       <Key ID="str_a3_texturesources_beigecustom0">
         <Original>Beige Custom</Original>
         <Chinese>自訂米白色</Chinese>
-        <Chinesesimp>自订米白色</Chinesesimp>
+        <Chinesesimp>自定义米白色</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_beige0">
         <Original>Beige</Original>
@@ -2333,7 +2333,7 @@
       <Key ID="str_a3_c_offroad_01_bluecustom_f0">
         <Original>Offroad (Blue Custom)</Original>
         <Chinese>越野皮卡貨車(自訂藍色)</Chinese>
-        <Chinesesimp>越野皮卡货车(自订蓝色)</Chinesesimp>
+        <Chinesesimp>越野皮卡货车(自定义蓝色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_kart_01_yellow_f0">
         <Original>Kart (Yellow)</Original>
@@ -2423,7 +2423,7 @@
       <Key ID="str_a3_c_hatchback_01_bluecustom_f0">
         <Original>Hatchback (Custom Blue)</Original>
         <Chinese>掀背車(自訂藍色)</Chinese>
-        <Chinesesimp>掀背车(自订蓝色)</Chinesesimp>
+        <Chinesesimp>掀背车(自定义蓝色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_hatchback_01_black_f0">
         <Original>Hatchback (Black)</Original>
@@ -2433,7 +2433,7 @@
       <Key ID="str_a3_c_hatchback_01_beigecustom_f0">
         <Original>Hatchback (Custom Beige)</Original>
         <Chinese>掀背車(自訂米白色)</Chinese>
-        <Chinesesimp>掀背车(自订米白色)</Chinesesimp>
+        <Chinesesimp>掀背车(自定义米白色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_offroad_01_base_f_animationsources_hideglass20">
         <Original>Hide right glass</Original>

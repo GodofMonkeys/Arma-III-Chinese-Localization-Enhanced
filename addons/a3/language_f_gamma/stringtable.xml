@@ -16,7 +16,7 @@
     <Container name="FieldManual">
       <Key ID="str_a3_types1">
         <Original>There are three basic types of UAVs.&lt;br/&gt;&lt;br/&gt;The middle sized ground UAV %3%11%4 can be used mainly as reconnaissance or fire support. Thanks to its transport ability, this UAV can help units to move away from a dangerous place.&lt;br/&gt;&lt;br/&gt;The main purpose of a small quadrotor %3%12%4 is reconnaissance. It doesn't carry any weapons but is equipped with a laser designator for marking targets. Small size and excellent maneuverability are also its big advantages.&lt;br/&gt;&lt;br/&gt;A bigger fixed-wing %3%13%4 can carry air-to-ground missiles or bombs and is also equipped with a laser designator. Greyhawk can be used as an attack unit, or in case of the unarmed variant, as a reconnaissance unit. The big advantage of this UAV in comparison with common planes is the ability to land at almost any spot without trees or bigger rocks.</Original>
-        <Chinese>有三種基本類型的無人載具。&lt;br/&gt;&lt;br/&gt;中等大小的%3%11%4主要被用來偵察或者提供火力支援。多虧了它的運輸特性，這款無人載具能將人員移出危險區域。&lt;br/&gt;&lt;br/&gt;小型四軸飛行器%3%12%4的主要用途是偵察。它沒有任何武器，只有裝設雷射指示器來標定敵人，但是假如敵人在他四周的話，它偏小的外形和極佳的移動能力是它本身巨大的優勢。&lt;br/&gt;&lt;br/&gt;大型固定翼無人載具%3%13%4能裝載一些用來攻擊的導彈或炸彈。Greyhawk可以被用作攻擊單位，或是無武裝的偵察單位。與其他飛機相比，這個無人機的最大優勢在於它可以在任何沒有樹或者大型岩石的區域著陸。</Chinese>
+        <Chinese>有三種基本類型的無人載具。&lt;br/&gt;&lt;br/&gt;中等大小的%3%11%4主要被用來偵察或者提供火力支援。多虧了它的運輸特性，這款無人載具能將人員移出危險區域。&lt;br/&gt;&lt;br/&gt;小型四軸飛行器%3%12%4的主要用途是偵察。它沒有任何武器，只有裝設雷射指示器來標定敵人，但是假如敵人在他四周的話，它偏小的外形和極佳的移動能力是它本身巨大的優勢。&lt;br/&gt;&lt;br/&gt;大型固定翼無人載具%3%13%4能裝載一些用來攻擊的導彈或炸彈。Greyhawk可以被用作攻擊單位，或是無武裝的偵察單位。與其他飛機相比，這個無人機的最大優勢在於它可以在任何沒有樹或者大型巖石的區域著陸。</Chinese>
         <Chinesesimp>有三种基本类型的无人载具。&lt;br/&gt;&lt;br/&gt;中等大小的%3%11%4主要被用来侦察或者提供火力支援。多亏了它的运输特性，这款无人载具能将人员移出危险区域。&lt;br/&gt;&lt;br/&gt;小型四轴飞行器%3%12%4的主要用途是侦察。它没有任何武器，只有装设雷射指示器来标定敌人，但是假如敌人在他四周的话，它偏小的外形和极佳的移动能力是它本身巨大的优势。&lt;br/&gt;&lt;br/&gt;大型固定翼无人载具%3%13%4能装载一些用来攻击的导弹或炸弹。Greyhawk可以被用作攻击单位，或是无武装的侦察单位。与其他飞机相比，这个无人机的最大优势在于它可以在任何没有树或者大型岩石的区域着陆。</Chinesesimp>
       </Key>
       <Key ID="str_a3_types0">
@@ -87,7 +87,7 @@
       <Key ID="str_a3_pilotingquadrotor1">
         <Original>%1%2Start the engine by pressing %11.%1%2Hold %11 to increase throttle and gain altitude.%1%2Hold %12 to decrease throttle and lose altitude.%1%2Maneuver the UAV sideways with %13 and %14.%1%2Pull the nose down %15 to gain speed and up %16 to lose it.%1%2Use %17 and %18 to rotate left/right.%1%2Use the %3mouse%4 to control the UAV smoothly.%1%2Use %3Auto-hover %19%4 to stabilize the UAV.</Original>
         <Chinese>%1%2按%11發動引擎。%1%2按住%11增加推力提升海拔。%1%2按住%12減少推力降低海拔。%1%2用%13和%14控制空中無人載具傾斜飛行方向。%1%2按%15使機頭向下加速，按%16使機頭向上減速。%1%2使用%17和%18向左/向右旋轉。%1%2使用%3滑鼠%4流暢地控制空中無人載具。%1%2使用%3自動盤旋%19%4來穩定無人載具。</Chinese>
-        <Chinesesimp>%1%2按%11发动引擎。%1%2按住%11增加推力提升海拔。%1%2按住%12减少推力降低海拔。%1%2用%13和%14控制空中无人载具倾斜飞行方向。%1%2按%15使机头向下加速，按%16使机头向上减速。%1%2使用%17和%18向左/向右旋转。%1%2使用%3滑鼠%4流畅地控制空中无人载具。%1%2使用%3自动盘旋%19%4来稳定无人载具。</Chinesesimp>
+        <Chinesesimp>%1%2按%11发动引擎。%1%2按住%11增加推力提升海拔。%1%2按住%12减少推力降低海拔。%1%2用%13和%14控制空中无人载具倾斜飞行方向。%1%2按%15使机头向下加速，按%16使机头向上减速。%1%2使用%17和%18向左/向右旋转。%1%2使用%3鼠标%4流畅地控制空中无人载具。%1%2使用%3自动盘旋%19%4来稳定无人载具。</Chinesesimp>
       </Key>
       <Key ID="str_a3_pilotingquadrotor0">
         <Original>Piloting – Quadrotor</Original>
@@ -142,7 +142,7 @@
       <Key ID="str_a3_landing0">
         <Original>A good approach is the key to a good landing.%1&lt;t&gt;&lt;/t&gt;1. Line up your airplane with the runway and adjust the throttle %11 to slow down to 1/3 above your stall speed.%1&lt;t&gt;&lt;/t&gt;2. Keep your nose slightly down, lower the landing gear %12 and extend the flaps %13.%1&lt;t&gt;&lt;/t&gt;3. Pick a point on the runway (e.g. numbers) and reference it to your cockpit. Try to keep it in the same position throughout the descent.%1&lt;t&gt;&lt;/t&gt;4. If the point is moving up, you are undershooting and need to increase power. If it's moving down, reduce power or extend flaps further.%1&lt;t&gt;&lt;/t&gt;5. Once you're above the runway, reduce power to idle, gently pull up the nose and wait until the wheels touch the runway. Then brake %14.</Original>
         <Chinese>一個好的進場是整個降落中的關鍵。%1&lt;t&gt;&lt;/t&gt;1。把你的飛機與跑道對齊並使用%11降低油門至1/3左右，略高於失速的速度。%1&lt;t&gt;&lt;/t&gt;2。稍微壓低你的機鼻，使用%12放下你的起落架，並用%13張開你的襟翼。%1&lt;t&gt;&lt;/t&gt;3。在跑道上選一個參考點(例如:跑道號碼)並使你的飛行路徑標誌(FPM)對準該參考點。請試著在整個下滑階段都保持對準該點。%1&lt;t&gt;&lt;/t&gt;4。假如那個參考點過高，代表你會錯失該點，請增加一點你的油門來修正下滑率。假如那個點過低，請減低你的油門或是把襟翼張更大。%1&lt;t&gt;&lt;/t&gt;5。當你最終到跑道上空時，減低油門至最低並輕輕的拉起你的機鼻直到起落架觸地。最後再使用%14煞車即可完成降落。</Chinese>
-        <Chinesesimp>良好的进近是整个降落中的关键。%1&lt;t&gt;&lt;/t&gt;1。把你的飞机与跑道对齐并使用%11降低油门至1/3左右，略高于失速的速度。%1&lt;t&gt;&lt;/t&gt;2。稍微压低你的机鼻，使用%12放下你的起落架，并用%13张开你的襟翼。%1&lt;t&gt;&lt;/t&gt;3。在跑道上选一个参考点(例如:跑道号码)并使你的飞行路径标志(FPM)对准该参考点。请试着在整个下滑阶段都保持对准该点。%1&lt;t&gt;&lt;/t&gt;4。假如那个参考点过高，代表你会错失该点，请增加一点你的油门来修正下滑率。假如那个点过低，请减低你的油门或是把襟翼张更大。%1&lt;t&gt;&lt;/t&gt;5。当你最终到跑道上空时，减低油门至最低并轻轻的拉起你的机鼻直到起落架触地。最后再使用%14煞车即可完成降落。</Chinesesimp>
+        <Chinesesimp>良好的进近是整个降落中的关键。%1&lt;t&gt;&lt;/t&gt;1。把你的飞机与跑道对齐并使用%11降低油门至1/3左右，略高于失速的速度。%1&lt;t&gt;&lt;/t&gt;2。稍微压低你的机鼻，使用%12放下你的起落架，并用%13张开你的襟翼。%1&lt;t&gt;&lt;/t&gt;3。在跑道上选一个参考点(例如:跑道号码)并使你的飞行路径标志(FPM)对准该参考点。请试着在整个下滑阶段都保持对准该点。%1&lt;t&gt;&lt;/t&gt;4。假如那个参考点过高，代表你会错失该点，请增加一点你的油门来修正下滑率。假如那个点过低，请减低你的油门或是把襟翼张更大。%1&lt;t&gt;&lt;/t&gt;5。当你最终到跑道上空时，减低油门至最低并轻轻的拉起你的机鼻直到起落架触地。最后再使用%14刹车即可完成降落。</Chinesesimp>
       </Key>
       <Key ID="str_a3_controls2">
         <Original>Other specific actions include:%1%2Flaps - extend %19 and retract %20 %1%2%21 for landing gear</Original>
@@ -156,7 +156,7 @@
       </Key>
       <Key ID="str_a3_connection1">
         <Original>To take control over a friendly autonomous vehicle, you must have a %3%11%4 item assigned in the GPS slot in your inventory. Connection to a UAV can be created in the UAV Terminal.%1%2Open the action menu via %12, select %3%13%4.%1%2Select the UAV from the top-left drop down menu.%1%2Take control of a driver or a gunner position using buttons on the top-right.%1%2Use the action menu to switch between positions or to release UAV controls.%1There can be only one UAV connected to your terminal at any time.</Original>
-        <Chinese>要控制一台友軍的無人載具，你必須擁有一個%3%11%4在你背包中的GPS欄位。與無人載具的連接可以在無人載具終端機中被建立。%1%2使用%12來打開動作選單，選擇%3%13%4。%1%2使用%14點擊可被控制的無人載具。%1%2選擇%3%15%4。%1%2你可以在左上角的選單中選擇無人載具。%1%2在右上角選擇你要控制的位置。%1%2在操控無人載具時，你可以透過動作選單來切換控制的位置。%1任何時候，你的終端機至多只能連接一台無人載具。</Chinese>
+        <Chinese>要控制一臺友軍的無人載具，你必須擁有一個%3%11%4在你背包中的GPS欄位。與無人載具的連接可以在無人載具終端機中被建立。%1%2使用%12來打開動作選單，選擇%3%13%4。%1%2使用%14點擊可被控制的無人載具。%1%2選擇%3%15%4。%1%2你可以在左上角的選單中選擇無人載具。%1%2在右上角選擇你要控制的位置。%1%2在操控無人載具時，你可以透過動作選單來切換控制的位置。%1任何時候，你的終端機至多只能連接一臺無人載具。</Chinese>
         <Chinesesimp>要控制一台友军的无人载具，你必须拥有一个%3%11%4在你背包中的GPS栏位。与无人载具的连接可以在无人载具终端机中被建立。%1%2使用%12来打开动作选单，选择%3%13%4。%1%2使用%14点击可被控制的无人载具。%1%2选择%3%15%4。%1%2你可以在左上角的选单中选择无人载具。%1%2在右上角选择你要控制的位置。%1%2在操控无人载具时，你可以透过动作选单来切换控制的位置。%1任何时候，你的终端机至多只能连接一台无人载具。</Chinesesimp>
       </Key>
       <Key ID="str_a3_controls0">
@@ -187,7 +187,7 @@
       <Key ID="str_a3_cfghints_tacticaltease2">
         <Original>Please note that the following texts are just excerpts from full, 350 page long Arma 3 Tactical Guide written by Andrew „dslyecxi“ Gluck. This digital guide is available as part of Digital Deluxe Editions and also can be bought separately in our online shop in both %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;digital&lt;/a&gt;%4 and %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;printed&lt;/a&gt;%4 version.</Original>
         <Chinese>此戰術指南由Andrew'Dslyecxi'Gluck來編寫，內容有350頁，收錄於有購買數位豪華版的人的遊戲資料夾裡面。你可以在這邊看到更多詳情:%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-pdf'&gt;電子書&lt;/a&gt;%4或%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-printed'&gt;實體書&lt;/a&gt;%4。</Chinese>
-        <Chinesesimp>此战术指南由Andrew'Dslyecxi'Gluck来编写，内容有350页，收录于有购买数码豪华版的人的游戏资料夹里面。你可以在这边看到更多详情:%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-pdf'&gt;电子书&lt;/a&gt;%4或%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-printed'&gt;实体书&lt;/a&gt;%4。</Chinesesimp>
+        <Chinesesimp>此战术指南由Andrew'Dslyecxi'Gluck来编写，内容有350页，收录于有购买数字豪华版的人的游戏文件夹里面。你可以在这边看到更多详情:%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-pdf'&gt;电子书&lt;/a&gt;%4或%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-printed'&gt;实体书&lt;/a&gt;%4。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_tacticaltease1">
         <Original>Welcome to the Tactical Guide. This section intends to teach you about the Tactics, Techniques and Procedures of combat. The topics were specifically picked to help you gain a tactical advantage in each stage of our episodic campaign.</Original>
@@ -207,7 +207,7 @@
       <Key ID="str_a3_basics1">
         <Original>UAVs (Unmanned Autonomous Vehicle) are remotely controlled vehicles which operate without a human crew onboard. They can be used for many applications where it may be inconvenient, dangerous, or impossible to have a human operator present. Each one of them has its own internal computing unit and is able to make certain decisions by itself (transport from one place to another, enemy/friendly recognition, etc.).</Original>
         <Chinese>無人載具(無人操控自動載具)是無人駕駛的遙控載具。它們能夠用於多個領域。例如那些不方便，危險或人類不能到達的地方。每個無人載具都擁有內建電腦且能夠自主行動(移動與敵我識別等許多功能。)</Chinese>
-        <Chinesesimp>无人载具(无人操控自动载具)是无人驾驶的遥控载具。它们能够用于多个领域。例如那些不方便，危险或人类不能到达的地方。每个无人载具都拥有内建电脑且能够自主行动(移动与敌我识别等许多功能。)</Chinesesimp>
+        <Chinesesimp>无人载具(无人操控自动载具)是无人驾驶的遥控载具。它们能够用于多个领域。例如那些不方便，危险或人类不能到达的地方。每个无人载具都拥有内置电脑且能够自主行动(移动与敌我识别等许多功能。)</Chinesesimp>
       </Key>
       <Key ID="str_a3_basics0">
         <Original>UAV Basics</Original>
@@ -247,22 +247,22 @@
       <Key ID="STR_A3_FM_Welcome0">
         <Original>New to Arma?</Original>
         <Chinese>第一次玩ArmA?</Chinese>
-        <Chinesesimp>第一次玩ArmA?</Chinesesimp>
+        <Chinesesimp>第一次玩武装突袭?</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome1">
         <Original>Arma 3 is a %3unique military game%4 with an %3infantry focus%4. Built upon %3appropriate%4, %3useful%4 and %3engaging%4 elements of %3simulation%4, it's an %3accessible platform%4 for a variety of official and community playable / sandbox content, based on the principles of %3authenticity%4, %3diversity%4 and %3opportunity%4.%1%1%2Richly detailed battlefields%1%2Diverse range of authentically simulated vehicles and weapons%1%2Varied pieces of playable content in singleplayer and multiplayer%1%2Powerful scenario editor, mod creation and a creative community%1%2Learn section with bootcamp and virtual reality trainings to get you started%1%1More at %3&lt;a href='http://www.arma3.com'&gt;arma3.com&lt;/a&gt;%4</Original>
-        <Chinese>ArmA3是一個%3獨特的軍事遊戲%4，並且%3專注於步兵戰鬥%4上的體驗。建立於%3合理%4，%3有用%4和%3引人入勝%4的%3擬真%4元素，這個%3平台%4集合了各種官方和玩家論壇的模組或任務，這些模組或任務都基於%3真實性%4，%3多樣性%4和%3隨機性%4來當做開發原則。%1%1%2細節豐富的戰場%1%2種類繁多且真實模擬的載具與武器%1%2單人與多人遊戲中各種豐富且有趣的遊戲內容%1%2強大的任務編輯器，模組工具和創意無限的玩家論壇%1%2你可以先遊玩新兵訓練與虛擬實境訓練來開始體驗遊戲%1%1更多介紹請上%3&lt;ahref='http://www。arma3。com'&gt;arma3。com&lt;/a&gt;%4來觀看</Chinese>
-        <Chinesesimp>ArmA3是一个%3独特的军事游戏%4，并且%3专注于步兵战斗%4上的体验。建立于%3合理%4，%3有用%4和%3引人入胜%4的%3拟真%4元素，这个%3平台%4集合了各种官方和玩家论坛的模组或任务，这些模组或任务都基于%3真实性%4，%3多样性%4和%3随机性%4来当做开发原则。%1%1%2细节丰富的战场%1%2种类繁多且真实模拟的载具与武器%1%2单人与多人游戏中各种丰富且有趣的游戏内容%1%2强大的任务编辑器，模组工具和创意无限的玩家论坛%1%2你可以先游玩新兵训练与虚拟实境训练来开始体验游戏%1%1更多介绍请上%3&lt;ahref='http://www。arma3。com'&gt;arma3。com&lt;/a&gt;%4来观看</Chinesesimp>
+        <Chinese>ArmA3是一個%3獨特的軍事遊戲%4，並且%3專注於步兵戰鬥%4上的體驗。建立於%3合理%4，%3有用%4和%3引人入勝%4的%3擬真%4元素，這個%3平臺%4集合了各種官方和玩家論壇的模組或任務，這些模組或任務都基於%3真實性%4，%3多樣性%4和%3隨機性%4來當做開發原則。%1%1%2細節豐富的戰場%1%2種類繁多且真實模擬的載具與武器%1%2單人與多人遊戲中各種豐富且有趣的遊戲內容%1%2強大的任務編輯器，模組工具和創意無限的玩家論壇%1%2你可以先遊玩新兵訓練與虛擬實境訓練來開始體驗遊戲%1%1更多介紹請上%3&lt;ahref='http://www。arma3。com'&gt;arma3。com&lt;/a&gt;%4來觀看</Chinese>
+        <Chinesesimp>武装突袭3是一个%3独特的军事游戏%4，并且%3专注于步兵战斗%4上的体验。建立于%3合理%4，%3有用%4和%3引人入胜%4的%3拟真%4元素，这个%3平台%4集合了各种官方和玩家论坛的模组或任务，这些模组或任务都基于%3真实性%4，%3多样性%4和%3随机性%4来当做开发原则。%1%1%2细节丰富的战场%1%2种类繁多且真实模拟的载具与武器%1%2单人与多人游戏中各种丰富且有趣的游戏内容%1%2强大的任务编辑器，模组工具和创意无限的玩家论坛%1%2你可以先游玩新兵训练与虚拟实境训练来开始体验游戏%1%1更多介绍请上%3&lt;ahref='http://www。arma3。com'&gt;arma3。com&lt;/a&gt;%4来观看</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome2">
         <Original>Arma Veteran?</Original>
         <Chinese>ArmaA老兵?</Chinese>
-        <Chinesesimp>ArmaA老兵?</Chinesesimp>
+        <Chinesesimp>武装突袭老兵?</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome3">
         <Original>As compared to Arma 2, you'll find the significantly updated %3Real Virtuality™ 4.0%4 engine powering your experience. With it, we're aiming to take the elements that make Arma great, enhance them where appropriate, and deliver a robust %3platform%4 for future growth.%1%1%2Fluid new animations%1%2Upgraded sound engine%1%2Ragdoll simulation%1%2PhysX™-supported vehicles%1%1More at %3&lt;a href='http://www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4</Original>
-        <Chinese>與ArmA2相比，你會發現%3RealVirtualityTM4。0%4引擎的效能有顯著的提升。有了它，我們能加上更多的元素來使ArmA變得更棒，在適當的情況下對遊戲進行調整，並且發展了一個堅固的%3平台%4以供未來成長。%1%1%2流暢的人物動作%1%2升級的聲音引擎%1%2布娃娃仿真%1%2PhysXTM-物理效果運算%1%1更多訊息請登錄%3&lt;ahref='http://www。arma3。com/whatsnew'&gt;arma3。com/whatsnew&lt;/a&gt;%4來查看</Chinese>
-        <Chinesesimp>与ArmA2相比，你会发现%3RealVirtualityTM4。0%4引擎的效能有显著的提升。有了它，我们能加上更多的元素来使ArmA变得更棒，在适当的情况下对游戏进行调整，并且发展了一个坚固的%3平台%4以供未来成长。%1%1%2流畅的人物动作%1%2升级的声音引擎%1%2布娃娃仿真%1%2PhysXTM-物理效果运算%1%1更多讯息请登录%3&lt;ahref='http://www。arma3。com/whatsnew'&gt;arma3。com/whatsnew&lt;/a&gt;%4来查看</Chinesesimp>
+        <Chinese>與ArmA2相比，你會發現%3RealVirtuality?4。0%4引擎的效能有顯著的提升。有了它，我們能加上更多的元素來使ArmA變得更棒，在適當的情況下對遊戲進行調整，並且發展了一個堅固的%3平臺%4以供未來成長。%1%1%2流暢的人物動作%1%2升級的聲音引擎%1%2布娃娃仿真%1%2PhysX?-物理效果運算%1%1更多訊息請登錄%3&lt;ahref='http://www。arma3。com/whatsnew'&gt;arma3。com/whatsnew&lt;/a&gt;%4來查看</Chinese>
+        <Chinesesimp>与武装突袭2相比，你会发现%3RealVirtuality?4。0%4引擎的效能有显着的提升。有了它，我们能加上更多的元素来使武装突袭变得更棒，在适当的情况下对游戏进行调整，并且发展了一个坚固的%3平台%4以供未来成长。%1%1%2流畅的人物动作%1%2升级的声音引擎%1%2布娃娃仿真%1%2PhysX?-物理效果运算%1%1更多信息请登录%3&lt;ahref='http://www。arma3。com/whatsnew'&gt;arma3。com/whatsnew&lt;/a&gt;%4来查看</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome4">
         <Original>Main Release</Original>
@@ -271,8 +271,8 @@
       </Key>
       <Key ID="STR_A3_FM_Welcome5">
         <Original>After our Alpha and Beta programs, we're now unleashing the primary Arma 3 release. This is just the %3beginning%4 however. We see this as the proper start of the Arma 3 %3platform%4. Both us and you will hopefully expand and enhance it for years to come. These are just a few of the highlighted changes since the Beta:%1%1%2%3Altis%4 - the massive virtual terrain inviting you for endless exploration%1%2%3Armor%4 - Main Battle Tanks, self-propelled artillery and Anti-Aircraft vehicles%1%2%3Drones%4 - quadcopters, Unmanned Ground Vehicles and fixed-wing UAVs%1%2%3Play%4 - more showcases, multiplayer scenarios and Firing Drills%1%2%3Campaign%4 - released for %3FREE%4 in several episodes during the months following launch%1%1More at %3&lt;a href='http://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Original>
-        <Chinese>繼Alpha測試版和Beta測試版之後，我們現在很榮幸為大家推出ArmA3正式版。不過，這只不過是剛剛%3開始%4而已。我們把它看作是ArmA3%3這個平台%4的開始。在今後的幾年裡，我們和各位玩家都會對它進行擴展和增強。以下特色是正式版與Beta版最大的不同:%1%1%2%3Altis%4-廣大的虛擬地圖邀請您一同來探索%1%2%3裝甲%4-主戰坦克，自走炮和防空載具%1%2%3無人載具%4-四軸飛行器，地面無人載具和固定翼無人載具%1%2%3遊戲%4-更多的任務展示，多人任務和射擊訓練%1%2%3戰役%4-將在發行後的幾個月內，分成幾個章節來讓大家%3免費%4遊玩%1%1更多訊息請參見%3&lt;ahref='http://www。arma3。com/whatsnewfull/'&gt;arma3。com/whatsnewfull&lt;/a&gt;%4</Chinese>
-        <Chinesesimp>继Alpha测试版和Beta测试版之后，我们现在很荣幸为大家推出ArmA3正式版。不过，这只不过是刚刚%3开始%4而已。我们把它看作是ArmA3%3这个平台%4的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与Beta版最大的不同:%1%1%2%3Altis%4-广大的虚拟地图邀请您一同来探索%1%2%3装甲%4-主战坦克，自走炮和防空载具%1%2%3无人载具%4-四轴飞行器，地面无人载具和固定翼无人载具%1%2%3游戏%4-更多的任务展示，多人任务和射击训练%1%2%3战役%4-将在发行后的几个月内，分成几个章节来让大家%3免费%4游玩%1%1更多讯息请参见%3&lt;ahref='http://www。arma3。com/whatsnewfull/'&gt;arma3。com/whatsnewfull&lt;/a&gt;%4</Chinesesimp>
+        <Chinese>繼Alpha測試版和Beta測試版之後，我們現在很榮幸為大家推出ArmA3正式版。不過，這只不過是剛剛%3開始%4而已。我們把它看作是ArmA3%3這個平臺%4的開始。在今後的幾年裡，我們和各位玩家都會對它進行擴展和增強。以下特色是正式版與Beta版最大的不同:%1%1%2%3Altis%4-廣大的虛擬地圖邀請您一同來探索%1%2%3裝甲%4-主戰坦克，自走炮和防空載具%1%2%3無人載具%4-四軸飛行器，地面無人載具和固定翼無人載具%1%2%3遊戲%4-更多的任務展示，多人任務和射擊訓練%1%2%3戰役%4-將在發行後的幾個月內，分成幾個章節來讓大家%3免費%4遊玩%1%1更多訊息請參見%3&lt;ahref='http://www。arma3。com/whatsnewfull/'&gt;arma3。com/whatsnewfull&lt;/a&gt;%4</Chinese>
+        <Chinesesimp>继Alpha测试版和Beta测试版之后，我们现在很荣幸为大家推出武装突袭3正式版。不过，这只不过是刚刚%3开始%4而已。我们把它看作是武装突袭3%3这个平台%4的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与Beta版最大的不同:%1%1%2%3Altis%4-广大的虚拟地图邀请您一同来探索%1%2%3装甲%4-主战坦克，自行火炮和防空载具%1%2%3无人载具%4-四轴飞行器，地面无人载具和固定翼无人载具%1%2%3游戏%4-更多的任务展示，多人任务和射击训练%1%2%3战役%4-将在发行后的几个月内，分成几个章节来让大家%3免费%4游玩%1%1更多信息请参见%3&lt;ahref='http://www。arma3。com/whatsnewfull/'&gt;arma3。com/whatsnewfull&lt;/a&gt;%4</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome6">
         <Original>Prepare for War</Original>
@@ -282,7 +282,7 @@
       <Key ID="STR_A3_FM_Welcome7">
         <Original>To get off to the best possible start - and to get the most out of your experience - please look through a quick set of options. Then, either have a look at what the game offers, or start exploring yourself!%1%1%2%3Video options%4 - improved automatic benchmark should provide better defaults, but have a look in the video options to hit the perfect balance between performance, quality, and personal preference.%1%2%3Controls%4 - some default bindings are different to Arma 2 (e.g. grenades and inventory). See how you like them, experiment with the different presets on offer, or configure your own set up.%1%2%3Playable Content%4 - check out showcases of our new features and gameplay, load up quick and fun challenges, cooperate with friends in multiplayer, or dig into the sandbox with the editor. More content will be added gradually!%1%2%3Feedback%4 - help us by reporting issues on the Feedback Tracker%1%1Thank you for your support and cya on the battlefield!</Original>
         <Chinese>為了取得一個美好的開始-並充分享受你的遊戲經驗-請瀏覽一下快速設置選項。然後，再看一眼這個遊戲都提供些什麼，或者開始自己去探索!%1%1%2%3畫面設定%4-自動檢測會提供一個更好的默認設置，但還是最好自己看一看畫面設定中的各項參數，以期能在性能，質量和個人偏好之間達到一個最好的平衡。%1%2%3控制%4-一些默認的鍵位設置與ArmA2不同了(比如手榴彈和背包)。看看你是否習慣，使用遊戲提供的幾套不同鍵位設置或者自定義你自己的一套鍵位。%1%2%3可玩內容%4-玩玩任務展示來體驗新的特色，參與快速且有趣的挑戰，在多人模式中和好友們合作，或者在沙箱模式中和設計師們一起鑽研任務設計。更多的內容將被逐步地加入!%1%2%3反饋%4-通過反饋來提報問題給我們%1%1感謝你的支持，我們戰場上見!</Chinese>
-        <Chinesesimp>为了取得一个美好的开始-并充分享受你的游戏经验-请浏览一下快速设置选项。然后，再看一眼这个游戏都提供些什么，或者开始自己去探索!%1%1%2%3画面设定%4-自动检测会提供一个更好的默认设置，但还是最好自己看一看画面设定中的各项参数，以期能在性能，质量和个人偏好之间达到一个最好的平衡。%1%2%3控制%4-一些默认的键位设置与ArmA2不同了(比如手榴弹和背包)。看看你是否习惯，使用游戏提供的几套不同键位设置或者自定义你自己的一套键位。%1%2%3可玩内容%4-玩玩任务展示来体验新的特色，参与快速且有趣的挑战，在多人模式中和好友们合作，或者在沙箱模式中和设计师们一起钻研任务设计。更多的内容将被逐步地加入!%1%2%3反馈%4-通过反馈来提报问题给我们%1%1感谢你的支持，我们战场上见!</Chinesesimp>
+        <Chinesesimp>为了取得一个美好的开始-并充分享受你的游戏经验-请浏览一下快速设置选项。然后，再看一眼这个游戏都提供些什么，或者开始自己去探索!%1%1%2%3画面设定%4-自动检测会提供一个更好的默认设置，但还是最好自己看一看画面设定中的各项参数，以期能在性能，质量和个人偏好之间达到一个最好的平衡。%1%2%3控制%4-一些默认的键位设置与武装突袭2不同了(比如手榴弹和背包)。看看你是否习惯，使用游戏提供的几套不同键位设置或者自定义你自己的一套键位。%1%2%3可玩内容%4-玩玩任务展示来体验新的特色，参与快速且有趣的挑战，在多人模式中和好友们合作，或者在沙箱模式中和设计师们一起钻研任务设计。更多的内容将被逐步地加入!%1%2%3反馈%4-通过反馈来提报问题给我们%1%1感谢你的支持，我们战场上见!</Chinesesimp>
       </Key>
     </Container>
     <Container name="Equipment">
@@ -347,7 +347,7 @@
           <Key ID="str_a3_cfgweapons_hgun_pdw20000">
             <Original>PDW2000 9 mm</Original>
             <Chinese>PDW20009mm</Chinese>
-            <Chinesesimp>PDW20009毫米冲锋枪</Chinesesimp>
+            <Chinesesimp>PDW2000 9毫米冲锋枪</Chinesesimp>
           </Key>
         </Container>
         <Container name="Library">
@@ -363,7 +363,7 @@
         <Key ID="str_a3_cfgvehicles_gmg_01_a_base0">
           <Original>Mk32A GMG 20 mm</Original>
           <Chinese>Mk32A20mm榴彈機槍</Chinese>
-          <Chinesesimp>Mk32A20毫米榴弹机枪</Chinesesimp>
+          <Chinesesimp>Mk32A 20毫米榴弹机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_gmg_01_base1">
           <Original>Mk32 Static Grenade Launcher</Original>
@@ -383,22 +383,22 @@
         <Key ID="str_a3_cfgvehicles_hmg_01_a_base0">
           <Original>Mk30A HMG .50</Original>
           <Chinese>Mk30A.50重機槍</Chinese>
-          <Chinesesimp>Mk30A点50重机枪</Chinesesimp>
+          <Chinesesimp>Mk30A .50重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_base0">
           <Original>Mk30 HMG .50</Original>
           <Chinese>Mk30.50重機槍</Chinese>
-          <Chinesesimp>Mk30点50重机枪</Chinesesimp>
+          <Chinesesimp>Mk30 .50重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_base_armory0">
           <Original>The Mk30 HMG is a static machine gun used by infantry and support. Several projects were launched to replace the Browning M2, but each resulted in them being shelved for various reasons. The Mk30 made it through. Compared to the M2, it's lighter and more portable with better accuracy, utilizing new materials, electronic targeting help and a new tripod, trading portability for rate of fire. Based on the previous concept of the XM307/XM312, the Mk30 is chambered for .50 BMG cartridges with a rate of fire of 350 rpm and effective range up to 2000 meters. Mk30 also exists in an automatic/remotely controlled variant which is labeled Mk30A.</Original>
           <Chinese>Mk30重機槍是一種固定式機槍，用來給予步兵支援性火力。軍方開始了幾個不同的機槍開發計劃，其目的是為要取代白朗寧M2重機槍，但每個計劃都因一些原因而暫時停止開發。但Mk30卻成功了。跟M2相比，它的重量更輕，更好攜帶，以及有著更棒的精準度，利用新材料，電子瞄準，新腳架，和在便攜性與射速中取得平衡。基於之前XM312/XM307的概念，Mk30使用.50子彈，每分鐘射速為350發，有效射程高達2000公尺。一種Mk30版本為自動/遙控，並且安裝在車頂上，被命名為Mk30A。</Chinese>
-          <Chinesesimp>Mk30重机枪是一种固定式机枪，用来给予步兵支援性火力。军方开始了几个不同的机枪开发计划，其目的是为要取代白朗宁M2重机枪，但每个计划都因一些原因而暂时停止开发。但Mk30却成功了。跟M2相比，它的重量更轻，更好携带，以及有着更棒的精准度，利用新材料，电子瞄准，新脚架，和在便携性与射速中取得平衡。基于之前XM312/XM307的概念，Mk30使用.50子弹，每分钟射速为350发，有效射程高达2000公尺。一种Mk30版本为自动/遥控，并且安装在车顶上，被命名为Mk30A。</Chinesesimp>
+          <Chinesesimp>Mk30重机枪是一种固定式机枪，用来给予步兵支援性火力。军方开始了几个不同的机枪开发计划，其目的是为要取代勃朗宁M2重机枪，但每个计划都因一些原因而暂时停止开发。但Mk30却成功了。跟M2相比，它的重量更轻，更好携带，以及有着更棒的精准度，利用新材料，电子瞄准，新脚架，和在便携性与射速中取得平衡。基于之前XM312/XM307的概念，Mk30使用.50子弹，每分钟射速为350发，有效射程高达2000公尺。一种Mk30版本为自动/遥控，并且安装在车顶上，被命名为Mk30A。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_gmg_01_base0">
           <Original>Mk32 GMG 20 mm</Original>
           <Chinese>Mk3220mm榴彈機槍</Chinese>
-          <Chinesesimp>Mk3220毫米榴弹机枪</Chinesesimp>
+          <Chinesesimp>Mk32 20毫米榴弹机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_at_01_wpn_assembleinfo0">
           <Original>Static AT Launcher</Original>
@@ -721,7 +721,7 @@
         <Key ID="str_a3_gatling_25mm0">
           <Original>GAU-12 Cannon 25 mm</Original>
           <Chinese>GAU-1225mm機砲</Chinese>
-          <Chinesesimp>GAU-1225毫米机炮</Chinesesimp>
+          <Chinesesimp>GAU-12 25毫米机炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_gatling_25mm_manual0">
           <Original>manual</Original>
@@ -1156,7 +1156,7 @@
         </Key>
         <Key ID="str_a3_cfggroups_east_opf_f_uinfantry0">
           <Original>Guard Infantry</Original>
-          <Chinese>警备步兵</Chinese>
+          <Chinese>警?步兵</Chinese>
           <Chinesesimp>警备步兵</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_west_blu_f_motorized_bus_motinf_mgteam0">
@@ -1171,7 +1171,7 @@
         </Key>
         <Key ID="str_a3_cfggroups_east_opf_f_uinfantry_oia_guardsquad0">
           <Original>Guard Squad</Original>
-          <Chinese>警备班</Chinese>
+          <Chinese>警?班</Chinese>
           <Chinesesimp>警备班</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_west_blu_f_motorized_bus_motinf_gmgteam0">
@@ -1558,7 +1558,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_arty_base0">
           <Original>M4 Scorcher</Original>
-          <Chinese>M4「炙烤者」自行榴彈炮</Chinese>
+          <Chinese>M4“炙烤者”自行榴彈炮</Chinese>
           <Chinesesimp>M4“炙烤者”自行榴弹炮</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_O_UGV_01_F">
@@ -1585,12 +1585,12 @@
       <Container name="Library">
         <Key ID="STR_A3_CfgVehicles_MBT_02_Arty_Library0">
           <Original>The 2S9 Sochor is a lightly armored self-propelled artillery piece used by the OPFOR army. It's based on the T-100 chassis and fires 155 mm projectiles. The T-100 chassis interior had to be heavily modified to allow support for the 155 mm cannon with auto-loader. Sochor is also equipped with a Remotely Controlled Weapon Systems turret fitted with 12.7 mm HMG and 40 mm GMG. The modification paid off and several Asian countries are now in the process of modernizing their heavy artillery division with the 2S9.</Original>
-          <Chinese>2S9Sochor是一台紅方使用的輕裝甲自走砲。它以T-100的底盤為基礎，並發射155mm砲彈。T-100的底盤需要進行大量改造，好來裝設155mm大砲要用的自動裝填機。Sochor也有裝設遠程遙控武器系統，上面裝有12。7mm重機槍以及40mm榴彈砲。其改裝是有效的，幾個亞洲國家都在使用2S9來改良他們的重型砲兵師。</Chinese>
-          <Chinesesimp>2S9“索霍尔”是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155毫米炮弹。T-100的底盘需要进行大量改造，好来装设155mm大炮要用的自动装填机。Sochor也有装设远程遥控武器站，上面装有12。7mm重机枪以及40mm榴弹机枪。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
+          <Chinese>2S9Sochor是一臺紅方使用的輕裝甲自走砲。它以T-100的底盤為基礎，並發射155mm砲彈。T-100的底盤需要進行大量改造，好來裝設155mm大砲要用的自動裝填機。Sochor也有裝設遠程遙控武器系統，上面裝有12。7mm重機槍以及40mm榴彈砲。其改裝是有效的，幾個亞洲國家都在使用2S9來改良他們的重型砲兵師。</Chinese>
+          <Chinesesimp>2S9“索霍尔”是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155毫米炮弹。T-100的底盘需要进行大量改造，好来装设155毫米火炮要用的自动装填机。“索霍尔”也有装设远程遥控武器站，上面装有12。7毫米重机枪以及40毫米榴弹机枪。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_cannon_base_f_library0">
           <Original>A licensed copy of an Israeli tank built in Central Europe. This tank is built for versatile use on the battlefield and maximal crew protection, which gained significant appreciation from western Europe armies in the 21st century. The M2A1 is armed with 120 mm cannon and a coaxial machinegun and can also be used as mobile artillery. This tank has proven itself in battle and thanks to heavy manufacture, it became the second most wide spread main battle tank of many countries in the world.</Original>
-          <Chinese>一種產自中歐並獲得授權的以色列坦克復製品。這種坦克因功能全面且可對組員提供最大化的保護，在21世紀時備受西歐國家的青睞。M2A1裝備有120mm加農炮和同軸機槍，使它可以變為移動砲台。這種經濟實惠的主戰坦克，目前已經成為世界第二大主流坦克。</Chinese>
+          <Chinese>一種產自中歐並獲得授權的以色列坦克復製品。這種坦克因功能全面且可對組員提供最大化的保護，在21世紀時備受西歐國家的青睞。M2A1裝備有120mm加農炮和同軸機槍，使它可以變為移動砲臺。這種經濟實惠的主戰坦克，目前已經成為世界第二大主流坦克。</Chinese>
           <Chinesesimp>一种在中欧许可证生产的以色列坦克。这种坦克因功能全面且可对组员提供最大化的保护，在21世纪时备受西欧国家的青睐。M2A1装备有120毫米加农炮和同轴机枪，使它可以变为移动炮台。这种经济实惠的主战坦克，目前已经成为世界第二大主流坦克。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_apc_wheeled_01_medical_library0">
@@ -1605,18 +1605,18 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mbt_01_base_library0">
           <Original>A licensed copy of an Israeli tank built in Central Europe. This tank is built for versatile use on the battlefield and maximal crew protection, which gained significant appreciation from western Europe armies in the 21st century. The M2A4 is armed with 120mm cannon and two machine-guns and can also be used as mobile artillery. This tank has proven itself in battle and thanks to heavy licensed manufacture, became the second most wide spread main battle tank of many countries in the world.</Original>
-          <Chinese>一種產自中歐並獲得授權的以色列坦克復製品。這種坦克因功能全面且可對組員提供最大化的保護，在21世紀時備受西歐國家的青睞。M2A4裝備有120mm加農炮和兩挺機槍，使它可以變為移動砲台。這種經濟實惠的主戰坦克，目前已經成為世界第二大主流坦克。</Chinese>
+          <Chinese>一種產自中歐並獲得授權的以色列坦克復製品。這種坦克因功能全面且可對組員提供最大化的保護，在21世紀時備受西歐國家的青睞。M2A4裝備有120mm加農炮和兩挺機槍，使它可以變為移動砲臺。這種經濟實惠的主戰坦克，目前已經成為世界第二大主流坦克。</Chinese>
           <Chinesesimp>一种在中欧许可证生产的以色列坦克。这种坦克因功能全面且可对组员提供最大化的保护，在21世纪时备受西欧国家的青睐。M2A1装备有120毫米加农炮和同轴机枪，使它可以变为移动炮台。这种经济实惠的主战坦克，目前已经成为世界第二大主流坦克。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_apc_wheeled_03_wapc_library0">
           <Original>The AFV-4 Gorgon is an amphibious 8x8 all-wheel-drive armored person carrier vehicle, used to carry soldiers to the battlefield and provide fire support. Its remote controlled CTWS turret is usually mounted with a 30 mm cannon, coaxial machinegun and 2 AT guided missiles. Crew consists of 11 soldiers including driver, gunner/commander.</Original>
-          <Chinese>AFV-4Gorgon是一台水陸兩用的八輪驅動裝甲運兵車，用來運送士兵進入戰場，並同時提供火力支援。它使用埋頭彈武器系統，並裝設30mm機砲，同軸機槍和兩枚反坦克導引飛彈。包括它本身的機組員，其最多可以搭載11名人員。</Chinese>
+          <Chinese>AFV-4Gorgon是一臺水陸兩用的八輪驅動裝甲運兵車，用來運送士兵進入戰場，並同時提供火力支援。它使用埋頭彈武器系統，並裝設30mm機砲，同軸機槍和兩枚反坦克導引飛彈。包括它本身的機組員，其最多可以搭載11名人員。</Chinese>
           <Chinesesimp>AFV-4“蛇发女妖”是一种两栖8x8装甲运兵车，用来运送士兵进入战场，并同时提供火力支援。其遥控武器站通常装设30mm机炮，同轴机枪和两枚反坦克导弹。包括它本身的乘员(驾驶员+车长/炮手)在内，其最多可以容纳11名人员。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_02_base_library0">
           <Original>A modernized version of the Russian T-95 MBT. The ongoing development of the new generation battle tank was restarted in 2016 thanks to revenues from the oil crisis. The new concept of battle tank is lower and lighter, with increased maneuverability. The T-100 Varsuk comes with a standard 125 mm cannon, 7.62 mm coaxial machine gun and a commander-controlled NSVT-M 12.7 mm HMG.</Original>
           <Chinese>一種俄羅斯T-95主戰坦克的現代版本。新一代主戰坦克的發展得益於2016年石油危機所帶來的收益。這種新坦克更輕更低，為的是讓機動性更好。T-100Varsuk主戰坦克使用標準125mm加農炮，7.62mm同軸機槍，指揮官座位還配有遙控版NSVT-M12。7mm重機槍。</Chinese>
-          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100“獾”式主战坦克使用标准125毫米加农炮，7.62毫米同轴机枪，车长座位还配有遥控版NSVT-M12。7毫米重机枪。</Chinesesimp>
+          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100“獾”式主战坦克使用标准125毫米加农炮，7.62毫米同轴机枪，车长座位还配有遥控版NSVT-M 12。7毫米重机枪。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_van_01_base_library0">
           <Original>The civilian 4x4 truck is a highly customizable truck with off-road capabilities preferred by the civilian population. It builds on retro design, but utilizes a modern engine and electronics. Most common truck setups are boxed, cistern and pick-up set.</Original>
@@ -1625,12 +1625,12 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mbt_01_mlrs_library0">
           <Original>The Swedish Multiple Launch Rocket System is a replacement of the original U.S. MLRS platform. Built in 2021, it utilizes smaller rockets equipped with modern engines, resulting in longer range and better accuracy. The launch pod is mounted on a Slammer chassis and loads twelve 230 mm rockets.</Original>
-          <Chinese>瑞典的多管火箭發射系統是用來取代美國最原始的多管火箭發射平台。製造於2021年，它使用小型火箭並配上現代的引擎，這使它能發射的更遠，並有更好的精準度。發射架安裝在Slammer的底盤上，並使用了12發230毫米火箭。</Chinese>
+          <Chinese>瑞典的多管火箭發射系統是用來取代美國最原始的多管火箭發射平臺。製造於2021年，它使用小型火箭並配上現代的引擎，這使它能發射的更遠，並有更好的精準度。發射架安裝在Slammer的底盤上，並使用了12發230毫米火箭。</Chinese>
           <Chinesesimp>瑞典的多管火箭炮系统用于取代原始美国的MRLS火箭炮。制造于2021年，它使用更小的火箭弹并配上现代的发动机，这使它能发射的更远，并有更好的精准度。发射架安装在“猛击者”的底盘上，并使用了12发230毫米火箭。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_02_base_armory0">
           <Original>The MQ-4A Greyhawk is a combat ready unmanned aerial vehicle. It's based on the proven U.S. design of MQ-9 with a turbo-propeller engine. It carries modernized tracking and tracing equipment and it has improved camouflage. OPFOR engineers and manufacturers were able to perfect construction, but their engines are less fuel effective. The OPFOR drone is labeled K40 Ababil-3. Both sides arm the drone with air-to-ground Scalpel missiles or laser guided bombs (CAS version).</Original>
-          <Chinese>MQ-4AGreyhawk是一種作戰用的無人偵察機。它的基礎設計參考自美國的MQ-9，並裝上了渦輪螺旋槳發動機。它裝備了一個現代化的追踪和跟踪設備，並改進了偽裝。紅方的工程師和製造商完美的複製了藍方的MQ-4A，並取名為K40Ababil-3，但它們的引擎比較耗油。兩邊都給無人載具裝備了"手術刀"反坦克導彈，或者掛載雷射導引炸彈(密接空中支援版本)。</Chinese>
+          <Chinese>MQ-4AGreyhawk是一種作戰用的無人偵察機。它的基礎設計參考自美國的MQ-9，並裝上了渦輪螺旋槳發動機。它裝備了一個現代化的追?和跟?設備，並改進了偽裝。紅方的工程師和製造商完美的複製了藍方的MQ-4A，並取名為K40Ababil-3，但它們的引擎比較耗油。兩邊都給無人載具裝備了"手術刀"反坦克導彈，或者掛載雷射導引炸彈(密接空中支援版本)。</Chinese>
           <Chinesesimp>MQ-4A“灰鹰”是一种作战用的无人侦察机。它的基础设计参考自美国的MQ-9，并装上了涡轮螺旋桨发动机。它装备了现代化的搜索和追踪设备，并改进了伪装。红方的工程师和制造商完美地复制了蓝方的MQ-4A，并取名为K40“燕子”-3，但它的发动机比较耗油。两边都给无人机装备了"手术刀"反坦克导弹，或者挂载激光制导炸弹(近距离空中支援版本)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_01_base_library0">
@@ -1645,7 +1645,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_03_base_library0">
           <Original>A bigger fishing boat is more expensive to maintain. When the golden age of Altis fishing ended, only a few owners were able to keep them. It has enough room for eight people. </Original>
-          <Chinese>大型漁船需要相當多的金錢來維持整台船的運作，當Altis捕魚業的黃金時期結束後，只有少數人有能力留住它。這種船可以乘載8名人員。</Chinese>
+          <Chinese>大型漁船需要相當多的金錢來維持整臺船的運作，當Altis捕魚業的黃金時期結束後，只有少數人有能力留住它。這種船可以乘載8名人員。</Chinese>
           <Chinesesimp>大型渔船需要相当多的金钱来维持整台船的运作，当阿尔蒂斯捕鱼业的黄金时期结束后，只有少数人有能力留住它。这种船可以乘载8名人员。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_arty_base_Library0">
@@ -1655,7 +1655,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_ugv_01_base_library0">
           <Original>The Stomper is a remote controlled unmanned ground combat vehicle designed for reconnaissance, surveillance and support. It's able to operate autonomously in large areas, while sending real-time data to the control center. Each wheel is powered by a separate electric engine, whose batteries are linked together to a diesel engine power unit. An armed variant of the Stomper is fitted with a RCWS turret carrying 40 mm cannon and 12.7 mm HMG. An OPFOR variant, designated Saif and Saif RCWS, is a cheaper and less reliable copy from the Asian region.</Original>
-          <Chinese>Stomper是一種設計用來偵察，監視和支援的遠程控制地面無人載具。它能夠在很大的區域內自主操作，並不間斷的發送數據回到控制中心。每個輪子是由各自的電動引擎所驅動，每個電動引擎在一起連接在柴油發電機上。武裝後的Stomper裝有遙控砲台，其上設有40mm機砲和12。7mm重機槍。而紅方的地面無人載具，則是被取名叫"薩夫"，是一種來自亞洲地區廉價且不太可靠的山寨版Stomper。</Chinese>
+          <Chinese>Stomper是一種設計用來偵察，監視和支援的遠程控制地面無人載具。它能夠在很大的區域內自主操作，並不間斷的發送數據回到控制中心。每個輪子是由各自的電動引擎所驅動，每個電動引擎在一起連接在柴油發電機上。武裝後的Stomper裝有遙控砲臺，其上設有40mm機砲和12。7mm重機槍。而紅方的地面無人載具，則是被取名叫"薩夫"，是一種來自亞洲地區廉價且不太可靠的山寨版Stomper。</Chinese>
           <Chinesesimp>“践踏者”是一种设计用来侦察，监视和支援的远程控制地面无人载具。它能够在很大的区域内自主操作，并不间断地发送数据回到控制中心。每个轮子都由独立的电动机驱动，各个电动机的电池则一起连接在柴油发电机上。武装后的“践踏者”装有遥控武器站，其上设有40毫米榴弹机枪和12。7毫米重机枪。而红方的无人车则被取名叫"萨夫"，是一种来自亚洲地区廉价且不太可靠的山寨版“践踏者”。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_car_base_library0">
@@ -1670,12 +1670,12 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03_cas_library0">
           <Original>The A-143 Buzzard is a single seat light multi-purpose combat aircraft able to carry a wide range of equipment and weaponry. A-143 Buzzard has seven weapon hardpoints, three under each wing and one under the fuselage. Close air support armament consists of 20 mm twin cannon, two Skalpel air-to-ground missiles, two laser guided GBU-12 bombs and two short range air-to-air missiles. Anti-air variant of Buzzard is fitted with 20 mm twin cannon, two short range air-to-air missiles and four long range air-to-air Zephyr missiles.</Original>
-          <Chinese>A-143Buzzard是一台單座輕型多用途戰鬥機，能夠裝載一系列裝備和武器。A-143Buzzard有七個掛架，每個機翼下有三個，機腹下一個。密接空中支援武器包括20mm機砲，兩發Skalpel空對地導彈，兩顆GBU-12雷射導引炸彈以及兩發短程空對空導彈。對空版本的Buzzard機型配有20mm機炮，兩發短程空對空導彈，和四發長程空對空Zephyr導彈。</Chinese>
+          <Chinese>A-143Buzzard是一臺單座輕型多用途戰鬥機，能夠裝載一系列裝備和武器。A-143Buzzard有七個掛架，每個機翼下有三個，機腹下一個。密接空中支援武器包括20mm機砲，兩發Skalpel空對地導彈，兩顆GBU-12雷射導引炸彈以及兩發短程空對空導彈。對空版本的Buzzard機型配有20mm機炮，兩發短程空對空導彈，和四發長程空對空Zephyr導彈。</Chinese>
           <Chinesesimp>A-143“秃鹰”是一台单座轻型多用途战斗机，能够装载一系列装备和武器。A-143“秃鹰”有七个挂架，每个机翼下有三个，机腹下一个。密接空中支援武器包括20毫米机炮，两发“手术刀”空对地导弹，两颗GBU-12激光制导炸弹以及两发近程空空导弹。对空版本的“秃鹰”机型配有20毫米机炮，两发近程空空导弹，和四发远程空空“微风”导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_plane_fighter_03_base_f_library0">
           <Original>The A-143 Buzzard is a single seat light multi-purpose combat aircraft able to carry a wide range of equipment and weaponry. A-143 has seven weapon hardpoints, three under each wing and one under the fuselage. Standard armament consists of 20mm cannon, and a mixture of AA and AG rockets.</Original>
-          <Chinese>A-143Buzzard是一台單座輕型多用途戰鬥機，能夠裝載一系列裝備和武器。A-143Buzzard有七個掛架，每個機翼下有三個，機腹下一個。標準裝備有20mm機砲，和數枚空對空與空對地火箭。</Chinese>
+          <Chinese>A-143Buzzard是一臺單座輕型多用途戰鬥機，能夠裝載一系列裝備和武器。A-143Buzzard有七個掛架，每個機翼下有三個，機腹下一個。標準裝備有20mm機砲，和數枚空對空與空對地火箭。</Chinese>
           <Chinesesimp>A-143“秃鹰”是一种单座轻型多用途战斗机，能够装载一系列装备和武器。A-143“秃鹰”有七个挂架，每个机翼下有三个，机腹下一个。标准装备有20毫米机炮，和数枚空对空与空对地火箭。</Chinesesimp>
         </Key>
       </Container>
@@ -1716,7 +1716,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_pier_wall_f0">
           <Original>Pier (Rocks)</Original>
-          <Chinese>碼頭(岩石)</Chinese>
+          <Chinese>碼頭(巖石)</Chinese>
           <Chinesesimp>码头(岩石)</Chinesesimp>
         </Key>
       </Container>
@@ -1959,7 +1959,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_tribune_f0">
           <Original>Tribune</Original>
-          <Chinese>看台</Chinese>
+          <Chinese>看臺</Chinese>
           <Chinesesimp>看台</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_tentdome_f0">
@@ -2547,7 +2547,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_highvoltagecolumn_f0">
           <Original>High Voltage Column</Original>
-          <Chinese>高壓電杆</Chinese>
+          <Chinese>高壓電桿</Chinese>
           <Chinesesimp>高压电杆</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_highvoltagetower_dam_f0">
@@ -2587,32 +2587,32 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_18_f0">
           <Original>Industrial Pipe Platform (Big, 18m)</Original>
-          <Chinese>工業焊管平台(大，18m)</Chinese>
+          <Chinese>工業焊管平臺(大，18m)</Chinese>
           <Chinesesimp>工业焊管平台(大，18m)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_18ladder_f0">
           <Original>Industrial Pipe Platform (Big, 18m, Ladder)</Original>
-          <Chinese>工業焊管平台(大，18m，梯子)</Chinese>
+          <Chinese>工業焊管平臺(大，18m，梯子)</Chinese>
           <Chinesesimp>工业焊管平台(大，18m，梯子)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_9_f0">
           <Original>Industrial Pipe Platform (Big, 9m)</Original>
-          <Chinese>工業焊管平台(大，9m)</Chinese>
+          <Chinese>工業焊管平臺(大，9m)</Chinese>
           <Chinesesimp>工业焊管平台(大，9m)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_ground1_f0">
           <Original>Industrial Pipe Platform (Big, Ground, v1)</Original>
-          <Chinese>工業焊管平台(大，地面，v1)</Chinese>
+          <Chinese>工業焊管平臺(大，地面，v1)</Chinese>
           <Chinesesimp>工业焊管平台(大，地面，v1)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_ground2_f0">
           <Original>Industrial Pipe Platform (Big, Ground, v2)</Original>
-          <Chinese>工業焊管平台(大，地面，2型)</Chinese>
+          <Chinese>工業焊管平臺(大，地面，2型)</Chinese>
           <Chinesesimp>工业焊管平台(大，地面，2型)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_big_support_f0">
           <Original>Industrial Pipe Platform (Big, Support)</Original>
-          <Chinese>工業焊管平台(大，支撐)</Chinese>
+          <Chinese>工業焊管平臺(大，支撐)</Chinese>
           <Chinesesimp>工业焊管平台(大，支撑)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_cargo10_blue_f0">
@@ -2622,22 +2622,22 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_bigl_l_f0">
           <Original>Industrial Pipe Platform (Big, Corner, Left)</Original>
-          <Chinese>工業焊管平台(大，拐角，左)</Chinese>
+          <Chinese>工業焊管平臺(大，拐角，左)</Chinese>
           <Chinesesimp>工业焊管平台(大，拐角，左)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_small_9_f0">
           <Original>Industrial Pipe Platform (9m)</Original>
-          <Chinese>工業焊管平台(9m)</Chinese>
+          <Chinese>工業焊管平臺(9m)</Chinese>
           <Chinesesimp>工业焊管平台(9m)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_small_ground1_f0">
           <Original>Industrial Pipe Platform (Ground, v1)</Original>
-          <Chinese>工業焊管平台(地面，v1)</Chinese>
+          <Chinese>工業焊管平臺(地面，v1)</Chinese>
           <Chinesesimp>工业焊管平台(地面，v1)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_small_ground2_f0">
           <Original>Industrial Pipe Platform (Ground, v2)</Original>
-          <Chinese>工業焊管平台(地面，2型)</Chinese>
+          <Chinese>工業焊管平臺(地面，2型)</Chinese>
           <Chinesesimp>工业焊管平台(地面，2型)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_powercable_submarine_f0">
@@ -2687,12 +2687,12 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_smalll_l_f0">
           <Original>Industrial Pipe Platform (Corner, Left)</Original>
-          <Chinese>工業焊管平台(拐角，左)</Chinese>
+          <Chinese>工業焊管平臺(拐角，左)</Chinese>
           <Chinesesimp>工业焊管平台(拐角，左)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_smalll_r_f0">
           <Original>Industrial Pipe Platform (Corner, Right)</Original>
-          <Chinese>工業焊管平台(拐角，右)</Chinese>
+          <Chinese>工業焊管平臺(拐角，右)</Chinese>
           <Chinesesimp>工业焊管平台(拐角，右)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_solarpanel_1_f0">
@@ -2762,7 +2762,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_indpipe2_bigl_r_f0">
           <Original>Industrial Pipe Platform (Big, Corner, Right)</Original>
-          <Chinese>工業焊管平台(大，拐角，右)</Chinese>
+          <Chinese>工業焊管平臺(大，拐角，右)</Chinese>
           <Chinesesimp>工业焊管平台(大，拐角，右)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wpp_turbine_v1_f0">
@@ -3000,7 +3000,7 @@
         <Key ID="str_a3_cfgvehicles_land_laptop_f0">
           <Original>Laptop (Closed)</Original>
           <Chinese>筆記型電腦(關閉)</Chinese>
-          <Chinesesimp>笔记型电脑(关闭)</Chinesesimp>
+          <Chinesesimp>笔记本电脑(关闭)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_laptop_unfolded_f0">
           <Original>Laptop (Open)</Original>
@@ -3010,12 +3010,12 @@
         <Key ID="str_a3_cfgvehicles_land_map_f0">
           <Original>Map of Stratis</Original>
           <Chinese>Stratis地圖</Chinese>
-          <Chinesesimp>Stratis地图</Chinesesimp>
+          <Chinesesimp>斯特拉蒂斯地图</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_map_unfolded_f0">
           <Original>Map of Stratis (Open)</Original>
           <Chinese>Stratis地圖(開啟)</Chinese>
-          <Chinesesimp>Stratis地图(开启)</Chinesesimp>
+          <Chinesesimp>斯特拉蒂斯地图(开启)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_mobilephone_old_f0">
           <Original>Mobile Phone (Old)</Original>
@@ -3247,7 +3247,7 @@
         <Key ID="STR_A3_CFGVEHICLES_CAMONET_OPEN_F2">
           <Original>Camouflage Net (Open, Digital)</Original>
           <Chinese>偽裝網(開放，數位)</Chinese>
-          <Chinesesimp>伪装网(开放，数码)</Chinesesimp>
+          <Chinesesimp>伪装网(开放，数字)</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_Flag_Noisecontrollers_F0">
           <Original>Flag (Noisecontrollers)</Original>
@@ -3612,7 +3612,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_metal_pole_platform_f0">
           <Original>Metal Pole (Platform)</Original>
-          <Chinese>金屬桿(平台)</Chinese>
+          <Chinese>金屬桿(平臺)</Chinese>
           <Chinesesimp>金属杆(平台)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_metal_pole_skeet_f0">
@@ -4613,12 +4613,12 @@
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext3">
           <Original>Altis is a volcanic island with corrugated terrain and plentiful rocky areas.</Original>
-          <Chinese>Altis是一座火山島，地勢起伏，有廣大的岩石區域。</Chinese>
+          <Chinese>Altis是一座火山島，地勢起伏，有廣大的巖石區域。</Chinese>
           <Chinesesimp>阿尔蒂斯是一座火山岛，地势起伏，有广大的岩场区域。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext29">
           <Original>There is a myth that remnants of an ancient civilization lies underwater near the coast of Altis. It's possible that the shape of ancient Altis was reshaped by volcanic and tectonic activity.</Original>
-          <Chinese>有一個神話說，​​Altis有一個古文明遺跡就沉睡在附近的海域底下。古Altis的形狀有可能受到了火山和地殼活動的重塑。</Chinese>
+          <Chinese>有一個神話說，??Altis有一個古文明遺跡就沉睡在附近的海域底下。古Altis的形狀有可能受到了火山和地殼活動的重塑。</Chinese>
           <Chinesesimp>有传言说在阿尔蒂斯海岸线附近沉睡着一个古文明遗迹。古阿尔蒂斯岛的形状有可能受到了火山和地壳活动的重塑。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext28">
@@ -4684,7 +4684,7 @@
         <Key ID="str_a3_cfgworlds_altis_loadingtext17">
           <Original>Many windmills are scattered across Altis, with the most notable ones in Zaros, Telos and Kore.</Original>
           <Chinese>Altis散佈著許多風車，最著名的幾座坐落在Zaros，Telos和Kore。</Chinese>
-          <Chinesesimp>阿尔蒂斯岛上散布着许多风车，最著名的几座坐落在扎罗斯，泰洛斯和科雷。</Chinesesimp>
+          <Chinesesimp>阿尔蒂斯岛上散布着许多风车，最着名的几座坐落在扎罗斯，泰洛斯和科雷。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext16">
           <Original>The ruins of Pyrgos Castle can be found between the harbor and the closed complex of government offices.</Original>
@@ -4698,13 +4698,13 @@
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext14">
           <Original>There is a picturesque chapel on the rocky promontory over the sea in Agios Konstantinos, believed to be built on the much older remnants of an Antique temple.</Original>
-          <Chinese>在AgiosKonstantinos海域的岩石海角上座落著一座風景如畫的禮拜堂，這座禮拜堂被認為是建立在一處更古老的廟宇遺蹟之上。</Chinese>
+          <Chinese>在AgiosKonstantinos海域的巖石海角上座落著一座風景如畫的禮拜堂，這座禮拜堂被認為是建立在一處更古老的廟宇遺蹟之上。</Chinese>
           <Chinesesimp>在圣孔斯坦蒂诺斯海域的岩石海角上座落着一座风景如画的礼拜堂，这座礼拜堂据信建立在一处更古老庙宇的遗迹之上。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext13">
           <Original>The mountain cave chapel of Agios Panagiotis north of Panochori is a popular place for local pilgrimages and festivities.</Original>
           <Chinese>這個位在Panochori北邊的AgiosPanagiotis山洞禮拜堂，是一個當地著名的朝聖與歡慶節日地。</Chinese>
-          <Chinesesimp>位于帕诺霍里北部圣帕帕乔蒂斯山上的山洞礼拜堂是当地一个著名的朝圣与欢庆节日地。</Chinesesimp>
+          <Chinesesimp>位于帕诺霍里北部圣帕帕乔蒂斯山上的山洞礼拜堂是当地一个着名的朝圣与欢庆节日地。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext12">
           <Original>Almyra, the biggest salt lake on Altis, serves as an auxiliary airstrip during summer, when the surface is dry and hard.</Original>
@@ -4854,22 +4854,22 @@
       <Key ID="str_a3_cfgvehicles_gmg_01_a_high_base_f0">
         <Original>Mk32A GMG 20 mm (Raised)</Original>
         <Chinese>Mk32A20mm榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk32A20毫米榴弹机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk32A 20毫米榴弹机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_gmg_01_high_base_f0">
         <Original>Mk32 GMG 20 mm (Raised)</Original>
         <Chinese>Mk3220mm榴彈機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk3220毫米榴弹机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk32 20毫米榴弹机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_hmg_01_a_high_base_f0">
         <Original>Mk30A HMG .50 (Raised)</Original>
         <Chinese>Mk30A.50重機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk30A.50重机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk30A .50重机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_hmg_01_high_base_f0">
         <Original>Mk30 HMG .50 (Raised)</Original>
         <Chinese>Mk30.50重機槍(高射腳架)</Chinese>
-        <Chinesesimp>Mk30.50重机枪(高射脚架)</Chinesesimp>
+        <Chinesesimp>Mk30 .50重机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f0">
         <Original>Dismantled Mk30 HMG (Raised) [NATO]</Original>
