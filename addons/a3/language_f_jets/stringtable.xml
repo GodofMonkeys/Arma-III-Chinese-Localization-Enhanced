@@ -155,7 +155,7 @@
       <Key ID="str_a3_hint_bombs_desc">
         <Original>A bomb is an airdropped explosive munition. After releasing, it follows a ballistic path. Where the bomb will land, if released at the given moment, is shown by a continuously-computed impact point (CCIP) in your HUD - a small crosshair or circle with a dot.%1%1Guided bombs can make corrections to this path to achieve better precision or to strike a moving target. At certain altitude a laser guided bomb (LGB) will automatically home in on the nearest laser spot (marked by your own targeting camera or friendly JTAC).%1 1. Press %11 to mark a lased spot.%1 2. Maneuver to bring the CCIP and marked laser together.%1 3. Release the bomb once the icons overlap or are reasonably close together.</Original>
         <Chinese>投擲炸彈前，您的HUD會顯示連續計算彈著點(CCIP)--一個小型的十字準心或一圓圈顯示當前炸彈的預期落點。當炸彈投出後便隨著拋物線下落直到顯示的落點上。%1%1導引型炸彈可以調整彈道路線，提升精準度、或是攻擊移動中的目標。到達適當高度後，雷射導引炸彈(LGB)會自動瞄準最近雷射標定地點，雷射標定可以由您的瞄準吊艙、或是友方的聯合終端攻擊管制員(JTAC)完成。%1 1.按下%11來雷射標定一個地點。%1 2.移動飛機使CCIP的十準心和標定點重疊。%1 3.待兩者重疊、或足夠接近時投出炸彈。</Chinese>
-        <Chinese>投?炸?前，您的HUD??示???算???(CCIP)--一?小型的十字準心或一?圈?示?前炸?的?期落?。?炸?投出后便???物?下落直到?示的落?上。%1%1?引型炸?可以?整?道路?，提升精準度、或是攻?移?中的目?。到?適?高度后，雷射?引炸?(LGB)?自?瞄準最近雷射?定地?，激光?定可以由您的瞄準吊?、或是友方的?合?端攻?管制?(JTAC)完成。%1 1.按下%11?激光?定一?地?。%1 2.移??機使CCIP的十準心和?定?重?。%1 3.待?者重?、或足?接近?投出炸?。</Chinese>
+        <Chinesesimp>投掷炸弹前，您的HUD会显示连续计算弹着点(CCIP)--一个小型的十字准心或一圆圈显示当前炸弹的预期落点。当炸弹投出后便随着抛物线下落直到显示的落点上。%1%1导引型炸弹可以调整弹道路线，提升精准度、或是攻击移动中的目标。到达适当高度后，雷射导引炸弹(LGB)会自动瞄准最近雷射标定地点，雷射标定可以由您的瞄准吊舱、或是友方的联合终端攻击管制员(JTAC)完成。%1 1.按下%11来雷射标定一个地点。%1 2.移动飞机使CCIP的十准心和标定点重叠。%1 3.待两者重叠、或足够接近时投出炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_airplanedamage_title">
         <Original>Extended Airplane Hitpoints</Original>
