@@ -522,7 +522,7 @@
             <Key ID="str_3den_display3den_menubar_missionfolder_text">
               <Original>Open Scenario Folder</Original>
               <Chinese>打開任務資料夾</Chinese>
-              <Chinesesimp>打开任务资料夹</Chinesesimp>
+              <Chinesesimp>打开任务文件夹</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_missionexport_text">
               <Original>Export</Original>
@@ -557,7 +557,7 @@
             <Key ID="str_3den_display3den_menubar_logfolder_text">
               <Original>Open Log Folder</Original>
               <Chinese>打開記錄資料夾</Chinese>
-              <Chinesesimp>打开记录资料夹</Chinesesimp>
+              <Chinesesimp>打开记录文件夹</Chinesesimp>
             </Key>
             <Key ID="str_3den_display3den_menubar_interfacetoggle_text">
               <Original>Toggle Interface</Original>
@@ -992,7 +992,7 @@
           <Key ID="STR_3DEN_Display3DENSave_ContextMenu_New_text">
             <Original>Create New Folder</Original>
             <Chinese>新增資料夾</Chinese>
-            <Chinesesimp>新增资料夹</Chinesesimp>
+            <Chinesesimp>新增文件夹</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Display3DENSave_ContextMenu_Rename_text">
             <Original>Rename</Original>
@@ -1267,8 +1267,8 @@
     <Container name="CfgNonAIVehicles">
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetectorAreaR250">
         <Original>Trigger (Ø 500 m)</Original>
-        <Chinese>觸發器(O500公尺)</Chinese>
-        <Chinesesimp>触发器(?500米)</Chinesesimp>
+        <Chinese>觸發器(Ø 500公尺)</Chinese>
+        <Chinesesimp>触发器(Ø 500米)</Chinesesimp>
       </Key>
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetector">
         <Original>Trigger</Original>
@@ -1282,8 +1282,8 @@
       </Key>
       <Key ID="STR_3DEN_CfgVehicles_EmptyDetectorAreaR50">
         <Original>Trigger (Ø 100 m)</Original>
-        <Chinese>觸發器(O100公尺)</Chinese>
-        <Chinesesimp>触发器(?100米)</Chinesesimp>
+        <Chinese>觸發器(Ø 100公尺)</Chinese>
+        <Chinesesimp>触发器(Ø 100米)</Chinesesimp>
       </Key>
     </Container>
     <Container name="Achievements">
@@ -1758,8 +1758,8 @@
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_vehicle_text">
               <Original>Empty Vehicles are no longer mixed together under &lt;%2&gt;Props&lt;%3&gt;.&lt;br /&gt;&lt;br /&gt;To place a vehicle without default crew, find it under its side (e.g., BLUFOR Hunter) and hold &lt;%2&gt;Alt&lt;%3&gt; while placing it.</Original>
-              <Chinese>空載具再也不歸類在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一個沒有組員的空載具，首先先找到該物件(像是藍方的“獵人”)，在要放置時按住&lt;%2&gt;Alt&lt;%3&gt;然後再放置即可產生空的載具。</Chinese>
-              <Chinesesimp>空载具再也不归类在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一个没有组员的空载具，首先先找到该物件(像是蓝方的“猎人”)，在要放置时按住&lt;%2&gt;Alt&lt;%3&gt;然后再放置即可产生空的载具。</Chinesesimp>
+              <Chinese>空載具再也不歸類在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一個沒有組員的空載具，首先先找到該物件(像是藍方的"獵人")，在要放置時按住&lt;%2&gt;Alt&lt;%3&gt;然後再放置即可產生空的載具。</Chinese>
+              <Chinesesimp>空载具再也不归类在&lt;%2&gt;道具&lt;%3&gt;之下。&lt;br/&gt;&lt;br/&gt;要放置一个没有组员的空载具，首先先找到该物件(像是蓝方的"猎人")，在要放置时按住&lt;%2&gt;Alt&lt;%3&gt;然后再放置即可产生空的载具。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_intro_sections_oldeditor_undo_text">
               <Original>And last, but not least, you can now undo recent changes you have made.&lt;br /&gt;&lt;br /&gt;Please keep in mind that the history is reset every time you play the scenario or load another one.</Original>
@@ -2385,7 +2385,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_attributes_ext_text">
               <Original>Most of the scenario attributes can be overridden externally in the &lt;%2&gt;Description.ext&lt;%3&gt; file. For more information about this advanced feature, please visit the &lt;%10&gt;Community Wiki&lt;%11&gt;.</Original>
               <Chinese>大多的任務屬性皆能另外在&lt;%2&gt;Description.ext&lt;%3&gt;檔案中進行編輯。想要知道更多設定方法，請訪問我們的&lt;%10&gt;維基百科社群&lt;%11&gt;來獲得更多資訊。</Chinese>
-              <Chinesesimp>大多数的任务属性都能另外在&lt;%2&gt;Description.ext&lt;%3&gt;档案中进行编辑。想要知道更多设定方法，请访问我们的&lt;%10&gt;维基百科社区&lt;%11&gt;来获得更多资讯。</Chinesesimp>
+              <Chinesesimp>大多数的任务属性都能另外在&lt;%2&gt;Description.ext&lt;%3&gt;档案中进行编辑。想要知道更多设定方法，请访问我们的&lt;%10&gt;维基百科社区&lt;%11&gt;来获得更多信息。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_attributes_environment_text">
               <Original>&lt;%2&gt;Environment&lt;%3&gt; allows you to configure the date, time and weather. These settings are unique for each phase, which means you can have a night scenario and daytime intro at the same time.</Original>
@@ -2501,7 +2501,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_publishing_export_text">
               <Original>You can also export the scenario into packed &lt;%2&gt;*.pbo&lt;%3&gt; format. Expand &lt;%2&gt;Scenario &gt; Export&lt;%3&gt; and pick either &lt;%2&gt;Export to Singleplayer&lt;%3&gt; or &lt;%2&gt;Export to Multiplayer&lt;%3&gt;. The scenario with all files and folders inside will be packed into a *.pbo file. You can find it in the game's root folder in the folders named Missions and MPMissions respectively.&lt;br /&gt;If anyone else places the file in the same folders, he will be able to play the scenario from the main menu.</Original>
               <Chinese>你也可以匯出任務檔案，使之變成&lt;%2&gt;*.pbo&lt;%3&gt;的檔案格式。展開&lt;%2&gt;任務&gt;匯出&lt;%3&gt;並從&lt;%2&gt;匯出到單人遊戲&lt;%3&gt;或&lt;%2&gt;匯出到多人遊戲&lt;%3&gt;中進行選擇。任務的檔案與其中的資料夾會被匯出成*.pbo檔案。你可以在遊戲安裝資料夾的Missions和MPMissions資料夾中找到匯出的檔案。&lt;br/&gt;將這檔案傳給其他人，讓他們將檔案放置在同一個資料夾中，便可讓他們從主選單中直接執行該任務。</Chinese>
-              <Chinesesimp>你也可以汇出任务档案，使之变成&lt;%2&gt;*.pbo&lt;%3&gt;的档案格式。展开&lt;%2&gt;任务&gt;汇出&lt;%3&gt;并从&lt;%2&gt;汇出到单人游戏&lt;%3&gt;或&lt;%2&gt;汇出到多人游戏&lt;%3&gt;中进行选择。任务的档案与其中的资料夹会被汇出成*.pbo档案。你可以在游戏安装资料夹的Missions和MPMissions资料夹中找到汇出的档案。&lt;br/&gt;将这档案传给其他人，让他们将档案放置在同一个资料夹中，便可让他们从主菜单中直接执行该任务。</Chinesesimp>
+              <Chinesesimp>你也可以汇出任务档案，使之变成&lt;%2&gt;*.pbo&lt;%3&gt;的档案格式。展开&lt;%2&gt;任务&gt;汇出&lt;%3&gt;并从&lt;%2&gt;汇出到单人游戏&lt;%3&gt;或&lt;%2&gt;汇出到多人游戏&lt;%3&gt;中进行选择。任务的档案与其中的文件夹会被汇出成*.pbo档案。你可以在游戏安装文件夹的Missions和MPMissions文件夹中找到汇出的档案。&lt;br/&gt;将这档案传给其他人，让他们将档案放置在同一个文件夹中，便可让他们从主菜单中直接执行该任务。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -3087,7 +3087,7 @@
           <Key ID="str_3den_object_attribute_objectmaterialcustom_tooltip">
             <Original>Custom material applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myMaterial.rvmat") or relative to the game's directory (e.g., "\a3\Data_F\default.rvmat").</Original>
             <Chinese>自定義目標物件的材質。請使用任務資料夾的相對路徑(例如"Textures\myMaterial.rvmat")或者你也可以指定到遊戲資料夾中(例如"\a3\Data_F\default.rvmat")。</Chinese>
-            <Chinesesimp>自定义目标物件的材质。请使用任务资料夹的相对路径(例如"Textures\myMaterial.rvmat")或者你也可以指定到游戏资料夹中(例如"\a3\Data_F\default.rvmat")。</Chinesesimp>
+            <Chinesesimp>自定义目标物件的材质。请使用任务文件夹的相对路径(例如"Textures\myMaterial.rvmat")或者你也可以指定到游戏文件夹中(例如"\a3\Data_F\default.rvmat")。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_simpleobject_displayName">
             <Original>Simple Object</Original>
@@ -3097,7 +3097,7 @@
           <Key ID="str_3den_object_attribute_simpleobject_tooltip">
             <Original>When enabled, the object will behave like a map object (e.g. rocks or trees), which significantly saves performance. This option is available only for objects where it leads to improved performance.\n\nWarning: If set, the setting is enforced at the start of the scenario and is irreversible during its runtime!</Original>
             <Chinese>當本功能開啟時，此物件的表現就會像是一般的地形物件(例如房子或是樹)，這可顯著的節省遊戲效能。這功能只會在該載具內並無任何機組員時才可啟用。\n\n警告:此功能將會在遊戲開始後啟用，爾後不能再做任何更改!</Chinese>
-            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件(例如房子或是树)，这可显着的节省游戏效能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，尔后不能再做任何更改!</Chinesesimp>
+            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件(例如房子或是树)，这可显着的节省游戏性能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，之后不能再做任何更改!</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom0_displayname">
             <Original>Texture #0</Original>
@@ -3127,7 +3127,7 @@
           <Key ID="str_3den_object_attribute_objecttexturecustom_tooltip">
             <Original>Custom texture applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myTexture_ca.paa", relative to the game's directory (e.g., "\a3\Ui_f\data\Logos\arma3_white_ca.paa" or a procedural texture (e.g., "#(argb,8,8,3_color(1,0,1,1)").</Original>
             <Chinese>自定義目標物件的貼圖。請使用任務資料夾的相對路徑(例如"Textures\myTexture_ca.paa")，你也可以指定到遊戲資料夾中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用腳本貼圖(例如"#(argb，8，8，3_color(1，0，1，1)")。</Chinese>
-            <Chinesesimp>自定义目标物件的纹理。请使用任务资料夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏资料夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如"#(argb，8，8，3_color(1，0，1，1)")。</Chinesesimp>
+            <Chinesesimp>自定义目标物件的纹理。请使用任务文件夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏文件夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如"#(argb，8，8，3_color(1，0，1，1)")。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_wakeupdynsim_displayname">
             <Original>Wake-Up Dynamic Simulation</Original>
@@ -3197,7 +3197,7 @@
           <Key ID="STR_3DEN_Object_Attribute_ReportOwnPosition_tooltip">
             <Original>Vehicle will broadcast its own position to any other unit on the same side with Data Link enabled.</Original>
             <Chinese>此載具會發送自己的位置資訊給其他已經開啟接收數據的友方單位。</Chinese>
-            <Chinesesimp>此载具会发送自己的位置资讯给其他已经开启接收数据的友方单位。</Chinesesimp>
+            <Chinesesimp>此载具会发送自己的位置信息给其他已经开启接收数据的友方单位。</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_VisionModes_tooltip">
             <Original>Disables individual spectrum modes of the vehicle optics (visual, night vision, thermal)</Original>
@@ -3217,7 +3217,7 @@
           <Key ID="STR_3DEN_Object_Attribute_ReportRemoteTargets_tooltip">
             <Original>Vehicle will broadcast targets tracked by its sensors to any other unit on the same side with Data Link enabled.</Original>
             <Chinese>此載具會發送自己掃描到的目標資訊給其他已經開啟接收數據的友方單位。</Chinese>
-            <Chinesesimp>此载具会发送自己扫描到的目标资讯给其他已经开启接收数据的友方单位。</Chinesesimp>
+            <Chinesesimp>此载具会发送自己扫描到的目标信息给其他已经开启接收数据的友方单位。</Chinesesimp>
           </Key>
         </Container>
         <Container name="Mode">
@@ -3351,7 +3351,7 @@
         <Key ID="STR_3DEN_Messages_MissionLoadImported">
           <Original>Importing the scenario will update it to a new format. A backup will be created in the scenario folder. Do you want to import the scenario?</Original>
           <Chinese>匯入的任務將會更新到新的檔案格式中。一個備用檔案將會被建立在任務資料夾中。你想要匯入任務嗎?</Chinese>
-          <Chinesesimp>汇入的任务将会更新到新的档案格式中。一个备用档案将会被建立在任务资料夹中。你想要汇入任务吗?</Chinesesimp>
+          <Chinesesimp>汇入的任务将会更新到新的档案格式中。一个备用档案将会被建立在任务文件夹中。你想要汇入任务吗?</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_editorClose">
           <Original>Do you want to close Eden Editor?</Original>
@@ -3386,7 +3386,7 @@
         <Key ID="STR_3DEN_Messages_folderDelete">
           <Original>Do you want to delete the folder?</Original>
           <Chinese>你想要刪掉資料夾嗎?</Chinese>
-          <Chinesesimp>你想要删掉资料夹吗?</Chinesesimp>
+          <Chinesesimp>你想要删掉文件夹吗?</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionDelete">
           <Original>Do you want to delete the scenario?</Original>
@@ -3523,8 +3523,8 @@
           </Key>
           <Key ID="str_3den_logic_attribute_type_tooltip">
             <Original>****TO TRANSLATE****</Original>
-            <Chinese>****TOTRANSLATE****</Chinese>
-            <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+            <Chinese>****待翻譯****</Chinese>
+            <Chinesesimp>****待翻译****</Chinesesimp>
           </Key>
         </Container>
         <Key ID="STR_3DEN_Logic_textPlural">
@@ -4479,13 +4479,13 @@
         </Key>
         <Key ID="str_3den_notifications_missionexportsp_text">
           <Original>Exported to &amp;lt;Arma 3&amp;gt;/Missions</Original>
-          <Chinese>匯出到&amp;lt;Arma3&amp;gt;/Missions資料夾</Chinese>
-          <Chinesesimp>汇出到&amp;lt;武装突袭3&amp;gt;/Missions资料夹</Chinesesimp>
+          <Chinese>匯出到&amp;lt;武裝突襲3&amp;gt;/Missions資料夾</Chinese>
+          <Chinesesimp>汇出到&amp;lt;武装突袭3&amp;gt;/Missions文件夹</Chinesesimp>
         </Key>
         <Key ID="str_3den_notifications_missionexportmp_text">
           <Original>Exported to &amp;lt;Arma 3&amp;gt;/MPMissions</Original>
-          <Chinese>匯出到&amp;lt;Arma3&amp;gt;/MPMissions資料夾</Chinese>
-          <Chinesesimp>汇出到&amp;lt;武装突袭3&amp;gt;/MPMissions资料夹</Chinesesimp>
+          <Chinese>匯出到&amp;lt;武裝突襲3&amp;gt;/MPMissions資料夾</Chinese>
+          <Chinesesimp>汇出到&amp;lt;武装突袭3&amp;gt;/MPMissions文件夹</Chinesesimp>
         </Key>
         <Key ID="str_3den_notifications_missionautosaved_text">
           <Original>Scenario autosaved</Original>
@@ -5124,12 +5124,12 @@
             <Key ID="str_3den_preferences_attribute_custommissionfolders_tooltip">
               <Original>Paths to folders to be scanned for scenarios in 'Open Scenario' window.\nPaths start in the game root, and are divided by a semicolon.\nExample: A3\Missions_F_EXPA\Campaign\Scenarios</Original>
               <Chinese>設定'開啟任務'的資料夾路徑。\n初始路徑是在遊戲根目錄底下，使用分號來做區別。\n例子:A3\Missions_F_EXPA\Campaign\Scenarios</Chinese>
-              <Chinesesimp>设定'开启任务'的资料夹路径。\n初始路径是在游戏根目录底下，使用分号来做区别。\n例子:A3\Missions_F_EXPA\Campaign\Scenarios</Chinesesimp>
+              <Chinesesimp>设定'开启任务'的文件夹路径。\n初始路径是在游戏根目录底下，使用分号来做区别。\n例子:A3\Missions_F_EXPA\Campaign\Scenarios</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_custommissionfolders_displayname">
               <Original>Mission Folders</Original>
               <Chinese>任務資料夾</Chinese>
-              <Chinesesimp>任务资料夹</Chinesesimp>
+              <Chinesesimp>任务文件夹</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_cameraspeedcoefmodified_tooltip">
               <Original>Fast camera speed coefficient. Influences movement with 'Turbo' key held. Affected also by the default speed.</Original>
@@ -5300,7 +5300,7 @@
             <Key ID="str_3den_scenario_attribute_showmap_tooltip">
               <Original>When disabled, a black screen is shown instead of the map. Tasks, notes and other information will remain accessible. Can also be achieved by removing the map from the player's inventory.</Original>
               <Chinese>當本功能關閉時，地圖畫面將會一片漆黑。但任務目標，概要說明以及其他資訊還是可以閱讀的。此功能也可透過移除玩家的地圖裝備來達到此一效果。</Chinese>
-              <Chinesesimp>当本功能关闭时，地图画面将会一片漆黑。但任务目标，概要说明以及其他资讯还是可以阅读的。此功能也可通过移除玩家的地图装备来达到此效果。</Chinesesimp>
+              <Chinesesimp>当本功能关闭时，地图画面将会一片漆黑。但任务目标，概要说明以及其他信息还是可以阅读的。此功能也可通过移除玩家的地图装备来达到此效果。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_showmap_displayname">
               <Original>Show Map</Original>
@@ -5310,7 +5310,7 @@
             <Key ID="str_3den_scenario_attribute_showhud_tooltip">
               <Original>When disabled, on-screen information such as weapon information or the command menu will be hidden.</Original>
               <Chinese>當本功能關閉時，畫面中的所有資訊(像是子彈類型，數量)以及命令選單等等皆會隱藏起來。</Chinese>
-              <Chinesesimp>当本功能关闭时，画面中的所有资讯(像是子弹类型，数量)以及命令菜单等等都会隐藏起来。</Chinesesimp>
+              <Chinesesimp>当本功能关闭时，画面中的所有信息(像是子弹类型，数量)以及命令菜单等等都会隐藏起来。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_showhud_displayname">
               <Original>Show HUD</Original>
@@ -5490,22 +5490,22 @@
             <Key ID="str_3den_scenario_attribute_appid_displayname">
               <Original>DLC</Original>
               <Chinese>資料片</Chinese>
-              <Chinesesimp>DLC</Chinesesimp>
+              <Chinesesimp>资料片</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_appid_tooltip">
               <Original>When set, the overview image will be overlaid with a DLC frame indicating the scenario belongs to the DLC.</Original>
               <Chinese>當選擇完某個資料片後，概要的圖片上會被覆蓋上該資料片的圖示，提示此任務需要哪個資料片。</Chinese>
-              <Chinesesimp>当选择完某个DLC后，概要的图片上会被覆盖上该DLC的图示，提示此任务需要哪个DLC。</Chinesesimp>
+              <Chinesesimp>当选择完某个资料片后，概要的图片上会被覆盖上该资料片的图示，提示此任务需要哪个资料片。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_assettype_displayname">
               <Original>Require DLC</Original>
               <Chinese>需要資料片</Chinese>
-              <Chinesesimp>需要DLC</Chinesesimp>
+              <Chinesesimp>需要资料片</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_assettype_tooltip">
               <Original>Sets if the DLC is required. When checked, the player will not be able to play the scenario if the DLC is not owned.</Original>
               <Chinese>設定是否需要指定的資料片。當本功能開啟時，沒有指定資料片的玩家將不能遊玩此任務。</Chinese>
-              <Chinesesimp>设定是否需要指定的DLC。当本功能开启时，没有指定DLC的玩家将不能游玩此任务。</Chinesesimp>
+              <Chinesesimp>设定是否需要指定的资料片。当本功能开启时，没有指定资料片的玩家将不能游玩此任务。</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_binarize_displayName">
               <Original>Binarize the Scenario File</Original>
@@ -5656,8 +5656,8 @@
           </Key>
           <Key ID="str_3den_group_attribute_deleteempty_tooltip">
             <Original>Automatically delete the group when it's empty.\n\nNote: Deletion is not immediate.</Original>
-            <Chinese>當此群組之中已經沒有任何物件，此群組會自動被刪除y。\n\n注意:刪除並不會立即執行。</Chinese>
-            <Chinesesimp>当此群组之中已经没有任何物件，此群组会自动被删除y。\n\n注意:删除并不会立即执行。</Chinesesimp>
+            <Chinese>當此群組之中已經沒有任何物件，此群組會自動被刪除。\n\n注意:刪除並不會立即執行。</Chinese>
+            <Chinesesimp>当此群组之中已经没有任何物件，此群组会自动被删除。\n\n注意:删除并不会立即执行。</Chinesesimp>
           </Key>
           <Key ID="str_3den_group_attribute_dynsim_displayname">
             <Original>Enable Dynamic Simulation</Original>

@@ -5,184 +5,184 @@
       <Container name="DLCBrowser">
         <Key ID="STR_A3_DLCB_Campaign_Apex">
           <Original>Take on the role of a NATO CTRG special operator in the 1-4 player "Apex Protocol" co-op campaign. It consists of highly replayable missions, featuring a drop-in / drop-out multiplayer structure, and the difficulty scales up or down based on the number of players.</Original>
-          <Chinese>擔任NATO戰研大隊的特戰兵，一同參與"頂尖協議"1-4名玩家合作戰役。此戰役有著高度重玩性與挑戰性的任務，並設計成可以中間加入/離開的多人遊戲架構，而任務難度則由參與玩家的人數多寡來自動進行調整。</Chinese>
+          <Chinese>擔任北約戰研大隊的特戰兵，一同參與"頂尖協議"1-4名玩家合作戰役。此戰役有著高度重玩性與挑戰性的任務，並設計成可以中間加入/離開的多人遊戲架構，而任務難度則由參與玩家的人數多寡來自動進行調整。</Chinese>
           <Chinesesimp>担任北约战研大队的特战兵，一同参与"顶尖协议"1-4名玩家合作战役。此战役有着高度重玩性与挑战性的任务，并设计成可以中间加入/离开的多人游戏架构，而任务难度则由参与玩家的人数多寡来自动进行调整。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_DLCB_Showcase_EndGame">
           <Original>Experience the End Game mode in a singleplayer environment. Secure and upload valuable schematics on Tanoa before the enemy is able to stop you.</Original>
-          <Chinese>在單人遊戲下體驗終戰模式。在Tanoa上進行肅清與上傳武器藍圖的任務，別讓敵人阻止你完成任務。</Chinese>
-          <Chinesesimp>在单人游戏下体验终战模式。在Tanoa上进行肃清与上传武器蓝图的任务，别让敌人阻止你完成任务。</Chinesesimp>
+          <Chinese>在單人遊戲下體驗終戰模式。在塔諾亞上進行肅清與上傳武器藍圖的任務，別讓敵人阻止你完成任務。</Chinese>
+          <Chinesesimp>在单人游戏下体验终战模式。在塔诺亚上进行肃清与上传武器蓝图的任务，别让敌人阻止你完成任务。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_DLCB_EG_scenario04">
           <Original>Use sea, air and land vehicles to secure victory over the valuable schematics on Balavu island.</Original>
-          <Chinese>在Balavu島上使用陸，海，空載具來奪取武器藍圖。</Chinese>
+          <Chinese>在巴拉武島上使用陸，海，空載具來奪取武器藍圖。</Chinese>
           <Chinesesimp>在巴拉武岛上使用陆，海，空载具来夺取武器蓝图。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_DLCB_EG_scenario05">
           <Original>Battle through the city of Moddergat and the nearby jungle to secure and upload the valuable schematics during intense infantry combat.</Original>
-          <Chinese>此任務著重於步兵戰，任務是在Moddergat城市與附近的叢林中爭奪並上傳武器藍圖。</Chinese>
+          <Chinese>此任務著重於步兵戰，任務是在莫德爾加城市與附近的叢林中爭奪並上傳武器藍圖。</Chinese>
           <Chinesesimp>此任务着重于步兵战斗，任务是在莫德尔加市与附近的丛林中争夺并上传武器蓝图。</Chinesesimp>
         </Key>
       </Container>
       <Container name="Callsigns">
         <Key ID="str_a3_group_alpha">
           <Original>Alpha</Original>
-          <Chinese>Alpha</Chinese>
+          <Chinese>阿爾法</Chinese>
           <Chinesesimp>阿尔法</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_vipergreen">
           <Original>Viper-Green</Original>
-          <Chinese>Viper-Green</Chinese>
+          <Chinese>毒蛇-綠</Chinese>
           <Chinesesimp>毒蛇-绿</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_bravo_green">
           <Original>Viper-Green</Original>
-          <Chinese>Viper-Green</Chinese>
+          <Chinese>毒蛇-綠</Chinese>
           <Chinesesimp>毒蛇-绿</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_hydra">
           <Original>Hydra</Original>
-          <Chinese>Hydra</Chinese>
+          <Chinese>九頭蛇</Chinese>
           <Chinesesimp>九头蛇</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_rook">
           <Original>Rook</Original>
-          <Chinese>Rook</Chinese>
+          <Chinese>白嘴鴉</Chinese>
           <Chinesesimp>白嘴鸦</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_bravo_black">
           <Original>Viper-Black</Original>
-          <Chinese>Viper-Black</Chinese>
+          <Chinese>毒蛇-黑</Chinese>
           <Chinesesimp>毒蛇-黑</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_omega">
           <Original>Omega</Original>
-          <Chinese>Omega</Chinese>
+          <Chinese>歐米加</Chinese>
           <Chinesesimp>欧米加</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_fox">
           <Original>Fox</Original>
-          <Chinese>Fox</Chinese>
+          <Chinese>狐狸</Chinese>
           <Chinesesimp>狐狸</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_kilo">
           <Original>Kilo</Original>
-          <Chinese>Kilo</Chinese>
+          <Chinese>基洛</Chinese>
           <Chinesesimp>基洛</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_echo_blue">
           <Original>Echo</Original>
-          <Chinese>Echo</Chinese>
+          <Chinese>回聲</Chinese>
           <Chinesesimp>回声</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_papabear">
           <Original>Papa Bear</Original>
-          <Chinese>PapaBear</Chinese>
+          <Chinese>熊爸爸</Chinese>
           <Chinesesimp>熊爸爸</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_echo">
           <Original>Echo</Original>
-          <Chinese>Echo</Chinese>
+          <Chinese>回聲</Chinese>
           <Chinesesimp>回声</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_papa_bear">
           <Original>Papa Bear</Original>
-          <Chinese>PapaBear</Chinese>
+          <Chinese>熊爸爸</Chinese>
           <Chinesesimp>熊爸爸</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_griffin">
           <Original>Griffin</Original>
-          <Chinese>Griffin</Chinese>
+          <Chinese>獅鷲</Chinese>
           <Chinesesimp>狮鹫</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_bravo">
           <Original>Bravo</Original>
-          <Chinese>Bravo</Chinese>
+          <Chinese>布拉沃</Chinese>
           <Chinesesimp>布拉沃</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_griffin">
           <Original>Griffin</Original>
-          <Chinese>Griffin</Chinese>
+          <Chinese>獅鷲</Chinese>
           <Chinesesimp>狮鹫</Chinesesimp>
         </Key>
         <Key ID="str_a3_callsign_headhunters">
           <Original>Headhunters</Original>
-          <Chinese>Headhunters</Chinese>
+          <Chinese>獵頭者</Chinese>
           <Chinesesimp>猎头者</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_alpha5">
           <Original>Alpha-5</Original>
-          <Chinese>Alpha-5</Chinese>
+          <Chinese>阿爾法-5</Chinese>
           <Chinesesimp>阿尔法-5</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_alphapoint">
           <Original>Alpha Point</Original>
-          <Chinese>Alpha點</Chinese>
+          <Chinese>阿爾法點</Chinese>
           <Chinesesimp>阿尔法尖兵</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_bishop">
           <Original>Bishop</Original>
-          <Chinese>Bishop</Chinese>
+          <Chinese>主教</Chinese>
           <Chinesesimp>主教</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_charlie">
           <Original>Charlie</Original>
-          <Chinese>Charlie</Chinese>
+          <Chinese>查理</Chinese>
           <Chinesesimp>查理</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_foxtrot1">
           <Original>Foxtrot-1</Original>
-          <Chinese>Foxtrot-1</Chinese>
+          <Chinese>狐步舞-1</Chinese>
           <Chinesesimp>狐步舞-1</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_whisky6">
           <Original>Whisky-6</Original>
-          <Chinese>Whisky-6</Chinese>
+          <Chinese>威士忌-6</Chinese>
           <Chinesesimp>威士忌-6</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_hydracopilot">
           <Original>Hydra Copilot</Original>
-          <Chinese>Hydra副駕駛</Chinese>
+          <Chinese>九頭蛇副駕駛</Chinese>
           <Chinesesimp>九头蛇副驾驶</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_foxtrot2">
           <Original>Foxtrot-2</Original>
-          <Chinese>Foxtrot-2</Chinese>
+          <Chinese>狐步舞-2</Chinese>
           <Chinesesimp>狐步舞-2</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_foxtrot3">
           <Original>Foxtrot-3</Original>
-          <Chinese>Foxtrot-3</Chinese>
+          <Chinese>狐步舞-3</Chinese>
           <Chinesesimp>狐步舞-3</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_foxtrot4">
           <Original>Foxtrot-4</Original>
-          <Chinese>Foxtrot-4</Chinese>
+          <Chinese>狐步舞-4</Chinese>
           <Chinesesimp>狐步舞-4</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_golf1">
           <Original>Golf-1</Original>
-          <Chinese>Golf-1</Chinese>
+          <Chinese>高爾夫-1</Chinese>
           <Chinesesimp>高尔夫-1</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_golf2">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_hawkeye">
           <Original>Hawkeye</Original>
-          <Chinese>Hawkeye</Chinese>
+          <Chinese>鷹眼</Chinese>
           <Chinesesimp>鹰眼</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_romeo">
           <Original>Romeo</Original>
-          <Chinese>Romeo</Chinese>
+          <Chinese>羅密歐</Chinese>
           <Chinesesimp>罗密欧</Chinesesimp>
         </Key>
         <Key ID="str_a3_group_viperred">
           <Original>Viper-Red</Original>
-          <Chinese>Viper-Red</Chinese>
+          <Chinese>毒蛇-紅</Chinese>
           <Chinesesimp>毒蛇-红</Chinesesimp>
         </Key>
       </Container>
@@ -252,7 +252,7 @@
           </Key>
           <Key ID="str_a3_showcase_helicopters_unload_desc">
             <Original>Land at the Kamino base heliport and unload the squad.</Original>
-            <Chinese>降落在Kamino基地並卸載小隊。</Chinese>
+            <Chinese>降落在卡米諾基地並卸載小隊。</Chinese>
             <Chinesesimp>降落在卡米诺基地的直升机坪并卸载小队。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_transport_title">
@@ -267,7 +267,7 @@
           </Key>
           <Key ID="str_a3_showcase_helicopters_transport_desc">
             <Original>Transport the Viper SF team to Kamino base.</Original>
-            <Chinese>運輸Viper特種部隊到Kamino基地。</Chinese>
+            <Chinese>運輸毒蛇特種部隊到卡米諾基地。</Chinese>
             <Chinesesimp>运输毒蛇特种部队到卡米诺基地。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_take_off_title">
@@ -282,17 +282,17 @@
           </Key>
           <Key ID="str_a3_showcase_helicopters_take_off_desc">
             <Original>Board the transport helicopter and take off ASAP.</Original>
-            <Chinese>搭乘運輸直升機並等待Viper小隊登機。然後盡快起飛。</Chinese>
+            <Chinese>搭乘運輸直升機並等待毒蛇小隊登機。然後盡快起飛。</Chinese>
             <Chinesesimp>搭乘运输直升机并尽快起飞。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_sitrep_text">
             <Original>Stratis Airbase</Original>
-            <Chinese>Stratis空軍基地</Chinese>
+            <Chinese>斯特拉蒂斯空軍基地</Chinese>
             <Chinesesimp>斯特拉蒂斯空军基地</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_showcase_summary_text">
             <Original>Take on Arma 3's rotor-wing flight. Transport a Quick Reaction Force to the scene of an attack on one of our facilities.</Original>
-            <Chinese>體驗ArmA3的直升機。運輸一支快速應變部隊到正在遭受攻擊的我方設施。</Chinese>
+            <Chinese>體驗武裝突襲3的直升機。運輸一支快速應變部隊到正在遭受攻擊的我方設施。</Chinese>
             <Chinesesimp>体验武装突袭3的直升机。运输一支快速反应部队到正在遭受攻击的我方设施。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_rtb_title">
@@ -332,12 +332,12 @@
           </Key>
           <Key ID="str_a3_showcase_helicopters_resupply_low_on_ammo_desc">
             <Original>Refill your ammo and fuel at Camp Rogain.</Original>
-            <Chinese>在Rogain營地重新補給彈藥與油料。</Chinese>
+            <Chinese>在羅根營地重新補給彈藥與油料。</Chinese>
             <Chinesesimp>在罗根营地重新补给弹药与油料。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_resupply_desc">
             <Original>Fly to Camp Rogain and refill ammo and fuel. Await further intel.</Original>
-            <Chinese>飛往Rogain營地降落，並進行補給。然後請等待進一步命令。</Chinese>
+            <Chinese>飛往羅根營地降落，並進行補給。然後請等待進一步命令。</Chinese>
             <Chinesesimp>飞往罗根营地降落并进行补给。等待进一步命令。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_rearmingprogress">
@@ -357,7 +357,7 @@
           </Key>
           <Key ID="str_a3_showcase_helicopters_fly_to_kamino_title">
             <Original>Fly to Kamino base</Original>
-            <Chinese>飛到Kamino基地</Chinese>
+            <Chinese>飛到卡米諾基地</Chinese>
             <Chinesesimp>飞往卡米诺基地</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_fly_to_kamino_marker">
@@ -367,7 +367,7 @@
           </Key>
           <Key ID="str_a3_showcase_helicopters_fly_to_kamino_desc">
             <Original>Follow the pre-planned route and land at Kamino base.</Original>
-            <Chinese>按照預先計畫的路線飛到Kamino基地。</Chinese>
+            <Chinese>按照預先計畫的路線飛到卡米諾基地。</Chinese>
             <Chinesesimp>按照预先计划的路线飞到卡米诺基地。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_destroy_mortars_title">
@@ -382,7 +382,7 @@
           </Key>
           <Key ID="str_a3_showcase_helicopters_destroy_mortars_kamino_title">
             <Original>Defend Kamino base</Original>
-            <Chinese>防禦Kamino基地</Chinese>
+            <Chinese>防禦卡米諾基地</Chinese>
             <Chinesesimp>防御卡米诺基地</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_destroy_mortars_kamino_marker">
@@ -442,8 +442,8 @@
           </Key>
           <Key ID="str_a3_showcase_helicopters_defend_base_desc">
             <Original>Coordinate with Griffin and defend Mike-26 from enemy forces.</Original>
-            <Chinese>與Griffin協調，並從敵軍的手中保護Mike-26基地。</Chinese>
-            <Chinesesimp>与“狮鹫”协调，并从敌军的手中保护Mike-26基地。</Chinesesimp>
+            <Chinese>與"狮鹫"協調，並從敵軍的手中保護Mike-26基地。</Chinese>
+            <Chinesesimp>与"狮鹫"协调，并从敌军的手中保护Mike-26基地。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_debriefing_end4">
             <Original>Helicopter was seriously damaged.</Original>
@@ -452,17 +452,17 @@
           </Key>
           <Key ID="str_a3_showcase_helicopters_debriefing_end1">
             <Original>Thanks to well executed aerial support, ground forces managed to fend off both attacks on Mike-26 and Kamino base. Enemy forces were decimated.</Original>
-            <Chinese>多虧了優秀的空中支援，地面部隊成功抵禦了兩處攻擊，包括Mike-26和Kamino這兩處基地。敵軍已被消滅。</Chinese>
+            <Chinese>多虧了優秀的空中支援，地面部隊成功抵禦了兩處攻擊，包括Mike-26和卡米諾這兩處基地。敵軍已被消滅。</Chinese>
             <Chinesesimp>多亏了优秀的空中支援，地面部队成功抵御了针对Mike-26和卡米诺这两处基地的攻击。敌军已被消灭。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_briefing_situation_text">
             <Original>%3Kamino base%1 has come under attack. We believe enemy forces have linked up with local guerrillas and have launched a surprise hit-and-run assault.&lt;br /&gt;
 A motorized Quick Response Force has been dispatched to the %3area%1, but our forces are in need of immediate relief. Three SF squads - Vipers Red, Blue and Green - are preparing an assault. These teams will be deployed by helicopter = callsigns Hydra, Chimera and Dragon - dispatched from %2Stratis airfield%1.&lt;br /&gt;
 With aerial support, they should be able to fight off the enemy forces until ground reinforcements arrive.</Original>
-            <Chinese>%3Kamino基地%1正在遭受攻擊。我們相信敵軍是聯合了當地的游擊隊，來發動突如其來的游擊戰。&lt;br/&gt;
-一支快速應變部隊已經出動到該%3區域%1了，但是我們的部隊仍需要緊急支援。三支特種部隊-VipersRed，Blue和Green-正在準備進行支援。這些小隊將由Hydra，Chimera和Dragon等直升機來部屬，他們將從%2Stratis空軍基地%1出發。&lt;br/&gt;藉著空中支援，他們應該可以擊退敵軍的部隊直到地面援軍抵達。</Chinese>
+            <Chinese>%3卡米諾基地%1正在遭受攻擊。我們相信敵軍是聯合了當地的游擊隊，來發動突如其來的游擊戰。&lt;br/&gt;
+一支快速應變部隊已經出動到該%3區域%1了，但是我們的部隊仍需要緊急支援。三支特種部隊-毒蛇"紅"，"藍"和"綠"-正在準備進行支援。這些小隊將由"九頭蛇"，"奇美拉"和"龍"等直升機來部屬，他們將從%2斯特拉蒂斯空軍基地%1出發。&lt;br/&gt;藉著空中支援，他們應該可以擊退敵軍的部隊直到地面援軍抵達。</Chinese>
             <Chinesesimp>%3卡米诺基地%1正在遭受攻击。我们相信敌军是联合了当地的游击队，发动突如其来的游击战。&lt;br/&gt;
-一支快速反应部队已经出动到该%3区域%1了，但是我们的部队仍需要紧急支援。三支特种部队-“毒蛇-红”，“蓝”和“绿”-正在准备进行支援。这些小队将由“九头蛇”，“奇美拉”和“龙”等直升机来部署，他们将从%2斯特拉蒂斯空军基地%1出发。&lt;br/&gt;
+一支快速反应部队已经出动到该%3区域%1了，但是我们的部队仍需要紧急支援。三支特种部队-"毒蛇-红"，"蓝"和"绿"-正在准备进行支援。这些小队将由"九头蛇"，"奇美拉"和"龙"等直升机来部署，他们将从%2斯特拉蒂斯空军基地%1出发。&lt;br/&gt;
 凭借空中支援，他们应该可以击退敌军的部队直到地面援军抵达。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_briefing_signal_text">
@@ -476,20 +476,20 @@ With aerial support, they should be able to fight off the enemy forces until gro
 %2Viper-Green%1 - SF team; carried by Dragon</Original>
             <Chinese>%3Griffin%1-中央司令部;位在Stratis空軍基地&lt;br/&gt;
 %4Tiger%1-Kamino基地的指揮官&lt;br/&gt;
-%2Hydra%1-運輸直升機;運輸Viper-Red小隊&lt;br/&gt;
-%2Chimera%1-運輸直升機;運輸Viper-Blue小隊&lt;br/&gt;
-%2Dragon%1-運輸直升機;運輸Viper-Green小隊&lt;br/&gt;
-%2Viper-Red%1-特種部隊;搭乘Hydra&lt;br/&gt;
-%2Viper-Blue%1-特種部隊;搭乘Chimera&lt;br/&gt;
-%2Viper-Green%1-特種部隊;搭乘Dragon</Chinese>
-            <Chinesesimp>%3“狮鹫”%1-中央司令部;位于斯特拉蒂斯空军基地&lt;br/&gt;
-%4“虎”%1-卡米诺基地的指挥官&lt;br/&gt;
-%2“九头蛇”%1-运输直升机;运输“毒蛇-红”小组&lt;br/&gt;
-%2“奇美拉”%1-运输直升机;运输“毒蛇-蓝”小组&lt;br/&gt;
-%2“龙”%1-运输直升机;运输“毒蛇-绿”小组&lt;br/&gt;
-%2“毒蛇-红”%1-特种部队;搭乘“九头蛇”&lt;br/&gt;
-%2“毒蛇-蓝”%1-特种部队;搭乘“奇美拉”&lt;br/&gt;
-%2“毒蛇-绿”%1-特种部队;搭乘“龙”</Chinesesimp>
+%2Hydra%1-運輸直升機;運輸"毒蛇-紅"小隊&lt;br/&gt;
+%2Chimera%1-運輸直升機;運輸"毒蛇-藍"小隊&lt;br/&gt;
+%2Dragon%1-運輸直升機;運輸"毒蛇-綠"小隊&lt;br/&gt;
+%2Viper-Red%1-特種部隊;搭乘"九頭蛇"&lt;br/&gt;
+%2Viper-Blue%1-特種部隊;搭乘"奇美拉"&lt;br/&gt;
+%2Viper-Green%1-特種部隊;搭乘"龍"</Chinese>
+            <Chinesesimp>%3"狮鹫"%1-中央司令部;位于斯特拉蒂斯空军基地&lt;br/&gt;
+%4"虎"%1-卡米诺基地的指挥官&lt;br/&gt;
+%2"九头蛇"%1-运输直升机;运输"毒蛇-红"小组&lt;br/&gt;
+%2"奇美拉"%1-运输直升机;运输"毒蛇-蓝"小组&lt;br/&gt;
+%2"龙"%1-运输直升机;运输"毒蛇-绿"小组&lt;br/&gt;
+%2"毒蛇-红"%1-特种部队;搭乘"九头蛇"&lt;br/&gt;
+%2"毒蛇-蓝"%1-特种部队;搭乘"奇美拉"&lt;br/&gt;
+%2"毒蛇-绿"%1-特种部队;搭乘"龙"</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_briefing_mission_text">
             <Original>Transport the Quick Response Force to %2our base%1 and provide air support. Hold the base until ground reinforcements arrive.&lt;br \&gt;
@@ -504,18 +504,18 @@ Be ready for more intel as the situation develops.</Original>
 2. Transport the Viper team to the %3Kamino sector%1, landing at a safe spot nearby the %3base%1. &lt;br /&gt;
 3. Provide the %3base defenders%1 with air support until ground forces arrive. &lt;br /&gt;
 4. Return to the %2Stratis airfield%1 when you've completed your objectives. &lt;br /&gt;</Original>
-            <Chinese>1。搭乘%2直升機%1，並等待Viper小隊登機，然後起飛。&lt;br/&gt;&lt;br/&gt;
-2。運輸Viper小隊到%3Kamino基地%1，降落在%3基地%1附近安全的位置。&lt;br/&gt;&lt;br/&gt;
+            <Chinese>1。搭乘%2直升機%1，並等待毒蛇小隊登機，然後起飛。&lt;br/&gt;&lt;br/&gt;
+2。運輸毒蛇小隊到%3卡米諾基地%1，降落在%3基地%1附近安全的位置。&lt;br/&gt;&lt;br/&gt;
 3。提供%3基地守軍%1空中支援直到地面部隊抵達。&lt;br/&gt;&lt;br/&gt;
-4。當完成以上目標時，請返回%2Stratis空軍基地%1。</Chinese>
-            <Chinesesimp>1。搭乘%2直升机%1，并等待“毒蛇”小组登机，然后起飞。&lt;br/&gt;&lt;br/&gt;
-2。运输“毒蛇”小组到%3卡米诺基地%1，降落在%3基地%1附近安全的位置。&lt;br/&gt;&lt;br/&gt;
+4。當完成以上目標時，請返回%2斯特拉蒂斯空軍基地%1。</Chinese>
+            <Chinesesimp>1。搭乘%2直升机%1，并等待"毒蛇"小组登机，然后起飞。&lt;br/&gt;&lt;br/&gt;
+2。运输"毒蛇"小组到%3卡米诺基地%1，降落在%3基地%1附近安全的位置。&lt;br/&gt;&lt;br/&gt;
 3。提供%3基地守军%1空中支援直到地面部队抵达。&lt;br/&gt;&lt;br/&gt;
 4。当完成以上目标时，请返回%2斯特拉蒂斯空军基地%1。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_resupply_point">
             <Original>CAMP ROGAIN, RESUPPLY POINT</Original>
-            <Chinese>ROGAIN營地，補給地點</Chinese>
+            <Chinese>羅根營地，補給地點</Chinese>
             <Chinesesimp>罗根营地，补给地点</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_helicopters_titlecard">
@@ -533,15 +533,15 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="x50_Landed_at_camp_rogain" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="x50_Landed_at_camp_rogain" dubbingLanguage="english" namePrefix="showcase_helicopters_x50_landed_at_camp_rogain" note="" participants="PA O Player;" situation="hydra reports to hq, that they are rearming at camp rogain.">
             <Key ID="str_a3_showcase_helicopters_x50_landed_at_camp_rogain_pilot_0">
               <Original>Be advised, Hydra is rearming at Rogain</Original>
-              <Chinese>請注意，Hydra正在Rogain營地進行補給</Chinese>
-              <Chinesesimp>请注意，“九头蛇”正在罗根营地进行补给</Chinesesimp>
+              <Chinese>請注意，"九頭蛇"正在羅根營地進行補給</Chinese>
+              <Chinesesimp>请注意，"九头蛇"正在罗根营地进行补给</Chinesesimp>
             </Key>
           </Container>
           <Container name="x45_Land_at_mike26_after_mortars" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="x45_Land_at_mike26_after_mortars" dubbingLanguage="english" namePrefix="showcase_helicopters_x45_land_at_mike26_after_mortars" note="" participants="PA O HQ;PA O Player;" situation="hq orders hydra to land at mike26, after they destroy mortars.">
             <Key ID="str_a3_showcase_helicopters_x45_land_at_mike26_after_mortars_base_0">
               <Original>Hydra, deploy Viper-red at Mike-26 and report back.</Original>
-              <Chinese>Hydra，在Mike-26佈署Viper-red然後進行回報。</Chinese>
-              <Chinesesimp>“九头蛇”，在Mike-26布署“毒蛇-红”然后进行回报。</Chinesesimp>
+              <Chinese>"九頭蛇"，在Mike-26佈署"毒蛇-紅"然後進行回報。</Chinese>
+              <Chinesesimp>"九头蛇"，在Mike-26布署"毒蛇-红"然后进行回报。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x45_land_at_mike26_after_mortars_pilot_0">
               <Original>Understood, moving in to land.</Original>
@@ -557,8 +557,8 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x35_mortars_detected_pilot_0">
               <Original>Griffin, this is Hydra, we've spotted an enemy mortar emplacement nearby the radar facility</Original>
-              <Chinese>Griffin，這裡是Hydra，我們發現到敵軍的迫擊砲位在雷達設施旁。</Chinese>
-              <Chinesesimp>“狮鹫”，“九头蛇”呼叫，我们在雷达设施周边发现敌军的迫击炮位。</Chinesesimp>
+              <Chinese>"獅鷲"，這裡是"九頭蛇"，我們發現到敵軍的迫擊砲位在雷達設施旁。</Chinese>
+              <Chinesesimp>"狮鹫"，"九头蛇"呼叫，我们在雷达设施周边发现敌军的迫击炮位。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x30_Bombardment_started_reported_by_hq" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="x30_Bombardment_started_reported_by_hq" dubbingLanguage="english" namePrefix="showcase_helicopters_x30_bombardment_started_reported_by_hq" note="" participants="PA O HQ;PA O Player;" situation="bombardment starts, but the helicopter is not landing (yet).">
@@ -574,8 +574,8 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x30_bombardment_started_reported_by_hq_pilot_0">
               <Original>Understood, Hydra engaging.</Original>
-              <Chinese>了解，Hydra開始交戰。</Chinese>
-              <Chinesesimp>了解，“九头蛇”开始交战。</Chinesesimp>
+              <Chinese>了解，"九頭蛇"開始交戰。</Chinese>
+              <Chinesesimp>了解，"九头蛇"开始交战。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x25_Enemy_vehicles_near_base_reported_by_hq" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="x25_Enemy_vehicles_near_base_reported_by_hq" dubbingLanguage="english" namePrefix="showcase_helicopters_x25_enemy_vehicles_near_base_reported_by_hq" note="" participants="PA O HQ;" situation="hq reports: enemy troops near mike26 (carried there by the cars).">
@@ -598,8 +598,8 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x20_enemy_vehicles_near_base_one_alive_pilot_0">
               <Original>Hydra reporting ... one alpha victor has stopped just north of Mike-26.</Original>
-              <Chinese>Hydra回報...一臺敵軍載具停在Mike-26的北方。</Chinese>
-              <Chinesesimp>“九头蛇”回报...一辆敌军车辆在Mike-26的北方停下了。</Chinesesimp>
+              <Chinese>"九頭蛇"回報...一臺敵軍載具停在Mike-26的北方。</Chinese>
+              <Chinesesimp>"九头蛇"回报...一辆敌军车辆在Mike-26的北方停下了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x20_enemy_vehicles_near_base_one_alive_pilot_1">
               <Original>Enemy units disembarking, moving towards the facility.</Original>
@@ -610,13 +610,13 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="x15_Enemy_vehicles_near_base_both_alive" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="x15_Enemy_vehicles_near_base_both_alive" dubbingLanguage="english" namePrefix="showcase_helicopters_x15_enemy_vehicles_near_base_both_alive" note="" participants="PA O Player;PA O HQ;" situation="hydra reports: both enemy cars reached mike26.">
             <Key ID="str_a3_showcase_helicopters_x15_enemy_vehicles_near_base_both_alive_base_0">
               <Original>Acknowledged, Hydra.</Original>
-              <Chinese>已確認，Hydra。</Chinese>
-              <Chinesesimp>已确认，“九头蛇”。</Chinesesimp>
+              <Chinese>已確認，"九頭蛇"。</Chinese>
+              <Chinesesimp>已确认，"九头蛇"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x15_enemy_vehicles_near_base_both_alive_pilot_0">
               <Original>Hydra reporting ... vehicles have halted north of Mike-26.</Original>
-              <Chinese>Hydra回報...敵軍載具停在Mike-26的北方。</Chinese>
-              <Chinesesimp>“九头蛇”报告...敌军载具停在Mike-26的北方。</Chinesesimp>
+              <Chinese>"九頭蛇"回報...敵軍載具停在Mike-26的北方。</Chinese>
+              <Chinesesimp>"九头蛇"报告...敌军载具停在Mike-26的北方。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x15_enemy_vehicles_near_base_both_alive_pilot_1">
               <Original>Enemy units disembarking, moving towards the facility.</Original>
@@ -632,8 +632,8 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_helicopters_x10_low_on_ammo_pilot_0">
               <Original>This is Hydra, we're running low on ammo.</Original>
-              <Chinese>這裡是Hydra，我們彈藥快用盡了。</Chinese>
-              <Chinesesimp>这是“九头蛇”，我们弹药快用尽了。</Chinesesimp>
+              <Chinese>這裡是"九頭蛇"，我們彈藥快用盡了。</Chinese>
+              <Chinesesimp>这是"九头蛇"，我们弹药快用尽了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_Idle_Getin" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="x05_Idle_Getin" dubbingLanguage="english" namePrefix="showcase_helicopters_x05_idle_getin" note="" participants="PA O Copilot;" situation="idle conversation; played every x secs when player is not lifting up with the helicopter.">
@@ -665,13 +665,13 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="65_Fly_home" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="65_Fly_home" dubbingLanguage="english" namePrefix="showcase_helicopters_65_fly_home" note="" participants="PA O HQ;PA O Player;" situation="hq reacts to 'mortars_destroyed_kamino' and sends player home.">
             <Key ID="str_a3_showcase_helicopters_65_fly_home_base_0">
               <Original>Well done, Hydra! Ground forces will take care of the remaining enemy presence. Return to the air base.</Original>
-              <Chinese>幹的好，Hydra!地面部隊會照顧剩下的敵人。請返回基地。</Chinese>
-              <Chinesesimp>干的好，“九头蛇”!地面部队会照顾剩下的敌人。请返回基地。</Chinesesimp>
+              <Chinese>幹的好，"九頭蛇"!地面部隊會照顧剩下的敵人。請返回基地。</Chinese>
+              <Chinesesimp>干的好，"九头蛇"!地面部队会照顾剩下的敌人。请返回基地。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_65_fly_home_pilot_0">
               <Original>Copy that, Griffin. We're RTB.</Original>
-              <Chinese>收到，Griffin。我們返回基地中。</Chinese>
-              <Chinesesimp>收到，“狮鹫”。我们返回基地中。</Chinesesimp>
+              <Chinese>收到，"獅鷲"。我們返回基地中。</Chinese>
+              <Chinesesimp>收到，"狮鹫"。我们返回基地中。</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_Mortars_destroyed_kamino" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="60_Mortars_destroyed_kamino" dubbingLanguage="english" namePrefix="showcase_helicopters_60_mortars_destroyed_kamino" note="" participants="PA O Player;" situation="hydra reports destruction of mortars near kamino base.">
@@ -684,12 +684,12 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="55_Go_kamino" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="55_Go_kamino" dubbingLanguage="english" namePrefix="showcase_helicopters_55_go_kamino" note="" participants="PA O HQ;" situation="base orders the player to move to support another base under attack">
             <Key ID="str_a3_showcase_helicopters_55_go_kamino_base_0">
               <Original>Roger, we need your support at Kamino asap. Vipers blue and green are pinned down.</Original>
-              <Chinese>了解，我們需要你盡快去支援Kamino基地。Vipersblue和green正在被壓著打。</Chinese>
-              <Chinesesimp>了解，我们需要你尽快去支援卡米诺基地。“毒蛇-蓝”和“绿”遭到了压制。</Chinesesimp>
+              <Chinese>了解，我們需要你盡快去支援卡米諾基地。"毒蛇-藍"和"綠"正在被壓著打。</Chinese>
+              <Chinesesimp>了解，我们需要你尽快去支援卡米诺基地。"毒蛇-蓝"和"绿"遭到了压制。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_55_go_kamino_base_1">
               <Original>Enemy forces have set up a firing position on a rocky islet to the east of the Kamino base.</Original>
-              <Chinese>敵軍已在Kamino基地的東方，一個巖石小島上設立了迫擊砲陣地。</Chinese>
+              <Chinese>敵軍已在卡米諾基地的東方，一個巖石小島上設立了迫擊砲陣地。</Chinese>
               <Chinesesimp>敌军已在卡米诺基地以东的一个礁石岛上设立了迫击炮阵地。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_55_go_kamino_base_2">
@@ -701,41 +701,41 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="53_Resupplied" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="53_Resupplied" dubbingLanguage="english" namePrefix="showcase_helicopters_53_resupplied" note="" participants="PA O Player;" situation="hydra reports, they finished rearming and are waiting for more tasks.">
             <Key ID="str_a3_showcase_helicopters_53_resupplied_pilot_0">
               <Original>Griffin, this is Hydra, we're good to go here.</Original>
-              <Chinese>Griffin，這裡是Hydra，我們這邊已經準備好了。</Chinese>
-              <Chinesesimp>“狮鹫”，这里是“九头蛇”，我们这边已经准备好了。</Chinesesimp>
+              <Chinese>"獅鷲"，這裡是"九頭蛇"，我們這邊已經準備好了。</Chinese>
+              <Chinesesimp>"狮鹫"，这里是"九头蛇"，我们这边已经准备好了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="50_Resuppy" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="50_Resuppy" dubbingLanguage="english" namePrefix="showcase_helicopters_50_resuppy" note="" participants="PA O HQ;" situation="respons from hq to 'squad_unloaded', giving next task.">
             <Key ID="str_a3_showcase_helicopters_50_resuppy_base_0">
               <Original>Understood. Proceed to the resupply point at Camp Rogain.</Original>
-              <Chinese>了解。請前往Rogain營地進行補給。</Chinese>
+              <Chinese>了解。請前往羅根營地進行補給。</Chinese>
               <Chinesesimp>了解。请前往罗根营地进行补给。</Chinesesimp>
             </Key>
           </Container>
           <Container name="45_Squad_unloaded" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="45_Squad_unloaded" dubbingLanguage="english" namePrefix="showcase_helicopters_45_squad_unloaded" note="" participants="PA O Player;" situation="hydra reports that deployment of squad has finished.">
             <Key ID="str_a3_showcase_helicopters_45_squad_unloaded_pilot_0">
               <Original>Griffin, Viper team deployed!</Original>
-              <Chinese>Griffin，Viper小隊已佈署完成!</Chinese>
-              <Chinesesimp>“狮鹫”，“毒蛇”小组已布署完成!</Chinesesimp>
+              <Chinese>"獅鷲"，"毒蛇"小隊已佈署完成!</Chinese>
+              <Chinesesimp>"狮鹫"，"毒蛇"小组已布署完成!</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Landed_at_mike26" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="40_Landed_at_mike26" dubbingLanguage="english" namePrefix="showcase_helicopters_40_landed_at_mike26" note="" participants="PA O Player;" situation="hydra reports to hq, that they land at mike26 and are deploying troops.">
             <Key ID="str_a3_showcase_helicopters_40_landed_at_mike26_pilot_0">
               <Original>Hydra has landed at Mike-26.</Original>
-              <Chinese>Hydra已經在Mike-26降落。</Chinese>
-              <Chinesesimp>“九头蛇”已经在Mike-26降落。</Chinesesimp>
+              <Chinese>"九頭蛇"已經在Mike-26降落。</Chinese>
+              <Chinesesimp>"九头蛇"已经在Mike-26降落。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_40_landed_at_mike26_pilot_1">
               <Original>Viper-Red, go, go, go.</Original>
-              <Chinese>Viper-Red，go，go，go。</Chinese>
-              <Chinesesimp>“毒蛇-红”，下，下，下!</Chinesesimp>
+              <Chinese>"毒蛇-紅"，下，下，下!</Chinese>
+              <Chinesesimp>"毒蛇-红"，下，下，下!</Chinesesimp>
             </Key>
           </Container>
           <Container name="35_Land_at_mike26" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="35_Land_at_mike26" dubbingLanguage="english" namePrefix="showcase_helicopters_35_land_at_mike26" note="" participants="PA O HQ;PA O Player;" situation="hq orders player to land @ mike26.">
             <Key ID="str_a3_showcase_helicopters_35_land_at_mike26_base_0">
               <Original>Hydra, unload Viper-Red at the facility and await further orders.</Original>
-              <Chinese>Hydra，請在設施旁卸載Viper-Red並等待進一步的命令。</Chinese>
-              <Chinesesimp>“九头蛇”，请在设施旁卸载“毒蛇-红”并等待进一步的命令。</Chinesesimp>
+              <Chinese>"九頭蛇"，請在設施旁卸載"毒蛇-紅"並等待進一步的命令。</Chinese>
+              <Chinesesimp>"九头蛇"，请在设施旁卸载"毒蛇-红"并等待进一步的命令。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_35_land_at_mike26_pilot_0">
               <Original>Roger.</Original>
@@ -763,15 +763,15 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_helicopters_25_bombardment_started_while_landing_pilot_1">
               <Original>Griffin, Mike-26 is under sustained mortar attack. Unable to land, acknowledge!</Original>
-              <Chinese>Griffin，Mike-26正遭受迫擊砲的持續轟炸。無法降落，完畢!</Chinese>
-              <Chinesesimp>“狮鹫”，Mike-26正遭受迫击炮的持续炮击。无法降落，完毕!</Chinesesimp>
+              <Chinese>"獅鷲"，Mike-26正遭受迫擊砲的持續轟炸。無法降落，完畢!</Chinese>
+              <Chinesesimp>"狮鹫"，Mike-26正遭受迫击炮的持续炮击。无法降落，完毕!</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_Enemy_vehicles_destroyed" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="20_Enemy_vehicles_destroyed" dubbingLanguage="english" namePrefix="showcase_helicopters_20_enemy_vehicles_destroyed" note="" participants="PA O Player;PA O HQ;" situation="both cars are destroyed.">
             <Key ID="str_a3_showcase_helicopters_20_enemy_vehicles_destroyed_base_0">
               <Original>Confirmed, Hydra, good work!</Original>
-              <Chinese>已確認，Hydra，幹的好!</Chinese>
-              <Chinesesimp>已确认，“九头蛇”，干的好!</Chinesesimp>
+              <Chinese>已確認，"九頭蛇"，幹的好!</Chinese>
+              <Chinesesimp>已确认，"九头蛇"，干的好!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_20_enemy_vehicles_destroyed_pilot_0">
               <Original>Be advised, all vehicles eliminated.</Original>
@@ -789,8 +789,8 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="10_Enemy_vehicles_revealed" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="10_Enemy_vehicles_revealed" dubbingLanguage="english" namePrefix="showcase_helicopters_10_enemy_vehicles_revealed" note="" participants="PA O HQ;PA O Player;" situation="played when helicopter is flying from air base  firing range base.">
             <Key ID="str_a3_showcase_helicopters_10_enemy_vehicles_revealed_base_0">
               <Original>Hydra, be advised, we've got two alpha victors approaching the radar facility from the west.</Original>
-              <Chinese>Hydra，請注意，我們發現雷達設施西方有兩臺車輛靠近中。</Chinese>
-              <Chinesesimp>“九头蛇”，请注意，我们发现雷达设施以西有两辆敌方车辆接近中。</Chinesesimp>
+              <Chinese>"九頭蛇"，請注意，我們發現雷達設施西方有兩臺車輛靠近中。</Chinese>
+              <Chinesesimp>"九头蛇"，请注意，我们发现雷达设施以西有两辆敌方车辆接近中。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_10_enemy_vehicles_revealed_base_1">
               <Original>Engage and destroy those vehicles!</Original>
@@ -799,15 +799,15 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_helicopters_10_enemy_vehicles_revealed_pilot_0">
               <Original>Understood, Griffin, Hydra diverting now.</Original>
-              <Chinese>明白了，Griffin，Hydra改道中。</Chinese>
-              <Chinesesimp>明白了，“狮鹫”，“九头蛇”正改变航向。</Chinesesimp>
+              <Chinese>明白了，"獅鷲"，"九頭蛇"改道中。</Chinese>
+              <Chinesesimp>明白了，"狮鹫"，"九头蛇"正改变航向。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_In_Heli" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="05_In_Heli" dubbingLanguage="english" namePrefix="showcase_helicopters_05_in_heli" note="" participants="PA O HQ;PA O Player;" situation="played when player enters helicopter.">
             <Key ID="str_a3_showcase_helicopters_05_in_heli_base_0">
               <Original>Hydra, drop the response team at the Kamino base and await further intel.</Original>
-              <Chinese>Hydra，佈署快速應變部隊到Kamino基地並等待進一步命令。</Chinese>
-              <Chinesesimp>“九头蛇”，部署快速反应部队到卡米诺基地并等待进一步命令。</Chinesesimp>
+              <Chinese>"九頭蛇"，佈署快速應變部隊到卡米諾基地並等待進一步命令。</Chinese>
+              <Chinesesimp>"九头蛇"，部署快速反应部队到卡米诺基地并等待进一步命令。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_05_in_heli_pilot_0">
               <Original>Roger.</Original>
@@ -818,8 +818,8 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="01_Intro" audioFilePath="\a3\dubbing_f\showcase_helicopters" dialogName="01_Intro" dubbingLanguage="english" namePrefix="showcase_helicopters_01_intro" note="" participants="PA O HQ;" situation="mission start; 1st radio conversation on the airfield.">
             <Key ID="str_a3_showcase_helicopters_01_intro_base_0">
               <Original>Griffin to all teams, get to your vehicles!</Original>
-              <Chinese>Griffin通知所有小隊，進去你們各自的載具!</Chinese>
-              <Chinesesimp>“狮鹫”呼叫所有小组，进入你们各自的载具!</Chinesesimp>
+              <Chinese>"獅鷲"通知所有小隊，進去你們各自的載具!</Chinese>
+              <Chinesesimp>"狮鹫"呼叫所有小组，进入你们各自的载具!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_helicopters_01_intro_base_1">
               <Original>We've got reports of multiple contacts to the east.</Original>
@@ -841,23 +841,23 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_vehicles_diary_signal_text">
             <Original>%2Viper Black%3 - you%1%4Viper Green%3 - strike team; tasked to sabotage the radar array%1Griffin - command </Original>
-            <Chinese>%2ViperBlack%3-你%1%4ViperGreen%3-突擊隊;負責破壞雷達陣列%1Griffin-指揮官</Chinese>
-            <Chinesesimp>%2“毒蛇-黑”%3-你%1%4“毒蛇-绿”%3-突击组;负责破坏雷达阵列%1“狮鹫”-指挥官</Chinesesimp>
+            <Chinese>%2"毒蛇-黑"%3-你%1%4"毒蛇-綠"%3-突擊隊;負責破壞雷達陣列%1"獅鷲"-指揮官</Chinese>
+            <Chinesesimp>%2"毒蛇-黑"%3-你%1%4"毒蛇-绿"%3-突击组;负责破坏雷达阵列%1"狮鹫"-指挥官</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_diary_situation_text">
             <Original>With the entire island firmly under enemy control, command wants us to disrupt their comms and logistics network.%1%1One team, Viper-Green, is already in position and is poised to sabotage the %2radar array%3. We need you, call sign Viper-Black, to strike a blow against the enemy's vehicle depot.%1%1An unorthodox opportunity has presented itself in the form of a weakly defended base and a heavily-armed vehicle. We'll turn the enemy's firepower against them and exfiltrate amid the resulting confusion.</Original>
-            <Chinese>隨著整個島陷入敵軍的控制，指揮官要我們擾亂他們的通訊和後勤系統。%1%1其中Viper-Green小隊，已經就定位並準備去破壞%2雷達陣列%3。我們需要你去打擊敵方的車庫，而你的呼號是Viper-Black。%1%1我們發現到有一個防禦薄弱的基地，其中的武裝車輛提供了我們一個機會。我們將使用他們自己的槍去攻擊他們，並趁著混亂來逃離這個島</Chinese>
-            <Chinesesimp>随着整个岛陷入敌军的控制，指挥官要我们扰乱他们的通信和后勤系统。%1%1“毒蛇-绿”小组已经就定位并准备破坏%2雷达阵列%3。我们需要你去打击敌方的车库，而你的呼号是“毒蛇-黑”。%1%1我们发现了一个防御薄弱的基地，其中的武装车辆为我们提供了一个机会。我们将使用他们自己的武器攻击他们，并趁着混乱撤出该岛</Chinesesimp>
+            <Chinese>隨著整個島陷入敵軍的控制，指揮官要我們擾亂他們的通訊和後勤系統。%1%1其中"毒蛇-綠"小隊，已經就定位並準備去破壞%2雷達陣列%3。我們需要你去打擊敵方的車庫，而你的呼號是"毒蛇-黑"。%1%1我們發現到有一個防禦薄弱的基地，其中的武裝車輛提供了我們一個機會。我們將使用他們自己的槍去攻擊他們，並趁著混亂來逃離這個島</Chinese>
+            <Chinesesimp>随着整个岛陷入敌军的控制，指挥官要我们扰乱他们的通信和后勤系统。%1%1"毒蛇-绿"小组，已经就定位并准备破坏%2雷达阵列%3。我们需要你去打击敌方的车库，而你的呼号是"毒蛇-黑"。%1%1我们发现了一个防御薄弱的基地，其中的武装车辆为我们提供了一个机会。我们将使用他们自己的武器攻击他们，并趁着混乱撤出该岛</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_diary_summary_text">
             <Original>Try out Arma 3's new vehicle handling. Infiltrate the enemy base, steal the car, and enjoy the fire-power of its mounted weapons.</Original>
-            <Chinese>嘗試ArmA3新的車輛操作手感。滲透敵方基地，偷走車輛，並且體驗一下裝載在它上面的火力。</Chinese>
+            <Chinese>嘗試武裝突襲3新的車輛操作手感。滲透敵方基地，偷走車輛，並且體驗一下裝載在它上面的火力。</Chinese>
             <Chinesesimp>尝试武装突袭3新的车辆操作手感。渗透敌方基地，偷走车辆，并且体验一下装载在它上面的火力。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_end1_text">
             <Original>Not only did you fulfill your primary objective, you also made sure Viper-Green made it back alive. Exceptional job.</Original>
-            <Chinese>你不僅完成了主要目標，你同時也確保Viper-Green可以活著回來。你實在太棒了。</Chinese>
-            <Chinesesimp>你不仅完成了主要目标，你同时也让“毒蛇-绿”能活着回来。干得漂亮。</Chinesesimp>
+            <Chinese>你不僅完成了主要目標，你同時也確保"毒蛇-綠"可以活著回來。你實在太棒了。</Chinese>
+            <Chinesesimp>你不仅完成了主要目标，你同时也让"毒蛇-绿"能活着回来。干得漂亮。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_end1_title">
             <Original>Complete success </Original>
@@ -866,8 +866,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_vehicles_end2_text">
             <Original>You failed to destroy the enemy vehicles, but at least you made sure Viper-Green made it back alive.</Original>
-            <Chinese>你無法完成破壞敵方車輛的工作，但至少你確保了Viper-Green可以活著回來。</Chinese>
-            <Chinesesimp>你无法完成破坏敌方车辆的工作，但至少你确保了“毒蛇-绿”可以活着回来。</Chinesesimp>
+            <Chinese>你無法完成破壞敵方車輛的工作，但至少你確保了"毒蛇-綠"可以活著回來。</Chinese>
+            <Chinesesimp>你无法完成破坏敌方车辆的工作，但至少你确保了"毒蛇-绿"可以活着回来。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_end2_title">
             <Original>Success</Original>
@@ -876,13 +876,13 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_vehicles_end3_text">
             <Original>The loss of Viper-Green is unfortunate, but you completed your mission. That is important. Good job.</Original>
-            <Chinese>雖然我們不幸損失了Viper-Green，但至少你完成了主要目標。這才是最重要的事。幹的好。</Chinese>
-            <Chinesesimp>虽然我们不幸损失了“毒蛇-绿”，但至少你完成了主要目标。这才是最重要的事。干的好。</Chinesesimp>
+            <Chinese>雖然我們不幸損失了"毒蛇-綠"，但至少你完成了主要目標。這才是最重要的事。幹的好。</Chinese>
+            <Chinesesimp>虽然我们不幸损失了"毒蛇-绿"，但至少你完成了主要目标。这才是最重要的事。干的好。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_end4_text">
             <Original>The mission was a total disaster. Not only are the enemy vehicles still intact, but we've also lost Viper-Green. You are not worthy of your rank.</Original>
-            <Chinese>這任務完全就是ㄧ場災難。不僅敵人的車輛還完好無缺，同時我們也失去了Viper-Green。你並不配你肩膀上的軍階。</Chinese>
-            <Chinesesimp>这任务完全就是一场灾难。不仅敌人的车辆还完好无缺，我们还失去了“毒蛇-绿”。你不配你肩膀上的军衔。</Chinesesimp>
+            <Chinese>這任務完全就是ㄧ場災難。不僅敵人的車輛還完好無缺，同時我們也失去了"毒蛇-綠"。你並不配你肩膀上的軍階。</Chinese>
+            <Chinesesimp>这任务完全就是一场灾难。不仅敌人的车辆还完好无缺，我们还失去了"毒蛇-绿"。你不配你肩膀上的军衔。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_end4_title">
             <Original>Disaster</Original>
@@ -906,7 +906,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_vehicles_sitrep_text">
             <Original>Northern Stratis</Original>
-            <Chinese>Stratis島北部</Chinese>
+            <Chinese>斯特拉蒂斯島北部</Chinese>
             <Chinesesimp>斯特拉蒂斯岛北部</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_task1_text">
@@ -941,8 +941,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_vehicles_task3_text">
             <Original>We need a further diversion so that Bravo-Green can retreat. Blowing up the radio tower near the main town should do the trick.</Original>
-            <Chinese>我們需要製造些聲響，造成聲東擊西的效果，好讓Bravo-Green可以撤退。炸掉城鎮旁邊的無線電發射塔應該可以達到這個效果。</Chinese>
-            <Chinesesimp>我们需要制造些声响，造成声东击西的效果，好让“布拉沃-绿”可以撤退。炸掉城镇旁边的无线电发射塔应该可以达到这个效果。</Chinesesimp>
+            <Chinese>我們需要製造些聲響，造成聲東擊西的效果，好讓"布拉沃-綠"可以撤退。炸掉城鎮旁邊的無線電發射塔應該可以達到這個效果。</Chinese>
+            <Chinesesimp>我们需要制造些声响，造成声东击西的效果，好让"布拉沃-绿"可以撤退。炸掉城镇旁边的无线电发射塔应该可以达到这个效果。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_task3_title">
             <Original>Sabotage radio tower (optional)</Original>
@@ -956,7 +956,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_vehicles_task4_text">
             <Original>Rendezvous with your escort and leave the island to complete your assignment.</Original>
-            <Chinese>與你的撤離小組會合，並逃離這座島。</Chinese>
+            <Chinese>與你的撤離小隊會合，並逃離這座島。</Chinese>
             <Chinesesimp>与你的撤离小组会合，并逃离这座岛。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_vehicles_task4_title">
@@ -982,37 +982,37 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="x10_Green_Dead" audioFilePath="\a3\dubbing_f\showcase_vehicles" dialogName="x10_Green_Dead" dubbingLanguage="english" namePrefix="showcase_vehicles_x10_green_dead" note="" participants="PA O HQ;" situation="hq tries to make contact with team green. they're all dead by now.">
             <Key ID="str_a3_showcase_vehicles_x10_green_dead_hq_0">
               <Original>Griffin to Viper-Green. SITREP, over.</Original>
-              <Chinese>Griffin呼叫Viper-Green。請回報狀況，完畢。</Chinese>
-              <Chinesesimp>“狮鹫”呼叫“毒蛇-绿”。请回报状况，完毕。</Chinesesimp>
+              <Chinese>"獅鷲"呼叫"毒蛇-綠"。請回報狀況，完畢。</Chinese>
+              <Chinesesimp>"狮鹫"呼叫"毒蛇-绿"。请回报状况，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_x10_green_dead_hq_1">
               <Original>Viper-Green, respond, over.</Original>
-              <Chinese>Viper-Green，請回應，完畢。</Chinese>
-              <Chinesesimp>“毒蛇-绿”，请回应，完毕。</Chinesesimp>
+              <Chinese>"毒蛇-綠"，請回應，完畢。</Chinese>
+              <Chinesesimp>"毒蛇-绿"，请回应，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_x10_green_dead_hq_2">
               <Original>It looks like we lost team Green. I'm calling off the response team, Sergeant. Get out of there. Griffin out.</Original>
-              <Chinese>看來我們失去Green小隊了。我正在撤離接應小隊，中士。快離開那個地方。Griffin通話完畢。</Chinese>
-              <Chinesesimp>看来我们失去绿组了。我正要求接应小组撤离，中士。快离开那个地方。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>看來我們失去綠小隊了。我正在撤離接應小隊，中士。快離開那個地方。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>看来我们失去绿组了。我正要求接应小组撤离，中士。快离开那个地方。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_Depot_Hardcore" audioFilePath="\a3\dubbing_f\showcase_vehicles" dialogName="x05_Depot_Hardcore" dubbingLanguage="english" namePrefix="showcase_vehicles_x05_depot_hardcore" note="" participants="PA O HQ;PA O Player;" situation="player reports secondary task accomplished after losing the vehicle.">
             <Key ID="str_a3_showcase_vehicles_x05_depot_hardcore_hq_0">
               <Original>You had us worried for a moment there, Sergeant. Let's get you home. Griffin out.</Original>
-              <Chinese>你讓我們擔心了一下，中士。該讓我們帶你回家了。Griffin通話完畢。</Chinese>
-              <Chinesesimp>你让我们担心了一下，中士。该让我们带你回家了。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>你讓我們擔心了一下，中士。該讓我們帶你回家了。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>你让我们担心了一下，中士。该让我们带你回家了。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_x05_depot_hardcore_pla_0">
               <Original>Griffin, Viper-Black. Objective Two complete. I decided to improvise. Over.</Original>
-              <Chinese>Griffin，這裡是Viper-Black。2號目標完成。我做了場即興演出。完畢。</Chinese>
-              <Chinesesimp>“狮鹫”，这里是“毒蛇-黑”。2号目标完成。我做了场即兴演出。完毕。</Chinesesimp>
+              <Chinese>"獅鷲"，這裡是"毒蛇-黑"。2號目標完成。我做了場即興演出。完畢。</Chinese>
+              <Chinesesimp>"狮鹫"，这里是"毒蛇-黑"。2号目标完成。我做了场即兴演出。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x01_Car_Dead" audioFilePath="\a3\dubbing_f\showcase_vehicles" dialogName="x01_Car_Dead" dubbingLanguage="english" namePrefix="showcase_vehicles_x01_car_dead" note="" participants="PA O HQ;PA O Player;" situation="player reports target vehicle destroyed.">
             <Key ID="str_a3_showcase_vehicles_x01_car_dead_hq_0">
               <Original>This is a massive setback, Sergeant. Abort the mission and continue to the exfil point. Griffin out.</Original>
-              <Chinese>這真是太糟糕了，中士。取消剩下的任務，然後你繼續前往撤離點。Griffin通話完畢。</Chinese>
-              <Chinesesimp>这真是太糟糕了，中士。取消剩下的任务，然后你继续前往撤离点。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>這真是太糟糕了，中士。取消剩下的任務，然後你繼續前往撤離點。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>这真是太糟糕了，中士。取消剩下的任务，然后你继续前往撤离点。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_x01_car_dead_pla_0">
               <Original>Damn... Command won't be happy.</Original>
@@ -1021,8 +1021,8 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_vehicles_x01_car_dead_pla_1">
               <Original>Griffin, uh, this is Viper-Black. I... Well, the target vehicle is combat ineffective. Over.</Original>
-              <Chinese>Griffin，嗯，這裡是Viper-Black。我...這個，目標車輛已經爆掉了。完畢。</Chinese>
-              <Chinesesimp>“狮鹫”，嗯，这里是“毒蛇-黑”。我...那个，目标车辆已经无法作战了。完毕。</Chinesesimp>
+              <Chinese>"獅鷲"，嗯，這裡是"毒蛇-黑"。我...這個，目標車輛已經爆掉了。完畢。</Chinese>
+              <Chinesesimp>"狮鹫"，嗯，这里是"毒蛇-黑"。我...那个，目标车辆已经无法作战了。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_End" audioFilePath="\a3\dubbing_f\showcase_vehicles" dialogName="25_End" dubbingLanguage="english" namePrefix="showcase_vehicles_25_end" note="" participants="PA O Diver;" situation="player meets up with his escort.">
@@ -1035,88 +1035,88 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="20_Green_Ok" audioFilePath="\a3\dubbing_f\showcase_vehicles" dialogName="20_Green_Ok" dubbingLanguage="english" namePrefix="showcase_vehicles_20_green_ok" note="" participants="PA O HQ;PA O Viper Green;" situation="player destroyed the comm tower and saved team green.">
             <Key ID="str_a3_showcase_vehicles_20_green_ok_grn_0">
               <Original>This is Viper-Green, looks like they've called off their chopper. I think we can finally get out of here, over.</Original>
-              <Chinese>這裡是Viper-Green，看來他們已經把直升機叫離了。我認為我們終於可以離開這裡了，完畢。</Chinese>
-              <Chinesesimp>这里是“毒蛇-绿”，看来他们已经把直升机撤走了。我认为我们终于可以离开这里了，完毕。</Chinesesimp>
+              <Chinese>這裡是"毒蛇-綠"，看來他們已經把直升機叫離了。我認為我們終於可以離開這裡了，完畢。</Chinese>
+              <Chinesesimp>这里是"毒蛇-绿"，看来他们已经把直升机撤走了。我认为我们终于可以离开这里了，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_20_green_ok_hq_0">
               <Original>Copy, report in once you reach the exifil point. Viper-Black, good job. Griffin out.</Original>
-              <Chinese>收到，當你們抵達撤離點時在進行回報。Viper-Black，幹的好。Griffin通話完畢。</Chinese>
-              <Chinesesimp>收到，当你们抵达撤离点时在进行报告。“毒蛇-黑”，干的好。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>收到，當你們抵達撤離點時在進行回報。"毒蛇-黑"，幹的好。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>收到，当你们抵达撤离点时在进行报告。"毒蛇-黑"，干的好。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_Green_Trouble" audioFilePath="\a3\dubbing_f\showcase_vehicles" dialogName="15_Green_Trouble" dubbingLanguage="english" namePrefix="showcase_vehicles_15_green_trouble" note="" participants="PA O HQ;PA O Player;PA O Viper Green;" situation="viper green reports they're in trouble.">
             <Key ID="str_a3_showcase_vehicles_15_green_trouble_grn_0">
               <Original>Viper-Green to Griffin, we've been compromised. Repeat, Viper-Green is compromised. Please advise, over.</Original>
-              <Chinese>Viper-Green呼叫Griffin，我們正遭受壓制。重複，Viper-Green正遭受壓制。請求指示，完畢。</Chinese>
-              <Chinesesimp>“毒蛇-绿”呼叫“狮鹫”，我们正遭受压制。重复，“毒蛇-绿”正遭受压制。请求指示，完毕。</Chinesesimp>
+              <Chinese>"毒蛇-綠"呼叫"獅鷲"，我們正遭受壓制。重複，"毒蛇-綠"正遭受壓制。請求指示，完畢。</Chinese>
+              <Chinesesimp>"毒蛇-绿"呼叫"狮鹫"，我们正遭受压制。重复，"毒蛇-绿"正遭受压制。请求指示，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_15_green_trouble_grn_1">
               <Original>Negative, Griffin. We had to pull back to point Sigma, but it in a couple minutes, we'll be screwed anyway. Over.</Original>
-              <Chinese>否定，Griffin。我們必須撤回Sigma點，但只要在幾分鐘，我們就會被殲滅。完畢。</Chinese>
-              <Chinesesimp>不行，“狮鹫”。我们必须撤回西格玛点，但只要再等几分钟，我们就会被歼灭。完毕。</Chinesesimp>
+              <Chinese>否定，"獅鷲"。我們必須撤回Sigma點，但只要在幾分鐘，我們就會被殲滅。完畢。</Chinese>
+              <Chinesesimp>不行，"狮鹫"。我们必须撤回西格玛点，但只要再等几分钟，我们就会被歼灭。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_15_green_trouble_hq_0">
               <Original>Viper-Green, can you make it to the exfil point? Over.</Original>
-              <Chinese>Viper-Green，你們是否能抵達撤離點?完畢。</Chinese>
-              <Chinesesimp>“毒蛇-绿”，你们是否能抵达撤离点?完毕。</Chinesesimp>
+              <Chinese>"毒蛇-綠"，你們是否能抵達撤離點?完畢。</Chinese>
+              <Chinesesimp>"毒蛇-绿"，你们是否能抵达撤离点?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_15_green_trouble_hq_1">
               <Original>It's up to you, Viper-Black. We're dispatching a response team, but they're at least 10 minutes out. Viper-Green, hold your position. Griffin out.</Original>
-              <Chinese>這由你決定，Viper-Black。我們正派遣接應小隊前往當中，但他們至少要10分鐘才會抵達。Viper-Green，守住你的位置。Griffin通話完畢。</Chinese>
-              <Chinesesimp>这由你决定，“毒蛇-黑”。我们正派遣接应小组，但他们至少要10分钟才会抵达。“毒蛇-绿”，守住你的位置。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>這由你決定，"毒蛇-黑"。我們正派遣接應小隊前往當中，但他們至少要10分鐘才會抵達。"毒蛇-綠"，守住你的位置。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>这由你决定，"毒蛇-黑"。我们正派遣接应小组，但他们至少要10分钟才会抵达。"毒蛇-绿"，守住你的位置。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_15_green_trouble_pla_0">
               <Original>Griffin... I can make enough noise here so they'll have to divert some of their units my way, over.</Original>
-              <Chinese>Griffin...我這裡應該可以製造些聲響，好讓他們派一些人往我這邊來，完畢。</Chinese>
-              <Chinesesimp>“狮鹫”...我这里应该可以制造些声响，好让他们派一些人往我这边来，完毕。</Chinesesimp>
+              <Chinese>"獅鷲"...我這裡應該可以製造些聲響，好讓他們派一些人往我這邊來，完畢。</Chinese>
+              <Chinesesimp>"狮鹫"...我这里应该可以制造些声响，好让他们派一些人往我这边来，完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Depot" audioFilePath="\a3\dubbing_f\showcase_vehicles" dialogName="10_Depot" dubbingLanguage="english" namePrefix="showcase_vehicles_10_depot" note="" participants="PA O HQ;PA O Player;" situation="player reports secondary task accomplished.">
             <Key ID="str_a3_showcase_vehicles_10_depot_hq_0">
               <Original>Good job, Sergeant, now let's get you home. Griffin out.</Original>
-              <Chinese>幹的好，中士，該讓我們帶你回家了。Griffin通話完畢。</Chinese>
-              <Chinesesimp>干的好，中士，该让我们带你回家了。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>幹的好，中士，該讓我們帶你回家了。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>干的好，中士，该让我们带你回家了。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_10_depot_pla_0">
               <Original>Griffin, Viper-Black. Objective Two complete. Moving to the RV. Over.</Original>
-              <Chinese>Griffin，這裡是Viper-Black。2號目標完成。正在移動到撤離點。完畢。</Chinese>
-              <Chinesesimp>“狮鹫”，这是“毒蛇-黑”。2号目标完成。正在移动到撤离点。完毕。</Chinesesimp>
+              <Chinese>"獅鷲"，這裡是"毒蛇-黑"。2號目標完成。正在移動到撤離點。完畢。</Chinese>
+              <Chinesesimp>"狮鹫"，这是"毒蛇-黑"。2号目标完成。正在移动到撤离点。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_Steal" audioFilePath="\a3\dubbing_f\showcase_vehicles" dialogName="05_Steal" dubbingLanguage="english" namePrefix="showcase_vehicles_05_steal" note="" participants="PA O HQ;PA O Player;" situation="player is driving from the enemy base.">
             <Key ID="str_a3_showcase_vehicles_05_steal_hq_0">
               <Original>Copy that. Keep your distance and let the grenades do the work. They won't see this coming. Griffin out.</Original>
-              <Chinese>收到。保持你與目標的距離，然後讓榴彈發射器做好它的工作。他們不會察覺到我們的到來。Griffin通話完畢。</Chinese>
-              <Chinesesimp>收到。保持你与目标的距离，事情用榴弹发射器干。他们来不及察觉的。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>收到。保持你與目標的距離，然後讓榴彈發射器做好它的工作。他們不會察覺到我們的到來。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>收到。保持你与目标的距离，事情用榴弹发射器干。他们来不及察觉的。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_05_steal_pla_0">
               <Original>Viper-Black to Griffin. Hijack successful. Moving to objective Two. Over.</Original>
-              <Chinese>Viper-Black呼叫Griffin。車輛竊取成功。正在向2號目標前進當中。完畢。</Chinese>
-              <Chinesesimp>“毒蛇-黑”呼叫“狮鹫”。车辆窃取成功。正在向2号目标前进当中。完毕。</Chinesesimp>
+              <Chinese>"毒蛇-黑"呼叫"獅鷲"。車輛竊取成功。正在向2號目標前進當中。完畢。</Chinese>
+              <Chinesesimp>"毒蛇-黑"呼叫"狮鹫"。车辆窃取成功。正在向2号目标前进当中。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="01_Start" audioFilePath="\a3\dubbing_f\showcase_vehicles" dialogName="01_Start" dubbingLanguage="english" namePrefix="showcase_vehicles_01_start" note="" participants="PA O HQ;PA O Player;PA O Viper Green;" situation="mission start, status report.">
             <Key ID="str_a3_showcase_vehicles_01_start_grn_0">
               <Original>Griffin, Viper-Green. ETA to objective: 5 minutes. Out.</Original>
-              <Chinese>Griffin，這裡是Viper-Green。預計抵達目標時間為5分鐘。完畢。</Chinese>
-              <Chinesesimp>“狮鹫”，这里是“毒蛇-绿”。预计抵达目标时间为5分钟。完毕。</Chinesesimp>
+              <Chinese>"獅鷲"，這裡是"毒蛇-綠"。預計抵達目標時間為5分鐘。完畢。</Chinese>
+              <Chinesesimp>"狮鹫"，这里是"毒蛇-绿"。预计抵达目标时间为5分钟。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_01_start_hq_0">
               <Original>Griffin to Vipers Black and Green, report status, over.</Original>
-              <Chinese>Griffin呼叫VipersBlack和Green，請回報狀況，完畢。</Chinese>
-              <Chinesesimp>“狮鹫”呼叫“毒蛇-黑”和“绿”，请回报状况，完毕。</Chinesesimp>
+              <Chinese>"獅鷲"呼叫"毒蛇-黑"和"綠"，請回報狀況，完畢。</Chinese>
+              <Chinesesimp>"狮鹫"呼叫"毒蛇-黑"和"绿"，请回报状况，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_vehicles_01_start_pla_0">
               <Original>Viper-Black reporting in. I have visual on objective One. Out.</Original>
-              <Chinese>Viper-Black回報。我已經可以看到1號目標了。完畢。</Chinese>
-              <Chinesesimp>“毒蛇-黑”回报。我已经可以看到1号目标了。完毕。</Chinesesimp>
+              <Chinese>"毒蛇-黑"回報。我已經可以看到1號目標了。完畢。</Chinese>
+              <Chinesesimp>"毒蛇-黑"回报。我已经可以看到1号目标了。完毕。</Chinesesimp>
             </Key>
           </Container>
         </Container>
         <Container name="Showcase_SCUBA">
           <Key ID="str_a3_showcase_scuba_diary_execution_text">
             <Original>%6 Swim to the bay and deactivate all three mines we've detected there%3%7 A %11speedboat%1 is guarding the area - you can sabotage its engine so long as you remain undetected and the vessel doesn't start moving%3%8 Eliminate the AA patrol stationed in %4the camp%1 and acquire a missile launcher - you can call in a mortar strike provided by %5Echo%1%3%9 Engage the chopper patrolling the western coastline%3%10 Make your way back to %2your team%1 and leave the area </Original>
-            <Chinese>%6游泳到海灣裡解除3個已被我們偵測到的水雷%3%7一臺%11快艇%1正在巡防海岸線，你可以偷偷破壞掉它的引擎%3%8摧毀敵軍的%4防空陣地%1並奪取一隻防空導彈-你可以透過無線電%5Echo%1來呼叫迫擊砲打擊%3%9擊落正在海岸線巡防的直升機%3%10撤離該區，回去與你的%2小隊%1會合</Chinese>
+            <Chinese>%6游泳到海灣裡解除3個已被我們偵測到的水雷%3%7一臺%11快艇%1正在巡防海岸線，你可以偷偷破壞掉它的引擎%3%8摧毀敵軍的%4防空陣地%1並奪取一隻防空飛彈-你可以透過無線電%5Echo%1來呼叫迫擊砲打擊%3%9擊落正在海岸線巡防的直升機%3%10撤離該區，回去與你的%2小隊%1會合</Chinese>
             <Chinesesimp>%6游泳到海湾里解除3个已被我们侦测到的水雷%3%7一台%11快艇%1正在防御海岸线，你可以偷偷破坏掉它的引擎%3%8摧毁敌军的%4防空阵地%1并夺取防空导弹-你可以通过无线电%5回声%1来呼叫迫击炮打击%3%9击落正在海岸线巡防的直升机%3%10撤离该区，回去与你的%2小组%1会合</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_diary_mission_text">
@@ -1126,17 +1126,17 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_scuba_diary_signal_text">
             <Original>%2Omega%3 - your team%1%4Echo%3 - mortar team; stationed at camp Maxwell and providing support%1Papa Bear - command</Original>
-            <Chinese>%2Omega%3-你的小隊%1%4Echo%3-迫擊砲小隊;駐紮在Maxwell基地，提供迫擊砲轟炸支援%1PapaBear-指揮官</Chinese>
+            <Chinese>%2歐米加3-你的小隊%1%4回聲%3-迫擊砲小隊;駐紮在麥克斯韋基地，提供迫擊砲轟炸支援%1熊爸爸-指揮官</Chinese>
             <Chinesesimp>%2欧米加%3-你的小组%1%4回声%3-迫击炮小组;驻扎在麦克斯韦基地，提供迫击炮轰炸支援%1熊爸爸-指挥官</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_diary_situation_text">
             <Original>Following the OPFOR invasion, we've made a last stand in the south of the island. We desperately need to establish a safe route for reinforcement and resupply, and command has identified %3this camp%1 as our best shot.%4%4However, we've discovered that it's reinforced by a deployment of underwater mines, and protected by a garrison of enemy forces, including naval and air support.%4%4Other elements of your team, call sign Omega, have already taken up positions in a %2valley%1 to the south of %5the bay%1. Join them and execute your tasks.</Original>
-            <Chinese>在敵軍入侵之後，我們的領地僅剩島嶼南部了。我們迫切需要建立一個安全的增援和補給路線，而指揮官已經確認了該%3陣地%1是我們的最佳選擇。%4%4然而，我們發現到他們已經部屬了水雷，並且派海軍與空軍守護著那裡。%4%4你小隊的呼號是Omega，已經被佈署在%5海灣%1南方的%山谷%1中。加入他們並執行你的目標。</Chinese>
-            <Chinesesimp>在红方入侵之后，我们已经被压缩到岛屿南部做最后抵抗。我们迫切需要建立一个安全的增援和补给路线，而指挥官已经确认了该%3阵地%1是我们的最佳选择。%4%4然而，我们发现到他们已经部署了水雷，并且派海军与空军守护着那里。%4%4你小队的呼号是“欧米加”，已经被部署在%5海湾%1南方的%山谷%1中。加入他们并执行你的目标。</Chinesesimp>
+            <Chinese>在敵軍入侵之後，我們的領地僅剩島嶼南部了。我們迫切需要建立一個安全的增援和補給路線，而指揮官已經確認了該%3陣地%1是我們的最佳選擇。%4%4然而，我們發現到他們已經部屬了水雷，並且派海軍與空軍守護著那裡。%4%4你小隊的呼號是歐米加，已經被佈署在%5海灣%1南方的%山谷%1中。加入他們並執行你的目標。</Chinese>
+            <Chinesesimp>在红方入侵之后，我们已经被压缩到岛屿南部做最后抵抗。我们迫切需要建立一个安全的增援和补给路线，而指挥官已经确认了该%3阵地%1是我们的最佳选择。%4%4然而，我们发现到他们已经部署了水雷，并且派海军与空军守护着那里。%4%4你小队的呼号是"欧米加"，已经被部署在%5海湾%1南方的%山谷%1中。加入他们并执行你的目标。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_diary_summary_text">
             <Original>Dive into Arma 3's new underwater environment. Swim undetected up the coastline and assault an enemy position.</Original>
-            <Chinese>體驗ArmA3新的水下系統。保持隱蔽並拆除敵方水雷和摧毀直升機。</Chinese>
+            <Chinese>體驗武裝突襲3新的水下系統。保持隱蔽並拆除敵方水雷和摧毀直升機。</Chinese>
             <Chinesesimp>体验武装突袭3新的水下系统。保持隐蔽并拆除敌方水雷和摧毁直升机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_end1_text">
@@ -1161,7 +1161,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_scuba_sitrep_text">
             <Original>On the west coast of Stratis</Original>
-            <Chinese>Stratis島西海岸</Chinese>
+            <Chinese>斯特拉蒂斯島西海岸</Chinese>
             <Chinesesimp>斯特拉蒂斯岛西海岸</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_task1_text">
@@ -1211,7 +1211,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_scuba_task5_text">
             <Original>Shoot down the helicopter patrolling the shoreline. You can find an AA launcher somewhere in the enemy camp.</Original>
-            <Chinese>擊落正在海岸線巡防的直升機。你可以在敵軍陣地裡找到防空導彈。</Chinese>
+            <Chinese>擊落正在海岸線巡防的直升機。你可以在敵軍陣地裡找到防空飛彈。</Chinese>
             <Chinesesimp>击落正在海岸线巡逻的直升机。你可以在敌军阵地里找到防空导弹。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_task5_title">
@@ -1221,22 +1221,22 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_scuba_task6_text">
             <Original>Find a missile launcher in %2the camp%3. An anti-air team stationed there at the moment should have one, and another is almost certainly in their vehicle. If you run out of rockets, search the buildings in the camp for an ammo dump.%1%1You can call in a mortar strike to create some chaos.</Original>
-            <Chinese>在%2陣地%3尋找防空導彈。在這個時間點，那邊應該駐紮了一個防空小隊，他們應該有一支防空導彈，而另一隻一定是在他們的車輛裡。假如你用光導彈了，搜尋一下建築物應該可以找到彈藥箱。%1%1你可以呼叫迫擊砲支援來製造一些混亂。</Chinese>
+            <Chinese>在%2陣地%3尋找防空飛彈。在這個時間點，那邊應該駐紮了一個防空小隊，他們應該有一支防空飛彈，而另一隻一定是在他們的車輛裡。假如你用光飛彈了，搜尋一下建築物應該可以找到彈藥箱。%1%1你可以呼叫迫擊砲支援來製造一些混亂。</Chinese>
             <Chinesesimp>在%2阵地%3寻找防空导弹。在当地驻扎的一个防空小组应该有一套，此外他们的车中肯定还有一套。假如你用光导弹了，搜寻一下建筑物应该可以找到弹药箱。%1%1你可以呼叫迫击炮支援来制造一些混乱。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_task6_title">
             <Original>Acquire an AA launcher</Original>
-            <Chinese>獲得防空導彈</Chinese>
+            <Chinese>獲得防空飛彈</Chinese>
             <Chinesesimp>获得防空导弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_task6_wp">
             <Original>ACQUIRE LAUNCHER</Original>
-            <Chinese>獲得防空導彈</Chinese>
+            <Chinese>獲得防空飛彈</Chinese>
             <Chinesesimp>获得防空导弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_task7_text">
             <Original>Use an AA missile to bring the chopper down.</Original>
-            <Chinese>使用防空導彈來擊落敵軍直升機。</Chinese>
+            <Chinese>使用防空飛彈來擊落敵軍直升機。</Chinese>
             <Chinesesimp>使用防空导弹来击落敌军直升机。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_task7_title">
@@ -1286,7 +1286,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_scuba_welcome">
             <Original>Cpl. Ben Kerry, TF Aegis%3Ftelio bay</Original>
-            <Chinese>下士BenKerry，"神盾"機動部隊%3Ftelio海灣</Chinese>
+            <Chinese>下士本·克里，"神盾"機動部隊%3夫泰里海灣</Chinese>
             <Chinesesimp>下士本·克里，"宙斯盾"特遣队%3夫泰里奥湾</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_scuba_briefingname">
@@ -1302,8 +1302,8 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="10_End" audioFilePath="\a3\dubbing_f\showcase_scuba" dialogName="10_End" dubbingLanguage="english" namePrefix="showcase_scuba_10_end" note="" participants="PA B Player;PA B HQ;" situation="kerry meets his team.">
             <Key ID="str_a3_showcase_scuba_10_end_hq_0">
               <Original>Acknowledged, Omega, fine work out there. Out.</Original>
-              <Chinese>已確認，Omega，工作幹的漂亮。完畢。</Chinese>
-              <Chinesesimp>已确认，“欧米加”，工作干的漂亮。完毕。</Chinesesimp>
+              <Chinese>已確認，"歐米加"，工作幹的漂亮。完畢。</Chinese>
+              <Chinesesimp>已确认，"欧米加"，工作干的漂亮。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_scuba_10_end_ker_0">
               <Original>Enough fun for today... let's head home.</Original>
@@ -1312,8 +1312,8 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_scuba_10_end_ker_1">
               <Original>Papa Bear, Omega here. Objective complete, ready to RTB, over.</Original>
-              <Chinese>PapaBear，這裡是Omega。任務完成，準備返回基地。完畢。</Chinese>
-              <Chinesesimp>“熊爸爸”，这里是“欧米加”。任务完成，准备返回基地。完毕。</Chinesesimp>
+              <Chinese>"熊爸爸"，這裡是"歐米加"。任務完成，準備返回基地。完畢。</Chinese>
+              <Chinesesimp>"熊爸爸"，这里是"欧米加"。任务完成，准备返回基地。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_Chopper" audioFilePath="\a3\dubbing_f\showcase_scuba" dialogName="05_Chopper" dubbingLanguage="english" namePrefix="showcase_scuba_05_chopper" note="" participants="PA B Player;" situation="kerry just shot down a helicopter.">
@@ -1326,8 +1326,8 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="01_Start" audioFilePath="\a3\dubbing_f\showcase_scuba" dialogName="01_Start" dubbingLanguage="english" namePrefix="showcase_scuba_01_start" note="" participants="PA B Beach Guy;PA B Player;PA B HQ;" situation="kerry's teammate wishes him good luck before kerry dives in the sea.">
             <Key ID="str_a3_showcase_scuba_01_start_hq_0">
               <Original>Papa Bear to Omega. Maintain radio silence during the op. Report in once you complete your objectives. Papa Bear out.</Original>
-              <Chinese>PapaBear呼叫Omega。在任務期間請保持無線電靜默。在任務完成後再進行回報。PapaBear通話完畢。</Chinese>
-              <Chinesesimp>“熊爸爸”呼叫“欧米加”。在任务期间请保持无线电静默。在任务完成后再进行回报。“熊爸爸”通话完毕。</Chinesesimp>
+              <Chinese>"熊爸爸"呼叫歐米加。在任務期間請保持無線電靜默。在任務完成後再進行回報。"熊爸爸"通話完畢。</Chinese>
+              <Chinesesimp>"熊爸爸"呼叫"欧米加"。在任务期间请保持无线电静默。在任务完成后再进行回报。"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_scuba_01_start_jim_0">
               <Original>Good luck, Corporal. Take a deep breath.</Original>
@@ -1336,7 +1336,7 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_scuba_01_start_ker_0">
               <Original>Thanks, Jimmy. Alright, here we go.</Original>
-              <Chinese>謝啦，Jimmy。好吧，好戲上場了。</Chinese>
+              <Chinese>謝啦，吉米。好吧，好戲上場了。</Chinese>
               <Chinesesimp>谢啦，吉米。好吧，好戏上场了。</Chinesesimp>
             </Key>
           </Container>
@@ -1359,7 +1359,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_showcase_summary_text">
             <Original>Engage in Arma 3's infantry combat. Follow your leader and move through the valley to support a friendly squad pinned down by enemy forces.</Original>
-            <Chinese>嘗試ArmA3新的步兵交戰。跟隨你的隊長，進入村莊並支援被敵軍襲擊的友軍。</Chinese>
+            <Chinese>嘗試武裝突襲3新的步兵交戰。跟隨你的隊長，進入村莊並支援被敵軍襲擊的友軍。</Chinese>
             <Chinesesimp>尝试武装突袭3新的步兵交战。跟随你的队长，进入村庄并支援被敌军袭击的友军。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_mission_name">
@@ -1384,7 +1384,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_marker_bis_alpha">
             <Original>Alpha</Original>
-            <Chinese>Alpha</Chinese>
+            <Chinese>阿爾法</Chinese>
             <Chinesesimp>阿尔法</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_friendly_fire">
@@ -1399,8 +1399,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_debriefing_end3">
             <Original>Bravo were killed and we were forced to retreat.</Original>
-            <Chinese>Bravo全體陣亡，我們被迫撤退。</Chinese>
-            <Chinesesimp>“布拉沃”全体阵亡，我们被迫撤退。</Chinesesimp>
+            <Chinese>布拉沃全體陣亡，我們被迫撤退。</Chinese>
+            <Chinesesimp>"布拉沃"全体阵亡，我们被迫撤退。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_debriefing_end2">
             <Original>You successfully rescued our forces and neutralized the mortar, despite being forced to retreat. Given the situation, that's the best outcome we could have hoped for.</Original>
@@ -1420,7 +1420,7 @@ Be ready for more intel as the situation develops.</Original>
           <Key ID="str_a3_showcase_infantry_briefing_situation_text">
             <Original>Hours ago, enemy forces launched a sudden attack from the north. They're steadily advancing south, driving us into the sea.%1Bravo has been pinned down by a swift assault on their position; now, they're trapped inside the %2village%3 and are in need of support. We're stretched thin and need to make a stand.%4An advanced element of your team has taken up a position in the valley. Regroup and report in, Alpha.</Original>
             <Chinese>數小時前，敵人從北方發動突襲。他們正穩定的向南推進，想把我們擠進海裡。%1Bravo被突如其來的突襲陷入苦戰;現在，他們被困在%2村莊%3裡並且需要支援。我們現在人手短缺，不能隨便放棄寶貴的戰力。%4你們小隊將被佈署在村莊東邊的山谷中。Alpha，跟友軍集合後進行回報。</Chinese>
-            <Chinesesimp>数小时前，敌人从北方发动突袭。他们正稳步向南推进，想把我们挤进海里。%1“布拉沃”被突如其来的突袭拖入苦战;现在，他们被困在%2村庄%3里并且需要支援。我们现在人手短缺，不能随便放弃宝贵的战力。%4你分队将被布署在村庄东边的山谷中。“阿尔法”，跟友军集合后进行回报。</Chinesesimp>
+            <Chinesesimp>数小时前，敌人从北方发动突袭。他们正稳步向南推进，想把我们挤进海里。%1"布拉沃"被突如其来的突袭拖入苦战;现在，他们被困在%2村庄%3里并且需要支援。我们现在人手短缺，不能随便放弃宝贵的战力。%4你分队将被布署在村庄东边的山谷中。"阿尔法"，跟友军集合后进行回报。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_signal_title">
             <Original>Signal</Original>
@@ -1429,8 +1429,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_signal_text">
             <Original>%1Alpha%2 - your team%3%4Bravo%5 - friendly fireteam pinned down in the village%6%7Charlie%8 - Supporting element%9Papa Bear - command</Original>
-            <Chinese>%1Alpha%2-你的隊伍%3%4Bravo%5-被壓制在村莊的友軍小隊%6%7Charlie%8-支援小隊%9PapaBear-指揮官</Chinese>
-            <Chinesesimp>%1“阿尔法”%2-你的小组%3%4“布拉沃”%5-被压制在村庄内的友军火力组%6%7“查理”%8-支援分队%9“熊爸爸”-指挥官</Chinesesimp>
+            <Chinese>%1"阿爾法"%2-你的隊伍%3%4"布拉沃"%5-被壓制在村莊的友軍小隊%6%7"查理"%8-支援小隊%9"熊爸爸"-指揮官</Chinese>
+            <Chinesesimp>%1"阿尔法"%2-你的小组%3%4"布拉沃"%5-被压制在村庄内的友军火力组%6%7"查理"%8-支援分队%9"熊爸爸"-指挥官</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_mission_title">
             <Original>Mission</Original>
@@ -1439,8 +1439,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_mission_text">
             <Original>Clear the area of enemy forces with the assistance of %1Charlie%2 and reinforce the village.</Original>
-            <Chinese>在%1Charlie%2的幫助下清理村莊裡的敵軍並鞏固該地點。</Chinese>
-            <Chinesesimp>在%1“查理”%2的帮助下清理村庄里的敌军并增援该小村。</Chinesesimp>
+            <Chinese>在%1"查理"%2的幫助下清理村莊裡的敵軍並鞏固該地點。</Chinese>
+            <Chinesesimp>在%1"查理"%2的帮助下清理村庄里的敌军并增援该小村。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_briefing_execution_title">
             <Original>Execution</Original>
@@ -1464,8 +1464,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_showcase_infantry_bis_village_desc">
             <Original>Bravo are pinned down in %1the village%2. Clear it out.</Original>
-            <Chinese>Bravo被困在%1村莊%2裡。去救出他們。</Chinese>
-            <Chinesesimp>“布拉沃”被困在%1村庄%2里。去救出他们。</Chinesesimp>
+            <Chinese>"布拉沃"被困在%1村莊%2裡。去救出他們。</Chinese>
+            <Chinesesimp>"布拉沃"被困在%1村庄%2里。去救出他们。</Chinesesimp>
           </Key>
           <Key ID="str_a3_showcase_infantry_bis_spotters_title">
             <Original>Eliminate the spotters</Original>
@@ -1535,8 +1535,8 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="x10_Bravo_Dead" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="x10_Bravo_Dead" dubbingLanguage="english" namePrefix="showcase_infantry_x10_bravo_dead" note="" participants="PA B HQ;" situation="papa bear informs all units that bravo isn't responding">
             <Key ID="str_a3_showcase_infantry_x10_bravo_dead_pap_0">
               <Original>Papa Bear to all units, we've lost comms with Bravo. Presumed KIA. Fall back, ASAP. Papa Bear out.</Original>
-              <Chinese>PapaBear通知所有單位，我們已經與Bravo失去聯繫。我們假定他們都已經陣亡了。現在盡速撤退。PapaBear通話完畢。</Chinese>
-              <Chinesesimp>“熊爸爸”通知所有单位，我们已经与“布拉沃”失去联系，推定全体阵亡。现在立刻撤退。“熊爸爸”通话完毕。</Chinesesimp>
+              <Chinese>"熊爸爸"通知所有單位，我們已經與Bravo失去聯繫。我們假定他們都已經陣亡了。現在盡速撤退。"熊爸爸"通話完畢。</Chinese>
+              <Chinesesimp>"熊爸爸"通知所有单位，我们已经与"布拉沃"失去联系，推定全体阵亡。现在立刻撤退。"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_Mortar_Dead" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="x05_Mortar_Dead" dubbingLanguage="english" namePrefix="showcase_infantry_x05_mortar_dead" note="" participants="PA B Player;" situation="ben kerry informs the other elements that the mortar is neutralized">
@@ -1556,13 +1556,13 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="70_Retreat" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="70_Retreat" dubbingLanguage="english" namePrefix="showcase_infantry_70_retreat" note="" participants="PA B HQ;" situation="papa bear orders a full retreat to the forests">
             <Key ID="str_a3_showcase_infantry_70_retreat_pap_0">
               <Original>Papa Bear to all squads, retreat immediately! I say again, retreat immediately!</Original>
-              <Chinese>PapaBear通知所有小隊，立刻進行撤退!重複，立刻進行撤退!</Chinese>
-              <Chinesesimp>“熊爸爸”呼叫各班都有，立刻撤退!重复，立刻撤退!</Chinesesimp>
+              <Chinese>"熊爸爸"通知所有小隊，立刻進行撤退!重複，立刻進行撤退!</Chinese>
+              <Chinesesimp>"熊爸爸"呼叫各班都有，立刻撤退!重复，立刻撤退!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_70_retreat_pap_1">
               <Original>Heavy artillery inbound... Get out of there! Fall back to the forest. Papa Bear out.</Original>
-              <Chinese>重型火砲轟炸來襲...快離開那地方!撤退回森林裡。PapaBear通話完畢。</Chinese>
-              <Chinesesimp>重炮兵打击来袭...快离开那地方!撤退回森林里。“熊爸爸”通话完毕。</Chinesesimp>
+              <Chinese>重型火砲轟炸來襲...快離開那地方!撤退回森林裡。"熊爸爸"通話完畢。</Chinese>
+              <Chinesesimp>重炮兵打击来袭...快离开那地方!撤退回森林里。"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="60_Spotters_Dead" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="60_Spotters_Dead" dubbingLanguage="english" namePrefix="showcase_infantry_60_spotters_dead" note="" participants="PA B Player;" situation="ben kerry informs the other elements that the spotters are dead">
@@ -1582,22 +1582,22 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="45_In_Position" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="45_In_Position" dubbingLanguage="english" namePrefix="showcase_infantry_45_in_position" note="" participants="PA B Charlie Lead;" situation="charlie lead informs the others that they are in position">
             <Key ID="str_a3_showcase_infantry_45_in_position_cha_0">
               <Original>Charlie in position. Scanning hills to the north.</Original>
-              <Chinese>Charlie就定位了。正在搜尋山頭北邊。</Chinese>
-              <Chinesesimp>“查理”就位了。正在搜寻山头北边。</Chinesesimp>
+              <Chinese>"查理"就定位了。正在搜尋山頭北邊。</Chinese>
+              <Chinesesimp>"查理"就位了。正在搜寻山头北边。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Charlie_Support" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="40_Charlie_Support" dubbingLanguage="english" namePrefix="showcase_infantry_40_charlie_support" note="" participants="PA B Charlie Lead;" situation="charlie lead informs the other elements that they will help locate the spotters">
             <Key ID="str_a3_showcase_infantry_40_charlie_support_cha_0">
               <Original>This is Charlie. We'll assist with locating the spotters.</Original>
-              <Chinese>這裡是Charlie。我們將幫助搜尋敵方觀測手的位置。</Chinese>
-              <Chinesesimp>这里是“查理”。我们将帮助搜寻敌方观测手的位置。</Chinesesimp>
+              <Chinese>這裡是"查理"。我們將幫助搜尋敵方觀測手的位置。</Chinese>
+              <Chinesesimp>这里是"查理"。我们将帮助搜寻敌方观测手的位置。</Chinesesimp>
             </Key>
           </Container>
           <Container name="36_Volunteered" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="36_Volunteered" dubbingLanguage="english" namePrefix="showcase_infantry_36_volunteered" note="" participants="PA B Alpha Lead;PA B Player;" situation="alpha lead orders ben kerry to deal with the spotters">
             <Key ID="str_a3_showcase_infantry_36_volunteered_alp_0">
               <Original>Corporal Kerry, you've just been volunteered!</Original>
-              <Chinese>Kerry下士，就是你了!</Chinese>
-              <Chinesesimp>克里下士，你“被志愿”了!</Chinesesimp>
+              <Chinese>克里下士，就是你了!</Chinese>
+              <Chinesesimp>克里下士，你"被志愿"了!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_36_volunteered_ker_0">
               <Original>Got it, sir!</Original>
@@ -1621,17 +1621,17 @@ Be ready for more intel as the situation develops.</Original>
             <Key ID="str_a3_showcase_infantry_30_town_clear_bra_0">
               <Original>All right, Alpha... looks like we're clear. Thanks for the assist.</Original>
               <Chinese>好了，Alpha...看來我們已經安全了。感謝你們的支援。</Chinese>
-              <Chinesesimp>好了，“阿尔法”...看来我们已经安全了。感谢你们的支援。</Chinesesimp>
+              <Chinesesimp>好了，"阿尔法"...看来我们已经安全了。感谢你们的支援。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_30_town_clear_bra_1">
               <Original>Papa Bear, this is Bravo. We've taken casualties, but the village is ours. Please advise, over.</Original>
-              <Chinese>PapaBear，這裡是Bravo。我們有人員傷亡，但村莊是我們的了。請指示下一步，完畢。</Chinese>
-              <Chinesesimp>“熊爸爸”，这里是“布拉沃”。我们有人员伤亡，但村庄在我们手里。请指示，完毕。</Chinesesimp>
+              <Chinese>"熊爸爸"，這裡是"布拉沃"。我們有人員傷亡，但村莊是我們的了。請指示下一步，完畢。</Chinese>
+              <Chinesesimp>"熊爸爸"，这里是"布拉沃"。我们有人员伤亡，但村庄在我们手里。请指示，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_30_town_clear_pap_0">
               <Original>Copy that. Alpha, Bravo, entrench your position and await further orders. Charlie's now en route with support for your wounded. Out.</Original>
-              <Chinese>收到。Alpha，Bravo，鞏固你們的位置並等待進一步命令。Charlie正在前往支援你們的路上了。完畢。</Chinese>
-              <Chinesesimp>收到。“阿尔法”，“布拉沃”，巩固你们的位置并等待进一步命令。“查理”正在前往支援你们的路上了。完毕。</Chinesesimp>
+              <Chinese>收到。"阿爾法"，"布拉沃"，鞏固你們的位置並等待進一步命令。"查理"正在前往支援你們的路上了。完畢。</Chinese>
+              <Chinesesimp>收到。"阿尔法"，"布拉沃"，巩固你们的位置并等待进一步命令。"查理"正在前往支援你们的路上了。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="27_Ridgelines" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="27_Ridgelines" dubbingLanguage="english" namePrefix="showcase_infantry_27_ridgelines" note="" participants="PA B Alpha Lead;" situation="alpha lead orders the rest to watch the ridge-lines">
@@ -1644,37 +1644,37 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="25_Keep_Moving" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="25_Keep_Moving" dubbingLanguage="english" namePrefix="showcase_infantry_25_keep_moving" note="" participants="PA B Alpha Lead;PA B HQ;" situation="the situation worsens, but command orders alpha to keep moving">
             <Key ID="str_a3_showcase_infantry_25_keep_moving_alp_0">
               <Original>Papa Bear, we're a man down and OPFOR backup is flooding into the valley! We've got to fall back!</Original>
-              <Chinese>PapaBear，我們有人倒下，並且敵軍後備部隊已經湧入村莊!我們需要撤退!</Chinese>
-              <Chinesesimp>“熊爸爸”，我们有一人伤亡，而敌预备队正涌入村庄!我们需要撤退!</Chinesesimp>
+              <Chinese>"布拉沃"，我們有人倒下，並且敵軍後備部隊已經湧入村莊!我們需要撤退!</Chinese>
+              <Chinesesimp>"熊爸爸"，我们有一人伤亡，而敌预备队正涌入村庄!我们需要撤退!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_25_keep_moving_alp_1">
               <Original>Dammit. Okay... okay, we keep moving, Bravo still needs our support!</Original>
-              <Chinese>該死。好...好吧，我們繼續移動，Bravo仍然需要我們的支援!</Chinese>
-              <Chinesesimp>该死。好...好吧，我们继续前进，“布拉沃”仍然需要我们的支援!</Chinesesimp>
+              <Chinese>該死。好...好吧，我們繼續移動，"布拉沃"仍然需要我們的支援!</Chinese>
+              <Chinesesimp>该死。好...好吧，我们继续前进，"布拉沃"仍然需要我们的支援!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_25_keep_moving_pap_0">
               <Original>That's a negative Alpha, Bravo can't hold out much longer. You must hit the village now! Over!</Original>
-              <Chinese>這是否定的Alpha，Bravo已經快要撐不下去了。你們現在必須立刻攻擊村莊!完畢!</Chinese>
-              <Chinesesimp>不行“阿尔法”，“布拉沃”快撑不下去了。你们现在必须立刻攻击村庄!完毕!</Chinesesimp>
+              <Chinese>這是否定的"阿爾法"，"布拉沃"已經快要撐不下去了。你們現在必須立刻攻擊村莊!完畢!</Chinese>
+              <Chinesesimp>不行"阿尔法"，"布拉沃"快撑不下去了。你们现在必须立刻攻击村庄!完毕!</Chinesesimp>
             </Key>
           </Container>
           <Container name="23_Negative" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="23_Negative" dubbingLanguage="english" namePrefix="showcase_infantry_23_negative" note="" participants="PA B HQ;" situation="papa bear says le non.">
             <Key ID="str_a3_showcase_infantry_23_negative_pap_0">
               <Original>Alpha-3, be advised, no support available.</Original>
-              <Chinese>Alpha-3，請注意，現在沒有支援可用。</Chinese>
-              <Chinesesimp>“阿尔法-3”，请注意，现在没有支援可用。</Chinesesimp>
+              <Chinese>"阿爾法"-3，請注意，現在沒有支援可用。</Chinese>
+              <Chinesesimp>"阿尔法-3"，请注意，现在没有支援可用。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_23_negative_pap_1">
               <Original>Sorry guys, we're stretched thin here. Papa Bear out.</Original>
-              <Chinese>抱歉了朋友，我們這裡已經擠不出人手了。PapaBear通話完畢。</Chinese>
-              <Chinesesimp>抱歉了伙计们，我们这里已经挤不出人手了。“熊爸爸”通话完毕。</Chinesesimp>
+              <Chinese>抱歉了朋友，我們這裡已經擠不出人手了。"熊爸爸"通話完畢。</Chinese>
+              <Chinesesimp>抱歉了伙计们，我们这里已经挤不出人手了。"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_No_Hope" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="20_No_Hope" dubbingLanguage="english" namePrefix="showcase_infantry_20_no_hope" note="" participants="PA B Medic;PA B HQ;" situation="the medic reports that he cannot save the pointman">
             <Key ID="str_a3_showcase_infantry_20_no_hope_med_0">
               <Original>Alpha-3 to Papa Bear, Jackson's bleeding out...</Original>
-              <Chinese>Alpha-3呼叫PapaBear，Jackson正在嚴重失血...</Chinese>
-              <Chinesesimp>“阿尔法-3”呼叫“熊爸爸”，杰克逊正在严重失血...</Chinesesimp>
+              <Chinese>"阿爾法"-3呼叫"熊爸爸"，傑克遜正在嚴重失血...</Chinese>
+              <Chinesesimp>"阿尔法-3"呼叫"熊爸爸"，杰克逊正在严重失血...</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_20_no_hope_med_1">
               <Original>...I don't have the supplies to deal with this - requesting support at our position, over!</Original>
@@ -1684,14 +1684,14 @@ Be ready for more intel as the situation develops.</Original>
             <Key ID="str_a3_showcase_infantry_20_no_hope_pap_0">
               <Original>Acknowledged, Alpha-3. Wait one.</Original>
               <Chinese>已收到，Alpha-3。請稍等。</Chinese>
-              <Chinesesimp>已收到，“阿尔法-3”。请稍等。</Chinesesimp>
+              <Chinesesimp>已收到，"阿尔法-3"。请稍等。</Chinesesimp>
             </Key>
           </Container>
           <Container name="10_Medic" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="10_Medic" dubbingLanguage="english" namePrefix="showcase_infantry_10_medic" note="" participants="PA B Alpha Lead;" situation="alpha lead radios command">
             <Key ID="str_a3_showcase_infantry_10_medic_alp_0">
               <Original>Papa Bear, this is Alpha. We've got casualties. Standby for update.</Original>
-              <Chinese>PapaBear，這裡是Alpha。我們有人員傷亡。等待我們進一步的報告。</Chinese>
-              <Chinesesimp>“熊爸爸”，这里是“阿尔法”。我们有人员伤亡。等待我们进一步的报告。</Chinesesimp>
+              <Chinese>"熊爸爸"，這裡是"阿爾法"。我們有人員傷亡。等待我們進一步的報告。</Chinese>
+              <Chinesesimp>"熊爸爸"，这里是"阿尔法"。我们有人员伤亡。等待我们进一步的报告。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_10_medic_alp_1">
               <Original>Concentrate your fire down the valley!</Original>
@@ -1702,7 +1702,7 @@ Be ready for more intel as the situation develops.</Original>
           <Container name="05_Pointman_Dead" audioFilePath="\a3\dubbing_f\showcase_infantry" dialogName="05_Pointman_Dead" dubbingLanguage="english" namePrefix="showcase_infantry_05_pointman_dead" note="" participants="PA B Alpha Lead;" situation="alpha lead finds the pointman down">
             <Key ID="str_a3_showcase_infantry_05_pointman_dead_alp_0">
               <Original>Dammit, Jackson's down!</Original>
-              <Chinese>該死，Jackson倒下!</Chinese>
+              <Chinese>該死，傑克遜倒下!</Chinese>
               <Chinesesimp>该死，杰克逊倒下了!</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_05_pointman_dead_alp_1">
@@ -1726,13 +1726,13 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_infantry_01_enemy_spotted_alp_1">
               <Original>Papa Bear, this is Alpha. Be advised, contacts spotted near the village. Do we engage? Over.</Original>
-              <Chinese>PapaBear，這裡是Alpha。請注意，我們發現有敵軍在村莊附近。是否交戰?完畢。</Chinese>
-              <Chinesesimp>“熊爸爸”，这里是“阿尔法”。请注意，我们发现有敌军在村庄附近。是否交战?完毕。</Chinesesimp>
+              <Chinese>"熊爸爸"，這裡是"阿爾法"。請注意，我們發現有敵軍在村莊附近。是否交戰?完畢。</Chinese>
+              <Chinesesimp>"熊爸爸"，这里是"阿尔法"。请注意，我们发现有敌军在村庄附近。是否交战?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_01_enemy_spotted_poi_0">
               <Original>Sir, I've got lots of enemy movement here... looks like they're outflanking Bravo, over.</Original>
-              <Chinese>長官，我在這裡看到許多敵人...看來他們正打算要包抄Bravo，完畢。</Chinese>
-              <Chinesesimp>长官，我在这里看到许多敌人...看来他们正打算要包抄“布拉沃”，完毕。</Chinesesimp>
+              <Chinese>長官，我在這裡看到許多敵人...看來他們正打算要包抄"布拉沃"，完畢。</Chinese>
+              <Chinesesimp>长官，我在这里看到许多敌人...看来他们正打算要包抄"布拉沃"，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_infantry_01_enemy_spotted_alp_2">
               <Original>Ok, let's go!</Original>
@@ -1741,8 +1741,8 @@ Be ready for more intel as the situation develops.</Original>
             </Key>
             <Key ID="str_a3_showcase_infantry_01_enemy_spotted_pap_0">
               <Original>Solid copy, Alpha Lead. Clear to engage. Papa Bear out.</Original>
-              <Chinese>完整收到，Alpha隊長。允許交戰。PapaBear通話完畢。</Chinese>
-              <Chinesesimp>完整收到，阿尔法领队。允许交战。“熊爸爸”通话完毕。</Chinesesimp>
+              <Chinese>完整收到，"阿爾法"隊長。允許交戰。"熊爸爸"通話完畢。</Chinese>
+              <Chinesesimp>完整收到，阿尔法领队。允许交战。"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -1754,22 +1754,22 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_mp_coop_m01_task2_text">
             <Original>The helicopters on the airfield suffered critical damage. You can either check the Kamino firing range for some boats or try to shoot down a patrolling helicopter. If you have an engineer in your team, he can try to repair it, as long as the pilot manages to land safely.</Original>
-            <Chinese>我們的直升機在停機坪遭受致命的傷害。您可以檢查Kamino的軍事靶場，找尋一些船隻或試圖擊落一架巡邏直升機。如果你的團隊中有工兵，則可以嘗試修復它，只要飛行員能設法安全地著陸。</Chinese>
+            <Chinese>我們的直升機在停機坪遭受致命的傷害。您可以檢查卡米諾的軍事靶場，找尋一些船隻或試圖擊落一架巡邏直升機。如果你的團隊中有工兵，則可以嘗試修復它，只要飛行員能設法安全地著陸。</Chinese>
             <Chinesesimp>我们在机场上的直升机遭受致命的伤害。您可以检查卡米诺的军事靶场，找寻一些船只或尝试击落一架巡逻直升机。如果你的团队中有工兵，则可以尝试修复它，只要飞行员能设法安全地着陆。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_coop_m01_task1_title">
             <Original>Escape from the island</Original>
-            <Chinese>逃離Stratis島</Chinese>
+            <Chinese>逃離斯特拉蒂斯島</Chinese>
             <Chinesesimp>逃离斯特拉蒂斯岛</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_coop_m01_task1_text">
             <Original>Escape from Stratis by any means possible.%1%1Your best chances are the %3airfield%2 and %4Kamino firing range%2.</Original>
-            <Chinese>通過任何手段逃離Stratis島。%1%1您的最佳機會是透過%3空軍基地%2和%4Kamino軍事靶場%2。</Chinese>
+            <Chinese>通過任何手段逃離斯特拉蒂斯島。%1%1您的最佳機會是透過%3空軍基地%2和%4卡米諾軍事靶場%2。</Chinese>
             <Chinesesimp>通过任何手段逃离斯特拉蒂斯岛。%1%1您的最佳机会是通过%3空军基地%2和%4卡米诺射击靶场%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_coop_m01_overview">
             <Original>Escape from Stratis by any means possible.</Original>
-            <Chinese>通過任何可能的手段逃離Stratis島。</Chinese>
+            <Chinese>通過任何可能的手段逃離斯特拉蒂斯島。</Chinese>
             <Chinesesimp>通过任何可能的手段逃离斯特拉蒂斯岛。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_coop_m01_hint_1">
@@ -1789,7 +1789,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_mp_coop_m01_end6_text">
             <Original>With all boats and helicopters destroyed, you have no means to escape the island. And enemy reinforcements are surely on their way...</Original>
-            <Chinese>所有船隻和直升機都被摧毀，你沒有辦法逃出Stratis島了。增援的敵人肯定已經在來的路上了...</Chinese>
+            <Chinese>所有船隻和直升機都被摧毀，你沒有辦法逃出斯特拉蒂斯島了。增援的敵人肯定已經在來的路上了...</Chinese>
             <Chinesesimp>所有船只和直升机都被摧毁，你没有办法逃出斯特拉蒂斯岛了。增援的敌人肯定已经在来的路上了...</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_coop_m01_end1_text">
@@ -1799,12 +1799,12 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_mp_coop_m01_briefingname">
             <Original>Escape 10 Stratis</Original>
-            <Chinese>逃離10Stratis島</Chinese>
+            <Chinese>逃離10斯特拉蒂斯島</Chinese>
             <Chinesesimp>逃离10斯特拉蒂斯岛</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_COOP_m01_briefingName_short">
             <Original>Escape from Stratis</Original>
-            <Chinese>逃離Stratis島</Chinese>
+            <Chinese>逃離斯特拉蒂斯島</Chinese>
             <Chinesesimp>逃离斯特拉蒂斯岛</Chinesesimp>
           </Key>
         </Container>
@@ -1831,7 +1831,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_mp_coop_m02_task4_text">
             <Original>Target Three's location is camp Rogain.</Original>
-            <Chinese>三號目標在Rogain營地中。</Chinese>
+            <Chinese>三號目標在羅根營地中。</Chinese>
             <Chinesesimp>三号目标在罗根营地中。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_coop_m02_task3_title">
@@ -1841,7 +1841,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_mp_coop_m02_task3_text">
             <Original>Target Two's location is the comm installation South of camp Rogain.</Original>
-            <Chinese>二號目標的位置大概是在Rogain營地的南方。</Chinese>
+            <Chinese>二號目標的位置大概是在羅根營地的南方。</Chinese>
             <Chinesesimp>二号目标的位置在罗根营地南面的通信站。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_coop_m02_task2_wp">
@@ -1856,7 +1856,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_mp_coop_m02_task2_text">
             <Original>Target One's location is Kamino Firing Range.</Original>
-            <Chinese>一號目標位置在Kamino軍事靶場中。</Chinese>
+            <Chinese>一號目標位置在卡米諾軍事靶場中。</Chinese>
             <Chinesesimp>一号目标位置在卡米诺射击靶场中。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_coop_m02_task1_title">
@@ -1866,7 +1866,7 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_mp_coop_m02_task1_text">
             <Original>Elimiate three important officers currently garrisoned in eastern Stratis.</Original>
-            <Chinese>消滅目前進駐Stratis島東部的三個敵方軍官。</Chinese>
+            <Chinese>消滅目前進駐斯特拉蒂斯島東部的三個敵方軍官。</Chinese>
             <Chinesesimp>消灭目前进驻斯特拉蒂斯岛东部的三名敌方军官。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_coop_m02_overview">
@@ -1881,8 +1881,8 @@ Be ready for more intel as the situation develops.</Original>
           </Key>
           <Key ID="str_a3_mp_coop_m02_briefingname">
             <Original>COOP 07 Headhunters</Original>
-            <Chinese>COOP07獵頭行動</Chinese>
-            <Chinesesimp>COOP07猎头行动</Chinesesimp>
+            <Chinese>合作07獵頭行動</Chinese>
+            <Chinesesimp>合作07猎头行动</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_COOP_m02_briefingName_short">
             <Original>Headhunters</Original>
@@ -1893,14 +1893,14 @@ Be ready for more intel as the situation develops.</Original>
         <Container name="Showcase_EndGame">
           <Key ID="STR_A3_Showcase_EndGame_Showcase_Summary_text">
             <Original>Experience the End Game mode in a singleplayer environment. Secure and upload valuable schematics on Tanoa before the enemy is able to stop you.</Original>
-            <Chinese>在單人遊戲下體驗終戰模式。在Tanoa上進行肅清與上傳武器藍圖的任務，別讓敵人阻止你完成任務。</Chinese>
+            <Chinese>在單人遊戲下體驗終戰模式。在塔諾亞上進行肅清與上傳武器藍圖的任務，別讓敵人阻止你完成任務。</Chinese>
             <Chinesesimp>在单人游戏下体验终战模式。在塔诺亚上进行肃清与上传武器蓝图的任务，别让敌人阻止你完成任务。</Chinesesimp>
           </Key>
         </Container>
         <Container name="EndGame04">
           <Key ID="STR_A3_EndGame04_missionNameLobby">
             <Original>End Game 24 Balavu</Original>
-            <Chinese>終戰24Balavu</Chinese>
+            <Chinese>終戰24巴拉武</Chinese>
             <Chinesesimp>终战24巴拉武</Chinesesimp>
           </Key>
         </Container>
@@ -1909,12 +1909,12 @@ Be ready for more intel as the situation develops.</Original>
     <Container name="ApexMissions">
       <Key ID="STR_A3_EndGame05_missionName">
         <Original>Moddergat</Original>
-        <Chinese>Moddergat</Chinese>
+        <Chinese>莫德爾加</Chinese>
         <Chinesesimp>莫德尔加</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EndGame05_missionNameLobby">
         <Original>End Game 16 Moddergat</Original>
-        <Chinese>終戰16Moddergat</Chinese>
+        <Chinese>終戰16莫德爾加</Chinese>
         <Chinesesimp>终战16莫德尔加</Chinesesimp>
       </Key>
     </Container>

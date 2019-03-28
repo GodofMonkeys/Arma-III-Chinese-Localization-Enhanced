@@ -58,8 +58,8 @@
     <Container name="Field_Manual_Entries">
       <Key ID="STR_A3_Ship_Gun_01_hint_description">
         <Original>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Original>
-        <Chinese>Mk45“大錘”120毫米艦炮為北約的海軍艦艇提供了在近距離和中等距離上的兇猛火力。這種強大的火炮既可以直瞄射擊也可以使用炮控射擊，在艦隊防禦和火力支援任務中都十分重要。這種武器通常部署在“解放”級驅逐艦上。</Chinese>
-        <Chinesesimp>Mk45“大锤”120毫米舰炮为北约的海军舰艇提供了在近距离和中等距离上的凶猛火力。这种强大的火炮既可以直瞄射击也可以使用炮控射击，在舰队防御和火力支援任务中都十分重要。这种武器通常部署在“解放”级驱逐舰上。</Chinesesimp>
+        <Chinese>Mk45"大錘"120公厘艦炮為北約的海軍艦艇提供了在近距離和中等距離上的兇猛火力。這種強大的火炮既可以直瞄射擊也可以使用炮控射擊，在艦隊防禦和火力支援任務中都十分重要。這種武器通常部署在"解放"級驅逐艦上。</Chinese>
+        <Chinesesimp>Mk45"大锤"120毫米舰炮为北约的海军舰艇提供了在近距离和中等距离上的凶猛火力。这种强大的火炮既可以直瞄射击也可以使用炮控射击，在舰队防御和火力支援任务中都十分重要。这种武器通常部署在"解放"级驱逐舰上。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_DLCbrowser_description">
         <Original>This ship serves as a naval-support platform for NATO forces and as additional support for the Carrier Strike Group.</Original>
@@ -68,23 +68,23 @@
       </Key>
       <Key ID="STR_A3_Ship_Gun_01_DLCbrowser_title">
         <Original>The Mk45 Hammer</Original>
-        <Chinese>Mk45“大錘”</Chinese>
-        <Chinesesimp>Mk45“大锤”</Chinesesimp>
+        <Chinese>Mk45"大錘"</Chinese>
+        <Chinesesimp>Mk45"大锤"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_MRLS_01_hint_description">
         <Original>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 MLRS missiles, this asset is normally deployed on Liberty class destroyers.</Original>
-        <Chinese>Mk41垂直發射系統為北約海上艦艇提供了中遠程精確打擊能力。裝載18枚MLRS導彈的該單元通常部署在“解放”級驅逐艦上。</Chinese>
-        <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚MLRS导弹的该单元通常部署在“解放”级驱逐舰上。</Chinesesimp>
+        <Chinese>Mk41垂直發射系統為北約海上艦艇提供了中遠程精確打擊能力。裝載18枚MLRS飛彈的該單元通常部署在"解放"級驅逐艦上。</Chinese>
+        <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚MLRS导弹的该单元通常部署在"解放"级驱逐舰上。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_DLCbrowser_title">
         <Original>Destroyer [USS Liberty]</Original>
-        <Chinese>驅逐艦[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_Gun_01_DLCbrowser_description">
         <Original>120mm naval gun provides NATO naval vessels with heavy firepower capability, designed for use with Liberty class destroyers.</Original>
-        <Chinese>120毫米艦炮為北約海上艦艇提供了強大火力，用於“解放”級驅逐艦。</Chinese>
-        <Chinesesimp>120毫米舰炮为北约海上舰艇提供了强大火力，用于“解放”级驱逐舰。</Chinesesimp>
+        <Chinese>120公厘艦炮為北約海上艦艇提供了強大火力，用於"解放"級驅逐艦。</Chinese>
+        <Chinesesimp>120毫米舰炮为北约海上舰艇提供了强大火力，用于"解放"级驱逐舰。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_MRLS_01_DLCbrowser_title">
         <Original>Mk41 Vertical Launch System</Original>
@@ -93,25 +93,25 @@
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hint_description">
         <Original>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Original>
-        <Chinese>美國海軍“解放”號是該級艦已生產的幾艘之一。這種強大的驅逐艦是“第14北約打擊群”的組成部分。它可以運輸部隊、裝備並收容一架直升機，從而使得戰鬥群可專心執行其主要任務。該艦長155米，寬45米，可以在近岸活動實施快速兩棲突擊。</Chinese>
-        <Chinesesimp>美国海军“解放”号是该级舰已生产的几艘之一。这种强大的驱逐舰是“第14北约打击群”的组成部分。它可以运输部队、装备并收容一架直升机，从而使得战斗群可专心执行其主要任务。该舰长155米，宽45米，可以在近岸活动实施快速两栖突击。</Chinesesimp>
+        <Chinese>美國海軍"解放"號是該級艦已生產的幾艘之一。這種強大的驅逐艦是"第14北約打擊群"的組成部分。它可以運輸部隊、裝備並收容一架直升機，從而使得戰鬥群可專心執行其主要任務。該艦長155米，寬45米，可以在近岸活動實施快速兩棲突擊。</Chinese>
+        <Chinesesimp>美国海军"解放"号是该级舰已生产的几艘之一。这种强大的驱逐舰是"第14北约打击群"的组成部分。它可以运输部队、装备并收容一架直升机，从而使得战斗群可专心执行其主要任务。该舰长155米，宽45米，可以在近岸活动实施快速两栖突击。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_MRLS_01_DLCbrowser_description">
         <Original>This missile system was designed to provide NATO naval vessels with a precision strike capability, designed for use with Liberty class destroyers.</Original>
-        <Chinese>該導彈系統被設計用於為北約海軍艦艇提供精確打擊能力，用於“解放”級驅逐艦。</Chinese>
-        <Chinesesimp>该导弹系统被设计用于为北约海军舰艇提供精确打击能力，用于“解放”级驱逐舰。</Chinesesimp>
+        <Chinese>該飛彈系統被設計用於為北約海軍艦艇提供精確打擊能力，用於"解放"級驅逐艦。</Chinese>
+        <Chinesesimp>该导弹系统被设计用于为北约海军舰艇提供精确打击能力，用于"解放"级驱逐舰。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_Cruise_01_hint_description">
         <Original>The Mk41 Vertical Launch System provides NATO naval vessels with a precision strike capability in medium to long ranges. Armed with 18 cruise missiles, this asset is normally deployed on Liberty class destroyers.</Original>
-        <Chinese>Mk41垂直發射系統為北約海上艦艇提供了中遠程精確打擊能力。裝載18枚巡航導彈的該單元通常部署在“解放”級驅逐艦上。</Chinese>
-        <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚巡航导弹的该单元通常部署在“解放”级驱逐舰上。</Chinesesimp>
+        <Chinese>Mk41垂直發射系統為北約海上艦艇提供了中遠程精確打擊能力。裝載18枚巡航飛彈的該單元通常部署在"解放"級驅逐艦上。</Chinese>
+        <Chinesesimp>Mk41垂直发射系统为北约海上舰艇提供了中远程精确打击能力。装载18枚巡航导弹的该单元通常部署在"解放"级驱逐舰上。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Static_Weapon_Systems">
       <Key ID="STR_A3_Ship_Gun_01_name">
         <Original>Mk45 Hammer</Original>
-        <Chinese>Mk45“大錘”</Chinese>
-        <Chinesesimp>Mk45“大锤”</Chinesesimp>
+        <Chinese>Mk45"大錘"</Chinese>
+        <Chinesesimp>Mk45"大锤"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_MRLS_01_name">
         <Original>Mk41 VLS</Original>
@@ -120,13 +120,13 @@
       </Key>
       <Key ID="str_a3_missile_cruise_weapon_name">
         <Original>Venator Cruise Missile</Original>
-        <Chinese>“獵人”巡弋飛彈</Chinese>
-        <Chinesesimp>“猎人”巡弋导弹</Chinesesimp>
+        <Chinese>"獵人"巡弋飛彈</Chinese>
+        <Chinesesimp>"猎人"巡弋导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_he_x18_magazine_shortname">
         <Original>VCM HE</Original>
-        <Chinese>“獵人”巡弋高爆飛彈</Chinese>
-        <Chinesesimp>“猎人”巡弋高爆导弹</Chinesesimp>
+        <Chinese>"獵人"巡弋高爆飛彈</Chinese>
+        <Chinesesimp>"猎人"巡弋高爆导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_he_x18_magazine_name">
         <Original>Cruise Missile HE</Original>
@@ -136,12 +136,12 @@
       <Key ID="str_a3_missile_cruise_he_x18_magazine_description">
         <Original>Long-range, datalink guided, surface-to-surface missile with high-explosive warhead</Original>
         <Chinese>長程，資料鏈結，地對地高爆飛彈</Chinese>
-        <Chinesesimp>长程，资料链结，地对地高爆导弹</Chinesesimp>
+        <Chinesesimp>长程，资料链接，地对地高爆导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_c_x18_magazine_shortname">
         <Original>VCM Cluster</Original>
-        <Chinese>“獵人”巡弋集束飛彈</Chinese>
-        <Chinesesimp>“猎人”巡弋集束导弹</Chinesesimp>
+        <Chinese>"獵人"巡弋集束飛彈</Chinese>
+        <Chinesesimp>"猎人"巡弋集束导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_c_x18_magazine_name">
         <Original>Cruise Missile Cluster</Original>
@@ -151,14 +151,14 @@
       <Key ID="str_a3_missile_cruise_c_x18_magazine_description">
         <Original>Long-range, datalink guided, surface-to-surface missile with cluster munitions</Original>
         <Chinese>長程，資料鏈結，地對地集束飛彈</Chinese>
-        <Chinesesimp>长程，资料链结，地对地集束导弹</Chinesesimp>
+        <Chinesesimp>长程，资料链接，地对地集束导弹</Chinesesimp>
       </Key>
     </Container>
     <Container name="Turret_position_Names">
       <Key ID="STR_A3_Ship_Gun_01_operator_displayName">
         <Original>MK45 Hammer operator</Original>
-        <Chinese>MK45“大錘”炮手</Chinese>
-        <Chinesesimp>MK45“大锤”炮手</Chinesesimp>
+        <Chinese>MK45"大錘"炮手</Chinese>
+        <Chinesesimp>MK45"大锤"炮手</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Ship_MRLS_01_operator_displayName">
         <Original>Mk41 VLS Operator</Original>
@@ -201,58 +201,58 @@
     <Container name="Destroyer_01">
       <Key ID="STR_A3_Land_Destroyer_01_Name">
         <Original>Destroyer [USS Liberty]</Original>
-        <Chinese>驅逐艦[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_01_hull_00_F">
         <Original>Destroyer [Liberty Class]</Original>
-        <Chinese>驅逐艦[“解放”級]</Chinese>
-        <Chinesesimp>驱逐舰[“解放”级]</Chinesesimp>
+        <Chinese>驅逐艦["解放"級]</Chinese>
+        <Chinesesimp>驱逐舰["解放"级]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_base_F">
         <Original>Destroyer [USS Liberty]</Original>
-        <Chinese>驅逐艦[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_01_F">
         <Original>Destroyer Part [USS Liberty]</Original>
-        <Chinese>驅逐艦部件[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_02_F">
         <Original>Destroyer Part [USS Liberty]</Original>
-        <Chinese>驅逐艦部件[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_03_F">
         <Original>Destroyer Part [USS Liberty]</Original>
-        <Chinese>驅逐艦部件[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_04_F">
         <Original>Destroyer Part [USS Liberty]</Original>
-        <Chinese>驅逐艦部件[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_hull_05_F">
         <Original>Destroyer Part [USS Liberty]</Original>
-        <Chinese>驅逐艦部件[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰部件[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦部件[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰部件[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_interior_02_F">
         <Original>Destroyer Interior [USS Liberty]</Original>
-        <Chinese>驅逐艦內部[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰内部[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦內部[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰内部[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_interior_03_F">
         <Original>Destroyer Interior [USS Liberty]</Original>
-        <Chinese>驅逐艦內部[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰内部[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦內部[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰内部[美国海军"解放"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Land_Destroyer_01_interior_04_F">
         <Original>Destroyer Interior [USS Liberty]</Original>
-        <Chinese>驅逐艦內部[美國海軍“解放”號]</Chinese>
-        <Chinesesimp>驱逐舰内部[美国海军“解放”号]</Chinesesimp>
+        <Chinese>驅逐艦內部[美國海軍"解放"號]</Chinese>
+        <Chinesesimp>驱逐舰内部[美国海军"解放"号]</Chinesesimp>
       </Key>
     </Container>
   </Package>

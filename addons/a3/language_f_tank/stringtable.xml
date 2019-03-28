@@ -168,85 +168,85 @@
     <Container name="Armor_F">
       <Key ID="str_a3_cfgvehicles_o_t_mbt_04_command_f0">
         <Original>T-140K Angara</Original>
-        <Chinese>T-140K“安加拉”指揮坦克</Chinese>
-        <Chinesesimp>T-140K“安加拉”指挥坦克</Chinesesimp>
+        <Chinese>T-140K"安加拉"指揮坦克</Chinese>
+        <Chinesesimp>T-140K"安加拉"指挥坦克</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_t_mbt_04_cannon_f0">
         <Original>T-140 Angara</Original>
-        <Chinese>T-140“安加拉”主戰坦克</Chinese>
-        <Chinesesimp>T-140“安加拉”主战坦克</Chinesesimp>
+        <Chinese>T-140"安加拉"主戰坦克</Chinese>
+        <Chinesesimp>T-140"安加拉"主战坦克</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_mbt_04_command_f0">
         <Original>T-140K Angara</Original>
-        <Chinese>T-140K“安加拉”指揮坦克</Chinese>
-        <Chinesesimp>T-140K“安加拉”指挥坦克</Chinesesimp>
+        <Chinese>T-140K"安加拉"指揮坦克</Chinese>
+        <Chinesesimp>T-140K"安加拉"指挥坦克</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_mbt_04_cannon_f0">
         <Original>T-140 Angara</Original>
-        <Chinese>T-140“安加拉”主戰坦克</Chinese>
-        <Chinesesimp>T-140“安加拉”主战坦克</Chinesesimp>
+        <Chinese>T-140"安加拉"主戰坦克</Chinese>
+        <Chinesesimp>T-140"安加拉"主战坦克</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_lt_01_scout_f0">
         <Original>AWC 303 Nyx (Recon)</Original>
-        <Chinese>AWC303“夜神”(偵察型)</Chinese>
-        <Chinesesimp>AWC303“夜神”(侦察型)</Chinesesimp>
+        <Chinese>AWC303"夜神"(偵察型)</Chinese>
+        <Chinesesimp>AWC303"夜神"(侦察型)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_lt_01_cannon_f0">
         <Original>AWC 304 Nyx (Autocannon)</Original>
-        <Chinese>AWC304“夜神”(自動炮型)</Chinese>
-        <Chinesesimp>AWC304“夜神”(自动炮型)</Chinesesimp>
+        <Chinese>AWC304"夜神"(自動炮型)</Chinese>
+        <Chinesesimp>AWC304"夜神"(自动炮型)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_lt_01_at_f0">
         <Original>AWC 301 Nyx (AT)</Original>
-        <Chinese>AWC301“夜神”(反坦克型)</Chinese>
-        <Chinesesimp>AWC301“夜神”(反坦克型)</Chinesesimp>
+        <Chinese>AWC301"夜神"(反坦克型)</Chinese>
+        <Chinesesimp>AWC301"夜神"(反坦克型)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_lt_01_aa_f0">
         <Original>AWC 302 Nyx (AA)</Original>
-        <Chinese>AWC302“夜神”(防空型)</Chinese>
-        <Chinesesimp>AWC302“夜神”(防空型)</Chinesesimp>
+        <Chinese>AWC302"夜神"(防空型)</Chinese>
+        <Chinesesimp>AWC302"夜神"(防空型)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_t_afv_wheeled_01_up_cannon_f0">
         <Original>Rhino MGS UP</Original>
-        <Chinese>“犀牛”機動火炮系統城市戰型</Chinese>
-        <Chinesesimp>“犀牛”机动火炮系统城市战型</Chinesesimp>
+        <Chinese>"犀牛"機動火炮系統城市戰型</Chinese>
+        <Chinesesimp>"犀牛"机动火炮系统城市战型</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_afv_wheeled_01_up_cannon_f0">
         <Original>Rhino MGS UP</Original>
-        <Chinese>“犀牛”機動火炮系統城市戰型</Chinese>
-        <Chinesesimp>“犀牛”机动火炮系统城市战型</Chinesesimp>
+        <Chinese>"犀牛"機動火炮系統城市戰型</Chinese>
+        <Chinesesimp>"犀牛"机动火炮系统城市战型</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_afv_wheeled_01_cannon_f0">
         <Original>Rhino MGS</Original>
-        <Chinese>“犀牛”機動火炮系統</Chinese>
-        <Chinesesimp>“犀牛”机动火炮系统</Chinesesimp>
+        <Chinese>"犀牛"機動火炮系統</Chinese>
+        <Chinesesimp>"犀牛"机动火炮系统</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_afv_wheeled_01_up_base_f0">
         <Original>Rhino MGS UP</Original>
-        <Chinese>“犀牛”機動火炮系統城市戰型</Chinese>
-        <Chinesesimp>“犀牛”机动火炮系统城市战型</Chinesesimp>
+        <Chinese>"犀牛"機動火炮系統城市戰型</Chinese>
+        <Chinesesimp>"犀牛"机动火炮系统城市战型</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_afv_wheeled_01_base_f0">
         <Original>Rhino MGS</Original>
-        <Chinese>“犀牛”機動火炮系統</Chinese>
-        <Chinesesimp>“犀牛”机动火炮系统</Chinesesimp>
+        <Chinese>"犀牛"機動火炮系統</Chinese>
+        <Chinesesimp>"犀牛"机动火炮系统</Chinesesimp>
       </Key>
     </Container>
     <Container name="Weapons_F">
       <Key ID="str_a3_missiles_vorona0">
         <Original>9M135 Vorona</Original>
-        <Chinese>9M135“沃羅納”反坦克導彈</Chinese>
-        <Chinesesimp>9M135“沃罗纳”反坦克导弹</Chinesesimp>
+        <Chinese>9M135"沃羅納"反坦克飛彈</Chinese>
+        <Chinesesimp>9M135"沃罗纳"反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missiles_saami0">
         <Original>SAAMI</Original>
-        <Chinese>SAAMI地空導彈</Chinese>
+        <Chinese>SAAMI地空飛彈</Chinese>
         <Chinesesimp>SAAMI地空导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missiles_firefist0">
         <Original>FireFIST ATGM</Original>
-        <Chinese>“火拳”反坦克導彈</Chinese>
-        <Chinesesimp>“火拳”反坦克导弹</Chinesesimp>
+        <Chinese>"火拳"反坦克飛彈</Chinese>
+        <Chinesesimp>"火拳"反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_launcher_spg90">
         <Original>SPG-9</Original>
@@ -265,47 +265,47 @@
       </Key>
       <Key ID="str_a3_cfgweapons_launch_o_vorona_green_f0">
         <Original>9M135 Vorona (Green)</Original>
-        <Chinese>9M135“沃羅納”反坦克導彈(綠色)</Chinese>
-        <Chinesesimp>9M135“沃罗纳”反坦克导弹(绿色)</Chinesesimp>
+        <Chinese>9M135"沃羅納"反坦克飛彈(綠色)</Chinese>
+        <Chinesesimp>9M135"沃罗纳"反坦克导弹(绿色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_launch_o_vorona_brown_f0">
         <Original>9M135 Vorona (Brown)</Original>
-        <Chinese>9M135“沃羅納”反坦克導彈(棕色)</Chinese>
-        <Chinesesimp>9M135“沃罗纳”反坦克导弹(棕色)</Chinesesimp>
+        <Chinese>9M135"沃羅納"反坦克飛彈(棕色)</Chinese>
+        <Chinesesimp>9M135"沃罗纳"反坦克导弹(棕色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_launch_mraws_sand_rail_f0">
         <Original>MAAWS Mk4 Mod 0 (Sand)</Original>
-        <Chinese>MAAWSMk4Mod0無坐力炮(沙色)</Chinese>
-        <Chinesesimp>MAAWSMk4Mod0无坐力炮(沙色)</Chinesesimp>
+        <Chinese>MAAWS Mk4 Mod 0無坐力炮(沙色)</Chinese>
+        <Chinesesimp>MAAWS Mk4 Mod 0无坐力炮(沙色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_launch_mraws_sand_f0">
         <Original>MAAWS Mk4 Mod 1 (Sand)</Original>
-        <Chinese>MAAWSMk4Mod1無坐力炮(沙色)</Chinese>
-        <Chinesesimp>MAAWSMk4Mod1无坐力炮(沙色)</Chinesesimp>
+        <Chinese>MAAWS Mk4 Mod 1無坐力炮(沙色)</Chinese>
+        <Chinesesimp>MAAWS Mk4 Mod 1无坐力炮(沙色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_launch_mraws_olive_rail_f0">
         <Original>MAAWS Mk4 Mod 0 (Olive)</Original>
-        <Chinese>MAAWSMk4Mod0無坐力炮(橄欖色)</Chinese>
-        <Chinesesimp>MAAWSMk4Mod0无坐力炮(橄榄色)</Chinesesimp>
+        <Chinese>MAAWS Mk4 Mod 0無坐力炮(橄欖色)</Chinese>
+        <Chinesesimp>MAAWS Mk4 Mod 0无坐力炮(橄榄色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_launch_mraws_green_rail_f0">
         <Original>MAAWS Mk4 Mod 0 (Green)</Original>
-        <Chinese>MAAWSMk4Mod0無坐力炮(綠色)</Chinese>
-        <Chinesesimp>MAAWSMk4Mod0无坐力炮(绿色)</Chinesesimp>
+        <Chinese>MAAWS Mk4 Mod 0無坐力炮(綠色)</Chinese>
+        <Chinesesimp>MAAWS Mk4 Mod 0无坐力炮(绿色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_launch_mraws_green_f0">
         <Original>MAAWS Mk4 Mod 1 (Green)</Original>
-        <Chinese>MAAWSMk4Mod1無坐力炮(綠色)</Chinese>
-        <Chinesesimp>MAAWSMk4Mod1无坐力炮(绿色)</Chinesesimp>
+        <Chinese>MAAWS Mk4 Mod 1無坐力炮(綠色)</Chinese>
+        <Chinesesimp>MAAWS Mk4 Mod 1无坐力炮(绿色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_vorona_heat0">
         <Original>9M135 HEAT Missile</Original>
-        <Chinese>9M135破甲導彈</Chinese>
+        <Chinese>9M135破甲飛彈</Chinese>
         <Chinesesimp>9M135破甲导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_vorona_he0">
         <Original>9M135 HE Missile</Original>
-        <Chinese>9M135高爆導彈</Chinese>
+        <Chinese>9M135高爆飛彈</Chinese>
         <Chinesesimp>9M135高爆导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_spg9_heat0">
@@ -315,8 +315,8 @@
       </Key>
       <Key ID="str_a3_cfgweapons_launch_mraws_olive_f0">
         <Original>MAAWS Mk4 Mod 1 (Olive)</Original>
-        <Chinese>MAAWSMk4Mod1無坐力炮(橄欖色)</Chinese>
-        <Chinesesimp>MAAWSMk4Mod1无坐力炮(橄榄色)</Chinesesimp>
+        <Chinese>MAAWS Mk4 Mod 1無坐力炮(橄欖色)</Chinese>
+        <Chinesesimp>MAAWS Mk4 Mod 1无坐力炮(橄榄色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_spg9_he0">
         <Original>OG-9VM Round</Original>
@@ -325,78 +325,78 @@
       </Key>
       <Key ID="str_a3_cfgmagazines_mraws_he_f0">
         <Original>MAAWS HE 44 Round</Original>
-        <Chinese>MAAWSHE44高爆彈</Chinese>
-        <Chinesesimp>MAAWSHE44高爆弹</Chinesesimp>
+        <Chinese>MAAWS HE 44高爆彈</Chinese>
+        <Chinesesimp>MAAWS HE 44高爆弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_mraws_heat_f0">
         <Original>MAAWS HEAT 75 Round</Original>
-        <Chinese>MAAWSHEAT75破甲彈</Chinese>
-        <Chinesesimp>MAAWSHEAT75破甲弹</Chinesesimp>
+        <Chinese>MAAWS HEAT 75破甲彈</Chinese>
+        <Chinesesimp>MAAWS HEAT 75破甲弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_20rnd_125mm_apfsds0">
         <Original>125mm APFSDS-T</Original>
-        <Chinese>125毫米尾穩脫穿曳</Chinese>
+        <Chinese>125公厘尾穩脫穿曳</Chinese>
         <Chinesesimp>125毫米尾稳脱穿曳</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_20rnd_120mm_heat_mp0">
         <Original>120mm HEAT-MP-T</Original>
-        <Chinese>120毫米破甲多用曳</Chinese>
+        <Chinese>120公厘破甲多用曳</Chinese>
         <Chinesesimp>120毫米破甲多用曳</Chinesesimp>
       </Key>
       <Key ID="str_a3_cannon_20mm0">
         <Original>Cannon 20mm</Original>
-        <Chinese>20毫米自動炮</Chinese>
+        <Chinese>20公厘自動炮</Chinese>
         <Chinesesimp>20毫米自动炮</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_2rnd_127mm_firefist_missiles0">
         <Original>FireFIST ATGM Missile</Original>
-        <Chinese>“火拳”反坦克導彈</Chinese>
-        <Chinesesimp>“火拳”反坦克导弹</Chinesesimp>
+        <Chinese>"火拳"反坦克飛彈</Chinese>
+        <Chinesesimp>"火拳"反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_4rnd_120mm_cannon_missiles0">
         <Original>120mm ATGM</Original>
-        <Chinese>120毫米反坦克導彈</Chinese>
+        <Chinese>120公厘反坦克飛彈</Chinese>
         <Chinesesimp>120毫米反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMagazines_4Rnd_120mm_LG_cannon_missiles0">
         <Original>120mm ATGM LG</Original>
-        <Chinese>120毫米激光制導反坦克導彈</Chinese>
+        <Chinese>120公厘激光制導反坦克飛彈</Chinese>
         <Chinesesimp>120毫米激光制导反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_atgm0">
         <Original>ATGM</Original>
-        <Chinese>反坦克導彈</Chinese>
+        <Chinese>反坦克飛彈</Chinese>
         <Chinesesimp>反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMagazines_4Rnd_125mm_cannon_missiles0">
         <Original>125mm ATGM</Original>
-        <Chinese>125毫米反坦克導彈</Chinese>
+        <Chinese>125公厘反坦克飛彈</Chinese>
         <Chinesesimp>125毫米反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_launch_o_vorona_descriptionshort0">
         <Original>Missile Launcher&lt;br /&gt;Ammo: 130 mm Vorona Missiles</Original>
-        <Chinese>導彈發射器&lt;br/&gt;彈藥:130毫米“沃羅納”導彈</Chinese>
-        <Chinesesimp>导弹发射器&lt;br/&gt;弹药:130毫米“沃罗纳”导弹</Chinesesimp>
+        <Chinese>飛彈發射器&lt;br/&gt;彈藥:130公厘"沃羅納"飛彈</Chinese>
+        <Chinesesimp>导弹发射器&lt;br/&gt;弹药:130毫米"沃罗纳"导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_4rnd_70mm_saami_missiles0">
         <Original>SAAMI Missile</Original>
-        <Chinese>SAAMI導彈</Chinese>
+        <Chinese>SAAMI飛彈</Chinese>
         <Chinesesimp>SAAMI导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMagazines_LG_ATGM0">
         <Original>ATGM LG</Original>
-        <Chinese>激光制導反坦克導彈</Chinese>
+        <Chinese>激光制導反坦克飛彈</Chinese>
         <Chinesesimp>激光制导反坦克导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_mraws_heat_descriptionshort0">
         <Original>Type: MAAWS HEAT 75 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</Original>
-        <Chinese>類別:MAAWSHEAT75破甲彈&lt;br/&gt;發數:1&lt;br/&gt;用於:MAAWS</Chinese>
-        <Chinesesimp>类别:MAAWSHEAT75破甲弹&lt;br/&gt;发数:1&lt;br/&gt;用于:MAAWS</Chinesesimp>
+        <Chinese>類別:MAAWS HEAT 75破甲彈&lt;br/&gt;發數:1&lt;br/&gt;用於:MAAWS</Chinese>
+        <Chinesesimp>类别:MAAWS HEAT 75破甲弹&lt;br/&gt;发数:1&lt;br/&gt;用于:MAAWS</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_mraws_he_descriptionshort0">
         <Original>Type: MAAWS HE 44 Rocket&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: MAAWS</Original>
-        <Chinese>類別:MAAWSHE44高爆彈&lt;br/&gt;發數:1&lt;br/&gt;用於:MAAWS</Chinese>
-        <Chinesesimp>类别:MAAWSHE44高爆弹&lt;br/&gt;发数:1&lt;br/&gt;用于:MAAWS</Chinesesimp>
+        <Chinese>類別:MAAWS HE 44高爆彈&lt;br/&gt;發數:1&lt;br/&gt;用於:MAAWS</Chinese>
+        <Chinesesimp>类别:MAAWS HE 44高爆弹&lt;br/&gt;发数:1&lt;br/&gt;用于:MAAWS</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_launch_mraws_descriptionshort0">
         <Original>Rocket Launcher&lt;br /&gt;Ammo: 84 mm MAAWS Rockets</Original>
@@ -410,13 +410,13 @@
       </Key>
       <Key ID="str_a3_cfgmagazines_vorona_heat_descriptionshort0">
         <Original>Type: 9M135 HEAT Missile&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 9M135 Vorona</Original>
-        <Chinese>類別:9M135破甲導彈&lt;br/&gt;發數:1&lt;br/&gt;用於:9M135“沃羅納”</Chinese>
-        <Chinesesimp>类别:9M135破甲导弹&lt;br/&gt;发数:1&lt;br/&gt;用于:9M135“沃罗纳”</Chinesesimp>
+        <Chinese>類別:9M135破甲飛彈&lt;br/&gt;發數:1&lt;br/&gt;用於:9M135"沃羅納"</Chinese>
+        <Chinesesimp>类别:9M135破甲导弹&lt;br/&gt;发数:1&lt;br/&gt;用于:9M135"沃罗纳"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_vorona_he_descriptionshort0">
         <Original>Type: 9M135 HE Missile&lt;br /&gt;Rounds: 1&lt;br /&gt;Used in: 9M135 Vorona</Original>
-        <Chinese>類別:9M135HEMissile&lt;br/&gt;發數:1&lt;br/&gt;用於:9M135“沃羅納”</Chinese>
-        <Chinesesimp>类别:9M135高爆导弹&lt;br/&gt;发数:1&lt;br/&gt;用于:9M135“沃罗纳”</Chinesesimp>
+        <Chinese>類別:9M135高爆飛彈&lt;br/&gt;發數:1&lt;br/&gt;用於:9M135"沃羅納"</Chinese>
+        <Chinesesimp>类别:9M135高爆导弹&lt;br/&gt;发数:1&lt;br/&gt;用于:9M135"沃罗纳"</Chinesesimp>
       </Key>
       <Key ID="str_a3_firemode_loal0">
         <Original>LOAL</Original>
@@ -577,7 +577,7 @@
       </Key>
       <Key ID="str_a3_cfggroups_atteam">
         <Original>AT Team</Original>
-        <Chinese>反坦克小組</Chinese>
+        <Chinese>反坦克小隊</Chinese>
         <Chinesesimp>反坦克小组</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfggroups_atsection">
@@ -587,7 +587,7 @@
       </Key>
       <Key ID="str_a3_cfggroups_assaultteam">
         <Original>Assault Team</Original>
-        <Chinese>突擊小組</Chinese>
+        <Chinese>突擊小隊</Chinese>
         <Chinesesimp>突击小组</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfggroups_aasection">
@@ -635,33 +635,33 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list9_title">
         <Original>MAAWS Mk4</Original>
-        <Chinese>MAAWSMk4無坐力炮</Chinese>
-        <Chinesesimp>MAAWSMk4无坐力炮</Chinesesimp>
+        <Chinese>MAAWS Mk4無坐力炮</Chinese>
+        <Chinesesimp>MAAWS Mk4无坐力炮</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list9">
         <Original>fire the new unguided recoilless rifle, which is available in the older Mod 0 version used by AAF and FIA, and the newer Mod 1 version that is employed by NATO.</Original>
-        <Chinese>發射新的無制導無坐力炮，舊的Mod0型號由阿爾蒂斯武裝力量和自由陣線使用，而新的Mod1型則由北約使用。</Chinese>
-        <Chinesesimp>发射新的无制导无坐力炮，旧的Mod0型号由阿尔蒂斯武装力量和自由阵线使用，而新的Mod1型则由北约使用。</Chinesesimp>
+        <Chinese>發射新的無制導無坐力炮，舊的Mod 0型號由阿爾蒂斯武裝力量和自由陣線使用，而新的Mod 1型則由北約使用。</Chinese>
+        <Chinesesimp>发射新的无制导无坐力炮，旧的Mod 0型号由阿尔蒂斯武装力量和自由阵线使用，而新的Mod 1型则由北约使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list8_title">
         <Original>9M135 Vorona</Original>
-        <Chinese>9M135“沃羅納”</Chinese>
-        <Chinesesimp>9M135“沃罗纳”</Chinesesimp>
+        <Chinese>9M135"沃羅納"</Chinese>
+        <Chinesesimp>9M135"沃罗纳"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list8">
         <Original>field these manually guided missile launchers using powerful optics, featuring a high 6 or 12x magnification, Thermal Imaging, and a laser rangefinder.</Original>
-        <Chinese>使用這些指令制導導彈，它們擁有強大的瞄準器，可達到6或12x變倍，熱成像，還有激光測距儀。</Chinese>
+        <Chinese>使用這些指令制導飛彈，它們擁有強大的瞄準器，可達到6或12x變倍，熱成像，還有激光測距儀。</Chinese>
         <Chinesesimp>使用这些指令制导导弹，它们拥有强大的瞄准器，可达到6或12x变倍，热成像，还有激光测距仪。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list7">
         <Original>put the new Angara, Nyx, and Rhino to the test in three speedy time trial races across Altis and Malden.</Original>
-        <Chinese>使用新的“安加拉”、“夜神”和“犀牛”在阿爾蒂斯和馬爾登島的賽道上進行競速。</Chinese>
-        <Chinesesimp>使用新的“安加拉”、“夜神”和“犀牛”在阿尔蒂斯和马尔登岛的赛道上进行竞速。</Chinesesimp>
+        <Chinese>使用新的"安加拉"、"夜神"和"犀牛"在阿爾蒂斯和馬爾登島的賽道上進行競速。</Chinese>
+        <Chinesesimp>使用新的"安加拉"、"夜神"和"犀牛"在阿尔蒂斯和马尔登岛的赛道上进行竞速。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list6_title">
         <Original>"Vanguard"</Original>
-        <Chinese>“先鋒”</Chinese>
-        <Chinesesimp>“先锋”</Chinesesimp>
+        <Chinese>"先鋒"</Chinese>
+        <Chinesesimp>"先锋"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list6">
         <Original>join this Team-vs-Team multiplayer mode focusing on the tactical aspects of Arma 3 combined arms gameplay.</Original>
@@ -675,33 +675,33 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list5">
         <Original>play as a NATO crewman on board of the new Rhino MGS UP and utilize its speed and maneuverability to accomplish your mission.</Original>
-        <Chinese>作為搭乘新的“犀牛”機動火炮系統城市戰型的北約坦克兵，利用其速度和機動性完成你的任務。</Chinese>
-        <Chinesesimp>作为搭乘新的“犀牛”机动火炮系统城市战型的北约坦克兵，利用其速度和机动性完成你的任务。</Chinesesimp>
+        <Chinese>作為搭乘新的"犀牛"機動火炮系統城市戰型的北約坦克兵，利用其速度和機動性完成你的任務。</Chinese>
+        <Chinesesimp>作为搭乘新的"犀牛"机动火炮系统城市战型的北约坦克兵，利用其速度和机动性完成你的任务。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list4_title">
         <Original>"Altis Requiem"</Original>
-        <Chinese>“阿爾蒂斯安魂曲”</Chinese>
-        <Chinesesimp>“阿尔蒂斯安魂曲”</Chinesesimp>
+        <Chinese>"阿爾蒂斯安魂曲"</Chinese>
+        <Chinesesimp>"阿尔蒂斯安魂曲"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list4">
         <Original>assume the role of an AAF tank commander in command of the new AWC Nyx as well as the new T-140 Angara MBT in this fun mini-campaign.</Original>
-        <Chinese>擔任一名阿爾蒂斯武裝力量的坦克車長，在這個有趣的迷你戰役中指揮新的AWC“夜神”和T-140“安加拉”主戰坦克投入戰鬥。</Chinese>
-        <Chinesesimp>担任一名阿尔蒂斯武装力量的坦克车长，在这个有趣的迷你战役中指挥新的AWC“夜神”和T-140“安加拉”主战坦克投入战斗。</Chinesesimp>
+        <Chinese>擔任一名阿爾蒂斯武裝力量的坦克車長，在這個有趣的迷你戰役中指揮新的AWC"夜神"和T-140"安加拉"主戰坦克投入戰鬥。</Chinese>
+        <Chinesesimp>担任一名阿尔蒂斯武装力量的坦克车长，在这个有趣的迷你战役中指挥新的AWC"夜神"和T-140"安加拉"主战坦克投入战斗。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list3_title">
         <Original>Rhino MGS</Original>
-        <Chinese>“犀牛”機動火炮系統</Chinese>
-        <Chinesesimp>“犀牛”机动火炮系统</Chinesesimp>
+        <Chinese>"犀牛"機動火炮系統</Chinese>
+        <Chinesesimp>"犀牛"机动火炮系统</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list3">
         <Original>command this Tank Destroyer with a 120 mm cannon, which can fire all kinds of standard rounds, but also the new MARUK ATGM (includes the UP variant).</Original>
-        <Chinese>指揮這種裝有120毫米火炮的坦克殲擊車，它可以發射各種標準彈藥，還能發射MARUK反坦克導彈(包括城市戰型)。</Chinese>
+        <Chinese>指揮這種裝有120公厘火炮的坦克殲擊車，它可以發射各種標準彈藥，還能發射MARUK反坦克飛彈(包括城市戰型)。</Chinese>
         <Chinesesimp>指挥这种装有120毫米火炮的坦克歼击车，它可以发射各种标准弹药，还能发射MARUK反坦克导弹(包括城市战型)。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list2_title">
         <Original>AWC Nyx</Original>
-        <Chinese>AWC“夜神”</Chinese>
-        <Chinesesimp>AWC“夜神”</Chinesesimp>
+        <Chinese>AWC"夜神"</Chinese>
+        <Chinesesimp>AWC"夜神"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list2">
         <Original>flexibly deploy any of these smaller and nimbler armored vehicles as Anti-Tank, Anti-Air, Recon, and Autocannon variants.</Original>
@@ -710,12 +710,12 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list1_title">
         <Original>T-140 Angara</Original>
-        <Chinese>T-140“安加拉”</Chinese>
-        <Chinesesimp>T-140“安加拉”</Chinesesimp>
+        <Chinese>T-140"安加拉"</Chinese>
+        <Chinesesimp>T-140"安加拉"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list13">
         <Original>listen to new music tracks composed specifically for this DLC.</Original>
-        <Chinese>聆聽為這個DLC所編寫的新音樂曲目。</Chinese>
+        <Chinese>聆聽為這個資料片所編寫的新音樂曲目。</Chinese>
         <Chinesesimp>聆听为这个资料片所编写的新音乐曲目。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list12_title">
@@ -745,8 +745,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list10">
         <Original>use variants of the existing Offroad and Prowler / Qilin LSVs that come equipped with mounted launchers.</Original>
-        <Chinese>使用安裝了反坦克發射器的現成的越野車和“徘徊者”/“麒麟”輕型突擊車。</Chinese>
-        <Chinesesimp>使用安装了反坦克发射器的现成的越野车和“徘徊者”/“麒麟”轻型突击车。</Chinesesimp>
+        <Chinese>使用安裝了反坦克發射器的現成的越野車和"徘徊者"/"麒麟"輕型突擊車。</Chinese>
+        <Chinesesimp>使用安装了反坦克发射器的现成的越野车和"徘徊者"/"麒麟"轻型突击车。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_pard_list1">
         <Original>board these CSAT Main Battle Tanks (MBT) built to deliver maximum destruction and crew protection (includes a Commander variant and multiple liveries).</Original>
@@ -760,12 +760,12 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_parc_list6_title">
         <Original>New Missile Flight Profiles &amp;amp; Capabilities</Original>
-        <Chinese>新的導彈飛行模式&amp;amp;能力</Chinese>
+        <Chinese>新的飛彈飛行模式&amp;amp;能力</Chinese>
         <Chinesesimp>新的导弹飞行模式&amp;amp;能力</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_parc_list6">
         <Original>a selection of missiles now features direct or top-down attack flight modes, plus support for terrain-following munitions has been added. A few weapons now also have the ability to lock-on after launch.</Original>
-        <Chinese>一些導彈現在有了直射或攻頂模式，此外還加入了對地形匹配彈藥的支持。一些武器現在有能力在發射後鎖定。</Chinese>
+        <Chinese>一些飛彈現在有了直射或攻頂模式，此外還加入了對地形匹配彈藥的支持。一些武器現在有能力在發射後鎖定。</Chinese>
         <Chinesesimp>一些导弹现在有了直射或攻顶模式，此外还加入了对地形匹配弹药的支持。一些武器现在有能力在发射后锁定。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_parc_list5_title">
@@ -820,7 +820,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_parc">
         <Original>We're excited to once again bring a significant range of &lt;t color='%1'&gt;free new features&lt;/t&gt; to every Arma 3 player. Befitting the DLC theme, we've focused on an &lt;t color='%1'&gt;enhanced armored vehicle experience&lt;/t&gt; for all relevant vehicles in the game (existing and new). These sandbox improvements have been on many wishlists for a long time and now they are finally here!</Original>
-        <Chinese>我們激動地再次為全體武裝突襲3玩家提供了一系列&lt;tcolor='%1'&gt;免費的新特性&lt;/t&gt;。基於這個DLC的主基調，我們將重心傾注在對遊戲內所有相關車輛(現存的或者新加入的)的&lt;tcolor='%1'&gt;增強的裝甲車輛體驗&lt;/t&gt;上。這些對沙盒的改進在長久以來一直被眾聲呼籲，現在他們終於實現了!</Chinese>
+        <Chinese>我們激動地再次為全體武裝突襲3玩家提供了一系列&lt;tcolor='%1'&gt;免費的新特性&lt;/t&gt;。基於這個資料片的主基調，我們將重心傾注在對遊戲內所有相關車輛(現存的或者新加入的)的&lt;tcolor='%1'&gt;增強的裝甲車輛體驗&lt;/t&gt;上。這些對沙盒的改進在長久以來一直被眾聲呼籲，現在他們終於實現了!</Chinese>
         <Chinesesimp>我们激动地再次为全体武装突袭3玩家提供了一系列&lt;tcolor='%1'&gt;免费的新特性&lt;/t&gt;。基于这个资料片的主基调，我们将重心倾注在对游戏内所有相关车辆(现存的或者新加入的)的&lt;tcolor='%1'&gt;增强的装甲车辆体验&lt;/t&gt;上。这些对沙盒的改进在长久以来一直被众声呼吁，现在它们终于实现了!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_parb_footer">
@@ -830,13 +830,13 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_parb">
         <Original>Just like every DLC before it, Arma 3 Tanks follows our well-established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;. Part of this approach is a collection of premium content for owners. They will find unrestricted access to &lt;t color='%1'&gt;3 brand-new armored vehicles&lt;/t&gt;: the T-140 Angara Main Battle Tank, the Nyx Armored Weapons Carrier, and the Rhino MGS Tank Destroyer (all with multiple variants). They were designed to complement the existing factions, where each plays a specific role in the intricate armored warfare spectrum. Get to know these very different vehicles and their unique capabilities while playing the &lt;t color='%1'&gt;"Altis Requiem" mini-campaign&lt;/t&gt; and &lt;t color='%1'&gt;Showcase Tank Destroyers&lt;/t&gt;. Not an owner yet, but curious to try the premium vehicles? Boot up Virtual Garage mode to go hands-on without restriction.</Original>
-        <Chinese>就像之前的所有DLC一樣，武裝突襲3:坦克採用我們此前已經制定的&lt;ahref='%3'color='%2'&gt;DLC政策&lt;/a&gt;。其中的一部分是為付費用戶提供專屬內容。他們將不受限制地使用&lt;tcolor='%1'&gt;3類全新的裝甲車輛&lt;/t&gt;:T-140“安加拉”主戰坦克，“夜神”裝甲武器載車，以及“犀牛”坦克殲擊車(每一類都有多種變型車)。他們被設計分配給現存的各個派系，每個都在裝甲戰的光譜中扮演一個不可或缺的地位。通過遊玩&lt;tcolor='%1'&gt;“阿爾蒂斯安魂曲”迷你戰役&lt;/t&gt;和&lt;tcolor='%1'&gt;坦克殲擊車演示任務&lt;/t&gt;來瞭解這些車輛和他們的獨特能力。如果你沒有購買，但又想試試這些付費車輛?在虛擬軍械庫裡可以不受限制地上手操作他們。</Chinese>
-        <Chinesesimp>就像之前的所有资料片一样，武装突袭3:坦克采用我们此前已经制定的&lt;ahref='%3'color='%2'&gt;DLC政策&lt;/a&gt;。其中的一部分是为付费用户提供专属内容。他们将不受限制地使用&lt;tcolor='%1'&gt;3类全新的装甲车辆&lt;/t&gt;:T-140“安加拉”主战坦克，“夜神”装甲武器载车，以及“犀牛”坦克歼击车(每一类都有多种变型车)。他们被设计分配给现存的各个派系，每个都在装甲战的光谱中扮演一个不可或缺的地位。通过游玩&lt;tcolor='%1'&gt;“阿尔蒂斯安魂曲”迷你战役&lt;/t&gt;和&lt;tcolor='%1'&gt;坦克歼击车演示任务&lt;/t&gt;来了解这些车辆和他们的独特能力。如果你没有购买，但又想试试这些付费车辆?在虚拟军械库里可以不受限制地上手操作他们。</Chinesesimp>
+        <Chinese>就像之前的所有資料片一樣，武裝突襲3:坦克採用我們此前已經制定的&lt;ahref='%3'color='%2'&gt;資料片政策&lt;/a&gt;。其中的一部分是為付費用戶提供專屬內容。他們將不受限制地使用&lt;tcolor='%1'&gt;3類全新的裝甲車輛&lt;/t&gt;:T-140"安加拉"主戰坦克，"夜神"裝甲武器載車，以及"犀牛"坦克殲擊車(每一類都有多種變型車)。他們被設計分配給現存的各個派系，每個都在裝甲戰的光譜中扮演一個不可或缺的地位。通過遊玩&lt;tcolor='%1'&gt;"阿爾蒂斯安魂曲"迷你戰役&lt;/t&gt;和&lt;tcolor='%1'&gt;坦克殲擊車演示任務&lt;/t&gt;來瞭解這些車輛和他們的獨特能力。如果你沒有購買，但又想試試這些付費車輛?在虛擬軍械庫裡可以不受限制地上手操作他們。</Chinese>
+        <Chinesesimp>就像之前的所有资料片一样，武装突袭3:坦克采用我们此前已经制定的&lt;ahref='%3'color='%2'&gt;資料片政策&lt;/a&gt;。其中的一部分是为付费用户提供专属内容。他们将不受限制地使用&lt;tcolor='%1'&gt;3类全新的装甲车辆&lt;/t&gt;:T-140"安加拉"主战坦克，"夜神"装甲武器载车，以及"犀牛"坦克歼击车(每一类都有多种变型车)。他们被设计分配给现存的各个派系，每个都在装甲战的光谱中扮演一个不可或缺的地位。通过游玩&lt;tcolor='%1'&gt;"阿尔蒂斯安魂曲"迷你战役&lt;/t&gt;和&lt;tcolor='%1'&gt;坦克歼击车演示任务&lt;/t&gt;来了解这些车辆和他们的独特能力。如果你没有购买，但又想试试这些付费车辆?在虚拟军械库里可以不受限制地上手操作他们。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_tank_para">
         <Original>Roll in heavy firepower and take control of the battlefield with three brand new armored vehicles in the &lt;t color='%1'&gt;Arma 3 Tanks&lt;/t&gt; DLC. Read on for a peak under the hood of these metal beasts now available to the DLC owners, and to check what impressive additions and tweaks have been included within the associated platform update for each and every player. When you're done here, head on over to the in-game motor pool and start revving some engines!</Original>
-        <Chinese>在&lt;tcolor='%1'&gt;武裝突襲3:坦克&lt;/t&gt;DLC中使用三種全新的裝甲車輛駕馭重型火力並控制戰場。看看這些鋼鐵猛獸內部的樣子，並查看為每個玩家提供的相關平臺升級內容都有什麼。在你完成之後，前往遊戲內部的車場開個痛快吧!</Chinese>
-        <Chinesesimp>在&lt;tcolor='%1'&gt;武装突袭3:坦克&lt;/t&gt;DLC中使用三种全新的装甲车辆驾驭重型火力并控制战场。看看这些钢铁猛兽内部的样子，并查看为每个玩家提供的相关平台升级内容都有什么。在你完成之后，前往游戏内部的车场开个痛快吧!</Chinesesimp>
+        <Chinese>在&lt;tcolor='%1'&gt;武裝突襲3:坦克&lt;/t&gt;資料片中使用三種全新的裝甲車輛駕馭重型火力並控制戰場。看看這些鋼鐵猛獸內部的樣子，並查看為每個玩家提供的相關平臺升級內容都有什麼。在你完成之後，前往遊戲內部的車場開個痛快吧!</Chinese>
+        <Chinesesimp>在&lt;tcolor='%1'&gt;武装突袭3:坦克&lt;/t&gt;资料片中使用三种全新的装甲车辆驾驭重型火力并控制战场。看看这些钢铁猛兽内部的样子，并查看为每个玩家提供的相关平台升级内容都有什么。在你完成之后，前往游戏内部的车场开个痛快吧!</Chinesesimp>
       </Key>
     </Container>
     <Container name="FieldManual">
@@ -857,13 +857,13 @@
       </Key>
       <Key ID="str_a3_vorona_library1">
         <Original>9M135 Vorona (NATO's reporting name: AT-19 Sweeper) is one of the newest ATGMs developed for CSAT's infantry and motorized units. The maximum range of this subsonic manual-guided missile is 2000 m, regardless of the time of day or weather conditions. This is because the command launch unit features powerful optics with day and infra-red vision modes and a laser rangefinder. The launcher can even be used without a tripod, and can be mounted on vehicles like the Qilin light strike vehicle. Two 130mm missiles are currently available; anti-tank with a powerful tandem HEAT warhead, and anti-personnel with a HE-FRAG warhead.</Original>
-        <Chinese>9M135“沃羅納”(北約代號:AT-19“清道夫”)是為廣協同盟的步兵和摩托化部隊研製的一種最新型的反坦克導彈。這種亞音速指令制導導彈的最大射程為2000米，全天候使用。這是因為導彈的指揮發射單元擁有強大的光學系統，同時由白光和紅外熱成像模式，還備有激光測距儀。發射器甚至還可以在沒有三腳架的情況下發射，也能被輕易安裝到諸如“麒麟”輕型突擊車一類的車輛上。現在有兩種130毫米導彈可用;反坦克型安裝了強有力的串聯破甲戰鬥部，反人員型則安裝殺爆戰鬥部。</Chinese>
-        <Chinesesimp>9M135“沃罗纳”(北约代号:AT-19“清道夫”)是为广协同盟的步兵和摩托化部队研制的一种最新型的反坦克导弹。这种亚音速指令制导导弹的最大射程为2000米，全天候使用。这是因为导弹的指挥发射单元拥有强大的光学系统，同时由白光和红外热成像模式，还备有激光测距仪。发射器甚至还可以在没有三脚架的情况下发射，也能被轻易安装到诸如“麒麟”轻型突击车一类的车辆上。现在有两种130毫米导弹可用;反坦克型安装了强有力的串联破甲战斗部，反人员型则安装杀爆战斗部。</Chinesesimp>
+        <Chinese>9M135"沃羅納"(北約代號:AT-19"清道夫")是為廣協同盟的步兵和摩托化部隊研製的一種最新型的反坦克飛彈。這種亞音速指令制導飛彈的最大射程為2000公尺，全天候使用。這是因為飛彈的指揮發射單元擁有強大的光學系統，同時由白光和紅外熱成像模式，還備有激光測距儀。發射器甚至還可以在沒有三腳架的情況下發射，也能被輕易安裝到諸如"麒麟"輕型突擊車一類的車輛上。現在有兩種130公厘飛彈可用;反坦克型安裝了強有力的串聯破甲戰鬥部，反人員型則安裝殺爆戰鬥部。</Chinese>
+        <Chinesesimp>9M135"沃罗纳"(北约代号:AT-19"清道夫")是为广协同盟的步兵和摩托化部队研制的一种最新型的反坦克导弹。这种亚音速指令制导导弹的最大射程为2000米，全天候使用。这是因为导弹的指挥发射单元拥有强大的光学系统，同时由白光和红外热成像模式，还备有激光测距仪。发射器甚至还可以在没有三脚架的情况下发射，也能被轻易安装到诸如"麒麟"轻型突击车一类的车辆上。现在有两种130毫米导弹可用;反坦克型安装了强有力的串联破甲战斗部，反人员型则安装杀爆战斗部。</Chinesesimp>
       </Key>
       <Key ID="str_a3_vorona_library0">
         <Original>9M135 Vorona</Original>
-        <Chinese>9M135“沃羅納”</Chinese>
-        <Chinesesimp>9M135“沃罗纳”</Chinesesimp>
+        <Chinese>9M135"沃羅納"</Chinese>
+        <Chinesesimp>9M135"沃罗纳"</Chinesesimp>
       </Key>
       <Key ID="str_a3_slatarmor3">
         <Original>Slat armor adds significant weight to the vehicle. In addition, it increases a vehicle's size, meaning they may be too bulky for transportation in other vehicles. Driving can also become more challenging.</Original>
@@ -882,13 +882,13 @@
       </Key>
       <Key ID="str_a3_rhino_library1">
         <Original>The Rhino MGS is the latest wheeled tank destroyer in NATO armored forces, designed for easy transportation to crisis regions. Its lightweight 120mm main cannon can use all conventional rounds including MARUK ATGMs, which increase its effective range to 8 km. The vehicle's secondary weapon is the .338 magnum SPMG coaxial machinegun. The price paid for the Rhino's great mobility and firepower is its light armor and low supplies of ammo and fuel. The 'UP' version is equipped with a remotely operated 12.7mm HMG and improved protection, provided by a cage and reactive armor. However, with this setup, it's too bulky to fit into many transport vehicles, including the Blackfish VTOL.</Original>
-        <Chinese>“犀牛”機動火炮系統是北約武裝力量最新型的坦克殲擊車，從設計上能被輕易投送到危機地區。其輕型120毫米主炮可以發射所有種類的普通彈藥，包括MARUK反坦克導彈，該導彈將主炮有效射程延伸到8千米。該車輛的次要武器是一挺.338馬格南SPMG並列機槍。“犀牛”為其高機動性和火力付出的代價是其貧弱的裝甲和彈藥以及燃料儲備的低下。“城市戰型”安裝了遙控操作的12。7毫米重機槍並加強了防護，可以安裝格柵裝甲和反應裝甲。然而在安裝了這些之後，它就顯得太大太重沒法裝進大部分運輸載具、包括“黑魚”垂直起降機內了。</Chinese>
-        <Chinesesimp>“犀牛”机动火炮系统是北约武装力量最新型的坦克歼击车，从设计上能被轻易投送到危机地区。其轻型120毫米主炮可以发射所有种类的普通弹药，包括MARUK反坦克导弹，该导弹将主炮有效射程延伸到8千米。该车辆的次要武器是一挺.338马格南SPMG并列机枪。“犀牛”为其高机动性和火力付出的代价是其贫弱的装甲和弹药以及燃料储备的低下。“城市战型”安装了遥控操作的12。7毫米重机枪并加强了防护，可以安装格栅装甲和反应装甲。然而在安装了这些之后，它就显得太大太重没法装进大部分运输载具、包括“黑鱼”垂直起降机内了。</Chinesesimp>
+        <Chinese>"犀牛"機動火炮系統是北約武裝力量最新型的坦克殲擊車，從設計上能被輕易投送到危機地區。其輕型120公厘主炮可以發射所有種類的普通彈藥，包括MARUK反坦克飛彈，該飛彈將主炮有效射程延伸到8公里。該車輛的次要武器是一挺.338馬格南SPMG並列機槍。"犀牛"為其高機動性和火力付出的代價是其貧弱的裝甲和彈藥以及燃料儲備的低下。"城市戰型"安裝了遙控操作的12.7公厘重機槍並加強了防護，可以安裝格柵裝甲和反應裝甲。然而在安裝了這些之後，它就顯得太大太重沒法裝進大部分運輸載具、包括"黑魚"垂直起降機內了。</Chinese>
+        <Chinesesimp>"犀牛"机动火炮系统是北约武装力量最新型的坦克歼击车，从设计上能被轻易投送到危机地区。其轻型120毫米主炮可以发射所有种类的普通弹药，包括MARUK反坦克导弹，该导弹将主炮有效射程延伸到8千米。该车辆的次要武器是一挺.338马格南SPMG并列机枪。"犀牛"为其高机动性和火力付出的代价是其贫弱的装甲和弹药以及燃料储备的低下。"城市战型"安装了遥控操作的12.7毫米重机枪并加强了防护，可以安装格栅装甲和反应装甲。然而在安装了这些之后，它就显得太大太重没法装进大部分运输载具、包括"黑鱼"垂直起降机内了。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rhino_library0">
         <Original>Rhino MGS</Original>
-        <Chinese>“犀牛”機動火炮系統</Chinese>
-        <Chinesesimp>“犀牛”机动火炮系统</Chinesesimp>
+        <Chinese>"犀牛"機動火炮系統</Chinese>
+        <Chinesesimp>"犀牛"机动火炮系统</Chinesesimp>
       </Key>
       <Key ID="str_a3_reactivearmor3">
         <Original>The ERA layer adds significant weight to the vehicle, affecting its maneuverability.</Original>
@@ -907,13 +907,13 @@
       </Key>
       <Key ID="str_a3_nyx_library1">
         <Original>The AWC 300 Nyx family consists of a number of light, fast and agile combat vehicles used by the AAF. While small and lightly armored, the Nyx can surprise enemies by striking from unexpected positions with its decent and accurate firepower. The anti-tank and air-defense variants are equipped with IR guided missiles and a 12.7mm HMG. The strike variant uses a 20mm autocannon and a 7.62mm coaxial machinegun. The recon variant is unarmed, but uses its radar and sensors to detect nearby threats and pass target data to friendly units via datalink. It can also paint targets with its laser designator, which is located on a telescopic mount.</Original>
-        <Chinese>TheAWC300Nyxfamilyconsistsofanumberoflight，fastandagilecombatvehiclesusedbytheAAF。Whilesmallandlightlyarmored，theNyxcansurpriseenemiesbystrikingfromunexpectedpositionswithitsdecentandaccuratefirepower。Theanti-tankandair-defensevariantsareequippedwithIRguidedmissilesanda12。7mmHMG。Thestrikevariantusesa20mmautocannonanda7.62mmcoaxialmachinegun。Thereconvariantisunarmed，butusesitsradarandsensorstodetectnearbythreatsandpasstargetdatatofriendlyunitsviadatalink。Itcanalsopainttargetswithitslaserdesignator，whichislocatedonatelescopicmount。</Chinese>
-        <Chinesesimp>TheAWC300Nyxfamilyconsistsofanumberoflight，fastandagilecombatvehiclesusedbytheAAF。Whilesmallandlightlyarmored，theNyxcansurpriseenemiesbystrikingfromunexpectedpositionswithitsdecentandaccuratefirepower。Theanti-tankandair-defensevariantsareequippedwithIRguidedmissilesanda12。7mmHMG。Thestrikevariantusesa20mmautocannonanda7.62mmcoaxialmachinegun。Thereconvariantisunarmed，butusesitsradarandsensorstodetectnearbythreatsandpasstargetdatatofriendlyunitsviadatalink。Itcanalsopainttargetswithitslaserdesignator，whichislocatedonatelescopicmount。</Chinesesimp>
+        <Chinese>AWC 300"夜神"系列 是由阿爾蒂斯武裝力量使用的許多輕裝甲車輛組成的. 雖然是小型輕裝甲載具，但是"夜神"卻可以出其不意的從意想不到的位置發起準確而強力的打擊. "夜神"防空型和反坦克型都配備了紅外導引飛彈和12.7公厘重機槍. 突擊型配備了20公厘榴彈炮及7.62公厘同軸機槍. 偵察型則未裝備武器，通過使用位於伸縮式支架上的雷射指示器指示目標、使用雷達和及其傳感器來偵測附近的威脅，並將目標數據發送給友方單位。</Chinese>
+        <Chinesesimp>AWC 300"夜神"系列 是由阿尔蒂斯武装力量使用的许多轻装甲车辆组成的. 虽然是小型轻装甲载具，但是"夜神夜神"却可以出其不意的从意想不到的位置发起准确而强力的打击. "夜神"防空型和反坦克型都配备了红外制导导弹和12.7毫米重机枪. 突击型配备了20毫米榴弹炮及7.62毫米同轴机枪. 侦察型则未装备武器，通过使用位于伸缩式支架上的激光指示器指示目标、使用雷达和及其传感器来侦测附近的威胁，并将目标数据发送给友方单位。</Chinesesimp>
       </Key>
       <Key ID="str_a3_nyx_library0">
         <Original>AWC 300 Nyx</Original>
-        <Chinese>AWC300“夜神”</Chinese>
-        <Chinesesimp>AWC300“夜神”</Chinesesimp>
+        <Chinese>AWC 300"夜神"</Chinese>
+        <Chinesesimp>AWC 300"夜神"</Chinesesimp>
       </Key>
       <Key ID="str_a3_missileflightmodes3">
         <Original>Top-down and overfly modes need a certain distance from the target if they are to be used. If the target is too close, direct mode is used.</Original>
@@ -922,23 +922,23 @@
       </Key>
       <Key ID="str_a3_missileflightmodes2">
         <Original>Modern guided missiles can operate in different flight modes, allowing their user to increase their effectiveness against the selected target.%1%2%3Direct%4 - missile flies directly towards the target %1%2%3Top-down%4 - missile gains altitude after launch and descends from above %1%2%3Overfly top-attack%4 - missile flies and detonates directly above the target %1%2%3Terrain copy%4 - missile copies the terrain until reaching the target area</Original>
-        <Chinese>現代導彈可以適用不同的飛行模式，允許其使用者增加它們對特定目標的有效性。%1%2%3直射%4-導彈直接飛向目標%1%2%3攻頂%4-導彈在起飛後先爬升高度然後再俯衝向目標%1%2%3飛掠攻頂%4-導彈飛掠目標並在其正上方引爆%1%2%3地形匹配%4-導彈隨地形飛行直到抵達目標位置</Chinese>
+        <Chinese>現代飛彈可以適用不同的飛行模式，允許其使用者增加它們對特定目標的有效性。%1%2%3直射%4-飛彈直接飛向目標%1%2%3攻頂%4-飛彈在起飛後先爬升高度然後再俯衝向目標%1%2%3飛掠攻頂%4-飛彈飛掠目標並在其正上方引爆%1%2%3地形匹配%4-飛彈隨地形飛行直到抵達目標位置</Chinese>
         <Chinesesimp>现代导弹可以适用不同的飞行模式，允许其使用者增加它们对特定目标的有效性。%1%2%3直射%4-导弹直接飞向目标%1%2%3攻顶%4-导弹在起飞后先爬升高度然后再俯冲向目标%1%2%3飞掠攻顶%4-导弹飞掠目标并在其正上方引爆%1%2%3地形匹配%4-导弹随地形飞行直到抵达目标位置</Chinesesimp>
       </Key>
       <Key ID="str_a3_missileflightmodes1">
         <Original>Missile Flight Modes</Original>
-        <Chinese>導彈飛行模式</Chinese>
+        <Chinese>飛彈飛行模式</Chinese>
         <Chinesesimp>导弹飞行模式</Chinesesimp>
       </Key>
       <Key ID="str_a3_maaws_library1">
         <Original>The MAAWS Mk4 (Multi-role Anti-armor Anti-tank Weapon System) is the latest member of the originally Swedish-made recoilless rifle family. The Mk4 is lighter, accurate, and more durable than its predecessors. It can fire multiple types of 84mm rounds, with a maximum effective range of 700 meters against static targets. The Mod 0 uses a simple daytime optical sight, while the Mod 1 has a laser rangefinder and integrated night-vision to accurately engage enemy targets at various ranges, at any hour of the day.</Original>
-        <Chinese>MAAWSMk4(多用途反裝甲反坦克武器系統)是瑞典生產的無坐力炮家族的最新產品。Mk4是一種較其舊型號更輕、更精確且持久力更強的型號。它可發射多種型號的84毫米彈藥，最大有效射程對固定目標為700米。Mod0使用簡單的晝間光學瞄準具，而Mod1則擁有激光測序儀和一體式夜視儀以便在全天候下在多種距離上攻擊目標。</Chinese>
-        <Chinesesimp>MAAWSMk4(多用途反装甲反坦克武器系统)是瑞典生产的无坐力炮家族的最新产品。Mk4是一种较其旧型号更轻、更精确且持久力更强的型号。它可发射多种型号的84毫米弹药，最大有效射程对固定目标为700米。Mod0使用简单的昼间光学瞄准具，而Mod1则拥有激光测序仪和一体式夜视仪以便在全天候下在多种距离上攻击目标。</Chinesesimp>
+        <Chinese>MAAWS Mk4(多用途反裝甲反坦克武器系統)是瑞典生產的無坐力炮家族的最新產品。Mk4是一種較其舊型號更輕、更精確且持久力更強的型號。它可發射多種型號的84公厘彈藥，最大有效射程對固定目標為700公尺。Mod 0使用簡單的晝間光學瞄準具，而Mod 1則擁有激光測序儀和一體式夜視儀以便在全天候下在多種距離上攻擊目標。</Chinese>
+        <Chinesesimp>MAAWS Mk4(多用途反装甲反坦克武器系统)是瑞典生产的无坐力炮家族的最新产品。Mk4是一种较其旧型号更轻、更精确且持久力更强的型号。它可发射多种型号的84毫米弹药，最大有效射程对固定目标为700米。Mod 0使用简单的昼间光学瞄准具，而Mod 1则拥有激光测序仪和一体式夜视仪以便在全天候下在多种距离上攻击目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_maaws_library0">
         <Original>MAAWS Mk4</Original>
-        <Chinese>MAAWSMk4</Chinese>
-        <Chinesesimp>MAAWSMk4</Chinesesimp>
+        <Chinese>MAAWS Mk4</Chinese>
+        <Chinesesimp>MAAWS Mk4</Chinesesimp>
       </Key>
       <Key ID="str_a3_loal3">
         <Original>Explosive munitions can have unintended consequences. Always make sure there are no friendly units in the target area before firing.</Original>
@@ -947,17 +947,17 @@
       </Key>
       <Key ID="str_a3_loal2">
         <Original>Some guided missiles are able to lock-on after launch (LOAL) and can be used against targets beyond immediate line of sight.%1%2Press %11 to pick a desired target. This gives the missile an initial position to fly to%1%2Select appropriate fire mode %12 to clear terrain between you and the target, if needed (top or terrain-following if available)%1%2Fire the missile in the target's direction%1%1The missile will now fly towards the marked position. If no target was marked,  then the position under the crosshair or a preset distance is used. Once there, the missile will try to lock on the nearest available target within the seeker's field of regard.</Original>
-        <Chinese>有些導彈可以在發射後鎖定(LOAL)，可以用來對付超越直接瞄準線的目標。%1%2按%11以選擇一個合適的目標。這將給導彈一個初始的飛行目標位置%1%2選擇合適的發射模式%12以避開在你和目標之間的地形，如果必要的話(如果可用就選擇攻頂模式或地形匹配模式)%1%2向目標的方向發射導彈%1%1導彈現在將會飛向你標出的地點。如果沒有標記目標，那麼可以通過十字線瞄準或預設距離來設置。一旦抵達，導彈就會嘗試自行鎖定導引頭視場內最近的目標。</Chinese>
+        <Chinese>有些飛彈可以在發射後鎖定(LOAL)，可以用來對付超越直接瞄準線的目標。%1%2按%11以選擇一個合適的目標。這將給飛彈一個初始的飛行目標位置%1%2選擇合適的發射模式%12以避開在你和目標之間的地形，如果必要的話(如果可用就選擇攻頂模式或地形匹配模式)%1%2向目標的方向發射飛彈%1%1飛彈現在將會飛向你標出的地點。如果沒有標記目標，那麼可以通過十字線瞄準或預設距離來設置。一旦抵達，飛彈就會嘗試自行鎖定導引頭視場內最近的目標。</Chinese>
         <Chinesesimp>有些导弹可以在发射后锁定(LOAL)，可以用来对付超越直接瞄准线的目标。%1%2按%11以选择一个合适的目标。这将给导弹一个初始的飞行目标位置%1%2选择合适的发射模式%12以避开在你和目标之间的地形，如果必要的话(如果可用就选择攻顶模式或地形匹配模式)%1%2向目标的方向发射导弹%1%1导弹现在将会飞向你标出的地点。如果没有标记目标，那么可以通过十字线瞄准或预设距离来设置。一旦抵达，导弹就会尝试自行锁定导引头视场内最近的目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_loal1">
         <Original>Lock-on after launch missiles</Original>
-        <Chinese>發射後鎖定導彈</Chinese>
+        <Chinese>發射後鎖定飛彈</Chinese>
         <Chinesesimp>发射后锁定导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_compositearmor2">
         <Original>Modern armored fighting vehicles usually use composite armor, which is more effective in defeating HEAT munitions compared to simple steel armor.%1Composite armor, however, needs to be thick enough to achieve its purpose, meaning it's usually used on the front and sides of main battle tanks, leaving other parts more vulnerable to RPGs and ATGMs.</Original>
-        <Chinese>現代裝甲戰鬥車輛通常使用複合裝甲，他們相對於均質鋼裝甲在對付破甲彈時效果更好。%1然而複合裝甲需要更厚實才能達到這一目的，這就意味著它們只能部署在主戰坦克的正面和側面，讓車體的其他部分容易受到火箭筒和反坦克導彈的打擊。</Chinese>
+        <Chinese>現代裝甲戰鬥車輛通常使用複合裝甲，他們相對於均質鋼裝甲在對付破甲彈時效果更好。%1然而複合裝甲需要更厚實才能達到這一目的，這就意味著它們只能部署在主戰坦克的正面和側面，讓車體的其他部分容易受到火箭筒和反坦克飛彈的打擊。</Chinese>
         <Chinesesimp>现代装甲战斗车辆通常使用复合装甲，他们相对于均质钢装甲在对付破甲弹时效果更好。%1然而复合装甲需要更厚实才能达到这一目的，这就意味着它们只能部署在主战坦克的正面和侧面，让车体的其他部分容易受到火箭筒和反坦克导弹的打击。</Chinesesimp>
       </Key>
       <Key ID="str_a3_compositearmor1">
@@ -967,22 +967,22 @@
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumtank0">
         <Original>%11%1%12%1%2T-140 Angara – CSAT’s most formidable battle tank, unrivaled in firepower and armor. Features a Commander variant and multiple liveries.%1%2AWC Nyx – small in size, this flexible tankette punches well above its weight; with four variants, it’s suited to multiple forms of warfare, including recon, anti-tank, and even anti-air roles!%1%2Rhino MGS – a steel beast designed for one purpose – to destroy other tanks! Armed with a mighty 120mm cannon, it can dispense many types of rounds, including the new MARUK anti-tank guided missile. Also comes with a UP variant.%1%2"Altis Requiem" – play as an AAF tank commander and take control of an AWC Nyx, and later, the T-140 Angara, in this explosive, three-mission mini-campaign.%1%2Showcase Tank Destroyers – climb in NATO’s primary tank destroyer and utilize its speed and agility to outmaneuver the deadliest of armored adversaries.%1%2"Vanguard" – a team-vs-team multiplayer mode that focuses on tactics, group cohesion, and Arma 3’s combined arms gameplay.%1%2Time Trials – put the new Angara, Nyx, and Rhino to the test in three speedy time trial races across Altis and Malden.%1%2"9M135" Vorona – a manually guided missile launcher, replete with powerful optics, thermal imaging, and a laser rangefinder.%1%2MAAWS Mk4 – an unguided recoilless rifle, available in the older Mod 0 version used by AAF and FIA, and the newer Mod 1 version, employed by NATO.%1%2Anti-Tank Vehicle Variants – enjoy variants of the existing Offroad, Prowler, and Qilin LSVs that come equipped with mounted launchers.%1%2Tank Crew Clothing – unique CSAT tank crew helmet and AAF tank crew overalls.%1%2Decorative Objects – new decorative objects for Arma 3 content creators, such as tank defenses, spare parts, tools, and a fully functional repair depot.%1%2Official Soundtrack – listen to newly composed music tracks.%1%2Achievements – a set of extra &lt;a href='%13'&gt;Steam Achievements&lt;/a&gt;.</Original>
-        <Chinese>%11%1%12%1%2T-140“安加拉”–廣協同盟最可怕的主戰坦克，在火力和裝甲上都無可匹敵。還包括一個指揮坦克型和幾種塗裝。%1%2AWC“夜神”–外形雖小，這種靈活的迷你坦克的威力要超過其重量級;包括四種型號的該車適合不同的戰鬥形式，包括偵察、反坦克甚至防空職能!%1%“犀牛”機動火炮系統–一種為了單一目的而設計出的鋼甲猛獸:摧毀其他坦克!安裝了一門強大的120毫米火炮，它可以發射各種類型的彈藥，包括新的MARUK反坦克導彈。還包括一種城市戰型。%1%2“阿爾蒂斯安魂曲”–作為一名阿爾蒂斯武裝力量的坦克車長，在這個爆炸性的、三關的迷你戰役中操縱AWC“夜神”和T-140“安加拉”。%1%2坦克殲擊車演示任務-登上北約的主力坦克殲擊車，利用其速度和機動性來從機動上壓倒最為致命的裝甲敵軍力量。%1%2“先鋒”–一種團隊對抗式的多人遊戲模式，主要針對戰術、小組配合和武裝突襲3的諸兵種合同。%1%2計時賽-將新的“安加拉”、“夜神”和“犀牛”開進三場跨越阿爾蒂斯和馬爾登島的計時賽。%1%2'9M135'“沃羅納”–一種指令制導的導彈發射器，裝有功能強大的光學瞄準具、熱成像，和一個激光測距儀。%1%2MAAWSMk4–一種無制導的無坐力炮，包括由阿爾蒂斯武裝力量和自由陣線使用的較舊的Mod0型，以及北約使用的新的Mod1型。%1%2反坦克車輛型號–享受安裝了反坦克發射器的現成的越野車和“徘徊者”/“麒麟”輕型突擊車。%1%2坦克兵制服–全新的廣協同盟坦克帽和阿爾蒂斯武裝力量坦克兵制服。%1%2裝飾性物體–擺放為武裝突襲3內容創作者提供的新的裝飾性物體，如防坦克障礙，備件，工具，和一個有完全功能的維修站。%1%2官方原聲–欣賞新作曲的官方原聲音樂。%1%2成就–一系列新的&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;。</Chinese>
-        <Chinesesimp>%11%1%12%1%2T-140“安加拉”–广协同盟最可怕的主战坦克，在火力和装甲上都无可匹敌。还包括一个指挥坦克型和几种涂装。%1%2AWC“夜神”–外形虽小，这种灵活的迷你坦克的威力要超过其重量级;包括四种型号的该车适合不同的战斗形式，包括侦察、反坦克甚至防空职能!%1%“犀牛”机动火炮系统–一种为了单一目的而设计出的钢甲猛兽:摧毁其他坦克!安装了一门强大的120毫米火炮，它可以发射各种类型的弹药，包括新的MARUK反坦克导弹。还包括一种城市战型。%1%2“阿尔蒂斯安魂曲”–作为一名阿尔蒂斯武装力量的坦克车长，在这个爆炸性的、三关的迷你战役中操纵AWC“夜神”和T-140“安加拉”。%1%2坦克歼击车演示任务-登上北约的主力坦克歼击车，利用其速度和机动性来从机动上压倒最为致命的装甲敌军力量。%1%2“先锋”–一种团队对抗式的多人游戏模式，主要针对战术、小组配合和武装突袭3的诸兵种合同。%1%2计时赛-将新的“安加拉”、“夜神”和“犀牛”开进三场跨越阿尔蒂斯和马尔登岛的计时赛。%1%2'9M135'“沃罗纳”–一种指令制导的导弹发射器，装有功能强大的光学瞄准具、热成像，和一个激光测距仪。%1%2MAAWSMk4–一种无制导的无坐力炮，包括由阿尔蒂斯武装力量和自由阵线使用的较旧的Mod0型，以及北约使用的新的Mod1型。%1%2反坦克车辆型号–享受安装了反坦克发射器的现成的越野车和“徘徊者”/“麒麟”轻型突击车。%1%2坦克兵制服–全新的广协同盟坦克帽和阿尔蒂斯武装力量坦克兵制服。%1%2装饰性物体–摆放为武装突袭3内容创作者提供的新的装饰性物体，如防坦克障碍，备件，工具，和一个有完全功能的维修站。%1%2官方原声–欣赏新作曲的官方原声音乐。%1%2成就–一系列新的&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;。</Chinesesimp>
+        <Chinese>%11%1%12%1%2T-140"安加拉"–廣協同盟最可怕的主戰坦克，在火力和裝甲上都無可匹敵。還包括一個指揮坦克型和幾種塗裝。%1%2AWC"夜神"–外形雖小，這種靈活的迷你坦克的威力要超過其重量級;包括四種型號的該車適合不同的戰鬥形式，包括偵察、反坦克甚至防空職能!%1%"犀牛"機動火炮系統–一種為了單一目的而設計出的鋼甲猛獸:摧毀其他坦克!安裝了一門強大的120公厘火炮，它可以發射各種類型的彈藥，包括新的MARUK反坦克飛彈。還包括一種城市戰型。%1%2"阿爾蒂斯安魂曲"–作為一名阿爾蒂斯武裝力量的坦克車長，在這個爆炸性的、三關的迷你戰役中操縱AWC"夜神"和T-140"安加拉"。%1%2坦克殲擊車演示任務-登上北約的主力坦克殲擊車，利用其速度和機動性來從機動上壓倒最為致命的裝甲敵軍力量。%1%2"先鋒"–一種團隊對抗式的多人遊戲模式，主要針對戰術、小隊配合和武裝突襲3的諸兵種合同。%1%2計時賽-將新的"安加拉"、"夜神"和"犀牛"開進三場跨越阿爾蒂斯和馬爾登島的計時賽。%1%2'9M135'"沃羅納"–一種指令制導的飛彈發射器，裝有功能強大的光學瞄準具、熱成像，和一個激光測距儀。%1%2MAAWS Mk4–一種無制導的無坐力炮，包括由阿爾蒂斯武裝力量和自由陣線使用的較舊的Mod 0型，以及北約使用的新的Mod 1型。%1%2反坦克車輛型號–享受安裝了反坦克發射器的現成的越野車和"徘徊者"/"麒麟"輕型突擊車。%1%2坦克兵制服–全新的廣協同盟坦克帽和阿爾蒂斯武裝力量坦克兵制服。%1%2裝飾性物體–擺放為武裝突襲3內容創作者提供的新的裝飾性物體，如防坦克障礙，備件，工具，和一個有完全功能的維修站。%1%2官方原聲–欣賞新作曲的官方原聲音樂。%1%2成就–一系列新的&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;。</Chinese>
+        <Chinesesimp>%11%1%12%1%2T-140"安加拉"–广协同盟最可怕的主战坦克，在火力和装甲上都无可匹敌。还包括一个指挥坦克型和几种涂装。%1%2AWC"夜神"–外形虽小，这种灵活的迷你坦克的威力要超过其重量级;包括四种型号的该车适合不同的战斗形式，包括侦察、反坦克甚至防空职能!%1%"犀牛"机动火炮系统–一种为了单一目的而设计出的钢甲猛兽:摧毁其他坦克!安装了一门强大的120毫米火炮，它可以发射各种类型的弹药，包括新的MARUK反坦克导弹。还包括一种城市战型。%1%2"阿尔蒂斯安魂曲"–作为一名阿尔蒂斯武装力量的坦克车长，在这个爆炸性的、三关的迷你战役中操纵AWC"夜神"和T-140"安加拉"。%1%2坦克歼击车演示任务-登上北约的主力坦克歼击车，利用其速度和机动性来从机动上压倒最为致命的装甲敌军力量。%1%2"先锋"–一种团队对抗式的多人游戏模式，主要针对战术、小组配合和武装突袭3的诸兵种合同。%1%2计时赛-将新的"安加拉"、"夜神"和"犀牛"开进三场跨越阿尔蒂斯和马尔登岛的计时赛。%1%2'9M135'"沃罗纳"–一种指令制导的导弹发射器，装有功能强大的光学瞄准具、热成像，和一个激光测距仪。%1%2MAAWS Mk4–一种无制导的无坐力炮，包括由阿尔蒂斯武装力量和自由阵线使用的较旧的Mod 0型，以及北约使用的新的Mod 1型。%1%2反坦克车辆型号–享受安装了反坦克发射器的现成的越野车和"徘徊者"/"麒麟"轻型突击车。%1%2坦克兵制服–全新的广协同盟坦克帽和阿尔蒂斯武装力量坦克兵制服。%1%2装饰性物体–摆放为武装突袭3内容创作者提供的新的装饰性物体，如防坦克障碍，备件，工具，和一个有完全功能的维修站。%1%2官方原声–欣赏新作曲的官方原声音乐。%1%2成就–一系列新的&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;。</Chinesesimp>
       </Key>
       <Key ID="str_a3_angara_library1">
         <Original>A licensed variant of the original Russian design operated by the elite of CSAT armored forces. The tank is equipped with a high velocity, high-accuracy 125mm cannon, a 7.62mm coaxial machinegun, and a 12.7mm HMG in a remote turret. The crew is located in an armored capsule in the hull, improving survivability and eliminating one of the weaknesses of older tank designs. The disadvantage is its technical complexity and cost, resulting in low production numbers. Two main variants are currently in use - the standard T-140 and the T-140K, a 'commander' variant which exchanges the HMG for a 30mm autocannon. In addition, it also provides additional radios and sensors for platoon and company leaders.</Original>
-        <Chinese>一種原屬俄羅斯設計、由廣協同盟許可證生產並由其最精銳裝甲部隊裝備的型號。這種坦克安裝一門高速、高精度125毫米主炮，一挺7.62毫米並列機槍，以及一挺12。7毫米遙控機槍。塵緣被配置在車體內的裝甲艙內，提高了乘員生存率，並消滅了舊的坦克設計中的一項弱點。缺點在於其技術複雜性和成本，導致其產量較低。目前在使用的有兩種型號-標準的T-140型和T-140K“指揮型”，該型號用30毫米自動炮替代了重機槍。除此之外，指揮型還安裝了更多的無線電和傳感器，用於排、連級指揮。</Chinese>
-        <Chinesesimp>一种原属俄罗斯设计、由广协同盟许可证生产并由其最精锐装甲部队装备的型号。这种坦克安装一门高速、高精度125毫米主炮，一挺7.62毫米并列机枪，以及一挺12。7毫米遥控机枪。尘缘被配置在车体内的装甲舱内，提高了乘员生存率，并消灭了旧的坦克设计中的一项弱点。缺点在于其技术复杂性和成本，导致其产量较低。目前在使用的有两种型号-标准的T-140型和T-140K“指挥型”，该型号用30毫米自动炮替代了重机枪。除此之外，指挥型还安装了更多的无线电和传感器，用于排、连级指挥。</Chinesesimp>
+        <Chinese>一種原屬俄羅斯設計、由廣協同盟許可證生產並由其最精銳裝甲部隊裝備的型號。這種坦克安裝一門高速、高精度125毫米主炮，一挺7.62毫米並列機槍，以及一挺12.7毫米遙控機槍。塵緣被配置在車體內的裝甲艙內，提高了乘員生存率，並消滅了舊的坦克設計中的一項弱點。缺點在於其技術複雜性和成本，導致其產量較低。目前在使用的有兩種型號-標準的T-140型和T-140K"指揮型"，該型號用30毫米自動炮替代了重機槍。除此之外，指揮型還安裝了更多的無線電和傳感器，用於排、連級指揮。</Chinese>
+        <Chinesesimp>一种原属俄罗斯设计、由广协同盟许可证生产并由其最精锐装甲部队装备的型号。这种坦克安装一门高速、高精度125毫米主炮，一挺7.62毫米并列机枪，以及一挺12.7毫米遥控机枪。尘缘被配置在车体内的装甲舱内，提高了乘员生存率，并消灭了旧的坦克设计中的一项弱点。缺点在于其技术复杂性和成本，导致其产量较低。目前在使用的有两种型号-标准的T-140型和T-140K"指挥型"，该型号用30毫米自动炮替代了重机枪。除此之外，指挥型还安装了更多的无线电和传感器，用于排、连级指挥。</Chinesesimp>
       </Key>
       <Key ID="str_a3_angara_library0">
         <Original>T-140 Angara</Original>
-        <Chinese>T-140“安加拉”</Chinese>
-        <Chinesesimp>T-140“安加拉”</Chinesesimp>
+        <Chinese>T-140"安加拉"</Chinese>
+        <Chinesesimp>T-140"安加拉"</Chinesesimp>
       </Key>
       <Key ID="str_a3_tank_cfgmods_namedlc">
         <Original>Tanks DLC</Original>
-        <Chinese>TanksDLC</Chinese>
+        <Chinese>坦克資料片</Chinese>
         <Chinesesimp>坦克资料片</Chinesesimp>
       </Key>
     </Container>
@@ -1006,8 +1006,8 @@
       </Key>
       <Key ID="str_a3_ta_achtankwireguided_description">
         <Original>Destroyed 10 moving enemy armored vehicles and an airborne helicopter with the man-portable version of the 9M135 Vorona wire-guided missile launcher.</Original>
-        <Chinese>使用單兵攜行版本的9M135“沃羅納”線導反坦克導彈摧毀10輛機動中的敵方裝甲車和1架在空的直升機。</Chinese>
-        <Chinesesimp>使用单兵携行版本的9M135“沃罗纳”线导反坦克导弹摧毁10辆机动中的敌方装甲车和1架在空的直升机。</Chinesesimp>
+        <Chinese>使用單兵攜行版本的9M135"沃羅納"線導反坦克飛彈摧毀10輛機動中的敵方裝甲車和1架在空的直升機。</Chinese>
+        <Chinesesimp>使用单兵携行版本的9M135"沃罗纳"线导反坦克导弹摧毁10辆机动中的敌方装甲车和1架在空的直升机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_ta_achtankttgold_title">
         <Original>Hammer Time</Original>
@@ -1046,7 +1046,7 @@
       </Key>
       <Key ID="str_a3_ta_achtanksteelsniper_description">
         <Original>Hit a moving enemy tank with an APFSDS round at a distance of at least 3500 meters.</Original>
-        <Chinese>在至少3500米的距離上用一發尾翼穩定脫殼穿甲彈擊中一輛機動中的敵方坦克。</Chinese>
+        <Chinese>在至少3500公尺的距離上用一發尾翼穩定脫殼穿甲彈擊中一輛機動中的敵方坦克。</Chinese>
         <Chinesesimp>在至少3500米的距离上用一发尾翼稳定脱壳穿甲弹击中一辆机动中的敌方坦克。</Chinesesimp>
       </Key>
       <Key ID="str_a3_ta_achtanksizenotmatter_title">
@@ -1056,8 +1056,8 @@
       </Key>
       <Key ID="str_a3_ta_achtanksizenotmatter_description">
         <Original>Spent 3 hours in the Nyx tankette.</Original>
-        <Chinese>在“夜神”超輕型坦克裡花上3小時。</Chinese>
-        <Chinesesimp>在“夜神”超轻型坦克里花上3小时。</Chinesesimp>
+        <Chinese>在"夜神"超輕型坦克裡花上3小時。</Chinese>
+        <Chinesesimp>在"夜神"超轻型坦克里花上3小时。</Chinesesimp>
       </Key>
       <Key ID="str_a3_ta_achtankinittogether_title">
         <Original>In It Together</Original>
@@ -1096,8 +1096,8 @@
       </Key>
       <Key ID="str_a3_ta_achtankeasymoney_description">
         <Original>Destroyed more tanks than Zulu in Showcase Tank Destroyers.</Original>
-        <Chinese>在坦克殲擊車演示任務中摧毀比“祖魯”更多的坦克。</Chinese>
-        <Chinesesimp>在坦克歼击车演示任务中摧毁比“祖鲁”更多的坦克。</Chinesesimp>
+        <Chinese>在坦克殲擊車演示任務中摧毀比"祖魯"更多的坦克。</Chinese>
+        <Chinesesimp>在坦克歼击车演示任务中摧毁比"祖鲁"更多的坦克。</Chinesesimp>
       </Key>
       <Key ID="str_a3_ta_achtankdeathabove_title">
         <Original>Death From Above</Original>
@@ -1106,7 +1106,7 @@
       </Key>
       <Key ID="str_a3_ta_achtankdeathabove_description">
         <Original>Hit15 enemy armored vehicles using the top-down missile mode.</Original>
-        <Chinese>用攻頂模式的導彈擊中15輛敵方裝甲車輛。</Chinese>
+        <Chinese>用攻頂模式的飛彈擊中15輛敵方裝甲車輛。</Chinese>
         <Chinesesimp>用攻顶模式的导弹击中15辆敌方装甲车辆。</Chinesesimp>
       </Key>
       <Key ID="str_a3_ta_achtankcommander_title">
@@ -1126,15 +1126,15 @@
       </Key>
       <Key ID="str_a3_ta_achtankbythebook_description">
         <Original>Returned home at the end of the Altis Requiem campaign.</Original>
-        <Chinese>在“阿爾蒂斯安魂曲”戰役最後回家。</Chinese>
-        <Chinesesimp>在“阿尔蒂斯安魂曲”战役最后回家。</Chinesesimp>
+        <Chinese>在"阿爾蒂斯安魂曲"戰役最後回家。</Chinese>
+        <Chinesesimp>在"阿尔蒂斯安魂曲"战役最后回家。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Modules">
       <Key ID="str_a3_ta_tanksmpscorepersistence_name">
         <Original>Vanguard: Score Persistence</Original>
-        <Chinese>Vanguard:ScorePersistence</Chinese>
-        <Chinesesimp>Vanguard:ScorePersistence</Chinesesimp>
+        <Chinese>先鋒:持久得分</Chinese>
+        <Chinesesimp>先锋:持久得分</Chinesesimp>
       </Key>
       <Key ID="str_a3_ta_tanksmpscorepersistence_description">
         <Original>Enable persistence for mission.</Original>
@@ -1215,12 +1215,12 @@
       </Key>
       <Key ID="str_a3_cfgmods_tank_features_missileflightprofilescapabilities2">
         <Original>A selection of missiles now features direct or top-down attack flight modes, plus support for terrain-following munitions has been added. A few weapons now also have the ability to lock-on after launch.</Original>
-        <Chinese>一些導彈現在有了直射或攻頂模式，此外還加入了對地形匹配彈藥的支持。一些武器現在有能力在發射後鎖定。</Chinese>
+        <Chinese>一些飛彈現在有了直射或攻頂模式，此外還加入了對地形匹配彈藥的支持。一些武器現在有能力在發射後鎖定。</Chinese>
         <Chinesesimp>一些导弹现在有了直射或攻顶模式，此外还加入了对地形匹配弹药的支持。一些武器现在有能力在发射后锁定。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_features_missileflightprofilescapabilities0">
         <Original>Missile Flight Profiles and Capabilities</Original>
-        <Chinese>導彈飛行模式與能力</Chinese>
+        <Chinese>飛彈飛行模式與能力</Chinese>
         <Chinesesimp>导弹飞行模式与能力</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_features_interiors0">
@@ -1260,8 +1260,8 @@
       </Key>
       <Key ID="str_a3_cfgmods_tank_assets_atvehicles0">
         <Original>Use variants of the existing Offroad and Prowler / Qilin LSVs that come equipped with mounted launchers.</Original>
-        <Chinese>使用安裝了反坦克發射器的現成的越野車和“徘徊者”/“麒麟”輕型突擊車。</Chinese>
-        <Chinesesimp>使用安装了反坦克发射器的现成的越野车和“徘徊者”/“麒麟”轻型突击车。</Chinesesimp>
+        <Chinese>使用安裝了反坦克發射器的現成的越野車和"徘徊者"/"麒麟"輕型突擊車。</Chinese>
+        <Chinesesimp>使用安装了反坦克发射器的现成的越野车和"徘徊者"/"麒麟"轻型突击车。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_name0">
         <Original>Arma 3 Tanks</Original>
@@ -1270,7 +1270,7 @@
       </Key>
       <Key ID="str_a3_cfgmods_tank_tooltip0">
         <Original>Arma 3 Tanks DLC now available. Click to purchase</Original>
-        <Chinese>武裝突襲3:坦克DLC現在可用。點擊購買</Chinese>
+        <Chinese>武裝突襲3:坦克資料片現在可用。點擊購買</Chinese>
         <Chinesesimp>武装突袭3:坦克资料片现在可用。点击购买</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_itemprevnotiftext0">
@@ -1280,70 +1280,70 @@
       </Key>
       <Key ID="str_a3_cfgmods_tank_overview0">
         <Original>Roll in heavy firepower and take control of the battlefield with three brand new armored vehicles in the Arma 3 Tanks DLC.</Original>
-        <Chinese>在武裝突襲3:坦克DLC中使用三種全新的裝甲車輛駕馭重型火力並控制戰場。</Chinese>
+        <Chinese>在武裝突襲3:坦克資料片中使用三種全新的裝甲車輛駕馭重型火力並控制戰場。</Chinese>
         <Chinesesimp>在武装突袭3:坦克资料片中使用三种全新的装甲车辆驾驭重型火力并控制战场。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_overviewfootnote0">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Tanks DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
-        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;該內容專屬於武裝突襲3:坦克DLC。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;LeftShift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打開商店頁面查找更多信息。&lt;t/&gt;</Chinese>
+        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;該內容專屬於武裝突襲3:坦克資料片。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;LeftShift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打開商店頁面查找更多信息。&lt;t/&gt;</Chinese>
         <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;该内容专属于武装突袭3:坦克资料片。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;LeftShift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打开商店页面查找更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_vehprevmsgtext0">
         <Original>This vehicle is part of Tanks DLC. Please purchase the DLC to enter as crew.</Original>
-        <Chinese>該車輛是坦克DLC的一部分。請購買該DLC以作為乘員進入。</Chinese>
+        <Chinese>該車輛是坦克資料片的一部分。請購買該資料片以作為乘員進入。</Chinese>
         <Chinesesimp>该车辆是坦克资料片的一部分。请购买该资料片以作为乘员进入。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_popupmsgtext0">
         <Original>You are using premium content. Please purchase Tanks DLC to remove these messages.</Original>
-        <Chinese>你在使用專屬內容。請購買坦克DLC以消除這些信息。</Chinese>
+        <Chinese>你在使用專屬內容。請購買坦克資料片以消除這些信息。</Chinese>
         <Chinesesimp>你在使用专属内容。请购买坦克资料片以消除这些信息。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_tank_weaponprevnotiftext0">
         <Original>This weapon is part of Tanks DLC. Please purchase the DLC to use it.</Original>
-        <Chinese>該武器是坦克DLC的一部分。請購買該DLC以使用它。</Chinese>
+        <Chinese>該武器是坦克資料片的一部分。請購買該資料片以使用它。</Chinese>
         <Chinesesimp>该武器是坦克资料片的一部分。请购买该资料片以使用它。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Music_F">
       <Key ID="str_a3_cfgmusic_maintheme_f_tank">
         <Original>Tanks DLC: This is War (Tanks DLC version)</Original>
-        <Chinese>TanksDLC:ThisisWar(TanksDLC版)</Chinese>
-        <Chinesesimp>坦克资料片:ThisisWar(坦克资料片版)</Chinesesimp>
+        <Chinese>坦克資料片:這是戰爭(坦克資料片版)</Chinese>
+        <Chinesesimp>坦克资料片:这是战争(坦克资料片版)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack06_f_tank">
         <Original>Tanks DLC: Iron Gods</Original>
-        <Chinese>TanksDLC:IronGods</Chinese>
-        <Chinesesimp>坦克资料片:IronGods</Chinesesimp>
+        <Chinese>坦克資料片:鋼鐵之神</Chinese>
+        <Chinesesimp>坦克资料片:钢铁之神</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack05_f_tank">
         <Original>Tanks DLC: Wrath of the Giants</Original>
-        <Chinese>TanksDLC:WrathoftheGiants</Chinese>
-        <Chinesesimp>坦克资料片:WrathoftheGiants</Chinesesimp>
+        <Chinese>坦克資料片:巨人之怒</Chinese>
+        <Chinesesimp>坦克资料片:巨人之怒</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack04_f_tank">
         <Original>Tanks DLC: Good Neighbors</Original>
-        <Chinese>TanksDLC:GoodNeighbors</Chinese>
-        <Chinesesimp>坦克资料片:GoodNeighbors</Chinesesimp>
+        <Chinese>坦克資料片:友好鄰居</Chinese>
+        <Chinesesimp>坦克资料片:友好邻居</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack03_f_tank">
         <Original>Tanks DLC: Way Back</Original>
-        <Chinese>TanksDLC:WayBack</Chinese>
-        <Chinesesimp>坦克资料片:WayBack</Chinesesimp>
+        <Chinese>坦克資料片:歸來</Chinese>
+        <Chinesesimp>坦克资料片:归来</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack02_f_tank">
         <Original>Tanks DLC: Last Stand</Original>
-        <Chinese>TanksDLC:LastStand</Chinese>
-        <Chinesesimp>坦克资料片:LastStand</Chinesesimp>
+        <Chinese>坦克資料片:最後一站</Chinese>
+        <Chinesesimp>坦克资料片:最后一站</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_leadtrack01_f_tank">
         <Original>Tanks DLC: Fight for the City</Original>
-        <Chinese>TanksDLC:FightfortheCity</Chinese>
-        <Chinesesimp>坦克资料片:FightfortheCity</Chinesesimp>
+        <Chinese>坦克資料片:奪取城市</Chinese>
+        <Chinesesimp>坦克资料片:夺取城市</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_ambienttrack01_f_tank">
         <Original>Tanks DLC: Hidden Enemy</Original>
-        <Chinese>TanksDLC:HiddenEnemy</Chinese>
-        <Chinesesimp>坦克资料片:HiddenEnemy</Chinesesimp>
+        <Chinese>坦克資料片:隱匿之敵</Chinese>
+        <Chinesesimp>坦克资料片:隐匿之敌</Chinesesimp>
       </Key>
     </Container>
   </Package>

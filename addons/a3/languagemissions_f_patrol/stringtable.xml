@@ -484,7 +484,7 @@
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1d">
         <Original>COOP 12 Combat Patrol</Original>
-        <Chinese>COOP12戰鬥巡邏</Chinese>
+        <Chinese>合作12戰鬥巡邏</Chinese>
         <Chinesesimp>合作12战斗巡逻</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1c">
@@ -494,7 +494,7 @@
       </Key>
       <Key ID="str_a3_combatpatrol_mission_1b">
         <Original>COOP 10 Combat Patrol</Original>
-        <Chinese>COOP10戰鬥巡邏</Chinese>
+        <Chinese>合作10戰鬥巡邏</Chinese>
         <Chinesesimp>合作10战斗巡逻</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_19">
@@ -621,12 +621,12 @@
     <Container name="EscapeFromMalden">
       <Key ID="str_a3_escapefrommalden_tskescapetitle">
         <Original>Escape from Malden</Original>
-        <Chinese>逃離Malden</Chinese>
+        <Chinese>逃離馬爾登</Chinese>
         <Chinesesimp>逃离马尔登</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_respawnvigny">
         <Original>Vigny</Original>
-        <Chinese>Vigny</Chinese>
+        <Chinese>維格尼</Chinese>
         <Chinesesimp>维格尼</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_overview">
@@ -636,12 +636,12 @@
       </Key>
       <Key ID="str_a3_escapefrommalden_onloadname">
         <Original>Escape from Malden</Original>
-        <Chinese>逃離Malden</Chinese>
+        <Chinese>逃離馬爾登島</Chinese>
         <Chinesesimp>逃离马尔登岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_missionname">
         <Original>Escape 10 Malden</Original>
-        <Chinese>逃離10Malden</Chinese>
+        <Chinese>逃離10馬爾登島</Chinese>
         <Chinesesimp>逃离10马尔登岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_escapefrommalden_execution02">
@@ -651,49 +651,49 @@
       </Key>
       <Key ID="str_a3_escapefrommalden_end01desc">
         <Original>Against all odds, you managed to escape from Malden. Great work!</Original>
-        <Chinese>儘管困難重重，你們仍設法逃離了Malden。幹的好!</Chinese>
+        <Chinese>儘管困難重重，你們仍設法逃離了馬爾登島。幹的好!</Chinese>
         <Chinesesimp>尽管困难重重，你们仍设法逃离了马尔登岛。干的好!</Chinesesimp>
       </Key>
     </Container>
     <Container name="ZGM">
       <Key ID="STR_A3_MasterMalden_loadName">
         <Original>Master Malden</Original>
-        <Chinese>主宰Malden</Chinese>
+        <Chinese>主宰馬爾登島</Chinese>
         <Chinesesimp>主宰马尔登岛</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenB_loadName">
         <Original>Master Malden (NATO)</Original>
-        <Chinese>主宰Malden(北約)</Chinese>
+        <Chinese>主宰馬爾登島(北約)</Chinese>
         <Chinesesimp>主宰马尔登岛(北约)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenB_missionName">
         <Original>Zeus 16+2 Master Malden (NATO)</Original>
-        <Chinese>宙斯16+2主宰Malden(北約)</Chinese>
+        <Chinese>宙斯16+2主宰馬爾登島(北約)</Chinese>
         <Chinesesimp>宙斯16+2主宰马尔登岛(北约)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenO_loadName">
         <Original>Master Malden (CSAT)</Original>
-        <Chinese>主宰Malden(廣協同盟)</Chinese>
+        <Chinese>主宰馬爾登島(廣協同盟)</Chinese>
         <Chinesesimp>主宰马尔登岛(广协同盟)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenI_loadName">
         <Original>Master Malden (AAF)</Original>
-        <Chinese>主宰Malden(Altis政府軍)</Chinese>
+        <Chinese>主宰馬爾登島(阿爾蒂斯武裝力量)</Chinese>
         <Chinesesimp>主宰马尔登岛(阿尔蒂斯武装力量)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMalden_missionName">
         <Original>Zeus 48+2 Master Malden</Original>
-        <Chinese>宙斯48+2主宰Malden</Chinese>
+        <Chinese>宙斯48+2主宰馬爾登島</Chinese>
         <Chinesesimp>宙斯48+2主宰马尔登岛</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenI_missionName">
         <Original>Zeus 16+2 Master Malden (AAF)</Original>
-        <Chinese>宙斯16+2主宰Malden(Altis政府軍)</Chinese>
+        <Chinese>宙斯16+2主宰馬爾登島(阿爾蒂斯武裝力量)</Chinese>
         <Chinesesimp>宙斯16+2主宰马尔登岛(阿尔蒂斯武装力量)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MasterMaldenO_missionName">
         <Original>Zeus 16+2 Master Malden (CSAT)</Original>
-        <Chinese>宙斯16+2主宰Malden(廣協同盟)</Chinese>
+        <Chinese>宙斯16+2主宰馬爾登島(廣協同盟)</Chinese>
         <Chinesesimp>宙斯16+2主宰马尔登岛(广协同盟)</Chinesesimp>
       </Key>
     </Container>

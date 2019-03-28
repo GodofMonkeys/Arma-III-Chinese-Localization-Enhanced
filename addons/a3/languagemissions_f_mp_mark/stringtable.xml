@@ -11,12 +11,12 @@
           </Key>
           <Key ID="str_a3_mp_marksmen_01_missionname">
             <Original>Kavala</Original>
-            <Chinese>Kavala</Chinese>
+            <Chinese>卡瓦拉</Chinese>
             <Chinesesimp>卡瓦拉</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_marksmen_01_missionnamelobby">
             <Original>End Game 16 Kavala</Original>
-            <Chinese>終戰16Kavala</Chinese>
+            <Chinese>終戰16卡瓦拉</Chinese>
             <Chinesesimp>终战16卡瓦拉</Chinesesimp>
           </Key>
           <Container name="50_Upload" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="50_Upload" dubbingLanguage="english" namePrefix="mp_marksmen_01_50_upload" note="" participants="MARK B HQ;MARK O HQ;" situation="hq registers that a player picked up the intel">
@@ -58,25 +58,25 @@
           <Container name="35_PreventUpload" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="35_PreventUpload" dubbingLanguage="english" namePrefix="mp_marksmen_01_35_preventupload" note="" participants="MARK B HQ;MARK O HQ;" situation="hq informs the players that the enemy has taken the intel">
             <Key ID="str_a3_mp_marksmen_01_35_preventupload_bhq_0">
               <Original>All elements, priority message. Disregard all outstanding objectives. Recon indicates the enemy is carrying high value intelligence. Intercept and secure the package. Broadway out.</Original>
-              <Chinese>所有單位，優先訊息。立刻忽略所有目標。偵察回報敵軍正攜帶高價值情報。立即奪取該情報。Broadway通話完畢。</Chinese>
-              <Chinesesimp>所有单位，优先信息。立刻忽略所有目标。侦察回报敌军正携带高价值情报。立即夺取该情报。“百老汇”通话完毕。</Chinesesimp>
+              <Chinese>所有單位，優先訊息。立刻忽略所有目標。偵察回報敵軍正攜帶高價值情報。立即奪取該情報。"百老匯"通話完畢。</Chinese>
+              <Chinesesimp>所有单位，优先信息。立刻忽略所有目标。侦察回报敌军正携带高价值情报。立即夺取该情报。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_marksmen_01_35_preventupload_ohq_0">
               <Original>All elements, priority message. Disregard all outstanding objectives. Recon indicates the enemy is carrying high value intelligence. Intercept and secure the package. Griffin out.</Original>
-              <Chinese>所有單位，優先訊息。立刻忽略所有目標。偵察回報敵軍正攜帶高價值情報。立即奪取該情報。Griffin通話完畢。</Chinese>
-              <Chinesesimp>所有单位，优先信息。立刻忽略所有目标。侦察回报敌军正携带高价值情报。立即夺取该情报。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>所有單位，優先訊息。立刻忽略所有目標。偵察回報敵軍正攜帶高價值情報。立即奪取該情報。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>所有单位，优先信息。立刻忽略所有目标。侦察回报敌军正携带高价值情报。立即夺取该情报。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="30_PickupSchematicsFirst" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="30_PickupSchematicsFirst" dubbingLanguage="english" namePrefix="mp_marksmen_01_30_pickupschematicsfirst" note="" participants="MARK B HQ;MARK O HQ;" situation="hq informs the players of the need to disregard existing tasks and head for their priority assignment">
             <Key ID="str_a3_mp_marksmen_01_30_pickupschematicsfirst_bhq_0">
               <Original>Priority message. Disregard all outstanding objectives. Proceed to the designated location and secure any intel you find. Broadway out.</Original>
-              <Chinese>優先訊息。忽略所有其他目標。立刻前往指定地點並搜索任何情報。Broadway通話完畢。</Chinese>
-              <Chinesesimp>优先信息。忽略所有其他目标。立刻前往指定地点并搜索任何情报。“百老汇”通话完毕。</Chinesesimp>
+              <Chinese>優先訊息。忽略所有其他目標。立刻前往指定地點並搜索任何情報。"百老匯"通話完畢。</Chinese>
+              <Chinesesimp>优先信息。忽略所有其他目标。立刻前往指定地点并搜索任何情报。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_marksmen_01_30_pickupschematicsfirst_ohq_0">
               <Original>Priority message. Disregard all outstanding objectives. Proceed to the designated location and secure any intel you find. Griffin out.</Original>
-              <Chinese>優先訊息。忽略所有其他目標。立刻前往指定地點並搜索任何情報。Griffin通話完畢。</Chinese>
-              <Chinesesimp>优先信息。忽略所有其他目标。立刻前往指定地点并搜索任何情报。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>優先訊息。忽略所有其他目標。立刻前往指定地點並搜索任何情報。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>优先信息。忽略所有其他目标。立刻前往指定地点并搜索任何情报。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="25_EndGameStart" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="25_EndGameStart" dubbingLanguage="english" namePrefix="mp_marksmen_01_25_endgamestart" note="" participants="MARK B HQ;MARK O HQ;" situation="hq advises players of an incoming priority assignment">
@@ -106,25 +106,25 @@
           <Container name="18_IntelRevealed" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="18_IntelRevealed" dubbingLanguage="english" namePrefix="mp_marksmen_01_18_intelrevealed" note="" participants="MARK B HQ;MARK O HQ;" situation="hq has sent the players the coordinates of the tasks">
             <Key ID="str_a3_mp_marksmen_01_18_intelrevealed_bhq_0">
               <Original>Intel site coordinates uploaded. Secure any intel you find. Broadway out.</Original>
-              <Chinese>情報座標已上傳。尋找任何有用的情報。Broadway通話完畢。</Chinese>
-              <Chinesesimp>情报座标已上传。寻找任何有用的情报。“百老汇”通话完毕。</Chinesesimp>
+              <Chinese>情報座標已上傳。尋找任何有用的情報。"百老匯"通話完畢。</Chinese>
+              <Chinesesimp>情报座标已上传。寻找任何有用的情报。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_marksmen_01_18_intelrevealed_ohq_0">
               <Original>Intel site coordinates uploaded. Secure any intel you find. Griffin out.</Original>
-              <Chinese>情報座標已上傳。尋找任何有用的情報。Griffin通話完畢。</Chinese>
-              <Chinesesimp>情报座标已上传。寻找任何有用的情报。“百老汇”通话完毕。</Chinesesimp>
+              <Chinese>情報座標已上傳。尋找任何有用的情報。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>情报座标已上传。寻找任何有用的情报。"百老汇"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="17_IntelWanted" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="17_IntelWanted" dubbingLanguage="english" namePrefix="mp_marksmen_01_17_intelwanted" note="" participants="MARK B HQ;MARK O HQ;" situation="hq advises players of incoming tasks">
             <Key ID="str_a3_mp_marksmen_01_17_intelwanted_bhq_0">
               <Original>Broadway to all elements, be advised, possible intel site located. Coordinates to follow. Out.</Original>
-              <Chinese>Broadway呼叫所有單位，請注意，可能的情報位置已被定位。請抄收座標位置。通話完畢。</Chinese>
-              <Chinesesimp>“百老汇”呼叫所有单位，请注意，可能的情报位置已被定位。请查收座标位置。通话完毕。</Chinesesimp>
+              <Chinese>"百老匯"呼叫所有單位，請注意，可能的情報位置已被定位。請抄收座標位置。通話完畢。</Chinese>
+              <Chinesesimp>"百老汇"呼叫所有单位，请注意，可能的情报位置已被定位。请查收座标位置。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_marksmen_01_17_intelwanted_ohq_0">
               <Original>Griffin to all elements, be advised, possible intel site located. Coordinates to follow. Out.</Original>
-              <Chinese>Griffin呼叫所有單位，請注意，可能的情報位置已被定位。請抄收座標位置。通話完畢。</Chinese>
-              <Chinesesimp>“狮鹫”呼叫所有单位，请注意，可能的情报位置已被定位。请查收座标位置。通话完毕。</Chinesesimp>
+              <Chinese>"獅鷲"呼叫所有單位，請注意，可能的情報位置已被定位。請抄收座標位置。通話完畢。</Chinese>
+              <Chinesesimp>"狮鹫"呼叫所有单位，请注意，可能的情报位置已被定位。请查收座标位置。通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_IntelRetrieved" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="15_IntelRetrieved" dubbingLanguage="english" namePrefix="mp_marksmen_01_15_intelretrieved" note="" participants="MARK B HQ;MARK O HQ;" situation="hq commends the players for retrieving the intel">
@@ -154,37 +154,37 @@
           <Container name="07_EndBad" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="07_EndBad" dubbingLanguage="english" namePrefix="mp_marksmen_01_07_endbad" note="" participants="MARK B HQ;MARK O HQ;" situation="hq reprimands the players for losing the round">
             <Key ID="str_a3_mp_marksmen_01_07_endbad_bhq_0">
               <Original>All elements - abort mission. I say again - abort mission. Return to base immediately. Broadway out.</Original>
-              <Chinese>所有單位-放棄任務。我重複一遍-放棄任務。立刻返回基地。Broadway通話完畢。</Chinese>
-              <Chinesesimp>所有单位-放弃任务。我重复一遍-放弃任务。立刻返回基地。“百老汇”通话完毕。</Chinesesimp>
+              <Chinese>所有單位-放棄任務。我重複一遍-放棄任務。立刻返回基地。"百老匯"通話完畢。</Chinese>
+              <Chinesesimp>所有单位-放弃任务。我重复一遍-放弃任务。立刻返回基地。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_marksmen_01_07_endbad_ohq_0">
               <Original>All elements - abort mission. I say again - abort mission. Return to base immediately. Griffin out.</Original>
-              <Chinese>所有單位-放棄任務。我重複一遍-放棄任務。立刻返回基地。Griffin通話完畢。</Chinese>
-              <Chinesesimp>所有单位-放弃任务。我重复一遍-放弃任务。立刻返回基地。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>所有單位-放棄任務。我重複一遍-放棄任務。立刻返回基地。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>所有单位-放弃任务。我重复一遍-放弃任务。立刻返回基地。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_EndGood" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="05_EndGood" dubbingLanguage="english" namePrefix="mp_marksmen_01_05_endgood" note="" participants="MARK B HQ;MARK O HQ;" situation="hq commends the players for winning the round">
             <Key ID="str_a3_mp_marksmen_01_05_endgood_bhq_0">
               <Original>All elements, great work out there. Return to base. Broadway out.</Original>
-              <Chinese>所有單位，幹得不錯。請返回基地。Broadway通話完畢。</Chinese>
-              <Chinesesimp>所有单位，干得不错。请返回基地。“百老汇”通话完毕。</Chinesesimp>
+              <Chinese>所有單位，幹得不錯。請返回基地。"百老匯"通話完畢。</Chinese>
+              <Chinesesimp>所有单位，干得不错。请返回基地。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_marksmen_01_05_endgood_ohq_0">
               <Original>All elements, great work out there. Return to base. Griffin out.</Original>
-              <Chinese>所有單位，幹得不錯。請返回基地。Griffin通話完畢。</Chinese>
-              <Chinesesimp>所有单位，干得不错。请返回基地。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>所有單位，幹得不錯。請返回基地。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>所有单位，干得不错。请返回基地。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="03_Start" audioFilePath="\a3\dubbing_f_mp_mark\mp_marksmen_01" dialogName="03_Start" dubbingLanguage="english" namePrefix="mp_marksmen_01_03_start" note="" participants="MARK B HQ;MARK O HQ;" situation="hq gives the order for players to start completing their objectives">
             <Key ID="str_a3_mp_marksmen_01_03_start_bhq_0">
               <Original>Move out. Establish the FOB. Broadway out.</Original>
-              <Chinese>開始行動。建立前線作戰基地。Broadway通話完畢。</Chinese>
-              <Chinesesimp>开始行动。建立前线作战基地。“百老汇”通话完毕。</Chinesesimp>
+              <Chinese>開始行動。建立前線作戰基地。"百老匯"通話完畢。</Chinese>
+              <Chinesesimp>开始行动。建立前线作战基地。"百老汇"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_mp_marksmen_01_03_start_ohq_0">
               <Original>Move out. Establish the FOB. Griffin out.</Original>
-              <Chinese>開始行動。建立前線作戰基地。Griffin通話完畢。</Chinese>
-              <Chinesesimp>开始行动。建立前线作战基地。“狮鹫”通话完毕。</Chinesesimp>
+              <Chinese>開始行動。建立前線作戰基地。"獅鷲"通話完畢。</Chinese>
+              <Chinesesimp>开始行动。建立前线作战基地。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Key ID="str_a3_mp_marksmen_01_overview">

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Project name="Arma3">
+<Project name="武裝突襲3">
   <Package name="Language_Orange">
     <Container name="Data_F">
       <Key ID="str_a3_orange_cfgmods_wirelessearpiece_description">
@@ -9,12 +9,12 @@
       </Key>
       <Key ID="str_a3_orange_cfgmods_weaponprevnotiftext">
         <Original>This weapon is part of Laws of War DLC. Please purchase the DLC to use it.</Original>
-        <Chinese>該武器是戰爭法DLC的一部分，請購買該DLC再使用。</Chinese>
+        <Chinese>該武器是戰爭法資料片的一部分，請購買該資料片再使用。</Chinese>
         <Chinesesimp>该武器是战争法资料片的一部分，请购买该资料片再使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_vehprevmsgtext">
         <Original>This vehicle is part of Laws of War DLC. Please purchase the DLC to enter as crew.</Original>
-        <Chinese>該車輛是戰爭法DLC的一部分。請購買該DLC再進入車輛。</Chinese>
+        <Chinese>該車輛是戰爭法資料片的一部分。請購買該資料片再進入車輛。</Chinese>
         <Chinesesimp>该车辆是战争法资料片的一部分。请购买该资料片再进入车辆。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_uxo_description">
@@ -24,7 +24,7 @@
       </Key>
       <Key ID="str_a3_orange_cfgmods_tooltip">
         <Original>Arma 3 Laws of War DLC is now available. Click to purchase it.</Original>
-        <Chinese>Arma3戰爭法DLC現在可用。點擊購買。</Chinese>
+        <Chinese>武裝突襲3戰爭法資料片現在可用。點擊購買。</Chinese>
         <Chinesesimp>武装突袭3战争法资料片现在可用。点击购买。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_tentobjects_displayname">
@@ -84,7 +84,7 @@
       </Key>
       <Key ID="str_a3_orange_cfgmods_popupmsgtext">
         <Original>You are using premium content. Please purchase Laws of War DLC to remove these messages.</Original>
-        <Chinese>你在使用附加內容。請購買戰爭法DLC以去掉這些信息。</Chinese>
+        <Chinese>你在使用附加內容。請購買戰爭法資料片以去掉這些信息。</Chinese>
         <Chinesesimp>你在使用附加内容。请购买战争法资料片以去掉这些信息。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_paramedicoutfit_description">
@@ -94,22 +94,22 @@
       </Key>
       <Key ID="str_a3_orange_cfgmods_overviewfootnote">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Laws of War DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
-        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;該內容專屬於Arma3戰爭法DLC。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打開商店頁面獲取更多信息。&lt;t/&gt;</Chinese>
+        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;該內容專屬於武裝突襲3戰爭法資料片。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打開商店頁面獲取更多信息。&lt;t/&gt;</Chinese>
         <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;该内容专属于武装突袭3战争法资料片。&lt;br/&gt;按&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;打开商店页面获取更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_overview">
         <Original>Explore a different perspective on the battlefield with the addition of a humanitarian faction, van, drone, mini-campaign, and much more, in the Arma 3 Laws of War DLC.</Original>
-        <Chinese>探索戰場的另外一面，在ArmA3戰爭法DLC中獲得新的人道主義派別，麵包車，無人機，小戰役以及其他內容。</Chinese>
+        <Chinese>探索戰場的另外一面，在武裝突襲3戰爭法資料片中獲得新的人道主義派別，麵包車，無人機，小戰役以及其他內容。</Chinese>
         <Chinesesimp>探索战场的另外一面，在武装突袭3战争法资料片中获得新的人道主义派别，面包车，无人机，小战役以及其他内容。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_namedlc">
         <Original>Laws of War DLC</Original>
-        <Chinese>戰爭法DLC</Chinese>
+        <Chinese>戰爭法資料片</Chinese>
         <Chinesesimp>战争法资料片</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_name">
         <Original>Arma 3 Laws of War</Original>
-        <Chinese>Arma3戰爭法</Chinese>
+        <Chinese>武裝突襲3戰爭法</Chinese>
         <Chinesesimp>武装突袭3战争法</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_multipocketvest_displayname">
@@ -184,7 +184,7 @@
       </Key>
       <Key ID="str_a3_orange_cfgmods_itemprevnotiftext">
         <Original>This item is part of Laws of War DLC. Please purchase the DLC to use it.</Original>
-        <Chinese>該物體是戰爭法DLC的一部分。請購買該DLC再使用。</Chinese>
+        <Chinese>該物體是戰爭法資料片的一部分。請購買該資料片再使用。</Chinese>
         <Chinesesimp>该物体是战争法资料片的一部分。请购买该资料片再使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_identificationvest_displayname">
@@ -294,7 +294,7 @@
       </Key>
       <Key ID="str_a3_orange_cfgmods_droneprevnotiftext">
         <Original>This drone is part of Laws of War DLC. Please purchase the DLC to control it.</Original>
-        <Chinese>該無人機是戰爭法DLC的一部分。請購買該DLC以控制它。</Chinese>
+        <Chinese>該無人機是戰爭法資料片的一部分。請購買該資料片以控制它。</Chinese>
         <Chinesesimp>该无人机是战争法资料片的一部分。请购买该资料片以控制它。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfgmods_constructioncoveralls_displayname">
@@ -638,7 +638,7 @@
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_guer_f0">
         <Original>Leaflets (AAF)</Original>
-        <Chinese>傳單(AAF)</Chinese>
+        <Chinese>傳單(阿爾蒂斯武裝力量)</Chinese>
         <Chinesesimp>传单(阿尔蒂斯武装力量)</Chinesesimp>
       </Key>
       <Key ID="str_a3_pylon_1rnd_leaflets_east_f0">
@@ -915,12 +915,9 @@
           <Chinesesimp>TrainingMine</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo1_f0">
-          <Original>UXO (Common) [AAF]
-					</Original>
-          <Chinese>未爆彈(一般)[阿爾蒂斯武裝力量]
-					</Chinese>
-          <Chinesesimp>未爆弹(一般)[阿尔蒂斯武装力量]
-					</Chinesesimp>
+          <Original>UXO (Common) [AAF]</Original>
+          <Chinese>未爆彈(一般)[阿爾蒂斯武裝力量]</Chinese>
+          <Chinesesimp>未爆弹(一般)[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo4_f0">
           <Original>UXO (Delayed) [CSAT]</Original>
@@ -994,17 +991,17 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_01_uxo_f0">
           <Original>UXO [NATO]</Original>
-          <Chinese>未爆彈(NATO)</Chinese>
+          <Chinese>未爆彈(北約)</Chinese>
           <Chinesesimp>未爆弹[北约]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_02_uxo_f0">
           <Original>UXO [CSAT]</Original>
-          <Chinese>未爆彈(CSAT)</Chinese>
+          <Chinese>未爆彈(廣協同盟)</Chinese>
           <Chinesesimp>未爆弹[广协同盟]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo_f0">
           <Original>UXO [AAF]</Original>
-          <Chinese>未爆彈(AAF)</Chinese>
+          <Chinese>未爆彈(阿爾蒂斯武裝力量)</Chinese>
           <Chinesesimp>未爆弹[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
       </Container>
@@ -2049,22 +2046,22 @@
         <Container name="Helpers">
           <Key ID="str_a3_cfgvehicles_sign_sphere10cm_geometry_f0">
             <Original>Sphere (Geometry, 10cm)</Original>
-            <Chinese>球體(幾何，10厘米)</Chinese>
+            <Chinese>球體(幾何，10公分)</Chinese>
             <Chinesesimp>球体(几何，10厘米)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_sign_sphere25cm_geometry_f0">
             <Original>Sphere (Geometry, 25cm)</Original>
-            <Chinese>球體(幾何，25厘米)</Chinese>
+            <Chinese>球體(幾何，25公分)</Chinese>
             <Chinesesimp>球体(几何，25厘米)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_sign_sphere100cm_geometry_f0">
             <Original>Sphere (Geometry, 100cm)</Original>
-            <Chinese>球體(幾何，100厘米)</Chinese>
+            <Chinese>球體(幾何，100公分)</Chinese>
             <Chinesesimp>球体(几何，100厘米)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_sign_sphere200cm_geometry_f0">
             <Original>Sphere (Geometry, 200cm)</Original>
-            <Chinese>球體(幾何，200厘米)</Chinese>
+            <Chinese>球體(幾何，200公分)</Chinese>
             <Chinesesimp>球体(几何，200厘米)</Chinesesimp>
           </Key>
         </Container>
@@ -2890,7 +2887,7 @@
         </Key>
         <Key ID="str_a3_cfgweapons_v_eod_idap_blue_f0">
           <Original>EOD Vest (Blue) [IDAP]</Original>
-          <Chinese>爆裂物處理小組背心(藍色)(IDAP)</Chinese>
+          <Chinese>爆裂物處理小隊背心(藍色)(IDAP)</Chinese>
           <Chinesesimp>爆裂物处理小组背心(蓝色)[IDAP]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_v_plain_crystal_f0">
@@ -2904,8 +2901,8 @@
       <Container name="Truck_02">
         <Key ID="str_a3_cfgvehicles_c_idap_truck_02_water_f0">
           <Original>Zamak Water</Original>
-          <Chinese>“扎馬克”運水卡車</Chinese>
-          <Chinesesimp>“扎马克”运水卡车</Chinesesimp>
+          <Chinese>"扎馬克"運水卡車</Chinese>
+          <Chinesesimp>"扎马克"运水卡车</Chinesesimp>
         </Key>
       </Container>
       <Container name="UGV_01">
@@ -3136,33 +3133,33 @@
     <Container name="Air_F">
       <Key ID="str_a3_cfgvehicles_o_plane_fighter_02_cluster_f0">
         <Original>To-201 Shikra (Cluster)</Original>
-        <Chinese>To-201“褐耳鷹”(集束炸彈)</Chinese>
-        <Chinesesimp>To-201“褐耳鹰”(集束炸弹)</Chinesesimp>
+        <Chinese>To-201"褐耳鷹"(集束炸彈)</Chinese>
+        <Chinesesimp>To-201"褐耳鹰"(集束炸弹)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_plane_fighter_04_cluster_f0">
         <Original>A-149 Gryphon (Cluster)</Original>
-        <Chinese>A-149“獅鷲”(集束炸彈)</Chinese>
-        <Chinesesimp>A-149“狮鹫”(集束炸弹)</Chinesesimp>
+        <Chinese>A-149"獅鷲"(集束炸彈)</Chinese>
+        <Chinesesimp>A-149"狮鹫"(集束炸弹)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_plane_cas_02_cluster_f0">
         <Original>To-199 Neophron (Cluster)</Original>
-        <Chinese>To-199“禿鷲”(集束炸彈)</Chinese>
-        <Chinesesimp>To-199“秃鹫”(集束炸弹)</Chinesesimp>
+        <Chinese>To-199"禿鷲"(集束炸彈)</Chinese>
+        <Chinesesimp>To-199"秃鹫"(集束炸弹)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_i_plane_fighter_03_cluster_f0">
         <Original>A-143 Buzzard (Cluster)</Original>
-        <Chinese>A-143“禿鷹”(集束炸彈)</Chinese>
-        <Chinesesimp>A-143“秃鹰”(集束炸弹)</Chinesesimp>
+        <Chinese>A-143"禿鷹"(集束炸彈)</Chinese>
+        <Chinesesimp>A-143"秃鹰"(集束炸弹)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_plane_fighter_01_cluster_f0">
         <Original>F/A-181 Black Wasp II (Cluster)</Original>
-        <Chinese>F/A-181“黑蜂”II(集束炸彈)</Chinese>
-        <Chinesesimp>F/A-181“黑蜂”II(集束炸弹)</Chinesesimp>
+        <Chinese>F/A-181"黑蜂"II(集束炸彈)</Chinese>
+        <Chinesesimp>F/A-181"黑蜂"II(集束炸弹)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_plane_cas_01_cluster_f0">
         <Original>A-164 Wipeout (Cluster)</Original>
-        <Chinese>A-164“抹殺者”(集束炸彈)</Chinese>
-        <Chinesesimp>A-164“抹杀者”(集束炸弹)</Chinesesimp>
+        <Chinese>A-164"抹殺者"(集束炸彈)</Chinese>
+        <Chinesesimp>A-164"抹杀者"(集束炸弹)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_pylons_presets_cluster0">
         <Original>Cluster</Original>
@@ -3185,8 +3182,8 @@
       <Container name="UAV_06">
         <Key ID="str_a3_texturesources_swifd0">
           <Original>Swifd</Original>
-          <Chinese>“雨燕”</Chinese>
-          <Chinesesimp>“雨燕”</Chinesesimp>
+          <Chinese>"雨燕"</Chinese>
+          <Chinesesimp>"雨燕"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_06_base_f_library0">
           <Original>This commercial off-the-shelf utility drone is flown by civilian and military (as the AL-6 line) organizations across the globe. Developed by the same manufacturer as the AR-2 series, this larger model uses 6 rotors to transport small payloads inside its external cargo case. Using this drone to deliver emergency medical supplies is rapidly gaining popularity in recent times.</Original>
@@ -3225,13 +3222,13 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_medical_f0">
           <Original>AL-6 Pelican (Medical)</Original>
-          <Chinese>AL-6“鵜鶘”(醫療)</Chinese>
-          <Chinesesimp>AL-6“鹈鹕”(医疗)</Chinesesimp>
+          <Chinese>AL-6"鵜鶘"(醫療)</Chinese>
+          <Chinesesimp>AL-6"鹈鹕"(医疗)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_f0">
           <Original>AL-6 Pelican</Original>
-          <Chinese>AL-6“鵜鶘”</Chinese>
-          <Chinesesimp>AL-6“鹈鹕”</Chinesesimp>
+          <Chinese>AL-6"鵜鶘"</Chinese>
+          <Chinesesimp>AL-6"鹈鹕"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_uav_06_medical_f0">
           <Original>Utility Drone (Medical)</Original>
@@ -3265,13 +3262,13 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_06_medical_f0">
           <Original>AL-6 Pelican (Medical)</Original>
-          <Chinese>AL-6“鵜鶘”(醫療)</Chinese>
-          <Chinesesimp>AL-6“鹈鹕”(医疗)</Chinesesimp>
+          <Chinese>AL-6"鵜鶘"(醫療)</Chinese>
+          <Chinesesimp>AL-6"鹈鹕"(医疗)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_uav_06_f0">
           <Original>AL-6 Pelican</Original>
-          <Chinese>AL-6“鵜鶘”</Chinese>
-          <Chinesesimp>AL-6“鹈鹕”</Chinesesimp>
+          <Chinese>AL-6"鵜鶘"</Chinese>
+          <Chinesesimp>AL-6"鹈鹕"</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_o_uav_06_medical_f0">
           <Original>AL-6 Case (Medical) [CSAT]</Original>
@@ -3295,8 +3292,8 @@
         </Key>
         <Key ID="str_a3_box_c_uav_06_swifd_f0">
           <Original>Utility Drone Case (Swifd)</Original>
-          <Chinese>通用無人機箱子(“雨燕”)</Chinese>
-          <Chinesesimp>通用无人机箱子(“雨燕”)</Chinesesimp>
+          <Chinese>通用無人機箱子("雨燕")</Chinese>
+          <Chinesesimp>通用无人机箱子("雨燕")</Chinesesimp>
         </Key>
         <Key ID="str_a3_box_c_uav_06_medical_f0">
           <Original>Utility Drone Case (Medical)</Original>
@@ -3373,8 +3370,8 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_targetingcamera_tip">
         <Original>Coupled with a laser designator, these cameras can be used to 'paint' targets for your weaponry or for other friendly units.</Original>
-        <Chinese>配合激光指示器使用時，這些攝像機可用於為你的武器或其他友軍單位“照射”目標。</Chinese>
-        <Chinesesimp>配合激光指示器使用时，这些摄像机可用于为你的武器或其他友军单位“照射”目标。</Chinesesimp>
+        <Chinese>配合激光指示器使用時，這些攝像機可用於為你的武器或其他友軍單位"照射"目標。</Chinese>
+        <Chinesesimp>配合激光指示器使用时，这些摄像机可用于为你的武器或其他友军单位"照射"目标。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_targetingcamera_description">
         <Original>Some aircraft are equipped with high-magnification cameras with day, night and thermal modes.%1&lt;t&gt;&lt;/t&gt;1. Use %11 to switch to and from the targeting pod.%1&lt;t&gt;&lt;/t&gt;2. To stabilize the camera on an area press %12.%1&lt;t&gt;&lt;/t&gt;3. To re-center the camera to boresight or a marked target press %13.</Original>
@@ -3403,12 +3400,12 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_premiumorange_description">
         <Original>%11%1%12%1%2"Remnants of War" - a singleplayer mini-campaign that explores the laws of armed conflict (LOAC)%1%2Showcases - a humanitarian NGO's open day, and VR LOAC instruction%1%2Time Trials - races against the clock using several types of vehicle%1%2International Development &amp;amp; Aid Project - the new civilian humanitarian Armaverse faction (IDAP)%1%2Van - a range of medium-sized wheeled transport vehicles, including ambulances%1%2Utility &amp;amp; Demining Drones - unmanned aerial vehicles for small payload delivery and remote minefield clearance%1%2APERS Mine Dispenser - an effective but controversial area denial weapon system%1%2Cluster Bombs &amp;amp; UXO - aircraft-delivered submunition containers that may leave behind unexploded ordnance after strikes%1%2Vests - safety, identification, multi-pocket and EOD vests%1%2Bags - messenger and leg strap bags%1%2Headgear - safari and hard hats, head bandages, basic and press helmets, ear protectors and a wireless earpiece%1%2Facewear - respirators and safety goggles%1%2Humanitarian Aid Objects - cardboard boxes, food sacks, water bottle packages, emergency blankets, and more%1%2Tent Objects - (medical) shelter tents, separate floor canvases, an air-conditioning unit, and plastic net fences%1%2Medical Objects - stretchers, IV bags, body bags, and more%1%2Furniture Objects - tables, a sofa, an armchair, a bed, and more%1%2Miscellaneous - a paramedic outfit, construction coveralls, and a training mine%1%2Official Soundtrack - newly composed music tracks%1%2Achievements - a set of extra &lt;a href='%13'&gt;Steam Achievements&lt;/a&gt;</Original>
-        <Chinese>%11%1%12%1%2“戰爭殘留”——一個單人迷你戰役，探索武裝衝突法則(LOAC)%1%2演示任務——一個人道主義非政府組織的開放日，以及虛擬真實的武裝衝突法則指導課程%1%2計時賽——使用多種車輛進行計時競速賽%1%2國際發展&amp;amp;援助工程——新的民間人道主義武裝突襲世界派別(IDAP)%1%2麵包車——一系列中型輪式運輸車輛，包括救護車%1%2通用&amp;amp;排雷無人機——用於小型載荷投送和遙控雷場清理的無人機%1%2反人員地雷布撒器——一種有效但爭議較大的區域阻斷武器系統%1%2集束炸彈&amp;amp;未爆兵器——航空投送的子彈藥容器可能在空襲後留下未爆彈藥%1%2背心——安全，身份，多兜和排爆背心%1%2背包-郵包和腿包%1%2帽子——遊獵帽和安全帽，頭部繃帶，基本和新聞頭盔，護耳和無線耳機%1%2臉部佩戴——口罩和安全眼鏡%1%2人道主義援助物體——硬紙箱，食品包，瓶裝水包，緊急救生毯，以及其他%1%2帳篷物體——(醫療)掩體帳篷，獨立帆布地鋪，空調組建，以及塑料網牆%1%2醫療物體——擔架，血包，裝屍袋，以及其他%1%2傢俱物體——桌子，沙發，扶手椅，床，以及其他%1%2雜項——急救員服裝，建築工服裝，訓練地雷%1%2官方原聲大碟——新作的音樂%1%2成就——增加了幾個&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
-        <Chinesesimp>%11%1%12%1%2“战争残留”——一个单人迷你战役，探索武装冲突法则(LOAC)%1%2演示任务——一个人道主义非政府组织的开放日，以及虚拟真实的武装冲突法则指导课程%1%2计时赛——使用多种车辆进行计时竞速赛%1%2国际发展&amp;amp;援助工程——新的民间人道主义武装突袭世界派别(国发援)%1%2面包车——一系列中型轮式运输车辆，包括救护车%1%2通用&amp;amp;排雷无人机——用于小型载荷投送和遥控雷场清理的无人机%1%2反人员地雷布撒器——一种有效但争议较大的区域阻断武器系统%1%2集束炸弹&amp;amp;未爆兵器——航空投送的子弹药容器可能在空袭后留下未爆弹药%1%2背心——安全，身份，多兜和排爆背心%1%2背包-邮包和腿包%1%2帽子——游猎帽和安全帽，头部绷带，基本和新闻头盔，护耳和无线耳机%1%2脸部佩戴——口罩和安全眼镜%1%2人道主义援助物体——硬纸箱，食品包，瓶装水包，紧急救生毯，以及其他%1%2帐篷物体——(医疗)掩体帐篷，独立帆布地铺，空调组建，以及塑料网墙%1%2医疗物体——担架，血包，装尸袋，以及其他%1%2家具物体——桌子，沙发，扶手椅，床，以及其他%1%2杂项——急救员服装，建筑工服装，训练地雷%1%2官方原声大碟——新作的音乐%1%2成就——增加了几个&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinesesimp>
+        <Chinese>%11%1%12%1%2"戰爭殘留"——一個單人迷你戰役，探索武裝衝突法則(LOAC)%1%2演示任務——一個人道主義非政府組織的開放日，以及虛擬真實的武裝衝突法則指導課程%1%2計時賽——使用多種車輛進行計時競速賽%1%2國際發展&amp;amp;援助工程——新的民間人道主義武裝突襲世界派別(IDAP)%1%2麵包車——一系列中型輪式運輸車輛，包括救護車%1%2通用&amp;amp;排雷無人機——用於小型載荷投送和遙控雷場清理的無人機%1%2反人員地雷布撒器——一種有效但爭議較大的區域阻斷武器系統%1%2集束炸彈&amp;amp;未爆兵器——航空投送的子彈藥容器可能在空襲後留下未爆彈藥%1%2背心——安全，身份，多兜和排爆背心%1%2背包-郵包和腿包%1%2帽子——遊獵帽和安全帽，頭部繃帶，基本和新聞頭盔，護耳和無線耳機%1%2臉部佩戴——口罩和安全眼鏡%1%2人道主義援助物體——硬紙箱，食品包，瓶裝水包，緊急救生毯，以及其他%1%2帳篷物體——(醫療)掩體帳篷，獨立帆布地鋪，空調組建，以及塑料網牆%1%2醫療物體——擔架，血包，裝屍袋，以及其他%1%2傢俱物體——桌子，沙發，扶手椅，床，以及其他%1%2雜項——急救員服裝，建築工服裝，訓練地雷%1%2官方原聲大碟——新作的音樂%1%2成就——增加了幾個&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
+        <Chinesesimp>%11%1%12%1%2"战争残留"——一个单人迷你战役，探索武装冲突法则(LOAC)%1%2演示任务——一个人道主义非政府组织的开放日，以及虚拟真实的武装冲突法则指导课程%1%2计时赛——使用多种车辆进行计时竞速赛%1%2国际发展&amp;amp;援助工程——新的民间人道主义武装突袭世界派别(国发援)%1%2面包车——一系列中型轮式运输车辆，包括救护车%1%2通用&amp;amp;排雷无人机——用于小型载荷投送和遥控雷场清理的无人机%1%2反人员地雷布撒器——一种有效但争议较大的区域阻断武器系统%1%2集束炸弹&amp;amp;未爆兵器——航空投送的子弹药容器可能在空袭后留下未爆弹药%1%2背心——安全，身份，多兜和排爆背心%1%2背包-邮包和腿包%1%2帽子——游猎帽和安全帽，头部绷带，基本和新闻头盔，护耳和无线耳机%1%2脸部佩戴——口罩和安全眼镜%1%2人道主义援助物体——硬纸箱，食品包，瓶装水包，紧急救生毯，以及其他%1%2帐篷物体——(医疗)掩体帐篷，独立帆布地铺，空调组建，以及塑料网墙%1%2医疗物体——担架，血包，装尸袋，以及其他%1%2家具物体——桌子，沙发，扶手椅，床，以及其他%1%2杂项——急救员服装，建筑工服装，训练地雷%1%2官方原声大碟——新作的音乐%1%2成就——增加了几个&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes the upcoming Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!%1%2Press %11 to open the store page.</Original>
-        <Chinese>通過購買ArmA3DLC大包2節約超過25&amp;#37;，其包含ArmA3噴氣機，ArmA3戰爭法，ArmA3戰術行動和ArmA3坦克DLC!%1%2按%11打開商店頁面。</Chinese>
+        <Chinese>通過購買武裝突襲3資料片大包2節約超過25&amp;#37;，其包含武裝突襲3噴氣機，武裝突襲3戰爭法，武裝突襲3戰術行動和武裝突襲3坦克資料片!%1%2按%11打開商店頁面。</Chinese>
         <Chinesesimp>通过购买武装突袭3资料片合集2节约超过25&amp;#37;，其包含武装突袭3喷气机，武装突袭3战争法，武装突袭3战术行动和武装突袭3坦克资料片!%1%2按%11打开商店页面。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_minesweep_description">
@@ -3463,7 +3460,7 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_leaflets_hintdrop_description">
         <Original>%12%1%1%2Specially equipped vehicles, such as Utility Drones, can release a stack of leaflets over an area.%1%2Fly to a reasonable altitude (around 30 meters), and release the leaflets by pressing %11.</Original>
-        <Chinese>%12%1%1%2特別設置的載具，諸如通用無人機，可以在區域上空釋放成捆的傳單。%1%2飛到合理的高度(如30米)，然後按%11釋放傳單。</Chinese>
+        <Chinese>%12%1%1%2特別設置的載具，諸如通用無人機，可以在區域上空釋放成捆的傳單。%1%2飛到合理的高度(如30公尺)，然後按%11釋放傳單。</Chinese>
         <Chinesesimp>%12%1%1%2特别设置的载具，诸如通用无人机，可以在区域上空释放成捆的传单。%1%2飞到合理的高度(如30米)，然后按%11释放传单。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_leaflets_displayname">
@@ -3473,7 +3470,7 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_leaflets_description">
         <Original>%13%1%1%2Specially equipped vehicles, such as Utility Drones, can release a stack of leaflets over an area.%1%2Fly to a reasonable altitude (around 30 meters), and release the leaflets by pressing %11.%1%1Leaflets found on the ground can be inspected by holding %12.</Original>
-        <Chinese>%13%1%1%2特別設置的載具，諸如通用無人機，可以在區域上空釋放成捆的傳單。%1%2飛到合理的高度(如30米)，然後按%11釋放傳單。%1%1在地上找到的傳單可以通過按%12查看。</Chinese>
+        <Chinese>%13%1%1%2特別設置的載具，諸如通用無人機，可以在區域上空釋放成捆的傳單。%1%2飛到合理的高度(如30公尺)，然後按%11釋放傳單。%1%1在地上找到的傳單可以通過按%12查看。</Chinese>
         <Chinesesimp>%13%1%1%2特别设置的载具，诸如通用无人机，可以在区域上空释放成捆的传单。%1%2飞到合理的高度(如30米)，然后按%11释放传单。%1%1在地上找到的传单可以通过按%12查看。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_leaflets_arg13">
@@ -3488,8 +3485,8 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_treatiesprotocols_tip">
         <Original>IHL can also be referred to as jus in bello - the law which regulates the conduct of war. Serious violations are called war crimes. States must establish laws to try and punish those who commit grave breaches of IHL. Military commanders should instruct IHL and report violations. The rules seem straightforward, but the application of IHL to real-life situations of conflict often creates dilemmas.</Original>
-        <Chinese>《國際人道主義法》(IHL)也稱戰時法(jusinbello)——規範戰爭執行程序的法律。嚴重違法被稱為戰陣犯罪。各國必須制定法律懲罰凡有嚴重違反《國際人道主義法》的罪犯。軍事指揮官必須遵照《國際人道主義法》並報告違法狀況。規則看起來簡明易懂，但國際人道主義法在實際情況中的執行往往會帶來一系列困境。</Chinese>
-        <Chinesesimp>《国际人道主义法》(IHL)也称战时法(jusinbello)——规范战争执行程序的法律。严重违法被称为战阵犯罪。各国必须制定法律惩罚凡有严重违反《国际人道主义法》的罪犯。军事指挥官必须遵照《国际人道主义法》并报告违法状况。规则看起来简明易懂，但国际人道主义法在实际情况中的执行往往会带来一系列困境。</Chinesesimp>
+        <Chinese>《國際人道主義法》(IHL)也稱戰時法(jusinbello)——規範戰爭執行程序的法律。嚴重違法被稱為戰爭犯罪。各國必須制定法律懲罰凡有嚴重違反《國際人道主義法》的罪犯。軍事指揮官必須遵照《國際人道主義法》並報告違法狀況。規則看起來簡明易懂，但國際人道主義法在實際情況中的執行往往會帶來一系列困境。</Chinese>
+        <Chinesesimp>《国际人道主义法》(IHL)也称战时法(jusinbello)——规范战争执行程序的法律。严重违法被称为戰争犯罪。各国必须制定法律惩罚凡有严重违反《国际人道主义法》的罪犯。军事指挥官必须遵照《国际人道主义法》并报告违法状况。规则看起来简明易懂，但国际人道主义法在实际情况中的执行往往会带来一系列困境。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_treatiesprotocols_displayname">
         <Original>Treaties and Protocols</Original>
@@ -3543,8 +3540,8 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_proportionality_description">
         <Original>When collateral damage cannot be fully avoided, the expected number of deaths or injuries to civilians or damage to civilian objects must &lt;t %5&gt;not be excessive&lt;/t&gt; compared to the anticipated military advantage. The advantage has to be &lt;t %5&gt;concrete&lt;/t&gt; and cannot be "winning the war" for example.</Original>
-        <Chinese>在無法完全避免連帶損傷的情況下，平民傷亡和平民物體損害的預期水平必須&lt;t%5&gt;不超過&lt;/t&gt;軍事行動的具體目的。目的必須是&lt;t%5&gt;確定的&lt;/t&gt;，不能是諸如“贏得戰爭”一類。</Chinese>
-        <Chinesesimp>在无法完全避免连带损伤的情况下，平民伤亡和平民物体损害的预期水平必须&lt;t%5&gt;不超过&lt;/t&gt;军事行动的具体目的。目的必须是&lt;t%5&gt;确定的&lt;/t&gt;，不能是诸如“赢得战争”一类。</Chinesesimp>
+        <Chinese>在無法完全避免連帶損傷的情況下，平民傷亡和平民物體損害的預期水平必須&lt;t%5&gt;不超過&lt;/t&gt;軍事行動的具體目的。目的必須是&lt;t%5&gt;確定的&lt;/t&gt;，不能是諸如"贏得戰爭"一類。</Chinese>
+        <Chinesesimp>在无法完全避免连带损伤的情况下，平民伤亡和平民物体损害的预期水平必须&lt;t%5&gt;不超过&lt;/t&gt;军事行动的具体目的。目的必须是&lt;t%5&gt;确定的&lt;/t&gt;，不能是诸如"赢得战争"一类。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_precaution_tip">
         <Original>Precaution applies not only during planning stages, but all the way up to the moment of an attack and even after it has commenced.</Original>
@@ -3668,8 +3665,8 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_definitions_description">
         <Original>%2 &lt;t %5&gt;Combatant&lt;/t&gt;: members of armed forces, members of any armed group under the orders of a party to a conflict%1%2 &lt;t %5&gt;Hors de combat&lt;/t&gt;: "out of fight" - combatants who have been captured or wounded or who are sick or shipwrecked and thus no longer in a position to fight%1%2 &lt;t %5&gt;Civilian&lt;/t&gt;: any person who is not a combatant%1%2 &lt;t %5&gt;Armed conflict&lt;/t&gt;: fighting between countries (international) or between a country's armed forces and armed groups (non-international) or between such groups%1%2 &lt;t %5&gt;Military objective&lt;/t&gt;: an object that by its nature, location, purpose or use makes an effective contribution to military action and whose destruction offers a definite military advantage%1%2 &lt;t %5&gt;Non-reciprocity&lt;/t&gt;: breaches of IHL by one party to a conflict do not justify breaches by other parties%1%2 &lt;t %5&gt;Equality&lt;/t&gt;: IHL applies to all parties of an armed conflict equally</Original>
-        <Chinese>武裝力量的%2&lt;t%5&gt;戰鬥人員&lt;/t&gt;:成員，任何在任意一方控制下的武裝組織的成員%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:“失去戰鬥力”——戰鬥人員被俘、受傷或因患病或船隻遇難而無法繼續戰鬥%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是戰鬥人員的人%1%2&lt;t%5&gt;武裝衝突&lt;/t&gt;:在國家間(國際性)或一國內的武裝力量和武裝組織(國內性)或此類組織之間爆發的戰鬥%1%2&lt;t%5&gt;軍事目標&lt;/t&gt;:根據其性質、地點、意圖或用途能為軍事行動作出顯著貢獻以及其損毀會達成特定軍事目的的目標%1%2&lt;t%5&gt;非對等性&lt;/t&gt;:衝突中的一方違反《國際人道主義法》不構成另一方違反該法的正當理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《國際人道主義法》對武裝衝突中的所有派別一視同仁</Chinese>
-        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;:成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:“失去战斗力”——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;:在国家间(国际性)或一国内的武装力量和武装组织(国内性)或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;:根据其性质、地点、意图或用途能为军事行动作出显着贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;:冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
+        <Chinese>武裝力量的%2&lt;t%5&gt;戰鬥人員&lt;/t&gt;:成員，任何在任意一方控制下的武裝組織的成員%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:"失去戰鬥力"——戰鬥人員被俘、受傷或因患病或船隻遇難而無法繼續戰鬥%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是戰鬥人員的人%1%2&lt;t%5&gt;武裝衝突&lt;/t&gt;:在國家間(國際性)或一國內的武裝力量和武裝組織(國內性)或此類組織之間爆發的戰鬥%1%2&lt;t%5&gt;軍事目標&lt;/t&gt;:根據其性質、地點、意圖或用途能為軍事行動作出顯著貢獻以及其損毀會達成特定軍事目的的目標%1%2&lt;t%5&gt;非對等性&lt;/t&gt;:衝突中的一方違反《國際人道主義法》不構成另一方違反該法的正當理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《國際人道主義法》對武裝衝突中的所有派別一視同仁</Chinese>
+        <Chinesesimp>武装力量的%2&lt;t%5&gt;战斗人员&lt;/t&gt;:成员，任何在任意一方控制下的武装组织的成员%1%2&lt;t%5&gt;Horsdecombat&lt;/t&gt;:"失去战斗力"——战斗人员被俘、受伤或因患病或船只遇难而无法继续战斗%1%2&lt;t%5&gt;平民&lt;/t&gt;:任何不是战斗人员的人%1%2&lt;t%5&gt;武装冲突&lt;/t&gt;:在国家间(国际性)或一国内的武装力量和武装组织(国内性)或此类组织之间爆发的战斗%1%2&lt;t%5&gt;军事目标&lt;/t&gt;:根据其性质、地点、意图或用途能为军事行动作出显着贡献以及其损毁会达成特定军事目的的目标%1%2&lt;t%5&gt;非对等性&lt;/t&gt;:冲突中的一方违反《国际人道主义法》不构成另一方违反该法的正当理由%1%2&lt;t%5&gt;平等性&lt;/t&gt;:《国际人道主义法》对武装冲突中的所有派别一视同仁</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_tip">
         <Original>You can try premium assets in the Virtual Arsenal mode without restriction!</Original>
@@ -3678,12 +3675,12 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_displayname">
         <Original>DLC Strategy</Original>
-        <Chinese>DLC策略</Chinese>
+        <Chinese>資料片策略</Chinese>
         <Chinesesimp>资料片策略</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_dlcstrategy_description">
         <Original>Arma 3's &lt;a href='%11'&gt;DLC strategy&lt;/a&gt;﻿ is based on 3 main pillars:%1%2 Providing free platform updates%1%2 Offering new premium content%1%2 Preventing multiplayer fragmentation%1%1With this approach, &lt;t %5&gt;every Arma 3 player gets all the DLC data&lt;/t&gt; and is &lt;t %5&gt;able to see everything in-game&lt;/t&gt;. Generally speaking, &lt;t %5&gt;features&lt;/t&gt; continue expanding the platform and are &lt;t %5&gt;free&lt;/t&gt; for all to enjoy, while the &lt;t %5&gt;premium content&lt;/t&gt; may be &lt;t %5&gt;limited&lt;/t&gt; for non-owners. By purchasing DLC you are &lt;t %5&gt;contributing&lt;/t&gt; to further development of a consistent Arma 3 platform for everyone and the Arma series in general. Thank you!</Original>
-        <Chinese>Arma3的&lt;ahref='%11'&gt;DLC策略&lt;/a&gt;?基於三個基本點:%1%2提供免費平臺升級%1%2提供新的附加內容%1%2避免多人遊戲衝突%1%1基於以上三點，&lt;t%5&gt;所有Arma3萬家都會得到全部DLC數據&lt;/t&gt;並可&lt;t%5&gt;在遊戲內部看到全部內容&lt;/t&gt;。一言以蔽之，用於擴展平臺的&lt;t%5&gt;特性&lt;/t&gt;會被&lt;t%5&gt;免費&lt;/t&gt;提供給所有人，而&lt;t%5&gt;附加內容&lt;/t&gt;可能在未購買玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通過購買DLC你可以為Arma3系列的未來發展，換言之是Arma3平臺的全部玩家和整個Arma系列作出&lt;t%5&gt;貢獻&lt;/t&gt;。謝謝你!</Chinese>
+        <Chinese>武裝突襲3的&lt;ahref='%11'&gt;資料片策略&lt;/a&gt;?基於三個基本點:%1%2提供免費平臺升級%1%2提供新的附加內容%1%2避免多人遊戲衝突%1%1基於以上三點，&lt;t%5&gt;所有武裝突襲3萬家都會得到全部資料片數據&lt;/t&gt;並可&lt;t%5&gt;在遊戲內部看到全部內容&lt;/t&gt;。一言以蔽之，用於擴展平臺的&lt;t%5&gt;特性&lt;/t&gt;會被&lt;t%5&gt;免費&lt;/t&gt;提供給所有人，而&lt;t%5&gt;附加內容&lt;/t&gt;可能在未購買玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通過購買資料片你可以為武裝突襲3系列的未來發展，換言之是武裝突襲3平臺的全部玩家和整個Arma系列作出&lt;t%5&gt;貢獻&lt;/t&gt;。謝謝你!</Chinese>
         <Chinesesimp>武装突袭3的&lt;ahref='%11'&gt;资料片策略&lt;/a&gt;?基于三个基本点:%1%2提供免费平台升级%1%2提供新的附加内容%1%2避免多人游戏冲突%1%1基于以上三点，&lt;t%5&gt;所有武装突袭3玩家都会得到全部资料片数据&lt;/t&gt;并可&lt;t%5&gt;在游戏内部看到全部内容&lt;/t&gt;。一言以蔽之，用于扩展平台的&lt;t%5&gt;特性&lt;/t&gt;会被&lt;t%5&gt;免费&lt;/t&gt;提供给所有人，而&lt;t%5&gt;附加内容&lt;/t&gt;可能在未购买玩家身上被&lt;t%5&gt;限制&lt;/t&gt;。通过购买资料片你可以为武装突袭3系列的未来发展，换言之是武装突袭3平台的全部玩家和整个武装突袭系列作出&lt;t%5&gt;贡献&lt;/t&gt;。谢谢你!</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_combatmodes_tip">
@@ -3778,8 +3775,8 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_horsdecombat_description">
         <Original>When combatants are &lt;t %5&gt;hors de combat&lt;/t&gt; ("out of fight": e.g. wounded, captured, sick or shipwrecked), they should &lt;t %5&gt;not be targeted&lt;/t&gt;.%1%1%2 Collect them.%1%2 Care for them.%1%2 Hand them over to a superior or nearest medical personnel.%1%2 Respect medical personnel, facilities and any civilians helping.</Original>
-        <Chinese>當戰鬥人員&lt;t%5&gt;失去戰鬥力&lt;/t&gt;(“horsdecombat”:如受傷、被俘、患病或遭遇海難)時，他們應當&lt;t%5&gt;不被作為目標對待&lt;/t&gt;。%1%1%2收容他們。%1%2照顧他們。%1%2把他們交給上級機關或最近的醫務工作人員。%1%2尊重提供幫助的醫療人員、設施和任何平民。</Chinese>
-        <Chinesesimp>当战斗人员&lt;t%5&gt;失去战斗力&lt;/t&gt;(“horsdecombat”:如受伤、被俘、患病或遭遇海难)时，他们应当&lt;t%5&gt;不被作为目标对待&lt;/t&gt;。%1%1%2收容他们。%1%2照顾他们。%1%2把他们交给上级机关或最近的医务工作人员。%1%2尊重提供帮助的医疗人员、设施和任何平民。</Chinesesimp>
+        <Chinese>當戰鬥人員&lt;t%5&gt;失去戰鬥力&lt;/t&gt;("horsdecombat":如受傷、被俘、患病或遭遇海難)時，他們應當&lt;t%5&gt;不被作為目標對待&lt;/t&gt;。%1%1%2收容他們。%1%2照顧他們。%1%2把他們交給上級機關或最近的醫務工作人員。%1%2尊重提供幫助的醫療人員、設施和任何平民。</Chinese>
+        <Chinesesimp>当战斗人员&lt;t%5&gt;失去战斗力&lt;/t&gt;("horsdecombat":如受伤、被俘、患病或遭遇海难)时，他们应当&lt;t%5&gt;不被作为目标对待&lt;/t&gt;。%1%1%2收容他们。%1%2照顾他们。%1%2把他们交给上级机关或最近的医务工作人员。%1%2尊重提供帮助的医疗人员、设施和任何平民。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ccoc_displayname">
         <Original>Code of Conduct for Combatants</Original>
@@ -3823,8 +3820,8 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_disarm">
         <Original>To deactivate an explosive, you have to be a specialist, such as an %3Explosive / EOD Specialist%4 or an %3Engineer%4, and have a %3Toolkit%4.%1%2You may have to manually reveal %12 the explosive first.%1%2Crawl %11 to the explosive.%1%2Select %3Deactivate%4&lt;img size='1' %5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa' /&gt; from the action menu.%1WARNING: if you don't approach the explosive carefully in a prone position, it may detonate.</Original>
-        <Chinese>為拆除炸彈，你需要是專業人士，諸如%3爆破專業兵或排爆專家%4或%3工兵%4，並有一個%3工具包%4。%1%2你可能首先需要人工發現%12炸彈。%1%2爬向%11炸彈。%1%2從動作菜單中選擇%3“拆除”%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你不小心地以臥姿向炸彈移動，它就可能爆炸。</Chinese>
-        <Chinesesimp>为拆除炸弹，你需要是专业人士，诸如%3爆破专业兵或排爆专家%4或%3工兵%4，并有一个%3工具包%4。%1%2你可能首先需要人工发现%12炸弹。%1%2爬向%11炸弹。%1%2从动作菜单中选择%3“拆除”%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你不小心地以卧姿向炸弹移动，它就可能爆炸。</Chinesesimp>
+        <Chinese>為拆除炸彈，你需要是專業人士，諸如%3爆破專業兵或排爆專家%4或%3工兵%4，並有一個%3工具包%4。%1%2你可能首先需要人工發現%12炸彈。%1%2爬向%11炸彈。%1%2從動作菜單中選擇%3"拆除"%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你不小心地以臥姿向炸彈移動，它就可能爆炸。</Chinese>
+        <Chinesesimp>为拆除炸弹，你需要是专业人士，诸如%3爆破专业兵或排爆专家%4或%3工兵%4，并有一个%3工具包%4。%1%2你可能首先需要人工发现%12炸弹。%1%2爬向%11炸弹。%1%2从动作菜单中选择%3"拆除"%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你不小心地以卧姿向炸弹移动，它就可能爆炸。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_minesweep_description_detector">
         <Original>Having a &lt;t %5&gt;Mine Detector&lt;/t&gt; in your inventory will locate even well-hidden nearby mines. Audio cues may alert you to such threats.%1%2Use %11 or %12 to open the Mines info panel to see approximate mine locations and identified mines.%1%2Carefully approach, look at, and identify unknown mines using %13.%1Depending on difficulty options, known mines are marked &lt;img size='1' %14 image='A3\Ui_f\data\IGUI\Cfg\Cursors\explosive_ca.paa' /&gt;.</Original>
@@ -3838,7 +3835,7 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview_expansion">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!</Original>
-        <Chinese>透過購買Arma3DLCBundle2(包括Arma3Jets、Arma3LawsofWar、Arma3Tac-Ops和Arma3TanksDLC)，省25&amp;#37;以上的費用!</Chinese>
+        <Chinese>透過購買武裝突襲3資料片Bundle2(包括武裝突襲3Jets、武裝突襲3LawsofWar、武裝突襲3Tac-Ops和武裝突襲3Tanks資料片)，省25&amp;#37;以上的費用!</Chinese>
         <Chinesesimp>通过购买武装突袭3资料片合集2(包括武装突袭3战机、武装突袭3战争法、武装突袭3战术行动和武装突袭3坦克资料片)，节省25&amp;#37;以上的费用!</Chinesesimp>
       </Key>
     </Container>
@@ -3920,8 +3917,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list1_title">
         <Original>"Remnants of War"</Original>
-        <Chinese>“戰爭遺留”</Chinese>
-        <Chinesesimp>“战争遗留”</Chinesesimp>
+        <Chinese>"戰爭遺留"</Chinese>
+        <Chinesesimp>"战争遗留"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list19">
         <Original>listen to newly composed music tracks.</Original>
@@ -3995,7 +3992,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare">
         <Original>Arma 3 Laws of War is composed of the following premium content and free platform additions:</Original>
-        <Chinese>Arma3戰爭法則包括以下附加內容和免費平臺更新:</Chinese>
+        <Chinese>武裝突襲3戰爭法則包括以下附加內容和免費平臺更新:</Chinese>
         <Chinesesimp>武装突袭3战争法则包括以下附加内容和免费平台更新:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pard_list4_title">
@@ -4040,18 +4037,18 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pard">
         <Original>Above all, this DLC set out to add assets and content, but we have also done some modest &lt;t color='%1'&gt;feature extensions&lt;/t&gt; and improvements during its development, free for everyone, of course:</Original>
-        <Chinese>總體來看，本DLC用於增加一系列特性和內容，但我們也做了一些對所有人都免費的&lt;tcolor='%1'&gt;屬性更新&lt;/t&gt;和改進:</Chinese>
+        <Chinese>總體來看，本資料片用於增加一系列特性和內容，但我們也做了一些對所有人都免費的&lt;tcolor='%1'&gt;屬性更新&lt;/t&gt;和改進:</Chinese>
         <Chinesesimp>总体来看，本资料片用于增加一系列特性和内容，但我们也做了一些对所有人都免费的&lt;tcolor='%1'&gt;属性更新&lt;/t&gt;和改进:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parc_footer">
         <Original>More about Arma 3 Laws of War</Original>
-        <Chinese>關於Arma3戰爭法的更多內容</Chinese>
+        <Chinese>關於武裝突襲3戰爭法的更多內容</Chinese>
         <Chinesesimp>关于武装突袭3战争法的更多内容</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parc">
         <Original>Continuing our established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;, we are bringing DLC owners a varied collection of premium content. While portions of the new civilian &lt;t color='%1'&gt;International Development &amp;amp; Aid Project&lt;/t&gt; (IDAP) faction are free for the platform, we've selected several new assets to make them a special and worthwhile addition. IDAP's primary ground vehicle is a large &lt;t color='%1'&gt;Van&lt;/t&gt;, available for passenger transport, cargo hauling and medical evacuations. In order to safely carry out their activities in high-risk areas, IDAP also uses several drones. The &lt;t color='%1'&gt;Utility Drone&lt;/t&gt; is its latest acquisition and they have even modified it for remote mine clearance. A wide range of IDAP and other &lt;t color='%1'&gt;character gear&lt;/t&gt; is further available for anyone wishing to wear it. Much to IDAP's frustration, military factions have started to use a particularly nasty weapon: the &lt;t color='%1'&gt;APERS Mine Dispenser&lt;/t&gt;. These and all the extra platform additions are showcased in the singleplayer &lt;t color='%1'&gt;"Remnants of War" mini-campaign&lt;/t&gt;, and as always: get a hands-on preview without restriction in the Virtual Arsenal mode.</Original>
-        <Chinese>基於我們已經構建的lt;ahref='%3'color='%2'&gt;DLC策略&lt;/a&gt;，我們將為DLC的擁有者提供一系列附加內容的集合。在新的平民組織&lt;tcolor='%1'&gt;國際發展&amp;amp;援助工程&lt;/t&gt;(IDAP)組織對平臺的所有人免費的同時，我們也選擇了一些新特性作為特別且值得一買的內容。IDAP的基本地面車輛是一種大型&lt;tcolor='%1'&gt;麵包車&lt;/t&gt;，可以運輸人員、物資和執行醫療後送。為了安全在高危地區執行任務，IDAP還使用多種無人機。&lt;tcolor='%1'&gt;通用無人機&lt;/t&gt;是其最新採購的型號，並被改裝為遙控地雷清障型號。一系列IDAP和其他組織的&lt;tcolor='%1'&gt;人物裝備&lt;/t&gt;也對任何想要穿著它們的人可用。讓IDAP非常頭痛的是，軍事組織開始使用一種特別令人不齒的武器:&lt;tcolor='%1'&gt;反人員地雷布撒器&lt;/t&gt;。這些都是平臺附加內容，並在單人的&lt;tcolor='%1'&gt;“戰爭遺留物”迷你戰役&lt;/t&gt;予以展示。像往常一樣:在虛擬軍械庫模式下不受限制地瀏覽這些東西。</Chinese>
-        <Chinesesimp>基于我们已经构建的lt;ahref='%3'color='%2'&gt;资料片策略&lt;/a&gt;，我们将为资料片的拥有者提供一系列附加内容的集合。在新的平民组织&lt;tcolor='%1'&gt;国际发展&amp;amp;援助工程&lt;/t&gt;(国发援)组织对平台的所有人免费的同时，我们也选择了一些新特性作为特别且值得一买的内容。国发援的基本地面车辆是一种大型&lt;tcolor='%1'&gt;面包车&lt;/t&gt;，可以运输人员、物资和执行医疗后送。为了安全在高危地区执行任务，国发援还使用多种无人机。&lt;tcolor='%1'&gt;通用无人机&lt;/t&gt;是其最新采购的型号，并被改装为遥控地雷清障型号。一系列国发援和其他组织的&lt;tcolor='%1'&gt;人物装备&lt;/t&gt;也对任何想要穿着它们的人可用。让国发援非常头痛的是，军事组织开始使用一种特别令人不齿的武器:&lt;tcolor='%1'&gt;反人员地雷布撒器&lt;/t&gt;。这些都是平台附加内容，并在单人的&lt;tcolor='%1'&gt;“战争遗留物”迷你战役&lt;/t&gt;予以展示。像往常一样:在虚拟军械库模式下不受限制地浏览这些东西。</Chinesesimp>
+        <Chinese>基於我們已經構建的lt;ahref='%3'color='%2'&gt;資料片策略&lt;/a&gt;，我們將為資料片的擁有者提供一系列附加內容的集合。在新的平民組織&lt;tcolor='%1'&gt;國際發展&amp;amp;援助工程&lt;/t&gt;(IDAP)組織對平臺的所有人免費的同時，我們也選擇了一些新特性作為特別且值得一買的內容。IDAP的基本地面車輛是一種大型&lt;tcolor='%1'&gt;麵包車&lt;/t&gt;，可以運輸人員、物資和執行醫療後送。為了安全在高危地區執行任務，IDAP還使用多種無人機。&lt;tcolor='%1'&gt;通用無人機&lt;/t&gt;是其最新採購的型號，並被改裝為遙控地雷清障型號。一系列IDAP和其他組織的&lt;tcolor='%1'&gt;人物裝備&lt;/t&gt;也對任何想要穿著它們的人可用。讓IDAP非常頭痛的是，軍事組織開始使用一種特別令人不齒的武器:&lt;tcolor='%1'&gt;反人員地雷布撒器&lt;/t&gt;。這些都是平臺附加內容，並在單人的&lt;tcolor='%1'&gt;"戰爭遺留物"迷你戰役&lt;/t&gt;予以展示。像往常一樣:在虛擬軍械庫模式下不受限制地瀏覽這些東西。</Chinese>
+        <Chinesesimp>基于我们已经构建的lt;ahref='%3'color='%2'&gt;资料片策略&lt;/a&gt;，我们将为资料片的拥有者提供一系列附加内容的集合。在新的平民组织&lt;tcolor='%1'&gt;国际发展&amp;amp;援助工程&lt;/t&gt;(国发援)组织对平台的所有人免费的同时，我们也选择了一些新特性作为特别且值得一买的内容。国发援的基本地面车辆是一种大型&lt;tcolor='%1'&gt;面包车&lt;/t&gt;，可以运输人员、物资和执行医疗后送。为了安全在高危地区执行任务，国发援还使用多种无人机。&lt;tcolor='%1'&gt;通用无人机&lt;/t&gt;是其最新采购的型号，并被改装为遥控地雷清障型号。一系列国发援和其他组织的&lt;tcolor='%1'&gt;人物装备&lt;/t&gt;也对任何想要穿着它们的人可用。让国发援非常头痛的是，军事组织开始使用一种特别令人不齿的武器:&lt;tcolor='%1'&gt;反人员地雷布撒器&lt;/t&gt;。这些都是平台附加内容，并在单人的&lt;tcolor='%1'&gt;"战争遗留物"迷你战役&lt;/t&gt;予以展示。像往常一样:在虚拟军械库模式下不受限制地浏览这些东西。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb_title">
         <Original>INTERNATIONAL HUMANITARIAN LAW</Original>
@@ -4065,7 +4062,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb2">
         <Original>We've always admired this pragmatic approach to a complex topic. Rather than frustrate players with punishments and mandatory lessons, our mutual goal has been to find ways of raising awareness of IHL, while creating an even deeper and more authentic Arma experience. To that end we decided to build a DLC around IHL, which primarily delivers an Armaverse humanitarian NGO faction and gameplay to showcase them. We will also be donating a portion of the 2017 DLC proceeds to the ICRC so that they may continue their good real-world work. Thank you for your support!</Original>
-        <Chinese>我們始終贊同針對複雜議題的這種實用主義態度。與其通過嚴厲懲罰和長篇大論折磨玩家，我們的本來目的是為了尋找提高對《國際人道主義法》的注意程度的方式，從而創造更深刻、更可信的Arma遊戲體驗。最終我們決定圍繞《國際人道主義法》製作一個DLC，主要表現Arma世界觀中的非政府組織，並展示他們。我們也會為國際紅十字會捐出此次DLC的部分收入，以便他們在真實世界繼續進行他們的高尚工作。感謝你的支持!</Chinese>
+        <Chinese>我們始終贊同針對複雜議題的這種實用主義態度。與其通過嚴厲懲罰和長篇大論折磨玩家，我們的本來目的是為了尋找提高對《國際人道主義法》的注意程度的方式，從而創造更深刻、更可信的Arma遊戲體驗。最終我們決定圍繞《國際人道主義法》製作一個資料片，主要表現Arma世界觀中的非政府組織，並展示他們。我們也會為國際紅十字會捐出此次資料片的部分收入，以便他們在真實世界繼續進行他們的高尚工作。感謝你的支持!</Chinese>
         <Chinesesimp>我们始终赞同针对复杂议题的这种实用主义态度。与其通过严厉惩罚和长篇大论折磨玩家，我们的本来目的是为了寻找提高对《国际人道主义法》的注意程度的方式，从而创造更深刻、更可信的武装突袭游戏体验。最终我们决定围绕《国际人道主义法》制作一个资料片，主要表现武装突袭世界观中的非政府组织，并展示他们。我们也会为国际红十字会捐出此次资料片的部分收入，以便他们在真实世界继续进行他们的高尚工作。感谢你的支持!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb">
@@ -4075,8 +4072,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_para">
         <Original>It is with some pride that we welcome you to the release of the &lt;t color='%1'&gt;Arma 3 Laws of War&lt;/t&gt; DLC. Known for some time under code name "Orange" on our &lt;a href='%3' color='%2'&gt;2017 roadmap&lt;/a&gt;, we have recently revealed the unique theme of this asset and content pack to you all. We feel there is something for everyone to be found in this DLC and the accompanying platform update. So we invite you to keep reading for more information, or to dive straight into the game and explore the additions for yourself. This is war!</Original>
-        <Chinese>如今我們驕傲地向諸位推出&lt;tcolor='%1'&gt;Arma3戰爭法&lt;/t&gt;DLC。曾經該DLC在我們的&lt;ahref='%3'color='%2'&gt;2017進度計劃表&lt;/a&gt;，中也以“橙色”DLC代稱。我們最近公開揭示了這一部分內容和特性的獨特主基調。我們意識到每個人都能在這個DLC和隨後的平臺更新中體悟到一些什麼。所以我們邀請您閱讀更多信息，或者認真挖掘遊戲並探索更多內容。這就是戰爭!</Chinese>
-        <Chinesesimp>如今我们骄傲地向诸位推出&lt;tcolor='%1'&gt;武装突袭3战争法&lt;/t&gt;资料片。曾经该资料片在我们的&lt;ahref='%3'color='%2'&gt;2017进度计划表&lt;/a&gt;，中也以“橙色”资料片代称。我们最近公开揭示了这一部分内容和特性的独特主基调。我们意识到每个人都能在这个资料片和随后的平台更新中体悟到一些什么。所以我们邀请您阅读更多信息，或者认真挖掘游戏并探索更多内容。这就是战争!</Chinesesimp>
+        <Chinese>如今我們驕傲地向諸位推出&lt;tcolor='%1'&gt;武裝突襲3戰爭法&lt;/t&gt;資料片。曾經該資料片在我們的&lt;ahref='%3'color='%2'&gt;2017進度計劃表&lt;/a&gt;，中也以"橙色"資料片代稱。我們最近公開揭示了這一部分內容和特性的獨特主基調。我們意識到每個人都能在這個資料片和隨後的平臺更新中體悟到一些什麼。所以我們邀請您閱讀更多信息，或者認真挖掘遊戲並探索更多內容。這就是戰爭!</Chinese>
+        <Chinesesimp>如今我们骄傲地向诸位推出&lt;tcolor='%1'&gt;武装突袭3战争法&lt;/t&gt;资料片。曾经该资料片在我们的&lt;ahref='%3'color='%2'&gt;2017进度计划表&lt;/a&gt;，中也以"橙色"资料片代称。我们最近公开揭示了这一部分内容和特性的独特主基调。我们意识到每个人都能在这个资料片和随后的平台更新中体悟到一些什么。所以我们邀请您阅读更多信息，或者认真挖掘游戏并探索更多内容。这就是战争!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_pare_list11_title_plain">
         <Original>International Development &amp; Aid Project</Original>
@@ -4092,13 +4089,13 @@
       </Key>
       <Key ID="STR_A3_AchOrangeCampaignComplete_Description">
         <Original>Recalled all memories in Oreokastro during the Remnants of War campaign.</Original>
-        <Chinese>在“戰爭遺留”戰役中回憶起圍繞奧雷奧卡斯特羅的所有回憶。</Chinese>
-        <Chinesesimp>在“战争遗留”战役中回忆起围绕奥雷奥卡斯特罗的所有回忆。</Chinesesimp>
+        <Chinese>在"戰爭遺留"戰役中回憶起圍繞奧雷奧卡斯特羅的所有回憶。</Chinese>
+        <Chinesesimp>在"战争遗留"战役中回忆起围绕奥雷奥卡斯特罗的所有回忆。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOrangeCampaignDone_Description">
         <Original>Cleared all explosives from Oreokastro and completed the Remnants of War campaign.</Original>
-        <Chinese>清除奧雷奧卡斯特羅的所有爆炸物並完成“戰爭遺留”戰役。</Chinese>
-        <Chinesesimp>清除奥雷奥卡斯特罗的所有爆炸物并完成“战争遗留”战役。</Chinesesimp>
+        <Chinese>清除奧雷奧卡斯特羅的所有爆炸物並完成"戰爭遺留"戰役。</Chinese>
+        <Chinesesimp>清除奥雷奥卡斯特罗的所有爆炸物并完成"战争遗留"战役。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOrangeCampaignComplete_Title">
         <Original>Memories of Oreokastro</Original>
@@ -4112,8 +4109,8 @@
       </Key>
       <Key ID="STR_A3_AchOrangeCampaignGood_Description">
         <Original>Faced with difficult decisions in the Remnants of War campaign, you went for the more humane options.</Original>
-        <Chinese>在“戰爭遺留”戰役中遭遇艱難選擇時，你總會選擇更加人道主義的選項。</Chinese>
-        <Chinesesimp>在“战争遗留”战役中遭遇艰难选择时，你总会选择更加人道主义的选项。</Chinesesimp>
+        <Chinese>在"戰爭遺留"戰役中遭遇艱難選擇時，你總會選擇更加人道主義的選項。</Chinese>
+        <Chinesesimp>在"战争遗留"战役中遭遇艰难选择时，你总会选择更加人道主义的选项。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOrangeShowcaseIDAP_Title">
         <Original>Explosive Treasure</Original>
@@ -4159,27 +4156,27 @@
     <Container name="Music_F">
       <Key ID="STR_A3_CfgMusic_LeadTrack01_F_Orange">
         <Original>This Is War (Laws of War Remix)</Original>
-        <Chinese>ThisIsWar(LawsofWarRemix)</Chinese>
-        <Chinesesimp>战争法(战争法混音版)</Chinesesimp>
+        <Chinese>這是戰爭(戰爭法混音版)</Chinese>
+        <Chinesesimp>这是战争(战争法混音版)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack01_F_Orange">
         <Original>Laws of War DLC: Ambient</Original>
-        <Chinese>LawsofWarDLC:周遭環境</Chinese>
+        <Chinese>戰爭法資料片:周遭環境</Chinese>
         <Chinesesimp>战争法资料片:周边局势</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02_F_Orange">
         <Original>Laws of War DLC: Remnants of War</Original>
-        <Chinese>LawsofWarDLC:戰後殘局</Chinese>
+        <Chinese>戰爭法資料片:戰後殘局</Chinese>
         <Chinesesimp>战争法资料片:战争遗留物</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack01_F_Orange">
         <Original>Laws of War DLC: Escalation</Original>
-        <Chinese>LawsofWarDLC:漸趨緊張</Chinese>
+        <Chinese>戰爭法資料片:漸趨緊張</Chinese>
         <Chinesesimp>战争法资料片:事态升级</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack02_F_Orange">
         <Original>Laws of War DLC: Scenario Completed</Original>
-        <Chinese>LawsofWarDLC:大功告成</Chinese>
+        <Chinese>戰爭法資料片:大功告成</Chinese>
         <Chinesesimp>战争法资料片:场景已完成</Chinesesimp>
       </Key>
     </Container>

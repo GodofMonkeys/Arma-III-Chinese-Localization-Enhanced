@@ -52,7 +52,7 @@
       <Key ID="str_a3_combatpatrol_modules_16">
         <Original>Blacklists the nearest location's in a 1000m radius azimuth range so it can't be used for the starting / ending position or reinforcements spawning point.</Original>
         <Chinese>以模塊為中心，半徑1公里以內最近的可用地點會被黑名單中的方位度數給限制，使該方位不能作為出發點，任務完成點與敵軍援軍產生點。</Chinese>
-        <Chinesesimp>以模块为中心，半径1公里以内最近的可用地点会被黑名单中的方位度数给限制，使该方位不能作为出发点，任务完成点与敌军援军产生点。</Chinesesimp>
+        <Chinesesimp>以模块为中心，半径1千米以内最近的可用地点会被黑名单中的方位度数给限制，使该方位不能作为出发点，任务完成点与敌军援军产生点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_modules_15">
         <Original>Azimuth arrays</Original>
@@ -67,7 +67,7 @@
       <Key ID="str_a3_combatpatrol_modules_13">
         <Original>Moves the nearest location in a 1000m radius to this module's position.</Original>
         <Chinese>以模塊為中心，移動半徑1公里以內最近的可用地點到此模塊的位置。</Chinese>
-        <Chinesesimp>以模块为中心，移动半径1公里以内最近的可用地点到此模块的位置。</Chinesesimp>
+        <Chinesesimp>以模块为中心，移动半径1千米以内最近的可用地点到此模块的位置。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_modules_12">
         <Original>Combat Patrol Location Reposition</Original>
@@ -77,7 +77,7 @@
       <Key ID="str_a3_combatpatrol_modules_11">
         <Original>Removes the nearest location in a 1000m radius from the map selection.</Original>
         <Chinese>以模塊為中心，移除半徑1公里以內最近的可用地點。</Chinese>
-        <Chinesesimp>以模块为中心，移除半径1公里以内最近的可用地点。</Chinesesimp>
+        <Chinesesimp>以模块为中心，移除半径1千米以内最近的可用地点。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_modules_10">
         <Original>Combat Patrol Location Remove</Original>

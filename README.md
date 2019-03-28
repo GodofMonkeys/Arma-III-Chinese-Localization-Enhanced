@@ -46,11 +46,15 @@
 **專案領導**
 <br/>God of Monkeys
 
-**翻譯暨潤飾成員**
+**翻譯暨潤飾成員 - (繁中/台灣軍語)**
 <br/>Kimura
 <br/>Diss
 <br/>Crowe
 <br/>ChaCha
+
+**翻譯暨潤飾成員 - (簡中/大陸軍語)**
+<br/>Nikolai E
+<br/>Orangenschalen
 
 **字庫技術開發**
 <br/>Alex.Xp

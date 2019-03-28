@@ -49,7 +49,7 @@
       </Key>
       <Key ID="str_a3_hint_sensordisplay_desc">
         <Original>Sensor Display (SENS) shows synthesized target and threat information from all the vehicle's sensors from a top-down perspective.%1%2Dashed sectors indicate sensor ranges, flashing sectors indicate threats%1%2%11 Air%1%2%12 Ground%1%2%13 Footmobile%1%2%14 Friendly (same-side)%1%2%15 Ambiguous%1%2%16 Confirmed hostile%1%2%17 Incoming missile%1%2%18 Marked target%1%2%19 Assigned target%1%2%20 Threat sector %1%2%21 %22 Laser and IR strobe %1%2%23 Target with an active Radar </Original>
-        <Chinese>傳感器畫面會顯示出戰場的俯視圖，並透過你載具所有的傳感器捕捉到敵人的資訊並顯示在上面。%1%2虛線的區域代表你傳感器的搜索範圍，閃爍的區域代表著有威脅%1%2%11空中單位%1%2%12地面單位%1%2%13步兵%1%2%14友軍(同陣營)%1%2%15不明單位%1%2%16已確認的敵軍%1%2%17來襲的導彈%1%2%18已標記的目標%1%2%19已指定的目標%1%2%20危險區域%1%2%21%22雷射與紅外線頻閃器%1%2%23已開起雷達的目標</Chinese>
+        <Chinese>傳感器畫面會顯示出戰場的俯視圖，並透過你載具所有的傳感器捕捉到敵人的資訊並顯示在上面。%1%2虛線的區域代表你傳感器的搜索範圍，閃爍的區域代表著有威脅%1%2%11空中單位%1%2%12地面單位%1%2%13步兵%1%2%14友軍(同陣營)%1%2%15不明單位%1%2%16已確認的敵軍%1%2%17來襲的飛彈%1%2%18已標記的目標%1%2%19已指定的目標%1%2%20危險區域%1%2%21%22雷射與紅外線頻閃器%1%2%23已開起雷達的目標</Chinese>
         <Chinesesimp>传感器显示(SENS)会显示出战场的俯视图，并通过载具所有的传感器捕捉到敌人的信息并显示在上面。%1%2虚线的区域代表你传感器的搜索范围，闪烁的区域代表着有威胁%1%2%11空中单位%1%2%12地面单位%1%2%13步兵%1%2%14友军(同阵营)%1%2%15不明单位%1%2%16已确认的敌军%1%2%17来袭的导弹%1%2%18已标记的目标%1%2%19已指定的目标%1%2%20危险区域%1%2%21%22激光与红外线频闪器%1%2%23已开启雷达的目标</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_panels_title">
@@ -69,7 +69,7 @@
       </Key>
       <Key ID="str_a3_hint_loadout_desc">
         <Original>A vehicle can come with different weapon loadouts and ammunition; bombs, rockets, missiles, cannon - all are interchangeable and can be assigned to fit the vehicle's role in any given mission. Check your weapon stores at the beginning of a mission, before engaging the enemy.</Original>
-        <Chinese>一臺載具能有不同的武器與彈藥配置;諸如炸彈，火箭彈，導彈與機砲等等-這些都是可以自行配置，讓武器配置適合當前執行的任務。建議你在與敵人正式交戰前，務必要先檢查自己載具的武器有哪些。</Chinese>
+        <Chinese>一臺載具能有不同的武器與彈藥配置;諸如炸彈，火箭彈，飛彈與機砲等等-這些都是可以自行配置，讓武器配置適合當前執行的任務。建議你在與敵人正式交戰前，務必要先檢查自己載具的武器有哪些。</Chinese>
         <Chinesesimp>一台载具能有不同的武器与弹药配置;诸如炸弹，火箭弹，导弹与机炮等等-这些都是可以自行配置，令武器配置适合当前执行的任务。建议你在与敌人正式交战前，务必要先检查自己载具的武器有哪些。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_ilslanding_title">
@@ -104,8 +104,8 @@
       </Key>
       <Key ID="str_a3_hint_fcs_desc">
         <Original>More advanced weapons have a Fire Control System (FCS). It provides weapon zeroing and automatically calculates lead time for your target.%1%2Aim at your target and press %11 to lase it and log its speed and range.%1%2Keep tracking the target under your crosshair.%1%2Shoot when 'RDY' appears on the screen.%1If the target suddenly changes speed or direction, you need to start over.</Original>
-        <Chinese>有越來越多的先進武器裝有射控系統(FCS)。射控系統能將武器歸零，並自動計算目標前置量。%1%2對準目標並按下%11來測定目標的速度與距離。%1%2以十字準心持續追蹤目標。%1%2當螢幕上顯示“RDY”字樣時就發射。%1如果目標突然改變速度或方向，那就必須重新測定一次。</Chinese>
-        <Chinesesimp>有越来越多的先进武器装有射控系统(FCS)。射控系统能将武器归零，并自动计算目标前置量。%1%2对准目标并按下%11来测定目标的速度与距离。%1%2以十字准心持续追踪目标。%1%2当荧幕上显示“RDY”字样时就发射。%1如果目标突然改变速度或方向，那就必须重新测定一次。</Chinesesimp>
+        <Chinese>有越來越多的先進武器裝有射控系統(FCS)。射控系統能將武器歸零，並自動計算目標前置量。%1%2對準目標並按下%11來測定目標的速度與距離。%1%2以十字準心持續追蹤目標。%1%2當螢幕上顯示"RDY"字樣時就發射。%1如果目標突然改變速度或方向，那就必須重新測定一次。</Chinese>
+        <Chinesesimp>有越来越多的先进武器装有射控系统(FCS)。射控系统能将武器归零，并自动计算目标前置量。%1%2对准目标并按下%11来测定目标的速度与距离。%1%2以十字准心持续追踪目标。%1%2当荧幕上显示"RDY"字样时就发射。%1如果目标突然改变速度或方向，那就必须重新测定一次。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_datalink_title">
         <Original>Datalink</Original>
@@ -140,7 +140,7 @@
       <Key ID="str_a3_hint_carrierlanding_desc">
         <Original>Landing on the short deck of a ship is challenging.%1&lt;t&gt;&lt;/t&gt;1. Follow the standard landing approach.%1&lt;t&gt;&lt;/t&gt;2. Deploy %3Tailhook%4 via action menu.%1&lt;t&gt;&lt;/t&gt;3. ILS may help you maintain the needed precision and stability.%1&lt;t&gt;&lt;/t&gt;4. Line up the aircraft behind the ship at about 10 degrees right of the ships line.%1&lt;t&gt;&lt;/t&gt;5. Aim for the field of three wires which is located about 20 percent of the way down the length of the landing deck.%1&lt;t&gt;&lt;/t&gt;6. Be ready to go full throttle if you miss the wires. Go around and try again.</Original>
         <Chinese>降落在航空母艦上是一項艱鉅的任務。%1&lt;t&gt;&lt;/t&gt;1。遵行標準的進場程序。%1&lt;t&gt;&lt;/t&gt;2。使用動作選單放下%3尾鉤%4。%1&lt;t&gt;&lt;/t&gt;3。儀器降落系統(ILS)或許能幫你保持一定的精準度與穩定性。%1&lt;t&gt;&lt;/t&gt;4。對準跑道，跑道與船的中心線有10度左右的夾角。%1&lt;t&gt;&lt;/t&gt;5。瞄準甲板上的鉤鎖，他們在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6。請準備好你的油門，當你錯失鉤鎖後必須馬上推到最大馬力。重飛並再次執行降落程序。</Chinese>
-        <Chinesesimp>降落在航空母舰上是一项艰巨的任务。%1&lt;t&gt;&lt;/t&gt;1。遵行标准的进场程序。%1&lt;t&gt;&lt;/t&gt;2。使用动作选单放下%3尾钩%4。%1&lt;t&gt;&lt;/t&gt;3。仪器降落系统(ILS)或许能帮你保持一定的精准度与稳定性。%1&lt;t&gt;&lt;/t&gt;4。对准跑道，跑道与船的中心线有10度左右的夹角。%1&lt;t&gt;&lt;/t&gt;5。瞄准甲板上的钩锁，它们在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6。请准备好你的油门，当你错失钩锁后必须立刻推到最大马力。重飞并再次执行降落程序。</Chinesesimp>
+        <Chinesesimp>降落在航空母舰上是一项艰巨的任务。%1&lt;t&gt;&lt;/t&gt;1。遵行标准的进场程序。%1&lt;t&gt;&lt;/t&gt;2。使用动作选单放下%3尾钩%4。%1&lt;t&gt;&lt;/t&gt;3。仪器降落系统(ILS)或许能帮你保持一定的精准度与稳定性。%1&lt;t&gt;&lt;/t&gt;4。对准跑道，跑道与船的中心线有10度左右的夹角。%1&lt;t&gt;&lt;/t&gt;5。瞄准甲板上的钩锁，它们在跑道前百分之20左右的地方。%1&lt;t&gt;&lt;/t&gt;6。请准备好你的油门，当你错失钩锁后必须立刻推到最大推力。重飞并再次执行降落程序。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_bombs_title">
         <Original>Bombs</Original>
@@ -155,7 +155,7 @@
       <Key ID="str_a3_hint_bombs_desc">
         <Original>A bomb is an airdropped explosive munition. After releasing, it follows a ballistic path. Where the bomb will land, if released at the given moment, is shown by a continuously-computed impact point (CCIP) in your HUD - a small crosshair or circle with a dot.%1%1Guided bombs can make corrections to this path to achieve better precision or to strike a moving target. At certain altitude a laser guided bomb (LGB) will automatically home in on the nearest laser spot (marked by your own targeting camera or friendly JTAC).%1 1. Press %11 to mark a lased spot.%1 2. Maneuver to bring the CCIP and marked laser together.%1 3. Release the bomb once the icons overlap or are reasonably close together.</Original>
         <Chinese>投擲炸彈前，您的HUD會顯示連續計算彈著點(CCIP)--一個小型的十字準心或一圓圈顯示當前炸彈的預期落點。當炸彈投出後便隨著拋物線下落直到顯示的落點上。%1%1導引型炸彈可以調整彈道路線，提升精準度、或是攻擊移動中的目標。到達適當高度後，雷射導引炸彈(LGB)會自動瞄準最近雷射標定地點，雷射標定可以由您的瞄準吊艙、或是友方的聯合終端攻擊管制員(JTAC)完成。%1 1.按下%11來雷射標定一個地點。%1 2.移動飛機使CCIP的十準心和標定點重疊。%1 3.待兩者重疊、或足夠接近時投出炸彈。</Chinese>
-        <Chinesesimp>投掷炸弹前，您的HUD会显示连续计算弹着点(CCIP)--一个小型的十字准心或一圆圈显示当前炸弹的预期落点。当炸弹投出后便随着抛物线下落直到显示的落点上。%1%1导引型炸弹可以调整弹道路线，提升精准度、或是攻击移动中的目标。到达适当高度后，雷射导引炸弹(LGB)会自动瞄准最近雷射标定地点，雷射标定可以由您的瞄准吊舱、或是友方的联合终端攻击管制员(JTAC)完成。%1 1.按下%11来雷射标定一个地点。%1 2.移动飞机使CCIP的十准心和标定点重叠。%1 3.待两者重叠、或足够接近时投出炸弹。</Chinesesimp>
+        <Chinesesimp>投掷炸弹前，您的HUD会显示连续计算弹着点(CCIP)--一个小型的十字准心或一圆圈显示当前炸弹的预期落点。当炸弹投出后便随着抛物线下落直到显示的落点上。%1%1制导型炸弹可以调整弹道路线，提升精准度、或是攻击移动中的目标。到达适当高度后，激光制导炸弹(LGB)会自动瞄准最近激光标定地点，激光标定可以由您的瞄准吊舱、或是友方的联合终端攻击管制员(JTAC)完成。%1 1.按下%11来雷射标定一个地点。%1 2.移动飞机使CCIP的十准心和标定点重叠。%1 3.待两者重叠、或足够接近时投出炸弹。</Chinesesimp>
       </Key>
       <Key ID="str_a3_hint_airplanedamage_title">
         <Original>Extended Airplane Hitpoints</Original>
@@ -176,19 +176,19 @@
     <Container name="Author">
       <Key ID="STR_A3_author_B01">
         <Original>Bravo Zero One Studios</Original>
-        <Chinese>BravoZeroOne工作室</Chinese>
-        <Chinesesimp>BravoZeroOne工作室</Chinesesimp>
+        <Chinese>Bravo Zero One工作室</Chinese>
+        <Chinesesimp>Bravo Zero One工作室</Chinesesimp>
       </Key>
     </Container>
     <Container name="Weapon_Names">
       <Key ID="STR_A3_Rim116_weapon_name">
         <Original>RIM 116 Spartan</Original>
-        <Chinese>RIM116"斯巴達"防空導彈</Chinese>
+        <Chinese>RIM116"斯巴達"防空飛彈</Chinese>
         <Chinesesimp>RIM116"斯巴达"舰空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Rim162_weapon_name">
         <Original>RIM 162 Centurion</Original>
-        <Chinese>RIM162"百夫長"防空導彈</Chinese>
+        <Chinese>RIM162"百夫長"防空飛彈</Chinese>
         <Chinesesimp>RIM162"百夫长"舰空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Bomb_GBU_12_weapon_name">
@@ -203,37 +203,37 @@
       </Key>
       <Key ID="STR_A3_Phalanx_weapon_name">
         <Original>Minigun 20 mm</Original>
-        <Chinese>20mm迷你砲機槍</Chinese>
-        <Chinesesimp>20毫米“米尼岗”机枪</Chinesesimp>
+        <Chinese>20公厘"米尼岡"機槍</Chinese>
+        <Chinesesimp>20毫米"米尼岗"机枪</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_weapon_name">
         <Original>M61 Minigun 20 mm</Original>
-        <Chinese>20mmM61迷你砲機槍</Chinese>
-        <Chinesesimp>20毫米M61“米尼岗”机枪</Chinesesimp>
+        <Chinese>20公厘M61"米尼岡"機槍</Chinese>
+        <Chinesesimp>20毫米M61"米尼岗"机枪</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_9x_weapon_name">
         <Original>BIM 9x</Original>
-        <Chinese>BIM9X空對空導彈</Chinese>
+        <Chinese>BIM9X空對空飛彈</Chinese>
         <Chinesesimp>BIM9X空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_ASRAAM_weapon_name">
         <Original>ASRAAM</Original>
-        <Chinese>先進短程空對空導彈</Chinese>
+        <Chinese>先進短程空對空飛彈</Chinese>
         <Chinesesimp>先进近程空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_30mm_weapon_name">
         <Original>Gsh Cannon 30mm</Original>
-        <Chinese>30mmGsh機砲</Chinese>
+        <Chinese>30公厘Gsh機砲</Chinese>
         <Chinesesimp>30毫米Gsh机炮</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_weapon_name">
         <Original>AMRAAM</Original>
-        <Chinese>先進中程空對空導彈</Chinese>
+        <Chinese>先進中程空對空飛彈</Chinese>
         <Chinesesimp>先进中程空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_R73_weapon_name">
         <Original>R73 Archer</Original>
-        <Chinese>R73"箭手"空對空導彈</Chinese>
+        <Chinese>R73"箭手"空對空飛彈</Chinese>
         <Chinesesimp>R73"射手"空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_empty_weapon_name">
@@ -243,29 +243,29 @@
       </Key>
       <Key ID="STR_A3_Missile_AGM_65_weapon_name">
         <Original>Macer II</Original>
-        <Chinese>"梅瑟"2型空地導彈</Chinese>
+        <Chinese>"梅瑟"2型空地飛彈</Chinese>
         <Chinesesimp>"梅瑟"2型空对地导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_R77_weapon_name">
         <Original>R77 Adder</Original>
-        <Chinese>R77"?蛇"空對空導彈</Chinese>
+        <Chinese>R77"蝰蛇"空對空飛彈</Chinese>
         <Chinesesimp>R77"蝰蛇"空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AGM_KH25_weapon_name">
         <Original>KH25 Kedge</Original>
-        <Chinese>KH25"凱基"空地導彈</Chinese>
+        <Chinese>KH25"凱基"空地飛彈</Chinese>
         <Chinesesimp>KH25"小锚"空地导弹</Chinesesimp>
       </Key>
     </Container>
     <Container name="Magazine_Names">
       <Key ID="STR_A3_Rim116_x21_magazine_name">
         <Original>Spartan AA</Original>
-        <Chinese>"斯巴達"防空導彈</Chinese>
+        <Chinese>"斯巴達"防空飛彈</Chinese>
         <Chinesesimp>"斯巴达"防空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Rim116_x21_magazine_shortName">
         <Original>SAM SR</Original>
-        <Chinese>近程防空導彈</Chinese>
+        <Chinese>近程防空飛彈</Chinese>
         <Chinesesimp>近程防空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Bomb_GBU_12_magazine_description">
@@ -275,12 +275,12 @@
       </Key>
       <Key ID="STR_A3_Rim162_x8_magazine_name">
         <Original>Centurion AA</Original>
-        <Chinese>"百夫長"防空導彈</Chinese>
+        <Chinese>"百夫長"防空飛彈</Chinese>
         <Chinesesimp>"百夫长"防空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Rim162_x8_magazine_shortName">
         <Original>SAM MR</Original>
-        <Chinese>中程防空導彈</Chinese>
+        <Chinese>中程防空飛彈</Chinese>
         <Chinesesimp>中程防空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Bomb_GBU_12_magazine_shortName">
@@ -325,8 +325,8 @@
       </Key>
       <Key ID="STR_A3_Phalanx_x1550_magazine_shortName">
         <Original>****TO TRANSLATE****</Original>
-        <Chinese>****TOTRANSLATE****</Chinese>
-        <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Bomb_KAB_250_x1_magazine_name">
         <Original>KAB 250 LGB x1</Original>
@@ -345,52 +345,52 @@
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_magazine_shortName">
         <Original>****TO TRANSLATE****</Original>
-        <Chinese>****TOTRANSLATE****</Chinese>
-        <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_9x_x1_magazine_name">
         <Original>BIM 9X AA x1</Original>
-        <Chinese>BIM9X空對空導彈x1</Chinese>
+        <Chinese>BIM9X空對空飛彈x1</Chinese>
         <Chinesesimp>BIM9X空空导弹x1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_9x_x2_magazine_name">
         <Original>BIM 9X AA x2</Original>
-        <Chinese>BIM9X空對空導彈x2</Chinese>
+        <Chinese>BIM9X空對空飛彈x2</Chinese>
         <Chinesesimp>BIM9X空空导弹x2</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_x150_magazine_description">
         <Original>20mm high-explosive ammunition</Original>
-        <Chinese>20mm高爆彈藥</Chinese>
+        <Chinese>20公厘高爆彈藥</Chinese>
         <Chinesesimp>20毫米高爆弹药</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_x150_magazine_name">
         <Original>M61 20mm 150 rnd</Original>
-        <Chinese>20mmM61機砲150發</Chinese>
+        <Chinese>20公厘M61機砲150發</Chinese>
         <Chinesesimp>20毫米M61机炮150发</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_ASRAAM_x1_magazine_name">
         <Original>ASRAAM AA x1</Original>
-        <Chinese>先進短程空對空導彈x1</Chinese>
+        <Chinese>先進短程空對空飛彈x1</Chinese>
         <Chinesesimp>先进近程空空导弹x1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_ASRAAM_x2_magazine_name">
         <Original>ASRAAM AA x2</Original>
-        <Chinese>先進短程空對空導彈x2</Chinese>
+        <Chinese>先進短程空對空飛彈x2</Chinese>
         <Chinesesimp>先进近程空空导弹x2</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_9x_magazine_shortName">
         <Original>AA SR</Original>
-        <Chinese>短程空對空導彈</Chinese>
+        <Chinese>短程空對空飛彈</Chinese>
         <Chinesesimp>近程空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_x450_magazine_description">
         <Original>20mm high-explosive ammunition</Original>
-        <Chinese>20mm高爆彈藥</Chinese>
+        <Chinese>20公厘高爆彈藥</Chinese>
         <Chinesesimp>20毫米高爆弹药</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_ASRAAM_magazine_shortName">
         <Original>AA SR</Original>
-        <Chinese>短程空對空導彈</Chinese>
+        <Chinese>短程空對空飛彈</Chinese>
         <Chinesesimp>近程空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_9x_magazine_description">
@@ -405,52 +405,52 @@
       </Key>
       <Key ID="STR_A3_Gun_Fighter_20mm_x450_magazine_name">
         <Original>M61 20mm 450 rnd</Original>
-        <Chinese>20mmM61機砲450發</Chinese>
+        <Chinese>20公厘M61機砲450發</Chinese>
         <Chinesesimp>20毫米M61机炮450发</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_C_x1_magazine_name">
         <Original>AMRAAM C AA x1</Original>
-        <Chinese>先進中程空對空導彈C型x1</Chinese>
+        <Chinese>先進中程空對空飛彈C型x1</Chinese>
         <Chinesesimp>先进中程空空导弹C型x1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_C_x2_magazine_name">
         <Original>AMRAAM C AA x2</Original>
-        <Chinese>先進中程空對空導彈C型x2</Chinese>
+        <Chinese>先進中程空對空飛彈C型x2</Chinese>
         <Chinesesimp>先进中程空空导弹C型x2</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_30mm_magazine_shortName">
         <Original>****TO TRANSLATE****</Original>
-        <Chinese>****TOTRANSLATE****</Chinese>
-        <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_30mm_x180_magazine_description">
         <Original>30mm high-explosive ammunition</Original>
-        <Chinese>Gsh 30mmGsh高爆彈藥</Chinese>
+        <Chinese>30公厘Gsh高爆彈藥</Chinese>
         <Chinesesimp>30毫米Gsh高爆弹药</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_D_x1_magazine_name">
         <Original>AMRAAM D AA x1</Original>
-        <Chinese>先進中程空對空導彈D型x1</Chinese>
+        <Chinese>先進中程空對空飛彈D型x1</Chinese>
         <Chinesesimp>先进中程空空导弹D型x1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_D_x2_magazine_name">
         <Original>AMRAAM D AA x2</Original>
-        <Chinese>先進中程空對空導彈D型x2</Chinese>
+        <Chinese>先進中程空對空飛彈D型x2</Chinese>
         <Chinesesimp>先进中程空空导弹D型x2</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_C_magazine_shortName">
         <Original>AA MR</Original>
-        <Chinese>中程空對空導彈</Chinese>
+        <Chinese>中程空對空飛彈</Chinese>
         <Chinesesimp>中程空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Gun_Fighter_30mm_x180_magazine_name">
         <Original>Gsh 30mm 180 rnd</Original>
-        <Chinese>30mmGsh機砲180發</Chinese>
+        <Chinese>30公厘Gsh機砲180發</Chinese>
         <Chinesesimp>30毫米Gsh机炮180发</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_D_magazine_shortName">
         <Original>AA MR</Original>
-        <Chinese>中程空對空導彈</Chinese>
+        <Chinese>中程空對空飛彈</Chinese>
         <Chinesesimp>中程空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AMRAAM_C_magazine_description">
@@ -475,17 +475,17 @@
       </Key>
       <Key ID="STR_A3_Missile_empty_magazine_shortName">
         <Original>****TO TRANSLATE****</Original>
-        <Chinese>****TOTRANSLATE****</Chinese>
-        <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_R73_magazine_shortName">
         <Original>AA SR</Original>
-        <Chinese>短程空對空導彈</Chinese>
+        <Chinese>短程空對空飛彈</Chinese>
         <Chinesesimp>近程空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_R73_x1_magazine_name">
         <Original>R73 SR AA x1</Original>
-        <Chinese>R73短程空對空導彈x1</Chinese>
+        <Chinese>R73短程空對空飛彈x1</Chinese>
         <Chinesesimp>R73近程空空导弹x1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_empty_magazine_description">
@@ -495,7 +495,7 @@
       </Key>
       <Key ID="STR_A3_Missile_AA_R73_x2_magazine_name">
         <Original>R73 SR AA x2</Original>
-        <Chinese>R73短程空對空導彈x2</Chinese>
+        <Chinese>R73短程空對空飛彈x2</Chinese>
         <Chinesesimp>R73近程空空导弹x2</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_R77_magazine_description">
@@ -505,32 +505,32 @@
       </Key>
       <Key ID="STR_A3_Missile_AGM_65_x1_magazine_name">
         <Original>Macer II AGM x1</Original>
-        <Chinese>"梅瑟"2型空地導彈x1</Chinese>
+        <Chinese>"梅瑟"2型空地飛彈x1</Chinese>
         <Chinesesimp>"梅瑟"2型空地导弹x1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AGM_65_x2_magazine_name">
         <Original>Macer II AGM x2</Original>
-        <Chinese>"梅瑟"2型空地導彈x2</Chinese>
+        <Chinese>"梅瑟"2型空地飛彈x2</Chinese>
         <Chinesesimp>"梅瑟"2型空地导弹x2</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_R77_magazine_shortName">
         <Original>AA MR</Original>
-        <Chinese>中程空對空導彈</Chinese>
+        <Chinese>中程空對空飛彈</Chinese>
         <Chinesesimp>中程空空导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_R77_x1_magazine_name">
         <Original>R77 MR AA x1</Original>
-        <Chinese>R77中程空對空導彈x1</Chinese>
+        <Chinese>R77中程空對空飛彈x1</Chinese>
         <Chinesesimp>R77中程空空导弹x1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AGM_65_magazine_shortName">
         <Original>AG</Original>
-        <Chinese>空地導彈</Chinese>
+        <Chinese>空地飛彈</Chinese>
         <Chinesesimp>空地导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AA_R77_x2_magazine_name">
         <Original>R77 MR AA x2</Original>
-        <Chinese>R77中程空對空導彈x2</Chinese>
+        <Chinese>R77中程空對空飛彈x2</Chinese>
         <Chinesesimp>R77中程空空导弹x2</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AGM_65_magazine_description">
@@ -545,17 +545,17 @@
       </Key>
       <Key ID="STR_A3_Missile_AGM_KH25_magazine_shortName">
         <Original>AG</Original>
-        <Chinese>空地導彈</Chinese>
+        <Chinese>空地飛彈</Chinese>
         <Chinesesimp>空地导弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AGM_KH25_x1_magazine_name">
         <Original>KH25 AGM x1</Original>
-        <Chinese>KH25空地導彈x1</Chinese>
+        <Chinese>KH25空地飛彈x1</Chinese>
         <Chinesesimp>KH25空地导弹x1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_AGM_KH25_x2_magazine_name">
         <Original>KH25 AGM x2</Original>
-        <Chinese>KH25空地導彈x2</Chinese>
+        <Chinese>KH25空地飛彈x2</Chinese>
         <Chinesesimp>KH25空地导弹x2</Chinesesimp>
       </Key>
     </Container>
@@ -567,28 +567,28 @@
       </Key>
       <Key ID="STR_A3_Mk21_description">
         <Original>The Centurion surface to air missile system was designed to protect NATO naval vessels from any possible aerial threats in medium to long range. Armed with radar-guided medium-range anti-air missiles. This asset is normally deployed in tandem with Spartan surface to air missile system to deny air superiority to the enemy. </Original>
-        <Chinese>"百夫長"防空導彈武器系統是北約設計來守護水面艦艇中長程的防空區域。它裝有中程雷達導引飛彈。此裝備常配合著"斯巴達"防空導彈武器系統一同對敵進行防空壓制。</Chinese>
+        <Chinese>"百夫長"防空飛彈武器系統是北約設計來守護水面艦艇中長程的防空區域。它裝有中程雷達導引飛彈。此裝備常配合著"斯巴達"防空飛彈武器系統一同對敵進行防空壓制。</Chinese>
         <Chinesesimp>"百夫长"防空导弹武器系统是北约设计用来在中远距离上保护水面舰艇的防空导弹系统。它装有中程雷达制导防空导弹。此装备常配合着"斯巴达"防空导弹系统一起对敌实施空优阻断。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Mk21_name">
         <Original>Mk21 Centurion</Original>
-        <Chinese>Mk21"百夫長"防空導彈近迫系統</Chinese>
+        <Chinese>Mk21"百夫長"防空飛彈近迫系統</Chinese>
         <Chinesesimp>Mk21"百夫长"防空导弹近防系统</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Mk49_name">
         <Original>Mk49 Spartan</Original>
-        <Chinese>Mk49"斯巴達"防空導彈近迫系統</Chinese>
+        <Chinese>Mk49"斯巴達"防空飛彈近迫系統</Chinese>
         <Chinesesimp>Mk49"斯巴达"防空导弹近防系统</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Mk49_description">
         <Original>The Spartan surface to air missile system was designed to protect NATO naval vessels from any possible aerial threats in close range. Armed with infra-red guided short-range anti-air missiles. This asset is normally deployed in tandem with Centurion surface to air missile system to deny air superiority to the enemy.</Original>
-        <Chinese>"斯巴達"防空導彈武器系統是北約設計來守護水面艦艇近距的防空區域。它裝備著近距紅外線導引飛彈。此裝備常配合著"百夫長"防空導彈武器系統一同對敵進行防空壓制。</Chinese>
+        <Chinese>"斯巴達"防空飛彈武器系統是北約設計來守護水面艦艇近距的防空區域。它裝備著近距紅外線導引飛彈。此裝備常配合著"百夫長"防空飛彈武器系統一同對敵進行防空壓制。</Chinese>
         <Chinesesimp>"斯巴达"防空导弹武器系统是北约设计用来在近距离上保护水面舰艇免遭空中威胁的系统。它装备着近程红外制导导弹。此装备常配合着"百夫长"防空导弹武器系统一同对敌实施空优阻断。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Phalanx_description">
         <Original>The Praetorian anti-aircraft-artillery system was designed to protect NATO naval vessels from any possible aerial threats in close range. Armed with 20mm Minigun rounds, it’s a threat to respect for any opponent.</Original>
         <Chinese>"禁衛軍"方陣快砲是北約設計的一種對空高射炮，用來保護水面艦艇免受任何近距的空中威脅。它裝備著20mm迷你砲機槍，這使它能有效打擊任何靠近的敵空中武力。</Chinese>
-        <Chinesesimp>"禁卫军"近防系统是北约设计的一种对空高射炮，用来保护水面舰艇免受任何近程的空中威胁。它装备着20毫米“米尼岗”机枪，这使它能有效打击任何靠近的敌空中武器。</Chinesesimp>
+        <Chinesesimp>"禁卫军"近防系统是北约设计的一种对空高射炮，用来保护水面舰艇免受任何近程的空中威胁。它装备着20毫米"米尼岗"机枪，这使它能有效打击任何靠近的敌空中武器。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Turret_position_Names">
@@ -874,7 +874,7 @@
       <Key ID="STR_A3_Fighter_04_armory_description">
         <Original>The A-149 Gryphon is a fourth-generation, single-seat, single-engine, and all-weather tactical fighter aircraft. The aircraft was designed as a multirole platform at affordable costs. This aircraft, despite its aging platform, has still been upgraded with the newest sensors and weapons systems.</Original>
         <Chinese>A-149"獅鷲"戰鬥機是一臺第四代，單座，單引擎，全天候的一臺戰術戰鬥機。該機的主要設計目標為便宜的多功能戰機。雖然這款飛機的平臺較為老舊，但他仍配備著新式的傳感器與武器系統。</Chinese>
-        <Chinesesimp>A-149"狮鹫"战斗机是一种第四代单座单引发全天候战术战斗攻击机。该机的设计定位为廉价的多功能战机。虽然这款飞机的平台较为老旧，但它仍配备着新式的传感器与武器系统。</Chinesesimp>
+        <Chinesesimp>A-149"狮鹫"战斗攻击机是一种第四代单座单引发全天候战术战斗攻击机。该机的设计定位为廉价的多功能战机。虽然这款飞机的平台较为老旧，但它仍配备着新式的传感器与武器系统。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Fighter_04_pilot_displayName">
         <Original>Pilot</Original>
@@ -885,8 +885,8 @@
     <Container name="Carrier_01">
       <Key ID="STR_A3_B_Carrier_01_base_name">
         <Original>Aircraft Carrier [USS Freedom]</Original>
-        <Chinese>航空母艦[美國海軍自由號]</Chinese>
-        <Chinesesimp>航空母舰[美国海军“自由”号]</Chinesesimp>
+        <Chinese>航空母艦[美國海軍"自由"號]</Chinese>
+        <Chinesesimp>航空母舰[美国海军"自由"号]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_B_Carrier_01_hull_01_name">
         <Original>Aircraft carrier [part 1]</Original>
@@ -1046,17 +1046,17 @@
       </Key>
       <Key ID="STR_A3_dlc_popup_jets">
         <Original>You are using premium content. Purchase Arma 3 Jets to remove the message.</Original>
-        <Chinese>你正在使用付費內容。請購買ArmA3戰機資料片來移除本訊息。</Chinese>
+        <Chinese>你正在使用付費內容。請購買武裝突襲3戰機資料片來移除本訊息。</Chinese>
         <Chinesesimp>你正在使用付费内容。请购买武装突袭3战机资料片来移除本信息。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_DLC_PREMIUM_ITEM_NOTIFICATION_JETS_TEXT">
         <Original>This content is part of the non-owned Jets DLC. Please purchase it to use it.</Original>
-        <Chinese>此內容屬於尚未購買的ArmA3戰機資料片。請先購買後才能使用這個內容。</Chinese>
+        <Chinese>此內容屬於尚未購買的武裝突襲3戰機資料片。請先購買後才能使用這個內容。</Chinese>
         <Chinesesimp>此内容属于尚未购买的武装突袭3战机资料片。请先购买后才能使用这个内容。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_WEAPONPREVMSG_JETS">
         <Original>This content is part of the non-owned Jets DLC. Please purchase it to use this weapon.</Original>
-        <Chinese>此內容屬於尚未購買的ArmA3戰機資料片。請先購買後才能使用這個武器。</Chinese>
+        <Chinese>此內容屬於尚未購買的武裝突襲3戰機資料片。請先購買後才能使用這個武器。</Chinese>
         <Chinesesimp>此内容属于尚未购买的武装突袭3战机资料片。请先购买后才能使用这个武器。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_features_dlcjetscarrier1">
@@ -1066,7 +1066,7 @@
       </Key>
       <Key ID="STR_A3_DLC_SCENARIO_NOTIFICATION_JETS">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Jets DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
-        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於ArmA3戰機資料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟頁面獲得更多訊息。&lt;t/&gt;</Chinese>
+        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於武裝突襲3戰機資料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟頁面獲得更多訊息。&lt;t/&gt;</Chinese>
         <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3战机资料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启页面获得更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_features_dlcjetscarrier0">
@@ -1106,7 +1106,7 @@
       </Key>
       <Key ID="str_a3_cfgmods_jets_assets_dlcjetsindependentfighterjet1">
         <Original>An advanced fourth generation AAF fighter jet.</Original>
-        <Chinese>Altis政府軍的一臺先進型第四代戰鬥機。</Chinese>
+        <Chinese>阿爾蒂斯武裝力量的一臺先進型第四代戰鬥機。</Chinese>
         <Chinesesimp>阿尔蒂斯武装力量的一种先进型第四代战斗攻击机。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_jets_assets_dlcjetsbluforucav1">
@@ -1121,22 +1121,22 @@
       </Key>
       <Key ID="STR_A3_CfgMods_Jets0">
         <Original>Arma 3 Jets DLC now available. Click to purchase</Original>
-        <Chinese>ArmA3戰機資料片已正式上市。點擊這裡來購買</Chinese>
+        <Chinese>武裝突襲3戰機資料片已正式上市。點擊這裡來購買</Chinese>
         <Chinesesimp>武装突袭3战机资料片已正式上市。点击这里来购买</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets1">
         <Original>Arma 3 Jets</Original>
-        <Chinese>ArmA3戰機</Chinese>
+        <Chinese>武裝突襲3戰機</Chinese>
         <Chinesesimp>武装突袭3战机</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets2">
         <Original>Fly the brand-new F/A-181 Black Wasp II, To-201 Shikra, A-149 Gryphon fighter aircraft, and master Air-to-Air combat. Learn to fly fast and agile air superiority fighters to dominate the skies over the battlefield and provide air support in the Arma 3 Jets DLC.</Original>
-        <Chinese>來試飛全新的F/A-181"黑蜂"2型戰鬥攻擊機，To-201"褐耳鷹"戰鬥機，A-149"獅鷲"戰鬥機等戰鬥機，體驗全新的空中戰鬥系統。透過ArmA3戰機資料片，你將學習如何駕馭這些快速且靈敏的飛機，進而讓你稱霸空中並提供地面部隊強大的支援。</Chinese>
+        <Chinese>來試飛全新的F/A-181"黑蜂"2型戰鬥攻擊機，To-201"褐耳鷹"戰鬥機，A-149"獅鷲"戰鬥機等戰鬥機，體驗全新的空中戰鬥系統。透過武裝突襲3戰機資料片，你將學習如何駕馭這些快速且靈敏的飛機，進而讓你稱霸空中並提供地面部隊強大的支援。</Chinese>
         <Chinesesimp>来试飞全新的F/A-181"黑蜂"2型战斗攻击机，To-201"褐耳鹰"战斗攻击机，A-149"狮鹫"战斗攻击机等战斗机，体验全新的空中战斗系统。通过武装突袭3战机资料片，你将学习如何驾驭这些快速且灵敏的飞机，进而让你称霸空中并提供地面部队强大的支援。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets3">
         <Original>Arma 3 Jets</Original>
-        <Chinese>ArmA3戰機</Chinese>
+        <Chinese>武裝突襲3戰機</Chinese>
         <Chinesesimp>武装突袭3战机</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMods_Jets4">
@@ -1241,7 +1241,7 @@
       </Key>
       <Key ID="str_a3_land_missle_trolley_02_f0">
         <Original>Missile Trolley</Original>
-        <Chinese>導彈推車</Chinese>
+        <Chinese>飛彈推車</Chinese>
         <Chinesesimp>导弹推车</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_decktractor_01_f0">

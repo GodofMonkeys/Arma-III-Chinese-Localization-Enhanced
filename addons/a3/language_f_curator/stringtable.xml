@@ -20,7 +20,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_wpplace_tip">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_wpplace_displayname">
@@ -35,7 +35,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_remotecontrol_tip">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_remotecontrol_displayname">
@@ -65,7 +65,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_placemines_tip">
           <Original>Anti-Personnel (AP) mines are banned by international laws of war. Use them with caution!</Original>
-          <Chinese>在國際法上是禁止使用反人員地雷的。請小心使用它們!</Chinese>
+          <Chinese>國際法是禁止使用反人員地雷的。請小心使用它們!</Chinese>
           <Chinesesimp>国际法是禁止使用反人员地雷的。请小心使用它们!</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_placemines_displayname">
@@ -95,7 +95,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_openinterface_tip">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_openinterface_displayname">
@@ -110,7 +110,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_map_tip">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_map_displayname">
@@ -125,7 +125,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_interface_tip">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_interface_displayname">
@@ -140,7 +140,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_entityselect_tip">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityselect_displayname">
@@ -155,7 +155,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_entityplace_tip">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityplace_displayname">
@@ -185,7 +185,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_entityeditadvanced_tip">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityeditadvanced_displayname">
@@ -200,7 +200,7 @@
         </Key>
         <Key ID="str_a3_cfghints_curator_entityconnect_tip">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_entityconnect_displayname">
@@ -1147,7 +1147,7 @@
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_missilelauncher">
           <Original>... fire a missile launcher</Original>
-          <Chinese>...使用導彈發射器開火</Chinese>
+          <Chinese>...使用飛彈發射器開火</Chinese>
           <Chinesesimp>...使用导弹发射器开火</Chinesesimp>
         </Key>
         <Key ID="str_a3_bis_fnc_curatorchallengefireweapon_machinegun">
@@ -1348,12 +1348,12 @@
         </Key>
         <Key ID="str_a3_itemtype_missilelauncher">
           <Original>missile launcher</Original>
-          <Chinese>導彈發射器</Chinese>
+          <Chinese>飛彈發射器</Chinese>
           <Chinesesimp>导弹发射器</Chinesesimp>
         </Key>
         <Key ID="str_a3_itemtype_missile">
           <Original>missile</Original>
-          <Chinese>導彈</Chinese>
+          <Chinese>飛彈</Chinese>
           <Chinesesimp>导弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_itemtype_minedirectional">
@@ -2090,68 +2090,68 @@
       </Container>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zsc_m10">
         <Original>Zeus 32+2 Control Edessa</Original>
-        <Chinese>宙斯32+2控制Edessa</Chinese>
-        <Chinesesimp>宙斯32+2控制Edessa</Chinesesimp>
+        <Chinese>宙斯32+2控制埃澤薩</Chinese>
+        <Chinesesimp>宙斯32+2控制埃泽萨</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12_west">
         <Original>Zeus 16+2 Master Stratis (NATO)</Original>
-        <Chinese>宙斯16+2主宰Stratis(北約)</Chinese>
-        <Chinesesimp>宙斯16+2主宰Stratis(北约)</Chinesesimp>
+        <Chinese>宙斯16+2主宰斯特拉蒂斯(北約)</Chinese>
+        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(北约)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12_guer">
         <Original>Zeus 16+2 Master Stratis (AAF)</Original>
-        <Chinese>宙斯16+2主宰Stratis(Altis政府軍)</Chinese>
-        <Chinesesimp>宙斯16+2主宰Stratis(Altis政府军)</Chinesesimp>
+        <Chinese>宙斯16+2主宰斯特拉蒂斯(阿爾蒂斯武裝力量)</Chinese>
+        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(阿尔蒂斯武装力量)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12_east">
         <Original>Zeus 16+2 Master Stratis (CSAT)</Original>
-        <Chinese>宙斯16+2主宰Stratis(廣協同盟)</Chinese>
-        <Chinesesimp>宙斯16+2主宰Stratis(广协同盟)</Chinesesimp>
+        <Chinese>宙斯16+2主宰斯特拉蒂斯(廣協同盟)</Chinese>
+        <Chinesesimp>宙斯16+2主宰斯特拉蒂斯(广协同盟)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m12">
         <Original>Zeus 48+2 Master Stratis</Original>
-        <Chinese>宙斯48+2主宰Stratis</Chinese>
-        <Chinesesimp>宙斯48+2主宰Stratis</Chinesesimp>
+        <Chinese>宙斯48+2主宰斯特拉蒂斯</Chinese>
+        <Chinesesimp>宙斯48+2主宰斯特拉蒂斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11_west">
         <Original>Zeus 16+2 Master Altis (NATO)</Original>
-        <Chinese>宙斯16+2主宰Altis(北約)</Chinese>
-        <Chinesesimp>宙斯16+2主宰Altis(北约)</Chinesesimp>
+        <Chinese>宙斯16+2主宰阿爾蒂斯(北約)</Chinese>
+        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(北约)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11_guer">
         <Original>Zeus 16+2 Master Altis (AAF)</Original>
-        <Chinese>宙斯16+2主宰Altis(Altis政府軍)</Chinese>
-        <Chinesesimp>宙斯16+2主宰Altis(Altis政府军)</Chinesesimp>
+        <Chinese>宙斯16+2主宰阿爾蒂斯(阿爾蒂斯武裝力量)</Chinese>
+        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(阿尔蒂斯武装力量)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11_east">
         <Original>Zeus 16+2 Master Altis (CSAT)</Original>
-        <Chinese>宙斯16+2主宰Altis(廣協同盟)</Chinese>
-        <Chinesesimp>宙斯16+2主宰Altis(广协同盟)</Chinesesimp>
+        <Chinese>宙斯16+2主宰阿爾蒂斯(廣協同盟)</Chinese>
+        <Chinesesimp>宙斯16+2主宰阿尔蒂斯(广协同盟)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m11">
         <Original>Zeus 48+2 Master Altis</Original>
-        <Chinese>宙斯48+2主宰Altis</Chinese>
-        <Chinesesimp>宙斯48+2主宰Altis</Chinesesimp>
+        <Chinese>宙斯48+2主宰阿爾蒂斯</Chinese>
+        <Chinesesimp>宙斯48+2主宰阿尔蒂斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_coop_m07">
         <Original>Zeus 10+1 Seize Feres</Original>
-        <Chinese>宙斯10+1肅清Feres</Chinese>
-        <Chinesesimp>宙斯10+1肃清Feres</Chinesesimp>
+        <Chinese>宙斯10+1肅清費雷斯</Chinese>
+        <Chinesesimp>宙斯10+1肃清费雷斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_coop_m06">
         <Original>Zeus 10+1 Seize Edoris</Original>
-        <Chinese>宙斯10+1肅清Edoris</Chinese>
-        <Chinesesimp>宙斯10+1肃清Edoris</Chinesesimp>
+        <Chinese>宙斯10+1肅清埃佐里斯</Chinese>
+        <Chinesesimp>宙斯10+1肃清埃佐里斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_coop_m05">
         <Original>Zeus 10+1 Defend Syrta</Original>
-        <Chinese>宙斯10+1防禦Syrta</Chinese>
-        <Chinesesimp>宙斯10+1防御Syrta</Chinesesimp>
+        <Chinese>宙斯10+1防禦西爾塔</Chinese>
+        <Chinesesimp>宙斯10+1防御西尔塔</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmissions_mpmissions_mp_coop_m04">
         <Original>Zeus 10+1 Defend Kamino</Original>
-        <Chinese>宙斯10+1防禦Kamino</Chinese>
-        <Chinesesimp>宙斯10+1防御Kamino</Chinesesimp>
+        <Chinese>宙斯10+1防禦卡米諾</Chinese>
+        <Chinesesimp>宙斯10+1防御卡米诺</Chinesesimp>
       </Key>
       <Container name="MPScenarios">
         <Container name="MP_COOP_m04" />
@@ -2162,7 +2162,7 @@
           <Key ID="str_a3_mp_zgm_m11.altis_params_playereditingareasize">
             <Original>Distance in meters from players where Zeus cannot edit</Original>
             <Chinese>距離玩家多少公尺以內的單位，宙斯是不能進行編輯的</Chinese>
-            <Chinesesimp>距离玩家多少公尺以内的单位，宙斯是不能进行编辑的</Chinesesimp>
+            <Chinesesimp>距离玩家多少米以内的单位，宙斯是不能进行编辑的</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_zgm_m11.altis_params_curatorunlock">
             <Original>God mode (Zeus starts with everything unlocked)</Original>
@@ -2181,13 +2181,13 @@
           </Key>
           <Key ID="str_a3_modulemptypegamemaster_onloadname_stratis">
             <Original>Master Stratis</Original>
-            <Chinese>主宰Stratis</Chinese>
-            <Chinesesimp>主宰Stratis</Chinesesimp>
+            <Chinese>主宰斯特拉蒂斯</Chinese>
+            <Chinesesimp>主宰斯特拉蒂斯</Chinesesimp>
           </Key>
           <Key ID="str_a3_modulemptypegamemaster_onloadname_altis">
             <Original>Master Altis</Original>
-            <Chinese>主宰Altis</Chinese>
-            <Chinesesimp>主宰Altis</Chinesesimp>
+            <Chinese>主宰阿爾蒂斯</Chinese>
+            <Chinesesimp>主宰阿尔蒂斯</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_zgm_m11.altis_params_curatormoderatorrights_0">
             <Original>Cannot create objects (editing allowed)</Original>
@@ -2219,8 +2219,8 @@
           </Key>
           <Key ID="str_a3_mp_zsc_m10_onloadname">
             <Original>Edessa</Original>
-            <Chinese>Edessa</Chinese>
-            <Chinesesimp>Edessa</Chinesesimp>
+            <Chinese>埃澤薩</Chinese>
+            <Chinesesimp>埃泽萨</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -2461,8 +2461,8 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_modulemptypesectorcontrol_f_moduledescription_description">
             <Original>Initialize Sector Control game mode.&lt;br /&gt;&lt;br /&gt;Mission will end when the time is up (see estimatedTimeLeft scripting command), tickets of one side are depleted (see 'Respawn Tickets' module or BIS_fnc_respawnTickets function) or when the module is deleted.</Original>
-            <Chinese>初始化控制防禦區遊戲模式。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見“重生次數”模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
-            <Chinesesimp>初始化控制防御区游戏模式。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见estimatedTimeLeft的脚本指令)，或其中一方势力耗尽重生机会(请见“重生次数”模块，或查询BIS_fnc_respawnTickets的功能)后结束。</Chinesesimp>
+            <Chinese>初始化控制防禦區遊戲模式。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見"重生次數"模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
+            <Chinesesimp>初始化控制防御区游戏模式。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见estimatedTimeLeft的脚本指令)，或其中一方势力耗尽重生机会(请见"重生次数"模块，或查询BIS_fnc_respawnTickets的功能)后结束。</Chinesesimp>
           </Key>
           <Key ID="str_a3_modulemptypesectorcontrol">
             <Original>Sector Control</Original>
@@ -2538,8 +2538,8 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_modulemptypegamemaster_f_moduledescription_description">
             <Original>Initialize Game Master game mode. It lets Zeus to insert respawn module for every involved side first and then gives him challenges to complete. No rules are present, it is up to Zeus what he creates.&lt;br /&gt;&lt;br /&gt;Mission ends when the time is up (see estimatedTimeLeft scripting command), tickets of one side are depleted (see 'Respawn Tickets' module or BIS_fnc_respawnTickets function) or when the module is deleted.</Original>
-            <Chinese>初始化遊戲管理員遊戲模式。這會讓宙斯有權先放置各勢力的重生模塊。在本模式中並沒有任何既定的規則，一切都取決於宙斯創造了什麼。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見“重生次數”模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
-            <Chinesesimp>初始化游戏管理员游戏模式。这会让宙斯有权先放置各势力的重生模块。在本模式中并没有任何既定的规则，一切都取决于宙斯创造了什么。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见estimatedTimeLeft的脚本指令)，或其中一方势力耗尽重生机会(请见“重生次数”模块，或查询BIS_fnc_respawnTickets的功能)后结束。</Chinesesimp>
+            <Chinese>初始化遊戲管理員遊戲模式。這會讓宙斯有權先放置各勢力的重生模塊。在本模式中並沒有任何既定的規則，一切都取決於宙斯創造了什麼。&lt;br/&gt;&lt;br/&gt;任務會在時間耗盡(請見estimatedTimeLeft的腳本指令)，或其中一方勢力耗盡重生機會(請見"重生次數"模塊，或查詢BIS_fnc_respawnTickets的功能)後結束。</Chinese>
+            <Chinesesimp>初始化游戏管理员游戏模式。这会让宙斯有权先放置各势力的重生模块。在本模式中并没有任何既定的规则，一切都取决于宙斯创造了什么。&lt;br/&gt;&lt;br/&gt;任务会在时间耗尽(请见estimatedTimeLeft的脚本指令)，或其中一方势力耗尽重生机会(请见"重生次数"模块，或查询BIS_fnc_respawnTickets的功能)后结束。</Chinesesimp>
           </Key>
           <Key ID="str_a3_modulemptypegamemoderator">
             <Original>Game Moderator</Original>
@@ -2578,128 +2578,128 @@
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostz">
           <Original>Camp Zeal</Original>
-          <Chinese>Zeal營地</Chinese>
-          <Chinesesimp>Zeal营地</Chinesesimp>
+          <Chinese>熱情營地</Chinese>
+          <Chinesesimp>热情营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposty">
           <Original>Camp Yearning</Original>
-          <Chinese>Yearning營地</Chinese>
-          <Chinesesimp>Yearning营地</Chinesesimp>
+          <Chinese>懷念營地</Chinese>
+          <Chinesesimp>怀念营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostw">
           <Original>Camp Willpower</Original>
-          <Chinese>Willpower營地</Chinese>
-          <Chinesesimp>Willpower营地</Chinesesimp>
+          <Chinese>意志營地</Chinese>
+          <Chinesesimp>意志营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostv">
           <Original>Camp Valor</Original>
-          <Chinese>Valor營地</Chinese>
-          <Chinesesimp>Valor营地</Chinesesimp>
+          <Chinese>勇氣營地</Chinese>
+          <Chinesesimp>勇气营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostu">
           <Original>Camp Unity</Original>
-          <Chinese>Unity營地</Chinese>
-          <Chinesesimp>Unity营地</Chinesesimp>
+          <Chinese>統一營地</Chinese>
+          <Chinesesimp>统一营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostt">
           <Original>Camp Tenacity</Original>
-          <Chinese>Tenacity營地</Chinese>
-          <Chinesesimp>Tenacity营地</Chinesesimp>
+          <Chinese>韌性營地</Chinese>
+          <Chinesesimp>韧性营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposts">
           <Original>Camp Spirit</Original>
-          <Chinese>Spirit營地</Chinese>
-          <Chinesesimp>Spirit营地</Chinesesimp>
+          <Chinese>精神營地</Chinese>
+          <Chinesesimp>精神营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostr">
           <Original>Camp Resolve</Original>
-          <Chinese>Resolve營地</Chinese>
-          <Chinesesimp>Resolve营地</Chinesesimp>
+          <Chinese>解決營地</Chinese>
+          <Chinesesimp>解决营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostq">
           <Original>Camp Quality</Original>
-          <Chinese>Quality營地</Chinese>
-          <Chinesesimp>Quality营地</Chinesesimp>
+          <Chinese>質量營地</Chinese>
+          <Chinesesimp>质量营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostp">
           <Original>Camp Prowess</Original>
-          <Chinese>Prowess營地</Chinese>
-          <Chinesesimp>Prowess营地</Chinesesimp>
+          <Chinese>實力營地</Chinese>
+          <Chinesesimp>实力营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposto">
           <Original>Camp Omnipotence</Original>
-          <Chinese>Omnipotence營地</Chinese>
-          <Chinesesimp>Omnipotence营地</Chinesesimp>
+          <Chinese>全能營地</Chinese>
+          <Chinesesimp>全能营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostn">
           <Original>Camp Nobility</Original>
-          <Chinese>Nobility營地</Chinese>
-          <Chinesesimp>Nobility营地</Chinesesimp>
+          <Chinese>貴族營地</Chinese>
+          <Chinesesimp>贵族营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostm">
           <Original>Camp Might</Original>
-          <Chinese>Might營地</Chinese>
-          <Chinesesimp>Might营地</Chinesesimp>
+          <Chinese>威力營地</Chinese>
+          <Chinesesimp>威力营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostl">
           <Original>Camp Loyalty</Original>
-          <Chinese>Loyalty營地</Chinese>
-          <Chinesesimp>Loyalty营地</Chinesesimp>
+          <Chinese>忠誠營地</Chinese>
+          <Chinesesimp>忠诚营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostk">
           <Original>Camp Knight</Original>
-          <Chinese>Knight營地</Chinese>
-          <Chinesesimp>Knight营地</Chinesesimp>
+          <Chinese>騎士營地</Chinese>
+          <Chinesesimp>骑士营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostj">
           <Original>Camp Judgement</Original>
-          <Chinese>Judgement營地</Chinese>
-          <Chinesesimp>Judgement营地</Chinesesimp>
+          <Chinese>判斷營地</Chinese>
+          <Chinesesimp>判断营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposti">
           <Original>Camp Independence</Original>
-          <Chinese>Independence營地</Chinese>
-          <Chinesesimp>Independence营地</Chinesesimp>
+          <Chinese>獨立營地</Chinese>
+          <Chinesesimp>独立营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposth">
           <Original>Camp Honor</Original>
-          <Chinese>Honor營地</Chinese>
-          <Chinesesimp>Honor营地</Chinesesimp>
+          <Chinese>榮譽營地</Chinese>
+          <Chinesesimp>荣誉营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostg">
           <Original>Camp Grit</Original>
-          <Chinese>Grit營地</Chinese>
-          <Chinesesimp>Grit营地</Chinesesimp>
+          <Chinese>沙礫營地</Chinese>
+          <Chinesesimp>沙砾营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostf">
           <Original>Camp Fortitude</Original>
-          <Chinese>Fortitude營地</Chinese>
-          <Chinesesimp>Fortitude营地</Chinesesimp>
+          <Chinese>堅毅營地</Chinese>
+          <Chinesesimp>坚毅营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposte">
           <Original>Camp Endurance</Original>
-          <Chinese>Endurance營地</Chinese>
-          <Chinesesimp>Endurance营地</Chinesesimp>
+          <Chinese>耐力營地</Chinese>
+          <Chinesesimp>耐力营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostd">
           <Original>Camp Defiance</Original>
-          <Chinese>Defiance營地</Chinese>
-          <Chinesesimp>Defiance营地</Chinesesimp>
+          <Chinese>蔑視營地</Chinese>
+          <Chinesesimp>蔑视营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostc">
           <Original>Camp Courage</Original>
-          <Chinese>Courage營地</Chinese>
-          <Chinesesimp>Courage营地</Chinesesimp>
+          <Chinese>勇氣營地</Chinese>
+          <Chinesesimp>勇气营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostb">
           <Original>Camp Bravery</Original>
-          <Chinese>Bravery營地</Chinese>
-          <Chinesesimp>Bravery营地</Chinesesimp>
+          <Chinese>勇敢營地</Chinese>
+          <Chinesesimp>勇敢营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposta">
           <Original>Camp Audacity</Original>
-          <Chinese>Audacity營地</Chinese>
-          <Chinesesimp>Audacity营地</Chinesesimp>
+          <Chinese>大膽營地</Chinese>
+          <Chinesesimp>大胆营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts">
           <Original>Outposts</Original>
@@ -2713,118 +2713,118 @@
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campz">
           <Original>Camp Zebra</Original>
-          <Chinese>Zebra營地</Chinese>
-          <Chinesesimp>Zebra营地</Chinesesimp>
+          <Chinese>斑馬營地</Chinese>
+          <Chinesesimp>斑马营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campy">
           <Original>Camp Yak</Original>
-          <Chinese>Yak營地</Chinese>
-          <Chinesesimp>Yak营地</Chinesesimp>
+          <Chinese>氂牛營地</Chinese>
+          <Chinesesimp>牦牛营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campw">
           <Original>Camp Wolf</Original>
-          <Chinese>Wolf營地</Chinese>
-          <Chinesesimp>Wolf营地</Chinesesimp>
+          <Chinese>狼營地</Chinese>
+          <Chinesesimp>狼营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campv">
           <Original>Camp Vulture</Original>
-          <Chinese>Vulture營地</Chinese>
-          <Chinesesimp>Vulture营地</Chinesesimp>
+          <Chinese>禿鷹營地</Chinese>
+          <Chinesesimp>秃鹰营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campt">
           <Original>Camp Tiger</Original>
-          <Chinese>Tiger營地</Chinese>
-          <Chinesesimp>Tiger营地</Chinesesimp>
+          <Chinese>虎營地</Chinese>
+          <Chinesesimp>虎营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_camps">
           <Original>Camp Snake</Original>
-          <Chinese>Snake營地</Chinese>
-          <Chinesesimp>Snake营地</Chinesesimp>
+          <Chinese>蛇營地</Chinese>
+          <Chinesesimp>蛇营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campr">
           <Original>Camp Raccoon</Original>
-          <Chinese>Raccoon營地</Chinese>
-          <Chinesesimp>Raccoon营地</Chinesesimp>
+          <Chinese>狸營地</Chinese>
+          <Chinesesimp>狸营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campp">
           <Original>Camp Puma</Original>
-          <Chinese>Puma營地</Chinese>
-          <Chinesesimp>Puma营地</Chinesesimp>
+          <Chinese>美洲獅營地</Chinese>
+          <Chinesesimp>美洲狮营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campo">
           <Original>Camp Ocelot</Original>
-          <Chinese>Ocelot營地</Chinese>
-          <Chinesesimp>Ocelot营地</Chinesesimp>
+          <Chinese>山貓營地</Chinese>
+          <Chinesesimp>山猫营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campn">
           <Original>Camp Nighthawk</Original>
-          <Chinese>Nighthawk營地</Chinese>
-          <Chinesesimp>Nighthawk营地</Chinesesimp>
+          <Chinese>貓頭鷹營地</Chinese>
+          <Chinesesimp>猫头鹰营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campm">
           <Original>Camp Moose</Original>
-          <Chinese>Moose營地</Chinese>
-          <Chinesesimp>Moose营地</Chinesesimp>
+          <Chinese>駝鹿營地</Chinese>
+          <Chinesesimp>驼鹿营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campl">
           <Original>Camp Lion</Original>
-          <Chinese>Lion營地</Chinese>
-          <Chinesesimp>Lion营地</Chinesesimp>
+          <Chinese>獅子營地</Chinese>
+          <Chinesesimp>狮子营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campk">
           <Original>Camp Kangaroo</Original>
-          <Chinese>Kangaroo營地</Chinese>
-          <Chinesesimp>Kangaroo营地</Chinesesimp>
+          <Chinese>袋鼠營地</Chinese>
+          <Chinesesimp>袋鼠营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campj">
           <Original>Camp Jackal</Original>
-          <Chinese>Jackal營地</Chinese>
-          <Chinesesimp>Jackal营地</Chinesesimp>
+          <Chinese>狐狼營地</Chinese>
+          <Chinesesimp>狐狼营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campi">
           <Original>Camp Iguana</Original>
-          <Chinese>Iguana營地</Chinese>
-          <Chinesesimp>Iguana营地</Chinesesimp>
+          <Chinese>鬣蜥營地</Chinese>
+          <Chinesesimp>鬣蜥营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_camph">
           <Original>Camp Hawk</Original>
-          <Chinese>Hawk營地</Chinese>
-          <Chinesesimp>Hawk营地</Chinesesimp>
+          <Chinese>鷹營地</Chinese>
+          <Chinesesimp>鹰营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campg">
           <Original>Camp Goat</Original>
-          <Chinese>Goat營地</Chinese>
-          <Chinesesimp>Goat营地</Chinesesimp>
+          <Chinese>山羊營地</Chinese>
+          <Chinesesimp>山羊营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campf">
           <Original>Camp Falcon</Original>
-          <Chinese>Falcon營地</Chinese>
-          <Chinesesimp>Falcon营地</Chinesesimp>
+          <Chinese>鶻營地</Chinese>
+          <Chinesesimp>鹘营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campe">
           <Original>Camp Eagle</Original>
-          <Chinese>Eagle營地</Chinese>
-          <Chinesesimp>Eagle营地</Chinesesimp>
+          <Chinese>鷹營地</Chinese>
+          <Chinesesimp>鹰营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campd">
           <Original>Camp Deer</Original>
-          <Chinese>Deer營地</Chinese>
-          <Chinesesimp>Deer营地</Chinesesimp>
+          <Chinese>鹿營地</Chinese>
+          <Chinesesimp>鹿营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campc">
           <Original>Camp Crow</Original>
-          <Chinese>Crow營地</Chinese>
-          <Chinesesimp>Crow营地</Chinesesimp>
+          <Chinese>烏鴉營地</Chinese>
+          <Chinesesimp>乌鸦营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campb">
           <Original>Camp Bear</Original>
-          <Chinese>Bear營地</Chinese>
-          <Chinesesimp>Bear营地</Chinesesimp>
+          <Chinese>熊營地</Chinese>
+          <Chinesesimp>熊营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campa">
           <Original>Camp Ant</Original>
-          <Chinese>Ant營地</Chinese>
-          <Chinesesimp>Ant营地</Chinesesimp>
+          <Chinese>螞蟻營地</Chinese>
+          <Chinesesimp>蚂蚁营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps">
           <Original>Camps</Original>
@@ -2983,7 +2983,7 @@
       </Container>
       <Key ID="STR_A3_cfgmods_curator_name">
         <Original>Arma 3 Zeus</Original>
-        <Chinese>ArmA3宙斯</Chinese>
+        <Chinese>武裝突襲3宙斯</Chinese>
         <Chinesesimp>武装突袭3宙斯</Chinesesimp>
       </Key>
     </Container>
@@ -3048,7 +3048,7 @@
       <Container name="CAS">
         <Key ID="str_a3_cfgvehicles_modulecas_f_moduledescription">
           <Original>Send an air strike on the module position. It will take a few seconds before the plane arrives at the module’s position. Unless it's destroyed, it will be deleted after flying away.</Original>
-          <Chinese>發送空中支援到模塊的位置。空中支援會需要一些時間才會抵達模塊位置。除非飛機被摧毀，要不然他會自行飛走並被刪除。</Chinese>
+          <Chinese>發送空中支援到模塊的位置。空中支援會需要一些時間才會抵達模塊位置。除非飛機被摧毀，要不然它會自行飛走並被刪除。</Chinese>
           <Chinesesimp>发送空中支援到模块的位置。空中支援会需要一些时间才会抵达模块位置。除非飞机被摧毁，要不然它会自行飞走并被删除。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulecas_f_arguments_type_values_missiles">
@@ -3689,17 +3689,17 @@
       <Container name="Ordnance">
         <Key ID="str_a3_cfgvehicles_moduleordnancerocket_f">
           <Original>230 mm Rocket</Original>
-          <Chinese>230mm火箭彈</Chinese>
+          <Chinese>230公厘火箭彈</Chinese>
           <Chinesesimp>230毫米火箭弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleordnancemortar_f">
           <Original>82 mm Mortar</Original>
-          <Chinese>82mm迫擊炮</Chinese>
+          <Chinese>82公厘迫擊炮</Chinese>
           <Chinesesimp>82毫米迫击炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleordnancehowitzer_f">
           <Original>155 mm Howitzer</Original>
-          <Chinese>155mm火炮</Chinese>
+          <Chinese>155公厘火炮</Chinese>
           <Chinesesimp>155毫米火炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_moduleordnance_f_moduledescription">
@@ -4226,8 +4226,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list5">
         <Original>new modules, functions and scripting commands, giving every community modder the ability to build a custom Zeus scenario. Find official documentation at community.bistudio.com/wiki/curator</Original>
-        <Chinese>新模組，函數與腳本指令，給所有的社群玩家可以自行產出屬於自己的宙斯任務。你可以在community。bistudio。com/wiki/curator找到更多資訊</Chinese>
-        <Chinesesimp>新模组，函数与脚本指令，给所有的社区玩家可以自行产出属于自己的宙斯任务。你可以在community。bistudio。com/wiki/curator找到更多资讯</Chinesesimp>
+        <Chinese>新模組，函數與腳本指令，給所有的社群玩家可以自行產出屬於自己的宙斯任務。你可以在community.bistudio.com/wiki/curator找到更多資訊</Chinese>
+        <Chinesesimp>新模组，函数与脚本指令，给所有的社区玩家可以自行产出属于自己的宙斯任务。你可以在community.bistudio.com/wiki/curator找到更多信息</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list4_title">
         <Original>Showcase Zeus</Original>
@@ -4251,8 +4251,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list2_title">
         <Original>Control Edessa</Original>
-        <Chinese>控制Edessa</Chinese>
-        <Chinesesimp>控制Edessa</Chinesesimp>
+        <Chinese>控制埃澤薩</Chinese>
+        <Chinesesimp>控制埃泽萨</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list2">
         <Original>Sector Control where two Zeus face off</Original>
@@ -4261,8 +4261,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list1_title">
         <Original>Master Altis and Master Stratis</Original>
-        <Chinese>主宰Altis和Stratis</Chinese>
-        <Chinesesimp>主宰阿尔蒂斯和Stratis</Chinesesimp>
+        <Chinese>主宰阿爾蒂斯和斯特拉蒂斯</Chinese>
+        <Chinesesimp>主宰阿尔蒂斯和斯特拉蒂斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pare_list1">
         <Original>completely open scenarios, where everything is controlled by Zeus</Original>
@@ -4291,7 +4291,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_pard">
         <Original>Play Arma 3 Zeus across its distinctive 'Game Master' game type scenarios, where nothing has been predetermined. Or visit familiar modes like 'Coop', 'Team Deathmatch', and 'Sector Control' in a completely new way. Zeus multiplayer also works with custom player-created scenarios.</Original>
-        <Chinese>在ArmA3裡擔當宙斯，這可以讓你成為遊戲的主宰，你將可以在完全開放的地圖中自訂所有的任務與狀況。你將可以透過此種模式來重新體驗'合作'，'團隊死鬥'，'控制防禦區'等任務。宙斯模式也可以在玩家自訂任務中啟動。</Chinese>
+        <Chinese>在武裝突襲3裡擔當宙斯，這可以讓你成為遊戲的主宰，你將可以在完全開放的地圖中自訂所有的任務與狀況。你將可以透過此種模式來重新體驗'合作'，'團隊死鬥'，'控制防禦區'等任務。宙斯模式也可以在玩家自訂任務中啟動。</Chinese>
         <Chinesesimp>在武装突袭3里担当宙斯，这可以让你成为游戏的主宰，你将可以在完全开放的地图中自定义所有的任务与状况。你将可以透过此种模式来重新体验‘合作’，‘团队死斗’，‘控制防御区’等任务。宙斯模式也可以在玩家自定义任务中启动。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_curator_parc_title">

@@ -61,8 +61,8 @@
       </Key>
       <Key ID="STR_A3_DynamicGroups3">
         <Original>****TO TRANSLATE****</Original>
-        <Chinese>****TOTRANSLATE****</Chinese>
-        <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MP_GroupMarkers1">
         <Original>Group Markers</Original>
@@ -76,8 +76,8 @@
       </Key>
       <Key ID="STR_A3_MP_GroupMarkers3">
         <Original>****TO TRANSLATE****</Original>
-        <Chinese>****TOTRANSLATE****</Chinese>
-        <Chinesesimp>****TOTRANSLATE****</Chinesesimp>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
       </Key>
       <Key ID="STR_A3_EndGameVA2">
         <Original>You can access the Arsenal from the supply crates at the FOB, allowing you to change your loadout as you wish. Your chosen loadout will be saved, and will be restored upon your respawn.</Original>
@@ -544,7 +544,7 @@
       </Key>
       <Key ID="str_a3_endgame_tasks_description_laptop">
         <Original>Raid the AAF outpost and retrieve any intel you find.</Original>
-        <Chinese>突襲AAF的前哨，取回任何你找到的情報。</Chinese>
+        <Chinese>突襲阿爾蒂斯武裝力量的前哨，取回任何你找到的情報。</Chinese>
         <Chinesesimp>突袭阿尔蒂斯武装力量的前哨，取回任何你找到的情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_tasks_description_fob">
@@ -619,8 +619,8 @@
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_two">
         <Original>Two</Original>
-        <Chinese>二</Chinese>
-        <Chinesesimp>二</Chinesesimp>
+        <Chinese>2</Chinese>
+        <Chinesesimp>2</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_title_threshold">
         <Original>End Game Threshold</Original>
@@ -634,8 +634,8 @@
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_three">
         <Original>Three</Original>
-        <Chinese>三</Chinese>
-        <Chinesesimp>三</Chinesesimp>
+        <Chinese>3</Chinese>
+        <Chinesesimp>3</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_one">
         <Original>One</Original>
@@ -644,13 +644,13 @@
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_four">
         <Original>Four</Original>
-        <Chinese>四</Chinese>
-        <Chinesesimp>四</Chinesesimp>
+        <Chinese>4</Chinese>
+        <Chinesesimp>4</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_five">
         <Original>Five</Original>
-        <Chinese>五</Chinese>
-        <Chinesesimp>五</Chinesesimp>
+        <Chinese>5</Chinese>
+        <Chinesesimp>5</Chinesesimp>
       </Key>
       <Key ID="str_a3_endgame_modulehvtobjectivesinstance_description_threshold">
         <Original>The End Game Threshold defines how many objectives a side must complete for the End Game to start</Original>

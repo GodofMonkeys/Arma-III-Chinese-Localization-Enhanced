@@ -16,7 +16,7 @@
     <Container name="FieldManual">
       <Key ID="str_a3_types1">
         <Original>There are three basic types of UAVs.&lt;br/&gt;&lt;br/&gt;The middle sized ground UAV %3%11%4 can be used mainly as reconnaissance or fire support. Thanks to its transport ability, this UAV can help units to move away from a dangerous place.&lt;br/&gt;&lt;br/&gt;The main purpose of a small quadrotor %3%12%4 is reconnaissance. It doesn't carry any weapons but is equipped with a laser designator for marking targets. Small size and excellent maneuverability are also its big advantages.&lt;br/&gt;&lt;br/&gt;A bigger fixed-wing %3%13%4 can carry air-to-ground missiles or bombs and is also equipped with a laser designator. Greyhawk can be used as an attack unit, or in case of the unarmed variant, as a reconnaissance unit. The big advantage of this UAV in comparison with common planes is the ability to land at almost any spot without trees or bigger rocks.</Original>
-        <Chinese>有三種基本類型的無人載具。&lt;br/&gt;&lt;br/&gt;中等大小的%3%11%4主要被用來偵察或者提供火力支援。多虧了它的運輸特性，這款無人載具能將人員移出危險區域。&lt;br/&gt;&lt;br/&gt;小型四軸飛行器%3%12%4的主要用途是偵察。它沒有任何武器，只有裝設雷射指示器來標定敵人，但是假如敵人在他四周的話，它偏小的外形和極佳的移動能力是它本身巨大的優勢。&lt;br/&gt;&lt;br/&gt;大型固定翼無人載具%3%13%4能裝載一些用來攻擊的導彈或炸彈。Greyhawk可以被用作攻擊單位，或是無武裝的偵察單位。與其他飛機相比，這個無人機的最大優勢在於它可以在任何沒有樹或者大型巖石的區域著陸。</Chinese>
+        <Chinese>有三種基本類型的無人載具。&lt;br/&gt;&lt;br/&gt;中等大小的%3%11%4主要被用來偵察或者提供火力支援。多虧了它的運輸特性，這款無人載具能將人員移出危險區域。&lt;br/&gt;&lt;br/&gt;小型四軸飛行器%3%12%4的主要用途是偵察。它沒有任何武器，只有裝設雷射指示器來標定敵人，但是假如敵人在他四周的話，它偏小的外形和極佳的移動能力是它本身巨大的優勢。&lt;br/&gt;&lt;br/&gt;大型固定翼無人載具%3%13%4能裝載一些用來攻擊的飛彈或炸彈。Greyhawk可以被用作攻擊單位，或是無武裝的偵察單位。與其他飛機相比，這個無人機的最大優勢在於它可以在任何沒有樹或者大型巖石的區域著陸。</Chinese>
         <Chinesesimp>有三种基本类型的无人载具。&lt;br/&gt;&lt;br/&gt;中等大小的%3%11%4主要被用来侦察或者提供火力支援。多亏了它的运输特性，这款无人载具能将人员移出危险区域。&lt;br/&gt;&lt;br/&gt;小型四轴飞行器%3%12%4的主要用途是侦察。它没有任何武器，只有装设雷射指示器来标定敌人，但是假如敌人在他四周的话，它偏小的外形和极佳的移动能力是它本身巨大的优势。&lt;br/&gt;&lt;br/&gt;大型固定翼无人载具%3%13%4能装载一些用来攻击的导弹或炸弹。Greyhawk可以被用作攻击单位，或是无武装的侦察单位。与其他飞机相比，这个无人机的最大优势在于它可以在任何没有树或者大型岩石的区域着陆。</Chinesesimp>
       </Key>
       <Key ID="str_a3_types0">
@@ -27,7 +27,7 @@
       <Key ID="str_a3_terminal1">
         <Original>Access to a UAV Terminal is available only if you have item %3%11%4 in your inventory. To open a UAV Terminal select %3%12%4 in the action menu.&lt;br/&gt;&lt;br/&gt;The UAV Terminal is a powerful tool where you can:%1%2See all friendly UAVs nearby.%1%2Create a connection between your terminal and non-controlled UAVs: use %14 on UAV.%1%2See basic information about the connected UAV.%1%2See camera output from the connected UAV.%1%2Set tasks/waypoints for the connected UAV: %13 in map.%1%2Set waypoint parameters for the UAV: %14 on waypoint.%1%2UAV terminal can be also used as a GPS module.</Original>
         <Chinese>當你擁有%3%11%4在你的裝備裡的時候，你才能使用無人載具終端機。使用動作選單裡的%3%12%4來開啟無人載具終端機。&lt;br/&gt;&lt;br/&gt;無人載具終端機是個非常強大的工具，你可以用它做以下事情:%1%2查看附近所有的友軍無人載具。%1%2建立終端機與無人載具之間的連接:使用%14點擊無人載具。%1%2查看無人載具的基本資訊。%1%2觀看從無人載具攝影機輸出的影像。%1%2設定任務/路徑給已連接的無人載具:%13在地圖上。%1%2設定路徑參數給無人載具:%14在路徑點上。%1%2無人載具終端機也可被當作GPS使用。</Chinese>
-        <Chinesesimp>当你拥有%3%11%4在你的装备里的时候，你才能使用无人载具终端机。使用动作选单里的%3%12%4来开启无人载具终端机。&lt;br/&gt;&lt;br/&gt;无人载具终端机是个非常强大的工具，你可以用它做以下事情:%1%2查看附近所有的友军无人载具。%1%2建立终端机与无人载具之间的连接:使用%14点击无人载具。%1%2查看无人载具的基本资讯。%1%2观看从无人载具摄影机输出的影像。%1%2设定任务/路径给已连接的无人载具:%13在地图上。%1%2设定路径参数给无人载具:%14在路径点上。%1%2无人载具终端机也可被当作GPS使用。</Chinesesimp>
+        <Chinesesimp>当你拥有%3%11%4在你的装备里的时候，你才能使用无人载具终端机。使用动作选单里的%3%12%4来开启无人载具终端机。&lt;br/&gt;&lt;br/&gt;无人载具终端机是个非常强大的工具，你可以用它做以下事情:%1%2查看附近所有的友军无人载具。%1%2建立终端机与无人载具之间的连接:使用%14点击无人载具。%1%2查看无人载具的基本资信。%1%2观看从无人载具摄影机输出的影像。%1%2设定任务/路径给已连接的无人载具:%13在地图上。%1%2设定路径参数给无人载具:%14在路径点上。%1%2无人载具终端机也可被当作GPS使用。</Chinesesimp>
       </Key>
       <Key ID="str_a3_terminal0">
         <Original>UAV Terminal</Original>
@@ -185,9 +185,9 @@
         <Chinesesimp>如果你是一个小队长，你可以通过日志界面来打开队友的装备栏。%1%2打开地图%11。%1%2点击%3小队成员%4。%1%2按%3[F2–F10]键%4选择一个士兵。%1%2点击%3装备栏%4。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_tacticaltease2">
-        <Original>Please note that the following texts are just excerpts from full, 350 page long Arma 3 Tactical Guide written by Andrew „dslyecxi“ Gluck. This digital guide is available as part of Digital Deluxe Editions and also can be bought separately in our online shop in both %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;digital&lt;/a&gt;%4 and %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;printed&lt;/a&gt;%4 version.</Original>
-        <Chinese>此戰術指南由Andrew'Dslyecxi'Gluck來編寫，內容有350頁，收錄於有購買數位豪華版的人的遊戲資料夾裡面。你可以在這邊看到更多詳情:%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-pdf'&gt;電子書&lt;/a&gt;%4或%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-printed'&gt;實體書&lt;/a&gt;%4。</Chinese>
-        <Chinesesimp>此战术指南由Andrew'Dslyecxi'Gluck来编写，内容有350页，收录于有购买数字豪华版的人的游戏文件夹里面。你可以在这边看到更多详情:%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-pdf'&gt;电子书&lt;/a&gt;%4或%3&lt;ahref='https://store。bistudio。com/products/arma3-tactical-guide-printed'&gt;实体书&lt;/a&gt;%4。</Chinesesimp>
+        <Original>Please note that the following texts are just excerpts from full, 350 page long Arma 3 Tactical Guide written by Andrew „dslyecxi" Gluck. This digital guide is available as part of Digital Deluxe Editions and also can be bought separately in our online shop in both %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;digital&lt;/a&gt;%4 and %3&lt;a href='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;printed&lt;/a&gt;%4 version.</Original>
+        <Chinese>此戰術指南由Andrew'Dslyecxi'Gluck來編寫，內容有350頁，收錄於有購買數位豪華版的人的遊戲資料夾裡面。你可以在這邊看到更多詳情:%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;電子書&lt;/a&gt;%4或%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;實體書&lt;/a&gt;%4。</Chinese>
+        <Chinesesimp>此战术指南由Andrew'Dslyecxi'Gluck来编写，内容有350页，收录于有购买数字豪华版的人的游戏文件夹里面。你可以在这边看到更多详情:%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-pdf'&gt;电子书&lt;/a&gt;%4或%3&lt;ahref='https://store.bistudio.com/products/arma3-tactical-guide-printed'&gt;实体书&lt;/a&gt;%4。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_tacticaltease1">
         <Original>Welcome to the Tactical Guide. This section intends to teach you about the Tactics, Techniques and Procedures of combat. The topics were specifically picked to help you gain a tactical advantage in each stage of our episodic campaign.</Original>
@@ -246,13 +246,13 @@
       </Key>
       <Key ID="STR_A3_FM_Welcome0">
         <Original>New to Arma?</Original>
-        <Chinese>第一次玩ArmA?</Chinese>
+        <Chinese>第一次玩武裝突襲?</Chinese>
         <Chinesesimp>第一次玩武装突袭?</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome1">
         <Original>Arma 3 is a %3unique military game%4 with an %3infantry focus%4. Built upon %3appropriate%4, %3useful%4 and %3engaging%4 elements of %3simulation%4, it's an %3accessible platform%4 for a variety of official and community playable / sandbox content, based on the principles of %3authenticity%4, %3diversity%4 and %3opportunity%4.%1%1%2Richly detailed battlefields%1%2Diverse range of authentically simulated vehicles and weapons%1%2Varied pieces of playable content in singleplayer and multiplayer%1%2Powerful scenario editor, mod creation and a creative community%1%2Learn section with bootcamp and virtual reality trainings to get you started%1%1More at %3&lt;a href='http://www.arma3.com'&gt;arma3.com&lt;/a&gt;%4</Original>
-        <Chinese>ArmA3是一個%3獨特的軍事遊戲%4，並且%3專注於步兵戰鬥%4上的體驗。建立於%3合理%4，%3有用%4和%3引人入勝%4的%3擬真%4元素，這個%3平臺%4集合了各種官方和玩家論壇的模組或任務，這些模組或任務都基於%3真實性%4，%3多樣性%4和%3隨機性%4來當做開發原則。%1%1%2細節豐富的戰場%1%2種類繁多且真實模擬的載具與武器%1%2單人與多人遊戲中各種豐富且有趣的遊戲內容%1%2強大的任務編輯器，模組工具和創意無限的玩家論壇%1%2你可以先遊玩新兵訓練與虛擬實境訓練來開始體驗遊戲%1%1更多介紹請上%3&lt;ahref='http://www。arma3。com'&gt;arma3。com&lt;/a&gt;%4來觀看</Chinese>
-        <Chinesesimp>武装突袭3是一个%3独特的军事游戏%4，并且%3专注于步兵战斗%4上的体验。建立于%3合理%4，%3有用%4和%3引人入胜%4的%3拟真%4元素，这个%3平台%4集合了各种官方和玩家论坛的模组或任务，这些模组或任务都基于%3真实性%4，%3多样性%4和%3随机性%4来当做开发原则。%1%1%2细节丰富的战场%1%2种类繁多且真实模拟的载具与武器%1%2单人与多人游戏中各种丰富且有趣的游戏内容%1%2强大的任务编辑器，模组工具和创意无限的玩家论坛%1%2你可以先游玩新兵训练与虚拟实境训练来开始体验游戏%1%1更多介绍请上%3&lt;ahref='http://www。arma3。com'&gt;arma3。com&lt;/a&gt;%4来观看</Chinesesimp>
+        <Chinese>武裝突襲3是一個%3獨特的軍事遊戲%4，並且%3專注於步兵戰鬥%4上的體驗。建立於%3合理%4，%3有用%4和%3引人入勝%4的%3擬真%4元素，這個%3平臺%4集合了各種官方和玩家論壇的模組或任務，這些模組或任務都基於%3真實性%4，%3多樣性%4和%3隨機性%4來當做開發原則。%1%1%2細節豐富的戰場%1%2種類繁多且真實模擬的載具與武器%1%2單人與多人遊戲中各種豐富且有趣的遊戲內容%1%2強大的任務編輯器，模組工具和創意無限的玩家論壇%1%2你可以先遊玩新兵訓練與虛擬實境訓練來開始體驗遊戲%1%1更多介紹請上%3&lt;ahref='http://www.arma3.com'&gt;arma3.com&lt;/a&gt;%4來觀看</Chinese>
+        <Chinesesimp>武装突袭3是一个%3独特的军事游戏%4，并且%3专注于步兵战斗%4上的体验。建立于%3合理%4，%3有用%4和%3引人入胜%4的%3拟真%4元素，这个%3平台%4集合了各种官方和玩家论坛的模组或任务，这些模组或任务都基于%3真实性%4，%3多样性%4和%3随机性%4来当做开发原则。%1%1%2细节丰富的战场%1%2种类繁多且真实模拟的载具与武器%1%2单人与多人游戏中各种丰富且有趣的游戏内容%1%2强大的任务编辑器，模组工具和创意无限的玩家论坛%1%2你可以先游玩新兵训练与虚拟实境训练来开始体验游戏%1%1更多介绍请上%3&lt;ahref='http://www.arma3.com'&gt;arma3.com&lt;/a&gt;%4来观看</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome2">
         <Original>Arma Veteran?</Original>
@@ -261,7 +261,7 @@
       </Key>
       <Key ID="STR_A3_FM_Welcome3">
         <Original>As compared to Arma 2, you'll find the significantly updated %3Real Virtuality™ 4.0%4 engine powering your experience. With it, we're aiming to take the elements that make Arma great, enhance them where appropriate, and deliver a robust %3platform%4 for future growth.%1%1%2Fluid new animations%1%2Upgraded sound engine%1%2Ragdoll simulation%1%2PhysX™-supported vehicles%1%1More at %3&lt;a href='http://www.arma3.com/whatsnew'&gt;arma3.com/whatsnew&lt;/a&gt;%4</Original>
-        <Chinese>與ArmA2相比，你會發現%3RealVirtuality?4。0%4引擎的效能有顯著的提升。有了它，我們能加上更多的元素來使ArmA變得更棒，在適當的情況下對遊戲進行調整，並且發展了一個堅固的%3平臺%4以供未來成長。%1%1%2流暢的人物動作%1%2升級的聲音引擎%1%2布娃娃仿真%1%2PhysX?-物理效果運算%1%1更多訊息請登錄%3&lt;ahref='http://www。arma3。com/whatsnew'&gt;arma3。com/whatsnew&lt;/a&gt;%4來查看</Chinese>
+        <Chinese>與武裝突襲2相比，你會發現%3RealVirtuality?4。0%4引擎的效能有顯著的提升。有了它，我們能加上更多的元素來使武裝突襲變得更棒，在適當的情況下對遊戲進行調整，並且發展了一個堅固的%3平臺%4以供未來成長。%1%1%2流暢的人物動作%1%2升級的聲音引擎%1%2布娃娃仿真%1%2PhysX?-物理效果運算%1%1更多訊息請登錄%3&lt;ahref='http://www。arma3。com/whatsnew'&gt;arma3。com/whatsnew&lt;/a&gt;%4來查看</Chinese>
         <Chinesesimp>与武装突袭2相比，你会发现%3RealVirtuality?4。0%4引擎的效能有显着的提升。有了它，我们能加上更多的元素来使武装突袭变得更棒，在适当的情况下对游戏进行调整，并且发展了一个坚固的%3平台%4以供未来成长。%1%1%2流畅的人物动作%1%2升级的声音引擎%1%2布娃娃仿真%1%2PhysX?-物理效果运算%1%1更多信息请登录%3&lt;ahref='http://www。arma3。com/whatsnew'&gt;arma3。com/whatsnew&lt;/a&gt;%4来查看</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome4">
@@ -271,8 +271,8 @@
       </Key>
       <Key ID="STR_A3_FM_Welcome5">
         <Original>After our Alpha and Beta programs, we're now unleashing the primary Arma 3 release. This is just the %3beginning%4 however. We see this as the proper start of the Arma 3 %3platform%4. Both us and you will hopefully expand and enhance it for years to come. These are just a few of the highlighted changes since the Beta:%1%1%2%3Altis%4 - the massive virtual terrain inviting you for endless exploration%1%2%3Armor%4 - Main Battle Tanks, self-propelled artillery and Anti-Aircraft vehicles%1%2%3Drones%4 - quadcopters, Unmanned Ground Vehicles and fixed-wing UAVs%1%2%3Play%4 - more showcases, multiplayer scenarios and Firing Drills%1%2%3Campaign%4 - released for %3FREE%4 in several episodes during the months following launch%1%1More at %3&lt;a href='http://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Original>
-        <Chinese>繼Alpha測試版和Beta測試版之後，我們現在很榮幸為大家推出ArmA3正式版。不過，這只不過是剛剛%3開始%4而已。我們把它看作是ArmA3%3這個平臺%4的開始。在今後的幾年裡，我們和各位玩家都會對它進行擴展和增強。以下特色是正式版與Beta版最大的不同:%1%1%2%3Altis%4-廣大的虛擬地圖邀請您一同來探索%1%2%3裝甲%4-主戰坦克，自走炮和防空載具%1%2%3無人載具%4-四軸飛行器，地面無人載具和固定翼無人載具%1%2%3遊戲%4-更多的任務展示，多人任務和射擊訓練%1%2%3戰役%4-將在發行後的幾個月內，分成幾個章節來讓大家%3免費%4遊玩%1%1更多訊息請參見%3&lt;ahref='http://www。arma3。com/whatsnewfull/'&gt;arma3。com/whatsnewfull&lt;/a&gt;%4</Chinese>
-        <Chinesesimp>继Alpha测试版和Beta测试版之后，我们现在很荣幸为大家推出武装突袭3正式版。不过，这只不过是刚刚%3开始%4而已。我们把它看作是武装突袭3%3这个平台%4的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与Beta版最大的不同:%1%1%2%3Altis%4-广大的虚拟地图邀请您一同来探索%1%2%3装甲%4-主战坦克，自行火炮和防空载具%1%2%3无人载具%4-四轴飞行器，地面无人载具和固定翼无人载具%1%2%3游戏%4-更多的任务展示，多人任务和射击训练%1%2%3战役%4-将在发行后的几个月内，分成几个章节来让大家%3免费%4游玩%1%1更多信息请参见%3&lt;ahref='http://www。arma3。com/whatsnewfull/'&gt;arma3。com/whatsnewfull&lt;/a&gt;%4</Chinesesimp>
+        <Chinese>繼Alpha測試版和Beta測試版之後，我們現在很榮幸為大家推出武裝突襲3正式版。不過，這只不過是剛剛%3開始%4而已。我們把它看作是武裝突襲3%3這個平臺%4的開始。在今後的幾年裡，我們和各位玩家都會對它進行擴展和增強。以下特色是正式版與Beta版最大的不同:%1%1%2%3Altis%4-廣大的虛擬地圖邀請您一同來探索%1%2%3裝甲%4-主戰坦克，自走炮和防空載具%1%2%3無人載具%4-四軸飛行器，地面無人載具和固定翼無人載具%1%2%3遊戲%4-更多的任務展示，多人任務和射擊訓練%1%2%3戰役%4-將在發行後的幾個月內，分成幾個章節來讓大家%3免費%4遊玩%1%1更多訊息請參見%3&lt;ahref='http://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Chinese>
+        <Chinesesimp>继Alpha测试版和Beta测试版之后，我们现在很荣幸为大家推出武装突袭3正式版。不过，这只不过是刚刚%3开始%4而已。我们把它看作是武装突袭3%3这个平台%4的开始。在今后的几年里，我们和各位玩家都会对它进行扩展和增强。以下特色是正式版与Beta版最大的不同:%1%1%2%3Altis%4-广大的虚拟地图邀请您一同来探索%1%2%3装甲%4-主战坦克，自行火炮和防空载具%1%2%3无人载具%4-四轴飞行器，地面无人载具和固定翼无人载具%1%2%3游戏%4-更多的任务展示，多人任务和射击训练%1%2%3战役%4-将在发行后的几个月内，分成几个章节来让大家%3免费%4游玩%1%1更多信息请参见%3&lt;ahref='http://www.arma3.com/whatsnewfull/'&gt;arma3.com/whatsnewfull&lt;/a&gt;%4</Chinesesimp>
       </Key>
       <Key ID="STR_A3_FM_Welcome6">
         <Original>Prepare for War</Original>
@@ -281,7 +281,7 @@
       </Key>
       <Key ID="STR_A3_FM_Welcome7">
         <Original>To get off to the best possible start - and to get the most out of your experience - please look through a quick set of options. Then, either have a look at what the game offers, or start exploring yourself!%1%1%2%3Video options%4 - improved automatic benchmark should provide better defaults, but have a look in the video options to hit the perfect balance between performance, quality, and personal preference.%1%2%3Controls%4 - some default bindings are different to Arma 2 (e.g. grenades and inventory). See how you like them, experiment with the different presets on offer, or configure your own set up.%1%2%3Playable Content%4 - check out showcases of our new features and gameplay, load up quick and fun challenges, cooperate with friends in multiplayer, or dig into the sandbox with the editor. More content will be added gradually!%1%2%3Feedback%4 - help us by reporting issues on the Feedback Tracker%1%1Thank you for your support and cya on the battlefield!</Original>
-        <Chinese>為了取得一個美好的開始-並充分享受你的遊戲經驗-請瀏覽一下快速設置選項。然後，再看一眼這個遊戲都提供些什麼，或者開始自己去探索!%1%1%2%3畫面設定%4-自動檢測會提供一個更好的默認設置，但還是最好自己看一看畫面設定中的各項參數，以期能在性能，質量和個人偏好之間達到一個最好的平衡。%1%2%3控制%4-一些默認的鍵位設置與ArmA2不同了(比如手榴彈和背包)。看看你是否習慣，使用遊戲提供的幾套不同鍵位設置或者自定義你自己的一套鍵位。%1%2%3可玩內容%4-玩玩任務展示來體驗新的特色，參與快速且有趣的挑戰，在多人模式中和好友們合作，或者在沙箱模式中和設計師們一起鑽研任務設計。更多的內容將被逐步地加入!%1%2%3反饋%4-通過反饋來提報問題給我們%1%1感謝你的支持，我們戰場上見!</Chinese>
+        <Chinese>為了取得一個美好的開始-並充分享受你的遊戲經驗-請瀏覽一下快速設置選項。然後，再看一眼這個遊戲都提供些什麼，或者開始自己去探索!%1%1%2%3畫面設定%4-自動檢測會提供一個更好的默認設置，但還是最好自己看一看畫面設定中的各項參數，以期能在性能，質量和個人偏好之間達到一個最好的平衡。%1%2%3控制%4-一些默認的鍵位設置與武裝突襲2不同了(比如手榴彈和背包)。看看你是否習慣，使用遊戲提供的幾套不同鍵位設置或者自定義你自己的一套鍵位。%1%2%3可玩內容%4-玩玩任務展示來體驗新的特色，參與快速且有趣的挑戰，在多人模式中和好友們合作，或者在沙箱模式中和設計師們一起鑽研任務設計。更多的內容將被逐步地加入!%1%2%3反饋%4-通過反饋來提報問題給我們%1%1感謝你的支持，我們戰場上見!</Chinese>
         <Chinesesimp>为了取得一个美好的开始-并充分享受你的游戏经验-请浏览一下快速设置选项。然后，再看一眼这个游戏都提供些什么，或者开始自己去探索!%1%1%2%3画面设定%4-自动检测会提供一个更好的默认设置，但还是最好自己看一看画面设定中的各项参数，以期能在性能，质量和个人偏好之间达到一个最好的平衡。%1%2%3控制%4-一些默认的键位设置与武装突袭2不同了(比如手榴弹和背包)。看看你是否习惯，使用游戏提供的几套不同键位设置或者自定义你自己的一套键位。%1%2%3可玩内容%4-玩玩任务展示来体验新的特色，参与快速且有趣的挑战，在多人模式中和好友们合作，或者在沙箱模式中和设计师们一起钻研任务设计。更多的内容将被逐步地加入!%1%2%3反馈%4-通过反馈来提报问题给我们%1%1感谢你的支持，我们战场上见!</Chinesesimp>
       </Key>
     </Container>
@@ -292,8 +292,8 @@
         <Container name="Boxes">
           <Key ID="str_a3_cfgvehicles_ig_supplycrate_f0">
             <Original>Supply Box [FIA]</Original>
-            <Chinese>補給箱[自由陣線]</Chinese>
-            <Chinesesimp>补给箱[自由阵线]</Chinesesimp>
+            <Chinese>補給箱[自由獨立同盟]</Chinese>
+            <Chinesesimp>补给箱[自由独立同盟]</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -308,17 +308,17 @@
         <Container name="DisplayName">
           <Key ID="STR_A3_CfgMagazines_120mmHE">
             <Original>120mm HE-T</Original>
-            <Chinese>120mm高爆曳光彈</Chinese>
+            <Chinese>120公厘高爆曳光彈</Chinese>
             <Chinesesimp>120毫米高爆曳光弹</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgMagazines_120mmAPFSDS">
             <Original>120mm APFSDS</Original>
-            <Chinese>120mm尾翼穩定脫殼穿甲彈</Chinese>
+            <Chinese>120公厘尾翼穩定脫殼穿甲彈</Chinese>
             <Chinesesimp>120毫米尾稳脱穿</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgMagazines_120mmAPFSDST">
             <Original>120mm APFSDS-T</Original>
-            <Chinese>120mm尾翼穩定脫殼穿甲曳光彈</Chinese>
+            <Chinese>120公厘尾翼穩定脫殼穿甲曳光彈</Chinese>
             <Chinesesimp>120毫米尾稳脱穿曳</Chinesesimp>
           </Key>
         </Container>
@@ -339,14 +339,14 @@
         <Container name="DescriptionShort">
           <Key ID="str_a3_cfgweapons_pdw2000_base_f0">
             <Original>Submachine Gun&lt;br/&gt;Caliber: 9x21 mm</Original>
-            <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21mm</Chinese>
+            <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
             <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21毫米</Chinesesimp>
           </Key>
         </Container>
         <Container name="DisplayName">
           <Key ID="str_a3_cfgweapons_hgun_pdw20000">
             <Original>PDW2000 9 mm</Original>
-            <Chinese>PDW20009mm</Chinese>
+            <Chinese>PDW2000 9公厘衝鋒槍</Chinese>
             <Chinesesimp>PDW2000 9毫米冲锋枪</Chinesesimp>
           </Key>
         </Container>
@@ -362,7 +362,7 @@
       <Container name="Static">
         <Key ID="str_a3_cfgvehicles_gmg_01_a_base0">
           <Original>Mk32A GMG 20 mm</Original>
-          <Chinese>Mk32A20mm榴彈機槍</Chinese>
+          <Chinese>Mk32A 20公厘榴彈機槍</Chinese>
           <Chinesesimp>Mk32A 20毫米榴弹机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_gmg_01_base1">
@@ -377,27 +377,27 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_gmg_01_base_armory0">
           <Original>The Mk32 GMG is a static grenade launcher. It's based on the Mk30 HMG, using the same electronic targeting and tripod, but fires 20 mm grenades instead of .50 BMG. Mk32 also exists in an automatic/remotely controlled variant which is labeled Mk32A.</Original>
-          <Chinese>Mk32榴彈機槍一種固定式榴彈發射器。基本架構同Mk30重機槍，使用相同的電子瞄準和腳架，但是發射20mm榴彈而不是.50子彈。一種Mk32版本為自動/遙控，並且安裝在車頂上，被命名為Mk32A。</Chinese>
-          <Chinesesimp>Mk32榴弹机枪一种固定式榴弹发射器。基本架构同Mk30重机枪，使用相同的电子瞄准和脚架，但是发射20mm榴弹而不是.50子弹。一种Mk32版本为自动/遥控，并且安装在车顶上，被命名为Mk32A。</Chinesesimp>
+          <Chinese>Mk32榴彈機槍一種固定式榴彈發射器。基本架構同Mk30重機槍，使用相同的電子瞄準和腳架，但是發射20公厘榴彈而不是.50子彈。一種Mk32版本為自動/遙控，並且安裝在車頂上，被命名為Mk32A。</Chinese>
+          <Chinesesimp>Mk32榴弹机枪一种固定式榴弹发射器。基本架构同Mk30重机枪，使用相同的电子瞄准和脚架，但是发射20毫米榴弹而不是.50子弹。一种Mk32版本为自动/遥控，并且安装在车顶上，被命名为Mk32A。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_a_base0">
           <Original>Mk30A HMG .50</Original>
-          <Chinese>Mk30A.50重機槍</Chinese>
+          <Chinese>Mk30A .50重機槍</Chinese>
           <Chinesesimp>Mk30A .50重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_base0">
           <Original>Mk30 HMG .50</Original>
-          <Chinese>Mk30.50重機槍</Chinese>
+          <Chinese>Mk30 .50重機槍</Chinese>
           <Chinesesimp>Mk30 .50重机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_hmg_01_base_armory0">
           <Original>The Mk30 HMG is a static machine gun used by infantry and support. Several projects were launched to replace the Browning M2, but each resulted in them being shelved for various reasons. The Mk30 made it through. Compared to the M2, it's lighter and more portable with better accuracy, utilizing new materials, electronic targeting help and a new tripod, trading portability for rate of fire. Based on the previous concept of the XM307/XM312, the Mk30 is chambered for .50 BMG cartridges with a rate of fire of 350 rpm and effective range up to 2000 meters. Mk30 also exists in an automatic/remotely controlled variant which is labeled Mk30A.</Original>
           <Chinese>Mk30重機槍是一種固定式機槍，用來給予步兵支援性火力。軍方開始了幾個不同的機槍開發計劃，其目的是為要取代白朗寧M2重機槍，但每個計劃都因一些原因而暫時停止開發。但Mk30卻成功了。跟M2相比，它的重量更輕，更好攜帶，以及有著更棒的精準度，利用新材料，電子瞄準，新腳架，和在便攜性與射速中取得平衡。基於之前XM312/XM307的概念，Mk30使用.50子彈，每分鐘射速為350發，有效射程高達2000公尺。一種Mk30版本為自動/遙控，並且安裝在車頂上，被命名為Mk30A。</Chinese>
-          <Chinesesimp>Mk30重机枪是一种固定式机枪，用来给予步兵支援性火力。军方开始了几个不同的机枪开发计划，其目的是为要取代勃朗宁M2重机枪，但每个计划都因一些原因而暂时停止开发。但Mk30却成功了。跟M2相比，它的重量更轻，更好携带，以及有着更棒的精准度，利用新材料，电子瞄准，新脚架，和在便携性与射速中取得平衡。基于之前XM312/XM307的概念，Mk30使用.50子弹，每分钟射速为350发，有效射程高达2000公尺。一种Mk30版本为自动/遥控，并且安装在车顶上，被命名为Mk30A。</Chinesesimp>
+          <Chinesesimp>Mk30重机枪是一种固定式机枪，用来给予步兵支援性火力。军方开始了几个不同的机枪开发计划，其目的是为要取代勃朗宁M2重机枪，但每个计划都因一些原因而暂时停止开发。但Mk30却成功了。跟M2相比，它的重量更轻，更好携带，以及有着更棒的精准度，利用新材料，电子瞄准，新脚架，和在便携性与射速中取得平衡。基于之前XM312/XM307的概念，Mk30使用.50子弹，每分钟射速为350发，有效射程高达2000米。一种Mk30版本为自动/遥控，并且安装在车顶上，被命名为Mk30A。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_gmg_01_base0">
           <Original>Mk32 GMG 20 mm</Original>
-          <Chinese>Mk3220mm榴彈機槍</Chinese>
+          <Chinese>Mk32 20公厘榴彈機槍</Chinese>
           <Chinesesimp>Mk32 20毫米榴弹机枪</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_at_01_wpn_assembleinfo0">
@@ -417,7 +417,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_gmg_01_a_wpn2">
           <Original>Dismantled Autonomous MG [AAF]</Original>
-          <Chinese>拆解自動機槍[Altis政府軍]</Chinese>
+          <Chinese>拆解自動機槍[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>拆解自动机枪[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_gmg_01_a_wpn_assembleinfo0">
@@ -447,7 +447,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_gmg_01_wpn2">
           <Original>Dismantled Mk32 GMG [AAF]</Original>
-          <Chinese>拆解Mk32榴彈機槍[Altis政府軍]</Chinese>
+          <Chinese>拆解Mk32榴彈機槍[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>拆解Mk32榴弹机枪[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_support0">
@@ -472,7 +472,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_a_wpn2">
           <Original>Dismantled Autonomous GMG [AAF]</Original>
-          <Chinese>拆解自動榴彈機槍[Altis政府軍]</Chinese>
+          <Chinese>拆解自動榴彈機槍[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>拆解自动榴弹机枪[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_a_wpn_assembleinfo0">
@@ -487,7 +487,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_support2">
           <Original>Folded Tripod [AAF]</Original>
-          <Chinese>折疊式腳架[Altis政府軍]</Chinese>
+          <Chinese>折疊式腳架[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>折叠式脚架[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_wpn1">
@@ -497,7 +497,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_hmg_01_wpn2">
           <Original>Dismantled Mk30 HMG [AAF]</Original>
-          <Chinese>拆解Mk30重機槍[Altis政府軍]</Chinese>
+          <Chinese>拆解Mk30重機槍[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>拆解Mk30重机枪[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
       </Container>
@@ -650,8 +650,8 @@
         </Key>
         <Key ID="str_a3_missiles_zephyr0">
           <Original>Zephyr</Original>
-          <Chinese>Zephyr長程空對空導彈</Chinese>
-          <Chinesesimp>“微风”远程空空导弹</Chinesesimp>
+          <Chinese>Zephyr長程空對空飛彈</Chinese>
+          <Chinesesimp>"微风"远程空空导弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_mortar_120mm_amos_burst20">
           <Original>Burst (medium)</Original>
@@ -700,12 +700,12 @@
         </Key>
         <Key ID="str_a3_cannon_120mm0">
           <Original>Cannon 120 mm</Original>
-          <Chinese>120mm加農砲</Chinese>
+          <Chinese>120公厘加農砲</Chinese>
           <Chinesesimp>120毫米加农炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_autocannon_35mm0">
           <Original>Autocannon 35 mm</Original>
-          <Chinese>35mm自動加農炮</Chinese>
+          <Chinese>35公厘自動加農炮</Chinese>
           <Chinesesimp>35毫米自动炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_autocannon_35mm_manual0">
@@ -720,7 +720,7 @@
         </Key>
         <Key ID="str_a3_gatling_25mm0">
           <Original>GAU-12 Cannon 25 mm</Original>
-          <Chinese>GAU-1225mm機砲</Chinese>
+          <Chinese>GAU-12 25公厘機砲</Chinese>
           <Chinesesimp>GAU-12 25毫米机炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_gatling_25mm_manual0">
@@ -884,7 +884,7 @@
           </Key>
           <Key ID="str_o_soldieru_aat_f0">
             <Original>Asst. Missile Specialist</Original>
-            <Chinese>助手。導彈專精兵</Chinese>
+            <Chinese>助手。飛彈專精兵</Chinese>
             <Chinesesimp>导弹专业副射手</Chinesesimp>
           </Key>
           <Key ID="str_o_soldieru_ar_f0">
@@ -894,7 +894,7 @@
           </Key>
           <Key ID="str_o_soldieru_at_f0">
             <Original>Missile Specialist</Original>
-            <Chinese>導彈專精兵</Chinese>
+            <Chinese>飛彈專精兵</Chinese>
             <Chinesesimp>导弹专业射手</Chinesesimp>
           </Key>
           <Key ID="str_o_soldier_urban_base0">
@@ -914,7 +914,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_miller0">
           <Original>Miller</Original>
-          <Chinese>Miller</Chinese>
+          <Chinese>米勒</Chinese>
           <Chinesesimp>米勒</Chinesesimp>
         </Key>
         <Key ID="str_a3_c_man_w_fisherman_1_f0">
@@ -924,7 +924,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_kerry_f0">
           <Original>Ben Kerry</Original>
-          <Chinese>BenKerry</Chinese>
+          <Chinese>本·克里</Chinese>
           <Chinesesimp>本·克里</Chinesesimp>
         </Key>
         <Key ID="str_a3_c_man_w_farmer_2_f0">
@@ -1061,32 +1061,32 @@
       <Container name="Story">
         <Key ID="STR_A3_CfgVehicles_B_Story_Protagonist_F0">
           <Original>Kerry</Original>
-          <Chinese>Kerry</Chinese>
+          <Chinese>克里</Chinese>
           <Chinesesimp>克里</Chinesesimp>
         </Key>
         <Key ID="str_a3_b_story_colonel_f0">
           <Original>Grover</Original>
-          <Chinese>Grover</Chinese>
+          <Chinese>格羅弗</Chinese>
           <Chinesesimp>格罗弗</Chinesesimp>
         </Key>
         <Key ID="str_a3_b_story_engineer_f0">
           <Original>Novak</Original>
-          <Chinese>Novak</Chinese>
+          <Chinese>諾瓦克</Chinese>
           <Chinesesimp>诺瓦克</Chinesesimp>
         </Key>
         <Key ID="str_a3_b_story_pilot_f0">
           <Original>Larkin</Original>
-          <Chinese>Larkin</Chinese>
+          <Chinese>拉爾金</Chinese>
           <Chinesesimp>拉尔金</Chinesesimp>
         </Key>
         <Key ID="str_a3_b_story_tank_commander_f0">
           <Original>Hutchison</Original>
-          <Chinese>Hutchison</Chinese>
+          <Chinese>哈奇森</Chinese>
           <Chinesesimp>哈奇森</Chinesesimp>
         </Key>
         <Key ID="str_a3_i_story_colonel_f0">
           <Original>Akhanteros</Original>
-          <Chinese>Akhanteros</Chinese>
+          <Chinese>阿坎特羅斯</Chinese>
           <Chinesesimp>阿坎特罗斯</Chinesesimp>
         </Key>
         <Key ID="str_a3_b_soldier_uav_f0">
@@ -1096,12 +1096,12 @@
         </Key>
         <Key ID="str_a3_o_story_ceo_f0">
           <Original>Attar</Original>
-          <Chinese>Attar</Chinese>
+          <Chinese>阿塔爾</Chinese>
           <Chinesesimp>阿塔尔</Chinesesimp>
         </Key>
         <Key ID="str_a3_o_story_colonel_f0">
           <Original>Namdar</Original>
-          <Chinese>Namdar</Chinese>
+          <Chinese>納姆達爾</Chinese>
           <Chinesesimp>纳姆达尔</Chinesesimp>
         </Key>
         <Key ID="STR_A3_character_uav_operator_back">
@@ -1186,8 +1186,8 @@
         </Key>
         <Key ID="str_a3_cfggroups_indep_guerilla0">
           <Original>FIA</Original>
-          <Chinese>FIA</Chinese>
-          <Chinesesimp>自由阵线</Chinesesimp>
+          <Chinese>自由獨立同盟</Chinese>
+          <Chinesesimp>自由独立同盟</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_west_blu_f_mechanized_bus_mechinf_support0">
           <Original>Mechanized Support Squad</Original>
@@ -1308,18 +1308,18 @@
       <Container name="DisplayName">
         <Key ID="str_a3_cfgvehicles_o_uav_02_cas_f0">
           <Original>K40 Ababil-3 (CAS)</Original>
-          <Chinese>K40Ababil-3空中無人載具(密接空中支援)</Chinese>
-          <Chinesesimp>K40“燕子”-3空中无人载具(近距离空中支援)</Chinesesimp>
+          <Chinese>K40"燕子"-3空中無人載具(密接空中支援)</Chinese>
+          <Chinesesimp>K40"燕子"-3空中无人载具(近距离空中支援)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03">
           <Original>A-143 Buzzard</Original>
-          <Chinese>A-143Buzzard戰鬥機</Chinese>
-          <Chinesesimp>A-143“秃鹰”战斗机</Chinesesimp>
+          <Chinese>A-143"禿鷹"戰鬥機</Chinese>
+          <Chinesesimp>A-143"秃鹰"战斗机</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_02_cas_base_f0">
           <Original>MQ-4A Greyhawk (CAS)</Original>
-          <Chinese>MQ-4AGreyhawk無人偵察機(密接空中支援)</Chinese>
-          <Chinesesimp>MQ-4A“灰鹰”无人侦察机(近距离空中支援)</Chinesesimp>
+          <Chinese>MQ-4A"灰鷹"無人偵察機(密接空中支援)</Chinese>
+          <Chinesesimp>MQ-4A"灰鹰"无人侦察机(近距离空中支援)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_offroad_armed_base0">
           <Original>Offroad (Armed)</Original>
@@ -1328,8 +1328,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_o_l159_ad0">
           <Original>A-143 Buzzard (AD)</Original>
-          <Chinese>A-143Buzzard戰鬥機(AD)</Chinese>
-          <Chinesesimp>A-143“秃鹰”战斗机(AD)</Chinesesimp>
+          <Chinese>A-143"禿鷹"戰鬥機(AD)</Chinese>
+          <Chinesesimp>A-143"秃鹰"战斗机(AD)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_offroad_01_at_base_f0">
           <Original>Offroad (AT)</Original>
@@ -1338,23 +1338,23 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_cannon_base_f0">
           <Original>M2A1 Slammer</Original>
-          <Chinese>M2A1Slammer主戰坦克</Chinese>
-          <Chinesesimp>M2A1“重击者”主战坦克</Chinesesimp>
+          <Chinese>M2A1"重擊者"主戰坦克</Chinese>
+          <Chinesesimp>M2A1"重击者"主战坦克</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_medical_f0">
           <Original>HEMTT Medical</Original>
-          <Chinese>HEMTT醫療卡車</Chinese>
-          <Chinesesimp>HEMTT医疗卡车</Chinesesimp>
+          <Chinese>重型機動戰術醫療卡車</Chinese>
+          <Chinesesimp>重型增程机动战术医疗卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_plane_fighter_03_aa_f0">
           <Original>A-143 Buzzard (AA)</Original>
-          <Chinese>A-143Buzzard戰鬥機(空對空)</Chinese>
-          <Chinesesimp>A-143“秃鹰”战斗机(空空)</Chinesesimp>
+          <Chinese>A-143"禿鷹"戰鬥機(空對空)</Chinese>
+          <Chinesesimp>A-143"秃鹰"战斗机(空空)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_MBT_02_Arty_base0">
           <Original>2S9 Sochor</Original>
-          <Chinese>2S9Sochor自走砲</Chinese>
-          <Chinesesimp>2S9“索霍尔”自行榴弹炮</Chinesesimp>
+          <Chinese>2S9"索霍爾"自走砲</Chinese>
+          <Chinesesimp>2S9"索霍尔"自行榴弹炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_truck_cistern0">
           <Original>Truck Fuel</Original>
@@ -1363,8 +1363,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_repair_f0">
           <Original>HEMTT Repair</Original>
-          <Chinese>HEMTT維修卡車</Chinese>
-          <Chinesesimp>HEMTT维修卡车</Chinesesimp>
+          <Chinese>重型機動戰術維修卡車</Chinese>
+          <Chinesesimp>重型增程机动战术维修卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_heli_light_01">
           <Original>M-900</Original>
@@ -1373,13 +1373,13 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_02_fuel0">
           <Original>Zamak Fuel</Original>
-          <Chinese>Zamak燃油補給卡車</Chinese>
-          <Chinesesimp>“扎马克”燃油补给卡车</Chinesesimp>
+          <Chinese>"扎馬克"燃油補給卡車</Chinese>
+          <Chinesesimp>"扎马克"燃油补给卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_truck_02_repair0">
           <Original>Zamak Repair</Original>
-          <Chinese>Zamak維修卡車</Chinese>
-          <Chinesesimp>“扎马克”维修卡车</Chinesesimp>
+          <Chinese>"扎馬克"維修卡車</Chinese>
+          <Chinesesimp>"扎马克"维修卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_van_01_box0">
           <Original>Truck Boxer</Original>
@@ -1388,8 +1388,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_plane_fighter_03_base_f0">
           <Original>A-143 Buzzard</Original>
-          <Chinese>A-143Buzzard戰鬥機</Chinese>
-          <Chinesesimp>A-143“秃鹰”战斗机</Chinesesimp>
+          <Chinese>A-143"禿鷹"戰鬥機</Chinese>
+          <Chinesesimp>A-143"秃鹰"战斗机</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_01_base0">
           <Original>Motorboat</Original>
@@ -1408,28 +1408,28 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03_cas0">
           <Original>A-143 Buzzard (CAS)</Original>
-          <Chinese>A-143Buzzard戰鬥機(密接空中支援)</Chinese>
-          <Chinesesimp>A-143“秃鹰”战斗机(近距离空中支援)</Chinesesimp>
+          <Chinese>A-143"禿鷹"戰鬥機(密接空中支援)</Chinese>
+          <Chinesesimp>A-143"秃鹰"战斗机(近距离空中支援)</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_APC_Tracked_02_1">
           <Original>ZSU-39 Tigris</Original>
-          <Chinese>ZSU-39Tigris防空車</Chinese>
-          <Chinesesimp>ZSU-39“底格里斯”防空系统</Chinesesimp>
+          <Chinese>ZSU-39"底格里斯"防空車</Chinese>
+          <Chinesesimp>ZSU-39"底格里斯"防空系统</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_apc_wheeled_03_wapc0">
           <Original>AFV-4 Gorgon</Original>
-          <Chinese>AFV-4Gorgon裝甲運兵車</Chinese>
-          <Chinesesimp>AFV-4“蛇发女妖”装甲运兵车</Chinesesimp>
+          <Chinese>AFV-4"蛇髮女妖"裝甲運兵車</Chinese>
+          <Chinesesimp>AFV-4"蛇发女妖"装甲运兵车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_apc_tracked_01_aa0">
           <Original>IFV-6a Cheetah</Original>
-          <Chinese>IFV-6aCheetah防空車</Chinese>
-          <Chinesesimp>IFV-6a“猎豹”防空系统</Chinesesimp>
+          <Chinese>IFV-6a"獵豹"防空車</Chinese>
+          <Chinesesimp>IFV-6a"猎豹"防空系统</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_02">
           <Original>K40 Ababil-3</Original>
-          <Chinese>K40Ababil-3空中無人載具</Chinese>
-          <Chinesesimp>K40“燕子”-3无人机</Chinesesimp>
+          <Chinese>K40"燕子"-3空中無人載具</Chinese>
+          <Chinesesimp>K40"燕子"-3无人机</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_suv_base0">
           <Original>SUV</Original>
@@ -1448,8 +1448,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_01_base0">
           <Original>AR-2 Darter</Original>
-          <Chinese>AR-2Darter空中無人載具</Chinese>
-          <Chinesesimp>AR-2“短刀”无人机</Chinesesimp>
+          <Chinese>AR-2"短刀"空中無人載具</Chinese>
+          <Chinesesimp>AR-2"短刀"无人机</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_tractor_base0">
           <Original>Tractor</Original>
@@ -1463,38 +1463,38 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_box0">
           <Original>HEMTT Box</Original>
-          <Chinese>HEMTT貨櫃卡車</Chinese>
-          <Chinesesimp>HEMTT货柜卡车</Chinesesimp>
+          <Chinese>重型機動戰術貨櫃卡車</Chinese>
+          <Chinesesimp>重型增程机动战术货柜卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_apc_tracked_01_crv0">
           <Original>CRV-6e Bobcat</Original>
-          <Chinese>CRV-6eBobcat戰鬥工程車</Chinese>
-          <Chinesesimp>CRV-6e“公猫”装甲抢救车</Chinesesimp>
+          <Chinese>CRV-6e"公貓"戰鬥工程車</Chinese>
+          <Chinesesimp>CRV-6e"公猫"装甲抢救车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mbt_01_base0">
           <Original>M2A1 Slammer</Original>
-          <Chinese>M2A1Slammer主戰坦克</Chinese>
-          <Chinesesimp>M2A1“重击者”主战坦克</Chinesesimp>
+          <Chinese>M2A1"重擊者"主戰坦克</Chinese>
+          <Chinesesimp>M2A1"重击者"主战坦克</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_ugv_01_base0">
           <Original>UGV Stomper</Original>
-          <Chinese>Stomper地面無人載具</Chinese>
-          <Chinesesimp>“践踏者”无人车</Chinesesimp>
+          <Chinese>"踐踏者"地面無人載具</Chinese>
+          <Chinesesimp>"践踏者"无人车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_ugv_01_rcws_base0">
           <Original>UGV Stomper RCWS</Original>
-          <Chinese>Stomper地面無人載具(遙控砲塔)</Chinese>
-          <Chinesesimp>“践踏者”无人车(遥控炮塔)</Chinesesimp>
+          <Chinese>"踐踏者"地面無人載具(遙控砲塔)</Chinese>
+          <Chinesesimp>"践踏者"无人车(遥控炮塔)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_box_ammo0">
           <Original>HEMTT Ammo</Original>
-          <Chinese>HEMTT彈藥補給卡車</Chinese>
-          <Chinesesimp>HEMTT弹药补给卡车</Chinesesimp>
+          <Chinese>重型機動戰術彈藥補給卡車</Chinese>
+          <Chinesesimp>重型增程机动战术弹药补给卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_mbt_01_mlrs0">
           <Original>M5 Sandstorm MLRS</Original>
-          <Chinese>M5Sandstorm多管火箭車</Chinese>
-          <Chinesesimp>M5“沙暴”自行多管火箭炮</Chinesesimp>
+          <Chinese>M5"沙暴"多管火箭車</Chinese>
+          <Chinesesimp>M5"沙暴"自行多管火箭炮</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_03_base0">
           <Original>Fishing Motorboat</Original>
@@ -1503,23 +1503,23 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_fuel0">
           <Original>HEMTT Fuel </Original>
-          <Chinese>HEMTT燃油補給卡車</Chinese>
-          <Chinesesimp>HEMTT燃油补给卡车</Chinesesimp>
+          <Chinese>重型機動戰術燃油補給卡車</Chinese>
+          <Chinesesimp>重型增程机动战术燃油补给卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_truck_01_primemover0">
           <Original>HEMTT</Original>
-          <Chinese>HEMTT卡車</Chinese>
-          <Chinesesimp>HEMTT卡车</Chinesesimp>
+          <Chinese>重型機動戰術卡車</Chinese>
+          <Chinesesimp>重型增程机动战术卡车</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_02_base0">
           <Original>T-100 Varsuk</Original>
-          <Chinese>T-100Varsuk主戰坦克</Chinese>
-          <Chinesesimp>T-100“獾”式主战坦克</Chinesesimp>
+          <Chinese>T-100"獾"式主戰坦克</Chinese>
+          <Chinesesimp>T-100"獾"式主战坦克</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_02_base0">
           <Original>MQ-4A Greyhawk</Original>
-          <Chinese>MQ-4AGreyhawk無人偵察機</Chinese>
-          <Chinesesimp>MQ-4A“灰鹰”无人侦察机</Chinesesimp>
+          <Chinese>MQ-4"灰鷹"無人偵察機</Chinese>
+          <Chinesesimp>MQ-4A"灰鹰"无人侦察机</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_c_boat_civil_01">
           <Original>Motorboat</Original>
@@ -1543,12 +1543,12 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_c_plane_fighter_03_f0">
           <Original>A-143 Buzzard (Training)</Original>
-          <Chinese>A-143Buzzard戰鬥機(訓練)</Chinese>
-          <Chinesesimp>A-143“秃鹰”战斗机(训练)</Chinesesimp>
+          <Chinese>A-143"禿鷹"戰鬥機(訓練)</Chinese>
+          <Chinesesimp>A-143"秃鹰"战斗机(训练)</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgVehicles_c_truck0">
           <Original>****TO TRANSLATE****</Original>
-          <Chinese>****TOTRANSLATE****</Chinese>
+          <Chinese>****待翻譯****</Chinese>
           <Chinesesimp>****待翻译****</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_O_UAV_01">
@@ -1558,8 +1558,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_arty_base0">
           <Original>M4 Scorcher</Original>
-          <Chinese>M4“炙烤者”自行榴彈炮</Chinese>
-          <Chinesesimp>M4“炙烤者”自行榴弹炮</Chinesesimp>
+          <Chinese>M4"炙烤者"自行榴彈炮</Chinese>
+          <Chinesesimp>M4"炙烤者"自行榴弹炮</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_O_UGV_01_F">
           <Original>UGV Saif</Original>
@@ -1573,24 +1573,24 @@
         </Key>
         <Key ID="STR_A3_cfgvehicles_truck_02_ammo">
           <Original>Zamak Ammo</Original>
-          <Chinese>Zamak彈藥補給卡車</Chinese>
-          <Chinesesimp>“扎马克”弹药补给卡车</Chinesesimp>
+          <Chinese>"扎馬克"彈藥補給卡車</Chinese>
+          <Chinesesimp>"扎马克"弹药补给卡车</Chinesesimp>
         </Key>
         <Key ID="STR_A3_cfgvehicles_truck_02_medical">
           <Original>Zamak Medical</Original>
-          <Chinese>Zamak醫療卡車</Chinese>
-          <Chinesesimp>“扎马克”救护卡车</Chinesesimp>
+          <Chinese>"扎馬克"醫療卡車</Chinese>
+          <Chinesesimp>"扎马克"救护卡车</Chinesesimp>
         </Key>
       </Container>
       <Container name="Library">
         <Key ID="STR_A3_CfgVehicles_MBT_02_Arty_Library0">
           <Original>The 2S9 Sochor is a lightly armored self-propelled artillery piece used by the OPFOR army. It's based on the T-100 chassis and fires 155 mm projectiles. The T-100 chassis interior had to be heavily modified to allow support for the 155 mm cannon with auto-loader. Sochor is also equipped with a Remotely Controlled Weapon Systems turret fitted with 12.7 mm HMG and 40 mm GMG. The modification paid off and several Asian countries are now in the process of modernizing their heavy artillery division with the 2S9.</Original>
-          <Chinese>2S9Sochor是一臺紅方使用的輕裝甲自走砲。它以T-100的底盤為基礎，並發射155mm砲彈。T-100的底盤需要進行大量改造，好來裝設155mm大砲要用的自動裝填機。Sochor也有裝設遠程遙控武器系統，上面裝有12。7mm重機槍以及40mm榴彈砲。其改裝是有效的，幾個亞洲國家都在使用2S9來改良他們的重型砲兵師。</Chinese>
-          <Chinesesimp>2S9“索霍尔”是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155毫米炮弹。T-100的底盘需要进行大量改造，好来装设155毫米火炮要用的自动装填机。“索霍尔”也有装设远程遥控武器站，上面装有12。7毫米重机枪以及40毫米榴弹机枪。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
+          <Chinese>2S9"索霍爾"是一臺紅方使用的輕裝甲自走砲。它以T-100的底盤為基礎，並發射155公厘砲彈。T-100的底盤需要進行大量改造，好來裝設155公厘大砲要用的自動裝填機。"索霍爾"也有裝設遠程遙控武器系統，上面裝有12.7公厘重機槍以及40公厘榴彈砲。其改裝是有效的，幾個亞洲國家都在使用2S9來改良他們的重型砲兵師。</Chinese>
+          <Chinesesimp>2S9"索霍尔"是红方使用的一种有轻装甲的自行火炮。它以T-100的底盘为基础，发射155毫米炮弹。T-100的底盘需要进行大量改造，以便装设155毫米火炮要用的自动装填机。"索霍尔"也有装设远程遥控武器站，上面装有12.7毫米重机枪以及40毫米榴弹机枪。其改装是有效的，几个亚洲国家都在使用2S9来改良他们的重型炮兵师。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_cannon_base_f_library0">
           <Original>A licensed copy of an Israeli tank built in Central Europe. This tank is built for versatile use on the battlefield and maximal crew protection, which gained significant appreciation from western Europe armies in the 21st century. The M2A1 is armed with 120 mm cannon and a coaxial machinegun and can also be used as mobile artillery. This tank has proven itself in battle and thanks to heavy manufacture, it became the second most wide spread main battle tank of many countries in the world.</Original>
-          <Chinese>一種產自中歐並獲得授權的以色列坦克復製品。這種坦克因功能全面且可對組員提供最大化的保護，在21世紀時備受西歐國家的青睞。M2A1裝備有120mm加農炮和同軸機槍，使它可以變為移動砲臺。這種經濟實惠的主戰坦克，目前已經成為世界第二大主流坦克。</Chinese>
+          <Chinese>一種產自中歐並獲得授權的以色列坦克復製品。這種坦克因功能全面且可對組員提供最大化的保護，在21世紀時備受西歐國家的青睞。M2A1裝備有120公厘加農炮和同軸機槍，使它可以變為移動砲臺。這種經濟實惠的主戰坦克，目前已經成為世界第二大主流坦克。</Chinese>
           <Chinesesimp>一种在中欧许可证生产的以色列坦克。这种坦克因功能全面且可对组员提供最大化的保护，在21世纪时备受西欧国家的青睐。M2A1装备有120毫米加农炮和同轴机枪，使它可以变为移动炮台。这种经济实惠的主战坦克，目前已经成为世界第二大主流坦克。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_apc_wheeled_01_medical_library0">
@@ -1610,13 +1610,13 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_apc_wheeled_03_wapc_library0">
           <Original>The AFV-4 Gorgon is an amphibious 8x8 all-wheel-drive armored person carrier vehicle, used to carry soldiers to the battlefield and provide fire support. Its remote controlled CTWS turret is usually mounted with a 30 mm cannon, coaxial machinegun and 2 AT guided missiles. Crew consists of 11 soldiers including driver, gunner/commander.</Original>
-          <Chinese>AFV-4Gorgon是一臺水陸兩用的八輪驅動裝甲運兵車，用來運送士兵進入戰場，並同時提供火力支援。它使用埋頭彈武器系統，並裝設30mm機砲，同軸機槍和兩枚反坦克導引飛彈。包括它本身的機組員，其最多可以搭載11名人員。</Chinese>
-          <Chinesesimp>AFV-4“蛇发女妖”是一种两栖8x8装甲运兵车，用来运送士兵进入战场，并同时提供火力支援。其遥控武器站通常装设30mm机炮，同轴机枪和两枚反坦克导弹。包括它本身的乘员(驾驶员+车长/炮手)在内，其最多可以容纳11名人员。</Chinesesimp>
+          <Chinese>AFV-4"蛇髮女妖"是一臺水陸兩用的八輪驅動裝甲運兵車，用來運送士兵進入戰場，並同時提供火力支援。它使用埋頭彈武器系統，並裝設30公厘機砲，同軸機槍和兩枚反坦克導引飛彈。包括它本身的機組員，其最多可以搭載11名人員。</Chinese>
+          <Chinesesimp>AFV-4"蛇发女妖"是一种两栖8x8装甲运兵车，用来运送士兵进入战场，并同时提供火力支援。其遥控武器站通常装设30毫米机炮，同轴机枪和两枚反坦克导弹。包括它本身的乘员(驾驶员+车长/炮手)在内，其最多可以容纳11名人员。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_02_base_library0">
           <Original>A modernized version of the Russian T-95 MBT. The ongoing development of the new generation battle tank was restarted in 2016 thanks to revenues from the oil crisis. The new concept of battle tank is lower and lighter, with increased maneuverability. The T-100 Varsuk comes with a standard 125 mm cannon, 7.62 mm coaxial machine gun and a commander-controlled NSVT-M 12.7 mm HMG.</Original>
-          <Chinese>一種俄羅斯T-95主戰坦克的現代版本。新一代主戰坦克的發展得益於2016年石油危機所帶來的收益。這種新坦克更輕更低，為的是讓機動性更好。T-100Varsuk主戰坦克使用標準125mm加農炮，7.62mm同軸機槍，指揮官座位還配有遙控版NSVT-M12。7mm重機槍。</Chinese>
-          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100“獾”式主战坦克使用标准125毫米加农炮，7.62毫米同轴机枪，车长座位还配有遥控版NSVT-M 12。7毫米重机枪。</Chinesesimp>
+          <Chinese>一種俄羅斯T-95主戰坦克的現代版本。新一代主戰坦克的發展得益於2016年石油危機所帶來的收益。這種新坦克更輕更低，為的是讓機動性更好。T-100"獾"式主戰坦克使用標準125公厘加農炮，7.62公厘同軸機槍，指揮官座位還配有遙控版NSVT-M 12.7公厘重機槍。</Chinese>
+          <Chinesesimp>一种俄罗斯T-95主战坦克的现代版本。新一代主战坦克的发展得益于2016年石油危机所带来的收益。这种新坦克更轻更低，为的是让机动性更好。T-100"獾"式主战坦克使用标准125毫米加农炮，7.62毫米同轴机枪，车长座位还配有遥控版NSVT-M 12.7毫米重机枪。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_van_01_base_library0">
           <Original>The civilian 4x4 truck is a highly customizable truck with off-road capabilities preferred by the civilian population. It builds on retro design, but utilizes a modern engine and electronics. Most common truck setups are boxed, cistern and pick-up set.</Original>
@@ -1626,22 +1626,22 @@
         <Key ID="str_a3_cfgvehicles_b_mbt_01_mlrs_library0">
           <Original>The Swedish Multiple Launch Rocket System is a replacement of the original U.S. MLRS platform. Built in 2021, it utilizes smaller rockets equipped with modern engines, resulting in longer range and better accuracy. The launch pod is mounted on a Slammer chassis and loads twelve 230 mm rockets.</Original>
           <Chinese>瑞典的多管火箭發射系統是用來取代美國最原始的多管火箭發射平臺。製造於2021年，它使用小型火箭並配上現代的引擎，這使它能發射的更遠，並有更好的精準度。發射架安裝在Slammer的底盤上，並使用了12發230毫米火箭。</Chinese>
-          <Chinesesimp>瑞典的多管火箭炮系统用于取代原始美国的MRLS火箭炮。制造于2021年，它使用更小的火箭弹并配上现代的发动机，这使它能发射的更远，并有更好的精准度。发射架安装在“猛击者”的底盘上，并使用了12发230毫米火箭。</Chinesesimp>
+          <Chinesesimp>瑞典的多管火箭炮系统用于取代原始美国的MRLS火箭炮。制造于2021年，它使用更小的火箭弹并配上现代的发动机，这使它能发射的更远，并有更好的精准度。发射架安装在"猛击者"的底盘上，并使用了12发230毫米火箭。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_02_base_armory0">
           <Original>The MQ-4A Greyhawk is a combat ready unmanned aerial vehicle. It's based on the proven U.S. design of MQ-9 with a turbo-propeller engine. It carries modernized tracking and tracing equipment and it has improved camouflage. OPFOR engineers and manufacturers were able to perfect construction, but their engines are less fuel effective. The OPFOR drone is labeled K40 Ababil-3. Both sides arm the drone with air-to-ground Scalpel missiles or laser guided bombs (CAS version).</Original>
-          <Chinese>MQ-4AGreyhawk是一種作戰用的無人偵察機。它的基礎設計參考自美國的MQ-9，並裝上了渦輪螺旋槳發動機。它裝備了一個現代化的追?和跟?設備，並改進了偽裝。紅方的工程師和製造商完美的複製了藍方的MQ-4A，並取名為K40Ababil-3，但它們的引擎比較耗油。兩邊都給無人載具裝備了"手術刀"反坦克導彈，或者掛載雷射導引炸彈(密接空中支援版本)。</Chinese>
-          <Chinesesimp>MQ-4A“灰鹰”是一种作战用的无人侦察机。它的基础设计参考自美国的MQ-9，并装上了涡轮螺旋桨发动机。它装备了现代化的搜索和追踪设备，并改进了伪装。红方的工程师和制造商完美地复制了蓝方的MQ-4A，并取名为K40“燕子”-3，但它的发动机比较耗油。两边都给无人机装备了"手术刀"反坦克导弹，或者挂载激光制导炸弹(近距离空中支援版本)。</Chinesesimp>
+          <Chinese>MQ-4A"灰鷹"是一種作戰用的無人偵察機。它的基礎設計參考自美國的MQ-9，並裝上了渦輪螺旋槳發動機。它裝備了一個現代化的追蹤和搜索設備，並改進了偽裝。紅方的工程師和製造商完美的複製了藍方的MQ-4A，並取名為K40"燕子"-3，但它們的引擎比較耗油。兩邊都給無人載具裝備了"手術刀"反坦克飛彈，或者掛載雷射導引炸彈(密接空中支援版本)。</Chinese>
+          <Chinesesimp>MQ-4A"灰鹰"是一种作战用的无人侦察机。它的基础设计参考自美国的MQ-9，并装上了涡轮螺旋桨发动机。它装备了现代化的搜索和追踪设备，并改进了伪装。红方的工程师和制造商完美地复制了蓝方的MQ-4A，并取名为K40"燕子"-3，但它的发动机比较耗油。两边都给无人机装备了"手术刀"反坦克导弹，或者挂载激光制导炸弹(近距离空中支援版本)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_01_base_library0">
           <Original>A luxury motorboat is an engine powered boat used by the Police and Altis' richest. Its speed and maneuverability is almost on a par with military speedboat.</Original>
-          <Chinese>這種奢華的汽艇是Altis警方與有錢人的座駕。它的速度和機動性幾乎可與軍事快艇媲美。</Chinese>
+          <Chinese>這種奢華的汽艇是阿爾蒂斯警方與有錢人的座駕。它的速度和機動性幾乎可與軍事快艇媲美。</Chinese>
           <Chinesesimp>这种奢华的汽艇是阿尔蒂斯警方与有钱人的座驾。它的速度和机动性几乎可与军事快艇媲美。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_01_base_library0">
           <Original>The Darter AR-2 is a miniature remote-controlled quadcopter equipped with laser designator. It is perfect for reconnaissance, surveillance and target designation. Darters are agile, silent and hard to detect. The ability to hover in one place and use the camera to observe a location is invaluable in setting ambushes. An OPFOR arms manufacturer was able to reverse-engineer the Darter's construction and now produces a similar vehicle. The OPFOR quadcopter is labeled as the Tayran AR-2.</Original>
-          <Chinese>DarterAR-2是一種小型的遠程控制四軸飛行器，配備有雷射指示器，非常適合用於偵察和監控，或者指定目標。Darter非常敏捷，安靜，且很難被偵察。這種能夠盤旋在某處並使用攝像機觀察的能力，非常適合用來設置埋伏。紅方的軍火商對Darter進行了逆向工程，現在他們也能夠生產類似的載具。而紅方生產出來的這種四軸飛行器，被取名為TayranAR-2。</Chinese>
-          <Chinesesimp>“短刀”AR-2是一种小型的远程控制四轴飞行器，配备有激光指示器，非常适合用于侦察监视和目标截获。“短刀”非常敏捷，安静，且很难被侦察。这种能够盘旋在某处并使用摄像机观察的能力，非常适合用来设置埋伏。红方的军火商对“短刀”进行了逆向工程，现在他们也能够生产类似的无人机。而红方生产出来的这种四轴飞行器，被取名为泰兰AR-2。</Chinesesimp>
+          <Chinese>"短刀"AR-2是一種小型的遠程控制四軸飛行器，配備有雷射指示器，非常適合用於偵察和監控，或者指定目標。"短刀"非常敏捷，安靜，且很難被偵察。這種能夠盤旋在某處並使用攝像機觀察的能力，非常適合用來設置埋伏。紅方的軍火商對"短刀"進行了逆向工程，現在他們也能夠生產類似的載具。而紅方生產出來的這種四軸飛行器，被取名為"泰蘭"AR-2。</Chinese>
+          <Chinesesimp>"短刀"AR-2是一种小型的远程控制四轴飞行器，配备有激光指示器，非常适合用于侦察监视和目标截获。"短刀"非常敏捷，安静，且很难被侦察。这种能够盘旋在某处并使用摄像机观察的能力，非常适合用来设置埋伏。红方的军火商对"短刀"进行了逆向工程，现在他们也能够生产类似的无人机。而红方生产出来的这种四轴飞行器，被取名为"泰兰"AR-2。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_civil_03_base_library0">
           <Original>A bigger fishing boat is more expensive to maintain. When the golden age of Altis fishing ended, only a few owners were able to keep them. It has enough room for eight people. </Original>
@@ -1650,13 +1650,13 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_mbt_01_arty_base_Library0">
           <Original>Based on the licensed version of an Israeli tank chassis, The Scorcher M4 is a 155 mm self-propelled artillery at the end of its lifetime cycle. It has modules allowing indirect fire, advanced artillery computer and is able to fire guided cannon ammunition. The rear of the tank was changed from a passenger transport space to ammunition storage. Scorcher is also equipped with a Remotely Controlled Weapon Systems turret fitted with 12.7 mm HMG and 40 mm GMG.</Original>
-          <Chinese>基於獲得許可的以色列坦克底盤，在其作為坦克的生命週期結束後，被改裝成了ScorcherM4自走砲，並裝載了155mm迫擊砲。它有幾個重要的裝備，包括先進的火砲電腦，和可被導引的砲彈，這使它成為能夠提供間接火力支援的自走砲。原來坦克用來運輸人員的後座，則被改裝成了彈藥儲藏室。Scorcher也裝有遠程遙控武器系統，上有裝有12。7mm重機槍以及40mm榴彈砲。</Chinese>
-          <Chinesesimp>基于获得许可的以色列坦克底盘，在其作为坦克的生命周期结束后，被改装成了“炙烤者”M4155毫米自行火炮。它能实施间接开火，拥有先进的弹道计算机，还能发射制导弹药。原来坦克用来运输人员的后座则被改装用于储存弹药。“炙烤者”也装有远程遥控武器系统，上有12。7毫米重机枪以及40毫米榴弹机枪。</Chinesesimp>
+          <Chinese>基於獲得許可的以色列坦克底盤，在其作為坦克的生命週期結束後，被改裝成了"炙烤者"M4自走砲，並裝載了155公厘迫擊砲。它有幾個重要的裝備，包括先進的火砲電腦，和可被導引的砲彈，這使它成為能夠提供間接火力支援的自走砲。原來坦克用來運輸人員的後座，則被改裝成了彈藥儲藏室。"炙烤者"也裝有遠程遙控武器系統，上有裝有12.7公厘重機槍以及40公厘榴彈砲。</Chinese>
+          <Chinesesimp>基于获得许可的以色列坦克底盘，在其作为坦克的生命周期结束后，被改装成了"炙烤者"M4 155毫米自行火炮。它能实施间接开火，拥有先进的弹道计算机，还能发射制导弹药。原来坦克用来运输人员的后座则被改装用于储存弹药。"炙烤者"也装有远程遥控武器系统，上有12.7毫米重机枪以及40毫米榴弹机枪。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_ugv_01_base_library0">
           <Original>The Stomper is a remote controlled unmanned ground combat vehicle designed for reconnaissance, surveillance and support. It's able to operate autonomously in large areas, while sending real-time data to the control center. Each wheel is powered by a separate electric engine, whose batteries are linked together to a diesel engine power unit. An armed variant of the Stomper is fitted with a RCWS turret carrying 40 mm cannon and 12.7 mm HMG. An OPFOR variant, designated Saif and Saif RCWS, is a cheaper and less reliable copy from the Asian region.</Original>
-          <Chinese>Stomper是一種設計用來偵察，監視和支援的遠程控制地面無人載具。它能夠在很大的區域內自主操作，並不間斷的發送數據回到控制中心。每個輪子是由各自的電動引擎所驅動，每個電動引擎在一起連接在柴油發電機上。武裝後的Stomper裝有遙控砲臺，其上設有40mm機砲和12。7mm重機槍。而紅方的地面無人載具，則是被取名叫"薩夫"，是一種來自亞洲地區廉價且不太可靠的山寨版Stomper。</Chinese>
-          <Chinesesimp>“践踏者”是一种设计用来侦察，监视和支援的远程控制地面无人载具。它能够在很大的区域内自主操作，并不间断地发送数据回到控制中心。每个轮子都由独立的电动机驱动，各个电动机的电池则一起连接在柴油发电机上。武装后的“践踏者”装有遥控武器站，其上设有40毫米榴弹机枪和12。7毫米重机枪。而红方的无人车则被取名叫"萨夫"，是一种来自亚洲地区廉价且不太可靠的山寨版“践踏者”。</Chinesesimp>
+          <Chinese>"踐踏者"是一種設計用來偵察，監視和支援的遠程控制地面無人載具。它能夠在很大的區域內自主操作，並不間斷的發送數據回到控制中心。每個輪子是由各自的電動引擎所驅動，每個電動引擎在一起連接在柴油發電機上。武裝後的Stomper裝有遙控砲臺，其上設有40mm機砲和12。7mm重機槍。而紅方的地面無人載具，則是被取名叫"薩夫"，是一種來自亞洲地區廉價且不太可靠的山寨版Stomper。</Chinese>
+          <Chinesesimp>"践踏者"是一种设计用来侦察，监视和支援的远程控制地面无人载具。它能够在很大的区域内自主操作，并不间断地发送数据回到控制中心。每个轮子都由独立的电动机驱动，各个电动机的电池则一起连接在柴油发电机上。武装后的"践踏者"装有遥控武器站，其上设有40毫米榴弹机枪和12。7毫米重机枪。而红方的无人车则被取名叫"萨夫"，是一种来自亚洲地区廉价且不太可靠的山寨版"践踏者"。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_car_base_library0">
           <Original>A four-seat hatchback car mass-produced in the Far East to satisfy increasing demand for family cars. Economical operation, enhanced safety and a roomy trunk made these cars widely popular in the whole of Europe. Also comes in a sporty version.</Original>
@@ -1670,13 +1670,13 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_o_plane_fighter_03_cas_library0">
           <Original>The A-143 Buzzard is a single seat light multi-purpose combat aircraft able to carry a wide range of equipment and weaponry. A-143 Buzzard has seven weapon hardpoints, three under each wing and one under the fuselage. Close air support armament consists of 20 mm twin cannon, two Skalpel air-to-ground missiles, two laser guided GBU-12 bombs and two short range air-to-air missiles. Anti-air variant of Buzzard is fitted with 20 mm twin cannon, two short range air-to-air missiles and four long range air-to-air Zephyr missiles.</Original>
-          <Chinese>A-143Buzzard是一臺單座輕型多用途戰鬥機，能夠裝載一系列裝備和武器。A-143Buzzard有七個掛架，每個機翼下有三個，機腹下一個。密接空中支援武器包括20mm機砲，兩發Skalpel空對地導彈，兩顆GBU-12雷射導引炸彈以及兩發短程空對空導彈。對空版本的Buzzard機型配有20mm機炮，兩發短程空對空導彈，和四發長程空對空Zephyr導彈。</Chinese>
-          <Chinesesimp>A-143“秃鹰”是一台单座轻型多用途战斗机，能够装载一系列装备和武器。A-143“秃鹰”有七个挂架，每个机翼下有三个，机腹下一个。密接空中支援武器包括20毫米机炮，两发“手术刀”空对地导弹，两颗GBU-12激光制导炸弹以及两发近程空空导弹。对空版本的“秃鹰”机型配有20毫米机炮，两发近程空空导弹，和四发远程空空“微风”导弹。</Chinesesimp>
+          <Chinese>A-143"禿鷹"是一臺單座輕型多用途戰鬥機，能夠裝載一系列裝備和武器。A-143"禿鷹"有七個掛架，每個機翼下有三個，機腹下一個。密接空中支援武器包括20公厘機砲，兩發"手术刀"空對地飛彈，兩顆GBU-12雷射導引炸彈以及兩發短程空對空飛彈。對空版本的"禿鷹"機型配有20公厘機炮，兩發短程空對空飛彈，和四發長程空對空"微风"飛彈。</Chinese>
+          <Chinesesimp>A-143"秃鹰"是一台单座轻型多用途战斗机，能够装载一系列装备和武器。A-143"秃鹰"有七个挂架，每个机翼下有三个，机腹下一个。密接空中支援武器包括20毫米机炮，两发"手术刀"空对地导弹，两颗GBU-12激光制导炸弹以及两发近程空空导弹。对空版本的"秃鹰"机型配有20毫米机炮，两发近程空空导弹，和四发远程空空"微风"导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_plane_fighter_03_base_f_library0">
           <Original>The A-143 Buzzard is a single seat light multi-purpose combat aircraft able to carry a wide range of equipment and weaponry. A-143 has seven weapon hardpoints, three under each wing and one under the fuselage. Standard armament consists of 20mm cannon, and a mixture of AA and AG rockets.</Original>
-          <Chinese>A-143Buzzard是一臺單座輕型多用途戰鬥機，能夠裝載一系列裝備和武器。A-143Buzzard有七個掛架，每個機翼下有三個，機腹下一個。標準裝備有20mm機砲，和數枚空對空與空對地火箭。</Chinese>
-          <Chinesesimp>A-143“秃鹰”是一种单座轻型多用途战斗机，能够装载一系列装备和武器。A-143“秃鹰”有七个挂架，每个机翼下有三个，机腹下一个。标准装备有20毫米机炮，和数枚空对空与空对地火箭。</Chinesesimp>
+          <Chinese>A-143"禿鷹"是一臺單座輕型多用途戰鬥機，能夠裝載一系列裝備和武器。A-14"禿鷹"有七個掛架，每個機翼下有三個，機腹下一個。標準裝備有20公厘機砲，和數枚空對空與空對地火箭。</Chinese>
+          <Chinesesimp>A-143"秃鹰"是一种单座轻型多用途战斗机，能够装载一系列装备和武器。A-143"秃鹰"有七个挂架，每个机翼下有三个，机腹下一个。标准装备有20毫米机炮，和数枚空对空与空对地火箭。</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -1920,12 +1920,12 @@
         <Key ID="str_a3_cfgvehicles_land_infostand_v1_f0">
           <Original>Infostand (1 leg)</Original>
           <Chinese>資訊板(1支腳)</Chinese>
-          <Chinesesimp>资讯板(1支脚)</Chinesesimp>
+          <Chinesesimp>资信板(1支脚)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_infostand_v2_f0">
           <Original>Infostand (2 legs)</Original>
           <Chinese>資訊板(2支腳)</Chinese>
-          <Chinesesimp>资讯板(2支脚)</Chinesesimp>
+          <Chinesesimp>资信板(2支脚)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_lampstadium_f0">
           <Original>Lamp (Stadium) [off]</Original>
@@ -2086,17 +2086,17 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_01_f0">
           <Original>Kavala Castle (01)</Original>
-          <Chinese>Kavala古堡(01)</Chinese>
+          <Chinese>卡瓦拉古堡(01)</Chinese>
           <Chinesesimp>卡瓦拉古堡(01)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_02_f0">
           <Original>Kavala Castle (02)</Original>
-          <Chinese>Kavala古堡(02)</Chinese>
+          <Chinese>卡瓦拉古堡(02)</Chinese>
           <Chinesesimp>卡瓦拉古堡(02)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_03_f0">
           <Original>Kavala Castle (03)</Original>
-          <Chinese>Kavala古堡(03)</Chinese>
+          <Chinese>卡瓦拉古堡(03)</Chinese>
           <Chinesesimp>卡瓦拉古堡(03)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_hospital_main_f0">
@@ -2106,57 +2106,57 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_04_f0">
           <Original>Kavala Castle (04)</Original>
-          <Chinese>Kavala古堡(04)</Chinese>
+          <Chinese>卡瓦拉古堡(04)</Chinese>
           <Chinesesimp>卡瓦拉古堡(04)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_05_f0">
           <Original>Kavala Castle (05)</Original>
-          <Chinese>Kavala古堡(05)</Chinese>
+          <Chinese>卡瓦拉古堡(05)</Chinese>
           <Chinesesimp>卡瓦拉古堡(05)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_06_f0">
           <Original>Kavala Castle (06)</Original>
-          <Chinese>Kavala古堡(06)</Chinese>
+          <Chinese>卡瓦拉古堡(06)</Chinese>
           <Chinesesimp>卡瓦拉古堡(06)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_07_f0">
           <Original>Kavala Castle (07)</Original>
-          <Chinese>Kavala古堡(07)</Chinese>
+          <Chinese>卡瓦拉古堡(07)</Chinese>
           <Chinesesimp>卡瓦拉古堡(07)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_08_f0">
           <Original>Kavala Castle (08)</Original>
-          <Chinese>Kavala古堡(08)</Chinese>
+          <Chinese>卡瓦拉古堡(08)</Chinese>
           <Chinesesimp>卡瓦拉古堡(08)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_09_f0">
           <Original>Kavala Castle (09)</Original>
-          <Chinese>Kavala古堡(09)</Chinese>
+          <Chinese>卡瓦拉古堡(09)</Chinese>
           <Chinesesimp>卡瓦拉古堡(09)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_10_f0">
           <Original>Kavala Castle (10)</Original>
-          <Chinese>Kavala古堡(10)</Chinese>
+          <Chinese>卡瓦拉古堡(10)</Chinese>
           <Chinesesimp>卡瓦拉古堡(10)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_11_f0">
           <Original>Kavala Castle (11)</Original>
-          <Chinese>Kavala古堡(11)</Chinese>
+          <Chinese>卡瓦拉古堡(11)</Chinese>
           <Chinesesimp>卡瓦拉古堡(11)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_12_f0">
           <Original>Kavala Castle (12)</Original>
-          <Chinese>Kavala古堡(12)</Chinese>
+          <Chinese>卡瓦拉古堡(12)</Chinese>
           <Chinesesimp>卡瓦拉古堡(12)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_13_f0">
           <Original>Kavala Castle (13)</Original>
-          <Chinese>Kavala古堡(13)</Chinese>
+          <Chinese>卡瓦拉古堡(13)</Chinese>
           <Chinesesimp>卡瓦拉古堡(13)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_14_f0">
           <Original>Kavala Castle (14)</Original>
-          <Chinese>Kavala古堡(14)</Chinese>
+          <Chinese>卡瓦拉古堡(14)</Chinese>
           <Chinesesimp>卡瓦拉古堡(14)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wip_f0">
@@ -2166,17 +2166,17 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_15_f0">
           <Original>Kavala Castle (15)</Original>
-          <Chinese>Kavala古堡(15)</Chinese>
+          <Chinese>卡瓦拉古堡(15)</Chinese>
           <Chinesesimp>卡瓦拉古堡(15)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_16_f0">
           <Original>Kavala Castle (16)</Original>
-          <Chinese>Kavala古堡(16)</Chinese>
+          <Chinese>卡瓦拉古堡(16)</Chinese>
           <Chinesesimp>卡瓦拉古堡(16)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_house_ruin_f0">
           <Original>Kavala Castle (House, Ruin)</Original>
-          <Chinese>Kavala古堡(屋子，廢墟)</Chinese>
+          <Chinese>卡瓦拉古堡(屋子，廢墟)</Chinese>
           <Chinesesimp>卡瓦拉古堡(屋子，废墟)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_castle_church_ruin_f0">
@@ -3009,12 +3009,12 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_map_f0">
           <Original>Map of Stratis</Original>
-          <Chinese>Stratis地圖</Chinese>
+          <Chinese>斯特拉蒂斯地圖</Chinese>
           <Chinesesimp>斯特拉蒂斯地图</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_map_unfolded_f0">
           <Original>Map of Stratis (Open)</Original>
-          <Chinese>Stratis地圖(開啟)</Chinese>
+          <Chinese>斯特拉蒂斯地圖(開啟)</Chinese>
           <Chinesesimp>斯特拉蒂斯地图(开启)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_mobilephone_old_f0">
@@ -3136,12 +3136,12 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_aaf_f0">
           <Original>Flag (AAF)</Original>
-          <Chinese>旗幟(Altis政府軍)</Chinese>
+          <Chinese>旗幟(阿爾蒂斯武裝力量)</Chinese>
           <Chinesesimp>旗帜(阿尔蒂斯武装力量)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_altis_f0">
           <Original>Flag (Altis)</Original>
-          <Chinese>旗幟(Altis)</Chinese>
+          <Chinese>旗幟(阿爾蒂斯)</Chinese>
           <Chinesesimp>旗帜(阿尔蒂斯)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_camonet_open_f0">
@@ -3151,7 +3151,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_bi_f0">
           <Original>Flag (BI)</Original>
-          <Chinese>旗幟(BI)</Chinese>
+          <Chinese>旗幟(波西米亞互動)</Chinese>
           <Chinesesimp>旗帜(波希米亚互动)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_blue_f0">
@@ -3166,8 +3166,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_fia_f0">
           <Original>Flag (FIA)</Original>
-          <Chinese>旗幟(自由陣線)</Chinese>
-          <Chinesesimp>旗帜(自由阵线)</Chinesesimp>
+          <Chinese>旗幟(自由獨立同盟)</Chinese>
+          <Chinesesimp>旗帜(自由独立同盟)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_green_f0">
           <Original>Flag (Green)</Original>
@@ -3191,7 +3191,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_altiscolonial_f0">
           <Original>Flag (Altis Colonial)</Original>
-          <Chinese>旗幟(Altis殖民地)</Chinese>
+          <Chinese>旗幟(阿爾蒂斯殖民地)</Chinese>
           <Chinesesimp>旗帜(阿尔蒂斯殖民地)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_flag_uk_f0">
@@ -3530,8 +3530,8 @@
       <Container name="Wrecks">
         <Key ID="str_a3_cfgvehicles_land_uwreck_mi48_f0">
           <Original>Mi-48 Wreck (Underwater)</Original>
-          <Chinese>Mi-48殘骸(水面下)</Chinese>
-          <Chinesesimp>Mi-48残骸(水面下)</Chinesesimp>
+          <Chinese>米-48殘骸(水面下)</Chinese>
+          <Chinesesimp>米-48残骸(水面下)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_bmp2_f0">
           <Original>BMP2 Wreck</Original>
@@ -3555,23 +3555,23 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_mi48_f0">
           <Original>Mi-48 Wreck</Original>
-          <Chinese>Mi-48殘骸</Chinese>
-          <Chinesesimp>Mi-48残骸</Chinesesimp>
+          <Chinese>米-48殘骸</Chinese>
+          <Chinesesimp>米-48残骸</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_slammer_f0">
           <Original>Slammer Wreck</Original>
-          <Chinese>Slammer殘骸</Chinese>
-          <Chinesesimp>Slammer残骸</Chinesesimp>
+          <Chinese>"重擊者"殘骸</Chinese>
+          <Chinesesimp>"重击者"残骸</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_slammer_hull_f0">
           <Original>Slammer Wreck (Hull)</Original>
-          <Chinese>Slammer殘骸(車體)</Chinese>
-          <Chinesesimp>Slammer残骸(车体)</Chinesesimp>
+          <Chinese>"重擊者"殘骸(車體)</Chinese>
+          <Chinesesimp>"重击者"残骸(车体)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_slammer_turret_f0">
           <Original>Slammer Wreck (Turret)</Original>
-          <Chinese>Slammer殘骸(炮塔)</Chinese>
-          <Chinesesimp>Slammer残骸(炮塔)</Chinesesimp>
+          <Chinese>"重擊者"殘骸(炮塔)</Chinese>
+          <Chinesesimp>"重击者"残骸(炮塔)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_land_wreck_t72_hull_f0">
           <Original>T-72 Wreck (Hull)</Original>
@@ -3822,102 +3822,102 @@
     <Container name="Map_Altis">
       <Key ID="str_a3_zarosbay0">
         <Original>Zaros Bay</Original>
-        <Chinese>Zaros海灣</Chinese>
+        <Chinese>扎羅斯海灣</Chinese>
         <Chinesesimp>扎罗斯湾</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Map_Altis">
         <Original>Altis</Original>
-        <Chinese>Altis</Chinese>
+        <Chinese>阿爾蒂斯</Chinese>
         <Chinesesimp>阿尔蒂斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_zaros0">
         <Original>Zaros</Original>
-        <Chinese>Zaros</Chinese>
+        <Chinese>扎羅斯</Chinese>
         <Chinesesimp>扎罗斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_aacairfield0">
         <Original>AAC airfield</Original>
-        <Chinese>Altis空中俱樂部機場</Chinese>
+        <Chinese>阿爾蒂斯空中俱樂部機場</Chinese>
         <Chinesesimp>阿尔蒂斯空中俱乐部机场</Chinesesimp>
       </Key>
       <Key ID="str_a3_xirolimnidam0">
         <Original>Xirolimni Dam</Original>
-        <Chinese>Xirolimni水壩</Chinese>
+        <Chinese>克西羅利姆尼水壩</Chinese>
         <Chinesesimp>克西罗利姆尼水坝</Chinesesimp>
       </Key>
       <Key ID="str_a3_abdera0">
         <Original>Abdera</Original>
-        <Chinese>Abdera</Chinese>
+        <Chinese>阿布德拉</Chinese>
         <Chinesesimp>阿布德拉</Chinesesimp>
       </Key>
       <Key ID="str_a3_vikos0">
         <Original>Vikos</Original>
-        <Chinese>Vikos</Chinese>
+        <Chinese>維科斯</Chinese>
         <Chinesesimp>维科斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_agela0">
         <Original>Agela</Original>
-        <Chinese>Agela</Chinese>
+        <Chinese>阿格拉</Chinese>
         <Chinesesimp>阿格拉</Chinesesimp>
       </Key>
       <Key ID="str_a3_trachia0">
         <Original>Trachia</Original>
-        <Chinese>Trachia</Chinese>
+        <Chinese>特拉恰</Chinese>
         <Chinesesimp>特拉恰</Chinesesimp>
       </Key>
       <Key ID="str_a3_aggelochori0">
         <Original>Aggelochori</Original>
-        <Chinese>Aggelochori</Chinese>
+        <Chinese>阿傑洛克里</Chinese>
         <Chinesesimp>阿杰洛克里</Chinesesimp>
       </Key>
       <Key ID="str_a3_topolia0">
         <Original>Topolia</Original>
-        <Chinese>Topolia</Chinese>
+        <Chinese>托珀利亞</Chinese>
         <Chinesesimp>托珀利亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_agiapelagia0">
         <Original>Agia Pelagia</Original>
-        <Chinese>AgiaPelagia</Chinese>
+        <Chinese>聖佩拉伊亞</Chinese>
         <Chinesesimp>圣佩拉伊亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_tonosbay0">
         <Original>Tonos Bay</Original>
-        <Chinese>Tonos海灣</Chinese>
+        <Chinese>托諾斯海灣</Chinese>
         <Chinesesimp>托诺斯湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_agiastemma0">
         <Original>Agia Stemma</Original>
-        <Chinese>AgiaStemma</Chinese>
+        <Chinese>聖斯泰瑪</Chinese>
         <Chinesesimp>圣斯泰玛</Chinesesimp>
       </Key>
       <Key ID="str_a3_thronos0">
         <Original>Thronos</Original>
-        <Chinese>Thronos</Chinese>
+        <Chinese>斯羅諾斯</Chinese>
         <Chinesesimp>斯罗诺斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_agiatriada0">
         <Original>Agia Triada</Original>
-        <Chinese>AgiaTriada</Chinese>
+        <Chinese>聖特里亞達</Chinese>
         <Chinesesimp>圣特里亚达</Chinesesimp>
       </Key>
       <Key ID="str_a3_therisa0">
         <Original>Therisa</Original>
-        <Chinese>Therisa</Chinese>
+        <Chinese>賽里薩</Chinese>
         <Chinesesimp>塞里萨</Chinesesimp>
       </Key>
       <Key ID="str_a3_agiosandreas0">
         <Original>Agios Andreas</Original>
-        <Chinese>AgiosAndreas</Chinese>
+        <Chinese>聖安兹雷亞斯</Chinese>
         <Chinesesimp>圣安兹雷亚斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_thelosbay0">
         <Original>Thelos Bay</Original>
-        <Chinese>Thelos海灣</Chinese>
+        <Chinese>塞洛斯海灣</Chinese>
         <Chinesesimp>塞洛斯湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_agiosdionysios0">
         <Original>Agios Dionysios</Original>
-        <Chinese>AgiosDionysios</Chinese>
+        <Chinese>聖迪奧尼西奧斯</Chinese>
         <Chinesesimp>圣迪奥尼西奥斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_terminal010">
@@ -3927,47 +3927,47 @@
       </Key>
       <Key ID="str_a3_agiosgeorgios0">
         <Original>Agios Georgios</Original>
-        <Chinese>AgiosGeorgios</Chinese>
+        <Chinese>聖耶奧爾伊奧斯</Chinese>
         <Chinesesimp>圣耶奥尔伊奥斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_telos0">
         <Original>Telos</Original>
-        <Chinese>Telos</Chinese>
+        <Chinese>泰洛斯</Chinese>
         <Chinesesimp>泰洛斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_agioskonstantinos0">
         <Original>Agios Konstantinos</Original>
-        <Chinese>AgiosKonstantinos</Chinese>
+        <Chinese>聖孔斯坦蒂諾斯</Chinese>
         <Chinesesimp>圣孔斯坦蒂诺斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_tafos0">
         <Original>Tafos</Original>
-        <Chinese>Tafos</Chinese>
+        <Chinese>塔福斯</Chinese>
         <Chinesesimp>塔福斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_agioskosmas0">
         <Original>Agios Kosmas</Original>
-        <Chinese>AgiosKosmas</Chinese>
+        <Chinese>聖科斯馬斯</Chinese>
         <Chinesesimp>圣科斯马斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_syrta0">
         <Original>Syrta</Original>
-        <Chinese>Syrta</Chinese>
+        <Chinese>西爾塔</Chinese>
         <Chinesesimp>西尔塔</Chinesesimp>
       </Key>
       <Key ID="str_a3_agiosminas0">
         <Original>Agios Minas</Original>
-        <Chinese>AgiosMinas</Chinese>
+        <Chinese>聖米納斯</Chinese>
         <Chinesesimp>圣米纳斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_synneforos0">
         <Original>Synneforos</Original>
-        <Chinese>Synneforos</Chinese>
+        <Chinese>西尼福羅斯</Chinese>
         <Chinesesimp>西尼福罗斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_agiospanagiotis0">
         <Original>Agios Panagiotis</Original>
-        <Chinese>AgiosPanagiotis</Chinese>
+        <Chinese>聖帕帕喬蒂斯</Chinese>
         <Chinesesimp>圣帕帕乔蒂斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_sufrclub0">
@@ -3977,7 +3977,7 @@
       </Key>
       <Key ID="str_a3_agiospetros0">
         <Original>Agios Petros</Original>
-        <Chinese>AgiosPetros</Chinese>
+        <Chinese>聖皮特羅斯</Chinese>
         <Chinesesimp>圣皮特罗斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_storage010">
@@ -3992,12 +3992,12 @@
       </Key>
       <Key ID="str_a3_stavros0">
         <Original>Stavros</Original>
-        <Chinese>Stavros</Chinese>
+        <Chinese>斯塔夫羅斯</Chinese>
         <Chinesesimp>斯塔夫罗斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_aktinarki0">
         <Original>Aktinarki</Original>
-        <Chinese>Aktinarki</Chinese>
+        <Chinese>阿克蒂納爾基</Chinese>
         <Chinesesimp>阿克蒂纳尔基</Chinesesimp>
       </Key>
       <Key ID="str_a3_stadium0">
@@ -4007,97 +4007,97 @@
       </Key>
       <Key ID="str_a3_alikampos0">
         <Original>Alikampos</Original>
-        <Chinese>Alikampos</Chinese>
+        <Chinese>阿利卡姆波斯</Chinese>
         <Chinesesimp>阿利卡姆波斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_sofia0">
         <Original>Sofia</Original>
-        <Chinese>Sofia</Chinese>
+        <Chinese>索菲亞</Chinese>
         <Chinesesimp>索菲亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_almyra0">
         <Original>Almyra</Original>
-        <Chinese>Almyra</Chinese>
+        <Chinese>阿爾米拉</Chinese>
         <Chinesesimp>阿尔米拉</Chinesesimp>
       </Key>
       <Key ID="str_a3_skopos0">
         <Original>Skopos</Original>
-        <Chinese>Skopos</Chinese>
+        <Chinese>斯科波斯</Chinese>
         <Chinesesimp>斯科波斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_amfissa0">
         <Original>Amfissa</Original>
-        <Chinese>Amfissa</Chinese>
+        <Chinese>阿姆菲薩</Chinese>
         <Chinesesimp>阿姆菲萨</Chinesesimp>
       </Key>
       <Key ID="str_a3_skiptro0">
         <Original>Skiptro</Original>
-        <Chinese>Skiptro</Chinese>
+        <Chinese>斯基普特羅</Chinese>
         <Chinesesimp>斯基普特罗</Chinesesimp>
       </Key>
       <Key ID="str_a3_ammolofibay0">
         <Original>Ammolofi Bay</Original>
-        <Chinese>Ammolofi海灣</Chinese>
+        <Chinese>阿莫洛菲海灣</Chinese>
         <Chinesesimp>阿莫洛菲湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_sideras0">
         <Original>Sideras</Original>
-        <Chinese>Sideras</Chinese>
+        <Chinese>西澤拉斯</Chinese>
         <Chinesesimp>西泽拉斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_amoni0">
         <Original>Amoni</Original>
-        <Chinese>Amoni</Chinese>
+        <Chinese>阿莫尼</Chinese>
         <Chinesesimp>阿莫尼</Chinesesimp>
       </Key>
       <Key ID="str_a3_sfaka0">
         <Original>Sfaka</Original>
-        <Chinese>Sfaka</Chinese>
+        <Chinese>斯卡法</Chinese>
         <Chinesesimp>斯法卡</Chinesesimp>
       </Key>
       <Key ID="str_a3_anthrakia0">
         <Original>Anthrakia</Original>
-        <Chinese>Anthrakia</Chinese>
+        <Chinese>安斯拉基亞</Chinese>
         <Chinesesimp>安斯拉基亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_selakano0">
         <Original>Selakano</Original>
-        <Chinese>Selakano</Chinese>
+        <Chinese>塞拉卡諾</Chinese>
         <Chinesesimp>塞拉卡诺</Chinesesimp>
       </Key>
       <Key ID="str_a3_aristi0">
         <Original>Aristi</Original>
-        <Chinese>Aristi</Chinese>
+        <Chinese>阿里斯蒂</Chinese>
         <Chinesesimp>阿里斯蒂</Chinesesimp>
       </Key>
       <Key ID="str_a3_savriisland0">
         <Original>Savri</Original>
-        <Chinese>Savri</Chinese>
+        <Chinese>薩夫里</Chinese>
         <Chinesesimp>萨夫里</Chinesesimp>
       </Key>
       <Key ID="str_a3_athanos0">
         <Original>Athanos</Original>
-        <Chinese>Athanos</Chinese>
+        <Chinese>阿薩諾斯</Chinese>
         <Chinesesimp>阿萨诺斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_sagonisiisland0">
         <Original>Sagonisi</Original>
-        <Chinese>Sagonisi</Chinese>
+        <Chinese>薩恩戈尼西</Chinese>
         <Chinesesimp>萨恩戈尼西</Chinesesimp>
       </Key>
       <Key ID="str_a3_athira0">
         <Original>Athira</Original>
-        <Chinese>Athira</Chinese>
+        <Chinese>阿西拉</Chinese>
         <Chinesesimp>阿西拉</Chinesesimp>
       </Key>
       <Key ID="str_a3_rodopoli0">
         <Original>Rodopoli</Original>
-        <Chinese>Rodopoli</Chinese>
+        <Chinese>羅佐波利</Chinese>
         <Chinesesimp>罗佐波利</Chinesesimp>
       </Key>
       <Key ID="str_a3_atsalisisland0">
         <Original>Atsalis</Original>
-        <Chinese>Atsalis</Chinese>
+        <Chinese>阿特薩利斯</Chinese>
         <Chinesesimp>阿特萨利斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_quarry020">
@@ -4107,47 +4107,47 @@
       </Key>
       <Key ID="str_a3_bomos0">
         <Original>Bomos</Original>
-        <Chinese>Bomos</Chinese>
+        <Chinese>沃莫斯</Chinese>
         <Chinesesimp>沃莫斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_pyrsos0">
         <Original>Pyrsos</Original>
-        <Chinese>Pyrsos</Chinese>
+        <Chinese>皮爾索斯</Chinese>
         <Chinesesimp>皮尔索斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_capagrios0">
         <Original>Cape Agrios</Original>
-        <Chinese>Agrios角</Chinese>
+        <Chinese>阿格里奧斯角</Chinese>
         <Chinesesimp>阿格里奥斯角</Chinesesimp>
       </Key>
       <Key ID="str_a3_pyrgosgulf0">
         <Original>Pyrgos Gulf</Original>
-        <Chinese>Pyrgos海灣</Chinese>
+        <Chinese>皮戈爾斯海灣</Chinese>
         <Chinesesimp>皮尔戈斯湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_capdrakontas0">
         <Original>Cape Drakontas</Original>
-        <Chinese>Drakontas角</Chinese>
+        <Chinese>德拉孔塔斯角</Chinese>
         <Chinesesimp>德拉孔塔斯角</Chinesesimp>
       </Key>
       <Key ID="str_a3_pyrgos0">
         <Original>Pyrgos</Original>
-        <Chinese>Pyrgos</Chinese>
+        <Chinese>皮爾戈斯</Chinese>
         <Chinesesimp>皮尔戈斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_capkategidis0">
         <Original>Cape Kategidis</Original>
-        <Chinese>Kategidis角</Chinese>
+        <Chinese>卡泰伊季斯角</Chinese>
         <Chinesesimp>卡泰伊季斯角</Chinesesimp>
       </Key>
       <Key ID="str_a3_pyrgiisland0">
         <Original>Pyrgi</Original>
-        <Chinese>Pyrgi</Chinese>
+        <Chinese>皮爾伊</Chinese>
         <Chinesesimp>皮尔伊</Chinesesimp>
       </Key>
       <Key ID="str_a3_capmakrinos0">
         <Original>Cape Makrinos</Original>
-        <Chinese>Makrinos角</Chinese>
+        <Chinese>馬克里諾斯角</Chinese>
         <Chinesesimp>马克里诺斯角</Chinesesimp>
       </Key>
       <Key ID="str_a3_powerplant020">
@@ -4157,32 +4157,32 @@
       </Key>
       <Key ID="str_a3_capstrigla0">
         <Original>Cape Strigla</Original>
-        <Chinese>Strigla角</Chinese>
+        <Chinese>斯特里格拉角</Chinese>
         <Chinesesimp>斯特里格拉角</Chinesesimp>
       </Key>
       <Key ID="str_a3_poliakko0">
         <Original>Poliakko</Original>
-        <Chinese>Poliakko</Chinese>
+        <Chinese>波利亞科</Chinese>
         <Chinesesimp>波利亚科</Chinesesimp>
       </Key>
       <Key ID="str_a3_capthelos0">
         <Original>Cape Thelos</Original>
-        <Chinese>Thelos角</Chinese>
+        <Chinese>塞洛斯角</Chinese>
         <Chinesesimp>塞洛斯角</Chinesesimp>
       </Key>
       <Key ID="str_a3_polemistia0">
         <Original>Polemistia</Original>
-        <Chinese>Polemistia</Chinese>
+        <Chinese>波來米斯蒂亞</Chinese>
         <Chinesesimp>波莱米斯蒂亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_capzefyris0">
         <Original>Cape Zefyris</Original>
-        <Chinese>Zefyris角</Chinese>
+        <Chinese>澤菲里斯角</Chinese>
         <Chinesesimp>泽菲里斯角</Chinesesimp>
       </Key>
       <Key ID="str_a3_pefkasbay0">
         <Original>Pefkas Bay</Original>
-        <Chinese>Pefkas海灣</Chinese>
+        <Chinese>佩夫卡海灣</Chinese>
         <Chinesesimp>佩夫卡斯湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_castle0">
@@ -4192,87 +4192,87 @@
       </Key>
       <Key ID="str_a3_paros0">
         <Original>Paros</Original>
-        <Chinese>Paros</Chinese>
+        <Chinese>帕羅斯</Chinese>
         <Chinesesimp>帕罗斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_chalkeia0">
         <Original>Chalkeia</Original>
-        <Chinese>Chalkeia</Chinese>
+        <Chinese>哈爾基亞</Chinese>
         <Chinesesimp>哈尔基亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_panochoribay0">
         <Original>Panochori Bay</Original>
-        <Chinese>Panochori海灣</Chinese>
+        <Chinese>帕諾霍里海灣</Chinese>
         <Chinesesimp>帕诺霍里湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_chalkeiabay0">
         <Original>Chalkeia Bay</Original>
-        <Chinese>Chalkeia海灣</Chinese>
+        <Chinese>哈爾基亞海灣</Chinese>
         <Chinesesimp>哈尔基亚湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_panochori0">
         <Original>Panochori</Original>
-        <Chinese>Panochori</Chinese>
+        <Chinese>帕諾霍里</Chinese>
         <Chinesesimp>帕诺霍里</Chinesesimp>
       </Key>
       <Key ID="str_a3_charkia0">
         <Original>Charkia</Original>
-        <Chinese>Charkia</Chinese>
+        <Chinese>哈基亞</Chinese>
         <Chinesesimp>哈基亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_panagia0">
         <Original>Panagia</Original>
-        <Chinese>Panagia</Chinese>
+        <Chinese>帕納伊亞</Chinese>
         <Chinesesimp>帕纳伊亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_chelonisiisland0">
         <Original>Chelonisi</Original>
-        <Chinese>Chelonisi</Chinese>
+        <Chinese>希洛尼西</Chinese>
         <Chinesesimp>希洛尼西</Chinesesimp>
       </Key>
       <Key ID="str_a3_orino0">
         <Original>Orino</Original>
-        <Chinese>Orino</Chinese>
+        <Chinese>奧里諾</Chinese>
         <Chinesesimp>奥里诺</Chinesesimp>
       </Key>
       <Key ID="str_a3_delfinaki0">
         <Original>Delfinaki</Original>
-        <Chinese>Delfinaki</Chinese>
+        <Chinese>澤爾菲納基</Chinese>
         <Chinesesimp>泽尔菲纳基</Chinesesimp>
       </Key>
       <Key ID="str_a3_oreokastro0">
         <Original>Oreokastro</Original>
-        <Chinese>Oreokastro</Chinese>
+        <Chinese>奧雷奧卡斯特羅</Chinese>
         <Chinesesimp>奥雷奥卡斯特罗</Chinesesimp>
       </Key>
       <Key ID="str_a3_didymos0">
         <Original>Didymos</Original>
-        <Chinese>Didymos</Chinese>
+        <Chinese>迪季莫斯</Chinese>
         <Chinesesimp>迪季莫斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_ochrolimni0">
         <Original>Ochrolimni</Original>
-        <Chinese>Ochrolimni</Chinese>
+        <Chinese>奧赫羅利姆尼</Chinese>
         <Chinesesimp>奥赫罗利姆尼</Chinesesimp>
       </Key>
       <Key ID="str_a3_dorida0">
         <Original>Dorida</Original>
-        <Chinese>Dorida</Chinese>
+        <Chinese>多里達</Chinese>
         <Chinesesimp>多里达</Chinesesimp>
       </Key>
       <Key ID="str_a3_nychi0">
         <Original>Nychi</Original>
-        <Chinese>Nychi</Chinese>
+        <Chinese>尼希</Chinese>
         <Chinesesimp>尼希</Chinesesimp>
       </Key>
       <Key ID="str_a3_drimea0">
         <Original>Drimea</Original>
-        <Chinese>Drimea</Chinese>
+        <Chinese>兹里梅亞</Chinese>
         <Chinesesimp>兹里梅亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_nifi0">
         <Original>Nifi</Original>
-        <Chinese>Nifi</Chinese>
+        <Chinese>尼菲</Chinese>
         <Chinesesimp>尼菲</Chinesesimp>
       </Key>
       <Key ID="str_a3_dump0">
@@ -4282,57 +4282,57 @@
       </Key>
       <Key ID="str_a3_nidasos0">
         <Original>Nidasos</Original>
-        <Chinese>Nidasos</Chinese>
+        <Chinese>尼達索斯</Chinese>
         <Chinesesimp>尼达索斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_edessa0">
         <Original>Edessa</Original>
-        <Chinese>Edessa</Chinese>
+        <Chinese>埃澤薩</Chinese>
         <Chinesesimp>埃泽萨</Chinesesimp>
       </Key>
       <Key ID="str_a3_neribay0">
         <Original>Neri Bay</Original>
-        <Chinese>Neri海灣</Chinese>
+        <Chinese>内里海灣</Chinese>
         <Chinesesimp>内里湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_edessabay0">
         <Original>Edessa Bay</Original>
-        <Chinese>Edessa海灣</Chinese>
+        <Chinese>埃澤薩海灣</Chinese>
         <Chinesesimp>埃泽萨湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_neri0">
         <Original>Neri</Original>
-        <Chinese>Neri</Chinese>
+        <Chinese>内里</Chinese>
         <Chinesesimp>内里</Chinesesimp>
       </Key>
       <Key ID="str_a3_edoris0">
         <Original>Edoris</Original>
-        <Chinese>Edoris</Chinese>
+        <Chinese>埃佐里斯</Chinese>
         <Chinesesimp>埃佐里斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_neochori0">
         <Original>Neochori</Original>
-        <Chinese>Neochori</Chinese>
+        <Chinese>内奧霍里</Chinese>
         <Chinesesimp>内奥霍里</Chinesesimp>
       </Key>
       <Key ID="str_a3_eginio0">
         <Original>Eginio</Original>
-        <Chinese>Eginio</Chinese>
+        <Chinese>埃伊尼奧</Chinese>
         <Chinesesimp>埃伊尼奥</Chinesesimp>
       </Key>
       <Key ID="str_a3_negadesbay0">
         <Original>Negades Bay</Original>
-        <Chinese>Negades海灣</Chinese>
+        <Chinese>内加澤海灣</Chinese>
         <Chinesesimp>内加泽斯湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_ekali0">
         <Original>Ekali</Original>
-        <Chinese>Ekali</Chinese>
+        <Chinese>埃卡利</Chinese>
         <Chinesesimp>埃卡利</Chinesesimp>
       </Key>
       <Key ID="str_a3_negades0">
         <Original>Negades</Original>
-        <Chinese>Negades</Chinese>
+        <Chinese>内加澤斯</Chinese>
         <Chinesesimp>内加泽斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_factory040">
@@ -4342,52 +4342,52 @@
       </Key>
       <Key ID="str_a3_naftiabay0">
         <Original>Naftia Bay</Original>
-        <Chinese>Naftia海灣</Chinese>
+        <Chinese>納夫蒂亞海灣</Chinese>
         <Chinesesimp>纳夫蒂亚湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_faronaki0">
         <Original>Faronaki</Original>
-        <Chinese>Faronaki</Chinese>
+        <Chinese>法羅納基</Chinese>
         <Chinesesimp>法罗纳基</Chinesesimp>
       </Key>
       <Key ID="str_a3_monisiisland0">
         <Original>Monisi</Original>
-        <Chinese>Monisi</Chinese>
+        <Chinese>莫尼西</Chinese>
         <Chinesesimp>莫尼西</Chinesesimp>
       </Key>
       <Key ID="str_a3_faros0">
         <Original>Faros</Original>
-        <Chinese>Faros</Chinese>
+        <Chinese>法羅斯</Chinese>
         <Chinesesimp>法罗斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_molosbay0">
         <Original>Molos Bay</Original>
-        <Chinese>Molos海灣</Chinese>
+        <Chinese>莫洛斯海灣</Chinese>
         <Chinesesimp>莫洛斯湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_feres0">
         <Original>Feres</Original>
-        <Chinese>Feres</Chinese>
+        <Chinese>費雷斯</Chinese>
         <Chinesesimp>费雷斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_molosairfield0">
         <Original>Molos Airfield</Original>
-        <Chinese>Molos機場</Chinese>
+        <Chinese>莫洛斯機場</Chinese>
         <Chinesesimp>莫洛斯机场</Chinesesimp>
       </Key>
       <Key ID="str_a3_fotia0">
         <Original>Fotia</Original>
-        <Chinese>Fotia</Chinese>
+        <Chinese>福蒂亞</Chinese>
         <Chinesesimp>福蒂亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_molos0">
         <Original>Molos</Original>
-        <Chinese>Molos</Chinese>
+        <Chinese>莫洛斯</Chinese>
         <Chinesesimp>莫洛斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_fournosisland0">
         <Original>Fournos</Original>
-        <Chinese>Fournos</Chinese>
+        <Chinese>富爾諾斯</Chinese>
         <Chinesesimp>富尔诺斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_mine010">
@@ -4397,7 +4397,7 @@
       </Key>
       <Key ID="str_a3_frini0">
         <Original>Frini</Original>
-        <Chinese>Frini</Chinese>
+        <Chinese>夫里尼</Chinese>
         <Chinesesimp>夫里尼</Chinesesimp>
       </Key>
       <Key ID="str_a3_military010">
@@ -4407,324 +4407,324 @@
       </Key>
       <Key ID="str_a3_galananerabay0">
         <Original>Galana Nera Bay</Original>
-        <Chinese>GalanaNera海灣</Chinese>
+        <Chinese>加拉納·内拉海灣</Chinese>
         <Chinesesimp>加拉纳·内拉湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_melanerabay0">
         <Original>Melanera Bay</Original>
-        <Chinese>Melanera海灣</Chinese>
+        <Chinese>梅拉内海灣</Chinese>
         <Chinesesimp>梅拉内拉湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_galati0">
         <Original>Galati</Original>
-        <Chinese>Galati</Chinese>
+        <Chinese>加拉蒂</Chinese>
         <Chinesesimp>加拉蒂</Chinesesimp>
       </Key>
       <Key ID="str_a3_mazibay0">
         <Original>Mazi Bay</Original>
-        <Chinese>Mazi海灣</Chinese>
+        <Chinese>馬齊海灣</Chinese>
         <Chinesesimp>马齐湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_gatolia0">
         <Original>Gatolia</Original>
-        <Chinese>Gatolia</Chinese>
+        <Chinese>加托利亞</Chinese>
         <Chinesesimp>加托利亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_mazi0">
         <Original>Mazi</Original>
-        <Chinese>Mazi</Chinese>
+        <Chinese>馬齊</Chinese>
         <Chinesesimp>马齐</Chinesesimp>
       </Key>
       <Key ID="str_a3_gori0">
         <Original>Gori</Original>
-        <Chinese>Gori</Chinese>
+        <Chinese>戈里</Chinese>
         <Chinesesimp>戈里</Chinesesimp>
       </Key>
       <Key ID="str_a3_gravia0">
         <Original>Gravia</Original>
-        <Chinese>Gravia</Chinese>
+        <Chinese>格拉維亞</Chinese>
         <Chinesesimp>格拉维亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_makrynisiisland0">
         <Original>Makrynisi</Original>
-        <Chinese>Makrynisi</Chinese>
+        <Chinese>馬克里尼西</Chinese>
         <Chinesesimp>马克里尼西</Chinesesimp>
       </Key>
       <Key ID="str_a3_hill020">
         <Original>Kira</Original>
-        <Chinese>Kira</Chinese>
+        <Chinese>基拉</Chinese>
         <Chinesesimp>基拉</Chinesesimp>
       </Key>
       <Key ID="str_a3_magos0">
         <Original>Magos</Original>
-        <Chinese>Magos</Chinese>
+        <Chinese>馬戈斯</Chinese>
         <Chinesesimp>马戈斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_hill050">
         <Original>Riga</Original>
-        <Chinese>Riga</Chinese>
+        <Chinese>里加</Chinese>
         <Chinesesimp>里加</Chinesesimp>
       </Key>
       <Key ID="str_a3_livadi0">
         <Original>Livadi</Original>
-        <Chinese>Livadi</Chinese>
+        <Chinese>利瓦季</Chinese>
         <Chinesesimp>利瓦季</Chinesesimp>
       </Key>
       <Key ID="str_a3_ifestiona0">
         <Original>Ifestiona</Original>
-        <Chinese>Ifestiona</Chinese>
+        <Chinese>伊費斯蒂奧納</Chinese>
         <Chinesesimp>伊费斯蒂奥纳</Chinesesimp>
       </Key>
       <Key ID="str_a3_limnichori0">
         <Original>Limnichori</Original>
-        <Chinese>Limnichori</Chinese>
+        <Chinese>利姆尼霍里</Chinese>
         <Chinesesimp>利姆尼霍里</Chinesesimp>
       </Key>
       <Key ID="str_a3_ioannina0">
         <Original>Ioannina</Original>
-        <Chinese>Ioannina</Chinese>
+        <Chinese>伊奧安尼納</Chinese>
         <Chinesesimp>伊奥安尼纳</Chinesesimp>
       </Key>
       <Key ID="str_a3_limni0">
         <Original>Limni</Original>
-        <Chinese>Limni</Chinese>
+        <Chinese>利姆尼</Chinese>
         <Chinesesimp>利姆尼</Chinesesimp>
       </Key>
       <Key ID="str_a3_iraklia0">
         <Original>Iraklia</Original>
-        <Chinese>Iraklia</Chinese>
+        <Chinese>伊拉克利亞</Chinese>
         <Chinesesimp>伊拉克利亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_lakka0">
         <Original>Lakka</Original>
-        <Chinese>Lakka</Chinese>
+        <Chinese>拉卡</Chinese>
         <Chinesesimp>拉卡</Chinesesimp>
       </Key>
       <Key ID="str_a3_iremibay0">
         <Original>Iremi Bay</Original>
-        <Chinese>Iremi海灣</Chinese>
+        <Chinese>伊雷米海灣</Chinese>
         <Chinesesimp>伊雷米湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_kryanera0">
         <Original>Krya Nera</Original>
-        <Chinese>KryaNera</Chinese>
+        <Chinese>克里亞·内拉</Chinese>
         <Chinesesimp>克里亚·内拉</Chinesesimp>
       </Key>
       <Key ID="str_a3_kalithea0">
         <Original>Kalithea</Original>
-        <Chinese>Kalithea</Chinese>
+        <Chinese>卡利塞亞</Chinese>
         <Chinesesimp>卡利塞亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_koroni0">
         <Original>Koroni</Original>
-        <Chinese>Koroni</Chinese>
+        <Chinese>科羅尼</Chinese>
         <Chinesesimp>科罗尼</Chinesesimp>
       </Key>
       <Key ID="str_a3_kalitheabay0">
         <Original>Kalithea Bay</Original>
-        <Chinese>Kalithea海灣</Chinese>
+        <Chinese>卡利塞亞海灣</Chinese>
         <Chinesesimp>卡利塞亚湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_kore0">
         <Original>Kore</Original>
-        <Chinese>Kore</Chinese>
+        <Chinese>科雷</Chinese>
         <Chinesesimp>科雷</Chinesesimp>
       </Key>
       <Key ID="str_a3_kalochori0">
         <Original>Kalochori</Original>
-        <Chinese>Kalochori</Chinese>
+        <Chinese>卡洛霍里</Chinese>
         <Chinesesimp>卡洛霍里</Chinesesimp>
       </Key>
       <Key ID="str_a3_kavirida0">
         <Original>Kavirida</Original>
-        <Chinese>Kavirida</Chinese>
+        <Chinese>卡維里達</Chinese>
         <Chinesesimp>卡维里达</Chinesesimp>
       </Key>
       <Key ID="str_a3_kastro0">
         <Original>Kastro</Original>
-        <Chinese>Kastro</Chinese>
+        <Chinese>卡斯特羅</Chinese>
         <Chinesesimp>卡斯特罗</Chinesesimp>
       </Key>
       <Key ID="str_a3_kavalapier0">
         <Original>Kavala Pier</Original>
-        <Chinese>Kavala碼頭</Chinese>
+        <Chinese>卡瓦拉碼頭</Chinese>
         <Chinesesimp>卡瓦拉码头</Chinesesimp>
       </Key>
       <Key ID="str_a3_katalaki0">
         <Original>Katalaki</Original>
-        <Chinese>Katalaki</Chinese>
+        <Chinese>卡塔拉基</Chinese>
         <Chinesesimp>卡塔拉基</Chinesesimp>
       </Key>
       <Key ID="str_a3_kavalabay0">
         <Original>Kavala Bay</Original>
-        <Chinese>Kavala海灣</Chinese>
+        <Chinese>卡瓦拉海灣</Chinese>
         <Chinesesimp>卡瓦拉湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_katalakibay0">
         <Original>Katalaki Bay</Original>
-        <Chinese>Katalaki海灣</Chinese>
+        <Chinese>卡塔拉海灣</Chinese>
         <Chinesesimp>卡塔拉基湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_zeloran0">
         <Original>Zeloran</Original>
-        <Chinese>Zeloran</Chinese>
+        <Chinese>澤洛蘭</Chinese>
         <Chinesesimp>泽洛兰</Chinesesimp>
       </Key>
       <Key ID="str_a3_kavala0">
         <Original>Kavala</Original>
-        <Chinese>Kavala</Chinese>
+        <Chinese>卡瓦拉</Chinese>
         <Chinesesimp>卡瓦拉</Chinesesimp>
       </Key>
       <Container name="loadingTexts">
         <Key ID="str_a3_cfgworlds_altis_loadingtext9">
           <Original>The Airstrip of the Altis Aero Club was the first airfield on the island, built in 1916 by the British.</Original>
-          <Chinese>Altis空中俱樂部的飛機跑道是島上第一個飛機場地，由英國人在1916年建造。</Chinese>
+          <Chinese>阿爾蒂斯空中俱樂部的飛機跑道是島上第一個飛機場地，由英國人在1916年建造。</Chinese>
           <Chinesesimp>阿尔蒂斯空中俱乐部的飞机跑道是岛上第一个飞机场，由英国人在1916年建造。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext8">
           <Original>Today's city of Kavala was founded by Venetian merchants on the ruins of a Phoenician city, and was the island's capital for several centuries.</Original>
-          <Chinese>今天的Kavala城市，是由威尼斯的商人們在一個腓尼基城廢墟之上建立起來的，幾個世紀以來一直都是這個島的首都。</Chinese>
-          <Chinesesimp>今天的卡瓦拉城是由威尼斯的商人们在一个腓尼基城市的废墟之上建立起来的，几个世纪以来一直都曾是这个岛的首都。</Chinesesimp>
+          <Chinese>今天的卡瓦拉城，是由威尼斯的商人們在一個腓尼基城廢墟之上建立起來的，幾個世紀以來一直都是這個島的首都。</Chinese>
+          <Chinesesimp>今天的卡瓦拉城，是由威尼斯的商人们在一个腓尼基城市的废墟之上建立起来的，几个世纪以来一直都曾是这个岛的首都。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext7">
           <Original>The population of Altis traces its origin to the Phoenician civilization of traders and explorers, but all of the rulers left traces in the populace in past centuries.</Original>
-          <Chinese>Altis人的起源要追溯到腓尼基文明的商人和探險家，所有統治者都在過去的幾個世紀中留下了痕跡。</Chinese>
+          <Chinese>阿爾蒂斯人的起源要追溯到腓尼基文明的商人和探險家，所有統治者都在過去的幾個世紀中留下了痕跡。</Chinese>
           <Chinesesimp>阿尔蒂斯居民的起源要追溯到腓尼基文明的商人和探险家，但过去几个世纪间的所有统治者都在居民中留下了痕迹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext6">
           <Original>The highest point of Altis is the peak of Thronos (350 m above sea level), with the ruins of a castle built by Arabian warlords in the middle ages.</Original>
-          <Chinese>Altis的最高點是Thronos的山頂(海拔350公尺)，山頂有阿拉伯人在中世紀建造的城堡遺跡。</Chinese>
+          <Chinese>阿爾蒂斯的最高點是斯羅諾斯的山頂(海拔350公尺)，山頂有阿拉伯人在中世紀建造的城堡遺跡。</Chinese>
           <Chinesesimp>阿尔蒂斯的最高峰是斯罗诺斯山的山顶(海拔350米)，山顶有阿拉伯将领在中世纪建造的城堡遗迹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext5">
           <Original>Pyrgos is an important port and the newly established capital of the Republic of Altis and Stratis.</Original>
-          <Chinese>Pyrgos是一個重要的港口，並且是新建的Altis和Stratis共和國的首都。</Chinese>
+          <Chinese>皮爾戈斯是一個重要的港口，並且是新建的阿爾蒂斯和斯特拉蒂斯共和國的首都。</Chinese>
           <Chinesesimp>皮尔戈斯是一个重要的港口，并且是阿尔蒂斯和斯特拉蒂斯共和国的新首都。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext4">
           <Original>Total area of the Republic of Altis and Stratis is slightly smaller than twice the size of Washington, D.C.</Original>
-          <Chinese>Altis和Stratis共和國的整個區域加起來比兩個華盛頓特區的面積稍小一些。</Chinese>
+          <Chinese>阿爾蒂斯和斯特拉蒂斯共和國的整個區域加起來比兩個華盛頓特區的面積稍小一些。</Chinese>
           <Chinesesimp>阿尔蒂斯和斯特拉蒂斯共和国的整个国土加起来比两个华盛顿特区的面积稍小一些。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext30">
           <Original>There are 49 settlements on Altis, including all towns and villages.</Original>
-          <Chinese>包括所有的村莊與城鎮，Altis一共有49個居住地。</Chinese>
+          <Chinese>包括所有的村莊與城鎮，阿爾蒂斯一共有49個居住地。</Chinese>
           <Chinesesimp>包括所有的村庄与城镇在内，阿尔蒂斯岛上一共有49个居住地。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext3">
           <Original>Altis is a volcanic island with corrugated terrain and plentiful rocky areas.</Original>
-          <Chinese>Altis是一座火山島，地勢起伏，有廣大的巖石區域。</Chinese>
+          <Chinese>阿爾蒂斯是一座火山島，地勢起伏，有廣大的巖石區域。</Chinese>
           <Chinesesimp>阿尔蒂斯是一座火山岛，地势起伏，有广大的岩场区域。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext29">
           <Original>There is a myth that remnants of an ancient civilization lies underwater near the coast of Altis. It's possible that the shape of ancient Altis was reshaped by volcanic and tectonic activity.</Original>
-          <Chinese>有一個神話說，??Altis有一個古文明遺跡就沉睡在附近的海域底下。古Altis的形狀有可能受到了火山和地殼活動的重塑。</Chinese>
+          <Chinese>有一個神話說，阿爾蒂斯有一個古文明遺跡就沉睡在附近的海域底下。古阿爾蒂斯的形狀有可能受到了火山和地殼活動的重塑。</Chinese>
           <Chinesesimp>有传言说在阿尔蒂斯海岸线附近沉睡着一个古文明遗迹。古阿尔蒂斯岛的形状有可能受到了火山和地壳活动的重塑。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext28">
           <Original>There are large pine forests north of Frini, covering the demand for wood for the whole archipelago.</Original>
-          <Chinese>在Frini以北有大量的松林，涵蓋了整個群島對木材的需求。</Chinese>
+          <Chinese>在夫里尼以北有大量的松林，涵蓋了整個群島對木材的需求。</Chinese>
           <Chinesesimp>在夫里尼以北有大片的松林，满足了整个群岛对木材的需求。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext27">
           <Original>The mountain village of Oreokastro was abandoned during the civil war.</Original>
-          <Chinese>這個叫Oreokastro的山區村莊，在內戰的時候被人遺棄了。</Chinese>
+          <Chinese>這個叫奧雷奧卡斯特羅的山區村莊，在內戰的時候被人遺棄了。</Chinese>
           <Chinesesimp>山村奥雷奥卡斯特罗在内战时被遗弃了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext26">
           <Original>The total coast length of Altis is over 200 km.</Original>
-          <Chinese>Altis的海岸線總長度超過200公里。</Chinese>
-          <Chinesesimp>阿尔蒂斯的海岸线总长度超过200公里。</Chinesesimp>
+          <Chinese>阿爾蒂斯的海岸線總長度超過200公里。</Chinese>
+          <Chinesesimp>阿尔蒂斯的海岸线总长度超过200千米。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext25">
           <Original>The distance from Pyrgos to the north-easternmost Cap Strigla is almost 20 km.</Original>
           <Chinese>從Pyrgos到最東北部Strigla角的距離大概有20公里。</Chinese>
-          <Chinesesimp>从皮尔戈斯到最东北部斯特里格拉角的距离大概有20公里。</Chinesesimp>
+          <Chinesesimp>从皮尔戈斯到最东北部斯特里格拉角的距离大概有20千米。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext24">
           <Original>The driving distance from Pyrgos, the capital, to the ancient city of Kavala is 20 km.</Original>
           <Chinese>從Pyrgos首都，開車到古城Kavala的距離是20公里。</Chinese>
-          <Chinesesimp>从首都皮尔戈斯开车到古城卡瓦拉的距离是20公里。</Chinesesimp>
+          <Chinesesimp>从首都皮尔戈斯开车到古城卡瓦拉的距离是20千米。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext23">
           <Original>There are 165 chapels on Altis.</Original>
-          <Chinese>Altis島上擁有165個禮拜堂。</Chinese>
+          <Chinese>阿爾蒂斯島上擁有165個禮拜堂。</Chinese>
           <Chinesesimp>阿尔蒂斯岛上拥有165个礼拜堂。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext22">
           <Original>The Monument of Kalithea is commemorating one of the old legends pertaining to Altian history.</Original>
-          <Chinese>Kalithea紀念碑是為了紀念其中一個古老傳奇，是關於Altian的歷史。</Chinese>
+          <Chinese>卡利塞亞紀念碑是為了紀念其中一個古老傳奇，是關於阿爾蒂斯的歷史。</Chinese>
           <Chinesesimp>卡利塞亚的纪念碑是为了纪念与阿尔蒂斯历史相关的一个古老传说。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext21">
           <Original>The Agia Stemma mountain with a remarkable chapel on its top provides great views on the island, but it is extremely hard to access.</Original>
-          <Chinese>AgiaStemma山頂有一間不一樣的禮拜堂，從這裡可以一飽島嶼的景色，但是這裡是很難抵達的。</Chinese>
+          <Chinese>聖斯泰瑪山頂有一間不一樣的禮拜堂，從這裡可以一飽島嶼的景色，但是這裡是很難抵達的。</Chinese>
           <Chinesesimp>圣斯泰玛山顶有一间特别的礼拜堂，从这里可以一饱岛屿的景色，但那里是很难抵达的。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext20">
           <Original>The beaches of Thelos Bay and Chalkeia Bay are popular among surfers, providing the best waves in the central Mediterranean for the last few years of global climatic changes.</Original>
-          <Chinese>Thelos海灣和Chalkeia海灣的海灘是衝浪者的天堂，在過去幾年全球氣候變化中，提供了在地中海中心最好的海浪。</Chinese>
+          <Chinese>塞洛斯海灣和哈爾基亞海灣的海灘是衝浪者的天堂，在過去幾年全球氣候變化中，提供了在地中海中心最好的海浪。</Chinese>
           <Chinesesimp>塞洛斯湾和哈尔基亚湾的海滩是冲浪者的天堂，因为过去几年全球气候变化，这里有在地中海中心最好的海浪。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext2">
           <Original>The geographic coordinates of Altis are 35°9'5.12''N 16°39'37.60''E.</Original>
-          <Chinese>Altis的地理經緯度是東經16度39分37。60秒北緯35度9分5。12秒。</Chinese>
-          <Chinesesimp>阿尔蒂斯的地理经纬度是东经16度39分37。60秒北纬35度9分5。12秒。</Chinesesimp>
+          <Chinese>阿爾蒂斯的地理經緯度是東經16度39分37.60秒北緯35度9分5.12秒。</Chinese>
+          <Chinesesimp>阿尔蒂斯的地理经纬度是东经16度39分37.60秒北纬35度9分5.12秒。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext19">
           <Original>Zaros is often called the 'Pine City' due to the pine groves surrounding it. The chapel overlooking the town is one of the nicest vantage points in the area.</Original>
-          <Chinese>Zaros常被暱稱為“松樹城”，這是因為它周圍長著很多松樹。俯瞰整個城鎮的禮拜堂是該地最棒的觀光景點。</Chinese>
-          <Chinesesimp>扎罗斯常被昵称为“松树城”，这是因为它周围长着很多松树。俯瞰整个城镇的礼拜堂是该地最棒的观光景点。</Chinesesimp>
+          <Chinese>扎羅斯常被暱稱為"松樹城"，這是因為它周圍長著很多松樹。俯瞰整個城鎮的禮拜堂是該地最棒的觀光景點。</Chinese>
+          <Chinesesimp>扎罗斯常被昵称为"松树城"，这是因为它周围长着很多松树。俯瞰整个城镇的礼拜堂是该地最棒的观光景点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext18">
           <Original>Strong winds and plenty of sun make Altis a perfect place for renewable energy sources: many wind and solar power plants have been built in the last decade, replacing two older oil-burning power plants.</Original>
-          <Chinese>強勁的風力和充足的陽光使Altis成為生產再生能源的一個完美地區:在過去10多年裡，許多風力和太陽能發電廠就開始在這裡建設，並換掉了兩個舊式的燃油發電廠。</Chinese>
+          <Chinese>強勁的風力和充足的陽光使阿爾蒂斯成為生產再生能源的一個完美地區:在過去10多年裡，許多風力和太陽能發電廠就開始在這裡建設，並換掉了兩個舊式的燃油發電廠。</Chinese>
           <Chinesesimp>强劲的风力和充足的阳光使阿尔蒂斯成为完美适合可再生能源的地区:在过去十多年里建立了许多风力和太阳能发电厂，并换掉了两个旧式的燃油发电厂。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext17">
           <Original>Many windmills are scattered across Altis, with the most notable ones in Zaros, Telos and Kore.</Original>
-          <Chinese>Altis散佈著許多風車，最著名的幾座坐落在Zaros，Telos和Kore。</Chinese>
+          <Chinese>阿爾蒂斯散佈著許多風車，最著名的幾座坐落在扎羅斯，泰洛斯和科雷。</Chinese>
           <Chinesesimp>阿尔蒂斯岛上散布着许多风车，最着名的几座坐落在扎罗斯，泰洛斯和科雷。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext16">
           <Original>The ruins of Pyrgos Castle can be found between the harbor and the closed complex of government offices.</Original>
-          <Chinese>你能在港口和已經廢棄的政府辦公大樓之間找到Pyrgos城堡的廢墟。</Chinese>
+          <Chinese>你能在港口和已經廢棄的政府辦公大樓之間找到皮爾戈斯城堡的廢墟。</Chinese>
           <Chinesesimp>你能在港口和已经废弃的政府办公大楼之间找到皮尔戈斯城堡的废墟。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext15">
           <Original>Most guides recommend a visit to several Antique ruins scattered over the island: the Old Kavala, the Amphitheater and Temple of Iraklia ruin over Pefkas Bay.</Original>
-          <Chinese>大多數的旅行指南都會推薦前去遊覽散佈在島嶼上的幾處古代廢墟:老Kavala，圓形劇場和位於Pefkas海灣的Iraklia神廟廢墟。</Chinese>
+          <Chinese>大多數的旅行指南都會推薦前去遊覽散佈在島嶼上的幾處古代廢墟:老卡瓦拉，圓形劇場和位於佩夫卡海灣的伊拉克利亞神廟廢墟。</Chinese>
           <Chinesesimp>大多数的旅行指南都会推荐前去游览散布在岛屿上的几处古代废墟:旧卡瓦拉，圆形剧场和佩夫卡斯湾上的伊拉克利亚神庙废墟。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext14">
           <Original>There is a picturesque chapel on the rocky promontory over the sea in Agios Konstantinos, believed to be built on the much older remnants of an Antique temple.</Original>
-          <Chinese>在AgiosKonstantinos海域的巖石海角上座落著一座風景如畫的禮拜堂，這座禮拜堂被認為是建立在一處更古老的廟宇遺蹟之上。</Chinese>
+          <Chinese>在聖孔坦斯蒂諾斯海域的巖石海角上座落著一座風景如畫的禮拜堂，這座禮拜堂被認為是建立在一處更古老的廟宇遺蹟之上。</Chinese>
           <Chinesesimp>在圣孔斯坦蒂诺斯海域的岩石海角上座落着一座风景如画的礼拜堂，这座礼拜堂据信建立在一处更古老庙宇的遗迹之上。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext13">
           <Original>The mountain cave chapel of Agios Panagiotis north of Panochori is a popular place for local pilgrimages and festivities.</Original>
-          <Chinese>這個位在Panochori北邊的AgiosPanagiotis山洞禮拜堂，是一個當地著名的朝聖與歡慶節日地。</Chinese>
+          <Chinese>這個位在帕諾霍里北邊的聖帕帕喬蒂斯山洞禮拜堂，是一個當地著名的朝聖與歡慶節日地。</Chinese>
           <Chinesesimp>位于帕诺霍里北部圣帕帕乔蒂斯山上的山洞礼拜堂是当地一个着名的朝圣与欢庆节日地。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext12">
           <Original>Almyra, the biggest salt lake on Altis, serves as an auxiliary airstrip during summer, when the surface is dry and hard.</Original>
-          <Chinese>Altis最大的鹹水湖，Almyra，在夏天水乾涸的時候會被用來當作簡易的飛行跑道。</Chinese>
-          <Chinesesimp>阿尔蒂斯岛上最大的咸水湖阿尔米拉湖在夏天水干涸的时候会被用来当作简易的飞行跑道。</Chinesesimp>
+          <Chinese>阿爾蒂斯最大的鹹水湖，阿爾米拉湖，在夏天水乾涸的時候會被用來當作簡易的飛行跑道。</Chinese>
+          <Chinesesimp>阿尔蒂斯岛上最大的咸水湖，阿尔米拉湖，在夏天水干涸的时候会被用来当作简易的飞行跑道。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext11">
           <Original>There are 3 periodically flooded salt lakes in the east of Altis: Almyra, Limni and Ochrolimni.</Original>
-          <Chinese>在Altis東部有3個定期氾濫的鹹水湖:Almyra，Limni和Ochrolimni。</Chinese>
+          <Chinese>在阿爾蒂斯東部有3個定期氾濫的鹹水湖:阿爾米拉湖，利姆尼湖和奧赫羅利姆尼湖。</Chinese>
           <Chinesesimp>在阿尔蒂斯东部有3个定期泛滥的咸水湖:阿尔米拉湖，利姆尼湖和奥赫罗利姆尼湖。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext10">
           <Original>There is a desert north of village of Abdera, featuring a truly unique environment and popular sightseeing spot for adventurers.</Original>
-          <Chinese>Abdera北部有一片荒漠，其特點是它獨特的環境，使它成為了冒險家們的觀光勝地。</Chinese>
+          <Chinese>阿布德拉北部有一片荒漠，其特點是它獨特的環境，使它成為了冒險家們的觀光勝地。</Chinese>
           <Chinesesimp>阿布德拉北部有一片荒漠，因其独特的环境成为了探险家们的观光胜地。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_altis_loadingtext1">
           <Original>Altis covers an area of 270.5 square kilometers.</Original>
-          <Chinese>Altis的面積有270。5平方公里。</Chinese>
-          <Chinesesimp>阿尔蒂斯的面积为270。5平方公里。</Chinesesimp>
+          <Chinese>阿爾蒂斯的面積有270.5平方公里。</Chinese>
+          <Chinesesimp>阿尔蒂斯的面积为270.5平方千米。</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -4803,8 +4803,8 @@
     <Container name="Static_F">
       <Key ID="str_a3_b_static_at_placeholder_f0">
         <Original>Static Titan Launcher (AT) [NATO]</Original>
-        <Chinese>固定式Titan發射器(反坦克)[北約]</Chinese>
-        <Chinesesimp>固定式“泰坦”发射器(反坦克)[北约]</Chinesesimp>
+        <Chinese>固定式"泰坦"發射器(反坦克)[北約]</Chinese>
+        <Chinesesimp>固定式"泰坦"发射器(反坦克)[北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_a_high_weapon_f_assembleinfo0">
         <Original>Static GMG (Raised)</Original>
@@ -4813,8 +4813,8 @@
       </Key>
       <Key ID="str_a3_b_static_aa_placeholder_f0">
         <Original>Static Titan Launcher (AA) [NATO]</Original>
-        <Chinese>固定式Titan發射器(防空)[北約]</Chinese>
-        <Chinesesimp>固定式“泰坦”发射器(防空)[北约]</Chinesesimp>
+        <Chinese>固定式"泰坦"發射器(防空)[北約]</Chinese>
+        <Chinesesimp>固定式"泰坦"发射器(防空)[北约]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f_assembleinfo0">
         <Original>Static GMG (Raised)</Original>
@@ -4853,22 +4853,22 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_gmg_01_a_high_base_f0">
         <Original>Mk32A GMG 20 mm (Raised)</Original>
-        <Chinese>Mk32A20mm榴彈機槍(高射腳架)</Chinese>
+        <Chinese>Mk32A 20公厘榴彈機槍(高射腳架)</Chinese>
         <Chinesesimp>Mk32A 20毫米榴弹机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_gmg_01_high_base_f0">
         <Original>Mk32 GMG 20 mm (Raised)</Original>
-        <Chinese>Mk3220mm榴彈機槍(高射腳架)</Chinese>
+        <Chinese>Mk32 20公厘榴彈機槍(高射腳架)</Chinese>
         <Chinesesimp>Mk32 20毫米榴弹机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_hmg_01_a_high_base_f0">
         <Original>Mk30A HMG .50 (Raised)</Original>
-        <Chinese>Mk30A.50重機槍(高射腳架)</Chinese>
+        <Chinese>Mk30A .50重機槍(高射腳架)</Chinese>
         <Chinesesimp>Mk30A .50重机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_hmg_01_high_base_f0">
         <Original>Mk30 HMG .50 (Raised)</Original>
-        <Chinese>Mk30.50重機槍(高射腳架)</Chinese>
+        <Chinese>Mk30 .50重機槍(高射腳架)</Chinese>
         <Chinesesimp>Mk30 .50重机枪(高射脚架)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f0">
@@ -4878,23 +4878,23 @@
       </Key>
       <Key ID="str_a3_b_static_aa_placeholder_f1">
         <Original>Static Titan Launcher (AA) [CSAT]</Original>
-        <Chinese>固定式Titan發射器(防空)[廣協同盟]</Chinese>
-        <Chinesesimp>固定式“泰坦”发射器(防空)[广协同盟]</Chinesesimp>
+        <Chinese>固定式"泰坦"發射器(防空)[廣協同盟]</Chinese>
+        <Chinesesimp>固定式"泰坦"发射器(防空)[广协同盟]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_aa_placeholder_f2">
         <Original>Static Titan Launcher (AA) [AAF]</Original>
-        <Chinese>固定式Titan發射器(防空)[Altis政府軍]</Chinese>
-        <Chinesesimp>固定式“泰坦”发射器(防空)[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinese>固定式"泰坦"發射器(防空)[阿爾蒂斯武裝力量]</Chinese>
+        <Chinesesimp>固定式"泰坦"发射器(防空)[阿尔蒂斯武装力量]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_at_placeholder_f1">
         <Original>Static Titan Launcher (AT) [CSAT]</Original>
-        <Chinese>固定式Titan發射器(反坦克)[廣協同盟]</Chinese>
-        <Chinesesimp>固定式“泰坦”发射器(反坦克)[广协同盟]</Chinesesimp>
+        <Chinese>固定式"泰坦"發射器(反坦克)[廣協同盟]</Chinese>
+        <Chinesesimp>固定式"泰坦"发射器(反坦克)[广协同盟]</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_static_at_placeholder_f2">
         <Original>Static Titan Launcher (AT) [AAF]</Original>
-        <Chinese>固定式Titan發射器(反坦克)[Altis政府軍]</Chinese>
-        <Chinesesimp>固定式“泰坦”发射器(反坦克)[阿尔蒂斯武装力量]</Chinesesimp>
+        <Chinese>固定式"泰坦"發射器(反坦克)[阿爾蒂斯武裝力量]</Chinese>
+        <Chinesesimp>固定式"泰坦"发射器(反坦克)[阿尔蒂斯武装力量]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f1">
         <Original>Dismantled Mk32 GMG (Raised) [CSAT]</Original>
@@ -4903,7 +4903,7 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_b_gmg_01_high_weapon_f2">
         <Original>Dismantled Mk32 GMG (Raised) [AAF]</Original>
-        <Chinese>拆解Mk32榴彈機槍(高射腳架)[Altis政府軍]</Chinese>
+        <Chinese>拆解Mk32榴彈機槍(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
         <Chinesesimp>拆解的Mk32榴弹机枪(高射脚架)[阿尔蒂斯武装力量]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f1">
@@ -4913,7 +4913,7 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_high_weapon_f2">
         <Original>Dismantled Mk30 HMG (Raised) [AAF]</Original>
-        <Chinese>拆解Mk30重機槍(高射腳架)[Altis政府軍]</Chinese>
+        <Chinese>拆解Mk30重機槍(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
         <Chinesesimp>拆解的Mk30重机枪(高射脚架)[阿尔蒂斯武装力量]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_support_high_f1">
@@ -4923,7 +4923,7 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_b_hmg_01_support_high_f2">
         <Original>Folded Tripod (Raised) [AAF]</Original>
-        <Chinese>折疊式腳架(高射腳架)[Altis政府軍]</Chinese>
+        <Chinese>折疊式腳架(高射腳架)[阿爾蒂斯武裝力量]</Chinese>
         <Chinesesimp>折叠式三脚架(高射脚架)[阿尔蒂斯武装力量]</Chinesesimp>
       </Key>
     </Container>

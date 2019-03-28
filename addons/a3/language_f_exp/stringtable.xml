@@ -74,7 +74,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicleclasses_mentanoan0">
           <Original>Men (Tanoan)</Original>
-          <Chinese>人員(Tanoa人)</Chinese>
+          <Chinese>人員(塔諾亞人)</Chinese>
           <Chinesesimp>人员(塔诺亚人)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicleclasses_menbandits0">
@@ -270,8 +270,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_02_minigun_F0">
           <Original>Qilin (Minigun)</Original>
-          <Chinese>Qilin(迷你砲)</Chinese>
-          <Chinesesimp>“麒麟”突击车(米尼岗)</Chinesesimp>
+          <Chinese>"麒麟"突击车(米尼岡)</Chinese>
+          <Chinesesimp>"麒麟"突击车(米尼岗)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_t_uav_04_cas_f0">
           <Original>KH-3A Fenghuang</Original>
@@ -365,8 +365,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_transport_02_base_f0">
           <Original>RHIB</Original>
-          <Chinese>硬殼充氣快艇
-</Chinese>
+          <Chinese>硬殼充氣快艇</Chinese>
           <Chinesesimp>硬壳充气快艇</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_01_hmg_F0">
@@ -428,7 +427,7 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_uav_03_base_f_library0">
           <Original>This autonomous/remotely controlled helicopter drone is mainly used as close air support and thanks to the unmanned construction can be deployed in the most dangerous zones. The Falcon is equipped with a laser designator and can therefore handle surveillance, reconnaissance and target designation tasks. Its greatest strength, however, lies in armament. It carries two rocket pods, each with 12 unguided rockets and six Scalpel air-to-ground missiles. The MQ-12 Falcon can also use countermeasures for self-defense.</Original>
-          <Chinese>這臺自主式/遙控式的無人直升機，被設計來執行極危險區域的近距離火力支援任務。"獵隼"配備有雷射指示器，使其能肩負偵查，監視以及目標導引等任務。但最重要的是，它同時也配備著兩座火箭發射艙，各艙都有12枚無導引火箭，額外還有6枚"手術刀"空對地導彈。MQ-12"獵隼"也裝有反制措施來進行防禦動作。</Chinese>
+          <Chinese>這臺自主式/遙控式的無人直升機，被設計來執行極危險區域的近距離火力支援任務。"獵隼"配備有雷射指示器，使其能肩負偵查，監視以及目標導引等任務。但最重要的是，它同時也配備著兩座火箭發射艙，各艙都有12枚無導引火箭，額外還有6枚"手術刀"空對地飛彈。MQ-12"獵隼"也裝有反制措施來進行防禦動作。</Chinese>
           <Chinesesimp>这台自主式/遥控式的无人直升机，被设计来执行极危险区域的近距离火力支援任务。"猎隼"配备有激光指示器，使其能肩负侦察，监视以及目标制导等任务。但最重要的是，它同时也配备着两座火箭发射舱，各舱都有12枚无制导火箭弹，额外还有6枚"手术刀"空对地导弹。MQ-12"猎隼"也装有反制措施来进行防御操纵。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_vtol_01_armed_base_f_library0">
@@ -448,17 +447,17 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_02_base_f_library0">
           <Original>An agile (maximum speed 160 km/h) light protected vehicle for up to 7 soldiers – depending on the configuration. The Qilin provides safe and fast operating speeds with superior levels of mobility and maneuverability. It is highly adaptable to severe, rugged and restrictive terrains while providing off-road, cross-country mobility under all types of weather conditions. The vehicle was produced in China with Russian cooperation, so some minor influence from Ifrit MRAP can be seen in the Qilin design. The Qilin is a highly customizable platform which can be fitted according to the mission. CSAT Pacific forces primarily use the unarmed variant and the armed variants fitted with either a 6.5 mm minigun or a Vorona missile launcher.</Original>
-          <Chinese>一臺可供最多7名士兵搭乘的敏捷輕型防護載具(最高時速可達160公里)。"麒麟"在高速行駛下也有一定的安全性，這使他成為高機動，高操控性的一臺載具。它可以迅速適應各種崎嶇難走的越野地形。此臺載具由中國與俄羅斯共同開發，所以不難見到有些防地雷反伏擊車的影子在"麒麟"上出現。"麒麟"是個可以高度客製化的平臺，使其適應各式類型的任務。廣協同盟太平洋部隊主要使用無武裝與裝配6.5mm機槍或“沃羅納”反坦克導彈等三種版本。</Chinese>
-          <Chinesesimp>一台可供最多7名士兵搭乘的敏捷轻型防护载具(最高时速可达160公里)。"麒麟"在高速行驶下也有一定的安全性，这使他成为高机动，高操控性的一台载具。它可以迅速适应各种崎岖难走的越野地形。此台载具由中国与俄罗斯共同开发，所以不难见到有些防地雷反伏击车的影子在"麒麟"上出现。"麒麟"是个可以高度客制化的平台，使其适应各式类型的任务。广协同盟太平洋部队主要使用无武装与装配6.5mm机枪或“沃罗纳”反坦克导弹等三种版本。</Chinesesimp>
+          <Chinese>一臺可供最多7名士兵搭乘的敏捷輕型防護載具(最高時速可達160公里)。"麒麟"在高速行駛下也有一定的安全性，這使他成為高機動，高操控性的一臺載具。它可以迅速適應各種崎嶇難走的越野地形。此臺載具由中國與俄羅斯共同開發，所以不難見到有些防地雷反伏擊車的影子在"麒麟"上出現。"麒麟"是個可以高度客製化的平臺，使其適應各式類型的任務。廣協同盟太平洋部隊主要使用無武裝與裝配6.5mm機槍或"沃羅納"反坦克飛彈等三種版本。</Chinese>
+          <Chinesesimp>一台可供最多7名士兵搭乘的敏捷轻型防护载具(最高时速可达160千米)。"麒麟"在高速行驶下也有一定的安全性，这使他成为高机动，高操控性的一台载具。它可以迅速适应各种崎岖难走的越野地形。此台载具由中国与俄罗斯共同开发，所以不难见到有些防地雷反伏击车的影子在"麒麟"上出现。"麒麟"是个可以高度客制化的平台，使其适应各式类型的任务。广协同盟太平洋部队主要使用无武装与装配6.5mm机枪或"沃罗纳"反坦克导弹等三种版本。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_plane_civil_01_base_f_library0">
           <Original>Caesar BTT is a single-engine, fixed-gear, low-wing general aviation aircraft built from composite materials. The Caesar BTT is one of the fastest fixed-gear, single-engined piston aircraft, reaching a speed of 235 knots (435 km/h) true air speed at 25,000 feet (7,600 m). It is used by civilians and smaller shipping companies all around the world.</Original>
           <Chinese>"凱撒"BTT是一臺單引擎，固定式機輪，低機翼的民用複合式材料飛機。"凱撒"BTT是它同類型活塞式引擎飛機中最快的機種，其在25，000英尺(7，600公尺)的高空下最高航速可達235節(時速435公里)。這臺飛機在全世界主要被民眾用於休閒或是擔當物流公司的運輸載具。</Chinese>
-          <Chinesesimp>"凯撒"BTT是一台单引擎，固定式机轮，低机翼的民用复合式材料飞机。"凯撒"BTT是它同类型活塞式引擎飞机中最快的机种，其在25，000英尺(7，600公尺)的高空下最高航速可达235节(时速435公里)。这台飞机在全世界主要被民众用于休闲或是作为物流公司的运输载具。</Chinesesimp>
+          <Chinesesimp>"凯撒"BTT是一台单引擎，固定式机轮，低机翼的民用复合式材料飞机。"凯撒"BTT是它同类型活塞式引擎飞机中最快的机种，其在25，000英尺(7，600公尺)的高空下最高航速可达235节(时速435千米)。这台飞机在全世界主要被民众用于休闲或是作为物流公司的运输载具。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_01_base_f_library0">
           <Original>The Prowler is a light strike vehicle (LSV) which means it is agile and lightly armored. It uses speed, maneuverability and off-road mobility to avoid major threats. Another benefit is that the Prowler is light enough to be transported by medium helicopters such as UH-80 Ghost Hawk. This is in contrast to the heavy MRAP vehicles which are harder to transport to the battlefield. The Prowler can be configured in several different ways. Armed variants are equipped with a .338 SPMG medium machine gun, mounted on the front passenger side, while the turret can sport a .50 cal heavy machine gun or Titan missile launcher. With this arsenal, the Prowler is ideal for quick hit and run missions. The unarmed variant is stripped of all guns, but the back part of the vehicle is open and there are reserve seats for two additional soldiers.</Original>
-          <Chinese>"徘徊者"是一臺輕型突擊車。它依靠著出色的速度，操控性與越野等能力來避開威脅。另一方面，也由於"徘徊者"輕量化的關係，使其能被UH-80"鬼鷹"等運輸載具所運輸。比起又大又笨重的防地雷反伏擊車來說更為方便。現存多種版本的"徘徊者"，武裝的版本在前座裝有.338 SPMG中型機槍，在車頂則配有.50口徑的重機槍或是"泰坦"導彈發射器。這種配置使得"徘徊者"適合執行打帶跑的任務。無武裝的版本除了把武器都拆掉外，後車架的位置還可以在額外給2名士兵搭乘。</Chinese>
+          <Chinese>"徘徊者"是一臺輕型突擊車。它依靠著出色的速度，操控性與越野等能力來避開威脅。另一方面，也由於"徘徊者"輕量化的關係，使其能被UH-80"鬼鷹"等運輸載具所運輸。比起又大又笨重的防地雷反伏擊車來說更為方便。現存多種版本的"徘徊者"，武裝的版本在前座裝有.338 SPMG中型機槍，在車頂則配有.50口徑的重機槍或是"泰坦"飛彈發射器。這種配置使得"徘徊者"適合執行打帶跑的任務。無武裝的版本除了把武器都拆掉外，後車架的位置還可以在額外給2名士兵搭乘。</Chinese>
           <Chinesesimp>"徘徊者"是一台轻型突击车。它依靠着出色的速度，操控性与越野等能力来避开威胁。另一方面，也由于"徘徊者"轻量化的关系，使其能被UH-80"鬼鹰"等运输载具所运输。比起又大又笨重的防地雷反伏击车来说更为方便。现存多种版本的"徘徊者"，武装的版本在前座装有.338 SPMG中型机枪，在车顶则配有.50口径的重机枪或是"泰坦"导弹发射器。这种配置使得"徘徊者"适合执行打带跑的任务。无武装的版本除了把武器都拆掉外，后车架的位置还可以在额外给2名士兵搭乘。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_transport_02_base_f_library0">
@@ -4720,7 +4719,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_list18_title">
         <Original>&lt;a href='%2' color='%1'&gt;Arma 3 Units&lt;/a&gt;</Original>
-        <Chinese>&lt;ahref='%2'color='%1'&gt;ArmA3戰隊&lt;/a&gt;</Chinese>
+        <Chinese>&lt;ahref='%2'color='%1'&gt;武裝突襲3戰隊&lt;/a&gt;</Chinese>
         <Chinesesimp>&lt;ahref='%2'color='%1'&gt;武装突袭3战队&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_list18">
@@ -4815,7 +4814,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_footer2">
         <Original>Even at its apex, there is a long and bright future ahead for Arma 3. We are all supported by an army of modders, entertained by hordes of streamers, serviced by battalions of server admins and motivated by legions of players. Hope you enjoy your time together!</Original>
-        <Chinese>即使現在遊戲已經很頂尖，但我們仍看的到ArmA3更光明且璀璨的未來在前方的路上。我們之所以可以做到這些，都是因為各種軍隊模組的製作人，遊戲實況者，伺服器管理員與各戰隊的支持才能走到今天。希望你們能繼續在這邊享受款遊戲!</Chinese>
+        <Chinese>即使現在遊戲已經很頂尖，但我們仍看的到武裝突襲3更光明且璀璨的未來在前方的路上。我們之所以可以做到這些，都是因為各種軍隊模組的製作人，遊戲實況者，伺服器管理員與各戰隊的支持才能走到今天。希望你們能繼續在這邊享受款遊戲!</Chinese>
         <Chinesesimp>即使现在游戏已经很顶尖，但我们仍看的到武装突袭3更光明且璀璨的未来在前方的路上。我们之所以可以做到这些，都是因为各种军队模组的制作人，游戏实况者，服务器管理员与各战队的支持才能走到今天。希望你们能继续在这边享受款游戏!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard">
@@ -4860,13 +4859,13 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parc_footer">
         <Original>More about Tanoa</Original>
-        <Chinese>更多關於Tanoa</Chinese>
+        <Chinese>更多關於塔諾亞</Chinese>
         <Chinesesimp>更多关于塔诺亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parc">
         <Original>Undoubtedly the star of the show is our new &lt;t color='%1'&gt;100 km² South Pacific archipelago&lt;/t&gt;: &lt;t color='%1'&gt;Tanoa&lt;/t&gt;. Book your passage today to this lush tropical destination, sometimes described as a "green hell", with Arma 3 Apex.</Original>
-        <Chinese>毫無疑問，這次更新的主角無疑屬於這個&lt;tcolor='%1'&gt;100平方公里的南太平洋群島&lt;/t&gt;:&lt;tcolor='%1'&gt;Tanoa&lt;/t&gt;。趕快隨著ArmA3頂尖的腳步一同前往這個叢林密布的小島，這小島有時也被稱為"綠色地獄"。</Chinese>
-        <Chinesesimp>毫无疑问，这次更新的主角无疑属于这个&lt;tcolor='%1'&gt;100平方公里的南太平洋群岛&lt;/t&gt;:&lt;tcolor='%1'&gt;塔诺亚&lt;/t&gt;。赶快随着武装突袭3顶尖的脚步一同前往这个丛林密布的小岛，这小岛有时也被称为"绿色地狱"。</Chinesesimp>
+        <Chinese>毫無疑問，這次更新的主角無疑屬於這個&lt;tcolor='%1'&gt;100平方公里的南太平洋群島&lt;/t&gt;:&lt;tcolor='%1'&gt;塔諾亞&lt;/t&gt;。趕快隨著武裝突襲3頂尖的腳步一同前往這個叢林密布的小島，這小島有時也被稱為"綠色地獄"。</Chinese>
+        <Chinesesimp>毫无疑问，这次更新的主角无疑属于这个&lt;tcolor='%1'&gt;100平方千米的南太平洋群岛&lt;/t&gt;:&lt;tcolor='%1'&gt;塔诺亚&lt;/t&gt;。赶快随着武装突袭3顶尖的脚步一同前往这个丛林密布的小岛，这小岛有时也被称为"绿色地狱"。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_title">
         <Original>APEX</Original>
@@ -4880,7 +4879,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list9">
         <Original>Tanoa environment decorations and special field equipment</Original>
-        <Chinese>Tanoa當地的環境物件與專業道具</Chinese>
+        <Chinese>塔諾亞當地的環境物件與專業道具</Chinese>
         <Chinesesimp>塔诺亚当地的环境物件与专业道具</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list8_title">
@@ -4910,7 +4909,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list6">
         <Original>the local Tanoa law enforcement agency</Original>
-        <Chinese>Tanoa當地的執法組織</Chinese>
+        <Chinese>塔諾亞當地的執法組織</Chinese>
         <Chinesesimp>塔诺亚当地的执法组织</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list5_title">
@@ -4940,8 +4939,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list3">
         <Original>AKS-74U 5.45 mm Assault Rifle, AKM 7.62 mm Assault Rifle, AK-12 7.62 mm Assault Rifle, RPG-7 Launcher, PM 9 mm Pistol, SPAR-16/S/17 Assault Rifles, CAR-95 5.8 mm Assault Rifle, CAR-95-1 5.8 mm Light Support Weapon, LIM-85 5.56 mm Light Machine Gun, Type 115 6.5 mm / .50 cal Assault Rifle, Protector 9 mm Sub-Machine Gun, CMR-76 6.5 mm Designated Marksman Rifle, ERCO Optics</Original>
-        <Chinese>AKS-74U5.45mm突擊步槍，AKM7.62mm突擊步槍，AK-127.62mm突擊步槍，RPG-7發射器，PM9mm手槍，SPAR-16/S/17突擊步槍，CAR-955.8mm突擊步槍，CAR-95-15.8mm輕型支援武器，LIM-855.56mm輕機槍，Type1156.5mm/.50口徑突擊步槍，Protector9mm衝鋒槍，CMR-766.5mm指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡</Chinese>
-        <Chinesesimp>AKS-74U 5.45毫米突击步枪，AKM 7.62毫米突击步枪，AK-12 7.62毫米突击步枪，RPG-7火箭筒，PM9毫米手枪，SPAR-16/S/17突击步枪，CAR-95 5.8毫米突击步枪，CAR-95-1 5.8毫米轻型支援武器，LIM-85 5.56毫米轻机枪，Type115 6.5毫米/.50口径突击步枪，“保护者”9毫米冲锋枪，CMR-76 6.5毫米指定精准射手步枪，增强型步枪战斗光学瞄准镜</Chinesesimp>
+        <Chinese>AKS-74U 5.45公厘突擊步槍，AKM 7.62公厘突擊步槍，AK-12 7.62公厘突擊步槍，RPG-7發射器，PM 9公厘手槍，SPAR-16/S/17突擊步槍，CAR-95 5.8公厘突擊步槍，CAR-95-1 5.8公厘輕型支援武器，LIM-85 5.56公厘輕機槍，115式 6.5公厘/.50口徑突擊步槍，"保護者"9公厘衝鋒槍，CMR-76 6.5公厘指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡</Chinese>
+        <Chinesesimp>AKS-74U 5.45毫米突击步枪，AKM 7.62毫米突击步枪，AK-12 7.62毫米突击步枪，RPG-7火箭筒，PM9毫米手枪，SPAR-16/S/17突击步枪，CAR-95 5.8毫米突击步枪，CAR-95-1 5.8毫米轻型支援武器，LIM-85 5.56毫米轻机枪，115式 6.5毫米/.50口径突击步枪，"保护者"9毫米冲锋枪，CMR-76 6.5毫米指定精准射手步枪，增强型步枪战斗光学瞄准镜</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list2_title">
         <Original>Vehicles</Original>
@@ -4955,7 +4954,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list1_title">
         <Original>Tanoa Terrain</Original>
-        <Chinese>Tanoa島嶼</Chinese>
+        <Chinese>塔諾亞島嶼</Chinese>
         <Chinesesimp>塔诺亚地形</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list19_title">
@@ -4975,7 +4974,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list18">
         <Original>play using the new default "Arma 3 Apex" preset, or stick to the setup you're used to via "Arma 3"</Original>
-        <Chinese>你可以使用我們為"ArmA3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置</Chinese>
+        <Chinese>你可以使用我們為"武裝突襲3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置</Chinese>
         <Chinesesimp>你可以使用我们为"武装突袭3顶尖"新设计的控制设定配置，抑或继续使用原来的旧有配置</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list17_title">
@@ -5005,7 +5004,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list15">
         <Original>Tanoa Game Master scenarios</Original>
-        <Chinese>為Tanoa設計的遊戲管理員模式</Chinese>
+        <Chinese>為塔諾亞設計的遊戲管理員模式</Chinese>
         <Chinesesimp>为塔诺亚设计的游戏管理员模式</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list14_title">
@@ -5015,7 +5014,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list14">
         <Original>"Moddergat" and "Balavu" variants specifically designed for Tanoa's varied environments</Original>
-        <Chinese>在"Moddergat"與"Balavu"兩座城市中體驗我們為Tanoa設計的終戰模式</Chinese>
+        <Chinese>在"莫德爾加"與"巴拉武"兩座城市中體驗我們為塔諾亞設計的終戰模式</Chinese>
         <Chinesesimp>在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list13_title">
@@ -5055,22 +5054,22 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list10">
         <Original>Tanoan and Chinese</Original>
-        <Chinese>Tanoa人與中國人</Chinese>
+        <Chinese>塔諾亞人與中國人</Chinese>
         <Chinesesimp>塔诺亚人与中国人</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_footer">
         <Original>More about Arma 3 Apex</Original>
-        <Chinese>更多關於ArmA3頂尖</Chinese>
+        <Chinese>更多關於武裝突襲3頂尖</Chinese>
         <Chinesesimp>更多关于武装突袭3顶尖</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb">
         <Original>Much like our previous DLC releases, this expansion features a &lt;t color='%1'&gt;premium content pack&lt;/t&gt; and is supported by a &lt;t color='%1'&gt;free platform update&lt;/t&gt;. Having purchased Arma 3 Apex, you gain unrestricted access to &lt;t color='%1'&gt;a new terrain packed with new objects, 10 new vehicles, 13 new weapons, a new campaign and more&lt;/t&gt;. You will also be supporting the continued development of the Arma 3 platform. On behalf of our team and every player out there, we would like to thank you for this! Those who have not quite yet made the call to enlist, can try out the premium vehicles, weapons and character gear in the Virtual Arsenal. So, what exactly has been added in the Arma 3 Apex?</Original>
-        <Chinese>就像我們其他的資料片一樣，這個資料片也有著&lt;tcolor='%1'&gt;付費內容&lt;/t&gt;與一些&lt;tcolor='%1'&gt;免費更新&lt;/t&gt;包含在裡頭。對於那些已經購買ArmA3頂尖的人來說，他們可以自由享用&lt;tcolor='%1'&gt;新地圖與其包含的物件，10臺新載具，13把新武器與一個新戰役等優質內容&lt;/t&gt;。你的購買也等同於繼續支持ArmA3的開發，使這個遊戲平臺更加豐富。我們全體開發人員都非常感謝各位的支持，這些感激無法一語道盡!而那些尚未購買頂尖的朋友，你們可以再虛擬軍火庫中嘗試這些付費內容，再決定是否購買。現在，讓我們來看看ArmA3頂尖到底包含了那些實質內容?</Chinese>
+        <Chinese>就像我們其他的資料片一樣，這個資料片也有著&lt;tcolor='%1'&gt;付費內容&lt;/t&gt;與一些&lt;tcolor='%1'&gt;免費更新&lt;/t&gt;包含在裡頭。對於那些已經購買武裝突襲3頂尖的人來說，他們可以自由享用&lt;tcolor='%1'&gt;新地圖與其包含的物件，10臺新載具，13把新武器與一個新戰役等優質內容&lt;/t&gt;。你的購買也等同於繼續支持武裝突襲3的開發，使這個遊戲平臺更加豐富。我們全體開發人員都非常感謝各位的支持，這些感激無法一語道盡!而那些尚未購買頂尖的朋友，你們可以再虛擬軍火庫中嘗試這些付費內容，再決定是否購買。現在，讓我們來看看武裝突襲3頂尖到底包含了那些實質內容?</Chinese>
         <Chinesesimp>就像我们其他的资料片一样，这个资料片也有着&lt;tcolor='%1'&gt;付费内容&lt;/t&gt;与一些&lt;tcolor='%1'&gt;免费更新&lt;/t&gt;包含在里头。对于那些已经购买武装突袭3顶尖的人来说，他们可以自由享用&lt;tcolor='%1'&gt;新地图与其包含的物件，10台新载具，13把新武器与一个新战役等优质内容&lt;/t&gt;。你的购买也等同于继续支持武装突袭3的开发，使这个游戏平台更加丰富。我们全体开发人员都非常感谢各位的支持，这些感激无法一语道尽!而那些尚未购买顶尖的朋友，你们可以再虚拟军火库中尝试这些付费内容，再决定是否购买。现在，让我们来看看武装突袭3顶尖到底包含了那些实质内容?</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_para">
         <Original>The time has come to deploy on a tour of duty to a brand new warzone with the release of &lt;t color='%1'&gt;Arma 3 Apex&lt;/t&gt;. We are proud to present a major milestone for the game and the platform it is built upon. Representing the pinnacle of over 15 years of development, we hope you will enjoy one of the most meaningful gaming experiences on a PC!</Original>
-        <Chinese>準備好在&lt;tcolor='%1'&gt;ArmA3頂尖&lt;/t&gt;中迎接全新的戰場。我們很榮幸為這個遊戲平臺再創新的里程碑。這也是我們15年來開發工作的頂峰，我們希望你能享受這個最佳的PC遊戲!</Chinese>
+        <Chinese>準備好在&lt;tcolor='%1'&gt;武裝突襲3頂尖&lt;/t&gt;中迎接全新的戰場。我們很榮幸為這個遊戲平臺再創新的里程碑。這也是我們15年來開發工作的頂峰，我們希望你能享受這個最佳的PC遊戲!</Chinese>
         <Chinesesimp>准备好在&lt;tcolor='%1'&gt;武装突袭3顶尖&lt;/t&gt;中迎接全新的战场。我们很荣幸为这个游戏平台再创新的里程碑。这也是我们15年来开发工作的顶峰，我们希望你能享受这个最佳的PC游戏!</Chinesesimp>
       </Key>
     </Container>
@@ -5082,8 +5081,8 @@
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumapex1">
         <Original>Be deployed to the 100 km² South Pacific island archipelago Tanoa, with 13 new weapons and 10 new vehicles, a co-op campaign, and more, in the Arma 3 Apex expansion.%1&lt;img size='9' shadow='0' image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co' /&gt;%1%2Tanoa Terrain%1%2Vehicles - V-44 X Blackfish VTOL, Y-32 Xi'an VTOL, Prowler LSV, Qilin LSV, KH-3A Fenghuang Drone, MQ-12 Falcon Drone, Caesar BTT Propellor Airplane, MB 4WD Offroad Car, RHIB Boat, Water Scooter%1%2Weapons - AKS-74U 5.45 mm Assault Rifle, AKM 7.62 mm Assault Rifle, AK-12 7.62 mm Assault Rifle, RPG-7 Launcher, PM 9 mm Pistol, SPAR-16/S/17 Assault Rifles, CAR-95 5.8 mm Assault Rifle, CAR-95-1 5.8 mm Light Support Weapon, LIM-85 5.56 mm Light Machine Gun, Type 115 6.5 mm / .50 cal Assault Rifle, Protector 9 mm Sub-Machine Gun, CMR-76 6.5 mm Designated Marksman Rifle, ERCO Optics%1%2Gear - new clothes, uniforms, backpacks, headgear, NVGs, and more%1%2Syndikat Faction - a criminal organisation composed of armed thugs and ex-paramilitaries%1%2Gendarmerie Faction - the local Tanoa law enforcement agency%1%2NATO &amp;amp; CSAT Special Forces - operators equipped with modern weaponry, thermal-masking camouflage, new Night Vision Goggles, and other unique gear%1%2NATO &amp;amp; CSAT Pacific Forces - suitably camouflaged assets for the primary armed forces%1%2Props - Tanoa environment decorations and special field equipment%1%2Character Appearances - Tanoan and Chinese%1%2Radio Protocols - French, French-English and Chinese%1%2"Apex Protocol" - a 1-4 player co-op campaign with ties to "The East Wind"%1%2Showcase End Game - become familiar with the End Game mode in a singleplayer scenario%1%2&lt;a href='https://community.bistudio.com/wiki/MP_End_Game'&gt;End Game&lt;/a&gt; Instances - "Moddergat" and "Balavu" variants specifically designed for Tanoa's varied environments%1%2&lt;a href="https://arma3.com/dlc/zeus"&gt;Zeus&lt;/a&gt; - Tanoa Game Master scenarios%1%2Official Sound Track - new tracks to score "Apex Protocol"%1%2Main Menu - a re-imagined take on your main window into the game%1%2Controls Presets - play using the new default "Arma 3 Apex" preset, or stick to the setup you're used to via "Arma 3"%1%2Achievements - a set of extra &lt;a href='http://steamcommunity.com/stats/107410/achievements'&gt;Steam Achievements&lt;/a&gt;%1</Original>
-        <Chinese>準備好，你即將被佈署到一處100平方公里的南太平洋群島-Tanoa，此資料片為您帶來13種新武器與10輛新載具，以及一個可多人合作的劇情戰役，這些內容盡在ArmA3頂尖資料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2Tanoa島嶼%1%2載具-V-44X"黑鯨"垂直起降機，Y-32"西安"垂直起降機，"徘徊者"輕型突擊車，"麒麟"輕型突擊車，KH-3A"鳳凰"無人偵察機，MQ-12"獵隼"無人直升機，"凱撒"BTT單引擎飛機，四輪驅動越野車，硬殼充氣快艇，水上摩托車%1%2武器-AKS-74U5.45mm突擊步槍，AKM7.62mm突擊步槍，AK-127.62mm突擊步槍，RPG-7發射器，PM9mm手槍，SPAR-16/S/17突擊步槍，CAR-955.8mm突擊步槍，CAR-95-15.8mm輕型支援武器，LIM-855.56mm輕機槍，Type1156.5mm/.50口徑突擊步槍，Protector9mm衝鋒槍，CMR-766.5mm指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡%1%2裝備-新衣服，制服，背包，頭盔，夜視鏡等等%1%2辛迪加陣營-一個由前準軍事人員與罪犯等所組成的犯罪組織%1%2憲兵隊陣營-Tanoa當地的執法組織%1%2北約&amp;amp;廣協同盟特種部隊-裝備更先進的武器，防熱成像迷彩，新式夜視鏡以及其他的獨特裝備%1%2北約&amp;amp;廣協同盟太平洋部隊-主力部隊裝備著與當地符合的迷彩偽裝%1%2道具-Tanoa當地的環境物件與專業道具%1%2登場人物-Tanoa人與中國人%1%2無線電對話-法語，法式英語與中文%1%2"頂尖協議"-接續"東風"戰役的合作戰役，可由1-4人共同遊玩%1%2終戰任務展示-在單人模式中體驗當前最受歡迎的模式-終戰%1%2新的&lt;ahref='https://community。bistudio。com/wiki/MP_End_Game'&gt;終戰&lt;/a&gt;任務-在"Moddergat"與"Balavu"兩座城市中體驗我們為Tanoa設計的終戰模式%1%2&lt;ahref="https://arma3。com/dlc/zeus"&gt;宙斯&lt;/a&gt;-為Tanoa設計的遊戲管理員模式%1%2官方原聲帶-聆聽為"頂尖協議"新譜寫的曲子%1%2主選單-全新的主選單介面%1%2控制設定-你可以使用我們為"ArmA3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置%1%2成就-一組新的&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
-        <Chinesesimp>准备好，你即将被布署到一处100平方公里的南太平洋群岛-塔诺亚，此资料片为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3顶尖资料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2Tanoa岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45mm突击步枪，AKM 7.62mm突击步枪，AK-12 7.62mm突击步枪，RPG-7发射器，PM 9毫米手枪，SPAR-16/S/17突击步枪，CAR-95 5.8毫米突击步枪，CAR-95-1 5.8毫米轻型支援武器，LIM-85 5.56毫米轻机枪，Type1156.5mm/.50口径突击步枪，Protector 9毫米冲锋枪，CMR-76 6.5毫米指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备-新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营-一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营-塔诺亚当地的执法组织%1%2北约&amp;amp;广协同盟特种部队-装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;广协同盟太平洋部队-主力部队装备着与当地符合的迷彩伪装%1%2道具-塔诺亚当地的环境物件与专业道具%1%2登场人物-塔诺亚人与中国人%1%2无线电对话-法语，法式英语与中文%1%2"顶尖协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示-在单人模式中体验当前最受欢迎的模式-终战%1%2新的&lt;ahref='https://community。bistudio。com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务-在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https://arma3。com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带-聆听为"顶尖协议"新谱写的曲子%1%2主菜单-全新的主菜单界面%1%2控制设定-你可以使用我们为"武装突袭3顶尖"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就-一组新的&lt;ahref='http://steamcommunity。com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinesesimp>
+        <Chinese>準備好，你即將被佈署到一處100平方公里的南太平洋群島-塔諾亞，此資料片為您帶來13種新武器與10輛新載具，以及一個可多人合作的劇情戰役，這些內容盡在武裝突襲3頂尖資料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔諾亞島嶼%1%2載具-V-44X"黑鯨"垂直起降機，Y-32"西安"垂直起降機，"徘徊者"輕型突擊車，"麒麟"輕型突擊車，KH-3A"鳳凰"無人偵察機，MQ-12"獵隼"無人直升機，"凱撒"BTT單引擎飛機，四輪驅動越野車，硬殼充氣快艇，水上摩托車%1%2武器-AKS-74U 5.45公厘突擊步槍，AKM 7.62公厘突擊步槍，AK-12 7.62公厘突擊步槍，RPG-7發射器，PM 9公厘手槍，SPAR-16/S/17突擊步槍，CAR-95 5.8公厘突擊步槍，CAR-95-1 5.8公厘輕型支援武器，LIM-85 5.56公厘輕機槍，115式 6.5公厘/.50口徑突擊步槍，"保護者" 9公厘衝鋒槍，CMR-76 6.5公厘指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡%1%2裝備-新衣服，制服，背包，頭盔，夜視鏡等等%1%2辛迪加陣營-一個由前準軍事人員與罪犯等所組成的犯罪組織%1%2憲兵隊陣營-塔諾亞當地的執法組織%1%2北約&amp;amp;廣協同盟特種部隊-裝備更先進的武器，防熱成像迷彩，新式夜視鏡以及其他的獨特裝備%1%2北約&amp;amp;廣協同盟太平洋部隊-主力部隊裝備著與當地符合的迷彩偽裝%1%2道具-塔諾亞當地的環境物件與專業道具%1%2登場人物-塔諾亞人與中國人%1%2無線電對話-法語，法式英語與中文%1%2"頂尖協議"-接續"東風"戰役的合作戰役，可由1-4人共同遊玩%1%2終戰任務展示-在單人模式中體驗當前最受歡迎的模式-終戰%1%2新的&lt;ahref='https://community.bistudio.com/wiki/MP_End_Game'&gt;終戰&lt;/a&gt;任務-在"莫德爾加"與"巴拉武"兩座城市中體驗我們為塔諾亞設計的終戰模式%1%2&lt;ahref="https://arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-為塔諾亞設計的遊戲管理員模式%1%2官方原聲帶-聆聽為"頂尖協議"新譜寫的曲子%1%2主選單-全新的主選單介面%1%2控制設定-你可以使用我們為"武裝突襲3頂尖"新設計的控制設定配置，抑或繼續使用原來的舊有配置%1%2成就-一組新的&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinese>
+        <Chinesesimp>准备好，你即将被布署到一处100平方千米的南太平洋群岛-塔诺亚，此资料片为您带来13种新武器与10辆新载具，以及一个可多人合作的剧情战役，这些内容尽在武装突袭3顶尖资料片之中。%1&lt;imgsize='9'shadow='0'image='A3\Ui_f\data\GUI\Rsc\RscDisplayWelcome\welcome_apex1_co'/&gt;%1%2塔诺亚岛屿%1%2载具-V-44X"黑鲸"垂直起降机，Y-32"西安"垂直起降机，"徘徊者"轻型突击车，"麒麟"轻型突击车，KH-3A"凤凰"无人侦察机，MQ-12"猎隼"无人直升机，"凯撒"BTT单引擎飞机，四轮驱动越野车，硬壳充气快艇，水上摩托车%1%2武器-AKS-74U 5.45毫米突击步枪，AKM 7.62mm突击步枪，AK-12 7.62毫米突击步枪，RPG-7发射器，PM 9毫米手枪，SPAR-16/S/17突击步枪，CAR-95 5.8毫米突击步枪，CAR-95-1 5.8毫米轻型支援武器，LIM-85 5.56毫米轻机枪，115式 6.5毫米/.50口径突击步枪，"保护者" 9毫米冲锋枪，CMR-76 6.5毫米指定精准射手步枪，增强型步枪战斗光学瞄准镜%1%2装备-新衣服，制服，背包，头盔，夜视镜等等%1%2辛迪加阵营-一个由前准军事人员与罪犯等所组成的犯罪组织%1%2宪兵队阵营-塔诺亚当地的执法组织%1%2北约&amp;amp;广协同盟特种部队-装备更先进的武器，防热成像迷彩，新式夜视镜以及其他的独特装备%1%2北约&amp;amp;广协同盟太平洋部队-主力部队装备着与当地符合的迷彩伪装%1%2道具-塔诺亚当地的环境物件与专业道具%1%2登场人物-塔诺亚人与中国人%1%2无线电对话-法语，法式英语与中文%1%2"顶尖协议"-接续"东风"战役的合作战役，可由1-4人共同游玩%1%2终战任务展示-在单人模式中体验当前最受欢迎的模式-终战%1%2新的&lt;ahref='https://community.bistudio.com/wiki/MP_End_Game'&gt;终战&lt;/a&gt;任务-在"莫德尔加"与"巴拉武"两座城市中体验我们为塔诺亚设计的终战模式%1%2&lt;ahref="https://arma3.com/dlc/zeus"&gt;宙斯&lt;/a&gt;-为塔诺亚设计的游戏管理员模式%1%2官方原声带-聆听为"顶尖协议"新谱写的曲子%1%2主菜单-全新的主菜单界面%1%2控制设定-你可以使用我们为"武装突袭3顶尖"新设计的控制设定配置，抑或继续使用原来的旧有配置%1%2成就-一组新的&lt;ahref='http://steamcommunity.com/stats/107410/achievements'&gt;Steam成就&lt;/a&gt;%1</Chinesesimp>
       </Key>
     </Container>
     <Container name="Roles">
@@ -5485,7 +5484,7 @@
       <Container name="DLC_Content_Browser">
         <Key ID="STR_A3_CfgMods_Apex_popupmsgtext">
           <Original>You are using premium content. Purchase Arma 3 Apex to remove the message.</Original>
-          <Chinese>你正在使用付費內容。請購買ArmA3頂尖資料片來移除本訊息。</Chinese>
+          <Chinese>你正在使用付費內容。請購買武裝突襲3頂尖資料片來移除本訊息。</Chinese>
           <Chinesesimp>你正在使用付费内容。请购买武装突袭3顶尖资料片来移除本信息。</Chinesesimp>
         </Key>
       </Container>
@@ -5497,38 +5496,38 @@
         </Key>
         <Key ID="str_a3_cfgmods_apex_vehprevmsgtext">
           <Original>This vehicle is part of the Arma 3 Apex expansion. Please purchase it to enter this vehicle as the crew.</Original>
-          <Chinese>此載具為ArmA3頂尖資料片的付費內容。請先購買後才能進入此載具擔當機組員。</Chinese>
+          <Chinese>此載具為武裝突襲3頂尖資料片的付費內容。請先購買後才能進入此載具擔當機組員。</Chinese>
           <Chinesesimp>此载具为武装突袭3顶尖资料片的付费内容。请先购买后才能进入此载具担当机组员。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_tooltip">
           <Original>Arma 3 Apex expansion now available. Click to purchase.</Original>
-          <Chinese>ArmA3頂尖資料片已上市。請點擊前往購買。</Chinese>
+          <Chinese>武裝突襲3頂尖資料片已上市。請點擊前往購買。</Chinese>
           <Chinesesimp>武装突袭3顶尖资料片已上市。请点击前往购买。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_suppressorsound">
           <Original>Sound suppressor used with late Chinese weapons such as Type-115. Its purpose is to stay relatively cold even after prolonged fire giving operative advantage when the enemy is using Thermal Imaging technology.</Original>
-          <Chinese>此款消音器使用於中國晚期的武器像是Type-115。他提供使用者在長期開火下，仍能保持一定程度的涼爽，使熱成像技術不易掃視到。</Chinese>
+          <Chinese>此款消音器使用於中國晚期的武器像是115式。它提供使用者在長期開火下，仍能保持一定程度的涼爽，使熱成像技術不易掃視到。</Chinese>
           <Chinesesimp>此款消音器用于中国的新型武器，如115式。它能让使用者在长期开火后仍能保持枪口一定程度的低温，使射手不易被热成像系统发现。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_overviewfootnote">
           <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Apex expansion.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
-          <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容使用到了ArmA3頂尖資料片的內容。&lt;br/&gt;請按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟商店頁面獲得更多訊息。&lt;t/&gt;</Chinese>
+          <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容使用到了武裝突襲3頂尖資料片的內容。&lt;br/&gt;請按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟商店頁面獲得更多訊息。&lt;t/&gt;</Chinese>
           <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容使用到了武装突袭3顶尖资料片的内容。&lt;br/&gt;请按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启商店页面获得更多信息。&lt;t/&gt;</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_overview">
           <Original>Be deployed to the 100 km² South Pacific island archipelago Tanoa, with 13 new weapons and 10 new vehicles, a co-op campaign, and more, in the Arma 3 Apex expansion.</Original>
-          <Chinese>準備好被佈署到100平方公里的南太平洋群島Tanoa，並使用13把新武器與10輛新載具，遊玩一個多人合作戰役等等，這些內容盡在ArmA3頂尖資料片。</Chinese>
-          <Chinesesimp>准备好被部署到100平方公里的南太平洋群岛塔诺亚，并使用13把新武器与10辆新载具，游玩一个多人合作战役等等，这些内容尽在武装突袭3顶尖资料片。</Chinesesimp>
+          <Chinese>準備好被佈署到100平方公里的南太平洋群島塔諾亞，並使用13把新武器與10輛新載具，遊玩一個多人合作戰役等等，這些內容盡在武裝突襲3頂尖資料片。</Chinese>
+          <Chinesesimp>准备好被部署到100平方千米的南太平洋群岛塔诺亚，并使用13把新武器与10辆新载具，游玩一个多人合作战役等等，这些内容尽在武装突袭3顶尖资料片。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_opticserco">
           <Original>The open reflex ERCO sight is the ideal sighting solution for rifles and carbines and is designed with standard rail mounts in mind. Features medium range optics and a close range collimator to achieve maximal effectivity in combat as an operator. Recommended for all CTRG and NATO forces.</Original>
-          <Chinese>新的增強型步槍戰鬥光學瞄準鏡是步槍與卡賓槍的最佳裝備。他使用導軌設計，除了中距離的瞄準外，還額外提供了一個近距離準直瞄準器，使戰鬥效率大大提升。被推薦給所有的戰研小組與北約部隊使用。</Chinese>
+          <Chinese>新的增強型步槍戰鬥光學瞄準鏡是步槍與卡賓槍的最佳裝備。他使用導軌設計，除了中距離的瞄準外，還額外提供了一個近距離準直瞄準器，使戰鬥效率大大提升。被推薦給所有的戰研小隊與北約部隊使用。</Chinese>
           <Chinesesimp>新的增强型步枪战斗光学瞄准镜是步枪与卡宾枪的最佳装备。它使用导轨设计，除了中距离的瞄准外，还额外提供了一个近距离准直瞄准器，使战斗效率大大提升。被推荐给所有的战研大队与北约部队使用。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_loading">
           <Original>Arma 3 Apex brings you the brand new 100 km² South Pacific island of Tanoa, a co-op campaign and new weapons and vehicles such as the VTOL aircraft or LSV.</Original>
-          <Chinese>ArmA3頂尖資料片為您帶來全新的100平以及多人合作戰役，新武器與載具等等超值內容。</Chinese>
-          <Chinesesimp>武装突袭3顶尖资料片为您带来全新的100平方公里南太平洋群岛塔诺亚，以及多人合作战役，新武器与载具等等超值内容。</Chinesesimp>
+          <Chinese>武裝突襲3頂尖資料片為您帶來全新的100平方公里以及多人合作戰役，新武器與載具等等超值內容。</Chinese>
+          <Chinesesimp>武装突袭3顶尖资料片为您带来全新的100平方千米南太平洋群岛塔诺亚，以及多人合作战役，新武器与载具等等超值内容。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_itemprevnotiftext">
           <Original>This content is part of the non-owned Apex expansion. Please purchase it to use it.</Original>
@@ -5587,7 +5586,7 @@
         </Key>
         <Key ID="str_a3_cfgmods_apex_feature_units_name">
           <Original>Arma 3 Units</Original>
-          <Chinese>ArmA3戰隊</Chinese>
+          <Chinese>武裝突襲3戰隊</Chinese>
           <Chinesesimp>武装突袭3战队</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_feature_units">
@@ -5617,8 +5616,8 @@
         </Key>
         <Key ID="str_a3_cfgmods_apex_feature_tanoa_terrain_name">
           <Original>Tanoa Terrain</Original>
-          <Chinese>Tanoa地圖</Chinese>
-          <Chinesesimp>Tanoa地图</Chinesesimp>
+          <Chinese>塔諾亞地圖</Chinese>
+          <Chinesesimp>塔诺亚地图</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_feature_tanoa_terrain">
           <Original>Walk, swim, drive, fly, and sail your way across the brand new South Pacific island terrain.</Original>
@@ -5777,27 +5776,27 @@
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesparamilitarytee">
           <Original>A combination of clothes and fatigues used by local organized thugs on Tanoa and surrounding islands, a T-shirt and combat trousers in this case. It is usual they wear at least a portion of military fatigues and add green and brown colored civilian clothes, thus supplementing camouflage if they have to fight.</Original>
-          <Chinese>此套戰鬥用短袖與長褲為混合著一般服裝與迷彩服的套裝，被Tanoa群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
+          <Chinese>此套戰鬥用短袖與長褲為混合著一般服裝與迷彩服的套裝，被塔諾亞群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
           <Chinesesimp>此套战斗用短袖与长裤为混合着一般服装与迷彩服的套装，被塔诺亚群岛的暴徒分子所使用。他们穿着的服装通常都包含着一点军用迷彩，另再加上绿色与棕色来更匹配附近的环境。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesparamilitarytanktop">
           <Original>A combination of clothes and fatigues used by local organized thugs on Tanoa and surrounding islands, a tank top and combat trousers in this case. It is usual they wear at least a portion of military fatigues and add green and brown colored civilian clothes, thus supplementing camouflage if they have to fight.</Original>
-          <Chinese>此套戰鬥用背心與長褲為混合著一般服裝與迷彩服的套裝，被Tanoa群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
+          <Chinese>此套戰鬥用背心與長褲為混合著一般服裝與迷彩服的套裝，被塔諾亞群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
           <Chinesesimp>此套战斗用背心与长裤为混合着一般服装与迷彩服的套装，被塔诺亚群岛的暴徒分子所使用。他们穿着的服装通常都包含着一点军用迷彩，另再加上绿色与棕色来更匹配附近的环境。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesparamilitaryshorts">
           <Original>A combination of clothes and fatigues used by local organized thugs on Tanoa and surrounding islands, a combat jacket and shorts in this case. It is usual they wear at least a portion of military fatigues and add green and brown colored civilian clothes, thus supplementing camouflage if they have to fight.</Original>
-          <Chinese>此套戰鬥用夾克與短褲為混合著一般服裝與迷彩服的套裝，被Tanoa群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
+          <Chinese>此套戰鬥用夾克與短褲為混合著一般服裝與迷彩服的套裝，被塔諾亞群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
           <Chinesesimp>此套战斗用夹克与短裤为混合着一般服装与迷彩服的套装，被塔诺亚群岛的暴徒分子所使用。他们穿着的服装通常都包含着一点军用迷彩，另再加上绿色与棕色来更匹配附近的环境。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesparamilitaryshirt">
           <Original>A combination of clothes and fatigues used by local organized thugs on Tanoa and surrounding islands, a shirt and combat trousers in this case. It is usual they wear at least a portion of military fatigues and add green and brown colored civilian clothes, thus supplementing camouflage if they have to fight.</Original>
-          <Chinese>此套戰鬥用襯衫與長褲為混合著一般服裝與迷彩服的套裝，被Tanoa群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
+          <Chinese>此套戰鬥用襯衫與長褲為混合著一般服裝與迷彩服的套裝，被塔諾亞群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
           <Chinesesimp>此套战斗用衬衫与长裤为混合着一般服装与迷彩服的套装，被塔诺亚群岛的暴徒分子所使用。他们穿着的服装通常都包含着一点军用迷彩，另再加上绿色与棕色来更匹配附近的环境。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_terrainprevmsgtext">
           <Original>The mission takes place on the Tanoa archipelago, which is part of the non-owned Apex expansion. Please purchase it to be able to join.</Original>
-          <Chinese>此任務地圖為Tanoa群島，而你並無購買頂尖資料片。請先購買本資料片後才能加入本任務。</Chinese>
+          <Chinese>此任務地圖為塔諾亞群島，而你並無購買頂尖資料片。請先購買本資料片後才能加入本任務。</Chinese>
           <Chinesesimp>此任务地图为塔诺亚群岛，而你并无购买顶尖资料片。请先购买本资料片后才能加入本任务。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesparamilitaryjacket">
@@ -5807,7 +5806,7 @@
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesparamilitary">
           <Original>A combination of clothes and fatigues used by local organized thugs on Tanoa and the surrounding islands. They usually have at least part of the military fatigues and add green and brown colors to be usable also as camouflage if they need to fight.</Original>
-          <Chinese>此套混合著一般服裝與迷彩服的套裝，被Tanoa群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
+          <Chinese>此套混合著一般服裝與迷彩服的套裝，被塔諾亞群島的暴徒分子所使用。他們穿著的服裝通常都包含著一點軍用迷彩，另再加上綠色與棕色來更匹配附近的環境。</Chinese>
           <Chinesesimp>此套混合着一般服装与迷彩服的套装，被塔诺亚群岛的暴徒分子所使用。他们穿着的服装通常都包含着一点军用迷彩，另再加上绿色与棕色来更匹配附近的环境。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesnatoenviroghilie">
@@ -5832,7 +5831,7 @@
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothescomonnersport">
           <Original>Sporting clothes commonly worn on Tanoa and the surrounding islands. Comfortable, yet durable clothes usually used for sports.</Original>
-          <Chinese>此套運動服被Tanoa群島的人民所使用。因其舒適且耐用，此套服裝是運動時的最佳良伴。</Chinese>
+          <Chinese>此套運動服被塔諾亞群島的人民所使用。因其舒適且耐用，此套服裝是運動時的最佳良伴。</Chinese>
           <Chinesesimp>此套运动服被塔诺亚群岛的人民所使用。因其舒适且耐用，此套服装是运动时的最佳伙伴。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clotheschestrig">
@@ -5847,32 +5846,32 @@
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesbandittee">
           <Original>A combination of clothes used by local criminals on Tanoa and surrounding islands, a T-shirt and jeans in this case. They usually use functional civilian clothes due to low resources and/or connections to obtain better equipment.</Original>
-          <Chinese>此套短袖與牛仔褲被Tanoa群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
+          <Chinese>此套短袖與牛仔褲被塔諾亞群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
           <Chinesesimp>此套短袖与牛仔裤被塔诺亚群岛上的犯罪份子所使用。他们因为资源有限所以使用平民服装，在一些状况下，他们也可通过特殊通道得到更好的装备。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesbandittanktop">
           <Original>Combination of clothes used by local criminals on Tanoa and surrounding islands, tank top and shorts in this case. They usually use functional civilian clothes thanks to low resources and/or connections to obtain better equipment.</Original>
-          <Chinese>此套背心與短褲被Tanoa群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
+          <Chinese>此套背心與短褲被塔諾亞群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
           <Chinesesimp>此套背心与短裤被塔诺亚群岛上的犯罪份子所使用。他们因为资源有限所以使用平民服装，在一些状况下，他们也可通过特殊通道得到更好的装备。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesbanditskull2">
           <Original>A combination of clothes used by local criminals on Tanoa and surrounding islands, a T-shirt and trousers in this case. They usually use functional civilian clothes due to low resources and/or connections to obtain better equipment.</Original>
-          <Chinese>此套短袖與長褲被Tanoa群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
+          <Chinese>此套短袖與長褲被塔諾亞群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
           <Chinesesimp>此套短袖与长裤被塔诺亚群岛上的犯罪份子所使用。他们因为资源有限所以使用平民服装，在一些状况下，他们也可通过特殊通道得到更好的装备。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesbanditskull">
           <Original>A combination of clothes used by local criminals on Tanoa and the surrounding islands. They usually use functional civilian clothes due to low resources and/or connections to obtain better equipment.</Original>
-          <Chinese>此套衣物被Tanoa群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
+          <Chinese>此套衣物被塔諾亞群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
           <Chinesesimp>此套衣物被塔诺亚群岛上的犯罪份子所使用。他们因为资源有限所以使用平民服装，在一些状况下，他们也可通过特殊通道得到更好的装备。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesbanditpoloshirt">
           <Original>A combination of clothes used by local criminals on Tanoa and surrounding islands, a polo shirt and shorts in this case. They usually use functional civilian clothes due to low resources and/or connections to obtain better equipment.</Original>
-          <Chinese>此套馬球衫與短褲被Tanoa群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
+          <Chinese>此套馬球衫與短褲被塔諾亞群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
           <Chinesesimp>此套马球衫与短裤被塔诺亚群岛上的犯罪份子所使用。他们因为资源有限所以使用平民服装，在一些状况下，他们也可通过特殊通道得到更好的装备。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_clothesbanditcheckered">
           <Original>A combination of clothes used by local criminals on Tanoa and surrounding islands, a shirt and shorts in this case. They usually use functional civilian clothes due to low resources and/or connections to obtain better equipment.</Original>
-          <Chinese>此套襯衫與短褲被Tanoa群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
+          <Chinese>此套襯衫與短褲被塔諾亞群島上的犯罪份子所使用。他們因為資源有限所以使用平民服裝，在一些狀況下，他們也可透過特殊管道得到更好的裝備。</Chinese>
           <Chinesesimp>此套衬衫与短裤被塔诺亚群岛上的犯罪份子所使用。他们因为资源有限所以使用平民服装，在一些状况下，他们也可通过特殊通道得到更好的装备。</Chinesesimp>
         </Key>
       </Container>
@@ -6196,79 +6195,79 @@
       <Container name="Pistols">
         <Key ID="str_a3_cfgweapons_hgun_pistol_01_f_library0">
           <Original>The PM is an Ukrainian semi-automatic pistol. It is based on a Soviet Union's standard military and police side arm designed by Nikolay Fyodorovich Makarov. It has been produced since 1970s and has been used ever since in Ukraine, Yugoslavia, and places where black market reached from those countries. It uses 9x21 mm caliber instead of the original 9x19 mm. The actual bullet is 9.22 mm in diameter, since caliber in Russia is measured between the grooves and not the lands of the rifling. Being shorter and wider, the 9 mm cartridge is incompatible with pistols chambered for 9x21 mm cartridges and vice-versa.</Original>
-          <Chinese>PM是一把烏克蘭製的半自動手槍。其設計參考至前蘇聯槍械設計師NikolayFyodorovichMakarov為軍方與警察所設計的手槍。此槍從1970年代開始生產，並在烏克蘭，南斯拉夫及各個黑市中皆可看到。它使用9x21mm口徑的子彈來取代原本的9x19mm口徑。但實際子彈的直徑卻是9。22mm，這是由於俄羅斯習慣從槍身環槽起算長度而並非膛線起算長度。由於較短且寬的緣故，使用9mm口徑的手槍並沒辦法與這把使用9x21mm口徑的手槍交換彈藥來使用。</Chinese>
+          <Chinese>PM是一把烏克蘭製的半自動手槍。其設計參考至前蘇聯槍械設計師尼古拉·費奧多羅維奇·馬卡羅夫為軍方與警察所設計的手槍。此槍從1970年代開始生產，並在烏克蘭，南斯拉夫及各個黑市中皆可看到。它使用9x21公厘口徑的子彈來取代原本的9x19公厘口徑。但實際子彈的直徑卻是9.22公厘，這是由於俄羅斯習慣從槍身環槽起算長度而並非膛線起算長度。由於較短且寬的緣故，使用9公厘口徑的手槍並沒辦法與這把使用9x21公厘口徑的手槍交換彈藥來使用。</Chinese>
           <Chinesesimp>PM是一把乌克兰制的半自动手枪。其设计参考至苏联枪械设计师尼古拉·费奥多罗维奇·马卡罗夫为军方与警察所设计的手枪。此枪从1970年代开始生产，并在乌克兰，南斯拉夫及能涉及到这两个国家的各个黑市中都可看到。它使用9x21毫米口径的子弹来取代原本的9x19毫米口径。但实际子弹的直径却是9。22毫米，这是由于俄罗斯习惯从枪身阳线而非阴线起算直径。由于较短且宽的缘故，使用9毫米口径的手枪并没办法与这把使用9x21毫米口径的手枪互换弹药。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_hgun_pistol_01_f1">
           <Original>Handgun&lt;br /&gt;Caliber: 9x21 mm</Original>
-          <Chinese>手槍&lt;br/&gt;口徑:9x21mm</Chinese>
+          <Chinese>手槍&lt;br/&gt;口徑:9x21公厘</Chinese>
           <Chinesesimp>手枪&lt;br/&gt;口径:9x21毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_hgun_pistol_01_f0">
           <Original>PM 9 mm</Original>
-          <Chinese>PM9mm</Chinese>
+          <Chinese>PM 9公厘</Chinese>
           <Chinesesimp>PM 9毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_hgun_p07_khk_f0">
           <Original>P07 9 mm (Khaki)</Original>
-          <Chinese>P079mm(卡其色)</Chinese>
+          <Chinese>P07 9公厘(卡其色)</Chinese>
           <Chinesesimp>P07 9毫米(卡其色)</Chinesesimp>
         </Key>
       </Container>
       <Container name="Rifles">
         <Key ID="str_a3_cfgweapons_arifle_spar_03_snd_f0">
           <Original>SPAR-17 7.62 mm (Sand)</Original>
-          <Chinese>SPAR-177.62mm(沙色)</Chinese>
+          <Chinese>SPAR-17 7.62公厘(沙色)</Chinese>
           <Chinesesimp>SPAR-17 7.62毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_khk_f0">
           <Original>SPAR-17 7.62 mm (Khaki)</Original>
-          <Chinese>SPAR-177.62mm(卡其色)</Chinese>
+          <Chinese>SPAR-17 7.62公厘(卡其色)</Chinese>
           <Chinesesimp>SPAR-17 7.62毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_blk_f0">
           <Original>SPAR-17 7.62 mm (Black)</Original>
-          <Chinese>SPAR-177.62mm(黑色)</Chinese>
+          <Chinese>SPAR-17 7.62公厘(黑色)</Chinese>
           <Chinesesimp>SPAR-17 7.62毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_base_f1">
           <Original>Marksman rifle&lt;br /&gt;Caliber: 7.62x51 mm</Original>
-          <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51mm</Chinese>
+          <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51公厘</Chinese>
           <Chinesesimp>精准射手步枪&lt;br/&gt;口径:7.62x51毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_base_f_library0">
           <Original>The SPAR-17 designated marksman rifle is in many ways similar to the SPAR-16. The main difference is the chambering to 7.62 mm which also means a longer, thicker barrel and more weight. Thanks to the more powerful ammunition, the SPAR-17 is most suitable for ranges from 600 to 800 meters. The rifle offers a single and full auto mode and is, like the SPAR-16, compatible with a large number of accessories.</Original>
-          <Chinese>SPAR-17指定精準射手步槍在許多意義上都神似於SPAR-16。他們之間最大的差別在於其使用了7.62mm子彈，這也表示它使用了更長，更厚且更重的槍管因而增加了它的重量。多虧了這強大的彈藥，SPAR-17的有效射程可達600至800公尺左右。它有著單發與全自動射擊兩種模式，而就像SPAR-16一樣，此槍也可以兼容大量的槍身配件。</Chinese>
+          <Chinese>SPAR-17指定精準射手步槍在許多意義上都神似於SPAR-16。他們之間最大的差別在於其使用了7.62公厘子彈，這也表示它使用了更長，更厚且更重的槍管因而增加了它的重量。多虧了這強大的彈藥，SPAR-17的有效射程可達600至800公尺左右。它有著單發與全自動射擊兩種模式，而就像SPAR-16一樣，此槍也可以兼容大量的槍身配件。</Chinese>
           <Chinesesimp>SPAR-17指定精准射手步枪在许多意义上都神似于SPAR-16。他们之间最大的差别在于其使用了7.62毫米子弹，这也表示它使用了更长，更厚且更重的枪管因而增加了它的重量。多亏了这强大的弹药，SPAR-17的有效射程可达600至800米左右。它有着单发与全自动射击两种模式，而就像SPAR-16一样，此枪也可以兼容大量的枪身配件。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_03_base_f0">
           <Original>SPAR-17 7.62 mm</Original>
-          <Chinese>SPAR-177.62mm</Chinese>
+          <Chinese>SPAR-17 7.62公厘</Chinese>
           <Chinesesimp>SPAR-17 7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_snd_f0">
           <Original>SPAR-16S 5.56 mm (Sand)</Original>
-          <Chinese>SPAR-16S5.56mm(沙色)</Chinese>
+          <Chinese>SPAR-16S 5.56公厘(沙色)</Chinese>
           <Chinesesimp>SPAR-16S 5.56毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_khk_f0">
           <Original>SPAR-16S 5.56 mm (Khaki)</Original>
-          <Chinese>SPAR-16S5.56mm(卡其色)</Chinese>
+          <Chinese>SPAR-16S 5.56公厘(卡其色)</Chinese>
           <Chinesesimp>SPAR-16S 5.56毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_blk_f0">
           <Original>SPAR-16S 5.56 mm (Black)</Original>
-          <Chinese>SPAR-16S5.56mm(黑色)</Chinese>
+          <Chinese>SPAR-16S 5.56公厘(黑色)</Chinese>
           <Chinesesimp>SPAR-16S 5.56毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_snd_f0">
           <Original>SPAR-16 5.56 mm (Sand)</Original>
-          <Chinese>SPAR-165.56mm(沙色)</Chinese>
+          <Chinese>SPAR-16 5.56公厘(沙色)</Chinese>
           <Chinesesimp>SPAR-16 5.56毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_khk_f0">
           <Original>SPAR-16 5.56 mm (Khaki)</Original>
-          <Chinese>SPAR-165.56mm(卡其色)</Chinese>
+          <Chinese>SPAR-16 5.56公厘(卡其色)</Chinese>
           <Chinesesimp>SPAR-16 5.56毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_base_f1">
@@ -6278,18 +6277,18 @@
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_snd_f0">
           <Original>SPAR-16 GL 5.56 mm (Sand)</Original>
-          <Chinese>SPAR-16GL5.56mm(沙色)</Chinese>
-          <Chinesesimp>SPAR-16GL 5.56毫米(沙色)</Chinesesimp>
+          <Chinese>SPAR-16 GL 5.56公厘(沙色)</Chinese>
+          <Chinesesimp>SPAR-16 GL 5.56毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_khk_f0">
           <Original>SPAR-16 GL 5.56 mm (Khaki)</Original>
-          <Chinese>SPAR-16GL5.56mm(卡其色)</Chinese>
-          <Chinesesimp>SPAR-16GL 5.56毫米(卡其色)</Chinesesimp>
+          <Chinese>SPAR-16 GL 5.56公厘(卡其色)</Chinese>
+          <Chinesesimp>SPAR-16 GL 5.56毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_blk_f0">
           <Original>SPAR-16 GL 5.56 mm (Black)</Original>
-          <Chinese>SPAR-16GL5.56mm(黑色)</Chinese>
-          <Chinesesimp>SPAR-16GL 5.56毫米(黑色)</Chinesesimp>
+          <Chinese>SPAR-16 GL 5.56公厘(黑色)</Chinese>
+          <Chinesesimp>SPAR-16 GL 5.56毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_base_f_eglm0">
           <Original>GLM</Original>
@@ -6298,93 +6297,93 @@
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_blk_f0">
           <Original>SPAR-16 5.56 mm (Black)</Original>
-          <Chinese>SPAR-165.56mm(黑色)</Chinese>
+          <Chinese>SPAR-16 5.56公厘(黑色)</Chinese>
           <Chinesesimp>SPAR-16 5.56毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_base_f0">
           <Original>SPAR-16 5.56 mm</Original>
-          <Chinese>SPAR-165.56mm</Chinese>
+          <Chinese>SPAR-16 5.56公厘</Chinese>
           <Chinesesimp>SPAR-16 5.56毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mx_sw_khk_f0">
           <Original>MX SW 6.5 mm (Khaki)</Original>
-          <Chinese>MXSW6.5mm(卡其色)</Chinese>
-          <Chinesesimp>MXSW 6.5毫米(卡其色)</Chinesesimp>
+          <Chinese>MX SW 6.5公厘(卡其色)</Chinese>
+          <Chinesesimp>MX SW 6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mxm_khk_f0">
           <Original>MXM 6.5 mm (Khaki)</Original>
-          <Chinese>MXM6.5mm(卡其色)</Chinese>
+          <Chinese>MXM 6.5公厘(卡其色)</Chinese>
           <Chinesesimp>MXM 6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.56x45 mm</Original>
-          <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45mm</Chinese>
+          <Chinese>突擊步槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
           <Chinesesimp>突击步枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_base_f_library0">
           <Original>The SPAR-16 is a standard issue assault rifle of CTRG units in Pacific, chambered for 5.56 mm ammunition. The gun is a reliable rifle compatible with a large number of accessories. Multiple variants of this rifle exist, each suitable for a different role. The SPAR-16 GL is equipped with an underslung grenade launcher, the SPAR-16S with its thicker barrel and drum magazine works as a light support weapon.</Original>
-          <Chinese>SPAR-16突擊步槍是戰研大隊太平洋部隊的標準裝備，使用5.56mm子彈。此槍可搭配為數眾多的槍身配件，使其產生出不同的版本來配合任務需求。SPAR-16GL為加掛榴彈發射器的版本，而SPAR-16S則是加裝圓形彈鼓的輕機槍版本。</Chinese>
-          <Chinesesimp>SPAR-16突击步枪是战研大队太平洋部队的标准装备，使用5.56毫米子弹。此枪可搭配为数众多的枪身配件，使其产生出不同的版本来配合任务需求。SPAR-16GL为加挂榴弹发射器的版本，而SPAR-16S则是加装圆形弹鼓的轻机枪版本。</Chinesesimp>
+          <Chinese>SPAR-16突擊步槍是戰研大隊太平洋部隊的標準裝備，使用5.56公厘子彈。此槍可搭配為數眾多的槍身配件，使其產生出不同的版本來配合任務需求。SPAR-16 GL為加掛榴彈發射器的版本，而SPAR-16S則是加裝圓形彈鼓的輕機槍版本。</Chinese>
+          <Chinesesimp>SPAR-16突击步枪是战研大队太平洋部队的标准装备，使用5.56毫米子弹。此枪可搭配为数众多的枪身配件，使其产生出不同的版本来配合任务需求。SPAR-16 GL为加挂榴弹发射器的版本，而SPAR-16S则是加装圆形弹鼓的轻机枪版本。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mx_khk_f0">
           <Original>MX 6.5 mm (Khaki)</Original>
-          <Chinese>MX6.5mm(卡其色)</Chinese>
+          <Chinese>MX 6.5公厘(卡其色)</Chinese>
           <Chinesesimp>MX 6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mx_gl_khk_f0">
           <Original>MX 3GL 6.5 mm (Khaki)</Original>
-          <Chinese>MX3GL6.5mm(卡其色)</Chinese>
-          <Chinesesimp>MX3GL 6.5毫米(卡其色)</Chinesesimp>
+          <Chinese>MX 3GL 6.5公厘(卡其色)</Chinese>
+          <Chinesesimp>MX 3GL 6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_mxc_khk_f0">
           <Original>MXC 6.5 mm (Khaki)</Original>
-          <Chinese>MXC6.5mm(卡其色)</Chinese>
+          <Chinese>MXC 6.5公厘(卡其色)</Chinese>
           <Chinesesimp>MXC 6.5毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_wdm_f0">
           <Original>CAR-95 5.8 mm (Green Hex)</Original>
-          <Chinese>CAR-955.8mm(綠色數位蜂巢迷彩)</Chinese>
+          <Chinese>CAR-95 5.8公厘(綠色數位蜂巢迷彩)</Chinese>
           <Chinesesimp>CAR-95 5.8毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctars_wdm_f0">
           <Original>CAR-95-1 5.8mm (Green Hex)</Original>
-          <Chinese>CAR-95-15.8mm(綠色數位蜂巢迷彩)</Chinese>
+          <Chinese>CAR-95-1 5.8公厘(綠色數位蜂巢迷彩)</Chinese>
           <Chinesesimp>CAR-95-1 5.8毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctars_hex_f0">
           <Original>CAR-95-1 5.8mm (Hex)</Original>
-          <Chinese>CAR-95-15.8mm(數位蜂巢迷彩)</Chinese>
+          <Chinese>CAR-95-1 5.8公厘(數位蜂巢迷彩)</Chinese>
           <Chinesesimp>CAR-95-1 5.8毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctars_blk_f0">
           <Original>CAR-95-1 5.8mm (Black)</Original>
-          <Chinese>CAR-95-15.8mm(黑色)</Chinese>
+          <Chinese>CAR-95-1 5.8公厘(黑色)</Chinese>
           <Chinesesimp>CAR-95-1 5.8毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_hex_f0">
           <Original>CAR-95 5.8 mm (Hex)</Original>
-          <Chinese>CAR-955.8mm(數位蜂巢迷彩)</Chinese>
+          <Chinese>CAR-95 5.8公厘(數位蜂巢迷彩)</Chinese>
           <Chinesesimp>CAR-95 5.8毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_gl_wdm_f0">
           <Original>CAR-95 GL 5.8 mm (Green Hex)</Original>
-          <Chinese>CAR-95GL5.8mm(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CAR-95GL 5.8毫米(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>CAR-95 GL 5.8公厘(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CAR-95 GL 5.8毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_gl_hex_f0">
           <Original>CAR-95 GL 5.8 mm (Hex)</Original>
-          <Chinese>CAR-95GL5.8mm(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>CAR-95GL 5.8毫米(数位蜂巢迷彩)</Chinesesimp>
+          <Chinese>CAR-95 GL 5.8公厘(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>CAR-95 GL 5.8毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_gl_blk_f0">
           <Original>CAR-95 GL 5.8 mm (Black)</Original>
-          <Chinese>CAR-95GL5.8mm(黑色)</Chinese>
-          <Chinesesimp>CAR-95GL 5.8毫米(黑色)</Chinesesimp>
+          <Chinese>CAR-95 GL 5.8公厘(黑色)</Chinese>
+          <Chinesesimp>CAR-95 GL 5.8毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_gl_base_f_eglm0">
           <Original>GL 15A</Original>
-          <Chinese>GL15A</Chinese>
-          <Chinesesimp>GL15A</Chinesesimp>
+          <Chinese>GL 15A</Chinese>
+          <Chinesesimp>GL 15A</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctars_base_f1">
           <Original>Light Machine Gun&lt;br /&gt;Caliber: 5.8x42 mm</Original>
@@ -6393,38 +6392,38 @@
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_blk_f0">
           <Original>CAR-95 5.8 mm (Black)</Original>
-          <Chinese>CAR-955.8mm(黑色)</Chinese>
+          <Chinese>CAR-95 5.8公厘(黑色)</Chinese>
           <Chinesesimp>CAR-95 5.8毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f0">
           <Original>CAR-95 5.8 mm</Original>
-          <Chinese>CAR-955.8mm</Chinese>
+          <Chinese>CAR-95 5.8公厘</Chinese>
           <Chinesesimp>CAR-95 5.8毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_hex_f_secondary0">
           <Original>Type 115 .50 BW (Hex)</Original>
-          <Chinese>Type115.50BW(數位蜂巢迷彩)</Chinese>
+          <Chinese>115式 .50BW(數位蜂巢迷彩)</Chinese>
           <Chinesesimp>115式.50BW(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_hex_f0">
           <Original>Type 115 6.5 mm (Hex)</Original>
-          <Chinese>Type1156.5mm(數位蜂巢迷彩)</Chinese>
+          <Chinese>115式 6.5公厘(數位蜂巢迷彩)</Chinese>
           <Chinesesimp>115式6.5毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_ghex_f_secondary0">
           <Original>Type 115 .50 BW (Green Hex)</Original>
-          <Chinese>Type115.50BW(綠色數位蜂巢迷彩)</Chinese>
+          <Chinese>115式 .50BW(綠色數位蜂巢迷彩)</Chinese>
           <Chinesesimp>115式.50BW(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_ghex_f0">
           <Original>Type 115 6.5 mm (Green Hex)</Original>
-          <Chinese>Type1156.5mm(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>115式6.5毫米(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>115式 6.5公厘(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>115式 6.5毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_blk_f_secondary0">
           <Original>Type 115 .50 BW (Black)</Original>
-          <Chinese>Type115.50BW(黑色)</Chinese>
-          <Chinesesimp>115式.50BW(黑色)</Chinesesimp>
+          <Chinese>115式 .50BW(黑色)</Chinese>
+          <Chinesesimp>115式 .50BW(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.8x42 mm</Original>
@@ -6433,37 +6432,37 @@
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f_library0">
           <Original>A bullpup style assault rifle used by CSAT Pacific forces. It works as a common platform for different weapon types: a standard rifle, GL variant with attached grenade launcher and a light support version with a longer barrel and drum magazine. The CAR-95 uses polymer materials in its construction and fires 5.8x42 mm small-caliber, high-velocity bullets.</Original>
-          <Chinese>這是把被廣協同盟太平洋部隊所使用的無托式突擊步槍。它有者不同的版本:標準版，加掛榴彈發射器的版本，使用圓形彈鼓的輕機槍版本。CAR-95的外殼使用了聚合物當作材料，並使用5.8x42mm的小口徑，高射速子彈。</Chinese>
-          <Chinesesimp>这是一种被广协同盟太平洋部队所使用的无托式突击步枪。它有多种不同的版本:标准版，加挂榴弹发射器的版本，使用圆形弹鼓的轻机枪版本。CAR-95的外壳使用了聚合物当作材料，并使用5.8x42mm的小口径，高射速子弹。</Chinesesimp>
+          <Chinese>這是把被廣協同盟太平洋部隊所使用的無托式突擊步槍。它有者不同的版本:標準版，加掛榴彈發射器的版本，使用圓形彈鼓的輕機槍版本。CAR-95的外殼使用了聚合物當作材料，並使用5.8x42公厘的小口徑，高射速子彈。</Chinese>
+          <Chinesesimp>这是一种被广协同盟太平洋部队所使用的无托式突击步枪。它有多种不同的版本:标准版，加挂榴弹发射器的版本，使用圆形弹鼓的轻机枪版本。CAR-95的外壳使用了聚合物当作材料，并使用5.8x42毫米的小口径，高射速子弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_blk_f0">
           <Original>Type 115 6.5 mm (Black)</Original>
-          <Chinese>Type1156.5mm(黑色)</Chinese>
+          <Chinese>115式 6.5公厘(黑色)</Chinese>
           <Chinesesimp>115式6.5毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_base_f0">
           <Original>Type 115 6.5 mm</Original>
-          <Chinese>Type1156.5mm</Chinese>
+          <Chinese>115式 6.5公厘</Chinese>
           <Chinesesimp>115式6.5毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_aks_f0">
           <Original>AKS-74U 5.45 mm</Original>
-          <Chinese>AKS-74U5.45mm</Chinese>
+          <Chinese>AKS-74U 5.45公厘</Chinese>
           <Chinesesimp>AKS-74U 5.45毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_aks_base_f_library0">
           <Original>The AKS-74U was created as an answer for the Soviet need for a fully automatic carbine. The gun is basically a shortened AK-74, which enabled significant production savings. Like the AK-74, this variant is also chambered in 5.45x39 mm, but its compact dimensions make it intended for special forces, vehicle crews, police patrols, etc. However, the lower muzzle velocity makes the AKS-74U effective up to only around 400 meters.</Original>
-          <Chinese>AKS-74U是蘇聯為了製造一把全自動的卡賓槍所得出的最後答案。該槍基本上就是一把縮短的AK-74，但也因為這樣而顯著的增加了生產效率。就像AK-74，此版本也使用了5.45x39mm子彈，由於其精巧的尺寸，此槍常被特種部隊，載具機組員，警察等單位所使用。然而由於較低的槍口初速，其有效射程僅落在400公尺左右而已。</Chinese>
+          <Chinese>AKS-74U是蘇聯為了製造一把全自動的卡賓槍所得出的最後答案。該槍基本上就是一把縮短的AK-74，但也因為這樣而顯著的增加了生產效率。就像AK-74，此版本也使用了5.45x39公厘子彈，由於其精巧的尺寸，此槍常被特種部隊，載具機組員，警察等單位所使用。然而由於較低的槍口初速，其有效射程僅落在400公尺左右而已。</Chinese>
           <Chinesesimp>AKS-74U为应对苏联对全自动卡宾枪的需求的成果。该枪基本上就是一把缩短的AK-74，也因为这样而显着的增加了生产效率。就像AK-74一样，此种衍生型也使用了5.45x39毫米子弹，由于其精巧的尺寸，此枪常被特种部队，载具乘员，警察等单位所使用。然而由于较低的枪口初速，其有效射程仅有400米左右。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_aks_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 5.45x39 mm</Original>
-          <Chinese>突擊步槍&lt;br/&gt;口徑:5.45x39mm</Chinese>
+          <Chinese>突擊步槍&lt;br/&gt;口徑:5.45x39公厘</Chinese>
           <Chinesesimp>突击步枪&lt;br/&gt;口径:5.45x39毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_akm_f0">
           <Original>AKM 7.62 mm</Original>
-          <Chinese>AKM7.62mm</Chinese>
+          <Chinese>AKM 7.62公厘</Chinese>
           <Chinesesimp>AKM 7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_akm_base_f_library0">
@@ -6478,47 +6477,47 @@
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_gl_base_f0">
           <Original>AK-12 GL 7.62 mm</Original>
-          <Chinese>AK-12GL7.62mm</Chinese>
-          <Chinesesimp>AK-12GL 7.62毫米</Chinesesimp>
+          <Chinese>AK-12 GL 7.62公厘</Chinese>
+          <Chinesesimp>AK-12 GL 7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 6.5x39 mm / .50 BW</Original>
-          <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39mm/.50BW</Chinese>
+          <Chinese>突擊步槍&lt;br/&gt;口徑:6.5x39公厘/.50BW</Chinese>
           <Chinesesimp>突击步枪&lt;br/&gt;口径:6.5x39毫米/.50BW</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_base_f_library0">
           <Original>The Type 115 is a modern multi weapon. It consists of two separate weapons combined into a single unit: a lower semi auto rifle chambered to fire 0.50 caseless rounds and upper automatic/ semi auto rifle chambered in caseless 6.5mm. The gun can be modified by attachments to fulfill carious roles in battle. Its versatility turns every soldier into an universal threat against both infantry and armored targets.</Original>
-          <Chinese>Type115是把現代的多功能武器。它把兩種不同的武器組裝成一把武器:下掛的半自動步槍使用了.50子彈，而上層的全自動/半自動步槍則使用了6.5mm子彈。此把武器可再搭配不同的槍身配件來配合不同的任務。藉由這把武器，戰場上的士兵便能同時打擊步兵與裝甲目標。</Chinese>
+          <Chinese>115式是把現代的多功能武器。它把兩種不同的武器組裝成一把武器:下掛的半自動步槍使用了.50無殼彈，而上層的全自動/半自動步槍則使用了6.5公厘子彈。此把武器可再搭配不同的槍身配件來配合不同的任務。藉由這把武器，戰場上的士兵便能同時打擊步兵與裝甲目標。</Chinese>
           <Chinesesimp>115式是把现代的多功能武器。它把两种不同的武器组装成一把武器:下挂的半自动步枪使用.50无壳弹，而上层的全自动/半自动步枪则使用6.5毫米弹。此把武器可再搭配不同的枪身配件来执行不同的任务。藉由这把武器，战场上的士兵便能同时打击步兵与装甲目标。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_base_f_library0">
           <Original>The AK-12 is a modern assault rifle designed to replace the legendary AK-74 as general issue for the Russian Army. The weapon introduces many improvements over its predecessors: better recoil control, versions suitable for various ammunition, compatibility with several underslung grenade launchers, accessory rails, or better ergonomics. This particular version is chambered in 7.62x39 mm, so it trades a bit of accuracy for a bigger punch and better penetration.</Original>
-          <Chinese>AK-12是由俄羅斯軍方所研製的一把現代突擊步槍，用意是為了取代傳奇的AK-74成為主力裝備。這把武器改進了許多前輩的缺點:改進的後座力反饋，適用不同類型的子彈，兼容不同的下掛式榴彈發射器，戰術導軌及更好的人體工學造型。在此版本中使用了7.62x39mm的子彈，這種子彈雖然犧牲了些準確度，但卻大大增加了穿甲力與殺傷力。</Chinese>
+          <Chinese>AK-12是由俄羅斯軍方所研製的一把現代突擊步槍，用意是為了取代傳奇的AK-74成為主力裝備。這把武器改進了許多前輩的缺點:改進的後座力反饋，適用不同類型的子彈，兼容不同的下掛式榴彈發射器，戰術導軌及更好的人體工學造型。在此版本中使用了7.62x39公厘的子彈，這種子彈雖然犧牲了些準確度，但卻大大增加了穿甲力與殺傷力。</Chinese>
           <Chinesesimp>AK-12是由俄罗斯军方所研制的一把现代突击步枪，用意是为了取代传奇的AK-74成为主力装备。这把武器改进了许多前辈的缺点:改进的后座力反馈，适用不同类型的子弹，兼容不同的下挂式榴弹发射器，战术导轨及更好的人体工学造型。在此版本中使用了7.62x39毫米的子弹，这种子弹虽然牺牲了些准确度，但大大增加了穿甲力与杀伤力。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_base_f1">
           <Original>Assault Rifle&lt;br /&gt;Caliber: 7.62x39 mm</Original>
-          <Chinese>突擊步槍&lt;br/&gt;口徑:7.62x39mm</Chinese>
+          <Chinese>突擊步槍&lt;br/&gt;口徑:7.62x39公厘</Chinese>
           <Chinesesimp>突击步枪&lt;br/&gt;口径:7.62x39毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ak12_base_f0">
           <Original>AK-12 7.62 mm</Original>
-          <Chinese>AK-127.62mm</Chinese>
+          <Chinese>AK-12 7.62公厘</Chinese>
           <Chinesesimp>AK-12 7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_ctar_base_f2">
           <Original>CAR-95-1 5.8 mm</Original>
-          <Chinese>CAR-95-15.8mm</Chinese>
+          <Chinese>CAR-95-1 5.8公厘</Chinese>
           <Chinesesimp>CAR-95-1 5.8毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_01_gl_f0">
           <Original>SPAR-16 GL 5.56 mm</Original>
-          <Chinese>SPAR-16GL5.56mm</Chinese>
-          <Chinesesimp>SPAR-16GL 5.56毫米</Chinesesimp>
+          <Chinese>SPAR-16 GL 5.56公厘</Chinese>
+          <Chinesesimp>SPAR-16 GL 5.56毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_spar_02_f0">
           <Original>SPAR-16S 5.56 mm</Original>
-          <Chinese>SPAR-16S5.56mm</Chinese>
+          <Chinese>SPAR-16S 5.56公厘</Chinese>
           <Chinesesimp>SPAR-16S 5.56毫米</Chinesesimp>
         </Key>
       </Container>
@@ -6595,72 +6594,72 @@
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_m_snd_f0">
           <Original>Sound Suppressor (5.56 mm, Sand)</Original>
-          <Chinese>消音器(5.56mm，沙色)</Chinese>
+          <Chinese>消音器(5.56公厘，沙色)</Chinese>
           <Chinesesimp>消音器(5.56毫米，沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_m_khk_f0">
           <Original>Sound Suppressor (5.56 mm, Khaki)</Original>
-          <Chinese>消音器(5.56mm，卡其色)</Chinese>
+          <Chinese>消音器(5.56公厘，卡其色)</Chinese>
           <Chinesesimp>消音器(5.56毫米，卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h_snd_f0">
           <Original>Sound Suppressor (6.5 mm, Sand)</Original>
-          <Chinese>消音器(6.5mm，沙色)</Chinese>
+          <Chinese>消音器(6.5公厘，沙色)</Chinese>
           <Chinesesimp>消音器(6.5毫米，沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h_mg_khk_f0">
           <Original>Sound Suppressor LMG (6.5 mm, Khaki)</Original>
-          <Chinese>輕機槍消音器(6.5mm，卡其色)</Chinese>
+          <Chinese>輕機槍消音器(6.5公厘，卡其色)</Chinese>
           <Chinesesimp>轻机枪消音器(6.5毫米，卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h_mg_blk_f0">
           <Original>Sound Suppressor LMG (6.5 mm, Black)</Original>
-          <Chinese>輕機槍消音器(6.5mm，黑色)</Chinese>
+          <Chinese>輕機槍消音器(6.5公厘，黑色)</Chinese>
           <Chinesesimp>轻机枪消音器(6.5毫米，黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_h_khk_f0">
           <Original>Sound Suppressor (6.5 mm, Khaki)</Original>
-          <Chinese>消音器(6.5mm，卡其色)</Chinese>
+          <Chinese>消音器(6.5公厘，卡其色)</Chinese>
           <Chinesesimp>消音器(6.5毫米，卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_b_snd_f0">
           <Original>Sound Suppressor (7.62 mm, Sand)</Original>
-          <Chinese>消音器(7.62mm，沙色)</Chinese>
+          <Chinese>消音器(7.62公厘，沙色)</Chinese>
           <Chinesesimp>消音器(7.62毫米，沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_b_khk_f0">
           <Original>Sound Suppressor (7.62 mm, Khaki)</Original>
-          <Chinese>消音器(7.62mm，卡其色)</Chinese>
+          <Chinese>消音器(7.62公厘，卡其色)</Chinese>
           <Chinesesimp>消音器(7.62毫米，卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_65_ti_hex_f0">
           <Original>Stealth Sound Suppressor (6.5 mm, Hex)</Original>
-          <Chinese>潛行消音器(6.5mm，數位蜂巢迷彩)</Chinese>
+          <Chinese>潛行消音器(6.5公厘，數位蜂巢迷彩)</Chinese>
           <Chinesesimp>潜行消音器(6.5毫米，蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_65_ti_ghex_f0">
           <Original>Stealth Sound Suppressor (6.5 mm, Green Hex)</Original>
-          <Chinese>潛行消音器(6.5mm，綠色數位蜂巢迷彩)</Chinese>
+          <Chinese>潛行消音器(6.5公厘，綠色數位蜂巢迷彩)</Chinese>
           <Chinesesimp>潜行消音器(6.5毫米，绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_65_ti_blk_f0">
           <Original>Stealth Sound Suppressor (6.5 mm, Black)</Original>
-          <Chinese>潛行消音器(6.5mm，黑色)</Chinese>
+          <Chinese>潛行消音器(6.5公厘，黑色)</Chinese>
           <Chinesesimp>潜行消音器(6.5毫米，黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_58_wdm_f0">
           <Original>Stealth Sound Suppressor (5.8 mm, Green Hex)</Original>
-          <Chinese>潛行消音器(5.8mm，綠色數位蜂巢迷彩)</Chinese>
+          <Chinese>潛行消音器(5.8公厘，綠色數位蜂巢迷彩)</Chinese>
           <Chinesesimp>潜行消音器(5.8毫米，绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_58_hex_f0">
           <Original>Stealth Sound Suppressor (5.8 mm, Hex)</Original>
-          <Chinese>潛行消音器(5.8mm，數位蜂巢迷彩)</Chinese>
+          <Chinese>潛行消音器(5.8公厘，數位蜂巢迷彩)</Chinese>
           <Chinesesimp>潜行消音器(5.8毫米，数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_58_blk_f0">
           <Original>Stealth Sound Suppressor (5.8 mm, Black)</Original>
-          <Chinese>潛行消音器(5.8mm，黑色)</Chinese>
+          <Chinese>潛行消音器(5.8公厘，黑色)</Chinese>
           <Chinesesimp>潜行消音器(5.8毫米，黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_laserdesignator_02_ghex_f0">
@@ -6687,42 +6686,42 @@
       <Container name="LongRangeRifles">
         <Key ID="str_a3_cfgweapons_srifle_lrr_tna_f0">
           <Original>M320 LRR .408 (Tropic)</Original>
-          <Chinese>M320LRR。408(熱帶迷彩)</Chinese>
-          <Chinesesimp>M320LRR。408(热带迷彩)</Chinesesimp>
+          <Chinese>M320 LRR .408(熱帶迷彩)</Chinese>
+          <Chinesesimp>M320 LRR .408(热带迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_gm6_ghex_f0">
           <Original>GM6 Lynx 12.7 mm (Green Hex)</Original>
-          <Chinese>GM6Lynx12。7mm(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>GM6"山猫"12。7毫米(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>GM6"山貓"12.7公厘(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>GM6"山猫"12.7毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_07_wdm_f0">
           <Original>CMR-76 6.5 mm (Green Hex)</Original>
-          <Chinese>CMR-766.5mm(綠色數位蜂巢迷彩)</Chinese>
+          <Chinese>CMR-76 6.5公厘(綠色數位蜂巢迷彩)</Chinese>
           <Chinesesimp>CMR-76 6.5毫米(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_07_hex_f0">
           <Original>CMR-76 6.5 mm (Hex)</Original>
-          <Chinese>CMR-766.5mm(數位蜂巢迷彩)</Chinese>
+          <Chinese>CMR-76 6.5公厘(數位蜂巢迷彩)</Chinese>
           <Chinesesimp>CMR-76 6.5毫米(数位蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_07_blk_f0">
           <Original>CMR-76 6.5 mm (Black)</Original>
-          <Chinese>CMR-766.5mm(黑色)</Chinese>
+          <Chinese>CMR-76 6.5公厘(黑色)</Chinese>
           <Chinesesimp>CMR-76 6.5毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_07_base_f_library0">
           <Original>Designated marksman rifle of an Eastern origin. It is a gas operated, semiautomatic rifle of a bullpup construction. The housing is made from polymer. The rifle is chambered in 6.5 mm and therefore is most suited to ranges from 500 to 700 meters. The CMR-76 is missing both the sides and the bottom rails but is by default equipped with a bipod.</Original>
-          <Chinese>由東方國家研製的一把指定精準射手步槍。其架構使用氣體傳動機構與無托構造來組成一把半自動步槍。它的外殼使用聚合物來製作。這把步槍使用了6.5mm子彈，因為這樣，他的最佳射擊距離落在500至700公尺之間。CMR-76本身並無兩側與底部的戰術導軌，但它的配件已經預裝著腳架了。</Chinese>
+          <Chinese>由東方國家研製的一把指定精準射手步槍。其架構使用氣體傳動機構與無托構造來組成一把半自動步槍。它的外殼使用聚合物來製作。這把步槍使用了6.5公厘子彈，因為這樣，他的最佳射擊距離落在500至700公尺之間。CMR-76本身並無兩側與底部的戰術導軌，但它的配件已經預裝著腳架了。</Chinese>
           <Chinesesimp>由东方国家研制的一把指定精确射手步枪。这是一种导气式半自动的无托步枪，外壳使用聚合物来制作。这把步枪使用6.5毫米弹，因此它的最佳射击距离在500至700米之间。CMR-76本身并无两侧与底部的战术导轨，但它的配件已经预装着脚架了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_07_base_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 6.5x39 mm</Original>
-          <Chinese>精準射手步槍&lt;br/&gt;口徑:6.5x39mm</Chinese>
+          <Chinese>精準射手步槍&lt;br/&gt;口徑:6.5x39公厘</Chinese>
           <Chinesesimp>精准射手步枪&lt;br/&gt;口径:6.5x39毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_07_base_f0">
           <Original>CMR-76 6.5 mm</Original>
-          <Chinese>CMR-766.5mm</Chinese>
+          <Chinese>CMR-76 6.5公厘</Chinese>
           <Chinesesimp>CMR-76 6.5毫米</Chinesesimp>
         </Key>
       </Container>
@@ -6739,34 +6738,34 @@
         </Key>
         <Key ID="str_a3_cfgweapons_launch_rpg32_ghex_f0">
           <Original>RPG-42 Alamut (Green Hex)</Original>
-          <Chinese>RPG-42Alamut(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>RPG-42“阿拉穆特”(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>RPG-42"阿拉穆特"(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>RPG-42"阿拉穆特"(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_launch_o_titan_short_ghex_f0">
           <Original>Titan MPRL Compact (Green Hex)</Original>
-          <Chinese>TitanMPRL發射器(緊湊型)(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>“泰坦”多功能火箭发射器(紧凑型)(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>"泰坦"多功能火箭發射器(緊湊型)(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_launch_o_titan_ghex_f0">
           <Original>Titan MPRL (Green Hex)</Original>
-          <Chinese>TitanMPRL發射器(綠色數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>“泰坦”多功能火箭发射器(绿色蜂巢迷彩)</Chinesesimp>
+          <Chinese>"泰坦"多功能火箭發射器(綠色數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>"泰坦"多功能火箭发射器(绿色蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_launch_b_titan_tna_f0">
           <Original>Titan MPRL (Tropic)</Original>
-          <Chinese>TitanMPRL發射器(熱帶迷彩)</Chinese>
-          <Chinesesimp>“泰坦”多功能火箭发射器(热带迷彩)</Chinesesimp>
+          <Chinese>"泰坦"多功能火箭發射器(熱帶迷彩)</Chinese>
+          <Chinesesimp>"泰坦"多功能火箭发射器(热带迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_launch_b_titan_short_tna_f0">
           <Original>Titan MPRL Compact (Tropic)</Original>
-          <Chinese>TitanMPRL發射器(緊湊型)(熱帶迷彩)</Chinese>
-          <Chinesesimp>“泰坦”多功能火箭发射器(紧凑型)(热带迷彩)</Chinesesimp>
+          <Chinese>"泰坦"多功能火箭發射器(緊湊型)(熱帶迷彩)</Chinese>
+          <Chinesesimp>"泰坦"多功能火箭发射器(紧凑型)(热带迷彩)</Chinesesimp>
         </Key>
       </Container>
       <Container name="Machineguns">
         <Key ID="str_a3_cfgweapons_lmg_03_f0">
           <Original>LIM-85 5.56 mm</Original>
-          <Chinese>LIM-855.56mm</Chinese>
+          <Chinese>LIM-85 5.56公厘</Chinese>
           <Chinesesimp>LIM-85 5.56毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_lmg_03_base_f_library0">
@@ -6776,7 +6775,7 @@
         </Key>
         <Key ID="str_a3_cfgweapons_lmg_03_base_f1">
           <Original>Light Machine Gun&lt;br /&gt;Caliber: 5.56x45 mm</Original>
-          <Chinese>輕機槍&lt;br/&gt;口徑:5.56x45mm</Chinese>
+          <Chinese>輕機槍&lt;br/&gt;口徑:5.56x45公厘</Chinese>
           <Chinesesimp>轻机枪&lt;br/&gt;口径:5.56x45毫米</Chinesesimp>
         </Key>
       </Container>
@@ -6784,17 +6783,17 @@
         <Key ID="str_a3_cfgweapons_smg_05_base_f_library0">
           <Original>A lightweight, air-cooled, selective fire, delayed blowback operated submachine gun with a roller-delayed bolt. The compact size, accuracy and high rate of fire of the Protector are highly regarded and the gun is used in many variants by numerous military, law enforcement, intelligence and security organizations all around the world.</Original>
           <Chinese>這是一把輕量，可選開火模式，滾輪延遲反沖作用的衝鋒槍。Protector有著尺寸輕巧，可靠的準確度與高射速等特性，這些使這把衝鋒槍被世上許多國家的軍隊，執法單位，情報部門與維安部門所使用。</Chinese>
-          <Chinesesimp>这是一把轻量级，气冷式，可选开火模式，滚筒延迟闭锁，半自由式枪机的冲锋枪。“保护者”有着尺寸轻巧，可靠的准确度与高射速等特性，这些特性使这把冲锋枪被世上许多国家的军队，执法单位，情报部门与维和部门所使用。</Chinesesimp>
+          <Chinesesimp>这是一把轻量级，气冷式，可选开火模式，滚筒延迟闭锁，半自由式枪机的冲锋枪。"保护者"有着尺寸轻巧，可靠的准确度与高射速等特性，这些特性使这把冲锋枪被世上许多国家的军队，执法单位，情报部门与维和部门所使用。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_smg_05_base_f1">
           <Original>Submachine Gun&lt;br /&gt;Caliber: 9x21 mm</Original>
-          <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21mm</Chinese>
+          <Chinese>衝鋒槍&lt;br/&gt;口徑:9x21公厘</Chinese>
           <Chinesesimp>冲锋枪&lt;br/&gt;口径:9x21毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_smg_05_base_f0">
           <Original>Protector 9 mm</Original>
-          <Chinese>Protector9mm</Chinese>
-          <Chinesesimp>“保护者”9毫米冲锋枪</Chinesesimp>
+          <Chinese>"保護者" 9公厘冲锋枪</Chinese>
+          <Chinesesimp>"保护者" 9毫米冲锋枪</Chinesesimp>
         </Key>
       </Container>
       <Container name="Magazines">
@@ -6810,163 +6809,163 @@
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt_tracer_yellow0">
           <Original>6.5 mm 500Rnd Belt Case Tracer (Yellow)</Original>
-          <Chinese>6.5mm500發曳光彈(黃色)彈鏈盒</Chinese>
+          <Chinese>6.5公厘500發曳光彈(黃色)彈鏈盒</Chinese>
           <Chinesesimp>6.5毫米500发曳光弹(黄色)弹链盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt_tracer_red0">
           <Original>6.5 mm 500Rnd Belt Case Tracer (Red)</Original>
-          <Chinese>6.5mm500發曳光彈(紅色)彈鏈盒</Chinese>
+          <Chinese>6.5公厘500發曳光彈(紅色)彈鏈盒</Chinese>
           <Chinesesimp>6.5毫米500发曳光弹(红色)弹链盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt_tracer_green0">
           <Original>6.5 mm 500Rnd Belt Case Tracer (Green)</Original>
-          <Chinese>6.5mm500發曳光彈(綠色)彈鏈盒</Chinese>
+          <Chinese>6.5公厘500發曳光彈(綠色)彈鏈盒</Chinese>
           <Chinesesimp>6.5毫米500发曳光弹(绿色)弹链盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt1">
           <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 500&lt;br /&gt;Used in: Vehicles</Original>
-          <Chinese>口徑:6.5x39mm&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
+          <Chinese>口徑:6.5x39公厘&lt;br/&gt;發數:500&lt;br/&gt;使用於:載具</Chinese>
           <Chinesesimp>口径:6.5x39毫米&lt;br/&gt;发数:500&lt;br/&gt;使用于:载具</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_500rnd_65x39_belt0">
           <Original>6.5 mm 500Rnd Belt Case</Original>
-          <Chinese>6.5mm500發彈鏈盒</Chinese>
+          <Chinese>6.5公厘500發彈鏈盒</Chinese>
           <Chinesesimp>6.5毫米500发弹链盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_4rnd_lg_jian0">
           <Original>Jian</Original>
-          <Chinese>Jian</Chinese>
-          <Chinesesimp>“箭”</Chinesesimp>
+          <Chinese>"箭"</Chinese>
+          <Chinesesimp>"箭"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_tracer_green_f0">
           <Original>7.62 mm 30Rnd Tracer (Green) Mag</Original>
-          <Chinese>7.62mm30發曳光彈(綠色)彈匣</Chinese>
+          <Chinese>7.62公厘30發曳光彈(綠色)彈匣</Chinese>
           <Chinesesimp>7.62毫米30发曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_tracer_f0">
           <Original>7.62 mm 30Rnd Tracer (Yellow) Mag</Original>
-          <Chinese>7.62mm30發曳光彈(黃色)彈匣</Chinese>
+          <Chinese>7.62公厘30發曳光彈(黃色)彈匣</Chinese>
           <Chinesesimp>7.62毫米30发曳光弹(黄色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_green_f0">
           <Original>7.62 mm 30Rnd Reload Tracer (Green) Mag</Original>
-          <Chinese>7.62mm30發重新裝填曳光彈(綠色)彈匣</Chinese>
+          <Chinese>7.62公厘30發重新裝填曳光彈(綠色)彈匣</Chinese>
           <Chinesesimp>7.62毫米30发重新装填曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_f1">
           <Original>Caliber: 7.62x39 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: AK-12, AK-12 GL, AKM</Original>
-          <Chinese>口徑:7.62x39mm&lt;br/&gt;發數:30&lt;br/&gt;使用於:AK-12，AK-12GL，AKM</Chinese>
-          <Chinesesimp>口径:7.62x39毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:AK-12，AK-12GL，AKM</Chinesesimp>
+          <Chinese>口徑:7.62x39公厘&lt;br/&gt;發數:30&lt;br/&gt;使用於:AK-12，AK-12 GL，AKM</Chinese>
+          <Chinesesimp>口径:7.62x39毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:AK-12，AK-12 GL，AKM</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_762x39_mag_f0">
           <Original>7.62 mm 30Rnd Reload Tracer (Yellow) Mag</Original>
-          <Chinese>7.62mm30發重新裝填曳光彈(黃色)彈匣</Chinese>
+          <Chinese>7.62公厘30發重新裝填曳光彈(黃色)彈匣</Chinese>
           <Chinesesimp>7.62毫米30发重新装填曳光弹(黄色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_580x42_mag_tracer_f0">
           <Original>5.8 mm 30Rnd Tracer (Green) Mag</Original>
-          <Chinese>5.8mm30發曳光彈(綠色)彈匣</Chinese>
+          <Chinese>5.8公厘30發曳光彈(綠色)彈匣</Chinese>
           <Chinesesimp>5.8毫米30发曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_580x42_mag_f1">
           <Original>Caliber: 5.8x42 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: CAR-95, CAR-95 GL</Original>
-          <Chinese>口徑:5.8x42mm&lt;br/&gt;發數:30&lt;br/&gt;使用於:CAR-95，CAR-95GL</Chinese>
-          <Chinesesimp>口径:5.8x42毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:CAR-95，CAR-95GL</Chinesesimp>
+          <Chinese>口徑:5.8x42公厘&lt;br/&gt;發數:30&lt;br/&gt;使用於:CAR-95，CAR-95 GL</Chinese>
+          <Chinesesimp>口径:5.8x42毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:CAR-95，CAR-95 GL</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_580x42_mag_f0">
           <Original>5.8 mm 30Rnd Mag</Original>
-          <Chinese>5.8mm30發彈匣</Chinese>
+          <Chinese>5.8公厘30發彈匣</Chinese>
           <Chinesesimp>5.8毫米30发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_tracer_green_f0">
           <Original>5.45 mm 30Rnd Tracer (Green) Mag</Original>
-          <Chinese>5.45mm30發曳光彈(綠色)彈匣</Chinese>
+          <Chinese>5.45公厘30發曳光彈(綠色)彈匣</Chinese>
           <Chinesesimp>5.45毫米30发曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_tracer_f0">
           <Original>5.45 mm 30Rnd Tracer (Yellow) Mag</Original>
-          <Chinese>5.45mm30發曳光彈(黃色)彈匣</Chinese>
+          <Chinese>5.45公厘30發曳光彈(黃色)彈匣</Chinese>
           <Chinesesimp>5.45毫米30发曳光弹(黄色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_green_f0">
           <Original>5.45 mm 30Rnd Reload Tracer (Green) Mag</Original>
-          <Chinese>5.45mm30發重新裝填曳光彈(綠色)彈匣</Chinese>
+          <Chinese>5.45公厘30發重新裝填曳光彈(綠色)彈匣</Chinese>
           <Chinesesimp>5.45毫米30发重新装填曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_f1">
           <Original>Caliber: 5.45x39 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: AKS-74U</Original>
-          <Chinese>口徑:5.45x39mm&lt;br/&gt;發數:30&lt;br/&gt;使用於:AKS-74U</Chinese>
+          <Chinese>口徑:5.45x39公厘&lt;br/&gt;發數:30&lt;br/&gt;使用於:AKS-74U</Chinese>
           <Chinesesimp>口径:5.45x39毫米&lt;br/&gt;发数:30&lt;br/&gt;使用于:AKS-74U</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_30rnd_545x39_mag_f0">
           <Original>5.45 mm 30Rnd Reload Tracer (Yellow) Mag</Original>
-          <Chinese>5.45mm30發重新裝填曳光彈(黃色)彈匣</Chinese>
+          <Chinese>5.45公厘30發重新裝填曳光彈(黃色)彈匣</Chinese>
           <Chinesesimp>5.45毫米30发重新装填曳光弹(黄色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_20rnd_650x39_cased_mag_f1">
           <Original>Caliber: 6.5x39 mm&lt;br /&gt;Rounds: 20&lt;br /&gt;Used in: CMR-76</Original>
-          <Chinese>口徑:6.5x39mm&lt;br/&gt;發數:20&lt;br/&gt;使用於:CMR-76</Chinese>
+          <Chinese>口徑:6.5x39公厘&lt;br/&gt;發數:20&lt;br/&gt;使用於:CMR-76</Chinese>
           <Chinesesimp>口径:6.5x39毫米lt;br/&gt;发数:20&lt;br/&gt;使用于:CMR-76</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_20rnd_650x39_cased_mag_f0">
           <Original>6.5 mm 20Rnd Mag</Original>
-          <Chinese>6.5mm20發彈匣</Chinese>
+          <Chinese>6.5公厘20發彈匣</Chinese>
           <Chinesesimp>6.5毫米20发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_tracer_red_f0">
           <Original>5.56 mm 200Rnd Tracer (Red) Box</Original>
-          <Chinese>5.56mm200發曳光彈(紅色)彈盒</Chinese>
+          <Chinese>5.56公厘200發曳光彈(紅色)彈盒</Chinese>
           <Chinesesimp>5.56毫米200发曳光弹(红色)弹盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_tracer_f0">
           <Original>5.56 mm 200Rnd Tracer (Yellow) Box</Original>
-          <Chinese>5.56mm200發曳光彈(黃色)彈盒</Chinese>
+          <Chinese>5.56公厘200發曳光彈(黃色)彈盒</Chinese>
           <Chinesesimp>5.56毫米200发曳光弹(黄色)弹盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_red_f0">
           <Original>5.56 mm 200Rnd Reload Tracer (Red) Box</Original>
-          <Chinese>5.56mm200發重新裝填曳光彈(紅色)彈盒</Chinese>
+          <Chinese>5.56公厘200發重新裝填曳光彈(紅色)彈盒</Chinese>
           <Chinesesimp>5.56毫米200发重新装填曳光弹(红色)弹盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_f1">
           <Original>Caliber: 5.56x45 mm&lt;br /&gt;Rounds: 200&lt;br /&gt;Used in: LIM-85</Original>
-          <Chinese>口徑:5.56x45mm&lt;br/&gt;發數:200&lt;br/&gt;使用於:LIM-85</Chinese>
+          <Chinese>口徑:5.56x45公厘&lt;br/&gt;發數:200&lt;br/&gt;使用於:LIM-85</Chinese>
           <Chinesesimp>口径:5.56x45毫米&lt;br/&gt;发数:200&lt;br/&gt;使用于:LIM-85</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_200rnd_556x45_box_f0">
           <Original>5.56 mm 200Rnd Reload Tracer (Yellow) Box</Original>
-          <Chinese>5.56mm200發重新裝填曳光彈(黃色)彈盒</Chinese>
+          <Chinese>5.56公厘200發重新裝填曳光彈(黃色)彈盒</Chinese>
           <Chinesesimp>5.56毫米200发重新装填曳光弹(黄色)弹盒</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_mag_tracer_f0">
           <Original>5.56 mm 150Rnd Tracer (Red) Mag</Original>
-          <Chinese>5.56mm150發曳光彈(紅色)彈匣</Chinese>
+          <Chinese>5.56公厘150發曳光彈(紅色)彈匣</Chinese>
           <Chinesesimp>5.56毫米150发曳光弹(红色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_mag_f1">
           <Original>Caliber: 5.56x45 mm&lt;br /&gt;Rounds: 150&lt;br /&gt;Used in: SPAR-16S</Original>
-          <Chinese>口徑:5.56x45mm&lt;br/&gt;發數:150&lt;br/&gt;使用於:SPAR-16S</Chinese>
+          <Chinese>口徑:5.56x45公厘&lt;br/&gt;發數:150&lt;br/&gt;使用於:SPAR-16S</Chinese>
           <Chinesesimp>口径:5.56x45毫米&lt;br/&gt;发数:150&lt;br/&gt;使用于:SPAR-16S</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_556x45_drum_mag_f0">
           <Original>5.56 mm 150Rnd Mag</Original>
-          <Chinese>5.56mm150發彈匣</Chinese>
+          <Chinese>5.56公厘150發彈匣</Chinese>
           <Chinesesimp>5.56毫米150发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_9x21_mag1">
           <Original>Caliber: 9x21 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: PM</Original>
-          <Chinese>口徑:9x21mm&lt;br/&gt;發數:10&lt;br/&gt;使用於:PM</Chinese>
+          <Chinese>口徑:9x21公厘&lt;br/&gt;發數:10&lt;br/&gt;使用於:PM</Chinese>
           <Chinesesimp>口径:9x21毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:PM</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_9x21_mag0">
           <Original>9 mm 10Rnd Mag</Original>
-          <Chinese>9mm10發彈匣</Chinese>
+          <Chinese>9公厘10發彈匣</Chinese>
           <Chinesesimp>9毫米10发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_50bw_mag_f1">
           <Original>Caliber: .50 BW - Caseless&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Type 115</Original>
-          <Chinese>口徑:.50BW-無殼彈&lt;br/&gt;發數:10&lt;br/&gt;使用於:Type115</Chinese>
-          <Chinesesimp>口径:.50BW-无壳弹&lt;br/&gt;发数:10&lt;br/&gt;使用于:Type115</Chinesesimp>
+          <Chinese>口徑:.50BW-無殼彈&lt;br/&gt;發數:10&lt;br/&gt;使用於:115式</Chinese>
+          <Chinesesimp>口径:.50BW-无壳弹&lt;br/&gt;发数:10&lt;br/&gt;使用于:115式</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_50bw_mag_f0">
           <Original>.50 BW 10Rnd Caseless Mag</Original>
@@ -6975,17 +6974,17 @@
         </Key>
         <Key ID="str_a3_cfgmagazines_100rnd_580x42_mag_tracer_f0">
           <Original>5.8 mm 100Rnd Tracer (Green) Mag</Original>
-          <Chinese>5.8mm100發曳光彈(綠色)彈匣</Chinese>
+          <Chinese>5.8公厘100發曳光彈(綠色)彈匣</Chinese>
           <Chinesesimp>5.8毫米100发曳光弹(绿色)弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_100rnd_580x42_mag_f1">
           <Original>Caliber: 5.8x42 mm&lt;br /&gt;Rounds: 100&lt;br /&gt;Used in: CAR-95-1</Original>
-          <Chinese>口徑:5.8x42mm&lt;br/&gt;發數:100&lt;br/&gt;使用於:CAR-95-1</Chinese>
+          <Chinese>口徑:5.8x42公厘&lt;br/&gt;發數:100&lt;br/&gt;使用於:CAR-95-1</Chinese>
           <Chinesesimp>口径:5.8x42毫米&lt;br/&gt;发数:100&lt;br/&gt;使用于:CAR-95-1</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_100rnd_580x42_mag_f0">
           <Original>5.8 mm 100Rnd Mag</Original>
-          <Chinese>5.8mm100發彈匣</Chinese>
+          <Chinese>5.8公厘100發彈匣</Chinese>
           <Chinesesimp>5.8毫米100发弹匣</Chinesesimp>
         </Key>
       </Container>
@@ -7002,17 +7001,17 @@
         </Key>
         <Key ID="str_a3_pylonrack_4rnd_lg_scalpel0">
           <Original>Scalpel 4x</Original>
-          <Chinese>"手術刀"反坦克導彈4x</Chinese>
+          <Chinese>"手術刀"反坦克飛彈4x</Chinese>
           <Chinesesimp>"手术刀"反坦克导弹4x</Chinesesimp>
         </Key>
         <Key ID="str_a3_pylonrack_3rnd_missile_agm_02_f0">
           <Original>Macer 3x</Original>
-          <Chinese>"梅瑟"空地導彈3x</Chinese>
+          <Chinese>"梅瑟"空地飛彈3x</Chinese>
           <Chinesesimp>"梅瑟"空地导弹3x</Chinesesimp>
         </Key>
         <Key ID="str_a3_pylonrack_3rnd_lg_scalpel0">
           <Original>Scalpel 3x</Original>
-          <Chinese>"手術刀"反坦克導彈3x</Chinese>
+          <Chinese>"手術刀"反坦克飛彈3x</Chinese>
           <Chinesesimp>"手术刀"反坦克导弹3x</Chinesesimp>
         </Key>
         <Key ID="str_a3_pylonrack_20rnd_rocket_03_he_f0">
@@ -7027,12 +7026,12 @@
         </Key>
         <Key ID="str_a3_pylonrack_1rnd_missile_agm_02_f0">
           <Original>Macer</Original>
-          <Chinese>"梅瑟"空地導彈</Chinese>
+          <Chinese>"梅瑟"空地飛彈</Chinese>
           <Chinesesimp>"梅瑟"空地导弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_pylonrack_1rnd_lg_scalpel0">
           <Original>Scalpel</Original>
-          <Chinese>"手術刀"反坦克導彈</Chinese>
+          <Chinese>"手術刀"反坦克飛彈</Chinese>
           <Chinesesimp>"手术刀"反坦克导弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_pylonrack_19rnd_rocket_skyfire0">
@@ -7077,17 +7076,17 @@
     <Container name="Map_Tanoa">
       <Key ID="str_a3_yasaisland010">
         <Original>Yasa Island</Original>
-        <Chinese>Yasa島</Chinese>
+        <Chinese>雅薩島</Chinese>
         <Chinesesimp>雅撒岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_yanukka010">
         <Original>Yanukka</Original>
-        <Chinese>Yanukka</Chinese>
+        <Chinese>亞努卡</Chinese>
         <Chinesesimp>亚努卡</Chinesesimp>
       </Key>
       <Key ID="str_a3_yaniislets010">
         <Original>Yani Islets</Original>
-        <Chinese>Yani嶼</Chinese>
+        <Chinese>雅尼嶼</Chinese>
         <Chinesesimp>雅尼岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_villa010">
@@ -7102,27 +7101,27 @@
       </Key>
       <Key ID="str_a3_vatukoulo010">
         <Original>Vatukoulo</Original>
-        <Chinese>Vatukoulo</Chinese>
+        <Chinese>瓦圖科洛</Chinese>
         <Chinesesimp>瓦图科洛</Chinesesimp>
       </Key>
       <Key ID="str_a3_vagalala010">
         <Original>Vagalala</Original>
-        <Chinese>Vagalala</Chinese>
+        <Chinese>瓦加拉拉</Chinese>
         <Chinesesimp>瓦加拉拉</Chinesesimp>
       </Key>
       <Key ID="str_a3_tuvanaka010">
         <Original>Tuvanaka</Original>
-        <Chinese>Tuvanaka</Chinese>
+        <Chinese>圖瓦納卡</Chinese>
         <Chinesesimp>图瓦纳卡</Chinesesimp>
       </Key>
       <Key ID="str_a3_tuaduaisland010">
         <Original>Tuadua Island</Original>
-        <Chinese>Tuadua島</Chinese>
+        <Chinese>圖阿杜阿島</Chinese>
         <Chinesesimp>图阿杜阿岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_tobakoro010">
         <Original>Tobakoro</Original>
-        <Chinese>Tobakoro</Chinese>
+        <Chinese>托巴科羅</Chinese>
         <Chinesesimp>托巴科罗</Chinesesimp>
       </Key>
       <Key ID="str_a3_templeruins010">
@@ -7132,17 +7131,17 @@
       </Key>
       <Key ID="str_a3_tavu010">
         <Original>Tavu</Original>
-        <Chinese>Tavu</Chinese>
+        <Chinese>塔武</Chinese>
         <Chinesesimp>塔武</Chinesesimp>
       </Key>
       <Key ID="str_a3_tanouka010">
         <Original>Tanouka</Original>
-        <Chinese>Tanouka</Chinese>
+        <Chinese>塔諾卡</Chinese>
         <Chinesesimp>塔诺卡</Chinesesimp>
       </Key>
       <Key ID="str_a3_taga010">
         <Original>Taga</Original>
-        <Chinese>Taga</Chinese>
+        <Chinese>塔加</Chinese>
         <Chinesesimp>塔加</Chinesesimp>
       </Key>
       <Key ID="str_a3_surfacemine010">
@@ -7162,12 +7161,12 @@
       </Key>
       <Key ID="str_a3_sosovuisland010">
         <Original>Sosovu Island</Original>
-        <Chinese>Sosovu島</Chinese>
+        <Chinese>索索武島</Chinese>
         <Chinesesimp>索索武岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_sosovu010">
         <Original>Sosovu</Original>
-        <Chinese>Sosovu</Chinese>
+        <Chinese>索索武</Chinese>
         <Chinesesimp>索索武</Chinesesimp>
       </Key>
       <Key ID="str_a3_sawmill010">
@@ -7177,27 +7176,27 @@
       </Key>
       <Key ID="str_a3_savu010">
         <Original>Savu</Original>
-        <Chinese>Savu</Chinese>
+        <Chinese>薩武</Chinese>
         <Chinesesimp>萨武</Chinesesimp>
       </Key>
       <Key ID="str_a3_savaka010">
         <Original>Savaka</Original>
-        <Chinese>Savaka</Chinese>
+        <Chinese>薩瓦卡</Chinese>
         <Chinesesimp>萨瓦卡</Chinesesimp>
       </Key>
       <Key ID="str_a3_saioko010">
         <Original>Saioko</Original>
-        <Chinese>Saioko</Chinese>
+        <Chinese>賽約科</Chinese>
         <Chinesesimp>塞约科</Chinesesimp>
       </Key>
       <Key ID="str_a3_saintpaul010">
         <Original>Saint-Paul</Original>
-        <Chinese>Saint-Paul</Chinese>
+        <Chinese>聖保羅</Chinese>
         <Chinesesimp>圣保罗</Chinesesimp>
       </Key>
       <Key ID="str_a3_saintjulien010">
         <Original>Saint-Julien</Original>
-        <Chinese>Saint-Julien</Chinese>
+        <Chinese>S聖于連</Chinese>
         <Chinesesimp>圣于连</Chinesesimp>
       </Key>
       <Key ID="str_a3_roadhouse010">
@@ -7207,22 +7206,22 @@
       </Key>
       <Key ID="str_a3_rereki010">
         <Original>Rereki</Original>
-        <Chinese>Rereki</Chinese>
+        <Chinese>雷雷基</Chinese>
         <Chinesesimp>雷雷基</Chinesesimp>
       </Key>
       <Key ID="str_a3_regina010">
         <Original>Regina</Original>
-        <Chinese>Regina</Chinese>
+        <Chinese>雷吉納</Chinese>
         <Chinesesimp>雷吉纳</Chinesesimp>
       </Key>
       <Key ID="str_a3_ravitaisland010">
         <Original>Ravi-ta Island</Original>
-        <Chinese>Ravi-ta島</Chinese>
+        <Chinese>拉維-塔島</Chinese>
         <Chinesesimp>拉维-塔岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_rautake010">
         <Original>Rautake</Original>
-        <Chinese>Rautake</Chinese>
+        <Chinese>勞塔克</Chinese>
         <Chinesesimp>劳塔克</Chinesesimp>
       </Key>
       <Key ID="str_a3_railwaydepot010">
@@ -7232,7 +7231,7 @@
       </Key>
       <Key ID="str_a3_portboise010">
         <Original>Port-Boisé</Original>
-        <Chinese>Boise港口</Chinese>
+        <Chinese>森林港口</Chinese>
         <Chinesesimp>森林港</Chinesesimp>
       </Key>
       <Key ID="str_a3_port010">
@@ -7257,77 +7256,77 @@
       </Key>
       <Key ID="str_a3_petitnicolet010">
         <Original>Petit Nicolet</Original>
-        <Chinese>PetitNicolet</Chinese>
+        <Chinese>小尼科萊</Chinese>
         <Chinesesimp>小尼科莱</Chinesesimp>
       </Key>
       <Key ID="str_a3_penelo010">
         <Original>Pénélo</Original>
-        <Chinese>Penelo</Chinese>
+        <Chinese>佩納洛</Chinese>
         <Chinesesimp>佩纳洛</Chinesesimp>
       </Key>
       <Key ID="str_a3_ovau010">
         <Original>Ovau</Original>
-        <Chinese>Ovau</Chinese>
+        <Chinese>奧瓦</Chinese>
         <Chinesesimp>奥瓦</Chinesesimp>
       </Key>
       <Key ID="str_a3_oumere010">
         <Original>Ouméré</Original>
-        <Chinese>Oumere</Chinese>
+        <Chinese>烏米爾</Chinese>
         <Chinesesimp>乌米尔</Chinesesimp>
       </Key>
       <Key ID="str_a3_ouaoue010">
         <Original>Oua-Oué</Original>
-        <Chinese>Oua-Oue</Chinese>
+        <Chinese>瓦韋</Chinese>
         <Chinesesimp>瓦韦</Chinesesimp>
       </Key>
       <Key ID="str_a3_nicolet010">
         <Original>Nicolet</Original>
-        <Chinese>Nicolet</Chinese>
+        <Chinese>尼科萊</Chinese>
         <Chinesesimp>尼科莱</Chinesesimp>
       </Key>
       <Key ID="str_a3_nasua010">
         <Original>Nasua</Original>
-        <Chinese>Nasua</Chinese>
+        <Chinese>那蘇亞</Chinese>
         <Chinesesimp>纳苏亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_nani010">
         <Original>Nani</Original>
-        <Chinese>Nani</Chinese>
+        <Chinese>納尼</Chinese>
         <Chinesesimp>纳尼</Chinesesimp>
       </Key>
       <Key ID="str_a3_nandai010">
         <Original>Nandai</Original>
-        <Chinese>Nandai</Chinese>
+        <Chinese>南戴</Chinese>
         <Chinesesimp>南戴</Chinesesimp>
       </Key>
       <Key ID="str_a3_namuvaka010">
         <Original>Namuvaka</Original>
-        <Chinese>Namuvaka</Chinese>
+        <Chinese>那慕瓦卡</Chinese>
         <Chinesesimp>那慕瓦卡</Chinesesimp>
       </Key>
       <Key ID="str_a3_muaceba010">
         <Original>Muaceba</Original>
-        <Chinese>Muaceba</Chinese>
+        <Chinese>姆阿謝巴</Chinese>
         <Chinesesimp>姆阿谢巴</Chinesesimp>
       </Key>
       <Key ID="str_a3_monttanoa010">
         <Original>Mont Tanoa</Original>
-        <Chinese>Tanoa山</Chinese>
+        <Chinese>塔諾亞山</Chinese>
         <Chinesesimp>塔诺亚山</Chinesesimp>
       </Key>
       <Key ID="str_a3_momea010">
         <Original>Momea</Original>
-        <Chinese>Momea</Chinese>
+        <Chinese>莫莫亞</Chinese>
         <Chinesesimp>莫莫亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_moddergatbay010">
         <Original>Moddergat Baai</Original>
-        <Chinese>Moddergat灣</Chinese>
+        <Chinese>莫德爾加灣</Chinese>
         <Chinesesimp>莫德尔加湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_moddergat010">
         <Original>Moddergat</Original>
-        <Chinese>Moddergat</Chinese>
+        <Chinese>莫德爾加</Chinese>
         <Chinesesimp>莫德尔加</Chinesesimp>
       </Key>
       <Key ID="str_a3_militarybase010">
@@ -7357,77 +7356,77 @@
       </Key>
       <Key ID="str_a3_luganville010">
         <Original>Luganville</Original>
-        <Chinese>Luganville</Chinese>
+        <Chinese>盧甘維爾</Chinese>
         <Chinesesimp>卢甘维尔</Chinesesimp>
       </Key>
       <Key ID="str_a3_losi010">
         <Original>Lösi</Original>
-        <Chinese>Losi</Chinese>
+        <Chinese>洛西</Chinese>
         <Chinesesimp>洛西</Chinesesimp>
       </Key>
       <Key ID="str_a3_lobaka010">
         <Original>Lobaka</Original>
-        <Chinese>Lobaka</Chinese>
+        <Chinese>洛巴卡</Chinese>
         <Chinesesimp>洛巴卡</Chinesesimp>
       </Key>
       <Key ID="str_a3_lijnhaven010">
         <Original>Lijnhaven</Original>
-        <Chinese>Lijnhaven</Chinese>
+        <Chinese>萊茵哈文</Chinese>
         <Chinesesimp>莱因哈文</Chinesesimp>
       </Key>
       <Key ID="str_a3_lifou010">
         <Original>Lifou</Original>
-        <Chinese>Lifou</Chinese>
+        <Chinese>利富</Chinese>
         <Chinesesimp>利富</Chinesesimp>
       </Key>
       <Key ID="str_a3_leqa010">
         <Original>Leqa</Original>
-        <Chinese>Leqa</Chinese>
+        <Chinese>勒卡</Chinese>
         <Chinesesimp>勒卡</Chinesesimp>
       </Key>
       <Key ID="str_a3_larochelle010">
         <Original>La Rochelle</Original>
-        <Chinese>LaRochelle</Chinese>
+        <Chinese>拉·羅謝勒</Chinese>
         <Chinesesimp>拉·罗谢勒</Chinesesimp>
       </Key>
       <Key ID="str_a3_lami010">
         <Original>Lami</Original>
-        <Chinese>Lami</Chinese>
+        <Chinese>拉米</Chinese>
         <Chinesesimp>拉米</Chinesesimp>
       </Key>
       <Key ID="str_a3_lakatoro010">
         <Original>Lakatoro</Original>
-        <Chinese>Lakatoro</Chinese>
+        <Chinese>拉卡托羅</Chinese>
         <Chinesesimp>拉卡托罗</Chinesesimp>
       </Key>
       <Key ID="str_a3_lailai010">
         <Original>Lailai</Original>
-        <Chinese>Lailai</Chinese>
+        <Chinese>萊萊</Chinese>
         <Chinesesimp>莱莱</Chinesesimp>
       </Key>
       <Key ID="str_a3_laikoro010">
         <Original>Laikoro</Original>
-        <Chinese>Laikoro</Chinese>
+        <Chinese>萊科羅</Chinese>
         <Chinesesimp>莱科罗</Chinesesimp>
       </Key>
       <Key ID="str_a3_lafoa010">
         <Original>La Foa</Original>
-        <Chinese>LaFoa</Chinese>
+        <Chinese>拉·福阿</Chinese>
         <Chinesesimp>拉·福阿</Chinesesimp>
       </Key>
       <Key ID="str_a3_koumac010">
         <Original>Koumac</Original>
-        <Chinese>Koumac</Chinese>
+        <Chinese>庫馬</Chinese>
         <Chinesesimp>库马</Chinesesimp>
       </Key>
       <Key ID="str_a3_katkoula010">
         <Original>Katkoula</Original>
-        <Chinese>Katkoula</Chinese>
+        <Chinese>卡特科拉</Chinese>
         <Chinesesimp>卡特科拉</Chinesesimp>
       </Key>
       <Key ID="str_a3_ipota010">
         <Original>Ipota</Original>
-        <Chinese>Ipota</Chinese>
+        <Chinese>伊珀塔</Chinese>
         <Chinesesimp>伊珀塔</Chinesesimp>
       </Key>
       <Key ID="str_a3_indport010">
@@ -7437,42 +7436,42 @@
       </Key>
       <Key ID="str_a3_imuriisland010">
         <Original>Imuri Island</Original>
-        <Chinese>Imuri島</Chinese>
+        <Chinese>伊姆里島</Chinese>
         <Chinesesimp>伊姆里岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_imone010">
         <Original>Imone</Original>
-        <Chinese>Imone</Chinese>
+        <Chinese>伊莫内</Chinese>
         <Chinesesimp>伊莫内</Chinesesimp>
       </Key>
       <Key ID="str_a3_ilesaintgeorge010">
         <Original>Ile Saint-George</Original>
-        <Chinese>Saint-George小島</Chinese>
+        <Chinese>聖喬治小島</Chinese>
         <Chinesesimp>圣乔治岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_ilesaintemarie010">
         <Original>Ile Sainte-Marie</Original>
-        <Chinese>Sainte-Marie小島</Chinese>
+        <Chinese>聖瑪麗小島</Chinese>
         <Chinesesimp>圣玛丽岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_iledouen010">
         <Original>Ile Douen</Original>
-        <Chinese>Douen小島</Chinese>
+        <Chinese>杜昂小島</Chinese>
         <Chinesesimp>杜昂岛</Chinesesimp>
       </Key>
       <Key ID="str_a3_harcourtstrait010">
         <Original>Harcourt Strait</Original>
-        <Chinese>Harcourt海峽</Chinese>
+        <Chinese>哈爾庫爾海峽</Chinese>
         <Chinesesimp>哈尔库尔海峡</Chinesesimp>
       </Key>
       <Key ID="str_a3_harcourtnord010">
         <Original>Kotomo</Original>
-        <Chinese>Kotomo</Chinese>
+        <Chinese>科托莫</Chinese>
         <Chinesesimp>科托莫</Chinesesimp>
       </Key>
       <Key ID="str_a3_harcourt010">
         <Original>Harcourt</Original>
-        <Chinese>Harcourt</Chinese>
+        <Chinese>哈爾庫爾</Chinese>
         <Chinesesimp>哈尔库尔</Chinesesimp>
       </Key>
       <Key ID="str_a3_harbourremnants010">
@@ -7487,17 +7486,17 @@
       </Key>
       <Key ID="str_a3_georgetownbay010">
         <Original>Georgetown Bay</Original>
-        <Chinese>Georgetown海灣</Chinese>
+        <Chinese>喬治敦海灣</Chinese>
         <Chinesesimp>乔治敦湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_georgetown010">
         <Original>Georgetown</Original>
-        <Chinese>Georgetown</Chinese>
+        <Chinese>喬治敦</Chinese>
         <Chinesesimp>乔治敦</Chinesesimp>
       </Key>
       <Key ID="str_a3_galili010">
         <Original>Galili</Original>
-        <Chinese>Galili</Chinese>
+        <Chinese>加利利</Chinese>
         <Chinesesimp>加利利</Chinesesimp>
       </Key>
       <Key ID="str_a3_fueldepot010">
@@ -7517,7 +7516,7 @@
       </Key>
       <Key ID="str_a3_forbbidenvillage010">
         <Original>Forbidden Village</Original>
-        <Chinese>Forbidden村</Chinese>
+        <Chinese>禁村</Chinese>
         <Chinesesimp>禁村</Chinesesimp>
       </Key>
       <Key ID="str_a3_firingrange010">
@@ -7537,12 +7536,12 @@
       </Key>
       <Key ID="str_a3_facility020">
         <Original>Comms Bravo</Original>
-        <Chinese>Bravo通訊站</Chinese>
+        <Chinese>布拉沃通訊站</Chinese>
         <Chinesesimp>布拉沃通信站</Chinesesimp>
       </Key>
       <Key ID="str_a3_facility010">
         <Original>Comms Alpha</Original>
-        <Chinese>Alpha通訊站</Chinese>
+        <Chinese>阿爾法通訊站</Chinese>
         <Chinesesimp>阿尔法通信站</Chinesesimp>
       </Key>
       <Key ID="str_a3_dutchbay010">
@@ -7557,12 +7556,12 @@
       </Key>
       <Key ID="str_a3_doodstil010">
         <Original>Doodstil</Original>
-        <Chinese>Doodstil</Chinese>
+        <Chinese>多德斯蒂爾</Chinese>
         <Chinesesimp>多德斯蒂尔</Chinesesimp>
       </Key>
       <Key ID="str_a3_darwinbay0">
         <Original>Darwin Bay</Original>
-        <Chinese>Darwin灣</Chinese>
+        <Chinese>達爾文灣</Chinese>
         <Chinesesimp>达尔文湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_coralreef020">
@@ -7577,12 +7576,12 @@
       </Key>
       <Key ID="str_a3_comms010">
         <Original>Comms Whiskey</Original>
-        <Chinese>Whiskey通訊站</Chinese>
+        <Chinese>威士忌通訊站</Chinese>
         <Chinesesimp>威士忌通信站</Chinesesimp>
       </Key>
       <Key ID="str_a3_cerebu010">
         <Original>Cerebu</Original>
-        <Chinese>Cerebu</Chinese>
+        <Chinese>塞雷布</Chinese>
         <Chinesesimp>塞雷布</Chinesesimp>
       </Key>
       <Key ID="str_a3_campremnants010">
@@ -7592,37 +7591,37 @@
       </Key>
       <Key ID="str_a3_buawa010">
         <Original>Buawa</Original>
-        <Chinese>Buawa</Chinese>
+        <Chinese>比阿瓦</Chinese>
         <Chinesesimp>比阿瓦</Chinesesimp>
       </Key>
       <Key ID="str_a3_buabua010">
         <Original>Bua Bua</Original>
-        <Chinese>BuaBua</Chinese>
+        <Chinese>比阿比阿</Chinese>
         <Chinesesimp>比阿比阿</Chinesesimp>
       </Key>
       <Key ID="str_a3_blerick010">
         <Original>Blerick</Original>
-        <Chinese>Blerick</Chinese>
+        <Chinese>布雷瑞克</Chinese>
         <Chinesesimp>布雷瑞克</Chinesesimp>
       </Key>
       <Key ID="str_a3_belfort010">
         <Original>Belfort</Original>
-        <Chinese>Belfort</Chinese>
+        <Chinese>貝爾福</Chinese>
         <Chinesesimp>贝尔福</Chinesesimp>
       </Key>
       <Key ID="str_a3_bayyanukka010">
         <Original>Yanukka Bay</Original>
-        <Chinese>Yanukka灣</Chinese>
+        <Chinese>亞努卡灣</Chinese>
         <Chinesesimp>亚努卡湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_baybelfort010">
         <Original>Baie de Belfort</Original>
-        <Chinese>Belfort灣</Chinese>
+        <Chinese>貝爾福灣</Chinese>
         <Chinesesimp>贝尔福湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_balavu010">
         <Original>Balavu</Original>
-        <Chinese>Balavu</Chinese>
+        <Chinese>巴拉武</Chinese>
         <Chinesesimp>巴拉武</Chinesesimp>
       </Key>
       <Key ID="str_a3_baiedorange010">
@@ -7632,42 +7631,42 @@
       </Key>
       <Key ID="str_a3_ba010">
         <Original>Ba</Original>
-        <Chinese>Ba</Chinese>
+        <Chinese>巴</Chinese>
         <Chinesesimp>巴</Chinesesimp>
       </Key>
       <Key ID="str_a3_airstripmain010">
         <Original>Aéroport de Tanoa</Original>
-        <Chinese>Tanoa機場</Chinese>
+        <Chinese>塔諾亞機場</Chinese>
         <Chinesesimp>塔诺亚机场</Chinesesimp>
       </Key>
       <Key ID="str_a3_airstrip040">
         <Original>Tuvanaka Airbase</Original>
-        <Chinese>Tuvanaka空軍基地</Chinese>
+        <Chinese>圖瓦納卡空軍基地</Chinese>
         <Chinesesimp>图瓦纳卡空军基地</Chinesesimp>
       </Key>
       <Key ID="str_a3_airstrip030">
         <Original>Saint-George Airstrip</Original>
-        <Chinese>Saint-George簡易機場</Chinese>
+        <Chinese>聖喬治簡易機場</Chinese>
         <Chinesesimp>圣乔治简易机场</Chinesesimp>
       </Key>
       <Key ID="str_a3_airstrip020">
         <Original>La Rochelle Aerodrome</Original>
-        <Chinese>LaRochelle機場</Chinese>
+        <Chinese>拉·羅謝勒機場</Chinese>
         <Chinesesimp>拉·罗谢勒机场</Chinesesimp>
       </Key>
       <Key ID="str_a3_airstrip010">
         <Original>Bala Airstrip</Original>
-        <Chinese>Bala簡易機場</Chinese>
+        <Chinese>巴拉簡易機場</Chinese>
         <Chinesesimp>巴拉简易机场</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGWORLDS_TANOA0">
         <Original>Tanoa</Original>
-        <Chinese>Tanoa</Chinese>
+        <Chinese>塔諾亞</Chinese>
         <Chinesesimp>塔诺亚</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGWORLDS_TANOA_LOADINGTEXT1">
         <Original>The mining and heavy ship industry have already devastated many areas of the Tanoan paradise archipelago.</Original>
-        <Chinese>Tanoan群島的許多美景早已被採礦業與重型貨輪工業所破壞。</Chinese>
+        <Chinese>塔諾亞群島的許多美景早已被採礦業與重型貨輪工業所破壞。</Chinese>
         <Chinesesimp>塔诺亚群岛的许多美景早已被采矿业与重型货轮工业所破坏。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGWORLDS_TANOA_LOADINGTEXT2">
@@ -7687,13 +7686,13 @@
       </Key>
       <Key ID="STR_A3_CFGWORLDS_TANOA_LOADINGTEXT5">
         <Original>Around the Tanoa archipelago, the native people worship a god of fertility and festivity called Darkon.</Original>
-        <Chinese>Tanoa群島的人民信仰著一位具有生殖能力與歡樂代表的神，其名叫Darkon。</Chinese>
-        <Chinesesimp>塔诺亚群岛的人民信仰着一位代表生殖和丰收的神“达尔康”。</Chinesesimp>
+        <Chinese>塔諾亞群島的人民信仰著一位具有生殖能力與歡樂代表的神，其名叫Darkon。</Chinese>
+        <Chinesesimp>塔诺亚群岛的人民信仰着一位代表生殖和丰收的神"达尔康"。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGWORLDS_TANOA_LOADINGTEXT6">
         <Original>The name of the archipelago comes from the Fijian word tanoa which means a bowl (the main island resembles a large bowl).</Original>
-        <Chinese>此群島的名字為斐濟文中的"Tanoa"，意思是"碗"(主島的造型酷似一個大碗)。</Chinese>
-        <Chinesesimp>此群岛的名字为斐济文中的"Tanoa"，意思是"碗"(主岛的造型酷似一个大碗)。</Chinesesimp>
+        <Chinese>此群島的名字為斐濟文中的"塔諾亞Tanoa"，意思是"碗"(主島的造型酷似一個大碗)。</Chinese>
+        <Chinesesimp>此群岛的名字为斐济文中的"塔诺亚Tanoa"，意思是"碗"(主岛的造型酷似一个大碗)。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CFGWORLDS_TANOA_LOADINGTEXT7">
         <Original>Once upon a time, there was a living, fire-breathing volcano...</Original>
@@ -7845,27 +7844,27 @@
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02a_F_Exp">
         <Original>Welcome To Tanoa - Part 1</Original>
-        <Chinese>歡迎來到Tanoa-第一部</Chinese>
+        <Chinese>歡迎來到塔諾亞-第一部</Chinese>
         <Chinesesimp>欢迎来到塔诺亚-第一部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02b_F_Exp">
         <Original>Welcome To Tanoa - Part 2</Original>
-        <Chinese>歡迎來到Tanoa-第二部</Chinese>
+        <Chinese>歡迎來到塔諾亞-第二部</Chinese>
         <Chinesesimp>欢迎来到塔诺亚-第二部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02c_F_Exp">
         <Original>Welcome To Tanoa - Part 3</Original>
-        <Chinese>歡迎來到Tanoa-第三部</Chinese>
+        <Chinese>歡迎來到塔諾亞-第三部</Chinese>
         <Chinesesimp>欢迎来到塔诺亚-第三部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02d_F_Exp">
         <Original>Welcome To Tanoa - Part 4</Original>
-        <Chinese>歡迎來到Tanoa-第四部</Chinese>
+        <Chinese>歡迎來到塔諾亞-第四部</Chinese>
         <Chinesesimp>欢迎来到塔诺亚-第四部</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_AmbientTrack02_F_Exp">
         <Original>Welcome To Tanoa</Original>
-        <Chinese>歡迎來到Tanoa</Chinese>
+        <Chinese>歡迎來到塔諾亞</Chinese>
         <Chinesesimp>欢迎来到塔诺亚</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack04_F_Exp">

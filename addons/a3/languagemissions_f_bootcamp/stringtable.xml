@@ -281,7 +281,7 @@
             </Key>
             <Key ID="str_a3_zone_restriction_warn_has_leader_ada_1">
               <Original>Get back here, Conway.</Original>
-              <Chinese>給我滾回來，Conway。</Chinese>
+              <Chinese>給我滾回來，康維。</Chinese>
               <Chinesesimp>给我滚回来，康维。</Chinesesimp>
             </Key>
             <Key ID="str_a3_zone_restriction_warn_has_leader_ada_2">
@@ -294,7 +294,7 @@
         <Container name="BOOT_m05">
           <Key ID="str_a3_boot_m05_overview">
             <Original>NATO peacekeepers returning to Kavala discover that the situation has gone from bad to worse.</Original>
-            <Chinese>NATO維和部隊返回到卡瓦拉，但是發現到狀況只變得更糟而已。</Chinese>
+            <Chinese>北約維和部隊返回到卡瓦拉，但是發現到狀況只變得更糟而已。</Chinese>
             <Chinesesimp>北约维和部队回到卡瓦拉，但是发现状况只是变得更糟而已。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_mission_name">
@@ -314,28 +314,28 @@
           </Key>
           <Key ID="str_a3_boot_m05_briefing_situation_text">
             <Original>Just under an hour ago, NATO troops were forced to engage members of the FIA in the vicinity of %1Kavirida%2. It has become clear that they were responsible for the attack on the convoy.%3Their motive is now apparent - the situation at %4the MoD%5 rapidly deteriorated, succeeded by the FIA conducting an all-out assault on %6Kavala%7. Details are still coming in, but we are certain that the FIA's actions are a direct consequence of these events. It appears to have convinced the FIA that the sit-down at %8the MoD%9 had not been conducted in good faith.%10The investigation is still ongoing.</Original>
-            <Chinese>就在一小時前，NATO部隊被迫與FIA在%1Kavirida%2附近交戰。現在狀況就清楚了，他們得為車隊的事情負責。%3他們的舉動導致在%4國防部%5的會談迅速的惡化，現在FIA開始對%6Kavala%7發動全面的突擊了。細部的情報仍在彙整中，但有一件事是很清楚的，那就是這些事都是FIA做的。FIA很明顯就沒有誠意好好的坐下來會談。%10調查仍在持續當中。</Chinese>
-            <Chinesesimp>就在一小时前，北约部队被迫与自由阵线在%1卡维里达%2附近交战。现在已经清楚他们得为车队的事情负责。%3他们的举动导致在%4国防部%5的会谈迅速恶化，紧接着自由阵线对%6卡瓦拉%7发动了孤注一掷的突击。现在仍然在不断接到新的情报细节，但有一件事是很清楚的，那就是这些事都是自由阵线做的。自由阵线很明显就没有好好的坐下来会谈的诚意。%10调查仍在持续当中。</Chinesesimp>
+            <Chinese>就在一小時前，北約部隊被迫與自由獨立同盟在%1卡維里達%2附近交戰。現在狀況就清楚了，他們得為車隊的事情負責。%3他們的舉動導致在%4國防部%5的會談迅速的惡化，現在自由獨立同盟開始對%6卡瓦拉%7發動全面的突擊了。細部的情報仍在彙整中，但有一件事是很清楚的，那就是這些事都是自由獨立同盟做的。自由獨立同盟很明顯就沒有誠意好好的坐下來會談。%10調查仍在持續當中。</Chinese>
+            <Chinesesimp>就在一小时前，北约部队被迫与自由独立同盟在%1卡维里达%2附近交战。现在已经清楚他们得为车队的事情负责。%3他们的举动导致在%4国防部%5的会谈迅速恶化，紧接着自由独立同盟对%6卡瓦拉%7发动了孤注一掷的突击。现在仍然在不断接到新的情报细节，但有一件事是很清楚的，那就是这些事都是自由独立同盟做的。自由独立同盟很明显就没有好好的坐下来会谈的诚意。%10调查仍在持续当中。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_briefing_signal_text">
             <Original>&lt;marker name = 'BIS_start'&gt;Alpha 1-2&lt;/marker&gt; - Your callsign.&lt;br/&gt;&lt;marker name = 'BIS_start'&gt;Alpha 1-1&lt;/marker&gt; - Staff Sergeant Adams.&lt;br/&gt;&lt;marker name = 'BIS_reinf'&gt;Bravo 2-3&lt;/marker&gt; - Inbound reinforcements.&lt;br/&gt;Broadway - Colonel MacKinnon.&lt;br/&gt;Phalanx - AAF Command.</Original>
-            <Chinese>&lt;markername='BIS_start'&gt;Alpha1-2&lt;/marker&gt;-你的呼號。&lt;br/&gt;&lt;markername='BIS_start'&gt;Alpha1-1&lt;/marker&gt;-上士Adams。&lt;br/&gt;&lt;markername='BIS_reinf'&gt;Bravo2-3&lt;/marker&gt;-增援的援軍。&lt;br/&gt;Broadway-上校MacKinnon。&lt;br/&gt;Phalanx-AAF指揮官。</Chinese>
+            <Chinese>&lt;markername='BIS_start'&gt;阿爾法1-2&lt;/marker&gt;-你的呼號。&lt;br/&gt;&lt;markername='BIS_start'&gt;阿爾法1-1&lt;/marker&gt;-上士亞當斯。&lt;br/&gt;&lt;markername='BIS_reinf'&gt;布拉沃2-3&lt;/marker&gt;-增援的援軍。&lt;br/&gt;百老匯-上校麥金農。&lt;br/&gt;密集陣-阿爾蒂斯武裝力量指揮官。</Chinese>
             <Chinesesimp>&lt;markername='BIS_start'&gt;阿尔法1-2&lt;/marker&gt;-你的呼号。&lt;br/&gt;&lt;markername='BIS_start'&gt;阿尔法1-1&lt;/marker&gt;-亚当斯上士。&lt;br/&gt;&lt;markername='BIS_reinf'&gt;布拉沃2-3&lt;/marker&gt;-增援的援军。&lt;br/&gt;百老汇-麦金农上校。&lt;br/&gt;密集阵-阿尔蒂斯武装力量指挥官。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_briefing_mission_text">
             <Original>Once %1the reinforcements%2 arrive, return to %3Kavala%4 and report in with Broadway.</Original>
-            <Chinese>當%1援軍%2抵達後，請返回到%3Kavala%4並向Broadway進行報告。</Chinese>
-            <Chinesesimp>当%1援军%2抵达后，请返回到%3卡瓦拉%4并向“百老汇”进行报告。</Chinesesimp>
+            <Chinese>當%1援軍%2抵達後，請返回到%3卡瓦拉%4並向"百老匯"進行報告。</Chinese>
+            <Chinesesimp>当%1援军%2抵达后，请返回到%3卡瓦拉%4并向"百老汇"进行报告。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_briefing_execution_text">
             <Original>1. Await &lt;marker name = 'BIS_reinf'&gt;the reinforcements&lt;/marker&gt;.&lt;br/&gt;2. Report in with Broadway.</Original>
-            <Chinese>1。等待&lt;markername='BIS_reinf'&gt;援軍&lt;/marker&gt;。&lt;br/&gt;2。向Broadway進行報告。</Chinese>
-            <Chinesesimp>1。等待&lt;markername='BIS_reinf'&gt;援军&lt;/marker&gt;。&lt;br/&gt;2。向“百老汇”进行报告。</Chinesesimp>
+            <Chinese>1。等待&lt;markername='BIS_reinf'&gt;援軍&lt;/marker&gt;。&lt;br/&gt;2。向"百老匯"進行報告。</Chinese>
+            <Chinesesimp>1。等待&lt;markername='BIS_reinf'&gt;援军&lt;/marker&gt;。&lt;br/&gt;2。向"百老汇"进行报告。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_bis_truck_title">
             <Original>Board the Hunter</Original>
-            <Chinese>搭乘Hunter</Chinese>
-            <Chinesesimp>搭乘“猎人”</Chinesesimp>
+            <Chinese>搭乘"獵人"</Chinese>
+            <Chinesesimp>搭乘"猎人"</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_bis_truck_marker">
             <Original>GET IN</Original>
@@ -344,8 +344,8 @@
           </Key>
           <Key ID="str_a3_boot_m05_bis_truck_desc">
             <Original>Get in the Hunter.</Original>
-            <Chinese>進入Hunter。</Chinese>
-            <Chinesesimp>进入“猎人”。</Chinesesimp>
+            <Chinese>進入"獵人"。</Chinese>
+            <Chinesesimp>进入"猎人"。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_bis_reinf_title">
             <Original>Await reinforcements</Original>
@@ -354,7 +354,7 @@
           </Key>
           <Key ID="str_a3_boot_m05_bis_reinf_desc">
             <Original>Await %1Bravo 2-3%2's arrival.</Original>
-            <Chinese>等待%1Bravo2-3%2的抵達。</Chinese>
+            <Chinese>等待%1"布拉沃"2-3%2的抵達。</Chinese>
             <Chinesesimp>等待%1布拉沃2-3%2抵达。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_bis_investigate_title">
@@ -389,7 +389,7 @@
           </Key>
           <Key ID="str_a3_boot_m05_epilogue_1">
             <Original>The following months would see a rapid deterioration in AAF-NATO relations.</Original>
-            <Chinese>在接下來的幾個月中，AAF與NATO的關係逐漸惡化。</Chinese>
+            <Chinese>在接下來的幾個月中，阿爾蒂斯武裝力量與北約的關係逐漸惡化。</Chinese>
             <Chinesesimp>在接下来的几个月中，阿尔蒂斯武装力量与北约的关系逐渐恶化。</Chinesesimp>
           </Key>
           <Container name="d10_Ending" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="d10_Ending" dubbingLanguage="english" namePrefix="boot_m05_d10_ending" note="" participants="BOOT B Lacey;BOOT B Adams;" situation="lacey and adams walk off">
@@ -405,7 +405,7 @@
             </Key>
             <Key ID="str_a3_boot_m05_d10_ending_lac_0">
               <Original>Can't believe MacKinnon just shut us down like that.</Original>
-              <Chinese>我不敢相信?金?竟然要我們退下。</Chinese>
+              <Chinese>我不敢相信?麥金農?竟然要我們退下。</Chinese>
               <Chinesesimp>我不敢相信麦金农竟然要我们退下。</Chinesesimp>
             </Key>
           </Container>
@@ -417,8 +417,8 @@
             </Key>
             <Key ID="str_a3_boot_m05_d05_results_ada_1">
               <Original>Callsign 'Phalanx'. Colonel Akhanteros. You just bashed horns with the AAF's top brass.</Original>
-              <Chinese>呼號“方陣”。阿坎特?斯上校。你剛剛頂撞了AAF的高層。</Chinese>
-              <Chinesesimp>呼号“密集阵”。阿坎特罗斯上校。你刚刚顶撞了阿尔蒂斯武装力量的最高层。</Chinesesimp>
+              <Chinese>呼號"方陣"。阿坎特羅斯上校。你剛剛頂撞了阿爾蒂斯武裝力量的高層。</Chinese>
+              <Chinesesimp>呼号"密集阵"。阿坎特罗斯上校。你刚刚顶撞了阿尔蒂斯武装力量的最高层。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_d05_results_lac_0">
               <Original>What the fuck was that?</Original>
@@ -451,8 +451,8 @@
           <Container name="45_Aftermath" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="45_Aftermath" dubbingLanguage="english" namePrefix="boot_m05_45_aftermath" note="" participants="BOOT B Lacey;BOOT I Soldier A;BOOT I HQ;BOOT B HQ;" situation="player comes upon the scene at the mod">
             <Key ID="str_a3_boot_m05_45_aftermath_bhq_0">
               <Original>1-2, Broadway. Receiving. Send it, over.</Original>
-              <Chinese>1-2，Broadway。接收中。請講，完畢。</Chinese>
-              <Chinesesimp>1-2，这是“百老汇”。接收中。请讲，完毕。</Chinesesimp>
+              <Chinese>1-2，"百老匯"。接收中。請講，完畢。</Chinese>
+              <Chinesesimp>1-2，这是"百老汇"。接收中。请讲，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_bhq_1">
               <Original>Copy. Wait one.</Original>
@@ -511,8 +511,8 @@
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_lac_6">
               <Original>Broadway, Alpha 1-2 Actual. Message. Over.</Original>
-              <Chinese>Broadway，這裡是Alpha1-2隊長。訊息。完畢。</Chinese>
-              <Chinesesimp>“百老汇”，这里是“阿尔法”1-2领队。有信息。完毕。</Chinesesimp>
+              <Chinese>百老匯，這裡是阿爾法-2隊長。訊息。完畢。</Chinese>
+              <Chinesesimp>"百老汇"，这里是"阿尔法"1-2领队。有信息。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_ihq_1">
               <Original>What my men do is my concern, and mine alone, Sergeant.</Original>
@@ -522,7 +522,7 @@
             <Key ID="str_a3_boot_m05_45_aftermath_lac_7">
               <Original>I've got Greenbacks abusing FIA prisoners at the MoD, sir. Please advise, over.</Original>
               <Chinese>我這裡發現綠軍正在國防部凌虐FIA的囚犯，長官。請指示，完畢。</Chinese>
-              <Chinesesimp>我发现绿军正在国防部虐待自由阵线的囚犯，长官。请指示，完毕。</Chinesesimp>
+              <Chinesesimp>我发现绿军正在国防部虐待自由独立同盟的囚犯，长官。请指示，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_45_aftermath_ihq_2">
               <Original>Don't you take another step. You are out of line, American.</Original>
@@ -591,8 +591,8 @@
             </Key>
             <Key ID="str_a3_boot_m05_20_fire_ada_1">
               <Original>Broadway, Alpha 1-1 Actual. What's the situation in Kavala? Over.</Original>
-              <Chinese>Broadway，這裡是Alpha1-1隊長。現在卡瓦拉的情況如何?完畢。</Chinese>
-              <Chinesesimp>“百老汇”，这里是“阿尔法”1-1领队。现在卡瓦拉的情况如何?完毕。</Chinesesimp>
+              <Chinese>"百老匯"，這裡是"阿爾法"1-1隊長。現在卡瓦拉的情況如何?完畢。</Chinese>
+              <Chinesesimp>"百老汇"，这里是"阿尔法"1-1领队。现在卡瓦拉的情况如何?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_20_fire_ada_2">
               <Original>Copy. Interrogative, what do you need us for? Over.</Original>
@@ -617,7 +617,7 @@
             <Key ID="str_a3_boot_m05_20_fire_bhq_2">
               <Original>Phalanx is reporting that the FIA threw themselves at the cordon.</Original>
               <Chinese>Phalanx回報說FIA想要狗急跳墻。</Chinese>
-              <Chinesesimp>“密集阵”报告称自由阵线想要狗急跳墙。</Chinesesimp>
+              <Chinesesimp>"密集阵"报告称自由独立同盟想要狗急跳墙。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_20_fire_bhq_3">
               <Original>I want you to take control of the situation at the MoD.</Original>
@@ -640,7 +640,7 @@
           <Container name="10_CSAT" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="10_CSAT" dubbingLanguage="english" namePrefix="boot_m05_10_csat" note="" participants="BOOT B Soldier A;BOOT B Soldier B;" situation="a wild csat helicopter appears">
             <Key ID="str_a3_boot_m05_10_csat_bsa_0">
               <Original>What's CSAT doing here?</Original>
-              <Chinese>CSAT在這裡幹什麼?</Chinese>
+              <Chinese>廣協同盟在這裡幹什麼?</Chinese>
               <Chinesesimp>广协同盟在这里干什么?</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_10_csat_bsb_0">
@@ -655,15 +655,15 @@
             </Key>
             <Key ID="str_a3_boot_m05_10_csat_bsb_2">
               <Original>Get yourselves back to Kavala. Shit's kicked off over there.</Original>
-              <Chinese>你們趕快回到Kavala吧。那裡已經是一團糟了。</Chinese>
+              <Chinese>你們趕快回到卡瓦拉吧。那裡已經是一團糟了。</Chinese>
               <Chinesesimp>你们赶回卡瓦拉吧。那里已经是一团糟了。</Chinesesimp>
             </Key>
           </Container>
           <Container name="05_Situation" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="05_Situation" dubbingLanguage="english" namePrefix="boot_m05_05_situation" note="" participants="BOOT B Soldier B;BOOT B Adams;" situation="reinforcements ask for an update">
             <Key ID="str_a3_boot_m05_05_situation_ada_0">
               <Original>Multiple KIA. AAF and FIA. The survivor didn't make it.</Original>
-              <Chinese>多名傷亡。AAF和FIA。而倖存者也沒撐過去。</Chinese>
-              <Chinesesimp>多人阵亡。阿尔蒂斯武装力量和自由阵线都有。而幸存者也没撑下来。</Chinesesimp>
+              <Chinese>多名傷亡。阿爾蒂斯武裝力量和自由獨立同盟。而倖存者也沒撐過去。</Chinese>
+              <Chinesesimp>多人阵亡。阿尔蒂斯武装力量和自由独立同盟都有。而幸存者也没撑下来。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m05_05_situation_bsb_0">
               <Original>What's the situation?</Original>
@@ -673,12 +673,12 @@
           </Container>
           <Key ID="str_a3_boot_m05_epilogue_2">
             <Original>By Christmas of 2034, NATO's peacekeeping mandate would be limited to Stratis, a small island south of the Altis mainland.</Original>
-            <Chinese>到了2034的聖誕節時，NATO維和部隊的行動範圍被限制在Stratis，一個在Altis主島南方的小島。</Chinese>
+            <Chinese>到了2034的聖誕節時，北約維和部隊的行動範圍被限制在斯特拉蒂斯，一個在阿爾蒂斯主島南方的小島。</Chinese>
             <Chinesesimp>到2034的圣诞节时，北约维和部队的行动范围已被限制在斯特拉蒂斯，一个在阿尔蒂斯主岛南方的小岛。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m05_epilogue_3">
             <Original>With conflict brewing in the Pacific, the world - and NATO itself - slowly started to forget about the tiny island republic.</Original>
-            <Chinese>隨著太平洋的局勢不斷升溫，全世界-甚至是NATO自己-都漸漸的淡忘掉這個小島國。</Chinese>
+            <Chinese>隨著太平洋的局勢不斷升溫，全世界-甚至是北約自己-都漸漸的淡忘掉這個小島國。</Chinese>
             <Chinesesimp>随着太平洋的局势不断升温，全世界-甚至包括北约自身-都渐渐的淡忘掉这个小岛国。</Chinesesimp>
           </Key>
           <Container name="01_Start" audioFilePath="\a3\dubbing_f_bootcamp\boot_m05" dialogName="01_Start" dubbingLanguage="english" namePrefix="boot_m05_01_start" note="" participants="BOOT B Soldier B;" situation="reinforcements approaching">
@@ -702,13 +702,13 @@
           </Key>
           <Key ID="str_a3_boot_m04_sitrep_1">
             <Original>KAVALA HOSPITAL</Original>
-            <Chinese>KAVALA醫院</Chinese>
+            <Chinese>卡瓦拉醫院</Chinese>
             <Chinesesimp>卡瓦拉医院</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_overview">
             <Original>The AAF and the FIA agree to a dialogue in the former capital, Kavala.</Original>
-            <Chinese>AAF與FIA同意在前首都Kavala進行對話。</Chinese>
-            <Chinesesimp>阿尔蒂斯武装力量与自由阵线同意在前首都卡瓦拉进行对话。</Chinesesimp>
+            <Chinese>阿爾蒂斯武裝力量與自由獨立同盟同意在前首都卡瓦拉進行對話。</Chinese>
+            <Chinesesimp>阿尔蒂斯武装力量与自由独立同盟同意在前首都卡瓦拉进行对话。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_mission_name">
             <Original>Rising Tensions</Original>
@@ -727,33 +727,33 @@
           </Key>
           <Key ID="str_a3_boot_m04_debriefing_boot_m05_2_description">
             <Original>The convoy was secured, but little remains. Although you broke the Rules of Engagement, it was clear that the FIA had hostile intentions. Let's keep your slip up to ourselves.</Original>
-            <Chinese>車隊已經肅清完成了。儘管你打破了交戰守則，但很明顯的FIA在當時是我們的敵人。讓我們把自己的神?給繃緊點。</Chinese>
-            <Chinesesimp>车队已经安全了，但也已经不剩什么了。尽管你打破了交战守则，但很明显的自由阵线在当时是我们的敌人。让我们把自己的神经给绷紧点。</Chinesesimp>
+            <Chinese>車隊已經肅清完成了。儘管你打破了交戰守則，但很明顯的FIA在當時是我們的敵人。讓我們把自己的神經給繃緊點。</Chinese>
+            <Chinesesimp>车队已经安全了，但也已经不剩什么了。尽管你打破了交战守则，但很明显的自由独立同盟在当时是我们的敌人。让我们把自己的神经给绷紧点。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_debriefing_boot_m05_1_description">
             <Original>The convoy was secured, but little remains. NATO peacekeeping forces were forced to engage the FIA responsible for its demise.</Original>
-            <Chinese>車隊已經肅清完成了。NATO維和部隊被迫與FIA展開交戰。</Chinese>
-            <Chinesesimp>车队已经安全了，但也已经不剩什么了。北约维和部队被迫与自由阵线展开交战。</Chinesesimp>
+            <Chinese>車隊已經肅清完成了。北約維和部隊被迫與自由獨立同盟展開交戰。</Chinese>
+            <Chinesesimp>车队已经安全了，但也已经不剩什么了。北约维和部队被迫与自由独立同盟展开交战。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_briefing_situation_text">
             <Original>Last week, an AAF patrol responded with lethal force to aggression from locals %1north of Kore%2, reportedly in self-defense. One casualty survived but later succumbed to their wounds, bringing the official death toll to 6.%3Peacekeeping forces on scene confirmed the reported timeline, but the justification for the patrol's use of force remains questionable.%4Following the incident, the government reached out to the FIA for a sit-down %5in Kavala%6, as a gesture of goodwill. As such, security has been ramped up, with peacekeeping forces watching over the proceedings.%7However, %8an AAF security convoy%9 en route from %10the AAC airfield%11 failed to pass %12an AAF checkpoint%13 east of %14Kavala%15 at its scheduled arrival time, nearly 20 minutes ago, raising fears that the situation is likely to escalate. It has failed to respond to hails from AAF Command.</Original>
-            <Chinese>在上週，一支AAF巡邏隊侵入了%1Kore北邊%2的小鎮，並對當地人使用致命武力，後來聲稱是自衛之舉。本來有一個倖存者，但最後他也傷重不治了，讓死亡人數攀升到了六人。%3儘管維和部隊在第一時間趕到了現場，並證實了以上的回報，但巡邏隊使用武力的正當性仍然備受懷疑。%4事件過後，政府希望與FIA在%5Kavala%6坐下來好好談談，當作一種善意的舉動。因為這樣，這附近的安保等級直線往上升，而在整個過程中，維和部隊也會在旁邊觀看。%7然而現在，%8一支AAF的安保車隊%9本該從%10Altis空中俱樂部機場%11前往這裡，並經過%14Kavala%15東方的%12AAF檢查哨%13，但他們已經遲到了近20分鐘，大家擔心緊張的局勢會在升級。我們必須在關係破裂前找出車隊的行蹤。</Chinese>
-            <Chinesesimp>上周，一支阿尔蒂斯武装力量巡逻队侵入了%1科雷北边%2的小镇，并对当地人使用致命武器，后来声称是自卫之举。本来有一个幸存者，但最后他也伤重不治了，让死亡人数攀升到了六人。%3尽管维和部队在第一时间赶到了现场，并证实了以上的回报，但巡逻队使用武力的正当性仍然备受怀疑。%4事件过后，政府希望与自由阵线在%5卡瓦拉%6坐下来好好谈谈，作为释放善意的举动。因此，附近的安保等级直线上升，而在整个过程中，维和部队也会在旁边监督。%7然而现在，%8一支阿尔蒂斯武装力量的安保车队%9本该从%10阿尔蒂斯空中俱乐部机场%11前往这里，并经过%14卡瓦拉%15东方的%12阿尔蒂斯武装力量检查哨%13，但他们已经迟到了近20分钟，大家担心紧张的局势会再升级。我们必须在关系破裂前找出车队的行踪。</Chinesesimp>
+            <Chinese>在上週，一支阿爾蒂斯武裝力量巡邏隊侵入了%1科雷北邊%2的小鎮，並對當地人使用致命武力，後來聲稱是自衛之舉。本來有一個倖存者，但最後他也傷重不治了，讓死亡人數攀升到了六人。%3儘管維和部隊在第一時間趕到了現場，並證實了以上的回報，但巡邏隊使用武力的正當性仍然備受懷疑。%4事件過後，政府希望與自由獨立同盟在%5卡瓦拉%6坐下來好好談談，當作一種善意的舉動。因為這樣，這附近的安保等級直線往上升，而在整個過程中，維和部隊也會在旁邊觀看。%7然而現在，%8一支阿爾蒂斯武裝力量的安保車隊%9本該從%10阿爾蒂斯空中俱樂部機場%11前往這裡，並經過%14卡瓦拉%15東方的%12阿爾蒂斯武裝力量檢查哨%13，但他們已經遲到了近20分鐘，大家擔心緊張的局勢會在升級。我們必須在關係破裂前找出車隊的行蹤。</Chinese>
+            <Chinesesimp>上周，一支阿尔蒂斯武装力量巡逻队侵入了%1科雷北边%2的小镇，并对当地人使用致命武器，后来声称是自卫之举。本来有一个幸存者，但最后他也伤重不治了，让死亡人数攀升到了六人。%3尽管维和部队在第一时间赶到了现场，并证实了以上的回报，但巡逻队使用武力的正当性仍然备受怀疑。%4事件过后，政府希望与自由独立同盟在%5卡瓦拉%6坐下来好好谈谈，作为释放善意的举动。因此，附近的安保等级直线上升，而在整个过程中，维和部队也会在旁边监督。%7然而现在，%8一支阿尔蒂斯武装力量的安保车队%9本该从%10阿尔蒂斯空中俱乐部机场%11前往这里，并经过%14卡瓦拉%15东方的%12阿尔蒂斯武装力量检查哨%13，但他们已经迟到了近20分钟，大家担心紧张的局势会再升级。我们必须在关系破裂前找出车队的行踪。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_briefing_signal_text">
             <Original>&lt;marker name = 'BIS_lacey'&gt;Alpha 1-2&lt;/marker&gt; - Your callsign.&lt;br/&gt;&lt;marker name = 'BIS_adams'&gt;Alpha 1-1&lt;/marker&gt; - Staff Sergeant Adams.&lt;br/&gt;Broadway - Colonel MacKinnon.&lt;br/&gt;Phalanx - AAF Command.</Original>
-            <Chinese>&lt;markername='BIS_lacey'&gt;Alpha1-2&lt;/marker&gt;-你的呼號。&lt;br/&gt;&lt;markername='BIS_adams'&gt;Alpha1-1&lt;/marker&gt;-上士Adams。&lt;br/&gt;Broadway-上校MacKinnon。&lt;br/&gt;Phalanx-AAF指揮官。</Chinese>
+            <Chinese>&lt;markername='BIS_lacey'&gt;阿爾法1-2&lt;/marker&gt;-你的呼號。&lt;br/&gt;&lt;markername='BIS_adams'&gt;阿爾法1-1&lt;/marker&gt;-上士Adams。&lt;br/&gt;百老匯-上校麥金農。&lt;br/&gt;密集陣-阿爾蒂斯武裝力量指揮官。</Chinese>
             <Chinesesimp>&lt;markername='BIS_lacey'&gt;阿尔法1-2&lt;/marker&gt;-你的呼号。&lt;br/&gt;&lt;markername='BIS_adams'&gt;阿尔法1-1&lt;/marker&gt;-亚当斯上士。&lt;br/&gt;百老汇-麦金农上校。&lt;br/&gt;密集阵-阿尔蒂斯武装力量指挥官。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_briefing_mission_text">
             <Original>&lt;marker name = 'BIS_adams'&gt;Alpha 1-1&lt;/marker&gt; and &lt;marker name = 'BIS_lacey'&gt;1-2&lt;/marker&gt;, led by Staff Sergeant Adams, are to deploy to &lt;marker name = 'BIS_lost'&gt;the convoy's last known location&lt;/marker&gt; and, if possible, obtain a visual on the convoy itself, before reporting back to Broadway.</Original>
-            <Chinese>由&lt;markername='BIS_adams'&gt;Alpha1-1&lt;/marker&gt;和&lt;markername='BIS_lacey'&gt;1-2&lt;/marker&gt;所組成的小隊，將由上士Adams帶領，將被佈署到&lt;markername='BIS_lost'&gt;車隊最後的已知位置&lt;/marker&gt;，如果可以的話，請先目視到車隊，再向Broadway回報。</Chinese>
-            <Chinesesimp>由&lt;markername='BIS_adams'&gt;阿尔法1-1&lt;/marker&gt;和&lt;markername='BIS_lacey'&gt;1-2&lt;/marker&gt;所组成的小队由上士亚当斯带领，将被布署到&lt;markername='BIS_lost'&gt;车队最后的已知位置&lt;/marker&gt;，如果可以的话，请先目视到车队，再向“百老汇”回报。</Chinesesimp>
+            <Chinese>由&lt;markername='BIS_adams'&gt;阿爾法1-1&lt;/marker&gt;和&lt;markername='BIS_lacey'&gt;1-2&lt;/marker&gt;所組成的小隊，將由上士亞當斯帶領，將被佈署到&lt;markername='BIS_lost'&gt;車隊最後的已知位置&lt;/marker&gt;，如果可以的話，請先目視到車隊，再向"百老匯"回報。</Chinese>
+            <Chinesesimp>由&lt;markername='BIS_adams'&gt;阿尔法1-1&lt;/marker&gt;和&lt;markername='BIS_lacey'&gt;1-2&lt;/marker&gt;所组成的小队由上士亚当斯带领，将被布署到&lt;markername='BIS_lost'&gt;车队最后的已知位置&lt;/marker&gt;，如果可以的话，请先目视到车队，再向"百老汇"回报。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_briefing_execution_text">
             <Original>1. Move to &lt;marker name = 'BIS_lost'&gt;the last known position&lt;/marker&gt;.&lt;br/&gt;2. Locate the convoy.&lt;br/&gt;3. Report to Broadway.</Original>
-            <Chinese>1。移動到&lt;markername='BIS_lost'&gt;最後的已知位置&lt;/marker&gt;。&lt;br/&gt;2。尋找車隊。&lt;br/&gt;3。向Broadway回報。</Chinese>
-            <Chinesesimp>1。移动到&lt;markername='BIS_lost'&gt;最后的已知位置&lt;/marker&gt;。&lt;br/&gt;2。寻找车队。&lt;br/&gt;3。向“百老汇”回报。</Chinesesimp>
+            <Chinese>1。移動到&lt;markername='BIS_lost'&gt;最後的已知位置&lt;/marker&gt;。&lt;br/&gt;2。尋找車隊。&lt;br/&gt;3。向"百老匯"回報。</Chinese>
+            <Chinesesimp>1。移动到&lt;markername='BIS_lost'&gt;最后的已知位置&lt;/marker&gt;。&lt;br/&gt;2。寻找车队。&lt;br/&gt;3。向"百老汇"回报。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_bis_treat_title">
             <Original>Treat the Soldier</Original>
@@ -767,7 +767,7 @@
           </Key>
           <Key ID="str_a3_boot_m04_bis_treat_desc">
             <Original>Use your First Aid Kit on the wounded AAF soldier.</Original>
-            <Chinese>使用你的急救箱，對AAF的傷兵進行醫療。</Chinese>
+            <Chinese>使用你的急救箱，對阿爾蒂斯武裝力量的傷兵進行醫療。</Chinese>
             <Chinesesimp>使用你的急救包，对阿尔蒂斯武装力量的伤兵进行医治。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_bis_take_title">
@@ -782,7 +782,7 @@
           </Key>
           <Key ID="str_a3_boot_m04_bis_take_desc">
             <Original>Take Adams' First Aid Kit if you need it.</Original>
-            <Chinese>假如你有需要的話，請拿取Adams的急救箱。</Chinese>
+            <Chinese>假如你有需要的話，請拿取亞當斯的急救箱。</Chinese>
             <Chinesesimp>假如你有需要的话，请拿取亚当斯的急救包。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m04_bis_secure_title">
@@ -837,7 +837,7 @@
           <Container name="x01_Ignored_ROE" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="x01_Ignored_ROE" dubbingLanguage="english" namePrefix="boot_m04_x01_ignored_roe" note="" participants="BOOT B Adams;" situation="player disobeyed the rules of engagement">
             <Key ID="str_a3_boot_m04_x01_ignored_roe_ada_0">
               <Original>What the fuck, Conway? Everyone, open up!</Original>
-              <Chinese>搞啥鬼，Conway?所有人，開火!</Chinese>
+              <Chinese>搞啥鬼，康維?所有人，開火!</Chinese>
               <Chinesesimp>搞什么鬼，康维?所有人，开火!</Chinesesimp>
             </Key>
           </Container>
@@ -849,12 +849,12 @@
             </Key>
             <Key ID="str_a3_boot_m04_d01_situation_ada_1">
               <Original>The AAF and FIA consenting to a sit-down within the country's Ministry of Defense.</Original>
-              <Chinese>AAF與FIA都同意在國防部內坐下來好好談談。</Chinese>
-              <Chinesesimp>阿尔蒂斯武装力量与自由阵线都同意在国防部内坐下来好好谈谈。</Chinesesimp>
+              <Chinese>阿爾蒂斯武裝力量與自由獨立同盟都同意在國防部內坐下來好好談談。</Chinese>
+              <Chinesesimp>阿尔蒂斯武装力量与自由独立同盟都同意在国防部内坐下来好好谈谈。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_d01_situation_lac_0">
               <Original>MacKinnon didn't seem to be too happy.</Original>
-              <Chinese>MacKinnon看來不怎麼開心。</Chinese>
+              <Chinese>麥金農看來不怎麼開心。</Chinese>
               <Chinesesimp>麦金农看来不怎么开心。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_d01_situation_ada_2">
@@ -895,8 +895,8 @@
             </Key>
             <Key ID="str_a3_boot_m04_85_all_clear_ada_2">
               <Original>Broadway, 1-1. Be advised, we've made contact with FIA forces at the convoy's location. All contacts neutralized. Over.</Original>
-              <Chinese>Broadway，1-1。請注意，我們已經與一小支FIA的部隊在車隊附近交火。所有敵人皆已殲滅。完畢。</Chinese>
-              <Chinesesimp>“百老汇”，1-1呼叫。请注意，我们已经与一小支自由阵线部队在车队附近交火。所有敌人都已歼灭。完毕。</Chinesesimp>
+              <Chinese>"百老匯"，1-1。請注意，我們已經與一小支自由獨立同盟的部隊在車隊附近交火。所有敵人皆已殲滅。完畢。</Chinese>
+              <Chinesesimp>"百老汇"，1-1呼叫。请注意，我们已经与一小支自由独立同盟部队在车队附近交火。所有敌人都已歼灭。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_85_all_clear_lac_0">
               <Original>Clear.</Original>
@@ -905,8 +905,8 @@
             </Key>
             <Key ID="str_a3_boot_m04_85_all_clear_bhq_0">
               <Original>Copy, 1-1. Lock it down. Broadway out.</Original>
-              <Chinese>收到，1-1。封鎖那邊。Broadway通話完畢。</Chinese>
-              <Chinesesimp>收到，1-1。封锁那边。“百老汇”通话完毕。</Chinesesimp>
+              <Chinese>收到，1-1。封鎖那邊。"百老匯"通話完畢。</Chinese>
+              <Chinesesimp>收到，1-1。封锁那边。"百老汇"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="80_Wave_2" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="80_Wave_2" dubbingLanguage="english" namePrefix="boot_m04_80_wave_2" note="" participants="BOOT B Adams;" situation="team spots the approaching fia reinforcements">
@@ -971,7 +971,7 @@
           <Container name="40_Continue" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="40_Continue" dubbingLanguage="english" namePrefix="boot_m04_40_continue" note="" participants="BOOT B Adams;" situation="adams and player move up">
             <Key ID="str_a3_boot_m04_40_continue_ada_0">
               <Original>Let's go, Conway.</Original>
-              <Chinese>我們走，Conway。</Chinese>
+              <Chinese>我們走，康維。</Chinese>
               <Chinesesimp>我们走，康维。</Chinesesimp>
             </Key>
           </Container>
@@ -1029,20 +1029,20 @@
             </Key>
             <Key ID="str_a3_boot_m04_20_confirm_bhq_0">
               <Original>Good. Broadway out.</Original>
-              <Chinese>很好。Broadway通話完畢。</Chinese>
-              <Chinesesimp>很好。“百老汇”通话完毕。</Chinesesimp>
+              <Chinese>很好。"百老匯"通話完畢。</Chinese>
+              <Chinesesimp>很好。"百老汇"通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_ROE" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="15_ROE" dubbingLanguage="english" namePrefix="boot_m04_15_roe" note="" participants="BOOT B Adams;BOOT B HQ;" situation="hq reminds adams of the roe, follows on from previous conversation">
             <Key ID="str_a3_boot_m04_15_roe_ada_0">
               <Original>Copy, Broadway.</Original>
-              <Chinese>收到，Broadway。</Chinese>
-              <Chinesesimp>收到，“百老汇”。</Chinesesimp>
+              <Chinese>收到，"百老匯"。</Chinese>
+              <Chinesesimp>收到，"百老汇"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_15_roe_bhq_0">
               <Original>And, Staff Sergeant - in all likelihood - you're going to have FIA guerrillas waiting for you down there.</Original>
-              <Chinese>還有，上士-有可能的話-你們可能會在底下遇到FIA的游擊隊。</Chinese>
-              <Chinesesimp>还有，上士-很有可能-当地可能会有自由阵线游击队在等着你。</Chinesesimp>
+              <Chinese>還有，上士-有可能的話-你們可能會在底下遇到自由獨立同盟的游擊隊。</Chinese>
+              <Chinesesimp>还有，上士-很有可能-当地可能会有自由独立同盟游击队在等着你。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_15_roe_bhq_1">
               <Original>Stick to the ROE. Do not fire unless fired upon. However, that does not mean you are to roll over and take it. Confirm, over.</Original>
@@ -1072,13 +1072,13 @@
           <Container name="115_Medical" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="115_Medical" dubbingLanguage="english" namePrefix="boot_m04_115_medical" note="" participants="BOOT B HQ;BOOT B Adams;" situation="hq tells them medical is inbound">
             <Key ID="str_a3_boot_m04_115_medical_ada_0">
               <Original>We'll try, Broadway. 1-1 out.</Original>
-              <Chinese>我們會嘗試看看，Broadway。1-1通話完畢。</Chinese>
-              <Chinesesimp>我们会尝试看看，“百老汇”。1-1通话完毕。</Chinesesimp>
+              <Chinese>我們會嘗試看看，"百老匯"。1-1通話完畢。</Chinese>
+              <Chinesesimp>我们会尝试看看，"百老汇"。1-1通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_115_medical_bhq_0">
               <Original>Copy. Relaying to Phalanx. Medical is inbound with reinforcements. Try to keep him stable until they arrive. Over.</Original>
-              <Chinese>收到。我將轉發給Phalanx。醫療支援會跟援軍一起抵達。在他們抵達之前，試著讓他穩定下來。完畢。</Chinese>
-              <Chinesesimp>收到。我将转发给“密集阵”。医疗支援会跟援军一起抵达。在他们抵达之前，试着让他稳定下来。完毕。</Chinesesimp>
+              <Chinese>收到。我將轉發給"密集陣"。醫療支援會跟援軍一起抵達。在他們抵達之前，試著讓他穩定下來。完畢。</Chinese>
+              <Chinesesimp>收到。我将转发给"密集阵"。医疗支援会跟援军一起抵达。在他们抵达之前，试着让他稳定下来。完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="110_Treating" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="110_Treating" dubbingLanguage="english" namePrefix="boot_m04_110_treating" note="" participants="BOOT B Adams;BOOT B HQ;" situation="player is in the process of treating the aaf">
@@ -1096,20 +1096,20 @@
             </Key>
             <Key ID="str_a3_boot_m04_10_convoy_found_ada_1">
               <Original>Broadway, Alpha 1-1 Actual. We have a visual on the convoy. Grid 073-123. How copy? Over.</Original>
-              <Chinese>Broadway，這裡是Alpha1-1隊長。我們已經目視到車隊了。座標在073-123。有收到嗎?完畢。</Chinese>
-              <Chinesesimp>“百老汇”，这里是“阿尔法”1-1队长。我们已经目视到车队了。座标在073-123。有收到吗?完毕。</Chinesesimp>
+              <Chinese>Broadway，這裡是"阿爾法"1-1隊長。我們已經目視到車隊了。座標在073-123。有收到嗎?完畢。</Chinese>
+              <Chinesesimp>"百老汇"，这里是"阿尔法"1-1队长。我们已经目视到车队了。座标在073-123。有收到吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_10_convoy_found_bhq_0">
               <Original>1-1 Actual, Broadway. Copy. Dispatching reinforcements. Secure the area and await their arrival.</Original>
-              <Chinese>1-1隊長，Broadway。收到。已派遣援軍過去。肅清該區並等待他們的抵達。</Chinese>
-              <Chinesesimp>1-1队长，“百老汇”。收到。已派遣援军过去。肃清该区并等待他们的抵达。</Chinesesimp>
+              <Chinese>1-1隊長，"百老匯"。收到。已派遣援軍過去。肅清該區並等待他們的抵達。</Chinese>
+              <Chinesesimp>1-1队长，"百老汇"。收到。已派遣援军过去。肃清该区并等待他们的抵达。</Chinesesimp>
             </Key>
           </Container>
           <Container name="105_Report" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="105_Report" dubbingLanguage="english" namePrefix="boot_m04_105_report" note="" participants="BOOT B Adams;BOOT B HQ;" situation="adams reports wounded aaf to hq">
             <Key ID="str_a3_boot_m04_105_report_ada_0">
               <Original>Broadway, do you read? Over.</Original>
-              <Chinese>Broadway，你有收到嗎?完畢。</Chinese>
-              <Chinesesimp>“百老汇”，你有收到吗?完毕。</Chinesesimp>
+              <Chinese>"百老匯"，你有收到嗎?完畢。</Chinese>
+              <Chinesesimp>"百老汇"，你有收到吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_105_report_bhq_0">
               <Original>Confirmed, 1-1. Send traffic. Over.</Original>
@@ -1139,7 +1139,7 @@
           <Container name="03_Checkpoint" audioFilePath="\a3\dubbing_f_bootcamp\boot_m04" dialogName="03_Checkpoint" dubbingLanguage="english" namePrefix="boot_m04_03_checkpoint" note="" participants="BOOT B Adams;" situation="the helicopter passes the aaf checkpoint">
             <Key ID="str_a3_boot_m04_03_checkpoint_ada_0">
               <Original>There's the AAF's checkpoint.</Original>
-              <Chinese>那裡是AAF的檢查哨。</Chinese>
+              <Chinese>那裡是阿爾蒂斯武裝力量的檢查哨。</Chinese>
               <Chinesesimp>那里是阿尔蒂斯武装力量的检查哨。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_03_checkpoint_ada_1">
@@ -1186,7 +1186,7 @@
             </Key>
             <Key ID="str_a3_boot_m04_01_start_bhq_2">
               <Original>Negative. Nothing from the AAF or the guerrillas.</Original>
-              <Chinese>沒有。不管是AAF還是游擊隊，半點消息都沒有。</Chinese>
+              <Chinese>沒有。不管是阿爾蒂斯武裝力量還是游擊隊，半點消息都沒有。</Chinese>
               <Chinesesimp>没有。不管是阿尔蒂斯武装力量还是游击队，半点消息都没有。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m04_01_start_bhq_3">
@@ -1234,7 +1234,7 @@
         <Container name="BOOT_m02">
           <Key ID="str_a3_boot_m02_sitrep_3">
             <Original>BEFORE STRATIS INCIDENT</Original>
-            <Chinese>STRATIS變故前</Chinese>
+            <Chinese>斯特拉蒂斯變故前</Chinese>
             <Chinesesimp>斯特拉蒂斯事件一年前</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_sitrep_2">
@@ -1244,12 +1244,12 @@
           </Key>
           <Key ID="str_a3_boot_m02_sitrep_1">
             <Original>KORE, WESTERN ALTIS</Original>
-            <Chinese>KORE，ALTIS西方</Chinese>
+            <Chinese>科雷，阿爾蒂斯西方</Chinese>
             <Chinesesimp>科雷，阿尔蒂斯西部</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_overview">
             <Original>NATO peacekeepers conduct joint training exercises with members of the AAF.</Original>
-            <Chinese>NATO維和部隊正與AAF的士兵進行聯合訓練演習。</Chinese>
+            <Chinese>北約維和部隊正與阿爾蒂斯武裝力量的士兵進行聯合訓練演習。</Chinese>
             <Chinesesimp>北约维和部队正与阿尔蒂斯武装力量的士兵进行联合训练。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_mission_name">
@@ -1259,8 +1259,8 @@
           </Key>
           <Key ID="str_a3_boot_m02_briefing_situation_text">
             <Original>Peacekeeping efforts continue in The Republic of Altis and Stratis following the Civil War. Although some progress has been made, the newly-established government still faces serious obstacles, namely the inexperience of the Altis Armed Forces, or AAF for short.%1Officially, NATO Peacekeepers, primarily stationed on Stratis, have been seconded to Altis to cooperate and consult with the AAF. Unofficially, they have been assisting with training members of the AAF in order to ensure their ability to maintain security within the Republic itself.%2Recently, however, member states of CSAT have expressed interest in the Republic, further increasing already-heightened global tensions with NATO.</Original>
-            <Chinese>維和行動持續在剛經歷過內戰的Altis和Stratis共和國上進行著。儘管安全已經有些進展，但新成立的政府仍面臨嚴峻的考驗，他們的軍隊全名是Altis政府軍，簡稱AAF。%1表面上來說，NATO的維和部隊只駐紮在Stratis，但他們現在被調派到Altis主島上來與AAF進行合作。事實上，他們私底下仍持續訓練著AAF的士兵，好讓他們有能力自己維持島嶼的和平。%2然而，最近CSAT的會員國逐漸展現出對這個小共和國的興趣，使本已緊張的局勢更進一步升高。</Chinese>
-            <Chinesesimp>维和行动在刚经历过内战的阿尔蒂斯和斯特拉蒂斯共和国内继续进行。尽管已经有了一些进展，但新成立的政府仍面临严峻的考验，特别缺乏经验的政府军，阿尔蒂斯武装力量。%1表面上来说，虽然北约维和部队基本只驻扎在斯特拉蒂斯，在阿尔蒂斯岛上只作为合作并提供顾问意见的次要力量。不过从非官方角度上，他们仍持续训练着阿尔蒂斯武装力量的士兵，以便让他们有能力自己维持共和国的和平。%2然而，最近广东协议同盟组织的成员国逐渐展现出对这个小共和国的兴趣，使本已紧张的局势进一步加剧。</Chinesesimp>
+            <Chinese>維和行動持續在剛經歷過內戰的阿爾蒂斯和斯特拉蒂斯共和國上進行著。儘管安全已經有些進展，但新成立的政府仍面臨嚴峻的考驗，他們的軍隊全名是阿爾蒂斯武裝力量，簡稱AAF。%1表面上來說，北約的維和部隊只駐紮在斯特拉蒂斯，但他們現在被調派到阿尔蒂斯主島上來與阿爾蒂斯武裝力量進行合作。事實上，他們私底下仍持續訓練著阿爾蒂斯武裝力量的士兵，好讓他們有能力自己維持島嶼的和平。%2然而，最近廣東協議同盟的會員國逐漸展現出對這個小共和國的興趣，使本已緊張的局勢更進一步升高。</Chinese>
+            <Chinesesimp>维和行动在刚经历过内战的阿尔蒂斯和斯特拉蒂斯共和国内继续进行。尽管已经有了一些进展，但新成立的政府仍面临严峻的考验，特别缺乏经验的政府军，阿尔蒂斯武装力量，简称AAF。%1表面上来说，虽然北约维和部队基本只驻扎在斯特拉蒂斯，在阿尔蒂斯岛上只作为合作并提供顾问意见的次要力量。不过从非官方角度上，他们仍持续训练着阿尔蒂斯武装力量的士兵，以便让他们有能力自己维持共和国的和平。%2然而，最近广东协议同盟组织的成员国逐渐展现出对这个小共和国的兴趣，使本已紧张的局势进一步加剧。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m02_bis_tank_title">
             <Original>Run to the Tank</Original>
@@ -1762,7 +1762,7 @@
             </Key>
             <Key ID="str_a3_boot_m02_15_introduction_ada_1">
               <Original>I'm Staff Sergeant Adams, this is Sergeant Conway. We'll be your cabin crew for today.</Original>
-              <Chinese>我是上士Adams，而這位是中士Conway。我們今天將是你們的服務員。</Chinese>
+              <Chinese>我是上士亞當斯，而這位是中士康維。我們今天將是你們的服務員。</Chinese>
               <Chinesesimp>我是上士亚当斯，而这位是中士康维。我们今天将是你们的服务员。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m02_15_introduction_ada_2">
@@ -1806,7 +1806,7 @@
             </Key>
             <Key ID="str_a3_boot_m02_10_assembled_isb_0">
               <Original>CSAT targets? Really?</Original>
-              <Chinese>CSAT目標?沒開玩笑吧?</Chinese>
+              <Chinese>廣協同盟目標?沒開玩笑吧?</Chinese>
               <Chinesesimp>广协同盟靶子?没搞错吧?</Chinesesimp>
             </Key>
           </Container>
@@ -1839,7 +1839,7 @@
           <Container name="01_Start" audioFilePath="\a3\dubbing_f_bootcamp\boot_m02" dialogName="01_Start" dubbingLanguage="english" namePrefix="boot_m02_01_start" note="" participants="BOOT B Adams;" situation="adams tells the player to come to him">
             <Key ID="str_a3_boot_m02_01_start_ada_0">
               <Original>On me, Conway.</Original>
-              <Chinese>過來，Conway。</Chinese>
+              <Chinese>過來，康維。</Chinese>
               <Chinesesimp>过来，康维。</Chinesesimp>
             </Key>
           </Container>
@@ -1965,7 +1965,7 @@
           <Container name="x20_Ammo_Depleted_2" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="x20_Ammo_Depleted_2" dubbingLanguage="english" namePrefix="boot_m01_x20_ammo_depleted_2" note="" participants="BOOT B Adams;" situation="player runs out of ammo">
             <Key ID="str_a3_boot_m01_x20_ammo_depleted_2_ada_0">
               <Original>Hope you don't waste rounds like this in the real world, Conway.</Original>
-              <Chinese>我希望你在現實世界中不會像在這邊一樣浪費彈藥，Conway。</Chinese>
+              <Chinese>我希望你在現實世界中不會像在這邊一樣浪費彈藥，康維。</Chinese>
               <Chinesesimp>我希望你在现实世界中不会像在这边一样浪费弹药，康维。</Chinesesimp>
             </Key>
           </Container>
@@ -1979,7 +1979,7 @@
           <Container name="x10_Adams_Shot_3" audioFilePath="\a3\dubbing_f_bootcamp\boot_m01" dialogName="x10_Adams_Shot_3" dubbingLanguage="english" namePrefix="boot_m01_x10_adams_shot_3" note="" participants="BOOT B Adams;" situation="player tries to shoot adams">
             <Key ID="str_a3_boot_m01_x10_adams_shot_3_ada_0">
               <Original>Come on, cut it out, Conway.</Original>
-              <Chinese>夠了，不要這樣，Conway。</Chinese>
+              <Chinese>夠了，不要這樣，康維。</Chinese>
               <Chinesesimp>够了，住手吧，康维。</Chinesesimp>
             </Key>
           </Container>
@@ -2095,7 +2095,7 @@
             </Key>
             <Key ID="str_a3_boot_m01_65_interruption_ada_1">
               <Original>Uh... Yes, this is Staff Sergeant Adams. Send it.</Original>
-              <Chinese>呵...是，這裡是上士Adams。請說。</Chinese>
+              <Chinese>呵...是，這裡是上士亞當斯。請說。</Chinese>
               <Chinesesimp>呵...是，这里是上士亚当斯。请说。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m01_65_interruption_ada_2">
@@ -2110,7 +2110,7 @@
             </Key>
             <Key ID="str_a3_boot_m01_65_interruption_ada_4">
               <Original>AAF morons...</Original>
-              <Chinese>白癡AAF...</Chinese>
+              <Chinese>白癡阿爾蒂斯武裝力量...</Chinese>
               <Chinesesimp>阿尔蒂斯武装力量那帮白痴...</Chinesesimp>
             </Key>
           </Container>
@@ -2289,8 +2289,8 @@
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_vehicles_challenge_8_description">
             <Original>Make sure your recruits move in convoy. Vehicles must be at a range of 50 meters between each other, vehicles must be moving at a minimum of 5 km/h, the maximum direction offset of vehicles is 100 degrees and the vehicles must be driving on a road.</Original>
-            <Chinese>請確保你新兵的載具開在車隊中間。載具間隔必須保持在50公尺左右，速度維持在最小的5km/h，最大偏移量不超過100度，並且不要開到道路之外。</Chinese>
-            <Chinesesimp>请确保你新兵的载具开在车队中间。载具间隔必须保持在50公尺左右，速度维持在最小的5km/h，最大偏移量不超过100度，并且不要开到道路之外。</Chinesesimp>
+            <Chinese>請確保你新兵的載具開在車隊中間。載具間隔必須保持在50公尺左右，速度維持在最小的5公里/小時，最大偏移量不超過100度，並且不要開到道路之外。</Chinese>
+            <Chinesesimp>请确保你新兵的载具开在车队中间。载具间隔必须保持在50米左右，速度维持在最小的5千米/小时，最大偏移量不超过100度，并且不要开到道路之外。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_vehicles_challenge_7_title">
             <Original>Boarding as driver</Original>
@@ -2324,13 +2324,13 @@
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_vehicles_challenge_4_title">
             <Original>Board Hunter</Original>
-            <Chinese>進入Hunter</Chinese>
-            <Chinesesimp>进入“猎人”</Chinesesimp>
+            <Chinese>進入"獵人"</Chinese>
+            <Chinesesimp>进入"猎人"</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_vehicles_challenge_4_description">
             <Original>Create a Hunter and make sure all your Recruits board it.</Original>
-            <Chinese>創建一臺Hunter，並讓你的新兵進入它。</Chinese>
-            <Chinesesimp>创建一台“猎人”，并让你的新兵进入它。</Chinesesimp>
+            <Chinese>創建一臺"獵人"，並讓你的新兵進入它。</Chinese>
+            <Chinesesimp>创建一台"猎人"，并让你的新兵进入它。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_vehicles_challenge_3_title">
             <Original>Bike Course</Original>
@@ -2339,8 +2339,8 @@
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_vehicles_challenge_3_description">
             <Original>Each Recruit must finish the Vehicle Obstacle Course with the quad bike under 1 minute and 10 seconds.</Original>
-            <Chinese>每名新兵必須使用四輪摩托車來完成障礙場，而成績必須低於1分10秒。</Chinese>
-            <Chinesesimp>每名新兵必须使用四轮摩托车来完成障碍场，而成绩必须低于1分10秒。</Chinesesimp>
+            <Chinese>每名新兵必須使用四輪摩托車來完成障礙場，而成績必須低於1分鈡10秒。</Chinese>
+            <Chinesesimp>每名新兵必须使用四轮摩托车来完成障碍场，而成绩必须低于1分钟10秒。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_vehicles_challenge_2_title">
             <Original>Board Bike</Original>
@@ -2379,7 +2379,7 @@
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_infantry_challenge_9_description">
             <Original>A small enemy recon team spotted near Antharakia, guide your Recruits to the designated position without being detected by the enemy units.</Original>
-            <Chinese>一小支敵人的巡邏隊在Antharakia附近出沒，引導你的新兵前往指定的位置，不要被敵人發現了。</Chinese>
+            <Chinese>一小支敵人的巡邏隊在阿塔拉基亞附近出沒，引導你的新兵前往指定的位置，不要被敵人發現了。</Chinese>
             <Chinesesimp>一小支敌人的巡逻队在阿塔拉基亚附近出没，引导你的新兵前往指定的位置且不要被敌人发现。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_stage_infantry_challenge_8_title">
@@ -2619,7 +2619,7 @@
           </Key>
           <Key ID="str_a3_mp_bootcamp_briefing_recruit_recruit_description">
             <Original>Welcome to the Bootcamp,&lt;br /&gt;&lt;br /&gt;NATO is in the process of providing us with their knowhow in the military field by training freshly arrived Recruits in order to make sure we, the local army, are able to keep security of our island intact.</Original>
-            <Chinese>歡迎來到新兵訓練，&lt;br/&gt;&lt;br/&gt;NATO的維和部隊正與政府軍進行聯合訓練中，為了使成立不久的政府軍有能力可以自己守衛他們的島嶼。</Chinese>
+            <Chinese>歡迎來到新兵訓練，&lt;br/&gt;&lt;br/&gt;北約的維和部隊正與政府軍進行聯合訓練中，為了使成立不久的政府軍有能力可以自己守衛他們的島嶼。</Chinese>
             <Chinesesimp>欢迎来到新兵训练，&lt;br/&gt;&lt;br/&gt;北约的维和部队正与政府军进行联合训练中，为了使成立不久的政府军有能力可以自己守卫他们的岛屿。</Chinesesimp>
           </Key>
           <Key ID="str_a3_mp_bootcamp_briefing_recruit_obstaclecourses_description">
@@ -2691,7 +2691,7 @@
         <Container name="BOOT_m03">
           <Key ID="str_a3_boot_m03_overview">
             <Original>Members of the AAF require assistance from NATO peacekeepers.</Original>
-            <Chinese>AAF的隊員向NATO維和部隊請求支援。</Chinese>
+            <Chinese>阿爾蒂斯武裝力量的隊員向北約維和部隊請求支援。</Chinese>
             <Chinesesimp>阿尔蒂斯武装力量人员向北约维和部队请求支援。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m03_mission_name">
@@ -2701,7 +2701,7 @@
           </Key>
           <Key ID="str_a3_boot_m03_briefing_situation_text">
             <Original>While on a training exercise, NATO peacekeepers have been contacted by nearby AAF.</Original>
-            <Chinese>正當訓練進行時，NATO維和部隊接獲到附近AAF部隊的支援請求。</Chinese>
+            <Chinese>正當訓練進行時，北約維和部隊接獲到附近阿爾蒂斯武裝力量部隊的支援請求。</Chinese>
             <Chinesesimp>正当训练进行中，北约维和部队接到了附近阿尔蒂斯武装力量部队的支援请求。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m03_bis_search_title">
@@ -2731,17 +2731,17 @@
           </Key>
           <Key ID="str_a3_boot_m03_bis_return_desc">
             <Original>Regroup with %1Staff Sergeant Adams%2.</Original>
-            <Chinese>返回到%1上士Adams%2旁邊。</Chinese>
+            <Chinese>返回到%1上士亞當斯%2旁邊。</Chinese>
             <Chinesesimp>返回到%1上士亚当斯%2旁边。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m03_bis_locate_title">
             <Original>Locate the AAF</Original>
-            <Chinese>找到AAF</Chinese>
+            <Chinese>找到阿爾蒂斯武裝力量</Chinese>
             <Chinesesimp>找到阿尔蒂斯武装力量部队</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m03_bis_locate_desc">
             <Original>Use the information provided to find the location of the AAF.</Original>
-            <Chinese>使用AAF他們提供的情報，進而定位出他們的地點。</Chinese>
+            <Chinese>使用阿爾蒂斯武裝力量他們提供的情報，進而定位出他們的地點。</Chinese>
             <Chinesesimp>使用阿尔蒂斯武装力量人员提供的情报，定位出他们的地点。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m03_bis_getout_title">
@@ -2751,13 +2751,13 @@
           </Key>
           <Key ID="str_a3_boot_m03_bis_getout_desc">
             <Original>Leave the Hunter.</Original>
-            <Chinese>離開“獵人”。</Chinese>
-            <Chinesesimp>离开“猎人”。</Chinesesimp>
+            <Chinese>離開"獵人"。</Chinese>
+            <Chinesesimp>离开"猎人"。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m03_bis_getin_title">
             <Original>Board the Hunter</Original>
-            <Chinese>搭乘“獵人”</Chinese>
-            <Chinesesimp>搭乘“猎人”</Chinesesimp>
+            <Chinese>搭乘"獵人"</Chinese>
+            <Chinesesimp>搭乘"猎人"</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m03_bis_getin_marker">
             <Original>GET IN</Original>
@@ -2766,12 +2766,12 @@
           </Key>
           <Key ID="str_a3_boot_m03_bis_getin_desc">
             <Original>Get in the Hunter as the driver.</Original>
-            <Chinese>進入“獵人”並擔當駕駛。</Chinese>
-            <Chinesesimp>进入“猎人”并担任驾驶。</Chinesesimp>
+            <Chinese>進入"獵人"並擔當駕駛。</Chinese>
+            <Chinesesimp>进入"猎人"并担任驾驶。</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m03_bis_drive_title">
             <Original>Drive to the AAF</Original>
-            <Chinese>駛往AAF那裡</Chinese>
+            <Chinese>駛往阿爾蒂斯武裝力量那裡</Chinese>
             <Chinesesimp>驶往阿尔蒂斯武装力量人员那里</Chinesesimp>
           </Key>
           <Key ID="str_a3_boot_m03_bis_drive_marker">
@@ -2781,7 +2781,7 @@
           </Key>
           <Key ID="str_a3_boot_m03_bis_drive_desc">
             <Original>Drive your team to %1the AAF%2.</Original>
-            <Chinese>開車載你的隊友前往%1AAF%2那邊。</Chinese>
+            <Chinese>開車載你的隊友前往%1阿爾蒂斯武裝力量%2那邊。</Chinese>
             <Chinesesimp>开车载你的小组前往%1阿尔蒂斯武装力量人员%2的位置。</Chinesesimp>
           </Key>
           <Container name="x60_Already_Cleared" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="x60_Already_Cleared" dubbingLanguage="english" namePrefix="boot_m03_x60_already_cleared" note="" participants="BOOT B Lacey;" situation="player checks the building that was already cleared">
@@ -2863,35 +2863,35 @@
           <Container name="x20_Mark_Hill_Wrong_1" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="x20_Mark_Hill_Wrong_1" dubbingLanguage="english" namePrefix="boot_m03_x20_mark_hill_wrong_1" note="" participants="BOOT B Adams;" situation="player takes too long or marks the wrong location">
             <Key ID="str_a3_boot_m03_x20_mark_hill_wrong_1_ada_0">
               <Original>A hill with a chapel, Sergeant. Southwest of Syrta.</Original>
-              <Chinese>一個有禮拜堂的小山，中士。Syrta的西南方。</Chinese>
+              <Chinese>一個有禮拜堂的小山，中士。西爾塔的西南方。</Chinese>
               <Chinesesimp>一个有礼拜堂的小山，中士。西尔塔的西南方。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x15_Mark_Town_Wrong_2" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="x15_Mark_Town_Wrong_2" dubbingLanguage="english" namePrefix="boot_m03_x15_mark_town_wrong_2" note="" participants="BOOT B Adams;" situation="player takes too long or marks the wrong location again">
             <Key ID="str_a3_boot_m03_x15_mark_town_wrong_2_ada_0">
               <Original>Conway. Syrta. Big letters. Mark it.</Original>
-              <Chinese>Conway。Syrta。那個大字。標記上去。</Chinese>
+              <Chinese>康維。西爾塔。那個大字。標記上去。</Chinese>
               <Chinesesimp>康维。西尔塔。那个大字。标记上去。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x10_Mark_Town_Wrong_1" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="x10_Mark_Town_Wrong_1" dubbingLanguage="english" namePrefix="boot_m03_x10_mark_town_wrong_1" note="" participants="BOOT B Adams;" situation="player takes too long or marks the wrong location">
             <Key ID="str_a3_boot_m03_x10_mark_town_wrong_1_ada_0">
               <Original>Syrta, Sergeant. 3 klicks to the northeast.</Original>
-              <Chinese>Syrta，中士。東北方3公里。</Chinese>
+              <Chinese>西爾塔，中士。東北方3公里。</Chinese>
               <Chinesesimp>西尔塔，中士。东北方3公里。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x05_Mark_Start_Wrong_2" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="x05_Mark_Start_Wrong_2" dubbingLanguage="english" namePrefix="boot_m03_x05_mark_start_wrong_2" note="" participants="BOOT B Adams;" situation="player takes too long or marks the wrong location again">
             <Key ID="str_a3_boot_m03_x05_mark_start_wrong_2_ada_0">
               <Original>Right there, Conway, for God's sake.</Original>
-              <Chinese>在那裡，Conway，爭氣點。</Chinese>
+              <Chinese>在那裡，康維，爭氣點。</Chinese>
               <Chinesesimp>在那里，康维，争气点。</Chinesesimp>
             </Key>
           </Container>
           <Container name="x01_Mark_Start_Wrong_1" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="x01_Mark_Start_Wrong_1" dubbingLanguage="english" namePrefix="boot_m03_x01_mark_start_wrong_1" note="" participants="BOOT B Adams;" situation="player takes too long or marks the wrong location">
             <Key ID="str_a3_boot_m03_x01_mark_start_wrong_1_ada_0">
               <Original>Conway. 066-159.</Original>
-              <Chinese>Conway。066-159。</Chinese>
+              <Chinese>康維。066-159。</Chinese>
               <Chinesesimp>康维。066-159。</Chinesesimp>
             </Key>
           </Container>
@@ -2903,8 +2903,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_d05_returned_ada_1">
               <Original>I let Broadway know what's going on. We've been ordered back to base.</Original>
-              <Chinese>我已經讓Broadway知道這裡的事情了。我們已經被下令返回基地了。</Chinese>
-              <Chinesesimp>我会让“百老汇”知道这里的事情。我们已经被下令返回基地了。</Chinesesimp>
+              <Chinese>我已經讓"百老匯"知道這裡的事情了。我們已經被下令返回基地了。</Chinese>
+              <Chinesesimp>我会让"百老汇"知道这里的事情。我们已经被下令返回基地了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_d05_returned_lac_0">
               <Original>Status?</Original>
@@ -3042,7 +3042,7 @@
             </Key>
             <Key ID="str_a3_boot_m03_95_left_2_ada_1">
               <Original>Take the left, Conway. Around the town.</Original>
-              <Chinese>先左轉吧，Conway。繞過城鎮。</Chinese>
+              <Chinese>先左轉吧，康維。繞過城鎮。</Chinese>
               <Chinesesimp>先左转吧，康维。绕过城镇。</Chinesesimp>
             </Key>
           </Container>
@@ -3068,7 +3068,7 @@
             </Key>
             <Key ID="str_a3_boot_m03_80_get_in_ada_1">
               <Original>Conway, you're driving.</Original>
-              <Chinese>Conway，你開車。</Chinese>
+              <Chinese>康維，你開車。</Chinese>
               <Chinesesimp>康维，你开车。</Chinesesimp>
             </Key>
           </Container>
@@ -3179,20 +3179,20 @@
           <Container name="45_Town_Marked" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="45_Town_Marked" dubbingLanguage="english" namePrefix="boot_m03_45_town_marked" note="" participants="BOOT B Adams;" situation="the player marked the town correctly">
             <Key ID="str_a3_boot_m03_45_town_marked_ada_0">
               <Original>Now, let's draw a line going west from Syrta.</Original>
-              <Chinese>現在，讓我們在Syrta的西方畫一條線。</Chinese>
+              <Chinese>現在，讓我們在西爾塔的西方畫一條線。</Chinese>
               <Chinesesimp>现在，让我们从西尔塔向西画一条线。</Chinesesimp>
             </Key>
           </Container>
           <Container name="40_Mark_Town" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="40_Mark_Town" dubbingLanguage="english" namePrefix="boot_m03_40_mark_town" note="" participants="BOOT B Adams;BOOT I Soldier B;" situation="adams tells the player to mark the town">
             <Key ID="str_a3_boot_m03_40_mark_town_ada_0">
               <Original>Alright, Sergeant, stick a marker on Syrta. It should be about 3 klicks to the northeast.</Original>
-              <Chinese>好的，中士，請標記一個點在Syrta上。它應該在我們東北方3千米左右。</Chinese>
+              <Chinese>好的，中士，請標記一個點在西爾塔上。它應該在我們東北方3公里左右。</Chinese>
               <Chinesesimp>好的，中士，请在西尔塔上标一个点。它应该在我们东北方3千米左右。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_40_mark_town_ada_1">
               <Original>... 3 kilometers, in other words.</Original>
               <Chinese>...3公里，也可這麼說。</Chinese>
-              <Chinesesimp>...3公里，也可这么说。</Chinesesimp>
+              <Chinesesimp>...3千米，也可这么说。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_40_mark_town_isb_0">
               <Original>Klicks?</Original>
@@ -3223,7 +3223,7 @@
             </Key>
             <Key ID="str_a3_boot_m03_35_info_isa_1">
               <Original>Well... We know that we are west of Syrta. We drove through it.</Original>
-              <Chinese>這個嗎...我們知道我們是在Syrta的西方。我們剛剛有經過它。</Chinese>
+              <Chinese>這個嗎...我們知道我們是在西爾塔的西方。我們剛剛有經過它。</Chinese>
               <Chinesesimp>好吧...我们知道我们是在西尔塔的西方。我们刚刚有经过它。</Chinesesimp>
             </Key>
           </Container>
@@ -3266,7 +3266,7 @@
           <Container name="15_Map" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="15_Map" dubbingLanguage="english" namePrefix="boot_m03_15_map" note="" participants="BOOT B Adams;" situation="adams tells the player to open his map">
             <Key ID="str_a3_boot_m03_15_map_ada_0">
               <Original>Bring up your map, Conway.</Original>
-              <Chinese>打開你的地圖，Conway。</Chinese>
+              <Chinese>打開你的地圖，康維。</Chinese>
               <Chinesesimp>打开你的地图，康维。</Chinesesimp>
             </Key>
           </Container>
@@ -3290,7 +3290,7 @@
             </Key>
             <Key ID="str_a3_boot_m03_145_stash_found_lac_0">
               <Original>Adams, I've got a weapon stash here. Small arms and explosives. Definitely guerrilla. Over.</Original>
-              <Chinese>Adams，我這裡找到了一個武器箱。小型武器與一些炸藥。絕對是屬於游擊隊的。完畢。</Chinese>
+              <Chinese>亞當斯，我這裡找到了一個武器箱。小型武器與一些炸藥。絕對是屬於游擊隊的。完畢。</Chinese>
               <Chinesesimp>亚当斯，我这里找到了一个武器库。轻武器和炸药。绝对是游击队。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_145_stash_found_lac_1">
@@ -3349,18 +3349,18 @@
           <Container name="110_SITREP" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="110_SITREP" dubbingLanguage="english" namePrefix="boot_m03_110_sitrep" note="" participants="BOOT B Adams;BOOT B HQ;BOOT I HQ;BOOT B Soldier A;" situation="adams asks hq about the earthquake">
             <Key ID="str_a3_boot_m03_110_sitrep_ada_0">
               <Original>Keep driving. I'll check with MacKinnon.</Original>
-              <Chinese>繼續開。讓我來跟MacKinnon確認一下。</Chinese>
+              <Chinese>繼續開。讓我來跟麥金農確認一下。</Chinese>
               <Chinesesimp>继续开。让我来跟麦金农确认一下。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_110_sitrep_ada_1">
               <Original>Broadway, Alpha 1-1 Actual. Was that what I think it was? Over.</Original>
-              <Chinese>Broadway，這裡是Alpha1-1隊長。地震應該沒啥事吧?完畢。</Chinese>
-              <Chinesesimp>“百老汇”，这里是“阿尔法”1-1领队。这会是我想的那样吗?完毕。</Chinesesimp>
+              <Chinese>"百老匯"，這裡是"阿爾法"1-1隊長。地震應該沒啥事吧?完畢。</Chinese>
+              <Chinesesimp>"百老汇"，这里是"阿尔法"1-1领队。这会是我想的那样吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_110_sitrep_ada_2">
               <Original>Copy, Broadw-</Original>
-              <Chinese>收到，Broadw-</Chinese>
-              <Chinesesimp>收到，“百老-</Chinesesimp>
+              <Chinese>收到，"百老-</Chinese>
+              <Chinesesimp>收到，"百老-</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_110_sitrep_ada_3">
               <Original>Yeah, we got it, Colonel. 1-1 out.</Original>
@@ -3379,8 +3379,8 @@
             </Key>
             <Key ID="str_a3_boot_m03_110_sitrep_ihq_0">
               <Original>Phalanx to all units, we just experienced a light earthquake. Do not be alarmed. Return to your posts and resume your duties. Out.</Original>
-              <Chinese>Phalanx致所有單位，我們剛經歷了一場小地震。不要驚慌。請返回繼續做自己的任務。通話完畢。</Chinese>
-              <Chinesesimp>“密集阵”致所有单位，我们刚经历了一场小地震。不要惊慌。返回岗位继续执行任务。通话完毕。</Chinesesimp>
+              <Chinese>"密集陣"致所有單位，我們剛經歷了一場小地震。不要驚慌。請返回繼續做自己的任務。通話完畢。</Chinese>
+              <Chinesesimp>"密集阵"致所有单位，我们刚经历了一场小地震。不要惊慌。返回岗位继续执行任务。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_110_sitrep_bsa_0">
               <Original>Guess some Greenbacks must have shit themselves.</Original>
@@ -3408,7 +3408,7 @@
             </Key>
             <Key ID="str_a3_boot_m03_105_earthquake_bsa_1">
               <Original>For the record, I'm blaming CSAT.</Original>
-              <Chinese>幫我記一下，這筆帳算在CSAT的頭上。</Chinese>
+              <Chinese>幫我記一下，這筆帳算在廣協同盟的頭上。</Chinese>
               <Chinesesimp>我把话讲清，我觉得肯定是广协同盟干的。</Chinesesimp>
             </Key>
           </Container>
@@ -3435,7 +3435,7 @@
             <Key ID="str_a3_boot_m03_01_start_ada_0">
               <Original>What do you mean 'incident'? Send us your grid. Over.</Original>
               <Chinese>你的'意外'是什麼意思?請給我你們的座標。完畢。</Chinese>
-              <Chinesesimp>你说的“事件”是什么意思?请给我你们的座标。完毕。</Chinesesimp>
+              <Chinesesimp>你说的"事件"是什么意思?请给我你们的座标。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_boot_m03_01_start_ada_1">
               <Original>Say again? Why not? Over.</Original>
@@ -3485,7 +3485,7 @@
           <Container name="40_Mark_Hill" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="40_Mark_Hill" dubbingLanguage="english" namePrefix="boot_m03_40_mark_hill" note="" participants="BOOT B Adams;" situation="adams tells lacey to mark the hill">
             <Key ID="str_a3_boot_m03_40_mark_hill_ada_0">
               <Original>Sounds like that's probably southwest from Syrta. Think you can locate?</Original>
-              <Chinese>聽起來那山應該在Syrta西南方。你有找到嗎?</Chinese>
+              <Chinese>聽起來那山應該在西爾塔西南方。你有找到嗎?</Chinese>
               <Chinesesimp>听起来那山应该在西尔塔西南方。你有找到吗?</Chinesesimp>
             </Key>
           </Container>
@@ -3523,8 +3523,8 @@
           <Container name="20_Mark_Town" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="20_Mark_Town" dubbingLanguage="english" namePrefix="boot_m03_20_mark_town" note="" participants="BOOT B Adams;" situation="adams tells him to mark syrta">
             <Key ID="str_a3_boot_m03_20_mark_town_ada_0">
               <Original>Now stick one on Syrta. It should be about 3 klicks northeast of us.</Original>
-              <Chinese>現在標記一個點在Syrta上。它大概距離我們東北方3公里左右。</Chinese>
-              <Chinesesimp>现在标记一个点在Syrta上。它大概距离我们东北方3公里左右。</Chinesesimp>
+              <Chinese>現在標記一個點在西爾塔上。它大概距離我們東北方3公里左右。</Chinese>
+              <Chinesesimp>现在标记一个点在西尔塔上。它大概距离我们东北方3公里左右。</Chinesesimp>
             </Key>
           </Container>
           <Container name="15_Mark_Start" audioFilePath="\a3\dubbing_f_bootcamp\boot_m03" dialogName="15_Mark_Start" dubbingLanguage="english" namePrefix="boot_m03_15_mark_start" note="" participants="BOOT B Adams;" situation="adams tells him to mark their location">
@@ -3550,7 +3550,7 @@
           </Key>
           <Key ID="STR_A3_Arsenal_overviewText">
             <Original>Try every weapon, item and vehicle Arma 3 has to offer.</Original>
-            <Chinese>試用ArmA3提供的各式裝備，武器及載具。</Chinese>
+            <Chinese>試用武裝突襲3提供的各式裝備，武器及載具。</Chinese>
             <Chinesesimp>试用武装突袭3提供的各式装备，武器及载具。</Chinesesimp>
           </Key>
         </Container>
@@ -4036,22 +4036,22 @@
             </Key>
             <Key ID="str_a3_vr_ballistics_stage4_title">
               <Original>12.7 mm</Original>
-              <Chinese>12。7mm</Chinese>
-              <Chinesesimp>12。7毫米</Chinesesimp>
+              <Chinese>12.7公厘</Chinese>
+              <Chinesesimp>12.7毫米</Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_ballistics_stage3_title">
               <Original>7.62 mm</Original>
-              <Chinese>7.62mm</Chinese>
+              <Chinese>7.62公厘</Chinese>
               <Chinesesimp>7.62毫米</Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_ballistics_stage2_title">
               <Original>5.56 mm</Original>
-              <Chinese>5.56mm</Chinese>
+              <Chinese>5.56公厘</Chinese>
               <Chinesesimp>5.56毫米</Chinesesimp>
             </Key>
             <Key ID="str_a3_vr_ballistics_stage1_title">
               <Original>9 mm</Original>
-              <Chinese>9mm</Chinese>
+              <Chinese>9公厘</Chinese>
               <Chinesesimp>9毫米</Chinesesimp>
             </Key>
           </Container>
@@ -4359,7 +4359,7 @@
           </Key>
           <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m13_guer">
             <Original>Zeus 16+2 Master Virtual Reality (AAF)</Original>
-            <Chinese>宙斯16+2主宰虛擬實境(Altis政府軍)</Chinese>
+            <Chinese>宙斯16+2主宰虛擬實境(阿爾蒂斯武裝力量)</Chinese>
             <Chinesesimp>宙斯16+2主宰虚拟实境(阿尔蒂斯政府军)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmissions_mpmissions_mp_zgm_m13_west">
@@ -4372,12 +4372,12 @@
       <Container name="Identities">
         <Key ID="STR_A3_CfgIdentities_AAF_Soldier">
           <Original>AAF Soldier</Original>
-          <Chinese>AAF士兵</Chinese>
+          <Chinese>阿爾蒂斯武裝力量士兵</Chinese>
           <Chinesesimp>阿尔蒂斯武装力量士兵</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CfgIdentities_AAF_Officer">
           <Original>AAF Officer</Original>
-          <Chinese>AAF軍官</Chinese>
+          <Chinese>阿爾蒂斯武裝力量軍官</Chinese>
           <Chinesesimp>阿尔蒂斯武装力量军官</Chinesesimp>
         </Key>
       </Container>

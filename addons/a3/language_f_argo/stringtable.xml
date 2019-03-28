@@ -668,42 +668,42 @@
         <Container name="Accessories">
           <Key ID="str_a3_land_phonebooth_02_f0">
             <Original>Phone Booth (Altis, Tagged)</Original>
-            <Chinese>電話亭(Altis，塗鴉)</Chinese>
+            <Chinese>電話亭(阿爾蒂斯，塗鴉)</Chinese>
             <Chinesesimp>电话亭(阿尔蒂斯，涂鸦)</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_phonebooth_01_f0">
             <Original>Phone Booth (Altis, Clean)</Original>
-            <Chinese>電話亭(Altis，乾淨)</Chinese>
+            <Chinese>電話亭(阿爾蒂斯，乾淨)</Chinese>
             <Chinesesimp>电话亭(阿尔蒂斯，干净)</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_atm_02_f0">
             <Original>ATM (Altis, Sheltered)</Original>
-            <Chinese>ATM提款機(Altis，遮棚)</Chinese>
+            <Chinese>ATM提款機(阿爾蒂斯，遮棚)</Chinese>
             <Chinesesimp>ATM提款机(阿尔蒂斯，遮棚)</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_atm_01_f0">
             <Original>ATM (Altis)</Original>
-            <Chinese>ATM提款機(Altis)</Chinese>
+            <Chinese>ATM提款機(阿爾蒂斯)</Chinese>
             <Chinesesimp>ATM提款机(阿尔蒂斯)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_phonebooth_02_malden_f0">
             <Original>Phone Booth (Malden, Tagged)</Original>
-            <Chinese>電話亭(Malden，塗鴉)</Chinese>
+            <Chinese>電話亭(馬爾登，塗鴉)</Chinese>
             <Chinesesimp>电话亭(马尔登，涂鸦)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_phonebooth_01_malden_f0">
             <Original>Phone Booth (Malden, Clean)</Original>
-            <Chinese>電話亭(Malden，乾淨)</Chinese>
+            <Chinese>電話亭(馬爾登，乾淨)</Chinese>
             <Chinesesimp>电话亭(马尔登，干净)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_atm_02_malden_f0">
             <Original>ATM (Malden, Sheltered)</Original>
-            <Chinese>ATM提款機(Malden，遮棚)</Chinese>
+            <Chinese>ATM提款機(馬爾登，遮棚)</Chinese>
             <Chinesesimp>ATM提款机(马尔登，遮棚)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_atm_01_malden_f0">
             <Original>ATM (Malden)</Original>
-            <Chinese>ATM提款機(Malden)</Chinese>
+            <Chinese>ATM提款機(馬爾登)</Chinese>
             <Chinesesimp>ATM提款机(马尔登)</Chinesesimp>
           </Key>
         </Container>
@@ -830,7 +830,7 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_action_f0">
             <Original>Billboard 3 (Malden Tours)</Original>
-            <Chinese>廣告板3(Malden旅遊)</Chinese>
+            <Chinese>廣告板3(馬爾登旅遊)</Chinese>
             <Chinesesimp>广告牌3(马尔登旅游)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_billboard_03_aan_f0">
@@ -966,12 +966,12 @@
         <Container name="Supermarket_01">
           <Key ID="str_a3_land_supermarket_01_f0">
             <Original>Supermarket (Tanoa)</Original>
-            <Chinese>超級市場(Tanoa)</Chinese>
+            <Chinese>超級市場(塔諾亞)</Chinese>
             <Chinesesimp>超级市场(塔诺亚)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_supermarket_01_malden_f0">
             <Original>Supermarket (Malden)</Original>
-            <Chinese>超級市場(Malden)</Chinese>
+            <Chinese>超級市場(馬爾登)</Chinese>
             <Chinesesimp>超级市场(马尔登)</Chinesesimp>
           </Key>
         </Container>
@@ -992,12 +992,12 @@
         <Container name="Statues">
           <Key ID="str_a3_land_maroula_f0">
             <Original>Maroula Statue</Original>
-            <Chinese>Maroula雕像</Chinese>
+            <Chinese>馬羅拉雕像</Chinese>
             <Chinesesimp>马罗拉雕像</Chinesesimp>
           </Key>
           <Key ID="str_a3_land_maroula_base_f0">
             <Original>Maroula Statue (Pedestal)</Original>
-            <Chinese>Maroula雕像(底座)</Chinese>
+            <Chinese>馬羅拉雕像(底座)</Chinese>
             <Chinesesimp>马罗拉雕像(底座)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_statue_02_f0">
@@ -1307,12 +1307,12 @@
           <Key ID="str_a3_cfgvehicles_land_barricade_01_4m_f0">
             <Original>Junk Barricade (4 m)</Original>
             <Chinese>垃圾路障(4公尺)</Chinese>
-            <Chinesesimp>垃圾路障(4公尺)</Chinesesimp>
+            <Chinesesimp>垃圾路障(4米)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_barricade_01_10m_f0">
             <Original>Junk Barricade (10 m)</Original>
             <Chinese>垃圾路障(10公尺)</Chinese>
-            <Chinesesimp>垃圾路障(10公尺)</Chinesesimp>
+            <Chinesesimp>垃圾路障(10米)</Chinesesimp>
           </Key>
         </Container>
         <Container name="Turrets">
@@ -1426,22 +1426,22 @@
     <Container name="Data_F_Argo">
       <Key ID="str_a3_cfgmods_argo_multiplayer_mp_escapefromtanoa1">
         <Original>Tanoa is overrun with Syndikat and CSAT troops. All NATO forces left behind are retreating and trying to escape the archipelago.</Original>
-        <Chinese>Tanoa已經整個被辛迪加與廣協同盟給佔領了。所有被留下的北約部隊都正在撤退，設法逃離這個島。</Chinese>
+        <Chinese>塔諾亞已經整個被辛迪加與廣協同盟給佔領了。所有被留下的北約部隊都正在撤退，設法逃離這個島。</Chinese>
         <Chinesesimp>塔诺亚已经整个被辛迪加与广协同盟给占领了。所有被留下的北约部队都正在撤退，设法逃离这个岛。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_multiplayer_mp_escapefromtanoa0">
         <Original>Escape from Tanoa</Original>
-        <Chinese>逃離Tanoa</Chinese>
+        <Chinese>逃離塔諾亞</Chinese>
         <Chinesesimp>逃离塔诺亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_multiplayer_mp_escapefrommalden1">
         <Original>Malden is under complete NATO control. Remnants of CSAT's forces are desperately trying to leave the island.</Original>
-        <Chinese>Malden已經完全被北約給佔領了。所有被留下的廣協同盟部隊都正在撤退，設法逃離這個島。</Chinese>
+        <Chinese>馬爾登已經完全被北約給佔領了。所有被留下的廣協同盟部隊都正在撤退，設法逃離這個島。</Chinese>
         <Chinesesimp>马尔登已经完全被北约给占领了。所有被留下的广协同盟部队都正在撤退，设法逃离这个岛。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_multiplayer_mp_escapefrommalden0">
         <Original>Escape from Malden</Original>
-        <Chinese>逃離Malden</Chinese>
+        <Chinese>逃離馬爾登</Chinese>
         <Chinesesimp>逃离马尔登</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_multiplayer_mp_combatpatrol1">
@@ -1456,17 +1456,17 @@
       </Key>
       <Key ID="str_a3_cfgmods_argo_assets_maldenterrain1">
         <Original>Explore the classic Malden terrain from Arma: Cold War Assault, re-imagined for the 2035 setting. Find some hidden additions while enjoying the places that started it all.</Original>
-        <Chinese>探索經典的ArmA:冷戰危機地圖Malden，重新以2035年的姿態製作。在享受這個地圖的同時也請探索一些隱藏的要素。</Chinese>
+        <Chinese>探索經典的武裝突襲:冷戰危機地圖馬爾登，重新以2035年的姿態製作。在享受這個地圖的同時也請探索一些隱藏的要素。</Chinese>
         <Chinesesimp>探索经典的武装突袭:冷战危机地图马尔登，重新以2035年的样貌制作。在享受这个地图的同时也请探索一些隐藏的要素。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_assets_maldenterrain0">
         <Original>Malden 2035</Original>
-        <Chinese>Malden2035</Chinese>
+        <Chinese>馬爾登2035</Chinese>
         <Chinesesimp>马尔登2035</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_assets_maldenstructures1">
         <Original>New color variants of buildings and several houses with adjusted shapes are waiting to be found on Malden.</Original>
-        <Chinese>新製的彩色建築與調整外型的房子可在Malden上找到。</Chinese>
+        <Chinese>新製的彩色建築與調整外型的房子可在馬爾登上找到。</Chinese>
         <Chinesesimp>新制的彩色建筑与调整外型的房子可在马尔登上找到。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_assets_maldenstructures0">
@@ -1476,7 +1476,7 @@
       </Key>
       <Key ID="str_a3_cfgmods_argo_assets_maldenbillboards1">
         <Original>Admire the winning entries of the "Create-Your-Own-Billboard" contest during your Malden travels, or place them in Eden Editor wherever you like.</Original>
-        <Chinese>遊玩Malden的同時也不要忘了欣賞這些"創建自己廣告牌"比賽的得主作品，你也可以在伊甸編輯器中擺出這些物件在你喜歡的位置上。</Chinese>
+        <Chinese>遊玩馬爾登的同時也不要忘了欣賞這些"創建自己廣告牌"比賽的得主作品，你也可以在伊甸編輯器中擺出這些物件在你喜歡的位置上。</Chinese>
         <Chinesesimp>游玩马尔登的同时也不要忘了欣赏这些"创建自己广告牌"比赛的得主作品，你也可以在伊甸编辑器中摆出这些物件在你喜欢的位置上。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_assets_maldenbillboards0">
@@ -1486,27 +1486,27 @@
       </Key>
       <Key ID="str_a3_cfgmods_argo0">
         <Original>Arma 3 Malden</Original>
-        <Chinese>ArmA3Malden</Chinese>
+        <Chinese>武裝突襲3馬爾登</Chinese>
         <Chinesesimp>武装突袭3马尔登</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgeditorcategories_edcat_structures_malden0">
         <Original>Structures (Malden)</Original>
-        <Chinese>建築物(Malden)</Chinese>
+        <Chinese>建築物(馬爾登)</Chinese>
         <Chinesesimp>建筑物(马尔登)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgeditorcategories_edcat_ruins_malden0">
         <Original>Ruins (Malden)</Original>
-        <Chinese>廢墟(Malden)</Chinese>
+        <Chinese>廢墟(馬爾登)</Chinese>
         <Chinesesimp>废墟(马尔登)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_Overview0">
         <Original>Everyone is invited to celebrate the 16th Armaversary on a modern re-imagination of the classic Malden terrain. Dive into the authentic and dynamic Combat Patrol multiplayer mode and complete tactical objectives on all vanilla terrains. This DLC is free for all players as token of appreciation to the best community in the world.</Original>
-        <Chinese>我們誠摯的邀請大家參與慶祝ArmA系列16週年慶的活動，希望大家能好好享受這個現代化的Malden地圖。挑戰真正且動態的戰鬥巡邏多人任務，你可以在所有官方原版地圖上遊玩這個模式。這個資料片是免費送給全世界最讚的玩家社群的禮物。</Chinese>
-        <Chinesesimp>我们诚挚的邀请大家参与庆祝武装突袭系列16周年庆的活动，希望大家能好好享受这个现代化的马尔登地图。挑战真正且动态的战斗巡逻多人任务，你可以在所有官方原版地图上游玩这个模式。这个DLC是免费送给全世界最赞的玩家社区的礼物。</Chinesesimp>
+        <Chinese>我們誠摯的邀請大家參與慶祝武裝突襲系列16週年慶的活動，希望大家能好好享受這個現代化的馬爾登地圖。挑戰真正且動態的戰鬥巡邏多人任務，你可以在所有官方原版地圖上遊玩這個模式。這個資料片是免費送給全世界最讚的玩家社群的禮物。</Chinese>
+        <Chinesesimp>我们诚挚的邀请大家参与庆祝武装突袭系列16周年庆的活动，希望大家能好好享受这个现代化的马尔登地图。挑战真正且动态的战斗巡逻多人任务，你可以在所有官方原版地图上游玩这个模式。这个资料片是免费送给全世界最赞的玩家社区的礼物。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_argo_nameshort0">
         <Original>Malden</Original>
-        <Chinese>Malden</Chinese>
+        <Chinese>馬爾登</Chinese>
         <Chinesesimp>马尔登</Chinesesimp>
       </Key>
     </Container>
@@ -1518,7 +1518,7 @@
       </Key>
       <Key ID="STR_A3_CfgMusic_LeadTrack02_F_Malden">
         <Original>Malden</Original>
-        <Chinese>Malden</Chinese>
+        <Chinese>馬爾登</Chinese>
         <Chinesesimp>马尔登</Chinesesimp>
       </Key>
     </Container>
@@ -1530,12 +1530,12 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_list4_title">
         <Original>Escape from Malden / Tanoa</Original>
-        <Chinese>逃離Malden/Tanoa</Chinese>
-        <Chinesesimp>逃离Malden/Tanoa</Chinesesimp>
+        <Chinese>逃離馬爾登/塔諾亞</Chinese>
+        <Chinesesimp>逃离马尔登/塔诺亚</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_list4">
         <Original>the tense multiplayer survival mode is now available on Malden and Tanoa as well</Original>
-        <Chinese>緊張的多人倖存模式現在也能在Malden與Tanoa上遊玩了</Chinese>
+        <Chinese>緊張的多人倖存模式現在也能在馬爾登與塔諾亞上遊玩了</Chinese>
         <Chinesesimp>紧张的多人幸存模式现在也能在马尔登与塔诺亚上游玩了</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_list3_title">
@@ -1555,27 +1555,27 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_list2">
         <Original>in support of Malden we are releasing structures such as a barn and fittingly colored buildings</Original>
-        <Chinese>為了新的Malden島，我們製作的新的建築像是穀倉與彩色的房子等</Chinese>
+        <Chinese>為了新的馬爾登島，我們製作的新的建築像是穀倉與彩色的房子等</Chinese>
         <Chinesesimp>为了新的马尔登岛，我们制作的新的建筑像是谷仓与彩色的房子等</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_list1_title">
         <Original>Malden 2035</Original>
-        <Chinese>Malden2035</Chinese>
+        <Chinese>馬爾登2035</Chinese>
         <Chinesesimp>马尔登2035</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_list1">
         <Original>this 62 km2 terrain is a re-imagining of the original Malden from &lt;a href='%2' color='%1'&gt;Arma: Cold War Assault&lt;/a&gt;</Original>
-        <Chinese>這個62平方公里的小島是以&lt;ahref='%2'color='%1'&gt;ArmA:冷戰危機&lt;/a&gt;的經典地圖製作而成</Chinese>
+        <Chinese>這個62平方公里的小島是以&lt;ahref='%2'color='%1'&gt;武裝突襲:冷戰危機&lt;/a&gt;的經典地圖製作而成</Chinese>
         <Chinesesimp>这个62平方公里的小岛是以&lt;ahref='%2'color='%1'&gt;武装突袭:冷战危机&lt;/a&gt;的经典地图制作而成</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_footer">
         <Original>See you on Malden!</Original>
-        <Chinese>與你在Malden上見!</Chinese>
+        <Chinese>與你在馬爾登上見!</Chinese>
         <Chinesesimp>与你在马尔登上见!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard">
         <Original>Arma 3 Malden DLC contains the following free content for everyone who owns the base game:</Original>
-        <Chinese>ArmA3Malden資料片包含了以下免費內容給任何擁有主程式的玩家:</Chinese>
+        <Chinese>武裝突襲3馬爾登資料片包含了以下免費內容給任何擁有主程式的玩家:</Chinese>
         <Chinesesimp>武装突袭3马尔登资料片包含了以下免费内容给任何拥有主程序的玩家:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parc_title">
@@ -1585,8 +1585,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parc">
         <Original>To (re)introduce Malden to you in a fun way, we are releasing a completely new &lt;t color='%1'&gt;multiplayer&lt;/t&gt; mode, Combat Patrol, as well as instances of the Escape mode for our two most recent terrains (Tanoa and Malden). &lt;a href='%3' color='%2'&gt;Combat Patrol&lt;/a&gt; is a quick and dynamic cooperative multiplayer mode in which you are a member of an infantry team with the possibility to select the Area of Operations. Each play-through will be different thanks to the mode's heavily randomized nature and behavior. If you want to experience authentic Arma gameplay, then Combat Patrol is a great starting point. The mode is available for all of our official terrains, including Malden. &lt;t color='%1'&gt;Escape&lt;/t&gt; is the multiplayer mode known from its original Altis variant, now also available for Malden and Tanoa (as a bonus for &lt;a href='%4' color='%2'&gt;Apex&lt;/a&gt; owners). Can you handle the challenge and escape the islands together against overwhelming odds?</Original>
-        <Chinese>為了以有趣的方式重新向你介紹Malden，我們釋出了一個全新的&lt;tcolor='%1'&gt;多人遊戲&lt;/t&gt;模式，戰鬥巡邏，同時也讓逃離的任務模式增加到最新的兩個地圖上(Tanoa和Malden)。&lt;ahref='%3'color='%2'&gt;戰鬥巡邏&lt;/a&gt;是個快速且動態的多人合作遊戲模式，你跟你的隊友可以自行選擇要出任務的地點。感謝模組高度化的隨機性，在你每次遊玩任務的時候都會有不一樣的體驗。如果你想體驗正宗的ArmA遊戲體驗的話，那麼戰鬥巡邏就是個不錯的開始。這個模是可以在我們所有原版的地圖上遊玩，包括新推出的Malden。&lt;tcolor='%1'&gt;逃離&lt;/t&gt;這個多人遊戲模式是從原本Altis上的任務變化而來的，現在也可以在Malden與Tanoa上玩到此模式(也當作是給擁有&lt;ahref='%4'color='%2'&gt;頂尖&lt;/a&gt;資料片玩家的額外內容)。你能突破所有挑戰並成功逃離這些島嗎?</Chinese>
-        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式(也当作是给拥有&lt;ahref='%4'color='%2'&gt;顶尖&lt;/a&gt;DLC玩家的额外内容)。你能完成所有挑战并成功逃离这些岛吗?</Chinesesimp>
+        <Chinese>為了以有趣的方式重新向你介紹馬爾登，我們釋出了一個全新的&lt;tcolor='%1'&gt;多人遊戲&lt;/t&gt;模式，戰鬥巡邏，同時也讓逃離的任務模式增加到最新的兩個地圖上(塔諾亞和馬爾登)。&lt;ahref='%3'color='%2'&gt;戰鬥巡邏&lt;/a&gt;是個快速且動態的多人合作遊戲模式，你跟你的隊友可以自行選擇要出任務的地點。感謝模組高度化的隨機性，在你每次遊玩任務的時候都會有不一樣的體驗。如果你想體驗正宗的武裝突襲遊戲體驗的話，那麼戰鬥巡邏就是個不錯的開始。這個模是可以在我們所有原版的地圖上遊玩，包括新推出的馬爾登。&lt;tcolor='%1'&gt;逃離&lt;/t&gt;這個多人遊戲模式是從原本阿爾蒂斯上的任務變化而來的，現在也可以在馬爾登與塔諾亞上玩到此模式(也當作是給擁有&lt;ahref='%4'color='%2'&gt;頂尖&lt;/a&gt;資料片玩家的額外內容)。你能突破所有挑戰並成功逃離這些島嗎?</Chinese>
+        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式(也当作是给拥有&lt;ahref='%4'color='%2'&gt;顶尖&lt;/a&gt;资料片玩家的额外内容)。你能完成所有挑战并成功逃离这些岛吗?</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parb_title">
         <Original>NEW TERRAIN_</Original>
@@ -1595,54 +1595,54 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parb_footer">
         <Original>More about Arma 3 Malden</Original>
-        <Chinese>更多關於ArmA3Malden的資訊</Chinese>
+        <Chinese>更多關於武裝突襲3馬爾登的資訊</Chinese>
         <Chinesesimp>更多关于武装突袭3马尔登的信息</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parb">
         <Original>&lt;t color='%1'&gt;Malden 2035&lt;/t&gt; is our fresh take on the original &lt;a href='%3' color='%2'&gt;Malden&lt;/a&gt;. We've tried to stay as close as possible to the vision of the original island and hopefully veterans of the series will find lots of familiar places. While Malden re-uses many vanilla Arma 3 structures, vegetation, and similar assets, we have also included some splendid additions such as colored buildings, vineyards, and barns. These have helped us to recreate the terrain to Arma 3 standards. Malden benefits from &lt;a href='%4' color='%2'&gt;Argo&lt;/a&gt;'s infantry focus, where a lot of effort was put into the gameplay flow of each location. As such, Malden is more suitable for Close Quarters Combat than previous terrains. Now go and explore the desert, rocky cliffs, dense forests and other impressive areas!</Original>
-        <Chinese>&lt;tcolor='%1'&gt;Malden2035&lt;/t&gt;是我們以經典的&lt;ahref='%3'color='%2'&gt;Malden&lt;/a&gt;地圖重新製作而成。我們盡可能的保留原來島嶼的一些景色，希望能勾起老兵們在這個島上的回憶。儘管Malden重新使用了許多原版ArmA3的建築，植被與物件等等，我們仍特別為這個島製作了像是彩色的房子，葡萄園與穀倉等。這些都幫助我們重製這個島嶼到ArmA3應有的標準。Malden受益於&lt;ahref='%4'color='%2'&gt;Argo&lt;/a&gt;的步兵戰，在許多地點上都有一定程度的加強遊戲體驗。也因為如此，Malden比其他島嶼更適合拿來做為近距離戰鬥。現在請立刻前往體驗沙漠，巖石峭壁，茂密的森林與其他特別的地點!</Chinese>
+        <Chinese>&lt;tcolor='%1'&gt;馬爾登2035&lt;/t&gt;是我們以經典的&lt;ahref='%3'color='%2'&gt;Malden&lt;/a&gt;地圖重新製作而成。我們盡可能的保留原來島嶼的一些景色，希望能勾起老兵們在這個島上的回憶。儘管馬爾登重新使用了許多原版武裝突襲3的建築，植被與物件等等，我們仍特別為這個島製作了像是彩色的房子，葡萄園與穀倉等。這些都幫助我們重製這個島嶼到武裝突襲3應有的標準。馬爾登受益於&lt;ahref='%4'color='%2'&gt;Argo&lt;/a&gt;的步兵戰，在許多地點上都有一定程度的加強遊戲體驗。也因為如此，馬爾登比其他島嶼更適合拿來做為近距離戰鬥。現在請立刻前往體驗沙漠，巖石峭壁，茂密的森林與其他特別的地點!</Chinese>
         <Chinesesimp>&lt;tcolor='%1'&gt;马尔登2035&lt;/t&gt;是我们以经典的&lt;ahref='%3'color='%2'&gt;马尔登&lt;/a&gt;地图重新制作而成。我们尽可能的保留原来岛屿的一些景色，希望能勾起老兵们在这个岛上的回忆。尽管马尔登重新使用了许多原版武装突袭3的建筑，植被与物件等等，我们仍特别为这个岛制作了像是彩色的房子，葡萄园与谷仓等。这些都帮助我们重制这个岛屿到武装突袭3应有的标准。马尔登受益于&lt;ahref='%4'color='%2'&gt;Argo&lt;/a&gt;的步兵战，在许多地点上都有一定程度的加强游戏体验。也因为如此，马尔登比其他岛屿更适合拿来做为近距离战斗。现在请立刻前往体验沙漠，岩石峭壁，茂密的森林与其他特别的地点!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_para">
         <Original>Welcome back to Malden, soldier! Sixteen years ago, we started our amazing journey with the Arma franchise here. We hope you'll enjoy this recreation of &lt;t color='%1'&gt;Malden&lt;/t&gt;, which is sure to bring back many memories of a certain flashpoint occurring on the island. Alongside the new terrain, we are also releasing a new cooperative mode: &lt;t color='%1'&gt;Combat Patrol&lt;/t&gt;. Please enjoy this free DLC as a token of our appreciation to the best community in the world. You have been with us every step of the way and got Arma to where it is now. &lt;t color='%1'&gt;Thank you!&lt;/t&gt;</Original>
-        <Chinese>歡迎回到Malden，大兵!16年前，我們從這邊開始了ArmA系列的奇幻旅程。我們希望你能享受這個重新製作的&lt;tcolor='%1'&gt;Malden&lt;/t&gt;，這島肯定能為你帶來許多以前經典的回憶。除了新的地形，我們也釋出了新的多人合作遊戲模式:&lt;tcolor='%1'&gt;戰鬥巡邏&lt;/t&gt;。這個資料片是免費送給全世界最讚的玩家社群的禮物。謝謝你們一直以來陪伴ArmA走到今天。&lt;tcolor='%1'&gt;感謝你們!&lt;/t&gt;</Chinese>
+        <Chinese>歡迎回到馬爾登，大兵!16年前，我們從這邊開始了武裝突襲系列的奇幻旅程。我們希望你能享受這個重新製作的&lt;tcolor='%1'&gt;Malden&lt;/t&gt;，這島肯定能為你帶來許多以前經典的回憶。除了新的地形，我們也釋出了新的多人合作遊戲模式:&lt;tcolor='%1'&gt;戰鬥巡邏&lt;/t&gt;。這個資料片是免費送給全世界最讚的玩家社群的禮物。謝謝你們一直以來陪伴武裝突襲走到今天。&lt;tcolor='%1'&gt;感謝你們!&lt;/t&gt;</Chinese>
         <Chinesesimp>欢迎回到马尔登，大兵!16年前，我们从这边开始了武装突袭3系列的奇幻旅程。我们希望你能享受这个重新制作的&lt;tcolor='%1'&gt;马尔登&lt;/t&gt;，马尔登岛肯定能为你带来许多以前经典的回忆。除了新的地形，我们也放出了新的多人合作游戏模式:&lt;tcolor='%1'&gt;战斗巡逻&lt;/t&gt;。这个资料片是免费送给全世界最赞的玩家社区的礼物。谢谢你们一直以来陪伴武装突袭走到今天。&lt;tcolor='%1'&gt;感谢你们!&lt;/t&gt;</Chinesesimp>
       </Key>
     </Container>
     <Container name="Props_F_Argo">
       <Key ID="str_a3_cfgvehicles_mapboard_tanoa_f0">
         <Original>Whiteboard (Map of Tanoa)</Original>
-        <Chinese>白板(Tanoa地圖)</Chinese>
+        <Chinese>白板(塔諾亞地圖)</Chinese>
         <Chinesesimp>白板(塔诺亚地图)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_mapboard_malden_f0">
         <Original>Whiteboard (Map of Malden)</Original>
-        <Chinese>白板(Malden地圖)</Chinese>
+        <Chinese>白板(馬爾登地圖)</Chinese>
         <Chinesesimp>白板(马尔登地图)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_map_unfolded_tanoa_f0">
         <Original>Sleeved Map (Tanoa)</Original>
-        <Chinese>便攜型地圖(Tanoa)</Chinese>
+        <Chinese>便攜型地圖(塔諾亞)</Chinese>
         <Chinesesimp>便携型地图(塔诺亚)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_map_unfolded_malden_f0">
         <Original>Sleeved Map (Malden)</Original>
-        <Chinese>便攜型地圖(Malden)</Chinese>
+        <Chinese>便攜型地圖(馬爾登)</Chinese>
         <Chinesesimp>便携型地图(马尔登)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_map_unfolded_altis_f0">
         <Original>Sleeved Map (Altis)</Original>
-        <Chinese>便攜型地圖(Altis)</Chinese>
+        <Chinese>便攜型地圖(阿爾蒂斯)</Chinese>
         <Chinesesimp>便携型地图(阿尔蒂斯)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_map_tanoa_f0">
         <Original>Map of Tanoa</Original>
-        <Chinese>Tanoa地圖</Chinese>
+        <Chinese>塔諾亞地圖</Chinese>
         <Chinesesimp>塔诺亚地图</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_map_malden_f0">
         <Original>Map of Malden</Original>
-        <Chinese>Malden地圖</Chinese>
+        <Chinese>馬爾登地圖</Chinese>
         <Chinesesimp>马尔登地图</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_laptop_02_unfolded_f0">
@@ -1666,7 +1666,7 @@
 %1%2 Structures - colored houses, vineyards, barns, and more
 %1%2 Signs - new directional signs, bus stops, and community-made billboards</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Argo\Images\AssetMaldenTerrain_co.paa'/&gt;
-%1找回ArmA系列作最初的感動。Malden2035不是只有1比1複製ArmA:冷戰危機經典的Malden地圖而已。它以既熟悉又新奇的樣子重回大家的面前，有著新地點等你去探索，像是ArmA:手機行動的地圖或雷達塔等。雖然Malden重新使用了許多ArmA3原版的建築，植被與物件等等，我們仍為它特別製作了一些亮點，像是彩色的房子，葡萄園與農場建築等。我們希望你能享受並重新體驗Malden。希望它可以讓你想起許多在ArmA中的美好回憶!
+%1找回武裝突襲系列作最初的感動。馬爾登2035不是只有1比1複製武裝突襲:冷戰危機經典的馬爾登地圖而已。它以既熟悉又新奇的樣子重回大家的面前，有著新地點等你去探索，像是武裝突襲:手機行動的地圖或雷達塔等。雖然馬爾登重新使用了許多武裝突襲3原版的建築，植被與物件等等，我們仍為它特別製作了一些亮點，像是彩色的房子，葡萄園與農場建築等。我們希望你能享受並重新體驗馬爾登。希望它可以讓你想起許多在武裝突襲中的美好回憶!
 %1%1%3概要%4%
 %1%2大小-62平方公里的土地
 %1%2不同的地點-沙漠，森林，田地以及城鎮等等
@@ -1682,7 +1682,7 @@
       </Key>
       <Key ID="str_a3_cfghints_maldendlc_maldenterrain0">
         <Original>Malden 2035</Original>
-        <Chinese>Malden2035</Chinese>
+        <Chinese>馬爾登2035</Chinese>
         <Chinesesimp>马尔登2035</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_maldendlc_malden1">
@@ -1696,32 +1696,34 @@
 %1%2 Orchestral Theme Song
 %1&lt;a href='http://malden.arma3.com/'&gt;More about Arma 3 Malden&lt;/a&gt;</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Argo\Images\AssetMaldenStructures_co.paa'/&gt;
-%1我們誠摯的邀請大家參與慶祝ArmA系列16週年慶的活動，希望大家能好好享受這個現代化的??登地圖。挑戰真正且動態的戰鬥巡邏多人任務，你可以在所有官方原版地圖上遊玩這個模式。這個資料片是免費送給全世界最讚的玩家社群的禮物。
+%1我們誠摯的邀請大家參與慶祝武裝突襲系列16週年慶的活動，希望大家能好好享受這個現代化的馬爾登地圖。挑戰真正且動態的戰鬥巡邏多人任務，你可以在所有官方原版地圖上遊玩這個模式。這個資料片是免費送給全世界最讚的玩家社群的禮物。
 %1%1%3資料片內容%4
-%1%2Malden2035
+%1%2馬爾登2035
 %1%2新製/重製的建築與物件
 %1%2戰鬥巡邏
-%1%2逃離Malden/Tanoa
-%1%2使用管絃樂重製的主題曲</Chinese>
+%1%2逃離馬爾登/塔諾亞
+%1%2使用管絃樂重製的主題曲
+%1&lt;a href='http://malden.arma3.com/'&gt;More about Arma 3 Malden&lt;/a&gt;</Chinese>
         <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Argo\Images\AssetMaldenStructures_co.paa'/&gt;
 %1我们诚挚的邀请大家参与庆祝武装突袭系列16周年庆的活动，希望大家能好好享受这个现代化的马尔登地图。挑战真正且动态的战斗巡逻多人任务，你可以在所有官方原版地图上游玩这个模式。这个DLC是免费送给全世界最赞的玩家社区的礼物。
-%1%1%3DLC内容%4
+%1%1%3资料片内容%4
 %1%2马尔登2035
 %1%2新制/重制的建筑与物件
 %1%2战斗巡逻
 %1%2逃离马尔登/塔诺亚
-%1%2使用管弦乐重制的主题曲</Chinesesimp>
+%1%2使用管弦乐重制的主题曲
+%1&lt;a href='http://malden.arma3.com/'&gt;More about Arma 3 Malden&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_maldendlc_malden0">
         <Original>Malden Free DLC</Original>
-        <Chinese>Malden免費資料片</Chinese>
-        <Chinesesimp>马尔登免费DLC</Chinesesimp>
+        <Chinese>馬爾登免費資料片</Chinese>
+        <Chinesesimp>马尔登免费资料片</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_maldendlc_combatpatrol1">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Argo\Images\argo_contentBrowserPicture_co.paa' /&gt;
 %1A new, quick and dynamic cooperative multiplayer mode has been made available for all our vanilla terrains, including Malden 2035. Search an Area of Operations of your choosing, complete assigned objectives and ex-filtrate in one piece. You can accomplish your mission quietly or eliminate all hostiles in a coordinated shock assault; your team decides on the best approach. Be on your guard however, the mode randomizes several aspects for every attempt. Combat Patrol is a great starting point to experience authentic Arma gameplay together!</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Argo\Images\argo_contentBrowserPicture_co.paa'/&gt;
-%1一個新型，快速且動態的多人合作任務模式已正式開放給所有原版地圖，包括新推出的Malden2035。搜索你選擇的任務目標區，完成指定的目標並撤離。你可以靜悄悄的完成任務或是迅速且果斷的殲滅所有敵人，這些都由你們小隊自己決定。同樣的任務在每次執行中都會有不同的感受與變數。對那些ArmA新鮮人來說戰鬥巡邏是個不錯的開始來體驗協同作戰!</Chinese>
+%1一個新型，快速且動態的多人合作任務模式已正式開放給所有原版地圖，包括新推出的馬爾登2035。搜索你選擇的任務目標區，完成指定的目標並撤離。你可以靜悄悄的完成任務或是迅速且果斷的殲滅所有敵人，這些都由你們小隊自己決定。同樣的任務在每次執行中都會有不同的感受與變數。對那些武裝突襲新鮮人來說戰鬥巡邏是個不錯的開始來體驗協同作戰!</Chinese>
         <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Argo\Images\argo_contentBrowserPicture_co.paa'/&gt;
 %1一个新型，快速且动态的多人合作任务模式已正式开放给所有原版地图，包括新推出的马尔登2035。搜索你选择的任务目标区，完成指定的目标并撤离。你可以静悄悄的完成任务或是迅速且果断的歼灭所有敌人，这些都由你们小队自己决定。同样的任务在每次执行中都会有不同的感受与变数。对那些武装突袭新人来说战斗巡逻是个不错的开始，快来体验协同作战!</Chinesesimp>
       </Key>
@@ -1732,14 +1734,14 @@
       </Key>
       <Key ID="str_a3_cfghints_maldendlc0">
         <Original>Malden DLC</Original>
-        <Chinese>Malden資料片</Chinese>
-        <Chinesesimp>马尔登DLC</Chinesesimp>
+        <Chinese>馬爾登資料片</Chinese>
+        <Chinesesimp>马尔登资料片</Chinesesimp>
       </Key>
     </Container>
     <Container name="UI_F_Argo">
       <Key ID="str_a3_cfguicolors_gui_presets_maldensand0">
         <Original>Malden Sand</Original>
-        <Chinese>Malden沙色</Chinese>
+        <Chinese>馬爾登沙色</Chinese>
         <Chinesesimp>马尔登沙色</Chinesesimp>
       </Key>
     </Container>
@@ -1747,22 +1749,22 @@
       <Container name="LocationNames">
         <Key ID="str_a3_malden_v_vigny0">
           <Original>Vigny</Original>
-          <Chinese>Vigny</Chinese>
+          <Chinese>維格尼</Chinese>
           <Chinesesimp>维格尼</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_v_saintlouis0">
           <Original>Saint Louis</Original>
-          <Chinese>SaintLouis</Chinese>
+          <Chinese>聖路易</Chinese>
           <Chinesesimp>圣路易</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_v_saintemarie0">
           <Original>Sainte Marie</Original>
-          <Chinese>SainteMarie</Chinese>
+          <Chinese>聖瑪麗</Chinese>
           <Chinesesimp>圣玛丽</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_v_lolisse0">
           <Original>Lolisse</Original>
-          <Chinese>Lolisse</Chinese>
+          <Chinese>洛利塞</Chinese>
           <Chinesesimp>洛利塞</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_v_leport0">
@@ -1772,32 +1774,32 @@
         </Key>
         <Key ID="str_a3_malden_v_lariviere0">
           <Original>La Rivière</Original>
-          <Chinese>LaRiviere</Chinese>
+          <Chinese>拉·里韋爾</Chinese>
           <Chinesesimp>拉·里韦尔</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_v_houdan0">
           <Original>Houdan</Original>
-          <Chinese>Houdan</Chinese>
+          <Chinese>胡丹</Chinese>
           <Chinesesimp>胡丹</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_v_goisse0">
           <Original>Goisse</Original>
-          <Chinese>Goisse</Chinese>
+          <Chinese>瓜塞</Chinese>
           <Chinesesimp>瓜塞</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_v_dourdan0">
           <Original>Dourdan</Original>
-          <Chinese>Dourdan</Chinese>
+          <Chinese>杜爾丹</Chinese>
           <Chinesesimp>杜尔丹</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_v_cancon0">
           <Original>Cancon</Original>
-          <Chinese>Cancon</Chinese>
+          <Chinese>康孔</Chinese>
           <Chinesesimp>康孔</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_v_arudy0">
           <Original>Arudy</Original>
-          <Chinese>Arudy</Chinese>
+          <Chinese>阿呂迪</Chinese>
           <Chinesesimp>阿吕迪</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_m_lessables0">
@@ -1832,12 +1834,12 @@
         </Key>
         <Key ID="str_a3_malden_l_saintmartin0">
           <Original>Saint Martin</Original>
-          <Chinese>SaintMartin</Chinese>
+          <Chinese>聖馬坦</Chinese>
           <Chinesesimp>圣马坦</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_saintjean0">
           <Original>Saint Jean</Original>
-          <Chinese>SaintJean</Chinese>
+          <Chinese>聖讓</Chinese>
           <Chinesesimp>圣让</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_radiostation0">
@@ -1857,7 +1859,7 @@
         </Key>
         <Key ID="str_a3_malden_l_moray0">
           <Original>Moray</Original>
-          <Chinese>Moray</Chinese>
+          <Chinese>莫賴</Chinese>
           <Chinesesimp>莫赖</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_militarybase0">
@@ -1867,32 +1869,32 @@
         </Key>
         <Key ID="str_a3_malden_l_lavalle0">
           <Original>Lavalle</Original>
-          <Chinese>Lavalle</Chinese>
+          <Chinese>拉瓦爾</Chinese>
           <Chinesesimp>拉瓦尔</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_guran0">
           <Original>Guran</Original>
-          <Chinese>Guran</Chinese>
+          <Chinese>古朗</Chinese>
           <Chinesesimp>古朗</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_feas0">
           <Original>Feas</Original>
-          <Chinese>Feas</Chinese>
+          <Chinese>費阿</Chinese>
           <Chinesesimp>费阿</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_faro0">
           <Original>Faro</Original>
-          <Chinese>Faro</Chinese>
+          <Chinese>法羅</Chinese>
           <Chinesesimp>法罗</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_dorres0">
           <Original>Dorres</Original>
-          <Chinese>Dorres</Chinese>
+          <Chinese>多雷</Chinese>
           <Chinesesimp>多雷</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_corton0">
           <Original>Corton</Original>
-          <Chinese>Corton</Chinese>
+          <Chinese>科爾通</Chinese>
           <Chinesesimp>科尔通</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_canconharbor0">
@@ -1902,17 +1904,17 @@
         </Key>
         <Key ID="str_a3_malden_l_bosquet0">
           <Original>Bosquet</Original>
-          <Chinese>Bosquet</Chinese>
+          <Chinese>博斯凱</Chinese>
           <Chinesesimp>博斯凯</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_blanches0">
           <Original>Blanches</Original>
-          <Chinese>Blanches</Chinese>
+          <Chinese>布蘭謝</Chinese>
           <Chinesesimp>布兰谢</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_l_arette0">
           <Original>Arette</Original>
-          <Chinese>Arette</Chinese>
+          <Chinese>阿雷特</Chinese>
           <Chinesesimp>阿雷特</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_h_picdefeas0">
@@ -1922,7 +1924,7 @@
         </Key>
         <Key ID="str_a3_malden_h_monte0">
           <Original>Monte</Original>
-          <Chinese>Monte</Chinese>
+          <Chinese>蒙特</Chinese>
           <Chinesesimp>蒙特</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_h_montchauve0">
@@ -1932,42 +1934,42 @@
         </Key>
         <Key ID="str_a3_malden_h_leroi0">
           <Original>Le Roi</Original>
-          <Chinese>LeRoi</Chinese>
+          <Chinese>勒·魯瓦</Chinese>
           <Chinesesimp>勒·鲁瓦</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_h_isaro0">
           <Original>Isaro</Original>
-          <Chinese>Isaro</Chinese>
+          <Chinese>伊薩羅</Chinese>
           <Chinesesimp>伊萨罗</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_h_eperon0">
           <Original>Eperon</Original>
-          <Chinese>Eperon</Chinese>
+          <Chinese>埃佩龍</Chinese>
           <Chinesesimp>埃佩龙</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_h_dentsdumidi0">
           <Original>Dents du Midi</Original>
-          <Chinese>DentsduMidi</Chinese>
+          <Chinese>當·杜米迪</Chinese>
           <Chinesesimp>当·杜米迪</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_c_latrinite0">
           <Original>La Trinité</Original>
-          <Chinese>LaTrinite</Chinese>
+          <Chinese>拉·特里尼特</Chinese>
           <Chinesesimp>拉·特里尼特</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_c_larche0">
           <Original>Larche</Original>
-          <Chinese>Larche</Chinese>
+          <Chinese>拉爾舍</Chinese>
           <Chinesesimp>拉尔舍</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_c_lapessagne0">
           <Original>La Pessagne</Original>
-          <Chinese>LaPessagne</Chinese>
+          <Chinese>拉·薩佩尼厄</Chinese>
           <Chinesesimp>拉·佩萨尼厄</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_c_chapoi0">
           <Original>Chapoi</Original>
-          <Chinese>Chapoi</Chinese>
+          <Chinese>沙普瓦</Chinese>
           <Chinesesimp>沙普瓦</Chinesesimp>
         </Key>
         <Key ID="str_a3_malden_c_airport0">
@@ -1989,27 +1991,27 @@
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext190">
           <Original>There are 15 lighthouses on Malden.</Original>
-          <Chinese>Malden上有15座燈塔。</Chinese>
+          <Chinese>馬爾登上有15座燈塔。</Chinese>
           <Chinesesimp>马尔登岛上共有15座灯塔。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext180">
           <Original>Some of the mountain farms still bear names of the most ancient Maldenian families.</Original>
-          <Chinese>一些山區間的農場仍保留著Malden人最古老的家族姓氏。</Chinese>
+          <Chinese>一些山區間的農場仍保留著馬爾登人最古老的家族姓氏。</Chinese>
           <Chinesesimp>一些山区间的农场仍保留着马尔登人最古老的家族姓氏。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext170">
           <Original>The Cross of Arudy commemorates the fallen of the conflict between the American and Soviet troops in 1985.</Original>
-          <Chinese>在Arudy豎立的十字紀念碑是為了悼念在1985年美國與蘇維埃衝突之下的亡者。</Chinese>
+          <Chinese>在阿魯迪豎立的十字紀念碑是為了悼念在1985年美國與蘇維埃衝突之下的亡者。</Chinese>
           <Chinesesimp>在阿鲁迪竖立的十字纪念碑是为了悼念1985年美苏冲突之中的死者。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext160">
           <Original>The Vigny Gorge is a picturesque ravine popular among tourists and climbers.</Original>
-          <Chinese>Vigny峽谷在遊客與登山者之間是非常有名的一個景點。</Chinese>
+          <Chinese>維格尼峽谷在遊客與登山者之間是非常有名的一個景點。</Chinese>
           <Chinesesimp>维格尼峡谷在游客与登山者之间是非常有名的一个景点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext150">
           <Original>Citizens and visitors of Malden benefit from a dense network of bus lines.</Original>
-          <Chinese>Malden的島民與遊客受益於島上稠密的公車交通網路。</Chinese>
+          <Chinese>馬爾登的島民與遊客受益於島上稠密的公車交通網路。</Chinese>
           <Chinesesimp>马尔登岛的岛民与游客受益于岛上稠密的巴士交通网路。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext140">
@@ -2019,67 +2021,67 @@
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext130">
           <Original>National tree of Malden is the stone pine (Pinus pinea).</Original>
-          <Chinese>Malden的國樹是石松樹(學名:Pinuspinea)。</Chinese>
+          <Chinese>馬爾登的國樹是石松樹(學名:Pinuspinea)。</Chinese>
           <Chinesesimp>马尔登的国树是石松树(学名:Pinuspinea)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext120">
           <Original>Saint Martin chapel near La Rivière is being visited by the pilgrims from all the Malden Islands.</Original>
-          <Chinese>LaRiviere附近的SaintMartin教堂是Malden島上全部的朝聖者必去的一個地點。</Chinese>
+          <Chinese>拉·里韋爾附近的聖馬坦教堂是馬爾登島上全部的朝聖者必去的一個地點。</Chinese>
           <Chinesesimp>拉·里韦尔附近的圣马坦教堂是马尔登岛上所有朝圣者必去的一个地点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext110">
           <Original>There are several ancient megalithic sites in the mountains of Malden.</Original>
-          <Chinese>Malden的山上有數個古老巨石遺址。</Chinese>
+          <Chinese>馬爾登的山上有數個古老巨石遺址。</Chinese>
           <Chinesesimp>马尔登岛的山上有数个古老巨石遗址。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext100">
           <Original>Island of Moray used to be the first base of the famous Pegasus Air Taxi.</Original>
-          <Chinese>Moray島曾經是有名的飛馬空中計程車公司的第一個基地。</Chinese>
+          <Chinese>莫賴島曾經是有名的飛馬空中計程車公司的第一個基地。</Chinese>
           <Chinesesimp>莫赖岛曾经是有名的飞马空中出租车公司的第一个基地。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext090">
           <Original>Stealing a car is considered as serious crime on Malden.</Original>
-          <Chinese>偷車在Malden上被認為是非常嚴重的罪刑。</Chinese>
+          <Chinese>偷車在馬爾登上被認為是非常嚴重的罪刑。</Chinese>
           <Chinesesimp>偷车在马尔登岛上被认为是非常严重的罪刑。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext080">
           <Original>Malden is favorite tourist place because of its unique countryside.</Original>
-          <Chinese>Malden其獨特的田園風光大受觀光客的喜愛。</Chinese>
+          <Chinese>馬爾登其獨特的田園風光大受觀光客的喜愛。</Chinese>
           <Chinesesimp>马尔登因其独特的田园风光大受观光客的喜爱。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext070">
           <Original>Goat cheese produced in La Pessagne is famous even in the distant Sahrani.</Original>
-          <Chinese>LaPessagne生產的山羊奶酪就算在遙遠的Sahrani上也是很有名的。</Chinese>
+          <Chinese>拉·佩薩尼厄生產的山羊奶酪就算在遙遠的薩拉尼島上也是很有名的。</Chinese>
           <Chinesesimp>拉·佩萨尼厄生产的山羊奶酪就算在遥远的萨拉尼岛也是很有名的。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext060">
           <Original>La Trinité is the capital and the largest city of Malden, named after its three churches.</Original>
-          <Chinese>LaTrinite是Malden的首都也是島上最大的城市，其名稱源自於市內有三個教堂而來。</Chinese>
+          <Chinese>拉·特里尼特是馬爾登的首都也是島上最大的城市，其名稱源自於市內有三個教堂而來。</Chinese>
           <Chinesesimp>拉·特里尼特是马尔登的首都暨岛上最大的城市，其名称因市内的三个教堂而得名。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext050">
           <Original>There are 23 phone booths on Malden.</Original>
-          <Chinese>Malden全島擁有23個電話亭。</Chinese>
+          <Chinese>馬爾登全島擁有23個電話亭。</Chinese>
           <Chinesesimp>马尔登全岛拥有23个电话亭。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext040">
           <Original>The vineyards of Malden are famous for their sauvignon blanc grapes.</Original>
-          <Chinese>Malden的葡萄園以他們的白蘇維翁葡萄聞名於世。</Chinese>
+          <Chinese>馬爾登的葡萄園以他們的白蘇維翁葡萄聞名於世。</Chinese>
           <Chinesesimp>马尔登的葡萄园以他们的白苏维翁葡萄闻名于世。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext030">
           <Original>Desert can be found on the arid north of Malden.</Original>
-          <Chinese>你可以在Malden乾旱的北端找到沙漠。</Chinese>
+          <Chinese>你可以在馬爾登乾旱的北端找到沙漠。</Chinese>
           <Chinesesimp>你可以在马尔登干旱的北端找到沙漠。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext020">
           <Original>Malden is strategically important for its large airstrip.</Original>
-          <Chinese>Malden因其據有一座大跑道機場而讓它的戰略地位提升不少。</Chinese>
+          <Chinese>馬爾登因其據有一座大跑道機場而讓它的戰略地位提升不少。</Chinese>
           <Chinesesimp>马尔登因其具有一座大型跑道机场而让它的战略地位提升不少。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext010">
           <Original>Malden is the southernmost island of the Malden Islands archipelago.</Original>
-          <Chinese>Malden是Malden群島最南端的島嶼。</Chinese>
+          <Chinese>馬爾登是馬爾登群島最南端的島嶼。</Chinese>
           <Chinesesimp>马尔登岛是马尔登群岛最南端的岛屿。</Chinesesimp>
         </Key>
       </Container>

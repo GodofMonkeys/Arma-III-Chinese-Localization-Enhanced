@@ -10,7 +10,7 @@
       <Key ID="str_a3_cfgvehicles_land_scrap_mrap_01_f0">
         <Original>Decommissioned Hunter</Original>
         <Chinese>除役Hunter</Chinese>
-        <Chinesesimp>废弃的“猎人”</Chinesesimp>
+        <Chinesesimp>废弃的"猎人"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_metal_ramp">
         <Original>Metal ramp</Original>
@@ -231,18 +231,18 @@
     <Container name="Characters_F">
       <Key ID="str_a3_v_platecarrierl_ctrg0">
         <Original>CTRG Plate Carrier Rig Mk.1 (Light)</Original>
-        <Chinese>戰研大隊大容量胸掛背心Mk。1(輕型)</Chinese>
-        <Chinesesimp>战研大队大容量胸挂背心Mk。1(轻型)</Chinesesimp>
+        <Chinese>戰研大隊大容量胸掛背心Mk.1(輕型)</Chinese>
+        <Chinesesimp>战研大队大容量胸挂背心Mk.1(轻型)</Chinesesimp>
       </Key>
       <Key ID="str_a3_v_platecarrier1_rgr_v_platecarrier_kerry0">
         <Original>US Plate Carrier Rig (Kerry)</Original>
-        <Chinese>美軍大容量胸掛背心(Kerry)</Chinese>
+        <Chinese>美軍大容量胸掛背心(克里)</Chinese>
         <Chinesesimp>美军大容量胸挂背心(克里)</Chinesesimp>
       </Key>
       <Key ID="str_a3_v_platecarrierh_ctrg0">
         <Original>CTRG Plate Carrier Rig Mk.2 (Heavy)</Original>
-        <Chinese>第二型戰研大隊大容量胸掛背心(重型)</Chinese>
-        <Chinesesimp>战研大队大容量胸挂背心Mk。2(重型)</Chinesesimp>
+        <Chinese>第二型戰研大隊大容量胸掛背心Mk.2(重型)</Chinese>
+        <Chinesesimp>战研大队大容量胸挂背心Mk.2(重型)</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_helmetb_sand0">
         <Original>Combat Helmet (Sand)</Original>
@@ -266,7 +266,7 @@
       </Key>
       <Key ID="str_a3_b_ctrg_soldier_m_medic_f0">
         <Original>James</Original>
-        <Chinese>James</Chinese>
+        <Chinese>詹姆斯</Chinese>
         <Chinesesimp>詹姆斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_helmetb_light_h_helmetb_light_grass0">
@@ -276,7 +276,7 @@
       </Key>
       <Key ID="str_a3_b_assaultpack_kerry0">
         <Original>US Assault Pack (Kerry)</Original>
-        <Chinese>美軍突擊背包(Kerry)</Chinese>
+        <Chinese>美軍突擊背包(克里)</Chinese>
         <Chinesesimp>美军突击背包(克里)</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_helmetb_light_desert0">
@@ -286,7 +286,7 @@
       </Key>
       <Key ID="str_a3_b_ctrg_soldier_gl_lat_f0">
         <Original>Northgate</Original>
-        <Chinese>Northgate</Chinese>
+        <Chinese>諾思蓋特</Chinese>
         <Chinesesimp>诺思盖特</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_helmetb_snakeskin0">
@@ -306,7 +306,7 @@
       </Key>
       <Key ID="str_a3_b_ctrg_soldier_ar_a_f0">
         <Original>McKay</Original>
-        <Chinese>McKay</Chinese>
+        <Chinese>麥凱</Chinese>
         <Chinesesimp>麦凯</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_helmetb_grass0">
@@ -326,7 +326,7 @@
       </Key>
       <Key ID="str_a3_b_ctrg_soldier_engineer_exp_f0">
         <Original>Hardy</Original>
-        <Chinese>Hardy</Chinese>
+        <Chinese>哈爾迪</Chinese>
         <Chinesesimp>哈尔迪</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_helmetb_black0">
@@ -407,7 +407,7 @@
         <Key ID="str_a3_cfgvehicles_modulesector_f_moduledescription_triggerunlock_0">
           <Original>When the sector is captured by a side defined in trigger ACTIVATION field, the trigger will be activated. When repeated activation is enabled, it will be deactivated once the side is no longer in control of the sector.&lt;br /&gt;&lt;br /&gt;You can synchronize other modules (e.g., Respawn Position) to this trigger to tie them to sector owner.</Original>
           <Chinese>當防禦區被一方佔領時，如果觸發器有設定內容，佔領時將會被執行。而當重複啟用被勾選時，觸發器將會在區域不再被掌控後解除。&lt;br/&gt;&lt;br/&gt;你可以使用此模塊去同步別的模塊(例如:重生位置)。</Chinese>
-          <Chinesesimp>当防御区被由触发器“激活”区所定义的阵营占领，触发器将被出发。而当重复启用被勾选时，触发器将会在区域不再被掌控后解除。&lt;br/&gt;&lt;br/&gt;你可以使用此模块去同步别的模块(例如:重生位置)。</Chinesesimp>
+          <Chinesesimp>当防御区被由触发器"激活"区所定义的阵营占领，触发器将被出发。而当重复启用被勾选时，触发器将会在区域不再被掌控后解除。&lt;br/&gt;&lt;br/&gt;你可以使用此模块去同步别的模块(例如:重生位置)。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_modulesector_f_arguments_scorereward_1">
           <Original>Score awarded to the side which seized the sector</Original>
@@ -445,13 +445,13 @@
     <Container name="Weapons_F">
       <Key ID="str_a3_cfgweapons_srifle_dmr_01_f1">
         <Original>Assault rifle &lt;br/&gt;Caliber: 7.62x54 mm</Original>
-        <Chinese>突擊步槍&lt;br/&gt;口徑:7.62x54mm</Chinese>
+        <Chinese>突擊步槍&lt;br/&gt;口徑:7.62x54公厘</Chinese>
         <Chinesesimp>突击步枪&lt;br/&gt;口径:7.62x54毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_srifle_dmr_01_f0">
         <Original>Rahim 7.62 mm</Original>
-        <Chinese>Rahim7.62mm</Chinese>
-        <Chinesesimp>“拉希姆”7.62毫米</Chinesesimp>
+        <Chinese>"拉希姆"7.62公厘</Chinese>
+        <Chinesesimp>"拉希姆"7.62毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_optic_mrd1">
         <Original>MRD&lt;br /&gt;Magnification: 1x</Original>
@@ -460,8 +460,8 @@
       </Key>
       <Key ID="str_a3_cfgweapons_optic_yorris0">
         <Original>Yorris J2</Original>
-        <Chinese>YorrisJ2</Chinese>
-        <Chinesesimp>“尤里斯”J2</Chinesesimp>
+        <Chinese>"尤里斯"J2</Chinese>
+        <Chinesesimp>"尤里斯"J2</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_optic_yorris1">
         <Original>Y-J2&lt;br /&gt;Magnification: 1x</Original>
@@ -470,18 +470,18 @@
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f_library0">
         <Original>The Zubr .45 ACP is a revolver handgun with a distinctive design. The muzzle position is aligned with the bottom chamber. Compared to normal topmost revolvers, this change reduces the muzzle flip after shooting by directing the recoil more into the shooter's wrist. </Original>
-        <Chinese>Zubr。45ACP是一把與左輪手槍非常相似的一把手槍。其槍口的位置對準了彈巢的底部。相比傳統左輪手槍對準彈巢上部的設計，這樣的改變可以減低開火後槍身向後翻準的程度，將後座力引導到射手的手腕上。</Chinese>
-        <Chinesesimp>“野牛”.45ACP是一把与左轮手枪非常相似的一把手枪。其枪口的位置对准了弹巢的底部。相比传统左轮手枪对准弹巢上部的设计，这样的改变可以减低开火后枪身向后翻准的程度，将后座力引导到射手的手腕上。</Chinesesimp>
+        <Chinese>"野牛".45ACP是一把與左輪手槍非常相似的一把手槍。其槍口的位置對準了彈巢的底部。相比傳統左輪手槍對準彈巢上部的設計，這樣的改變可以減低開火後槍身向後翻準的程度，將後座力引導到射手的手腕上。</Chinese>
+        <Chinesesimp>"野牛".45ACP是一把与左轮手枪非常相似的一把手枪。其枪口的位置对准了弹巢的底部。相比传统左轮手枪对准弹巢上部的设计，这样的改变可以减低开火后枪身向后翻准的程度，将后座力引导到射手的手腕上。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f0">
         <Original>Zubr .45 ACP</Original>
         <Chinese>Zubr。45ACP</Chinese>
-        <Chinesesimp>“野牛”.45ACP</Chinesesimp>
+        <Chinesesimp>"野牛".45ACP</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f_library0">
         <Original>The 4-five is a polymer-based semi-automatic pistol named for using .45 ACP ammunition. The reliability and accuracy are the most appraised features of this weapon. This weapon is favored by firing drills competitors because of an eleven rounds magazine and available collimator sight. </Original>
-        <Chinese>4-five是一種使用聚合物製做的半自動手槍，因其使用。45ACP彈藥而命名為4-five。這把槍有不錯的可靠性與準確度。這把槍也常被使用於射擊靶場的比賽中，因其彈匣有11發彈藥與可靠的準直覘孔。</Chinese>
-        <Chinesesimp>4-five是一种使用聚合物制做的半自动手枪，因其使用。45ACP弹药而命名为4-five。这把枪有不错的可靠性与准确度。这把枪也常被使用于射击靶场的比赛中，因其弹匣有11发弹药与可靠的准直觇孔。</Chinesesimp>
+        <Chinese>4-five是一種使用聚合物製做的半自動手槍，因其使用.45ACP彈藥而命名為4-five。這把槍有不錯的可靠性與準確度。這把槍也常被使用於射擊靶場的比賽中，因其彈匣有11發彈藥與可靠的準直覘孔。</Chinese>
+        <Chinesesimp>4-five是一种使用聚合物制做的半自动手枪，因其使用.45ACP弹药而命名为4-five。这把枪有不错的可靠性与准确度。这把枪也常被使用于射击靶场的比赛中，因其弹匣有11发弹药与可靠的准直觇孔。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_optic_mrd0">
         <Original>MRD</Original>
@@ -490,7 +490,7 @@
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f0">
         <Original>4-five .45 ACP</Original>
-        <Chinese>4-five。45ACP</Chinese>
+        <Chinese>4-five .45ACP</Chinese>
         <Chinesesimp>4-five .45ACP</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_c_supplycrate_f0">
@@ -500,43 +500,43 @@
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Zubr</Original>
-        <Chinese>口徑:。45ACP&lt;br/&gt;發數:6&lt;br/&gt;使用於:Zubr</Chinese>
+        <Chinese>口徑:。45ACP&lt;br/&gt;發數:6&lt;br/&gt;使用於:野牛</Chinese>
         <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:6&lt;br/&gt;使用于:野牛</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag1">
         <Original>Caliber: 12.7x108 mm APDS&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
-        <Chinese>口徑:12。7x108mm脫殼穿甲彈&lt;br/&gt;發數:5&lt;br/&gt;使用於:GM6Lynx</Chinese>
-        <Chinesesimp>口径:12.7x108mm脱壳穿甲弹&lt;br/&gt;发数:5&lt;br/&gt;使用于:GM6“山猫”</Chinesesimp>
+        <Chinese>口徑:12。7x108公厘脫殼穿甲彈&lt;br/&gt;發數:5&lt;br/&gt;使用於:GM6"山貓"</Chinese>
+        <Chinesesimp>口径:12.7x108毫米脱壳穿甲弹&lt;br/&gt;发数:5&lt;br/&gt;使用于:GM6"山猫"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder0">
         <Original>.45 ACP 6Rnd Cylinder</Original>
-        <Chinese>。45ACP6發彈筒</Chinese>
-        <Chinesesimp>.45ACP6发弹巢</Chinesesimp>
+        <Chinese>.45ACP口徑6發彈筒</Chinese>
+        <Chinesesimp>.45ACP口径6发弹巢</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgWeapons_srifle_DMR_01_F_library">
         <Original>The Rahim 7.62 mm is a bullpup rifle serving as a designated marksman weapon for the OPFOR. It's based on the older Russian rifle with upgraded modern features such as firing mechanism, trigger and rail. The bullpup design allows the rifle to be more compact and maneuverable without shortening the barrel.</Original>
-        <Chinese>Rahim7.62mm是一把給紅方精準射手使用的無托步槍。它是基於老一輩的俄羅斯步槍，在加上一些現代的擊發機制，板機與滑軌所製而成。它的無托設計使它的槍身更為緊湊，使其具有高機動性而不用縮短槍管。</Chinese>
-        <Chinesesimp>“拉希姆”7.62毫米是一把给红方精准射手使用的无托步枪。它在老一代的俄制步枪的基础上加入了一些现代化特性，诸如发射机制，扳机与导轨。无托设计使它的枪身更为紧凑，使其具有高便携性而不用缩短枪管。</Chinesesimp>
+        <Chinese>"拉希姆"7.62公厘是一把給紅方精準射手使用的無托步槍。它是基於老一輩的俄羅斯步槍，在加上一些現代的擊發機制，板機與滑軌所製而成。它的無托設計使它的槍身更為緊湊，使其具有高機動性而不用縮短槍管。</Chinese>
+        <Chinesesimp>"拉希姆"7.62毫米是一把给红方精准射手使用的无托步枪。它在老一代的俄制步枪的基础上加入了一些现代化特性，诸如发射机制，扳机与导轨。无托设计使它的枪身更为紧凑，使其具有高便携性而不用缩短枪管。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag0">
         <Original>12.7mm 5Rnd APDS Mag</Original>
-        <Chinese>12。7mm5發脫殼穿甲彈彈匣</Chinese>
+        <Chinese>12.7公厘5發脫殼穿甲彈彈匣</Chinese>
         <Chinesesimp>12.7毫米5发脱壳穿甲弹弹匣</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag1">
         <Original>Caliber: 7.62x54 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Rahim</Original>
-        <Chinese>口徑:7.62x54mm&lt;br/&gt;發數:10&lt;br/&gt;使用於:Rahim</Chinese>
-        <Chinesesimp>口径:7.62x54毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:“拉希姆”</Chinesesimp>
+        <Chinese>口徑:7.62x54公厘&lt;br/&gt;發數:10&lt;br/&gt;使用於:"拉希姆"</Chinese>
+        <Chinesesimp>口径:7.62x54毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:"拉希姆"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag0">
         <Original>7.62mm 10Rnd Mag</Original>
-        <Chinese>7.62mm10發彈匣</Chinese>
+        <Chinese>7.62公厘10發彈匣</Chinese>
         <Chinesesimp>7.62毫米10发弹匣</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag0">
         <Original>.45 ACP 11Rnd Mag</Original>
-        <Chinese>。45ACP11發彈匣</Chinese>
-        <Chinesesimp>.45ACP11发弹匣</Chinesesimp>
+        <Chinese>.45ACP口徑11發彈匣</Chinese>
+        <Chinesesimp>.45ACP口径11发弹匣</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-five</Original>

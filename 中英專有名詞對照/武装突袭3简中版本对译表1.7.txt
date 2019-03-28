@@ -1,0 +1,1123 @@
+《武装突袭3》简中汉化对译表（如有疏漏请首先查找其它文本内有无相同翻译，如无则翻译后回报并添加至讨论区）
+
+  人名  
+Aaron		艾伦
+Abbas		阿巴斯
+Abbey		阿比
+Abdul-Aziz	阿卜杜尔-阿齐兹
+Abdul-Basir	阿卜杜尔-巴沙尔
+Abdul-Latif	阿卜杜尔-拉蒂夫
+Abdul-Mussawir	阿卜杜尔-穆萨维尔
+Abdul-Qadir	阿卜杜尔-卡迪尔
+Abdul-Wahhab	阿卜杜尔-瓦哈卜
+Abdullah		阿卜杜拉
+Abel		阿贝尔
+Achebe		阿切比
+Achilleas		阿奇利亚斯
+Acker		阿克尔
+Adam		亚当
+Adel		阿德尔
+Adelade		阿德拉德
+Adil		阿迪尔
+Adila		阿迪拉
+Ahamed-Jan	艾哈迈德-乔
+Ahmed-Khan	艾赫迈德-汗
+Aiden		艾登
+Aisha		艾依莎
+Ajani		阿加尼
+Akbar		阿克巴
+Akhanteros	阿坎特罗斯
+Alexander	亚历山大
+Alexis		阿列克西斯
+Alexsandros	亚历山德罗斯
+Ali		阿里
+Alia		阿利亚
+Allen		艾伦
+Almeida		阿尔梅达
+Amani		阿玛尼
+Amin		阿明
+Amir		阿米尔
+Ana		安娜
+Anderson	安德森
+Andreas		安德里亚斯
+Angelos		安杰洛斯
+Anisa		阿尼撒
+Antigoni		阿迪戈尼
+Anwari		安瓦里
+Anwen		安文
+Apostolos	阿普斯托洛斯
+Argyris		阿吉里斯
+Archie		阿尔奇
+Arion		阿里翁
+Arif		阿里夫
+Aris		阿里斯
+Armstrong	阿姆斯特朗
+Arnold		阿尔诺德
+Aspool		阿斯普尔
+Aslan		阿斯兰
+Athanasiadis	阿萨纳夏季斯
+Attar		阿塔尔
+Augustina	奥古斯季娜
+Awolowo		阿沃洛沃
+Aybak		艾伯克
+Azibo		阿齐博
+Azikiwe		阿兹基韦
+Azim		阿齐姆
+Aziza		阿齐扎
+Baden		巴登
+Bahadur		巴哈杜尔
+Baker		贝克
+Bakker		巴克
+Bakhtari		巴赫塔里
+Balewa		巴勒瓦
+Bao		包
+Barbora		芭波拉
+Baros		巴罗斯
+Basharat		巴沙拉特
+Bashir		巴什尔
+Batou		巴特
+Batty		巴蒂
+Bayh		贝赫
+Bela		贝拉
+Ben		本
+Benjamin	本杰明
+Bennett		班尼特
+Beresz		贝雷什
+Beridze		别里泽
+Berzins		别尔金斯
+Beszel		贝塞尔
+Bianca		比安卡
+Biton		比顿
+Blackburn	布莱克本
+Borg		博尔格
+Bouras		布拉斯
+Bradley		布莱德雷
+Braun		布劳恩
+Brown		布朗
+Burr		布尔
+Byrne		拜恩
+Caleb		卡列博
+Callum		卡鲁姆
+Cameron		卡梅隆
+Campbell	坎贝尔
+Case		凯斯
+Chang		常
+Charles		查尔斯
+Charlie		查理
+Chen		陈
+Cheng		程
+Chong		庄
+Choy		蔡
+Christou		赫里斯图
+Chrystophoros	赫里斯托福罗斯
+Clark		克拉克
+Clarke		克拉克
+Coburn		科伯恩
+Collins		柯林斯
+Conor		康纳
+Connor		康纳
+Conrad		康拉德
+Constantinou	康斯坦丁努
+Cooper		库珀
+Cosmos		科斯莫斯
+Costas		科斯塔斯
+Dagmar		达格玛
+Daniel		丹尼尔
+David		大卫
+Davies		戴维斯
+Davis		戴维斯
+Davu		达乌
+Dayton		代顿
+Dembe		德姆比
+George		乔治
+Dillard		迪拉德
+Dimitriou	迪米特里乌
+Dimitiros		迪米提罗斯
+Dimitriadis	迪米特里亚迪斯
+Dimitris		迪米特里斯
+Dong		董
+Donnan		道南
+Dorgan		多尔干
+Douglas		道格拉斯
+Doukas		杜卡斯
+Dubois		杜波依斯
+Dumi		杜米
+Dylan		迪兰
+Eaton		伊顿
+Edward		爱德华
+Edwards		爱德华兹
+Egwu		艾格乌
+Ehsan		艾珊
+Ekwensi		艾克文西
+Elena		埃莲娜
+Elia		艾丽娅
+Elias		埃利阿斯
+Ellinaki		埃利纳基
+Emira		艾米拉
+Erlend		艾尔伦德
+Esposito		埃斯波西托
+Esteban		埃斯特班
+Ester		埃斯特
+Ethan		伊桑
+Eva		爱娃
+Evangelia	埃万耶利亚
+Evangelos	埃万耶洛
+Evans		埃文斯
+Everett		埃沃莱特
+Evripidis		艾弗里皮迪斯
+Ewan		埃万
+Faima		法伊玛
+Faisal		法伊萨尔
+Fahim		法希姆
+Farid		法里德
+Faruqi		法鲁齐
+Faulkner		福克纳
+Finlay		芬利
+Floros		弗洛罗斯
+Fotini		方蒂尼
+Frank		弗兰克
+Franka		弗兰卡
+Franklin		富兰克林
+Frost		弗罗斯特
+Fusila		弗西拉
+Gavras		加夫拉斯
+Gaia		耶亚
+Gailani		加伊拉尼
+Galadriel		盖拉德丽尔
+Gamba		加姆巴
+Gao		高
+Gavin		加文
+George		乔治
+Georgious	伊奥尔伊奥斯
+Gerasimos	埃耶拉西莫斯
+Ghafurzhai	加富尔扎伊
+Giannis		扬尼斯
+Gikas		吉卡斯
+Gillespie		吉莱斯皮
+Giorgos		伊奥尔戈斯
+Giourkas		伊乌尔卡斯
+Givens		吉文斯
+Gregor		格里高尔
+Griffiths		格里菲斯
+Gowon		格翁
+Green		格林
+Grover		格罗弗
+Grun		格伦
+Gula		古拉
+Guljon		古尔琼
+Gulshan		古尔珊
+Guo		郭
+Habib		哈比卜
+Habibi		哈比比
+Habibzai		哈比扎伊
+Hafiz		哈菲兹
+Hafwen		哈夫文
+Haidari		哈伊达里
+Haifa		哈伊法
+Haikias		哈伊基亚斯
+Haikal		哈伊卡尔
+Hall		哈尔
+Halliwell		哈利韦尔
+Han		韩
+Hanson		汉森
+Harrison		哈里森
+Hazima		哈齐玛
+Henry		亨利
+Hoxha		霍查
+Hwang		黄
+Hakimi		哈基米
+Hakimi		哈基密
+Hamidi		哈米迪
+Hans		汉斯
+Hardi		哈尔迪
+Harris		哈里斯
+Harry		哈里
+Harvey		哈尔维
+Hasan		哈桑
+Hasib		哈西卜
+Hawa		哈瓦
+Hawkins		霍金斯
+Heinrich		海因里希
+Hill		希尔
+Homer		霍默
+Hossein		侯赛因
+Hu		胡
+Hughes		休斯
+Hussein		侯赛因
+Hutchison	哈奇森
+Hyeronymus	海尔罗尼慕斯
+Ibori		伊博里
+Ibrahimovic	伊布拉西莫维奇
+Idi		伊迪
+Idris		伊德里斯
+Igwe		伊格韦
+Il		伊
+Imre		伊姆勒
+Inouyie		伊诺乌耶
+Ioannou		约安努
+Isaac		伊萨克
+Ismail		伊斯迈尔
+Isofidou		伊索非道
+Istvan		伊斯特万
+Iwu		伊乌
+Jabr		贾布尔
+Jacek		贾谢克
+Jack		杰克
+Jackson		杰克逊
+Jacob		雅各布
+Jafar		贾法尔
+Jahi		贾希
+Jake		杰克
+Jalali		贾拉利
+Jalil		贾利尔
+Jamal		贾马尔
+James		詹姆斯
+James Turner	詹姆斯·特纳
+Jamie		贾米
+Jamila		贾米拉
+Jannos		雅诺什
+Jasmin		贾斯敏
+Jasmine		贾斯敏
+Jawadi		贾瓦蒂
+Jawadi		贾瓦迪
+Jean		让
+Jeong		郑
+Jesus		热苏斯
+Jim		吉姆
+Jiri		基里
+Joe		乔
+Joensen		约恩森
+Johnson		约翰逊
+Jones		琼斯
+Joris		约里斯
+Joseph		约瑟夫
+Hoshua		约书亚
+Juan		胡安
+Kabir		卡比尔
+Kakar		喀喀尔
+Kammenou	卡梅诺
+Kaneda		卡聂达
+Kanelloupou	卡内洛珀
+Kant		坎特
+Karagianni	卡拉乔尼
+Karapataki	卡拉帕塔基
+Karim		卡里姆
+Karima		卡里玛
+Karizi		卡里齐
+Karmanlis	卡尔曼利斯
+Katerina		卡特里娜
+Katungi		卡通吉
+Kayla		凯拉
+Kazlauskas	卡斯劳斯卡斯
+Kerry		克里
+Khairullah	海鲁拉
+Khalil		哈利尔
+Khalili		哈利利
+Khara		哈拉
+Khoram		霍拉姆
+Khusraw		胡斯劳
+King		金
+Kirabo		基拉博
+Kirby		科比
+Kofi		科非
+Kohzad		柯扎德
+Kong		孔
+Korhonen	克尔赫兰
+Kostakis		科斯塔基斯
+Kostas		科斯塔斯
+Kostis		科斯蒂斯
+Kowalski		科瓦尔斯基
+Kuame		夸梅
+Kuang		广
+Kuma		库玛
+Kung		巩
+Kushan		库珊
+Kyle		凯尔
+Kyriaki		基利亚基
+Kyriakos		基里亚科斯
+Lacey		莱西
+Lafteris		拉夫特里斯
+Lagos		拉戈斯
+Laila		拉伊拉
+Latifa		拉蒂法
+Lara		劳拉
+Larkin		拉尔金
+Latif		拉提夫
+Laya		拉雅
+Lazaros		拉扎罗斯
+Leahy		莱希
+Lech		莱赫
+Lee		李
+Leszek		莱谢克
+Levine		莱文
+Lewis		路易斯
+Liam		利亚姆
+Liang		梁
+Liao		廖
+Lias		利亚斯
+Lin		林
+Lin		蔺
+Liou		刘
+Liosi		利奥斯
+Logan		洛根
+Lombardi	隆巴尔迪
+Lopez		洛佩兹
+Lu		卢
+Lucas		卢卡斯
+Luigi		路易吉
+Luke		卢克
+Luqman		卢克曼
+Luo		罗
+Lydia		莉迪亚
+Ma		马
+Maalik		马利克
+MacDonald	麦克唐纳
+MacKinnon	麦金农
+Madaki		马达基
+Mage		马琪
+Mahbuba	马赫布巴
+Mahmood	马赫茂德
+Mahnoor		马赫努尔
+Mahshid		马赫什德
+Majeed		马吉德
+Malas		马拉斯
+Malika		马丽卡
+Manago		马纳戈
+Manelia		马内利亚
+Maneta		马内塔
+Mao		毛
+Maras		马拉斯
+Maria		玛利亚
+Mariam		玛丽娅姆
+Mario		马里奥
+Mark		马克
+Mark Cole	马克·科尔
+Martin		马丁
+Martinez		马丁内斯
+Masood		马苏德
+Mastori		马斯托里
+Mattew		马修
+Max		麦克斯
+Mbanefo		巴内福
+McKendrick	麦肯德里克
+Melania		梅兰尼亚
+Melidoni		梅利多尼
+Mertens		默滕斯
+Metis		梅蒂丝
+Michael		迈克尔
+Michalis		米凯利斯
+Militiadis		米利迪亚迪斯
+Miller		米勒
+Mimis		米米斯
+Milonaki		米洛纳基
+Misha		米沙
+Mitchell		米彻尔
+Mobutu		莫布图
+Mohammadi	莫哈马迪
+Moller		摩勒
+Moore		摩尔
+Moraiti		莫拉伊基
+Morgan		摩根
+Morris		莫里斯
+Moritiadou	莫里基亚多
+Moser		莫泽
+Mufid		穆飞德
+Muhammad	穆罕默德
+Muhtaram	穆塔拉姆
+Murphy		墨菲
+Mustafa		穆斯塔法
+Muru		穆鲁
+Nagia		纳吉亚
+Namdar		纳姆达尔
+Nasia		纳西亚
+Nathan		内森
+Nazari		纳扎里
+Nazuk		纳祖克
+Nejat		内雅特
+Newton		牛顿
+Ng		吴
+Ngige		吉杰
+Nichols		尼克尔斯
+Nikolau		尼古拉
+Nikolaos		尼科拉奥斯
+Nikos		尼科斯
+Nilson		尼尔森
+Noah		诺亚
+Noor		诺儿
+Noori		诺莉
+Noori		诺里
+Northgate	诺思盖特
+Novak		诺瓦克
+Nuha		奴哈
+Nyx		尼克斯
+O'Brian		奥'勃良
+O'Connor	奥'康纳
+O'Sullivan	奥'沙利文
+Odili		奥迪利
+Oikonomopulu	奥伊科诺莫普卢
+Okadigbo	奥卡迪博
+Okeke		奥克克
+Okonjo		奥康乔
+Okonkwo	奥康阔
+Okoye		奥阔耶
+Oliver		奥利弗
+Omari		奥马里
+Ong		王
+Orestes		奥雷斯忒斯
+Orestis		奥雷斯蒂斯
+Oringo		奥林戈
+Osmani		奥斯玛尼
+Owen		欧文
+Pakiza		帕基扎
+Pan		潘
+Panagiota	帕纳乔塔
+Panagiotis	帕纳乔蒂斯
+Panos		帕诺斯
+Papadopoulos	帕帕多珀洛斯
+Papageorgiou	帕帕格奥尔乔
+Parker		帕克
+Pater		帕特尔
+Pedersen		佩德森
+Petridis		佩特里迪斯
+Phillips		菲利普斯
+Plissken		普利斯肯
+Price		普莱斯
+Pushkacs		普什卡科斯
+Qadeer		卡迪尔
+Qasim		夸西姆
+Rahim		拉希姆
+Rahimi		拉希米
+Rahima		拉希玛
+Rana		拉娜
+Ratebzad		拉特布扎德
+Reed		里德
+Reese		里斯
+Reynolds		雷诺兹
+Rhea		雷亚
+Rhys		里斯
+Roberts		罗伯茨
+Robertson	罗伯逊
+Robinson	罗宾逊
+Rollins		罗林斯
+Rosenbaum	罗森鲍姆
+Roumpesi	洛姆佩希
+Rua		鲁阿
+Rubaba		鲁巴巴
+Rudabe		鲁达彼
+Ryan		瑞安
+Ryu		柳
+Sabet		萨蓓特
+Sabet		萨贝特
+Sabira		萨比拉
+Sadat		萨达特
+Saikar		赛卡尔
+Sakina		萨基纳
+Sami		萨米
+Sammar		萨马尔
+Samuel		萨缪尔
+Sangeen		桑根
+Santiago		圣提亚哥
+Santorum	桑托勒姆
+Savalas		萨瓦拉斯
+Schiller		席勒
+Schneider	施耐德
+Scott		斯考特
+Sean		肖恩
+Sebastian	塞巴斯蒂安
+Selena		赛莲娜
+Shah		沙赫
+Shaan		沙安
+Shaima		沙伊玛
+Shakira		沙基拉
+Shen		沈
+Shirin		什琳
+Shugufa		舒古法
+Shui		水
+Sibhatullah	西卜加图拉
+Spanta		斯潘达
+Seikibo		赛基博
+Sesse-Seko	塞西-赛克
+Siddiqi		西迪琪
+Silvio		西尔维奥
+Smith		史密斯
+Snow		斯诺
+Sofia		索菲娅
+Solomen Maru	所罗门·马鲁
+Sonia		索尼娅
+Soraya		索拉娅
+Sotiris		索蒂里斯
+Sotridis		索特里迪斯
+Spanta		斯潘塔
+Spiegelman	施皮格尔曼
+Spiros		斯派罗斯
+Stanis		斯坦尼斯
+Stavros		斯塔夫罗斯
+Stavrou		斯塔夫罗
+Stefanos		斯特凡诺斯
+Stella		斯特拉
+Stephenson	史蒂芬森
+Stergos		斯特考斯
+Steward		斯图华特
+Stirlitz		施季里茨
+Strambopoulos	斯特拉姆波珀罗斯
+Suan		算
+Sun		孙
+Sununu		苏努努
+Takhtar		塔赫塔尔
+Takis		塔基斯
+Tamm		塔姆
+Tan		谭
+Tan		潭
+Tanny		塔尼
+Tanwir		坦维尔
+Tasef		塔塞夫
+Tasnim		塔斯尼姆
+Tavoularis	塔沃拉里斯
+Taylor		泰勒
+Teshi		特西
+Tessier		特西尔
+Thalia		塔利娅
+Thamos		塔默斯
+Thanos		塔诺斯
+Theodoros	塞奥佐罗斯
+Theofilos		塞奥费罗斯
+Thomas		托马斯
+Thompson	汤普森
+Thomson		汤姆逊
+Tinibu		提尼卜
+Theodorf		提奥多夫
+Toby		托比
+Tom		汤姆
+Tomas		托马斯
+Toth		托斯
+Tyler		泰勒
+Tsai		蔡
+Tuba		图芭
+Tung		佟
+Turner		特纳
+Umar		乌马尔
+Vangelis		范吉利斯
+Vasileia		瓦西莉亚
+Vasilis		瓦西利斯
+Vega		维加
+Verga		沃尔加
+Vidales		维达勒斯
+Viggo		维戈
+Vince Broadale	文斯·布罗戴尔
+Volke		沃尔克
+Vulovic		武科维奇
+Vyron		外伦
+Wahida		瓦希达
+Wallace                   华莱士
+Walker		沃克
+Walsch		沃尔什
+Walsh		沃尔什
+Wang		王
+Wang		汪
+Wang		汪
+Ward		瓦尔德
+Wardak		瓦尔达克
+Wardak		瓦尔达克
+Warren		华伦
+Watson		沃特森
+William		威廉
+Williams		威廉姆斯
+Wilson		威尔逊
+Wlad		瓦拉德
+Wong		王
+Wood		伍德
+Worko		沃尔科
+Wright		莱特
+Write		怀特
+Wu		吴
+Wu		伍
+Xavier		泽维尔
+Xenakis		泽纳基斯
+Xie		谢
+Ximi		西米
+Xu		徐
+Xue		薛
+Yang		杨
+Yao		姚
+Yelda		叶尔达
+Yeung		杨
+Young		扬
+Yousuf		优素福
+Yu		余
+Yusufzai		优素福扎伊
+Zahor		扎霍儿
+Zahor		扎霍尔
+Zahur		扎胡尔
+Zak		扎克
+Zakhilwal	扎希尔瓦尔
+Zaim		扎伊姆
+Zainab		扎伊纳卜
+Zamani		扎玛尼
+Zambo		扎姆博
+Zamina		扎米娜
+Zao		造
+Zenon		芝诺
+Zev		杰夫
+Zhawid		扎维德
+Zheng		郑
+Zuhra		祖赫拉
+Zygmunt		齐格蒙特
+
+  岛屿名  
+Altis		阿尔蒂斯
+Malden		马尔登
+Stratis		斯特拉蒂斯
+Tanoa		塔诺亚
+
+  斯特拉蒂斯地名  
+Agia Marina	圣马里纳
+Agios Cephas	圣海法斯
+Agios Ioannis	圣伊奥安尼斯
+Airfield		机场
+Airstation Mike-26	Mike-26航空站
+Camp Maxwell	麦克斯韦营地
+Camp Rogain	罗根营地
+Camp Tempest	坦皮斯特营地
+Girna		吉尔纳
+Girna Bay	吉尔纳湾
+Jay Bay		贾伊湾
+Kamino Bay	卡米诺湾
+Kamino Coast	卡米诺海岸
+Kamino Firing Range卡米诺射击靶场
+Keiros Bay	基罗斯湾
+Kifi Bay		基菲湾
+Kill Farm		基尔农场
+Limeri Bay	利梅里湾
+LZ Baldy		巴尔迪着陆区
+LZ Conner	康纳着陆区
+Marina Bay	马里纳湾
+Nisi Bay		尼西湾
+Pythos		皮索斯
+Strogos Bay	斯特罗戈斯湾
+Tsoukala Bay	楚卡拉湾
+Tsoukalia	楚卡利亚
+Xiros		克西罗斯
+
+  阿尔蒂斯地名  
+Abdera		阿布德拉
+Agela		阿格拉
+Aggelochori	阿杰洛克里
+Agia Pelagia	圣佩拉伊亚
+Agia Stemma	圣斯泰玛
+Agia Triada	圣特里亚达
+Agios Andreas	圣安兹雷亚斯
+Agios Dionysios	圣迪奥尼西奥斯
+Agios Georgios	圣耶奥尔伊奥斯
+Agios Konstantinos圣孔斯坦蒂诺斯
+Agios Kosmas	圣科斯马斯
+Agios Minas	圣米纳斯
+Agios Panagiotis	圣帕帕乔蒂斯
+Agios Petros	圣皮特罗斯
+Aktinarki		阿克蒂纳尔基
+Alikampos	阿利卡姆波斯
+Almyra		阿尔米拉
+Amfissa		阿姆菲萨
+Ammolofi Bay	阿莫洛菲湾
+Amoni		阿莫尼
+Anthrakia	安斯拉基亚
+Aristi		阿里斯蒂
+Athanos		阿萨诺斯
+Antharakia	阿塔拉基亚
+Athira		阿西拉
+Atsalisi		阿特萨利斯
+Bomos		沃莫斯
+Cap Agrios	阿格里奥斯角
+Cap Drakontas	德拉孔塔斯角
+Cap Makrinos	马克里诺斯角
+Cap Strigla	斯特里格拉角
+Cap Thelos	塞洛斯角
+Cap Zefyris	泽菲里斯角
+Chalkeia		哈尔基亚
+Chalkeia Bay	哈尔基亚湾
+Charkia		哈基亚
+Chelonisi		希洛尼西
+Delfinaki		泽尔菲纳基
+Didymos		迪季莫斯
+Dorida		多里达
+Drimea		兹里梅亚
+Edessa		埃泽萨
+Edessa Bay	埃泽萨湾
+Edoris		埃佐里斯
+Eginio		埃伊尼奥
+Ekali		埃卡利
+Faronaki		法罗纳基
+Faros		法罗斯
+Feres		费雷斯
+Fotia		福蒂亚
+Fournos		富尔诺斯
+Frini		夫里尼
+Galana Nera Bay	加拉纳·内拉湾
+Galati		加拉蒂
+Gatolia		加托利亚
+Girina		伊里纳
+Gori		戈里
+Gravia		格拉维亚
+Ifestiona		伊费斯蒂奥纳
+Ioannina		伊奥安尼纳
+Iraklia		伊拉克利亚
+Iremi Bay		伊雷米湾
+Kategidis		卡泰伊季斯
+Kalithea		卡利塞亚
+Kalithea Bay	卡利塞亚湾
+Kalochori	卡洛霍里
+Kastro		卡斯特罗
+Katalaki		卡塔拉基
+Katalaki Bay	卡塔拉基湾
+Kavala		卡瓦拉
+Kavala Bay	卡瓦拉湾
+Kawala Pier	卡瓦拉码头
+Kavirida		卡维里达
+Kira		基拉
+Kore		科雷
+Koroni		科罗尼
+Krya Nera	克里亚·内拉
+Lakka		拉卡
+Limni		利姆尼
+Limnichori	利姆尼霍里
+Livadi		利瓦季
+Magos		马戈斯
+Makrynisi	马克里尼西
+Mazi		马齐
+Mazi Bay		马齐湾
+Melanera Bay	梅拉内拉湾
+Maroula		马罗拉
+Molos		莫洛斯
+Molos Airfield	莫洛斯机场
+Molos Bay	莫洛斯湾
+Monisi		莫尼西
+Naftia Bay	纳夫蒂亚湾
+Negades		内加泽斯
+Negades Bay	内加泽斯湾
+Neochori		内奥霍里
+Neri		内里
+Neri Bay		内里湾
+Nidasos		尼达索斯
+Nifi		尼菲
+Nichi		尼希
+Ochrolimni	奥赫罗利姆尼
+Oreokastro	奥雷奥卡斯特罗
+Orino		奥里诺
+Panagia		帕纳伊亚
+Panochori	帕诺霍里
+Panochori Bay	帕诺霍里湾
+Paros		帕罗斯
+Pefkas Bay	佩夫卡斯湾
+Polemistia	波莱米斯蒂亚
+Poliakko		波利亚科
+Pyrgi		皮尔伊
+Pyrgos		皮尔戈斯
+Pyrgos Bay	皮尔戈斯湾
+Pyrsos		皮尔索斯
+Riga		里加
+Rodopoli		罗佐波利
+Sagonisi		萨恩戈尼西
+Savri		萨夫里
+Selakano		塞拉卡诺
+Sfaka		斯法卡
+Sideras		西泽拉斯
+Skiptro		斯基普特罗
+Skopos		斯科波斯
+Sofia		索菲亚
+Stavros		斯塔夫罗斯
+Synneforos	西尼福罗斯
+Syrta		西尔塔
+Tafos		塔福斯
+Telos		泰洛斯
+Thelos Bay	塞洛斯湾
+Therisa		塞里萨
+Thronos		斯罗诺斯
+Topolia		托珀利亚
+Tonos Bay	托诺斯湾
+Trachia		特拉恰
+Vikos		维科斯
+Xirolimni Dam	克西罗里姆尼水坝
+Zaros Bay	扎罗斯湾
+Zeloran		泽洛兰
+
+  塔诺亚地名  
+Ba		巴
+Baie d'Orange	奥兰治湾
+Balavu		巴拉武
+Belfort		贝尔福
+Blerick		布雷瑞克
+Bua Bua		比阿比阿
+Buawa		比阿瓦
+Cerebu		塞雷布
+Doodstil		多德斯蒂尔
+Galili		加利利
+Georgetown	乔治敦
+Georgetown Bay	乔治敦湾
+Kotomo		科托莫
+Harcourt Strait	哈尔库尔海峡
+Island Douen	杜昂岛
+Island Saint-Marie	圣玛丽岛
+Island Saint-George圣乔治岛
+Imone		伊莫内
+Imuri		伊姆里
+Ipota		伊珀塔
+Katkoula		卡特科拉
+Kumac		库马
+La Foa		拉·福阿
+Laikoro		莱科罗
+Lailai		莱莱
+Lakatoro		拉卡托罗
+Lami		拉米
+La Rochelle	拉·罗谢勒
+Leqa		勒卡
+Lifou		利富
+Lijinhaven	莱因哈文
+Lobaka		洛巴卡
+Losi		洛西
+Luganville	卢甘维尔
+Moddergat	莫德尔加
+Momoa		莫莫亚
+Muaceba		姆阿谢巴
+Namuvaka	那慕瓦卡
+Nandai		南戴
+Nani		纳尼
+Nasua		纳苏亚
+Nikolet		尼科莱
+Oua-Oue		瓦韦
+Oumere		乌米尔
+Ovau		奥瓦
+Penelo		佩纳洛
+Petit Nicolet	小尼科莱
+Port-Boisé	森林港
+Rautake		劳塔克
+Ravi-Ta Island	拉维-塔岛
+Regina		雷吉纳
+Rereki		雷雷基
+Saint-George	圣乔治
+Saint-Julien	圣于连
+Saint-Paul	圣保罗
+Saioko		塞约科
+Savaka		萨瓦卡
+Savu		萨武
+Sosovu		索索武
+Sosovu Island	索索武岛
+Taga		塔加
+Tanouka		塔诺卡
+Tavu		塔武
+Tobakoro	托巴科罗
+Tuadua Island	图阿杜阿岛
+Tuvanaka	图瓦纳卡
+Vagalala		瓦加拉拉
+Yani Islands	雅尼岛
+Yanukka		亚努卡
+Yasa Island	雅撒岛
+Vatukoulo	瓦图科洛
+
+  马尔登岛地名  
+Arette		阿雷特
+Arudy		阿吕迪
+Blanches		布兰谢
+Bosquet		博斯凯
+Cancon		康孔
+Chapoi		沙普瓦
+Corton		科尔通
+Dents du Midi	当·杜米迪
+Dorres		多雷
+Dourdan		杜尔丹
+Eperon		埃佩龙
+Faro		法罗
+Feas		费阿
+Goisse		瓜塞
+Guran		古朗
+Houdan		胡丹
+Isaro		伊萨罗
+La Pessagne	拉·佩萨尼厄
+La Reviere	拉·里韦尔
+La Trinite		拉·特里尼特
+Larche		拉尔舍
+Lavalle		拉瓦尔
+Le Roi		勒·鲁瓦
+Lolisse		洛利塞
+Monte		蒙特
+Moray		莫赖
+Saint Jean	圣让
+Saint Louis	圣路易
+Saint Martin	圣马坦
+Sainte Marie	圣玛丽
+Vigny		维格尼
+
+  武器绰号  
+Ababil		"燕子"
+Adder		"蝰蛇"
+Archer		"射手"
+Blackfoot	"黑足"
+Black Wasp II	"黑蜂"2
+Bobcat		"公猫"
+Buzzard		"秃鹰"
+Centurion	"百夫长"
+Cheetah		"猎豹"
+Cyrus		"塞鲁斯"
+Darter		"短刀"
+Falchion		"大刀"
+Ghosthawk	"幽灵鹰"
+Gorgon		"蛇发女妖"
+Gryphon		"狮鹫"
+Hellcat		"泼妇"
+Hornet		"大黄蜂"
+Hummingbird	"蜂鸟"
+Hunter		"猎人"
+Huron		"休伦"
+Ifrit		"焰灵"
+Kahlia		"喀利亚"
+Kajman		"鳄鱼"
+Kamysh		"卡米什"
+Kedge		"小锚"
+Kir		"基尔"
+Kuma		"库玛"
+Lynx		"山猫"
+Macer		"梅瑟"
+Marid		"马里德"
+Marshall		"警长"
+Minigun		"米尼岗"
+Mohawk		"莫霍克"
+Mora		"摩拉"
+Navid		"纳维德"
+Neophron	"兀鹫"
+Orca		"逆戟鲸"
+Panther		"黑豹"
+Pawnee		"波尼"
+Praetorian	"禁卫军"
+Proteus		"普罗透斯"
+Rook		"白嘴鸦"
+Rahim		"拉希姆"
+Sahr		"沙尔"
+Saif		"萨夫"
+Sandstorm	"沙暴"
+Scorcher		"炙烤者"
+Sharur		"神杖"
+Shikra		"褐耳鹰"
+Shrieker		"尖叫者"
+Slammer		"重击者"
+Sochor		"索霍尔"
+Spartan		"斯巴达"
+Sting		"斯丁"
+Strider		"挺进者"
+Stomper		"践踏者"
+Taru		"塔鲁"
+Tayran		"泰兰"
+Tempest		"风暴"
+Tigris		"底格里斯"
+Tratnyr		"矛叉"
+Varsuk		"獾"
+Vermin		"恶徒"
+Wipeout		"抹杀者"
+Yorris		"尤里斯"
+Zafir		"扎菲尔"
+Zamak		"扎马克"
+Zephyr		"微风"
+Zubr		"野牛"
+
+  无线电呼号  
+Alpha		"阿尔法"
+Alpha-5		"阿尔法-5"
+Alpha Point	"阿尔法尖兵"
+Bishop		"主教"
+Broadway	"百老汇"
+Bravo		"布拉沃"
+Charlie		"查理"
+Echo		"回声"
+Falcon		"猎鹰"
+Fox		"狐狸"
+Foxtrot-1		"狐步舞-1"
+Griffin		"狮鹫"
+Goblin		"哥布林"
+Golf		"高尔夫"
+Hawkeye		"鹰眼"
+Hawkins		"霍金斯"
+Headhunters	"猎头者"
+Hydra		"九头蛇"
+Kilo		"基洛"
+Omega		"欧米加"
+Papa Bear	"熊爸爸"
+Phalanx		"密集阵"
+Romeo		"罗密欧"
+Rook		"白嘴鸦"
+Slingshot		"弹弓"
+Swordfish	"剑鱼"
+Viper-Black	"毒蛇-黑"
+Viper-Green	"毒蛇-绿"
+Viper-Red	"毒蛇-红"
+Whisky-6		"威士忌-6"
+
+  专有名词  
+Medic		卫生兵/卫生员（建议让中国的Medic用后一个名字）
+Combat Life Saver	战斗医务兵
+
+  陆台军语对照  
+近距离空中支援		密接空中支援
+激光			雷射	
+弹着点			落弹点
+夜视仪			夜视镜
+合成作战			联兵作战	
+前进作战基地		前线作战基地
+	
+  编制序列  
+Gendarmerie	宪兵队
+Syndikat 		辛迪加
+AAF		阿尔蒂斯武装力量
+CSAT		广协同盟
+FIA		自由独立同盟
+NATO		北约
+CTRG		战研小组
+111th Infantry Division	第111步兵师
+Carrier Strike Group 14	第14航空母舰打击群
+Griffin Regiment	狮鹫军团
+Task Force Aegis	宙斯盾特遣队
+Platoon		排
+Squad		班
+Section		分排
+Team		组
+Fireteam		火力组
+Patrol		巡逻队
+Sentry		步哨
+
+  彩蛋  
+Suatmm		闭嘴拿走我的钱
+Redburger	红汉堡
+Redstone		红石
+
+  工作室  
+Bohemia Interactive Studio	波希米亚互动工作室
+Bohemia Interactive Simulations	波希米亚互动模拟工作室
+
+注意：
+颜色全部加上"色"
+
+大中小加上"型"
+
+公厘 毫米 / 公分 厘米 / 公寸 分米 / 公尺 米 / 公里 千米 / 公吨 吨
+
+后缀1 2等不加空白
+
+右边 中间 左边
+
+V1 Version 型
+
+特别注意：
+1、Proteus（应该是原声音乐）名应该翻译成"普罗透斯"——这个单词指的是东风终章中米勒搭乘的皇家海军机敏级核潜艇"RMS Proteus"，Proteus作为船名显然应该翻译成一种名词。
+2、原声音乐部分中的Alternative应该翻译成"编曲"
+3、Locations应该翻译成"位置"
+4、Flag (Checkered)指的是格子旗，应翻译为"旗帜（格子）"而不是"旗帜（检查）"（就像F1赛车的终点旗那种）
+5、Combined Arms：这个词大陆军语一般翻译成"合成作战"或"合同作战"（85年前用词，现在似乎不见了），台湾不明，可能是"聯兵作戰"？总之不会是"联合作战"
+6、关于"急救箱"和"医药包"——我认为这个正好翻译反了，First Aid Kit是单兵用的急救包，只是一个小袋子；Medikit是卫生员用的大包，外形接近箱子。我建议分别翻译成"急救包"和"医药箱"
+7、弹道电脑Ballistic Computer在大陆似乎一般被翻译为弹道计算机
+8、选单Menu在大陆一般翻译成菜单
+9、滑鼠Mouse在大陆叫鼠标
+10、Medic建议翻译成卫生兵
+11、大陆一般Team翻译成组，Group翻译成队，Squad翻译成班
+12、Lower Weapon翻译成"放下武器"不妥，有歧义；改为"放低武器
+
+此外大量修改了僵硬翻译和译文语序问题。常见问题：
+1、删去了好多"一个"——中文里不常这样使用数量词。
+2、把使、被、把字句修改为简单句
+3、删去无用的"的"
+4、Tactics一词，日文翻译作"戦略"（せんりゃく），中文翻译作"战术"

@@ -21,17 +21,17 @@
         </Key>
         <Key ID="str_a3_i_full_ghillie_semiarid_f0">
           <Original>Full Ghillie (Semi-Arid) [AAF]</Original>
-          <Chinese>全身吉利服(半荒漠迷彩)[Altis政府軍]</Chinese>
+          <Chinese>全身吉利服(半荒漠迷彩)[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>全身吉利服(半荒漠迷彩)[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_i_full_ghillie_lush_f0">
           <Original>Full Ghillie (Lush) [AAF]</Original>
-          <Chinese>全身吉利服(深色)[Altis政府軍]</Chinese>
+          <Chinese>全身吉利服(深色)[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>全身吉利服(深色)[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_i_full_ghillie_arid_f0">
           <Original>Full Ghillie (Arid) [AAF]</Original>
-          <Chinese>全身吉利服(荒漠迷彩)[Altis政府軍]</Chinese>
+          <Chinese>全身吉利服(荒漠迷彩)[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>全身吉利服(荒漠迷彩)[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_b_full_ghillie_semiarid_f0">
@@ -148,14 +148,14 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_ctrg_sharphooter_f0">
           <Original>O'Connor</Original>
-          <Chinese>O'Connor</Chinese>
+          <Chinese>奧'康納</Chinese>
           <Chinesesimp>奥'康纳</Chinesesimp>
         </Key>
       </Container>
       <Container name="Heads">
         <Key ID="str_a3_cfgfaces_man_a3_whitehead_22_sa0">
           <Original>Kirby (Semi-Arid)</Original>
-          <Chinese>Kirby(半荒漠迷彩)</Chinese>
+          <Chinese>科比(半荒漠迷彩)</Chinese>
           <Chinesesimp>科比(半荒漠迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_whitehead_22_l0">
@@ -165,37 +165,37 @@
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_whitehead_22_a0">
           <Original>Kirby (Arid)</Original>
-          <Chinese>Kirby(荒漠迷彩)</Chinese>
+          <Chinese>科比(荒漠迷彩)</Chinese>
           <Chinesesimp>科比(荒漠迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_persianhead_a3_04_sa0">
           <Original>Bahadur (Semi-Arid)</Original>
-          <Chinese>Bahadur(半荒漠迷彩)</Chinese>
+          <Chinese>巴哈杜爾(半荒漠迷彩)</Chinese>
           <Chinesesimp>巴哈杜尔(半荒漠迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_persianhead_a3_04_l0">
           <Original>Bahadur (Lush)</Original>
-          <Chinese>Bahadur(深色)</Chinese>
+          <Chinese>巴哈杜爾(深色)</Chinese>
           <Chinesesimp>巴哈杜尔(深色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_persianhead_a3_04_a0">
           <Original>Bahadur (Arid)</Original>
-          <Chinese>Bahadur(荒漠迷彩)</Chinese>
+          <Chinese>巴哈杜爾(荒漠迷彩)</Chinese>
           <Chinesesimp>巴哈杜尔(荒漠迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_greekhead_a3_10_sa0">
           <Original>Baros (Semi-Arid)</Original>
-          <Chinese>Baros(半荒漠迷彩)</Chinese>
+          <Chinese>巴羅斯(半荒漠迷彩)</Chinese>
           <Chinesesimp>巴罗斯(半荒漠迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_greekhead_a3_10_l0">
           <Original>Baros (Lush)</Original>
-          <Chinese>Baros(深色)</Chinese>
+          <Chinese>巴羅斯(深色)</Chinese>
           <Chinesesimp>巴罗斯(深色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_greekhead_a3_10_a0">
           <Original>Baros (Arid)</Original>
-          <Chinese>Baros(荒漠迷彩)</Chinese>
+          <Chinese>巴羅斯(荒漠迷彩)</Chinese>
           <Chinesesimp>巴罗斯(荒漠迷彩)</Chinesesimp>
         </Key>
       </Container>
@@ -403,7 +403,7 @@
       <Key ID="str_a3_cfgmods_mark_assets_dlcbscope010">
         <Original>Kahlia is a new CSAT designated marksman scope with illuminated iron sights, chosen to enhance the marksman rifles.</Original>
         <Chinese>Kahlia是個CSAT的精準射手瞄準鏡，上面還裝有光學瞄準鏡，可讓精準射手步槍近距離和中距離都能交戰。</Chinese>
-        <Chinesesimp>“喀利亚”是广协同盟的一种新型精准射手瞄准镜，上面还装有光学瞄具，可让精准射手步枪在近距离和中距离都能交战。</Chinesesimp>
+        <Chinesesimp>"喀利亚"是广协同盟的一种新型精准射手瞄准镜，上面还装有光学瞄具，可让精准射手步枪在近距离和中距离都能交战。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark_assets_dlcbremotedesignator0">
         <Original>Remote-controlled laser designator turret on a retractable stick. Comes packed in a small backpack.</Original>
@@ -442,22 +442,22 @@
       </Key>
       <Key ID="str_a3_cfgmods_mark5">
         <Original>Arma 3 Marksmen</Original>
-        <Chinese>ArmA3精準射手</Chinese>
+        <Chinese>武裝突襲3精準射手</Chinese>
         <Chinesesimp>武装突袭3精准射手</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark3">
         <Original>Hone your shooting skills and engage in ranged combat with the seven new weapons in the Arma 3 Marksmen DLC.</Original>
-        <Chinese>使用新增的7把武器，在ArmA3精準射手資料片中磨練你的射擊技巧。</Chinese>
+        <Chinese>使用新增的7把武器，在武裝突襲3精準射手資料片中磨練你的射擊技巧。</Chinese>
         <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手资料片中磨练你的射击技巧。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark2">
         <Original>Arma 3 Marksmen</Original>
-        <Chinese>ArmA3精準射手</Chinese>
+        <Chinese>武裝突襲3精準射手</Chinese>
         <Chinesesimp>武装突袭3精准射手</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark1">
         <Original>Arma 3 Marksmen DLC now available. Click to purchase</Original>
-        <Chinese>ArmA3精準射手資料片現在已上市。請點選購買</Chinese>
+        <Chinese>武裝突襲3精準射手資料片現在已上市。請點選購買</Chinese>
         <Chinesesimp>武装突袭3精准射手资料片现在已上市。请点选购买</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgMods_dronePrevNotifText_Mark">
@@ -467,24 +467,24 @@
       </Key>
       <Key ID="STR_A3_CfgMods_Mark_Assets_DLCBScope020">
         <Original>Designated marksman scope with a mil-dot reticle and stronger zoom, recommended for NATO and CTRG marksman rifles. </Original>
-        <Chinese>精準射手瞄準鏡提供給NATO與戰研大隊所使用。</Chinese>
-        <Chinesesimp>精准射手瞄准镜提供给NATO与战研大队所使用。</Chinesesimp>
+        <Chinese>精準射手瞄準鏡提供給北約與戰研大隊所使用。</Chinese>
+        <Chinesesimp>精准射手瞄准镜提供给北约与战研大队所使用。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgmods_overviewfootnote_mark">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Marksmen DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
-        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於ArmA3精準射手資料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟商店頁面讀取更多訊息。&lt;t/&gt;</Chinese>
+        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於武裝突襲3精準射手資料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟商店頁面讀取更多訊息。&lt;t/&gt;</Chinese>
         <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3精准射手资料片。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启商店页面读取更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgmods_popupMsgText_Mark">
         <Original>You are using premium content. Purchase Arma 3 Marksmen to remove the message.</Original>
-        <Chinese>你正在使用付費內容。想移除該訊息請先購買ArmA3精準射手資料片。</Chinese>
-        <Chinesesimp>你正在使用付费内容。想移除该讯息请先购买武装突袭3精准射手资料片。</Chinesesimp>
+        <Chinese>你正在使用付費內容。想移除該訊息請先購買武裝突襲3精準射手資料片。</Chinese>
+        <Chinesesimp>你正在使用付费内容。想移除该信息请先购买武装突袭3精准射手资料片。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Missions_F">
       <Key ID="STR_A3_cfgidentities_hossein0">
         <Original>Hossein</Original>
-        <Chinese>Hossein</Chinese>
+        <Chinese>海珊</Chinese>
         <Chinesesimp>侯赛因</Chinesesimp>
       </Key>
     </Container>
@@ -698,8 +698,8 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_land_vr_shape_01_cube_1m_f0">
             <Original>VR Game Block (Cube, 1m)</Original>
-            <Chinese>虛擬實境方塊(立方體，1m)</Chinese>
-            <Chinesesimp>虚拟实境方块(立方体，1m)</Chinesesimp>
+            <Chinese>虛擬實境方塊(立方體，1公尺)</Chinese>
+            <Chinesesimp>虚拟实境方块(立方体，1米)</Chinesesimp>
           </Key>
         </Container>
       </Container>
@@ -724,8 +724,8 @@
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiummark1">
         <Original>Hone your shooting skills and engage in ranged combat with the seven new weapons in the Arma 3 Marksmen DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa' /&gt;%1%2&lt;t&gt;&lt;\t&gt;Weapon: Cyrus 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk14 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: ASP-1 Kir 12.7 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: SPMG .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Navid 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk-I EMR 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Character: Sniper - with a new full ghillie suit%1%2&lt;t&gt;&lt;\t&gt;Character: Grenadier - with a new heavy vest%1%2&lt;t&gt;&lt;\t&gt;3 Singleplayer Firing Drills%1%2&lt;t&gt;&lt;\t&gt;End Game - a team based multiplayer mode%1%2&lt;t&gt;&lt;\t&gt;Showcase Firing From Vehicles%1%2&lt;t&gt;&lt;\t&gt;Showcase Marksmen%1%2&lt;t&gt;&lt;\t&gt;VR Training courses%1%2&lt;t&gt;&lt;\t&gt;Remote Designators%1%2&lt;t&gt;&lt;\t&gt;Laser Designators%1%2&lt;t&gt;&lt;\t&gt;Facepaints - 9 faces with camouflage%1%2&lt;t&gt;&lt;\t&gt;Kahlia Scope%1%2&lt;t&gt;&lt;\t&gt;AMS Scope%1%2&lt;t&gt;&lt;\t&gt;Weapon Accessories%1%2&lt;t&gt;&lt;\t&gt;Firing Drills Decorative Objects%1%2&lt;t&gt;&lt;\t&gt;Set of extra Steam Achievements%1&lt;t&gt;&lt;\t&gt;</Original>
-        <Chinese>使用新增的7把武器，在ArmA3精準射手資料片中磨練你的射擊技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:Cyrus9.3mm%1%2&lt;t&gt;&lt;\t&gt;武器:Mk147.62mm%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1Kir12。7mm%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG。338%1%2&lt;t&gt;&lt;\t&gt;武器:Navid9.3mm%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10。338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-IEMR7.62mm%1%2&lt;t&gt;&lt;\t&gt;角色:狙擊手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴彈兵-有著新的防彈背心%1%2&lt;t&gt;&lt;\t&gt;3個新的射擊訓練%1%2&lt;t&gt;&lt;\t&gt;終戰-一個新的多人遊戲模式%1%2&lt;t&gt;&lt;\t&gt;任務展示-從載具中射擊%1%2&lt;t&gt;&lt;\t&gt;任務展示-精準射手%1%2&lt;t&gt;&lt;\t&gt;虛擬訓練課程%1%2&lt;t&gt;&lt;\t&gt;遙控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;臉譜-9張新的迷彩臉譜%1%2&lt;t&gt;&lt;\t&gt;Kahlia瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;先進精準射手瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射擊訓練物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinese>
-        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手资料片中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:Cyrus 9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1Kir 12。7毫米%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG。338%1%2&lt;t&gt;&lt;\t&gt;武器:Navid 9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10。338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-IEMR 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;角色:狙击手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴弹兵-有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战-一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示-从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示-精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;Kahlia瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
+        <Chinese>使用新增的7把武器，在武裝突襲3精準射手資料片中磨練你的射擊技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:"塞魯斯" 9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1"基爾" 12.7公厘%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器:Navid 9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-I EMR 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;角色:狙擊手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴彈兵-有著新的防彈背心%1%2&lt;t&gt;&lt;\t&gt;3個新的射擊訓練%1%2&lt;t&gt;&lt;\t&gt;終戰-一個新的多人遊戲模式%1%2&lt;t&gt;&lt;\t&gt;任務展示-從載具中射擊%1%2&lt;t&gt;&lt;\t&gt;任務展示-精準射手%1%2&lt;t&gt;&lt;\t&gt;虛擬訓練課程%1%2&lt;t&gt;&lt;\t&gt;遙控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;臉譜-9張新的迷彩臉譜%1%2&lt;t&gt;&lt;\t&gt;喀利亞瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;先進精準射手瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射擊訓練物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinese>
+        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手资料片中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:"塞鲁斯" 9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1"基尔" 12.7毫米%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器:Navid 9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-I EMR 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;角色:狙击手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴弹兵-有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战-一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示-从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示-精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;激光指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;喀利亚瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiummark0">
         <Original>Marksmen DLC</Original>
@@ -819,7 +819,7 @@
       </Key>
       <Key ID="STR_A3_Flashlight2">
         <Original>Flashlights can be mounted on the rails belonging to certain weapons. They help shooters during night operations if they lack night vision. On the other hand, they also give away the shooter's position.%1%2To activate the flashlight, press %11</Original>
-        <Chinese>戰術燈能被安裝在ㄧ些設有戰術滑軌的武器上。它們可以幫助缺乏夜視鏡的射手在夜間執行任務。相反來說，它們也會容易暴露射手的當前位置。%1%2按下%11即可開/關戰術燈</Chinese>
+        <Chinese>戰術燈能被安裝在一些設有戰術滑軌的武器上。它們可以幫助缺乏夜視鏡的射手在夜間執行任務。相反來說，它們也會容易暴露射手的當前位置。%1%2按下%11即可開/關戰術燈</Chinese>
         <Chinesesimp>战术灯能被安装在一些设有战术滑轨的武器上。它们可以帮助缺乏夜视镜的射手在夜间执行任务。相对来说，它们也会容易暴露射手的当前位置。%1%2按下%11即可开/关战术灯</Chinesesimp>
       </Key>
       <Key ID="STR_A3_LaserPointer1">
@@ -829,7 +829,7 @@
       </Key>
       <Key ID="STR_A3_LaserPointer2">
         <Original>Laser pointers can be attached to certain weapons' side rails. When activated by %11, the laser can be seen via night vision and indicates the exact position that the weapon's barrel is pointing at.%1%1However, if the enemy is also equipped with night vision, the laser may give away the position of the shooter.</Original>
-        <Chinese>雷射指示器能被安裝在ㄧ些設有側邊戰術滑軌的武器上。使用%11來開啟它，便能透過夜視鏡觀察武器的指向。%1%1然而，假如敵人也有夜視鏡的話，雷射指示器反而會暴露出射手的當前位置。</Chinese>
+        <Chinese>雷射指示器能被安裝在一些設有側邊戰術滑軌的武器上。使用%11來開啟它，便能透過夜視鏡觀察武器的指向。%1%1然而，假如敵人也有夜視鏡的話，雷射指示器反而會暴露出射手的當前位置。</Chinese>
         <Chinesesimp>激光指示器能被安装在一些设有侧边战术滑轨的武器上。使用%11来开启它，便能通过夜视镜观察武器的指向。%1%1然而，假如敌人也有夜视镜的话，激光指示器反而会暴露出射手的当前位置。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MilDot1">
@@ -840,12 +840,12 @@
       <Key ID="STR_A3_MilDot2">
         <Original>Mil-Dot reticles use mathematics to measure distances. To use them properly, you need to: %1%2Know your target's height and/or width %1%2Divide the size (in meters) by the number of mil-dots it takes up in the reticle %1%2Multiply by 1000 to get the distance</Original>
         <Chinese>密位點可以幫助使用者算出目標的大致距離。要如何使用:%1%2知道你目標的高度或寬度%1%2觀察該目標佔用了多少密位，再用目標的高度/寬度(單位公尺)除以佔用的密位數量%1%2最後乘上1000即可算出目標距離</Chinese>
-        <Chinesesimp>密位点可以帮助使用者算出目标的大致距离。要如何使用:%1%2知道你目标的高度或宽度%1%2观察该目标占用了多少密位，再用目标的高度/宽度(单位公尺)除以占用的密位数量%1%2最后乘上1000即可算出目标距离</Chinesesimp>
+        <Chinesesimp>密位点可以帮助使用者算出目标的大致距离。要如何使用:%1%2知道你目标的高度或宽度%1%2观察该目标占用了多少密位，再用目标的高度/宽度(单位米)除以占用的密位数量%1%2最后乘上1000即可算出目标距离</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MilDot3">
         <Original>Example: enemy tank exposing its side (approx. 8m), taking 10 mils in the scope. 8/10 = 0.8, 0.8*1000 = 800. The tank is 800m away.</Original>
-        <Chinese>範例:敵軍坦克露出了它的側邊(大約長8公尺)，它在瞄準鏡中佔用10個密位點。8/10=0。8，0。8*1000=800。由此可得知坦克大概在800公尺遠的地方。</Chinese>
-        <Chinesesimp>范例:敌军坦克露出了它的侧边(大约长8公尺)，它在瞄准镜中占用10个密位点。8/10=0。8，0。8*1000=800。由此可得知坦克大概在800公尺远的地方。</Chinesesimp>
+        <Chinese>範例:敵軍坦克露出了它的側邊(大約長8公尺)，它在瞄準鏡中佔用10個密位點。8/10=0.8，0.8*1000=800。由此可得知坦克大概在800公尺遠的地方。</Chinese>
+        <Chinesesimp>范例:敌军坦克露出了它的侧边(大约长8米)，它在瞄准镜中占用10个密位点。8/10=0.8，0.8*1000=800。由此可得知坦克大概在800米远的地方。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Optics1">
         <Original>Optics</Original>
@@ -887,32 +887,32 @@
       <Container name="Acc">
         <Key ID="str_a3_cfgweapons_optic_khs_tan0">
           <Original>Kahlia (Tan)</Original>
-          <Chinese>Kahlia(黃褐色)</Chinese>
+          <Chinese>喀利亞(黃褐色)</Chinese>
           <Chinesesimp>喀利亚(黄褐色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_old0">
           <Original>Kahlia (Old)</Original>
-          <Chinese>Kahlia(舊)</Chinese>
+          <Chinese>喀利亞(舊)</Chinese>
           <Chinesesimp>喀利亚(旧)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_hex0">
           <Original>Kahlia (Hex)</Original>
-          <Chinese>Kahlia(數位蜂巢迷彩)</Chinese>
+          <Chinese>喀利亞(數位蜂巢迷彩)</Chinese>
           <Chinesesimp>喀利亚(蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_blk1">
           <Original>Kahlia&lt;br /&gt;Magnification: 5x–11x</Original>
-          <Chinese>Kahlia&lt;br/&gt;倍率:5x–11x</Chinese>
-          <Chinesesimp>“喀利亚”&lt;br/&gt;倍率:5x–11x</Chinesesimp>
+          <Chinese>喀利亞&lt;br/&gt;倍率:5x–11x</Chinese>
+          <Chinesesimp>"喀利亚"&lt;br/&gt;倍率:5x–11x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_blk0">
           <Original>Kahlia (Black)</Original>
-          <Chinese>Kahlia(黑色)</Chinese>
+          <Chinese>喀利亞(黑色)</Chinese>
           <Chinesesimp>喀利亚(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_base0">
           <Original>Kahlia</Original>
-          <Chinese>Kahlia</Chinese>
+          <Chinese>喀利亞</Chinese>
           <Chinesesimp>喀利亚</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_ams_snd0">
@@ -942,37 +942,37 @@
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_93mmg_tan0">
           <Original>Sound Suppressor (9.3mm, Tan)</Original>
-          <Chinese>消音器(9.3mm，黃褐色)</Chinese>
+          <Chinese>消音器(9.3公厘，黃褐色)</Chinese>
           <Chinesesimp>消音器(9.3毫米，黄褐色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_93mmg0">
           <Original>Sound Suppressor (9.3mm, Black)</Original>
-          <Chinese>消音器(9.3mm，黑色)</Chinese>
+          <Chinese>消音器(9.3公厘，黑色)</Chinese>
           <Chinesesimp>消音器(9.3毫米，黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_338_sand0">
           <Original>Sound Suppressor (.338, Sand)</Original>
-          <Chinese>消音器(。338，沙色)</Chinese>
-          <Chinesesimp>消音器(。338，沙色)</Chinesesimp>
+          <Chinese>消音器(.338，沙色)</Chinese>
+          <Chinesesimp>消音器(.338，沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_338_green0">
           <Original>Sound Suppressor (.338, Green)</Original>
-          <Chinese>消音器(。338，綠色)</Chinese>
-          <Chinesesimp>消音器(。338，绿色)</Chinesesimp>
+          <Chinese>消音器(.338，綠色)</Chinese>
+          <Chinesesimp>消音器(.338，绿色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_muzzle_snds_338_black0">
           <Original>Sound Suppressor (.338, Black)</Original>
-          <Chinese>消音器(。338，黑色)</Chinese>
-          <Chinesesimp>消音器(。338，黑色)</Chinesesimp>
+          <Chinese>消音器(.338，黑色)</Chinese>
+          <Chinesesimp>消音器(.338，黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_bipod_03_f_oli0">
           <Original>Bipod (Olive) [AAF]</Original>
-          <Chinese>腳架(橄欖色)[Altis政府軍]</Chinese>
+          <Chinese>腳架(橄欖色)[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>二脚架(橄榄色)[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_bipod_03_f_blk0">
           <Original>Bipod (Black) [AAF]</Original>
-          <Chinese>腳架(黑色)[Altis政府軍]</Chinese>
+          <Chinese>腳架(黑色)[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>二脚架(黑色)[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_bipod_02_f_tan0">
@@ -1041,268 +1041,262 @@
       <Container name="Ammo">
         <Key ID="str_a3_cfgmagazines_150rnd_93x64_mag1">
           <Original>Caliber: 9.3x64mm&lt;br /&gt;Rounds: 150&lt;br /&gt;Used in: Navid</Original>
-          <Chinese>口徑:9.3x64mm&lt;br/&gt;發數:150&lt;br/&gt;使用於:Navid</Chinese>
-          <Chinesesimp>口径:9.3x64毫米&lt;br/&gt;发数:150&lt;br/&gt;使用于:“纳维德”</Chinesesimp>
+          <Chinese>口徑:9.3x64公厘&lt;br/&gt;發數:150&lt;br/&gt;使用於:"納維德"</Chinese>
+          <Chinesesimp>口径:9.3x64毫米&lt;br/&gt;发数:150&lt;br/&gt;使用于:"纳维德"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_150rnd_93x64_mag0">
           <Original>9.3mm 150Rnd Belt</Original>
-          <Chinese>9.3mm150發彈鏈</Chinese>
+          <Chinese>9.3公厘150發彈鏈</Chinese>
           <Chinesesimp>9.3毫米150发弹链</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_130rnd_338_mag1">
           <Original>Caliber: .338 Norma Magnum&lt;br /&gt;Rounds: 130&lt;br /&gt;Used in: SPMG</Original>
-          <Chinese>口徑:。338NormaMagnum&lt;br/&gt;發數:130&lt;br/&gt;使用於:SPMG</Chinese>
-          <Chinesesimp>口径:。338纳莫·马格南&lt;br/&gt;发数:130&lt;br/&gt;使用于:SPMG</Chinesesimp>
+          <Chinese>口徑:.338那莫·馬格南&lt;br/&gt;發數:130&lt;br/&gt;使用於:SPMG</Chinese>
+          <Chinesesimp>口径:.338纳莫·马格南&lt;br/&gt;发数:130&lt;br/&gt;使用于:SPMG</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_130rnd_338_mag0">
           <Original>.338 NM 130Rnd Belt</Original>
-          <Chinese>。338NM130發彈鏈</Chinese>
-          <Chinesesimp>。338NM 130发弹链</Chinesesimp>
+          <Chinese>.338NM 130發彈鏈</Chinese>
+          <Chinesesimp>.338NM 130发弹链</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_93x64_dmr_05_mag1">
           <Original>Caliber: 9.3x64mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: Cyrus</Original>
-          <Chinese>口徑:9.3x64mm&lt;br/&gt;發數:10&lt;br/&gt;使用於:Cyrus</Chinese>
-          <Chinesesimp>口径:9.3x64毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:“塞鲁斯”</Chinesesimp>
+          <Chinese>口徑:9.3x64公厘&lt;br/&gt;發數:10&lt;br/&gt;使用於:"塞魯斯"</Chinese>
+          <Chinesesimp>口径:9.3x64毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:"塞鲁斯"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_93x64_dmr_05_mag0">
           <Original>9.3mm 10Rnd Mag</Original>
-          <Chinese>9.3mm10發彈匣</Chinese>
+          <Chinese>9.3公厘10發彈匣</Chinese>
           <Chinesesimp>9.3毫米10发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_338_mag1">
           <Original>Caliber: .338 Lapua Magnum&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: MAR-10</Original>
-          <Chinese>口徑:。338LapuaMagnum&lt;br/&gt;發數:10&lt;br/&gt;使用於:MAR-10</Chinese>
-          <Chinesesimp>口径:。338拉普阿·马格南&lt;br/&gt;发数:10&lt;br/&gt;使用于:MAR-10</Chinesesimp>
+          <Chinese>口徑:.338拉普阿·馬格南&lt;br/&gt;發數:10&lt;br/&gt;使用於:MAR-10</Chinese>
+          <Chinesesimp>口径:.338拉普阿·马格南&lt;br/&gt;发数:10&lt;br/&gt;使用于:MAR-10</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_338_mag0">
           <Original>.338 LM 10Rnd Mag</Original>
-          <Chinese>。338LM10發彈匣</Chinese>
-          <Chinesesimp>。338LM 10发弹匣</Chinesesimp>
+          <Chinese>.338LM 10發彈匣</Chinese>
+          <Chinesesimp>.338LM 10发弹匣</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_127x54_mag1">
           <Original>Caliber: 12.7x54 mm&lt;br /&gt;Rounds: 10&lt;br /&gt;Used in: ASP-1 Kir</Original>
-          <Chinese>口徑:12。7x54mm&lt;br/&gt;發數:10&lt;br/&gt;使用於:ASP-1Kir</Chinese>
-          <Chinesesimp>口径:12。7x54毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:ASP-1“基尔”</Chinesesimp>
+          <Chinese>口徑:12.7x54公厘&lt;br/&gt;發數:10&lt;br/&gt;使用於:ASP-1"基爾"</Chinese>
+          <Chinesesimp>口径:12.7x54毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:ASP-1"基尔"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_127x54_mag0">
           <Original>12.7mm 10Rnd Mag</Original>
-          <Chinese>12。7mm10發彈匣</Chinese>
-          <Chinesesimp>12。7毫米10发弹匣</Chinesesimp>
+          <Chinese>12.7公厘10發彈匣</Chinese>
+          <Chinesesimp>12.7毫米10发弹匣</Chinesesimp>
         </Key>
       </Container>
       <Container name="LongRangeRifles">
         <Key ID="str_a3_cfgweapons_srifle_dmr_06_olive_f0">
           <Original>Mk14 7.62 mm (Olive)</Original>
-          <Chinese>Mk147.62mm(橄欖色)</Chinese>
+          <Chinese>Mk14 7.62公厘(橄欖色)</Chinese>
           <Chinesesimp>Mk14 7.62毫米(橄榄色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_06_camo_f_library0">
           <Original>The Mk14 is a classic battle rifle used in service since the sixties. It is a selective fire automatic rifle that fires the 7.62x51 mm NATO ammunition. Mk14 was replaced by advanced modern variants like Mk18 ABR, but thanks to its low cost, simple construction, and reliability, it is still used in several countries.</Original>
-          <Chinese>Mk14是把60年代的經典步槍。可調整開火模式。使用7.62x51mmNATO彈藥。Mk14後來被現代化的Mk18ABR所取代，但由於其造價低廉，構造簡單和非常可靠等特性，它還是被許多國家所使用。</Chinese>
-          <Chinesesimp>Mk14是把60年代的经典战斗步枪。该枪为可调整射击模式。使用7.62x51毫米北约弹药。Mk14后来被现代化的Mk18ABR所取代，但由于其造价低廉，构造简单和非常可靠等特性，它还是被许多国家所使用。</Chinesesimp>
+          <Chinese>Mk14是把60年代的經典步槍。可調整開火模式。使用7.62x51公厘北約彈藥。Mk14後來被現代化的Mk18 ABR所取代，但由於其造價低廉，構造簡單和非常可靠等特性，它還是被許多國家所使用。</Chinese>
+          <Chinesesimp>Mk14是把60年代的经典战斗步枪。该枪为可调整射击模式。使用7.62x51毫米北约弹药。Mk14后来被现代化的Mk18 ABR所取代，但由于其造价低廉，构造简单和非常可靠等特性，它还是被许多国家所使用。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_06_camo_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 7.62x51 mm</Original>
-          <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51mm</Chinese>
+          <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51公厘</Chinese>
           <Chinesesimp>精准射手步枪&lt;br/&gt;口径:7.62x51毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_06_camo_f0">
           <Original>Mk14 7.62 mm (Camo)</Original>
-          <Chinese>Mk147.62mm(迷彩)</Chinese>
+          <Chinese>Mk14 7.62公厘(迷彩)</Chinese>
           <Chinesesimp>Mk14 7.62毫米(迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_tan_f0">
           <Original>Cyrus 9.3 mm (Tan)</Original>
-          <Chinese>Cyrus9.3mm(黃褐色)</Chinese>
-          <Chinesesimp>“塞鲁斯”9.3毫米(黄褐色)</Chinesesimp>
+          <Chinese>"塞魯斯" 9.3公厘(黃褐色)</Chinese>
+          <Chinesesimp>"塞鲁斯" 9.3毫米(黄褐色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_hex_f0">
           <Original>Cyrus 9.3 mm (Hex)</Original>
-          <Chinese>Cyrus9.3mm(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>“塞鲁斯”9.3毫米(蜂巢迷彩)</Chinesesimp>
+          <Chinese>"塞魯斯" 9.3公厘(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>"塞鲁斯" 9.3毫米(蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_blk_f_library0">
           <Original>Thanks to the 9.3x64 mm ammunition, Cyrus offers better performance than standard 7.62 marksman rifles. At the same time, it is lighter and more versatile than heavy sniper rifles. Cyrus is a gas operated action rifle with single and full auto fire modes. It is a very precise and deadly weapon at a medium distance.</Original>
-          <Chinese>多謝了9.3x64mm彈藥，Cyrus有著比7.62口徑的精準射手步槍還要好的性能。同時也比重型狙擊槍還要來的輕與靈活。Cyrus是把氣動式步槍，有著單發與全自動的開火模式。它在中等距離的交戰上，表現非常精準且致命。</Chinese>
-          <Chinesesimp>多亏了9.3x64毫米弹药，“塞鲁斯”有着比7.62口径的精准射手步枪还要好的性能。同时也比重型狙击枪还要来的轻巧灵活。“塞鲁斯”是一种导气式步枪，有单发与全自动射击模式。它在中等距离的交战上，表现非常精准且致命。</Chinesesimp>
+          <Chinese>多謝了9.3x64公厘彈藥，"塞魯斯"有著比7.62口徑的精準射手步槍還要好的性能。同時也比重型狙擊槍還要來的輕與靈活。"塞魯斯"是把氣動式步槍，有著單發與全自動的開火模式。它在中等距離的交戰上，表現非常精準且致命。</Chinese>
+          <Chinesesimp>多亏了9.3x64毫米弹药，"塞鲁斯"有着比7.62口径的精准射手步枪还要好的性能。同时也比重型狙击枪还要来的轻巧灵活。"塞鲁斯"是一种导气式步枪，有单发与全自动射击模式。它在中等距离的交战上，表现非常精准且致命。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_blk_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 9.3x64 mm</Original>
-          <Chinese>精準射手步槍&lt;br/&gt;口徑:9.3x64mm</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:9.3x64mm</Chinesesimp>
+          <Chinese>精準射手步槍&lt;br/&gt;口徑:9.3x64公厘</Chinese>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:9.3x64毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_blk_f0">
           <Original>Cyrus 9.3 mm (Black)</Original>
-          <Chinese>Cyrus9.3mm(黑色)</Chinese>
-          <Chinesesimp>“塞鲁斯”9.3毫米(黑色)</Chinesesimp>
+          <Chinese>"塞魯斯" 9.3公厘(黑色)</Chinese>
+          <Chinesesimp>"塞鲁斯" 9.3毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_04_tan_f0">
           <Original>ASP-1 Kir 12.7 mm (Tan)</Original>
-          <Chinese>ASP-1Kir12。7mm(黃褐色)</Chinese>
-          <Chinesesimp>ASP-1“基尔”12。7毫米(黄褐色)</Chinesesimp>
+          <Chinese>ASP-1"基爾" 12.7公厘(黃褐色)</Chinese>
+          <Chinesesimp>ASP-1"基尔" 12.7毫米(黄褐色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_04_f_library0">
-          <Original>The ASP-1 Kir is a special purpose weapon. This semi-automatic rifle is unique thanks to the built-in silencer and ammunition it uses. The special 12.7x54 mm subsonic round can penetrate heavy body armor at 100 m. Kir is a devastating weapon at short ranges but above 200 m it very quickly loses efficiency.
-</Original>
-          <Chinese>ASP-1Kir是把特殊用途武器。這把半自動步槍有著內置的消音器與獨特的彈藥。特製的12。7x54mm亞音速子彈，可以穿透100公尺距離遠的厚重防彈衣。Kir在短距離上有著可怕的性能，但當射擊距離超過200公尺以後，它的動能便會快速下降。
-</Chinese>
-          <Chinesesimp>ASP-1“基尔”是一种特殊用途武器。这把半自动步枪有着整体式消音器与独特的弹药。特制的12。7x54毫米亚音速子弹可以在100米距离上穿透重型防弹衣。“基尔”在近距离上有着可怕的性能，但当射击距离超过200米以后，它的动能便会快速下降。
-</Chinesesimp>
+          <Original>The ASP-1 Kir is a special purpose weapon. This semi-automatic rifle is unique thanks to the built-in silencer and ammunition it uses. The special 12.7x54 mm subsonic round can penetrate heavy body armor at 100 m. Kir is a devastating weapon at short ranges but above 200 m it very quickly loses efficiency.</Original>
+          <Chinese>ASP-1"基爾"是把特殊用途武器。這把半自動步槍有著內置的消音器與獨特的彈藥。特製的12.7x54公厘亞音速子彈，可以穿透100公尺距離遠的厚重防彈衣。"基爾"在短距離上有著可怕的性能，但當射擊距離超過200公尺以後，它的動能便會快速下降。</Chinese>
+          <Chinesesimp>ASP-1"基尔"是一种特殊用途武器。这把半自动步枪有着整体式消音器与独特的弹药。特制的12。7x54毫米亚音速子弹可以在100米距离上穿透重型防弹衣。"基尔"在近距离上有着可怕的性能，但当射击距离超过200米以后，它的动能便会快速下降。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_04_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 12.7x54 mm</Original>
-          <Chinese>精準射手步槍&lt;br/&gt;口徑:12。7x54mm</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:12。7x54毫米</Chinesesimp>
+          <Chinese>精準射手步槍&lt;br/&gt;口徑:12.7x54公厘</Chinese>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:12.7x54毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_04_f0">
           <Original>ASP-1 Kir 12.7 mm (Black)</Original>
-          <Chinese>ASP-1Kir12。7mm(黑色)</Chinese>
-          <Chinesesimp>ASP-1“基尔”12。7毫米(黑色)</Chinesesimp>
+          <Chinese>ASP-1"基爾" 12.7公厘(黑色)</Chinese>
+          <Chinesesimp>ASP-1"基尔" 12.7毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_woodland_f0">
           <Original>Mk-I EMR 7.62 mm (Woodland)</Original>
-          <Chinese>Mk-IEMR7.62mm(森林迷彩)</Chinese>
-          <Chinesesimp>Mk-IEMR 7.62毫米(森林迷彩)</Chinesesimp>
+          <Chinese>Mk-I EMR 7.62公厘(森林迷彩)</Chinese>
+          <Chinesesimp>Mk-I EMR 7.62毫米(森林迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_tan_f0">
           <Original>Mk-I EMR 7.62 mm (Sand)</Original>
-          <Chinese>Mk-IEMR7.62mm(沙色)</Chinese>
-          <Chinesesimp>Mk-IEMR 7.62毫米(沙色)</Chinesesimp>
+          <Chinese>Mk-I EMR 7.62公厘(沙色)</Chinese>
+          <Chinesesimp>Mk-I EMR 7.62毫米(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_multicam_f0">
           <Original>Mk-I EMR 7.62 mm (Camo)</Original>
-          <Chinese>Mk-IEMR7.62mm(迷彩)</Chinese>
-          <Chinesesimp>Mk-IEMR 7.62毫米(迷彩)</Chinesesimp>
+          <Chinese>Mk-I EMR 7.62公厘(迷彩)</Chinese>
+          <Chinesesimp>Mk-I EMR 7.62毫米(迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_khaki_f0">
           <Original>Mk-I EMR 7.62 mm (Khaki)</Original>
-          <Chinese>Mk-IEMR7.62mm(卡其色)</Chinese>
-          <Chinesesimp>Mk-IEMR 7.62毫米(卡其色)</Chinesesimp>
+          <Chinese>Mk-I EMR 7.62公厘(卡其色)</Chinese>
+          <Chinesesimp>Mk-I EMR 7.62毫米(卡其色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_f_library0">
           <Original>The Mk-I EMR (Enhanced Marksman Rifle) is a modern marksman rifle chambered in 7.62 mm NATO. It is a light, reliable, and easily serviceable weapon, which can benefit from various attachments. The EMR offers single and full auto fire modes and it is most suited to ranges from 600 to 800 m.</Original>
-          <Chinese>Mk-IEMR(增強型精準射手步槍)這把現代精準射手步槍使用了7.62mmNATO彈藥。它是把重量輕，可靠且易於維修的武器，可選用多種不同的武器配件。該步槍有著單發與全自動兩種開火模式，最佳交戰距離落在600到800公尺。</Chinese>
-          <Chinesesimp>Mk-IEMR(增强型精准射手步枪)是一种使用7.62毫米北约弹的现代精确射手步枪。这是一种重量轻，可靠且易于维修的武器，可选用多种不同的武器配件。该步枪有着单发与全自动两种开火模式，最佳交战距离在600到800米之间。</Chinesesimp>
+          <Chinese>Mk-I EMR(增強型精準射手步槍)這把現代精準射手步槍使用了7.62公厘北約彈藥。它是把重量輕，可靠且易於維修的武器，可選用多種不同的武器配件。該步槍有著單發與全自動兩種開火模式，最佳交戰距離落在600到800公尺。</Chinese>
+          <Chinesesimp>Mk-I EMR(增强型精准射手步枪)是一种使用7.62毫米北约弹的现代精确射手步枪。这是一种重量轻，可靠且易于维修的武器，可选用多种不同的武器配件。该步枪有着单发与全自动两种开火模式，最佳交战距离在600到800米之间。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: 7.62x51 mm NATO</Original>
-          <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51mmNATO</Chinese>
+          <Chinese>精準射手步槍&lt;br/&gt;口徑:7.62x51公厘北約彈</Chinese>
           <Chinesesimp>精准射手步枪&lt;br/&gt;口径:7.62x51毫米北约弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_f0">
           <Original>Mk-I EMR 7.62 mm (Black)</Original>
-          <Chinese>Mk-IEMR7.62mm(黑色)</Chinese>
-          <Chinesesimp>Mk-IEMR 7.62毫米(黑色)</Chinesesimp>
+          <Chinese>Mk-I EMR 7.62公厘(黑色)</Chinese>
+          <Chinesesimp>Mk-I EMR 7.62毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_sniper_f0">
           <Original>MAR-10 .338 (Sand)</Original>
-          <Chinese>MAR-10。338(沙色)</Chinese>
-          <Chinesesimp>MAR-10 。338(沙色)</Chinesesimp>
+          <Chinese>MAR-10 .338(沙色)</Chinese>
+          <Chinesesimp>MAR-10 .338(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_f_library0">
           <Original>The MAR-10 is a powerful marksman weapon used by CTRG forces. This semi-automatic rifle is chambered in .338 Lapua Magnum. With its 66 cm long barrel and 4.4 kg weight, MAR-10 isn't easy to handle, but high power and extreme precision with effective range up to 1700 m compensate it.</Original>
-          <Chinese>MAR-10是把強力的精準射手武器，被戰研大隊所使用。這把半自動步槍使用了。338LapuaMagnum當作子彈。雖然66公分的槍管與4。4公斤的重量，而導致這把步槍不易操控，但它有著優異的準確度與高達1700公尺的有效射程來彌補這些缺點。</Chinese>
-          <Chinesesimp>MAR-10是把强力的精准射手武器，被战研大队所使用。这把半自动步枪使用。338拉普阿·马格南弹。由于其长66厘米的枪管与4。4公斤的重量，这把步枪不易操控，但它优异的准确度与高达1700米的有效射程能弥补这些缺点。</Chinesesimp>
+          <Chinese>MAR-10是把強力的精準射手武器，被戰研大隊所使用。這把半自動步槍使用了.338拉普阿·马格南弹當作子彈。雖然66公分的槍管與4.4公斤的重量，而導致這把步槍不易操控，但它有著優異的準確度與高達1700公尺的有效射程來彌補這些缺點。</Chinese>
+          <Chinesesimp>MAR-10是把强力的精准射手武器，被战研大队所使用。这把半自动步枪使用.338拉普阿·马格南弹。由于其长66厘米的枪管与4.4千克的重量，这把步枪不易操控，但它优异的准确度与高达1700米的有效射程能弥补这些缺点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_f1">
           <Original>Marksman Rifle&lt;br /&gt;Caliber: .338 Lapua Magnum</Original>
-          <Chinese>精準射手步槍&lt;br/&gt;口徑:。338LapuaMagnum</Chinese>
-          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:。338拉普阿·马格南弹</Chinesesimp>
+          <Chinese>精準射手步槍&lt;br/&gt;口徑:.338拉普阿·马格南弹</Chinese>
+          <Chinesesimp>精准射手步枪&lt;br/&gt;口径:.338拉普阿·马格南弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_f0">
           <Original>MAR-10 .338 (Black)</Original>
-          <Chinese>MAR-10。338(黑色)</Chinese>
-          <Chinesesimp>MAR-10 。338(黑色)</Chinesesimp>
+          <Chinese>MAR-10 .338(黑色)</Chinese>
+          <Chinesesimp>MAR-10 .338(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_02_camo_f0">
           <Original>MAR-10 .338 (Camo)</Original>
-          <Chinese>MAR-10。338(迷彩)</Chinese>
-          <Chinesesimp>MAR-10 。338(迷彩)</Chinesesimp>
+          <Chinese>MAR-10 .338(迷彩)</Chinese>
+          <Chinesesimp>MAR-10 .338(迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_06_base_f0">
           <Original>Mk14 7.62 mm</Original>
-          <Chinese>Mk147.62mm</Chinese>
+          <Chinese>Mk14 7.62公厘</Chinese>
           <Chinesesimp>Mk14 7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_05_base_f0">
           <Original>Cyrus 9.3 mm</Original>
-          <Chinese>Cyrus9.3mm</Chinese>
-          <Chinesesimp>“塞鲁斯”9.3毫米</Chinesesimp>
+          <Chinese>"塞魯斯" 9.3公厘</Chinese>
+          <Chinesesimp>"塞鲁斯"9.3毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_04_base_f0">
           <Original>ASP-1 Kir 12.7 mm</Original>
-          <Chinese>ASP-1Kir12。7mm</Chinese>
-          <Chinesesimp>ASP-1“基尔”12。7毫米</Chinesesimp>
+          <Chinese>ASP-1"基爾" 12.7公厘</Chinese>
+          <Chinesesimp>ASP-1"基尔" 12.7毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_03_base_f0">
           <Original>Mk-I EMR 7.62 mm</Original>
-          <Chinese>Mk-IEMR7.62mm</Chinese>
-          <Chinesesimp>Mk-IEMR 7.62毫米</Chinesesimp>
+          <Chinese>Mk-I EMR 7.62公厘</Chinese>
+          <Chinesesimp>Mk-I EMR 7.62毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_02_base_f0">
           <Original>MAR-10 .338</Original>
-          <Chinese>MAR-10。338</Chinese>
-          <Chinesesimp>MAR-10 。338</Chinesesimp>
+          <Chinese>MAR-10 .338</Chinese>
+          <Chinesesimp>MAR-10 .338</Chinesesimp>
         </Key>
       </Container>
       <Container name="Machineguns">
         <Key ID="str_a3_cfgweapons_mmg_02_sand_f0">
           <Original>SPMG .338 (Sand)</Original>
-          <Chinese>SPMG。338(沙色)</Chinese>
-          <Chinesesimp>SPMG。338(沙色)</Chinesesimp>
+          <Chinese>SPMG.338(沙色)</Chinese>
+          <Chinesesimp>SPMG.338(沙色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_02_camo_f_library0">
           <Original>The SPMG (Special Purpose Machine Gun) is a lightweight medium machine gun, which greatly benefits from modern materials. It is designed to fill the gap between 7.62 mm and .50 machine guns. The SPMG uses .338 Norma Magnum bullets. The effective range of the machine gun is 1500 m, and thanks to advanced technology, it has a low recoil.</Original>
-          <Chinese>做為中型機槍，由於SPMG(特殊用途機槍)使用了現代材料來製作，所以重量較其他機槍來得輕。它的設計宗旨是用來填補7.62mm和.50機槍間的落差。SPMG使用。338NormaMagnum子彈。它的有效射程有1500公尺，由於高科技的技術，它的後座力也非常低。</Chinese>
-          <Chinesesimp>做为中型机枪，由于SPMG(特殊用途机枪)使用了现代材料来制作，所以重量较其他机枪来得轻。它的设计宗旨是用来填补7.62毫米和.50机枪间的落差。SPMG使用。338纳莫·马格南弹，有效射程达1500米，由于高科技的技术，它的后座力也非常低。</Chinesesimp>
+          <Chinese>做為中型機槍，由於SPMG(特殊用途機槍)使用了現代材料來製作，所以重量較其他機槍來得輕。它的設計宗旨是用來填補7.62公厘和.50機槍間的落差。SPMG使用.338纳莫·馬格南彈。它的有效射程有1500公尺，由於高科技的技術，它的後座力也非常低。</Chinese>
+          <Chinesesimp>做为中型机枪，由于SPMG(特殊用途机枪)使用了现代材料来制作，所以重量较其他机枪来得轻。它的设计宗旨是用来填补7.62毫米和.50机枪间的落差。SPMG使用.338纳莫·马格南弹，有效射程达1500米，由于高科技的技术，它的后座力也非常低。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_02_camo_f1">
           <Original>Medium Machine Gun&lt;br /&gt;Caliber: .338 Norma Magnum</Original>
-          <Chinese>中型機槍&lt;br/&gt;口徑:。338NormaMagnum</Chinese>
-          <Chinesesimp>中型机枪&lt;br/&gt;口径:。338纳莫·马格南弹</Chinesesimp>
+          <Chinese>中型機槍&lt;br/&gt;口徑:.338纳莫·馬格南彈</Chinese>
+          <Chinesesimp>中型机枪&lt;br/&gt;口径:.338纳莫·马格南弹</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_02_camo_f0">
           <Original>SPMG .338 (MTP)</Original>
-          <Chinese>SPMG。338(多地形迷彩)</Chinese>
-          <Chinesesimp>SPMG。338(多地形迷彩)</Chinesesimp>
+          <Chinese>SPMG .338(多地形迷彩)</Chinese>
+          <Chinesesimp>SPMG .338(多地形迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_02_black_f0">
           <Original>SPMG .338 (Black)</Original>
-          <Chinese>SPMG。338(黑色)</Chinese>
-          <Chinesesimp>SPMG。338(黑色)</Chinesesimp>
+          <Chinese>SPMG .338(黑色)</Chinese>
+          <Chinesesimp>SPMG .338(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_02_base_f0">
           <Original>SPMG .338</Original>
-          <Chinese>SPMG。338</Chinese>
-          <Chinesesimp>SPMG。338</Chinesesimp>
+          <Chinese>SPMG .338</Chinese>
+          <Chinesesimp>SPMG .338</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_tan_f0">
           <Original>Navid 9.3 mm (Tan)</Original>
-          <Chinese>Navid9.3mm(黃褐色)</Chinese>
-          <Chinesesimp>“纳维德”9.3毫米(黄褐色)</Chinesesimp>
+          <Chinese>"納維德" 9.3公厘(黃褐色)</Chinese>
+          <Chinesesimp>"纳维德" 9.3毫米(黄褐色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_hex_f_library0">
           <Original>Navid is a medium machine gun serving as a powerful support weapon. It uses the 9.3x64 mm ammunition. Navid's weight over 12 kg makes it quite difficult to fire from the standing position, but when deployed, it is a precise and deadly machine gun with outstanding suppressive effect.</Original>
-          <Chinese>Navid是一把中型機槍，被用來當作強力的支援性武器。它使用9.3x64mm子彈。由於Navid的重量超過12公斤，所以立射將會變得非常困難。但當使用腳架來佈署它時，它將變得非常精準且致命，起到非常優異的壓制效果。</Chinese>
-          <Chinesesimp>“纳维德”是一种中型机枪，被用来当作强力的支援性武器。它使用9.3x64毫米子弹。由于“纳维德”的重量超过12公斤，立姿射击非常困难。但当使用脚架来部署它时，它将变得非常精准且致命，起到非常优异的压制效果。</Chinesesimp>
+          <Chinese>"納維德"是一把中型機槍，被用來當作強力的支援性武器。它使用9.3x64公厘子彈。由於"納維德"的重量超過12公斤，所以立射將會變得非常困難。但當使用腳架來佈署它時，它將變得非常精準且致命，起到非常優異的壓制效果。</Chinese>
+          <Chinesesimp>"纳维德"是一种中型机枪，被用来当作强力的支援性武器。它使用9.3x64毫米子弹。由于"纳维德"的重量超过12千克，立姿射击非常困难。但当使用脚架来部署它时，它将变得非常精准且致命，起到非常优异的压制效果。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_hex_f1">
-          <Original>Medium Machine Gun&lt;br /&gt;Caliber: 9.3x64 mm
-</Original>
-          <Chinese>中型機槍&lt;br/&gt;口徑:9.3x64mm
-</Chinese>
-          <Chinesesimp>中型机枪&lt;br/&gt;口径:9.3x64毫米
-</Chinesesimp>
+          <Original>Medium Machine Gun&lt;br /&gt;Caliber: 9.3x64 mm</Original>
+          <Chinese>中型機槍&lt;br/&gt;口徑:9.3x64公厘</Chinese>
+          <Chinesesimp>中型机枪&lt;br/&gt;口径:9.3x64毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_hex_f0">
           <Original>Navid 9.3 mm (Hex)</Original>
-          <Chinese>Navid9.3mm(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>“纳维德”9.3毫米(蜂巢迷彩)</Chinesesimp>
+          <Chinese>"納維德" 9.3公厘(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>"纳维德"9.3毫米(蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_base_f0">
           <Original>Navid 9.3 mm</Original>
-          <Chinese>Navid9.3mm</Chinese>
-          <Chinesesimp>“纳维德”9.3毫米</Chinesesimp>
+          <Chinese>"納維德" 9.3公厘</Chinese>
+          <Chinesesimp>"纳维德"9.3毫米</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -1470,12 +1464,12 @@
     <Container name="Welcome">
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list9_title">
         <Original>Kahlia</Original>
-        <Chinese>Kahlia</Chinese>
-        <Chinesesimp>“喀利亚”</Chinesesimp>
+        <Chinese>"喀利亞"</Chinese>
+        <Chinesesimp>"喀利亚"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list9">
         <Original>CSAT medium range scope</Original>
-        <Chinese>CSAT的中距離瞄準鏡</Chinese>
+        <Chinese>廣協同盟的中距離瞄準鏡</Chinese>
         <Chinesesimp>广协同盟的中距离瞄准镜</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list8_title">
@@ -1485,63 +1479,63 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list8">
         <Original>NATO medium range scope</Original>
-        <Chinese>NATO的中距離瞄準鏡</Chinese>
+        <Chinese>北約的中距離瞄準鏡</Chinese>
         <Chinesesimp>北约的中距离瞄准镜</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list7_title">
         <Original>Navid 9.3 mm</Original>
-        <Chinese>Navid9.3mm</Chinese>
-        <Chinesesimp>“纳维德”9.3毫米</Chinesesimp>
+        <Chinese>"納維德" 9.3公尺</Chinese>
+        <Chinesesimp>"纳维德"9.3毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list7">
         <Original>CSAT medium machine gun</Original>
-        <Chinese>CSAT的中型機槍</Chinese>
+        <Chinese>廣協同盟的中型機槍</Chinese>
         <Chinesesimp>广协同盟的中型机枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list6_title">
         <Original>SPMG .338</Original>
-        <Chinese>SPMG。338</Chinese>
-        <Chinesesimp>SPMG。338</Chinesesimp>
+        <Chinese>SPMG .338</Chinese>
+        <Chinesesimp>SPMG .338</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list6">
         <Original>NATO lightweight medium machine gun</Original>
-        <Chinese>NATO的輕量化中型機槍</Chinese>
+        <Chinese>北約的輕量化中型機槍</Chinese>
         <Chinesesimp>北约的轻量化中型机枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list5_title">
         <Original>ASP-1 Kir</Original>
-        <Chinese>ASP-1Kir</Chinese>
-        <Chinesesimp>ASP-1“基尔”</Chinesesimp>
+        <Chinese>ASP-1"基爾"</Chinese>
+        <Chinesesimp>ASP-1"基尔"</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list5">
         <Original>CSAT special purpose rifle, providing high power at a short range</Original>
-        <Chinese>CSAT的特殊用途步槍，提供短距離的高強力打擊</Chinese>
+        <Chinese>廣協同盟的特殊用途步槍，提供短距離的高強力打擊</Chinese>
         <Chinesesimp>广协同盟的特殊用途步枪，在近距离上威力很大。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list4_title">
         <Original>Mk14 7.62 mm</Original>
-        <Chinese>Mk147.62mm</Chinese>
+        <Chinese>Mk14 7.62公厘</Chinese>
         <Chinesesimp>Mk14 7.62毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list4">
         <Original>FIA medium power marksman rifle</Original>
-        <Chinese>FIA的中型火力精準射手步槍</Chinese>
-        <Chinesesimp>自由阵线的中型火力精准射手步枪</Chinesesimp>
+        <Chinese>自由獨立同盟的中型火力精準射手步槍</Chinese>
+        <Chinesesimp>自由独立同盟的中型火力精准射手步枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list3_title">
         <Original>Mk-I EMR 7.62 mm</Original>
-        <Chinese>Mk-IEMR7.62mm</Chinese>
-        <Chinesesimp>Mk-IEMR 7.62毫米</Chinesesimp>
+        <Chinese>Mk-I EMR 7.62公厘</Chinese>
+        <Chinesesimp>Mk-I EMR 7.62毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list3">
         <Original>NATO medium power marksman rifle</Original>
-        <Chinese>NATO的中型火力精準射手步槍</Chinese>
+        <Chinese>北約的中型火力精準射手步槍</Chinese>
         <Chinesesimp>北约的中型火力精准射手步枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list2_title">
         <Original>MAR-10 .338</Original>
-        <Chinese>MAR-10。338</Chinese>
-        <Chinesesimp>MAR-10 。338</Chinesesimp>
+        <Chinese>MAR-10 .338</Chinese>
+        <Chinesesimp>MAR-10 .338</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list25_title">
         <Original>Achievements</Original>
@@ -1610,8 +1604,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list1_title">
         <Original>Cyrus 9.3mm</Original>
-        <Chinese>Cyrus9.3mm</Chinese>
-        <Chinesesimp>“塞鲁斯”9.3毫米</Chinesesimp>
+        <Chinese>"塞魯斯" 9.3公厘</Chinese>
+        <Chinesesimp>"塞鲁斯" 9.3毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list19_title">
         <Original>End Game</Original>
@@ -1625,7 +1619,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list18_title">
         <Original>AAF Grenadier Vest</Original>
-        <Chinese>Altis政府軍榴彈背心</Chinese>
+        <Chinese>阿爾蒂斯武裝力量榴彈背心</Chinese>
         <Chinesesimp>阿尔蒂斯武装力量榴弹背心</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list18">
@@ -1680,7 +1674,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list13">
         <Original>a new CSAT replacement in addition to NATO and AAF skins</Original>
-        <Chinese>替換掉原本的模組外觀，使CSAT，NATO和AAF皆有自己的雷射指示器</Chinese>
+        <Chinese>替換掉原本的模組外觀，使廣協同盟，北約和阿爾蒂斯武裝力量皆有自己的雷射指示器</Chinese>
         <Chinesesimp>替换掉原本的模组外观，使广协同盟，北约和阿尔蒂斯武装力量皆有自己的激光指示器</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list12_title">
@@ -1690,7 +1684,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list12">
         <Original>deployable, remotely-operated scout turrets with laser designator functionality for NATO and CSAT</Original>
-        <Chinese>可被佈署與遙控的偵察裝備，可用來標定目標，NATO和CSAT皆擁有此裝備</Chinese>
+        <Chinese>可被佈署與遙控的偵察裝備，可用來標定目標，北約和廣協同盟皆擁有此裝備</Chinese>
         <Chinesesimp>可被部署与遥控的侦察装备，可用来标定目标，北约和广协同盟皆拥有此装备</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list11_title">
@@ -1700,8 +1694,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list11">
         <Original>9.3mm and .338 caliber</Original>
-        <Chinese>9.3mm和。338口徑</Chinese>
-        <Chinesesimp>9.3毫米和。338口径</Chinesesimp>
+        <Chinese>9.3公厘和.338口徑</Chinese>
+        <Chinesesimp>9.3毫米和.338口径</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list10_title">
         <Original>Bipods</Original>
@@ -1710,12 +1704,12 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list10">
         <Original>CSAT, NATO and AAF Weapon Deployment attachments for all suitable weapons</Original>
-        <Chinese>CSAT，NATO和AAF的武器腳架皆可裝在別的武器上</Chinese>
+        <Chinese>廣協同盟，北約和阿爾蒂斯武裝力量的武器腳架皆可裝在別的武器上</Chinese>
         <Chinesesimp>广协同盟，北约和阿尔蒂斯武装力量的武器脚架都可装在适当的武器上</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list1">
         <Original>CSAT high power marksman rifle</Original>
-        <Chinese>CSAT的高強力精準射手步槍</Chinese>
+        <Chinese>廣協同盟的高強力精準射手步槍</Chinese>
         <Chinesesimp>广协同盟的高强力精准射手步枪</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_footer2">
@@ -1725,7 +1719,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard">
         <Original>Go over all of the premium content and platform additions that Arma 3 Marksmen offers:</Original>
-        <Chinese>查看所有ArmA3精準射手所提供的好康:</Chinese>
+        <Chinese>查看所有武裝突襲3精準射手所提供的好康:</Chinese>
         <Chinesesimp>查看所有武装突袭3精准射手所提供的内容:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parc_list6_title">
@@ -1790,12 +1784,12 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parc">
         <Original>We remain committed to bringing new features to every Arma 3 player. The following sandbox improvements have been requested for a long time and they are finally here!</Original>
-        <Chinese>我們將繼續致力於開發新功能給所有的ArmA3玩家。以下新增的功能都是長久以來玩家所要求的，現在它們終於成真了!</Chinese>
+        <Chinese>我們將繼續致力於開發新功能給所有的武裝突襲3玩家。以下新增的功能都是長久以來玩家所要求的，現在它們終於成真了!</Chinese>
         <Chinesesimp>我们将继续致力于开发新功能给所有的武装突袭3玩家。以下新增的功能都是长久以来玩家所要求的，现在它们终于成真了!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parb_footer">
         <Original>More about Arma 3 Marksmen</Original>
-        <Chinese>更多關於ArmA3精準射手</Chinese>
+        <Chinese>更多關於武裝突襲3精準射手</Chinese>
         <Chinesesimp>更多关于武装突袭3精准射手</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parb2">
@@ -1805,12 +1799,12 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_parb">
         <Original>In line with our established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;, Arma 3 Marksmen is another premium content pack, supported by a free platform update. Owners will gain unrestricted access to &lt;t color='%1'&gt;7 new weapons, 2 new scopes, remote designators and ghillie suits&lt;/t&gt;. By purchasing the DLC you also support our further development of the Arma 3 platform for everyone!</Original>
-        <Chinese>在我們的&lt;ahref='%3'color='%2'&gt;資料片計劃&lt;/a&gt;中，ArmA3精準射手是另一個可購買的資料片，並且會透過更新來開放給大家。購買者將會擁有&lt;tcolor='%1'&gt;7把新武器，2個新瞄準鏡，遙控指示器與全身吉利服&lt;/t&gt;。透過購買本資料片，你將幫助我們繼續發展ArmA3這個遊戲平臺!</Chinese>
+        <Chinese>在我們的&lt;ahref='%3'color='%2'&gt;資料片計劃&lt;/a&gt;中，武裝突襲3精準射手是另一個可購買的資料片，並且會透過更新來開放給大家。購買者將會擁有&lt;tcolor='%1'&gt;7把新武器，2個新瞄準鏡，遙控指示器與全身吉利服&lt;/t&gt;。透過購買本資料片，你將幫助我們繼續發展武裝突襲3這個遊戲平臺!</Chinese>
         <Chinesesimp>在我们的&lt;ahref='%3'color='%2'&gt;资料片计划&lt;/a&gt;中，武装突袭3精准射手是另一个可购买的资料片，并且会通过更新来开放给大家。购买者将会拥有&lt;tcolor='%1'&gt;7把新武器，2个新瞄准镜，遥控指示器与全身吉利服&lt;/t&gt;。通过购买本资料片，你将帮助我们继续发展武装突袭3这个游戏平台!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_para">
         <Original>Bipods! We've released the &lt;t color='%1'&gt;Arma 3 Marksmen DLC&lt;/t&gt;, bringing shooting gameplay to the next level. Owners can look forward to playing with powerful new gunnery options, but this update also elevates the gun-play experience for everyone. Read on to learn what hugely anticipated features we've added, and what range of content you get to explore. Now, stabilize your weapons, take aim and master your sharpshooting skills!</Original>
-        <Chinese>大家好!我們很榮幸推出了&lt;tcolor='%1'&gt;ArmA3精準射手資料片&lt;/t&gt;，帶領射擊體驗到一個新的層次。購買者可以擁有新加入的武器與配件，但射擊系統的調整是開放給所有玩家的。讀取以下說明，你將可了解我們新增了哪些功能。現在，讓我們一起成為頂尖的精準射手吧!</Chinese>
+        <Chinese>大家好!我們很榮幸推出了&lt;tcolor='%1'&gt;武裝突襲3精準射手資料片&lt;/t&gt;，帶領射擊體驗到一個新的層次。購買者可以擁有新加入的武器與配件，但射擊系統的調整是開放給所有玩家的。讀取以下說明，你將可了解我們新增了哪些功能。現在，讓我們一起成為頂尖的精準射手吧!</Chinese>
         <Chinesesimp>大家好!我们很荣幸推出了&lt;tcolor='%1'&gt;武装突袭3精准射手资料片&lt;/t&gt;，带领射击体验到一个新的层次。购买者可以拥有新加入的武器与配件，但射击系统的调整是开放给所有玩家的。读取以下说明，你将可了解我们新增了哪些功能。现在，让我们一起成为顶尖的精准射手吧!</Chinesesimp>
       </Key>
     </Container>
@@ -1837,7 +1831,7 @@
       </Key>
       <Key ID="str_a3_truck_02_transport_base_f_texturesources_indep0">
         <Original>AAF</Original>
-        <Chinese>AAF</Chinese>
+        <Chinese>阿爾蒂斯武裝力量</Chinese>
         <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_yellow0">
@@ -1937,18 +1931,18 @@
       </Key>
       <Key ID="str_a3_texturesources_indep0">
         <Original>AAF</Original>
-        <Chinese>Altis政府軍</Chinese>
+        <Chinese>阿爾蒂斯武裝力量</Chinese>
         <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_guerrilla_020">
         <Original>FIA 2</Original>
-        <Chinese>自由陣線2</Chinese>
-        <Chinesesimp>自由阵线2</Chinesesimp>
+        <Chinese>自由獨立同盟2</Chinese>
+        <Chinesesimp>自由独立同盟2</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_guerrilla_010">
         <Original>FIA 1</Original>
-        <Chinese>自由陣線1</Chinese>
-        <Chinesesimp>自由阵线1</Chinesesimp>
+        <Chinese>自由獨立同盟1</Chinese>
+        <Chinesesimp>自由独立同盟1</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_grey0">
         <Original>Grey</Original>
@@ -2062,43 +2056,43 @@
       </Key>
       <Key ID="str_a3_o_heli_transport_04_repair_black_f0">
         <Original>Mi-280 Taru (Repair, Black)</Original>
-        <Chinese>Mi-280Taru(維修，黑色)</Chinese>
-        <Chinesesimp>米-280“塔鲁”(维修，黑色)</Chinesesimp>
+        <Chinese>米-280"塔魯"(維修，黑色)</Chinese>
+        <Chinesesimp>米-280"塔鲁"(维修，黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_heli_transport_04_medevac_black_f0">
         <Original>Mi-280 Taru (Medical, Black)</Original>
-        <Chinese>Mi-280Taru(醫療，黑色)</Chinese>
-        <Chinesesimp>米-280“塔鲁”(医疗，黑色)</Chinesesimp>
+        <Chinese>米-280"塔魯"(醫療，黑色)</Chinese>
+        <Chinesesimp>米-280"塔鲁"(医疗，黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_heli_transport_04_fuel_black_f0">
         <Original>Mi-280 Taru (Fuel, Black)</Original>
-        <Chinese>Mi-280Taru(燃油，黑色)</Chinese>
-        <Chinesesimp>米-280“塔鲁”(燃油，黑色)</Chinesesimp>
+        <Chinese>米-280"塔魯"(燃油，黑色)</Chinese>
+        <Chinesesimp>米-280"塔鲁"(燃油，黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_heli_transport_04_covered_black_f0">
         <Original>Mi-280 Taru (Transport, Black)</Original>
-        <Chinese>Mi-280Taru(運輸，黑色)</Chinese>
-        <Chinesesimp>米-280“塔鲁”(运输，黑色)</Chinesesimp>
+        <Chinese>米-280"塔魯"(運輸，黑色)</Chinese>
+        <Chinesesimp>米-280"塔鲁"(运输，黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_heli_transport_04_box_black_f0">
         <Original>Mi-280 Taru (Cargo, Black)</Original>
-        <Chinese>Mi-280Taru(貨物，黑色)</Chinese>
-        <Chinesesimp>米-280“塔鲁”(货物，黑色)</Chinesesimp>
+        <Chinese>米-280"塔魯"(貨物，黑色)</Chinese>
+        <Chinesesimp>米-280"塔鲁"(货物，黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_heli_transport_04_black_f0">
         <Original>Mi-280 Taru (Black)</Original>
-        <Chinese>Mi-280Taru(黑色)</Chinese>
-        <Chinesesimp>米-280“塔鲁”(黑色)</Chinesesimp>
+        <Chinese>米-280"塔魯"(黑色)</Chinese>
+        <Chinesesimp>米-280"塔鲁"(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_heli_transport_04_bench_black_f0">
         <Original>Mi-280 Taru (Bench, Black)</Original>
-        <Chinese>Mi-280Taru(板凳，黑色)</Chinese>
-        <Chinesesimp>米-280“塔鲁”(板凳，黑色)</Chinesesimp>
+        <Chinese>米-280"塔魯"(板凳，黑色)</Chinese>
+        <Chinesesimp>米-280"塔鲁"(板凳，黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_o_heli_transport_04_ammo_black_f0">
         <Original>Mi-280 Taru (Ammo, Black)</Original>
-        <Chinese>Mi-280Taru(彈藥，黑色)</Chinese>
-        <Chinesesimp>米-280“塔鲁”(弹药，黑色)</Chinesesimp>
+        <Chinese>米-280"塔魯"(彈藥，黑色)</Chinese>
+        <Chinesesimp>米-280"塔鲁"(弹药，黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_offroad_01_unarmed_base_f_animationsources_hideservices0">
         <Original>Hide service additions</Original>
@@ -2197,38 +2191,38 @@
       </Key>
       <Key ID="str_a3_land_pod_heli_transport_04_repair_black_f0">
         <Original>Taru Repair Pod (Black)</Original>
-        <Chinese>Taru維修配件(黑色)</Chinese>
-        <Chinesesimp>“塔鲁”维修配件(黑色)</Chinesesimp>
+        <Chinese>"塔魯"維修配件(黑色)</Chinese>
+        <Chinesesimp>"塔鲁"维修配件(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_pod_heli_transport_04_medevac_black_f0">
         <Original>Taru Medical Pod (Black)</Original>
-        <Chinese>Taru醫療配件(黑色)</Chinese>
-        <Chinesesimp>“塔鲁”医疗配件(黑色)</Chinesesimp>
+        <Chinese>"塔魯"醫療配件(黑色)</Chinese>
+        <Chinesesimp>"塔鲁"医疗配件(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_pod_heli_transport_04_fuel_black_f0">
         <Original>Taru Fuel Pod (Black)</Original>
-        <Chinese>Taru燃油配件(黑色)</Chinese>
-        <Chinesesimp>“塔鲁”燃油配件(黑色)</Chinesesimp>
+        <Chinese>"塔魯"燃油配件(黑色)</Chinese>
+        <Chinesesimp>"塔鲁"燃油配件(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_pod_heli_transport_04_covered_black_f0">
         <Original>Taru Transport Pod (Black)</Original>
-        <Chinese>Taru運輸配件(黑色)</Chinese>
-        <Chinesesimp>“塔鲁”运输配件(黑色)</Chinesesimp>
+        <Chinese>"塔魯"運輸配件(黑色)</Chinese>
+        <Chinesesimp>"塔鲁"运输配件(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_pod_heli_transport_04_box_black_f0">
         <Original>Taru Cargo Pod (Black)</Original>
-        <Chinese>Taru貨物配件(黑色)</Chinese>
-        <Chinesesimp>“塔鲁”货物配件(黑色)</Chinesesimp>
+        <Chinese>"塔魯"貨物配件(黑色)</Chinese>
+        <Chinesesimp>"塔鲁"货物配件(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_pod_heli_transport_04_bench_black_f0">
         <Original>Taru Bench Pod (Black)</Original>
-        <Chinese>Taru板凳配件(黑色)</Chinese>
-        <Chinesesimp>“塔鲁”板凳配件(黑色)</Chinesesimp>
+        <Chinese>"塔魯"板凳配件(黑色)</Chinese>
+        <Chinesesimp>"塔鲁"板凳配件(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_land_pod_heli_transport_04_ammo_black_f0">
         <Original>Taru Ammo Pod (Black)</Original>
-        <Chinese>Taru彈藥配件(黑色)</Chinese>
-        <Chinesesimp>“塔鲁”弹药配件(黑色)</Chinesesimp>
+        <Chinese>"塔魯"彈藥配件(黑色)</Chinese>
+        <Chinesesimp>"塔鲁"弹药配件(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_van_01_transport_white_f0">
         <Original>Truck (White)</Original>
@@ -2577,13 +2571,13 @@
       </Key>
       <Key ID="str_a3_b_heli_transport_03_unarmed_green_f0">
         <Original>CH-67 Huron Unarmed (Green)</Original>
-        <Chinese>CH-67Huron無武裝(綠色)</Chinese>
-        <Chinesesimp>CH-67“休伦”无武装(绿色)</Chinesesimp>
+        <Chinese>CH-67"休倫"無武裝(綠色)</Chinese>
+        <Chinesesimp>CH-67"休伦"无武装(绿色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_b_heli_transport_03_black_f0">
         <Original>CH-67 Huron (Black)</Original>
-        <Chinese>CH-67Huron(黑色)</Chinese>
-        <Chinesesimp>CH-67“休伦”(黑色)</Chinesesimp>
+        <Chinese>CH-67"休倫"(黑色)</Chinese>
+        <Chinesesimp>CH-67"休伦"(黑色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_blue_and_green0">
         <Original>Blue &amp; Green</Original>
@@ -2602,13 +2596,13 @@
       </Key>
       <Key ID="str_a3_texturesources_indepdesert0">
         <Original>AAF (Desert Camo Net)</Original>
-        <Chinese>AAF(沙漠偽裝網)</Chinese>
-        <Chinesesimp>AAF(沙漠伪装网)</Chinesesimp>
+        <Chinese>阿爾蒂斯武裝力量(沙漠偽裝網)</Chinese>
+        <Chinesesimp>阿尔蒂斯武装力量(沙漠伪装网)</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_indepjungle0">
         <Original>AAF (Jungle Camo Net)</Original>
-        <Chinese>AAF(叢林偽裝網)</Chinese>
-        <Chinesesimp>AAF(丛林伪装网)</Chinesesimp>
+        <Chinese>阿爾蒂斯武裝力量(叢林偽裝網)</Chinese>
+        <Chinesesimp>阿尔蒂斯武装力量(丛林伪装网)</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_orange_and_blue0">
         <Original>Orange &amp; Blue</Original>

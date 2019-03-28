@@ -16,7 +16,7 @@
           </Key>
           <Key ID="str_a3_time_trials_sp_tt05_overview">
             <Original>A more traditional kart racing circuit built on the Altis airport premises. Find the ideal racing line and hit the apex of every corner to set record times.</Original>
-            <Chinese>一座設置在Altis機場旁的卡丁車賽道。尋找最佳路線，突破自己，創造佳績。</Chinese>
+            <Chinese>一座設置在阿爾蒂斯機場旁的卡丁車賽道。尋找最佳路線，突破自己，創造佳績。</Chinese>
             <Chinesesimp>一座设置在阿尔蒂斯机场旁的卡丁车赛道。寻找最佳路线，突破自己，创造佳绩。</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt05_name_short">
@@ -31,7 +31,7 @@
           </Key>
           <Key ID="str_a3_time_trials_sp_tt04_overview">
             <Original>This looped trial on the open roads near Negades has you racing both uphill and downhill. Don't be distracted by the stunning views!</Original>
-            <Chinese>這座靠近Negades的環形賽道，有著上坡與下坡。請注意，別被驚人的風景給分心了!</Chinese>
+            <Chinese>這座靠近内加澤斯的環形賽道，有著上坡與下坡。請注意，別被驚人的風景給分心了!</Chinese>
             <Chinesesimp>这座靠近内加泽斯的环形赛道，有着上坡与下坡。请注意，别被惊人的风景给分心了!</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt04_name_short">
@@ -41,7 +41,7 @@
           </Key>
           <Key ID="str_a3_time_trials_sp_tt04_name">
             <Original>TT4: Negades Speedway</Original>
-            <Chinese>TT4:Negades賽道</Chinese>
+            <Chinese>TT4:内加澤斯賽道</Chinese>
             <Chinesesimp>TT4:内加泽斯赛道</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt03_overview">
@@ -61,7 +61,7 @@
           </Key>
           <Key ID="str_a3_time_trials_sp_tt02_overview">
             <Original>Weave through the city of Kavala in an exciting and lengthy course. Frequent turns and narrow streets make this is a test of your spatial awareness.</Original>
-            <Chinese>穿梭在Kavala城市中。這個賽道需要你繃緊神經，小心每個轉彎，挑戰你的駕駛技術。</Chinese>
+            <Chinese>穿梭在卡瓦拉城市中。這個賽道需要你繃緊神經，小心每個轉彎，挑戰你的駕駛技術。</Chinese>
             <Chinesesimp>穿梭在卡瓦拉城市中。这个赛道需要你绷紧神经，小心每个转弯，挑战你的驾驶技术。</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt02_name_short">
@@ -71,12 +71,12 @@
           </Key>
           <Key ID="str_a3_time_trials_sp_tt02_name">
             <Original>TT2: Kavala Chase</Original>
-            <Chinese>TT2:Kavala賽道</Chinese>
+            <Chinese>TT2:卡瓦拉賽道</Chinese>
             <Chinesesimp>TT2:卡瓦拉赛道</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt01_overview">
             <Original>This tight closed circuit sits right next to the Altis main airport terminal. Racing the quick loop often is ideal for getting a grip on the kart’s handling.</Original>
-            <Chinese>一個坐落在Altis機場旁的卡丁車賽車場。在此場地中你可以快速掌握到卡丁車的駕駛精隨。</Chinese>
+            <Chinese>一個坐落在阿爾蒂斯機場旁的卡丁車賽車場。在此場地中你可以快速掌握到卡丁車的駕駛精隨。</Chinese>
             <Chinesesimp>一个坐落在阿尔蒂斯机场旁的卡丁车赛车场。在此场地中你可以快速掌握到卡丁车的驾驶精随。</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_sp_tt01_name_short">
@@ -187,7 +187,7 @@
           <Key ID="str_a3_time_trials_diary_text1">
             <Original>Welcome to %1!&lt;br /&gt;&lt;br /&gt;Compete in this Time Trial as often as you'd like and beat your best times!&lt;br /&gt;&lt;br /&gt;Find more information about Time Trials %2.</Original>
             <Chinese>歡迎來到%1!&lt;br/&gt;&lt;br/&gt;想辦法在計時賽中突破自己，創造佳績!&lt;br/&gt;&lt;br/&gt;想要得知更多的訊息請查詢計時賽%2。</Chinese>
-            <Chinesesimp>欢迎来到%1!&lt;br/&gt;&lt;br/&gt;想办法在计时赛中突破自己，创造佳绩!&lt;br/&gt;&lt;br/&gt;想要得知更多的讯息请查询计时赛%2。</Chinesesimp>
+            <Chinesesimp>欢迎来到%1!&lt;br/&gt;&lt;br/&gt;想办法在计时赛中突破自己，创造佳绩!&lt;br/&gt;&lt;br/&gt;想要得知更多的信息请查询计时赛%2。</Chinesesimp>
           </Key>
           <Key ID="str_a3_time_trials_diary_subject_title">
             <Original>Time Trials</Original>
@@ -318,12 +318,12 @@
           </Key>
           <Key ID="STR_A3_MP_ZR_8_Karts01_briefingName_short">
             <Original>Race on Altis (Karts)</Original>
-            <Chinese>Altis賽車(卡丁車)</Chinese>
+            <Chinese>阿爾蒂斯賽車(卡丁車)</Chinese>
             <Chinesesimp>阿尔蒂斯赛车(卡丁车)</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_ZR_8_Karts01_briefingName">
             <Original>Zeus 8+1 Race on Altis (Karts)</Original>
-            <Chinese>宙斯8+1Altis賽車(卡丁車)</Chinese>
+            <Chinese>宙斯8+1阿爾蒂斯賽車(卡丁車)</Chinese>
             <Chinesesimp>宙斯8+1阿尔蒂斯赛车(卡丁车)</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_ZR_8_Karts01_obj02_text">
@@ -350,12 +350,12 @@
         <Container name="MP_ZR_8_Karts02">
           <Key ID="STR_A3_MP_ZR_8_Karts02_briefingName_short">
             <Original>Race on Stratis (Karts)</Original>
-            <Chinese>Stratis賽車(卡丁車)</Chinese>
+            <Chinese>斯特拉蒂斯賽車(卡丁車)</Chinese>
             <Chinesesimp>斯特拉蒂斯赛车(卡丁车)</Chinesesimp>
           </Key>
           <Key ID="STR_A3_MP_ZR_8_Karts02_briefingName">
             <Original>Zeus 8+1 Race on Stratis (Karts)</Original>
-            <Chinese>宙斯8+1Stratis賽車(卡丁車)</Chinese>
+            <Chinese>宙斯8+1斯特拉蒂斯賽車(卡丁車)</Chinese>
             <Chinesesimp>宙斯8+1斯特拉蒂斯赛车(卡丁车)</Chinesesimp>
           </Key>
         </Container>

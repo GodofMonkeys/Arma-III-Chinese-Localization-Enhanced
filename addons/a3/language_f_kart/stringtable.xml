@@ -56,7 +56,7 @@
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumbundle1">
         <Original>Save more than 25&amp;#37; and complete your Arma 3 experience. Including the Karts, Helicopters and Marksmen DLCs, the bundle offers the best value for money to fans.%1%2Press %11 to open the store page.</Original>
-        <Chinese>你可以優惠的價格來完整你的ArmA3遊戲體驗。內容包括卡丁車，直升機與精準射手等資料片，這個組合包將以優質的價格推出給各位粉絲。%1%2按下%11來開啟商店頁面。</Chinese>
+        <Chinese>你可以優惠的價格來完整你的武裝突襲3遊戲體驗。內容包括卡丁車，直升機與精準射手等資料片，這個組合包將以優質的價格推出給各位粉絲。%1%2按下%11來開啟商店頁面。</Chinese>
         <Chinesesimp>你可以优惠的价格来完善你的武装突袭3游戏体验。内容包括卡丁车，直升机与精准射手等资料片，这个组合包将以优质的价格推出给各位粉丝。%1%2按下%11来开启商店页面。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumdefine0">
@@ -66,7 +66,7 @@
       </Key>
       <Key ID="STR_A3_dlc_popup_text">
         <Original>You are using premium content.  Purchase Arma 3 Karts to remove the message.</Original>
-        <Chinese>你正在使用付費內容。想移除該訊息請先購買ArmA3卡丁車資料片。</Chinese>
+        <Chinese>你正在使用付費內容。想移除該訊息請先購買武裝突襲3卡丁車資料片。</Chinese>
         <Chinesesimp>你正在使用付费内容。想移除该信息请先购买武装突袭3卡丁车资料片。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumdefine1">
@@ -81,12 +81,12 @@
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumkarts1">
         <Original>Bring the battle to the race track! Get behind the wheel of a racing kart and fight for pole position in the Arma 3 Karts DLC.%1&lt;img size='9' shadow='0' image='A3\Data_F_Kart\Images\karts_illustration_06_ca.paa' /&gt;%1%2&lt;t&gt;&lt;/t&gt;Vehicle: Racing Kart - 4 distinctive variants and a random color variant%1%2&lt;t&gt;&lt;/t&gt;Character: Racer - a driver matching to kart variants.%1%2&lt;t&gt;&lt;/t&gt;Character: Marshal%1%2&lt;t&gt;&lt;/t&gt;Weapon: Starter pistol%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2&lt;t&gt;&lt;/t&gt;2 Multiplayer Kart Races%1%2&lt;t&gt;&lt;/t&gt;Race objects%1%2&lt;t&gt;&lt;/t&gt;Various Zeus Race Modules%1%2&lt;t&gt;&lt;/t&gt;16 Steam Achievements%1&lt;t&gt;&lt;/t&gt;</Original>
-        <Chinese>讓我們把戰鬥拉到賽道上!搖動你的排檔，讓我們一起在ArmA3卡丁車資料片中衝出一片天。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Kart\Images\karts_illustration_06_ca.paa'/&gt;%1%2&lt;t&gt;&lt;/t&gt;載具:卡丁車-4種顏色塗裝各異的車款%1%2&lt;t&gt;&lt;/t&gt;角色:賽車手-完整的賽車手服裝。%1%2&lt;t&gt;&lt;/t&gt;角色:賽車場工作人員%1%2&lt;t&gt;&lt;/t&gt;武器:發令槍%1%2&lt;t&gt;&lt;/t&gt;5單人計時賽任務%1%2&lt;t&gt;&lt;/t&gt;2個多人卡丁賽車任務%1%2&lt;t&gt;&lt;/t&gt;賽車物件%1%2&lt;t&gt;&lt;/t&gt;數個宙斯任務用的賽車模塊%1%2&lt;t&gt;&lt;/t&gt;16個新的Steam成就%1&lt;t&gt;&lt;/t&gt;</Chinese>
+        <Chinese>讓我們把戰鬥拉到賽道上!搖動你的排檔，讓我們一起在武裝突襲3卡丁車資料片中衝出一片天。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Kart\Images\karts_illustration_06_ca.paa'/&gt;%1%2&lt;t&gt;&lt;/t&gt;載具:卡丁車-4種顏色塗裝各異的車款%1%2&lt;t&gt;&lt;/t&gt;角色:賽車手-完整的賽車手服裝。%1%2&lt;t&gt;&lt;/t&gt;角色:賽車場工作人員%1%2&lt;t&gt;&lt;/t&gt;武器:發令槍%1%2&lt;t&gt;&lt;/t&gt;5單人計時賽任務%1%2&lt;t&gt;&lt;/t&gt;2個多人卡丁賽車任務%1%2&lt;t&gt;&lt;/t&gt;賽車物件%1%2&lt;t&gt;&lt;/t&gt;數個宙斯任務用的賽車模塊%1%2&lt;t&gt;&lt;/t&gt;16個新的Steam成就%1&lt;t&gt;&lt;/t&gt;</Chinese>
         <Chinesesimp>让我们把战斗拉到赛道上!摇动你的排档，让我们一起在武装突袭3卡丁车资料片中冲出一片天。%1&lt;imgsize='9'shadow='0'image='A3\Data_F_Kart\Images\karts_illustration_06_ca.paa'/&gt;%1%2&lt;t&gt;&lt;/t&gt;载具:卡丁车-4种颜色涂装各异的车款%1%2&lt;t&gt;&lt;/t&gt;角色:赛车手-完整的赛车手服装。%1%2&lt;t&gt;&lt;/t&gt;角色:赛车场工作人员%1%2&lt;t&gt;&lt;/t&gt;武器:发令枪%1%2&lt;t&gt;&lt;/t&gt;5单人计时赛任务%1%2&lt;t&gt;&lt;/t&gt;2个多人卡丁赛车任务%1%2&lt;t&gt;&lt;/t&gt;赛车物件%1%2&lt;t&gt;&lt;/t&gt;数个宙斯任务用的赛车模块%1%2&lt;t&gt;&lt;/t&gt;16个新的Steam成就%1&lt;t&gt;&lt;/t&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_popup_main_menu">
         <Original>Arma 3 Karts DLC now available. Click to purchase</Original>
-        <Chinese>ArmA3卡丁車資料片現在已上市。請點選購買</Chinese>
+        <Chinese>武裝突襲3卡丁車資料片現在已上市。請點選購買</Chinese>
         <Chinesesimp>武装突袭3卡丁车资料片现在已上市。请点击购买</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumkarts2">
@@ -96,7 +96,7 @@
       </Key>
       <Key ID="STR_A3_dlc_karts_tooltip">
         <Original>Arma 3 Karts</Original>
-        <Chinese>ArmA3卡丁車</Chinese>
+        <Chinese>武裝突襲3卡丁車</Chinese>
         <Chinesesimp>武装突袭3卡丁车</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_scenario_purchase_tooltip">
@@ -116,7 +116,7 @@
       </Key>
       <Key ID="STR_A3_dlc_loading_screen_text">
         <Original>Bring the battle to the race track! Get behind the wheel of a racing kart and fight for pole position in the Arma 3 Karts DLC.</Original>
-        <Chinese>讓我們把戰鬥拉到賽道上!搖動你的排檔，讓我們一起在ArmA3卡丁車資料片中衝出一片天。</Chinese>
+        <Chinese>讓我們把戰鬥拉到賽道上!搖動你的排檔，讓我們一起在武裝突襲3卡丁車資料片中衝出一片天。</Chinese>
         <Chinesesimp>让我们把战斗拉到赛道上!摇动你的排档，让我们一起在武装突袭3卡丁车资料片中冲出一片天。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_dlcmessage_dlc28852002">
@@ -131,17 +131,17 @@
       </Key>
       <Key ID="STR_A3_dlc_scenario_try_disclaimer">
         <Original>This content is part of Arma 3 Karts DLC. Premium Content notifications will be displayed.</Original>
-        <Chinese>此內容為ArmA3卡丁車資料片之部分內容。付費提醒將會顯示。</Chinese>
+        <Chinese>此內容為武裝突襲3卡丁車資料片之部分內容。付費提醒將會顯示。</Chinese>
         <Chinesesimp>此内容为武装突袭3卡丁车资料片之部分内容。付费提醒将会显示。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_scenario_notification">
         <Original>&lt;br /&gt;&lt;br /&gt;&lt;t color='#999999'&gt;This content is exclusive to Arma 3 Karts DLC.&lt;br /&gt;Press &lt;t /&gt;&lt;t color='#19d3ff'&gt;Left Shift + P&lt;t /&gt;&lt;t color='#999999'&gt; to open the store page for more information.&lt;t /&gt;</Original>
-        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於ArmA3卡丁車資料片之專屬內容。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟商店頁面以獲得更多訊息。&lt;t/&gt;</Chinese>
+        <Chinese>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此內容屬於武裝突襲3卡丁車資料片之專屬內容。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;來開啟商店頁面以獲得更多訊息。&lt;t/&gt;</Chinese>
         <Chinesesimp>&lt;br/&gt;&lt;br/&gt;&lt;tcolor='#999999'&gt;此内容属于武装突袭3卡丁车资料片之专属内容。&lt;br/&gt;按下&lt;t/&gt;&lt;tcolor='#19d3ff'&gt;左Shift+P&lt;t/&gt;&lt;tcolor='#999999'&gt;来开启商店页面以获得更多信息。&lt;t/&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfghints_dlcmessage_karts_headline">
         <Original>Arma 3 Karts</Original>
-        <Chinese>ArmA3卡丁車</Chinese>
+        <Chinese>武裝突襲3卡丁車</Chinese>
         <Chinesesimp>武装突袭3卡丁车</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumbundle0">
@@ -156,12 +156,12 @@
       </Key>
       <Key ID="STR_A3_dlc_debriefing_text">
         <Original>You have used content that is part of Arma 3 Karts. Press Left Shift + P to open the store page, and purchase the DLC to unlock the full package.</Original>
-        <Chinese>此內容為ArmA3卡丁車資料片之部分內容。請按下左Shift+P來開啟商店頁面，並購買資料片來獲得完整遊戲體驗。</Chinese>
+        <Chinese>此內容為武裝突襲3卡丁車資料片之部分內容。請按下左Shift+P來開啟商店頁面，並購買資料片來獲得完整遊戲體驗。</Chinese>
         <Chinesesimp>此内容为武装突袭3卡丁车资料片之部分内容。请按下左Shift+P来开启商店页面，并购买资料片来获得完整游戏体验。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_bundle_description_text">
         <Original>Save more than 25&amp;#37; and complete your Arma 3 experience. Including the Karts, Helicopters and Marksmen DLCs, the bundle offers the best value for money to fans.</Original>
-        <Chinese>你可以優惠的價格來完整你的ArmA3遊戲體驗。內容包括卡丁車，直升機與精準射手等資料片，這個組合包將以優質的價格推出給各位粉絲。</Chinese>
+        <Chinese>你可以優惠的價格來完整你的武裝突襲3遊戲體驗。內容包括卡丁車，直升機與精準射手等資料片，這個組合包將以優質的價格推出給各位粉絲。</Chinese>
         <Chinesesimp>你可以优惠的价格来完善你的武装突袭3游戏体验。内容包括卡丁车，直升机与精准射手等资料片，这个组合包将以优质的价格推出给各位粉丝。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_keyboardshortcut">
@@ -176,12 +176,12 @@
       </Key>
       <Key ID="STR_A3_dlc_bundle_expansions_name">
         <Original>Arma 3 DLC Bundle 1</Original>
-        <Chinese>ArmA3資料片合輯1</Chinese>
+        <Chinese>武裝突襲3資料片合輯1</Chinese>
         <Chinesesimp>武装突袭3资料片合集1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_bundle_expansions_text">
         <Original>Save more than 25&amp;#37; and complete your Arma 3 experience. Including the Karts, Helicopters and Marksmen DLCs, the bundle offers the best value for money to fans.</Original>
-        <Chinese>你可以優惠的價格來完整你的ArmA3遊戲體驗。內容包括卡丁車，直升機與精準射手等資料片，這個組合包將以優質的價格推出給各位粉絲。</Chinese>
+        <Chinese>你可以優惠的價格來完整你的武裝突襲3遊戲體驗。內容包括卡丁車，直升機與精準射手等資料片，這個組合包將以優質的價格推出給各位粉絲。</Chinese>
         <Chinesesimp>你可以优惠的价格来完善你的武装突袭3游戏体验。内容包括卡丁车，直升机与精准射手等资料片，这个组合包将以优质的价格推出给各位粉丝。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_debriefing_session_time">
@@ -211,7 +211,7 @@
       </Key>
       <Key ID="STR_A3_dlc_karts_expansions_text">
         <Original>Bring the battle to the race track! Get behind the wheel of a racing kart and fight for pole position in the Arma 3 Karts DLC.</Original>
-        <Chinese>讓我們把戰鬥拉到賽道上!搖動你的排檔，讓我們一起在ArmA3卡丁車資料片中衝出一片天。</Chinese>
+        <Chinese>讓我們把戰鬥拉到賽道上!搖動你的排檔，讓我們一起在武裝突襲3卡丁車資料片中衝出一片天。</Chinese>
         <Chinesesimp>让我们把战斗拉到赛道上!摇动你的排档，让我们一起在武装突袭3卡丁车资料片中冲出一片天。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_dlc_karts_fm_headline_flaregun">
@@ -258,7 +258,7 @@
         <Key ID="STR_A3_dlc_tooltip_generic">
           <Original>DLC name</Original>
           <Chinese>資料片名稱</Chinese>
-          <Chinesesimp>DLC名称</Chinesesimp>
+          <Chinesesimp>资料片名称</Chinesesimp>
         </Key>
         <Key ID="STR_A3_dlc_loading_screen_text_generic">
           <Original>Premium content package now available for purchase.</Original>
@@ -555,7 +555,7 @@
       </Key>
       <Key ID="str_a3_cfgmods_kart1">
         <Original>Arma 3 Karts</Original>
-        <Chinese>ArmA3卡丁車</Chinese>
+        <Chinese>武裝突襲3卡丁車</Chinese>
         <Chinesesimp>武装突袭3卡丁车</Chinesesimp>
       </Key>
       <Key ID="STR_A3_objectCompo_CPSmall">
@@ -988,7 +988,7 @@
     <Container name="Achievements">
       <Key ID="STR_A3_Acheivements_Karts_General1">
         <Original>Started your first Arma 3 scenario - welcome!</Original>
-        <Chinese>開始你ArmA3第一個任務-歡迎!</Chinese>
+        <Chinese>開始你武裝突襲3第一個任務-歡迎!</Chinese>
         <Chinesesimp>开始你武装突袭3第一个任务-欢迎!</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Acheivements_Karts_General1_Title">
@@ -1175,8 +1175,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_pard_footer">
         <Original>More at www.arma3.com/whatsnewkarts</Original>
-        <Chinese>更多訊息請上www。arma3。com/whatsnewkarts</Chinese>
-        <Chinesesimp>更多信息请上www。arma3。com/whatsnewkarts</Chinesesimp>
+        <Chinese>更多訊息請上www.arma3.com/whatsnewkarts</Chinese>
+        <Chinesesimp>更多信息请上www.arma3.com/whatsnewkarts</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parc_list8_title">
         <Original>Achievements</Original>
@@ -1260,7 +1260,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parc">
         <Original>Arma 3 Karts contains the following:</Original>
-        <Chinese>ArmA3卡丁車包括以下內容:</Chinese>
+        <Chinese>武裝突襲3卡丁車包括以下內容:</Chinese>
         <Chinesesimp>武装突袭3卡丁车包括以下内容:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_title">
@@ -1275,7 +1275,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_list3">
         <Original>Arma 3 is a varied and open experience with lots of gameplay possibilities. It can't hurt to have a little non-combat fun!</Original>
-        <Chinese>ArmA3不只是用來玩軍事戰鬥的遊戲，它有許多可能性，你能從中找到許多樂趣!</Chinese>
+        <Chinese>武裝突襲3不只是用來玩軍事戰鬥的遊戲，它有許多可能性，你能從中找到許多樂趣!</Chinese>
         <Chinesesimp>武装突袭3不只是用来玩军事战斗的游戏，它有许多可能性，你能从中找到许多乐趣!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_list2_title">
@@ -1285,7 +1285,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_list2">
         <Original>a portion of the proceeds from the sales of the Arma 3 Karts DLC will be donated to the Czech Red Cross. The total amount raised will be announced on www.bistudio.com in June 2014.</Original>
-        <Chinese>ArmA3卡丁車資料片的所有收入將會捐出一小部分給捷克的紅十字會。總捐款數目將在2014年6月在www。bistudio。com上公布。</Chinese>
+        <Chinese>武裝突襲3卡丁車資料片的所有收入將會捐出一小部分給捷克的紅十字會。總捐款數目將在2014年6月在www。bistudio。com上公布。</Chinese>
         <Chinesesimp>武装突袭3卡丁车资料片的所有收入将会捐出一小部分给捷克的红十字会。总捐款数目将在2014年6月在www。bistudio。com上公布。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_list1_title">
@@ -1305,7 +1305,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_para">
         <Original>Start your engines - this is &lt;t color='%1'&gt;Arma 3%2 Karts&lt;/t&gt;! When we unveiled our 2014 April Fools joke via the Splendid Split parody video, some of you were quite keen for us to release the go-karts package for real. So here it is, for everyone to try! Enjoy this little sidestep in our typically military sandbox!</Original>
-        <Chinese>啟動你的引擎-這裡是&lt;tcolor='%1'&gt;ArmA3%2卡丁車&lt;/t&gt;!當我們於2014年愚人節放出影片時，很多人都熱中一個問題，那就是我們到底會不會發布卡丁車這個模組?這就是了，我們公布它來讓大家遊玩!讓我們來享受難得的一段休閒之旅吧!</Chinese>
+        <Chinese>啟動你的引擎-這裡是&lt;tcolor='%1'&gt;武裝突襲3%2卡丁車&lt;/t&gt;!當我們於2014年愚人節放出影片時，很多人都熱中一個問題，那就是我們到底會不會發布卡丁車這個模組?這就是了，我們公布它來讓大家遊玩!讓我們來享受難得的一段休閒之旅吧!</Chinese>
         <Chinesesimp>启动你的引擎-这里是&lt;tcolor='%1'&gt;武装突袭3%2卡丁车&lt;/t&gt;!当我们于2014年愚人节放出影片时，很多人都热衷一个问题，那就是我们到底会不会发布卡丁车这个模组?这就是了，我们公布它来让大家游玩!让我们来享受难得的一段休闲之旅吧!</Chinesesimp>
       </Key>
     </Container>
