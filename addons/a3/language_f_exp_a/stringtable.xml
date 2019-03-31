@@ -771,6 +771,16 @@
           <Chinese>復甦</Chinese>
           <Chinesesimp>复苏</Chinesesimp>
         </Key>
+        <Key ID="STR_A3_CfgRespawnTemplates_TicketsDeath_displayName">
+          <Original>Subtract tickets upon Death</Original>
+          <Chinese>死亡時扣除重生次數</Chinese>
+          <Chinesesimp>死亡时扣除重生次数</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_CfgRespawnTemplates_TicketsSpawn_displayName">
+          <Original>Subtract tickets upon Respawn</Original>
+          <Chinese>重生時扣除重生次數</Chinese>
+          <Chinesesimp>重生时扣除重生次数</Chinesesimp>
+        </Key>
       </Container>
     </Container>
   </Package>

@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: languagemissions_f_epa\config.bin
-//Produced from mikero's Dos Tools Dll version 6.44
-//'now' is Mon Apr 30 18:30:17 2018 : 'file' last modified on Fri Apr 06 01:13:53 2018
+//DeRap: 新增資料夾\languagemissions_f_epa\config.bin
+//Produced from mikero's Dos Tools Dll version 6.80
+//'now' is Sun Mar 31 23:01:51 2019 : 'file' last modified on Fri Jan 18 21:16:16 2019
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 

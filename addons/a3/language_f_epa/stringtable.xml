@@ -479,7 +479,7 @@
         <Chinesesimp>"野牛".45ACP</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f_library0">
-        <Original>The 4-Five is a polymer-based semi-automatic pistol named for using .45 ACP ammunition. The reliability and accuracy are the most appraised features of this weapon. This weapon is favored by firing drills competitors because of an eleven rounds magazine and available collimator sight. </Original>
+        <Original>The 4-five is a polymer-based semi-automatic pistol named for using .45 ACP ammunition. The reliability and accuracy are the most appraised features of this weapon. This weapon is favored by firing drills competitors because of an eleven rounds magazine and available collimator sight. </Original>
         <Chinese>4-Five是一種使用聚合物製做的半自動手槍，因其使用.45ACP彈藥而命名為4-Five。這把槍有不錯的可靠性與準確度。這把槍也常被使用於射擊靶場的比賽中，因其彈匣有11發彈藥與可靠的準直覘孔。</Chinese>
         <Chinesesimp>4-Five是一种使用聚合物制做的半自动手枪，因其使用.45ACP弹药而命名为4-Five。这把枪有不错的可靠性与准确度。这把枪也常被使用于射击靶场的比赛中，因其弹匣有11发弹药与可靠的准直觇孔。</Chinesesimp>
       </Key>
@@ -489,9 +489,9 @@
         <Chinesesimp>挂盾式设计瞄准镜</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f0">
-        <Original>4-Five .45 ACP</Original>
-        <Chinese>4-Five .45ACP</Chinese>
-        <Chinesesimp>4-Five .45ACP</Chinesesimp>
+        <Original>4-five .45 ACP</Original>
+        <Chinese>4-five .45 ACP</Chinese>
+        <Chinesesimp>4-five .45 ACP</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_c_supplycrate_f0">
         <Original>Supply Box [CTRG]</Original>
@@ -519,7 +519,7 @@
         <Chinesesimp>"拉希姆"7.62毫米是一把给红方精准射手使用的无托步枪。它在老一代的俄制步枪的基础上加入了一些现代化特性，诸如发射机制，扳机与导轨。无托设计使它的枪身更为紧凑，使其具有高便携性而不用缩短枪管。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag0">
-        <Original>12.7mm 5Rnd APDS Mag</Original>
+        <Original>12.7 mm 5Rnd APDS Mag</Original>
         <Chinese>12.7公厘5發脫殼穿甲彈彈匣</Chinese>
         <Chinesesimp>12.7毫米5发脱壳穿甲弹弹匣</Chinesesimp>
       </Key>
@@ -529,7 +529,7 @@
         <Chinesesimp>口径:7.62x54毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:"拉希姆"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_10rnd_762x51_mag0">
-        <Original>7.62mm 10Rnd Mag</Original>
+        <Original>7.62 mm 10Rnd Mag</Original>
         <Chinese>7.62公厘10發彈匣</Chinese>
         <Chinesesimp>7.62毫米10发弹匣</Chinesesimp>
       </Key>
@@ -539,9 +539,9 @@
         <Chinesesimp>.45ACP口径11发弹匣</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag1">
-        <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-Five</Original>
-        <Chinese>口徑:.45ACP&lt;br/&gt;發數:11&lt;br/&gt;使用於:4-Five</Chinese>
-        <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:11&lt;br/&gt;使用于:4-Five</Chinesesimp>
+        <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-five</Original>
+        <Chinese>口徑:.45ACP&lt;br/&gt;發數:11&lt;br/&gt;使用於:4-five</Chinese>
+        <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:11&lt;br/&gt;使用于:4-five</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_acc_dms0">
         <Original>DMS</Original>

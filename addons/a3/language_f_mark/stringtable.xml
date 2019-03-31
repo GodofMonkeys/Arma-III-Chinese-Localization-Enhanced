@@ -1065,7 +1065,7 @@
           <Chinesesimp>口径:9.3x64毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:"塞鲁斯"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_93x64_dmr_05_mag0">
-          <Original>9.3mm 10Rnd Mag</Original>
+          <Original>9.3 mm 10Rnd Mag</Original>
           <Chinese>9.3公厘10發彈匣</Chinese>
           <Chinesesimp>9.3毫米10发弹匣</Chinesesimp>
         </Key>
@@ -1085,7 +1085,7 @@
           <Chinesesimp>口径:12.7x54毫米&lt;br/&gt;发数:10&lt;br/&gt;使用于:ASP-1"基尔"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_10rnd_127x54_mag0">
-          <Original>12.7mm 10Rnd Mag</Original>
+          <Original>12.7 mm 10Rnd Mag</Original>
           <Chinese>12.7公厘10發彈匣</Chinese>
           <Chinesesimp>12.7毫米10发弹匣</Chinesesimp>
         </Key>
@@ -2578,6 +2578,16 @@
         <Original>CH-67 Huron (Black)</Original>
         <Chinese>CH-67"休倫"(黑色)</Chinese>
         <Chinesesimp>CH-67"休伦"(黑色)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_mbt_03_base_f_animationsources_hidehull1">
+        <Original>Remove Slat Armor Cover (Hull)</Original>
+        <Chinese>移除格柵裝甲(車身)</Chinese>
+        <Chinesesimp>移除格栅装甲(车身)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_mbt_03_base_f_animationsources_hideturret1">
+        <Original>Remove Slat Armor Cover (Turret)</Original>
+        <Chinese>移除格柵裝甲(砲塔)</Chinese>
+        <Chinesesimp>移除格栅装甲(炮塔)</Chinesesimp>
       </Key>
       <Key ID="str_a3_texturesources_blue_and_green0">
         <Original>Blue &amp; Green</Original>

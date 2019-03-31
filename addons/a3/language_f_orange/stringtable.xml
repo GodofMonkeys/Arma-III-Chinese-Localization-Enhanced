@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Project name="武裝突襲3">
+<Project name="Arma3">
   <Package name="Language_Orange">
     <Container name="Data_F">
       <Key ID="str_a3_orange_cfgmods_wirelessearpiece_description">
@@ -1892,6 +1892,26 @@
             <Original>Medical Tent [CSAT]</Original>
             <Chinese>醫療帳篷[廣協同盟]</Chinese>
             <Chinesesimp>医疗帐篷[广协同盟]</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgvehicles_land_medicaltent_01_base_f_attributes_solarpanel2_hide0">
+            <Original>Hide solar panel #2</Original>
+            <Chinese>隱藏太陽能板#2</Chinese>
+            <Chinesesimp>隐藏太阳能板#2</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgvehicles_land_medicaltent_01_base_f_attributes_solarpanel1_hide0">
+            <Original>Hide solar panel #1</Original>
+            <Chinese>隱藏太陽能板#1</Chinese>
+            <Chinesesimp>隐藏太阳能板#1</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgvehicles_land_medicaltent_01_base_f_attributes_medsign_hide0">
+            <Original>Hide medical sign</Original>
+            <Chinese>隱藏醫療指示牌</Chinese>
+            <Chinesesimp>隐藏医疗指示牌</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_cfgvehicles_land_medicaltent_01_base_f_attributes_door_hide0">
+            <Original>Hide doors</Original>
+            <Chinese>隱藏門</Chinese>
+            <Chinesesimp>隐藏门</Chinesesimp>
           </Key>
         </Container>
         <Container name="Flags">

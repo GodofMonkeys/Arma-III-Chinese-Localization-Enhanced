@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: 新增資料夾\language_f_destroyer\config.bin
+//DeRap: 新增資料夾\language_f_mod\config.bin
 //Produced from mikero's Dos Tools Dll version 6.80
-//'now' is Sun Mar 31 23:01:21 2019 : 'file' last modified on Fri Jan 18 20:56:26 2019
+//'now' is Sun Mar 31 23:01:41 2019 : 'file' last modified on Fri Jan 18 23:06:53 2019
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 
@@ -26,12 +26,12 @@ enum {
 
 class CfgPatches
 {
-	class A3_Language_F_Destroyer
+	class A3_Language_F_Mod
 	{
 		author = "$STR_A3_Bohemia_Interactive";
-		name = "CFGPATCHES_A3_Language_F_Destroyer";
+		name = "Arma 3 Official Mod - Texts and Translations";
 		url = "https://www.arma3.com";
-		requiredAddons[] = {"A3_Data_F_Destroyer"};
+		requiredAddons[] = {"A3_Data_F_Mod"};
 		requiredVersion = 0.1;
 		units[] = {};
 		weapons[] = {};
@@ -41,27 +41,15 @@ class CfgHints
 {
 	class WeaponList
 	{
-		class Ship_Gun_01
+		class SMG_03
 		{
 			displayName = "%11";
 			description = "%12";
 			tip = "";
-			arguments[] = {{"STR_A3_Ship_Gun_01_name"},{"STR_A3_Ship_Gun_01_hint_description"}};
-			image = "\a3\ui_f\data\gui\cfg\hints\Miss_icon_ca.paa";
-			vehicle = "B_Ship_Gun_01_F";
-			dlc = 601670;
-			logicalOrder = 49;
-		};
-		class Ship_MRLS_01
-		{
-			displayName = "%11";
-			description = "%12";
-			tip = "";
-			arguments[] = {{"STR_A3_Ship_MRLS_01_name"},{"STR_A3_Ship_MRLS_01_hint_description"}};
-			image = "\a3\ui_f\data\gui\cfg\hints\Miss_icon_ca.paa";
-			vehicle = "B_Ship_MRLS_01_F";
-			dlc = 601670;
-			logicalOrder = 50;
+			arguments[] = {{"STR_A3_CfgWeapons_SMG_03_TR_BASE0"},{"STR_A3_CfgWeapons_SMG_03_TR_BASE_Library0"}};
+			image = "\a3\ui_f\data\gui\cfg\hints\Rifles_ca.paa";
+			weapon = "SMG_03_TR_black";
+			logicalOrder = 3;
 		};
 	};
 };

@@ -2058,6 +2058,16 @@
           <Chinese>支援</Chinese>
           <Chinesesimp>支援</Chinesesimp>
         </Key>
+        <Key ID="str_a3_cfgmpgametypes_vanguard_name">
+          <Original>Vanguard</Original>
+          <Chinese>尖兵</Chinese>
+          <Chinesesimp>尖兵</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmpgametypes_vanguard_shortcut">
+          <Original>Vanguard</Original>
+          <Chinese>尖兵</Chinese>
+          <Chinesesimp>尖兵</Chinesesimp>
+        </Key>
       </Container>
       <Container name="RscDisplayLoading">
         <Key ID="str_a3_rscdisplay_loading_noauthor">
@@ -7074,10 +7084,30 @@
         <Chinese>並未找到%s圖片</Chinese>
         <Chinesesimp>并未找到%s图片</Chinesesimp>
       </Key>
+      <Key ID="STR_MP_VERIFY_DATACLIENT_0">
+        <Original>Error verifying client data. Type=%d</Original>
+        <Chinese>客戶端資料驗證錯誤。類型=%d</Chinese>
+        <Chinesesimp>客户端资料验证错误。类型=%d</Chinesesimp>
+      </Key>
       <Key ID="STR_NO_ENTRY">
         <Original>No entry '%s'.</Original>
         <Chinese>無法讀取'%s'。</Chinese>
         <Chinesesimp>无法读取'%s'。</Chinesesimp>
+      </Key>
+      <Key ID="STR_MP_VERIFY_DATACLIENT_1">
+        <Original>Error: Patched PBO used with VerifySignatures enabled: %s</Original>
+        <Chinese>發生錯誤:壓縮的PBO與VerifySignatures功能一同開啟:%s</Chinese>
+        <Chinesesimp>发生错误:压缩的PBO与VerifySignatures功能一同开启:%s</Chinesesimp>
+      </Key>
+      <Key ID="STR_MP_VERIFY_DATACLIENT_2">
+        <Original>Client PBO could not be verified: %s</Original>
+        <Chinese>客戶端的PBO無法被驗證:%s</Chinese>
+        <Chinesesimp>客户端的PBO无法被验证:%s</Chinesesimp>
+      </Key>
+      <Key ID="STR_MP_VERIFY_PBO_FAIL">
+        <Original>Verifying PBO failed: %s</Original>
+        <Chinese>驗證PBO失敗:%s</Chinese>
+        <Chinesesimp>验证PBO失败:%s</Chinesesimp>
       </Key>
     </Container>
     <Container name="Respawn">
@@ -7780,15 +7810,15 @@
         <Chinese>在地圖上顯示已被偵測到的地雷位置。</Chinese>
         <Chinesesimp>在地图上显示已被侦测到的地雷位置。</Chinesesimp>
       </Key>
-      <Key ID="str_diff_squad_radar">
-        <Original>Squad Radar</Original>
-        <Chinese>小隊雷達</Chinese>
-        <Chinesesimp>小队雷达</Chinesesimp>
+      <Key ID="STR_DIFF_SCENE_AND_MAP">
+        <Original>****TO TRANSLATE****</Original>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
       </Key>
-      <Key ID="str_diff_squad_radar_desc">
-        <Original>Indicates position of units within the player's group.</Original>
-        <Chinese>顯示同小隊隊友的相對位置。</Chinese>
-        <Chinesesimp>显示同小队队友的相对位置。</Chinesesimp>
+      <Key ID="STR_DIFF_SCENE_ONLY">
+        <Original>****TO TRANSLATE****</Original>
+        <Chinese>****待翻譯****</Chinese>
+        <Chinesesimp>****待翻译****</Chinesesimp>
       </Key>
       <Key ID="str_diff_tactical_ping">
         <Original>Tactical Ping</Original>
@@ -7799,6 +7829,16 @@
         <Original>Allows to use tactical ping for pointing at places within the scene.</Original>
         <Chinese>允許使用戰術指標來在場景中指出有興趣的位置。</Chinese>
         <Chinesesimp>允许使用战术指标来在场景中指出有兴趣的位置。</Chinesesimp>
+      </Key>
+      <Key ID="str_diff_squad_radar">
+        <Original>Squad Radar</Original>
+        <Chinese>小隊雷達</Chinese>
+        <Chinesesimp>小队雷达</Chinesesimp>
+      </Key>
+      <Key ID="str_diff_squad_radar_desc">
+        <Original>Indicates position of units within the player's group.</Original>
+        <Chinese>顯示同小隊隊友的相對位置。</Chinese>
+        <Chinesesimp>显示同小队队友的相对位置。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Gear">
@@ -8205,9 +8245,9 @@
         <Chinesesimp>保持潜望镜深度</Chinesesimp>
       </Key>
       <Key ID="STR_copyright_disclaimer">
-        <Original>© 2013-2018 Bohemia Interactive a.s. All rights reserved.</Original>
-        <Chinese>© 2013-2018波希米亞互動工作室a.s。保留所有權利。</Chinese>
-        <Chinesesimp>© 2013-2018波希米亚互动工作室a.s。保留所有权利。</Chinesesimp>
+        <Original>© 2013-2019 Bohemia Interactive a.s. All rights reserved.</Original>
+        <Chinese>© 2013-2019波希米亞互動工作室a.s。保留所有權利。</Chinese>
+        <Chinesesimp>© 2013-2019波希米亚互动工作室a.s。保留所有权利。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_MAP_EXPLOSIVE">
         <Original>Explosive</Original>
@@ -9507,14 +9547,14 @@
     </Container>
     <Container name="Splash">
       <Key ID="STR_A3_legal_splash">
-        <Original>© 2013-2018 Bohemia Interactive a.s. Arma® and Bohemia Interactive® are registered trademarks of Bohemia Interactive a.s. All rights reserved.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;NVIDIA GameWorks™ Technology provided under license from NVIDIA Corporation. Copyright © 2002-2018 NVIDIA Corporation. All rights reserved.&lt;br /&gt;NVIDIA® and PhysX® are trademarks of NVIDIA Corporation and are used under license.&lt;br /&gt;&lt;br /&gt;Portions of this software utilize Simul True Sky technology (© 2015 Simul Software Ltd, all rights reserved).&lt;br /&gt;&lt;br /&gt;This product includes copyrighted material of DigitalGlobe, Inc. All rights reserved.&lt;br /&gt;&lt;br /&gt;Arma 3 simulates real-world weapons, vehicles and other equipment. The product names, logos, brands and other trademarks&lt;br /&gt;depicted or referred to in the game or in its ancillary materials are the property of their respective trademark owners.&lt;br /&gt;These trademark owners, and the manufacturers of the weapons, vehicles and other equipment used in the game,&lt;br /&gt;are not affiliated with the producer of Arma 3 and do not endorse or sponsor the game.</Original>
-        <Chinese>© 2013-2018波希米亞互動工作室a.s。武装突袭®和波希米亞互動工作室®皆為波希米亞互動工作室a.s。的註冊商標。保留所有權利。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;NVIDIA GameWorks™技術由NVIDIA公司提供。版權訊息© 2002-2018 NVIDIA公司。保留所有權利。&lt;br/&gt;NVIDIA®和PhysX®皆為NVIDIA公司之商標並已授權使用。&lt;br/&gt;&lt;br/&gt;本產品包含一部分Simul True Sky的技術(© 2015 Simul Software公司，保留所有權利)。&lt;br/&gt;&lt;br/&gt;本產品包括一些DigitalGlobe公司授權的素材。保留所有權利。&lt;br/&gt;&lt;br/&gt;武裝突襲3模擬重現真實世界的武器，載具以及其他裝備。在本產品裡提及的名稱，商標，品牌等等&lt;br/&gt;在遊戲中使用於描述或提及，其版權皆屬於原註冊之公司所有。&lt;br/&gt;這些商標所有者，以及其他在遊戲中使用的武器，載具及其他裝備的製造商，&lt;br/&gt;其版權並不屬於武裝突襲3的製作團隊。</Chinese>
-        <Chinesesimp>© 2013-2018波希米亚互动工作室a.s。武装突袭®和波希米亚互动工作室®皆为波希米亚互动工作室a.s。的注册商标。保留所有权利。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;NVIDIA GameWorks™技术由NVIDIA公司提供。版权信息© 2002-2018 NVIDIA公司。保留所有权利。&lt;br/&gt;NVIDIA®和PhysX®皆为NVIDIA公司之商标并已授权使用。&lt;br/&gt;&lt;br/&gt;本产品包含一部分Simul True Sky的技术(© 2015 Simul Software公司，保留所有权利)。&lt;br/&gt;&lt;br/&gt;本产品包括一些DigitalGlobe公司授权的素材。保留所有权利。&lt;br/&gt;&lt;br/&gt;武装突袭3模拟重现真实世界的武器，载具以及其他装备。在本产品里提及的名称，商标，品牌等等&lt;br/&gt;在游戏中使用于描述或提及，其版权皆属于原注册之公司所有。&lt;br/&gt;这些商标所有者，以及其他在游戏中使用的武器，载具及其他装备的制造商，&lt;br/&gt;其版权并不属于武装突袭3的制作团队。</Chinesesimp>
+        <Original>© 2013-2019 Bohemia Interactive a.s. Arma® and Bohemia Interactive® are registered trademarks of Bohemia Interactive a.s. All rights reserved.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;NVIDIA GameWorks™ Technology provided under license from NVIDIA Corporation. Copyright © 2002-2019 NVIDIA Corporation. All rights reserved.&lt;br /&gt;NVIDIA® and PhysX® are trademarks of NVIDIA Corporation and are used under license.&lt;br /&gt;&lt;br /&gt;Portions of this software utilize Simul True Sky technology (© 2015 Simul Software Ltd, all rights reserved).&lt;br /&gt;&lt;br /&gt;This product includes copyrighted material of DigitalGlobe, Inc. All rights reserved.&lt;br /&gt;&lt;br /&gt;Arma 3 simulates real-world weapons, vehicles and other equipment. The product names, logos, brands and other trademarks&lt;br /&gt;depicted or referred to in the game or in its ancillary materials are the property of their respective trademark owners.&lt;br /&gt;These trademark owners, and the manufacturers of the weapons, vehicles and other equipment used in the game,&lt;br /&gt;are not affiliated with the producer of Arma 3 and do not endorse or sponsor the game.</Original>
+        <Chinese>© 2013-2019波希米亞互動工作室a.s。武装突袭®和波希米亞互動工作室®皆為波希米亞互動工作室a.s。的註冊商標。保留所有權利。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;NVIDIA GameWorks™技術由NVIDIA公司提供。版權訊息© 2002-2019 NVIDIA公司。保留所有權利。&lt;br/&gt;NVIDIA®和PhysX®皆為NVIDIA公司之商標並已授權使用。&lt;br/&gt;&lt;br/&gt;本產品包含一部分Simul True Sky的技術(© 2015 Simul Software公司，保留所有權利)。&lt;br/&gt;&lt;br/&gt;本產品包括一些DigitalGlobe公司授權的素材。保留所有權利。&lt;br/&gt;&lt;br/&gt;武裝突襲3模擬重現真實世界的武器，載具以及其他裝備。在本產品裡提及的名稱，商標，品牌等等&lt;br/&gt;在遊戲中使用於描述或提及，其版權皆屬於原註冊之公司所有。&lt;br/&gt;這些商標所有者，以及其他在遊戲中使用的武器，載具及其他裝備的製造商，&lt;br/&gt;其版權並不屬於武裝突襲3的製作團隊。</Chinese>
+        <Chinesesimp>© 2013-2019波希米亚互动工作室a.s。武装突袭®和波希米亚互动工作室®皆为波希米亚互动工作室a.s。的注册商标。保留所有权利。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;NVIDIA GameWorks™技术由NVIDIA公司提供。版权信息© 2002-2019 NVIDIA公司。保留所有权利。&lt;br/&gt;NVIDIA®和PhysX®皆为NVIDIA公司之商标并已授权使用。&lt;br/&gt;&lt;br/&gt;本产品包含一部分Simul True Sky的技术(© 2015 Simul Software公司，保留所有权利)。&lt;br/&gt;&lt;br/&gt;本产品包括一些DigitalGlobe公司授权的素材。保留所有权利。&lt;br/&gt;&lt;br/&gt;武装突袭3模拟重现真实世界的武器，载具以及其他装备。在本产品里提及的名称，商标，品牌等等&lt;br/&gt;在游戏中使用于描述或提及，其版权皆属于原注册之公司所有。&lt;br/&gt;这些商标所有者，以及其他在游戏中使用的武器，载具及其他装备的制造商，&lt;br/&gt;其版权并不属于武装突袭3的制作团队。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_basic_copyright">
-        <Original>© 2013-2018 Bohemia Interactive a.s. All rights reserved. Arma 3™ and Bohemia Interactive® are trademarks or registered trademarks of Bohemia Interactive a.s.</Original>
-        <Chinese>© 2013-2018波希米亞互動工作室a.s。保留所有權利。武裝突襲3™和波希米亞互動工作室®皆為波希米亞互動工作室a.s。的註冊商標。</Chinese>
-        <Chinesesimp>© 2013-2018波希米亚互动工作室a.s。保留所有权利。武装突袭3™和波希米亚互动工作室®皆为波希米亚互动工作室a.s。的注册商标。</Chinesesimp>
+        <Original>© 2013-2019 Bohemia Interactive a.s. All rights reserved. Arma 3™ and Bohemia Interactive® are trademarks or registered trademarks of Bohemia Interactive a.s.</Original>
+        <Chinese>© 2013-2019波希米亞互動工作室a.s。保留所有權利。武裝突襲3™和波希米亞互動工作室®皆為波希米亞互動工作室a.s。的註冊商標。</Chinese>
+        <Chinesesimp>© 2013-2019波希米亚互动工作室a.s。保留所有权利。武装突袭3™和波希米亚互动工作室®皆为波希米亚互动工作室a.s。的注册商标。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_game_version">
         <Original>%s</Original>
@@ -11979,10 +12019,10 @@
       <Chinese>Ctrl</Chinese>
       <Chinesesimp>Ctrl</Chinesesimp>
     </Key>
-    <Key ID="str_dik_alt">
-      <Original>Alt</Original>
-      <Chinese>Alt</Chinese>
-      <Chinesesimp>Alt</Chinesesimp>
+    <Key ID="STR_3DEN_Camera_Name">
+      <Original>Camera</Original>
+      <Chinese>攝影機</Chinese>
+      <Chinesesimp>摄影机</Chinesesimp>
     </Key>
     <Key ID="STR_EVAL_ASSERTATION_FAILED">
       <Original>Assertation failed</Original>
@@ -12346,10 +12386,10 @@
       <Chinese>票選踢除</Chinese>
       <Chinesesimp>票选踢除</Chinesesimp>
     </Key>
-    <Key ID="STR_EVAL_DIMMAX">
-      <Original>Max array size would be reached. Current size: %d, wanted size: %d.</Original>
-      <Chinese>陣列最大將會達到之大小。當前大小:%d，所需大小:%d。</Chinese>
-      <Chinesesimp>阵列最大将会达到之大小。当前大小:%d，所需大小:%d。</Chinesesimp>
+    <Key ID="str_dik_alt">
+      <Original>Alt</Original>
+      <Chinese>Alt</Chinese>
+      <Chinesesimp>Alt</Chinesesimp>
     </Key>
     <Key ID="STR_USRACT_BULD_BRUSH_SET_HEIGHT">
       <Original>Set Height Brush</Original>
@@ -12361,15 +12401,15 @@
       <Chinese>投票</Chinese>
       <Chinesesimp>投票</Chinesesimp>
     </Key>
+    <Key ID="STR_EVAL_DIMMAX">
+      <Original>Max array size would be reached. Current size: %d, wanted size: %d.</Original>
+      <Chinese>陣列最大將會達到之大小。當前大小:%d，所需大小:%d。</Chinese>
+      <Chinesesimp>阵列最大将会达到之大小。当前大小:%d，所需大小:%d。</Chinesesimp>
+    </Key>
     <Key ID="STR_SENSORACTIV_ANY_PLAYER">
       <Original>Any Player</Original>
       <Chinese>任何玩家</Chinese>
       <Chinesesimp>任何玩家</Chinesesimp>
-    </Key>
-    <Key ID="STR_USRACT_BULD_CLEAR_ALL_ELEVATION_LOCKS">
-      <Original>Unlock Object Elevation</Original>
-      <Chinese>解鎖物件高度</Chinese>
-      <Chinesesimp>解锁物件高度</Chinesesimp>
     </Key>
     <Key ID="STR_USRACT_BULD_LOCK_ABSOLUTE_ELEVATION">
       <Original>Lock Object Elevation</Original>
@@ -12518,6 +12558,11 @@
         <Chinesesimp>乘客(右边座位5)</Chinesesimp>
       </Key>
     </Container>
+    <Key ID="STR_USRACT_BULD_CLEAR_ALL_ELEVATION_LOCKS">
+      <Original>Unlock Object Elevation</Original>
+      <Chinese>解鎖物件高度</Chinese>
+      <Chinesesimp>解锁物件高度</Chinesesimp>
+    </Key>
     <Key ID="STR_usract_turbo_toggle">
       <Original>Sprint (Toggle)</Original>
       <Chinese>衝刺(切換)</Chinese>
@@ -25306,9 +25351,9 @@
           <Chinesesimp>全部控制</Chinesesimp>
         </Key>
         <Key ID="str_usract_group_buldozer">
-          <Original>Buldozer controls</Original>
-          <Chinese>Buldozer控制</Chinese>
-          <Chinesesimp>Buldozer控制</Chinesesimp>
+          <Original>Bulldozer controls</Original>
+          <Chinese>Bulldozer控制</Chinese>
+          <Chinesesimp>Bulldozer控制</Chinesesimp>
         </Key>
         <Key ID="str_usract_group_flying">
           <Original>Aircraft controls</Original>

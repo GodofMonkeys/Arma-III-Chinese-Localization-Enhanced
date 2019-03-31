@@ -256,7 +256,7 @@
             <Chinese>支援</Chinese>
             <Chinesesimp>支援</Chinesesimp>
           </Key>
-          <Container name="x05_AA_Elimiated_Sniper" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="x05_AA_Elimiated_Sniper" dubbingLanguage="english" namePrefix="showcase_supports_x05_aa_elimiated_sniper" note=" participants="PB B Hawkeye;PB B HQ;" situation=">
+          <Container name="x05_AA_Elimiated_Sniper" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="x05_AA_Elimiated_Sniper" dubbingLanguage="english" namePrefix="showcase_supports_x05_aa_elimiated_sniper" note="" participants="PB B Hawkeye;PB B HQ;" situation="">
             <Key ID="str_a3_showcase_supports_x05_aa_elimiated_sniper_bhq_0">
               <Original>Say again, Hawkeye, task executed with no mortar support? Over.</Original>
               <Chinese>請重發，"鷹眼"，確定不需要迫擊砲支援?完畢。</Chinese>
@@ -283,7 +283,7 @@
               <Chinesesimp>确认，"熊爸爸"。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_Casaulties" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="x01_Casaulties" dubbingLanguage="english" namePrefix="showcase_supports_x01_casaulties" note=" participants="PB B HQ;PB B Hawkeye;" situation="blufor units decimated, hq orders retreat">
+          <Container name="x01_Casaulties" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="x01_Casaulties" dubbingLanguage="english" namePrefix="showcase_supports_x01_casaulties" note="" participants="PB B HQ;PB B Hawkeye;" situation="blufor units decimated, hq orders retreat">
             <Key ID="str_a3_showcase_supports_x01_casaulties_bhq_0">
               <Original>Hawkeye, what's the situation? We've lost contact with most of the teams, over.</Original>
               <Chinese>"鷹眼"，現在狀況如何?我們已經與絕大部分小隊失去聯繫，完畢。</Chinese>
@@ -300,7 +300,7 @@
               <Chinesesimp>这太糟糕了...我们正在被屠杀，长官。请下达指示，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_Base_clear" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="15_Base_clear" dubbingLanguage="english" namePrefix="showcase_supports_15_base_clear" note=" participants="PB B Hawkeye;PB B HQ;" situation="player reports mission complete to the hq">
+          <Container name="15_Base_clear" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="15_Base_clear" dubbingLanguage="english" namePrefix="showcase_supports_15_base_clear" note="" participants="PB B Hawkeye;PB B HQ;" situation="player reports mission complete to the hq">
             <Key ID="str_a3_showcase_supports_15_base_clear_bhq_0">
               <Original>Loud and clear, Hawkeye, good job. All teams, sweep the AO for casualties and RTB. Papa Bear out.</Original>
               <Chinese>非常清楚，"鷹眼"，幹的好。所有小隊，檢查行動區域的傷亡人數並返回基地。"熊爸爸"通話完畢。</Chinese>
@@ -312,7 +312,7 @@
               <Chinesesimp>"鹰眼"呼叫"熊爸爸"，任务完成。空军基地的敌守军已被歼灭。是否收到?完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_Echo_green_light" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="10_Echo_green_light" dubbingLanguage="english" namePrefix="showcase_supports_10_echo_green_light" note=" participants="PB B Hawkeye;PB B Echo Lead;" situation="player calls in team echo">
+          <Container name="10_Echo_green_light" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="10_Echo_green_light" dubbingLanguage="english" namePrefix="showcase_supports_10_echo_green_light" note="" participants="PB B Hawkeye;PB B Echo Lead;" situation="player calls in team echo">
             <Key ID="str_a3_showcase_supports_10_echo_green_light_ech_0">
               <Original>Wilco, Hawkeye. Echo is rolling. ETA: 2 mikes. Out.</Original>
               <Chinese>照辦，"鷹眼"。"Echo"開始向前突擊。預計抵達時間:2分鐘。通話完畢。</Chinese>
@@ -324,7 +324,7 @@
               <Chinesesimp>"回声"，这里是"鹰眼"。开始进行突击，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_Bravo_green_light" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="05_Bravo_green_light" dubbingLanguage="english" namePrefix="showcase_supports_05_bravo_green_light" note=" participants="PB B Hawkeye;PB B Bravo Lead;" situation="player calls in team bravo">
+          <Container name="05_Bravo_green_light" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="05_Bravo_green_light" dubbingLanguage="english" namePrefix="showcase_supports_05_bravo_green_light" note="" participants="PB B Hawkeye;PB B Bravo Lead;" situation="player calls in team bravo">
             <Key ID="str_a3_showcase_supports_05_bravo_green_light_bra_0">
               <Original>Copy that, Bravo on the move, out.</Original>
               <Chinese>收到，"Bravo"開始移動，通話完畢。</Chinese>
@@ -336,7 +336,7 @@
               <Chinesesimp>"鹰眼"呼叫"布拉沃"，继续进行任务，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="03_AA_Elimiated" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="03_AA_Elimiated" dubbingLanguage="english" namePrefix="showcase_supports_03_aa_elimiated" note=" participants="PB B Hawkeye;PB B HQ;" situation="optional sentence if we want?">
+          <Container name="03_AA_Elimiated" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="03_AA_Elimiated" dubbingLanguage="english" namePrefix="showcase_supports_03_aa_elimiated" note="" participants="PB B Hawkeye;PB B HQ;" situation="optional sentence if we want?">
             <Key ID="str_a3_showcase_supports_03_aa_elimiated_bhq_0">
               <Original>Acknowledged. Continue with the operation. Out.</Original>
               <Chinese>確認。繼續你的任務。通話完畢。</Chinese>
@@ -358,7 +358,7 @@
             <Chinese>任務展示:支援-強大的火力支援，長距離交戰，改進的望遠鏡</Chinese>
             <Chinesesimp>任务展示:支援-强大的火力支援，长距离交战，改进的望远镜</Chinesesimp>
           </Key>
-          <Container name="01_Sitrep" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="01_Sitrep" dubbingLanguage="english" namePrefix="showcase_supports_01_sitrep" note=" participants="PB B HQ;PB B Hawkeye;PB B Bravo Lead;PB B Echo Lead;" situation="mission start, sitrep from ground teams">
+          <Container name="01_Sitrep" audioFilePath="\a3\dubbing_f_beta\showcase_supports" dialogName="01_Sitrep" dubbingLanguage="english" namePrefix="showcase_supports_01_sitrep" note="" participants="PB B HQ;PB B Hawkeye;PB B Bravo Lead;PB B Echo Lead;" situation="mission start, sitrep from ground teams">
             <Key ID="str_a3_showcase_supports_01_sitrep_bhq_0">
               <Original>Papa Bear to ground forces, SITREP, over.</Original>
               <Chinese>"熊爸爸"致地面單位，狀況回報，完畢。</Chinese>
@@ -647,7 +647,7 @@
             <Chinese>撤離直升機</Chinese>
             <Chinesesimp>撤离直升机</Chinesesimp>
           </Key>
-          <Container name="01_BLUFOR" audioFilePath="\a3\dubbing_f_beta\mptype_defense" dialogName="01_BLUFOR" dubbingLanguage="english" namePrefix="mptype_defense_01_blufor" note=" participants="PB B HQ;" situation="base giving players info about their progress">
+          <Container name="01_BLUFOR" audioFilePath="\a3\dubbing_f_beta\mptype_defense" dialogName="01_BLUFOR" dubbingLanguage="english" namePrefix="mptype_defense_01_blufor" note="" participants="PB B HQ;" situation="base giving players info about their progress">
             <Key ID="str_a3_mptype_defense_01_blufor_bhq_0">
               <Original>All units, be advised, enemy forces inbound. Attempting to route evac to your grid. Hold your position! Good luck, out.</Original>
               <Chinese>所有單位，請注意，敵軍部隊正在接近你們的座標中。守住你們的位置!祝好運，通話完畢。</Chinese>
@@ -871,7 +871,7 @@
             <Chinese>你因作弊而被取消資格。</Chinese>
             <Chinesesimp>你因作弊而被取消资格。</Chinesesimp>
           </Key>
-          <Container name="Timing" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Timing" dubbingLanguage="english" namePrefix="firing_drills_timing" note=" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
+          <Container name="Timing" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Timing" dubbingLanguage="english" namePrefix="firing_drills_timing" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
             <Key ID="str_a3_firing_drills_timing_rof_0">
               <Original>Shooter ready?</Original>
               <Chinese>射手準備好了嗎?</Chinese>
@@ -1013,7 +1013,7 @@
               <Chinesesimp>最终时间...</Chinesesimp>
             </Key>
           </Container>
-          <Container name="Rules" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Rules" dubbingLanguage="english" namePrefix="firing_drills_rules" note=" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor (rules, rule-sets)">
+          <Container name="Rules" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Rules" dubbingLanguage="english" namePrefix="firing_drills_rules" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor (rules, rule-sets)">
             <Key ID="str_a3_firing_drills_rules_rof_0">
               <Original>Do you understand the Course of Fire?</Original>
               <Chinese>你了解如何射擊嗎?</Chinese>
@@ -1070,7 +1070,7 @@
               <Chinesesimp>遵守武器类型</Chinesesimp>
             </Key>
           </Container>
-          <Container name="Positive" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Positive" dubbingLanguage="english" namePrefix="firing_drills_positive" note=" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
+          <Container name="Positive" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Positive" dubbingLanguage="english" namePrefix="firing_drills_positive" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
             <Key ID="str_a3_firing_drills_positive_rof_0">
               <Original>Good one</Original>
               <Chinese>很棒</Chinese>
@@ -1112,7 +1112,7 @@
               <Chinesesimp>继续努力吧!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="Neutral" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Neutral" dubbingLanguage="english" namePrefix="firing_drills_neutral" note=" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
+          <Container name="Neutral" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Neutral" dubbingLanguage="english" namePrefix="firing_drills_neutral" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
             <Key ID="str_a3_firing_drills_neutral_rof_0">
               <Original>Hit</Original>
               <Chinese>擊中</Chinese>
@@ -1139,7 +1139,7 @@
               <Chinesesimp>你的表现比上次好了</Chinesesimp>
             </Key>
           </Container>
-          <Container name="Negative" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Negative" dubbingLanguage="english" namePrefix="firing_drills_negative" note=" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
+          <Container name="Negative" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Negative" dubbingLanguage="english" namePrefix="firing_drills_negative" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
             <Key ID="str_a3_firing_drills_negative_rof_0">
               <Original>No-shoot penalty!</Original>
               <Chinese>射到不能射擊的目標，扣分!</Chinese>
@@ -1191,7 +1191,7 @@
               <Chinesesimp>你下次最好幸运点!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="Misc" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Misc" dubbingLanguage="english" namePrefix="firing_drills_misc" note=" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
+          <Container name="Misc" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="Misc" dubbingLanguage="english" namePrefix="firing_drills_misc" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
             <Key ID="str_a3_firing_drills_misc_rof_0">
               <Original>What are you doing?</Original>
               <Chinese>你在幹什麼?</Chinese>
@@ -1223,7 +1223,7 @@
               <Chinesesimp>我们在试一次</Chinesesimp>
             </Key>
           </Container>
-          <Container name="COFGreen" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="COFGreen" dubbingLanguage="english" namePrefix="firing_drills_cofgreen" note=" participants="PB B Range Officer;" situation="radio tutorial instructions from the range officer to the competitor for training. brevity and quick speech are key for timing (especially during the course)!">
+          <Container name="COFGreen" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="COFGreen" dubbingLanguage="english" namePrefix="firing_drills_cofgreen" note="" participants="PB B Range Officer;" situation="radio tutorial instructions from the range officer to the competitor for training. brevity and quick speech are key for timing (especially during the course)!">
             <Key ID="str_a3_firing_drills_cofgreen_rof_0">
               <Original>Here we are! Welcome to our fine sport shooting facility. I'll be your Range Officer for today. It's my job you get you oriented and keep everyone safe.</Original>
               <Chinese>我們到了!歡迎來到我們精美的靶場。我是你今天的教練。我的工作就是引導你正確的學習射擊並確保大家的安全。</Chinese>
@@ -1832,7 +1832,7 @@
             <Chinese>訓練成績</Chinese>
             <Chinesesimp>训练成绩</Chinesesimp>
           </Key>
-          <Container name="CheckPoints" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="CheckPoints" dubbingLanguage="english" namePrefix="firing_drills_checkpoints" note=" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
+          <Container name="CheckPoints" audioFilePath="\a3\dubbing_f_beta\firing_drills" dialogName="CheckPoints" dubbingLanguage="english" namePrefix="firing_drills_checkpoints" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
             <Key ID="str_a3_firing_drills_checkpoints_rof_0">
               <Original>Moving target</Original>
               <Chinese>移動的目標</Chinese>
@@ -1956,7 +1956,7 @@
             <Chinese>前往賈伊灣的路上</Chinese>
             <Chinesesimp>前往贾伊湾的路上</Chinesesimp>
           </Key>
-          <Container name="x15_ExtractionFailure" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="x15_ExtractionFailure" dubbingLanguage="english" namePrefix="showcase_night2_x15_extractionfailure" note=" participants="PB B Rook;" situation="rook tells player that time is up for extraction">
+          <Container name="x15_ExtractionFailure" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="x15_ExtractionFailure" dubbingLanguage="english" namePrefix="showcase_night2_x15_extractionfailure" note="" participants="PB B Rook;" situation="rook tells player that time is up for extraction">
             <Key ID="str_a3_showcase_night2_x15_extractionfailure_rok_0">
               <Original>Fox, I've been spotted. I've got to extract, now!</Original>
               <Chinese>"狐狸"，我已經被發現了。我現在必須先撤離了!</Chinese>
@@ -1968,7 +1968,7 @@
               <Chinesesimp>老兄，我很抱歉，你必须靠你自己了。谨慎行事。保持隐蔽直到我们能重新集结。祝好运，"狐狸"。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x10_ExtractionWarning" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="x10_ExtractionWarning" dubbingLanguage="english" namePrefix="showcase_night2_x10_extractionwarning" note=" participants="PB B Rook;PB B Fox;" situation="rook tells player that time is running out for extraction">
+          <Container name="x10_ExtractionWarning" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="x10_ExtractionWarning" dubbingLanguage="english" namePrefix="showcase_night2_x10_extractionwarning" note="" participants="PB B Rook;PB B Fox;" situation="rook tells player that time is running out for extraction">
             <Key ID="str_a3_showcase_night2_x10_extractionwarning_fox_0">
               <Original>I'm still en route, what's your status? Over.</Original>
               <Chinese>我還在路上，你的狀況怎樣?完畢。</Chinese>
@@ -1985,28 +1985,28 @@
               <Chinesesimp>敌人在此区的活动变多。我无法再多待了，"狐狸"。你必须马上抵达撤离点。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x05_TimeoutFailure" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="x05_TimeoutFailure" dubbingLanguage="english" namePrefix="showcase_night2_x05_timeoutfailure" note=" participants="PB B Bishop;" situation="bishop tells player that time is up">
+          <Container name="x05_TimeoutFailure" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="x05_TimeoutFailure" dubbingLanguage="english" namePrefix="showcase_night2_x05_timeoutfailure" note="" participants="PB B Bishop;" situation="bishop tells player that time is up">
             <Key ID="str_a3_showcase_night2_x05_timeoutfailure_sho_0">
               <Original>Bishop to all teams, we've lost our chance. Mission is scrubbed. Fall back, fall back.</Original>
               <Chinese>"主教"致所有小隊，我們錯失良機了。任務失敗。撤退，撤退。</Chinese>
               <Chinesesimp>"主教"呼叫各小组都有，我们错失良机了。任务失败。撤退，撤退。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_TimeoutWarning" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="x01_TimeoutWarning" dubbingLanguage="english" namePrefix="showcase_night2_x01_timeoutwarning" note=" participants="PB B Bishop;" situation="bishop tells player that time is running out">
+          <Container name="x01_TimeoutWarning" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="x01_TimeoutWarning" dubbingLanguage="english" namePrefix="showcase_night2_x01_timeoutwarning" note="" participants="PB B Bishop;" situation="bishop tells player that time is running out">
             <Key ID="str_a3_showcase_night2_x01_timeoutwarning_sho_0">
               <Original>Fox, this is Bishop. Our window of opportunity is closing fast. You've got to get a move on!</Original>
               <Chinese>"狐狸"，這裡是"主教"。我們的機會正接近當中。你必須快點行動了!</Chinese>
               <Chinesesimp>"狐狸"，这里是"主教"。我们的机会正迅速流逝。你必须快点行动了!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="50_Extract_Complete" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="50_Extract_Complete" dubbingLanguage="english" namePrefix="showcase_night2_50_extract_complete" note=" participants="PB B Rook;" situation="player gets to extract point">
+          <Container name="50_Extract_Complete" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="50_Extract_Complete" dubbingLanguage="english" namePrefix="showcase_night2_50_extract_complete" note="" participants="PB B Rook;" situation="player gets to extract point">
             <Key ID="str_a3_showcase_night2_50_extract_complete_rok_0">
               <Original>Fox, over here! C'mon, let's move it!</Original>
               <Chinese>"狐狸"，在這裡!快來，讓我們離開這裡!</Chinese>
               <Chinesesimp>"狐狸"，在这里!快来，让我们离开这里!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="45_Archangel_Secure" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="45_Archangel_Secure" dubbingLanguage="english" namePrefix="showcase_night2_45_archangel_secure" note=" participants="PB B Bishop;" situation="boat is at the extraction point - hurry up!">
+          <Container name="45_Archangel_Secure" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="45_Archangel_Secure" dubbingLanguage="english" namePrefix="showcase_night2_45_archangel_secure" note="" participants="PB B Bishop;" situation="boat is at the extraction point - hurry up!">
             <Key ID="str_a3_showcase_night2_45_archangel_secure_sho_0">
               <Original>This is Bishop, Archangel is secure! We're falling back to the extraction point.</Original>
               <Chinese>這裡是"主教"，已救到"大天使"!我們正撤退至撤離點。</Chinese>
@@ -2018,7 +2018,7 @@
               <Chinesesimp>各小组都有，干的好-现在让我们离开这该死的地方!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="40_Extract" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="40_Extract" dubbingLanguage="english" namePrefix="showcase_night2_40_extract" note=" participants="PB B Rook;PB B Fox;" situation="boat is at the extraction point - hurry up!">
+          <Container name="40_Extract" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="40_Extract" dubbingLanguage="english" namePrefix="showcase_night2_40_extract" note="" participants="PB B Rook;PB B Fox;" situation="boat is at the extraction point - hurry up!">
             <Key ID="str_a3_showcase_night2_40_extract_fox_0">
               <Original>En route. Stay cool.</Original>
               <Chinese>在路上了。保持冷靜。</Chinese>
@@ -2030,7 +2030,7 @@
               <Chinesesimp>"狐狸"，这里是"白嘴鸦"，我在撤离点了。快点过来。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="35_Chaos_Threshold_Reached" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="35_Chaos_Threshold_Reached" dubbingLanguage="english" namePrefix="showcase_night2_35_chaos_threshold_reached" note=" participants="PB B Bishop;PB B Fox;" situation="bishop tells player the enemy is moving his way">
+          <Container name="35_Chaos_Threshold_Reached" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="35_Chaos_Threshold_Reached" dubbingLanguage="english" namePrefix="showcase_night2_35_chaos_threshold_reached" note="" participants="PB B Bishop;PB B Fox;" situation="bishop tells player the enemy is moving his way">
             <Key ID="str_a3_showcase_night2_35_chaos_threshold_reached_fox_0">
               <Original>Roger, Bishop, exfiltrating now. Good Luck, out.</Original>
               <Chinese>了解，"主教"，開始撤離。祝好運，通話完畢。</Chinese>
@@ -2042,14 +2042,14 @@
               <Chinesesimp>"狐狸"，请注意，大量敌军开始朝你的位置过去了。我们正朝"大天使"移动。30秒。准备撤离，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="30_Enemy_Is_Anxious" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="30_Enemy_Is_Anxious" dubbingLanguage="english" namePrefix="showcase_night2_30_enemy_is_anxious" note=" participants="PB B Bishop;" situation="bishop tells player the enemy is behaving differently">
+          <Container name="30_Enemy_Is_Anxious" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="30_Enemy_Is_Anxious" dubbingLanguage="english" namePrefix="showcase_night2_30_enemy_is_anxious" note="" participants="PB B Bishop;" situation="bishop tells player the enemy is behaving differently">
             <Key ID="str_a3_showcase_night2_30_enemy_is_anxious_sho_0">
               <Original>Fox, update, I don't know what you just did but keep doing it - units on the move here. Out.</Original>
               <Chinese>"狐狸"，情況更新，我不知道你幹了什麼，但是請你繼續做-敵軍開始離開這裡了。通話完畢。</Chinese>
               <Chinesesimp>"狐狸"，情况更新，我不知道你干了什么，但是请你继续做-敌军开始离开这里了。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_FirstContact" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="25_FirstContact" dubbingLanguage="english" namePrefix="showcase_night2_25_firstcontact" note=" participants="PB B Fox;PB B Bishop;" situation="player let's bishop group know that he is starting the noise/chaos">
+          <Container name="25_FirstContact" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="25_FirstContact" dubbingLanguage="english" namePrefix="showcase_night2_25_firstcontact" note="" participants="PB B Fox;PB B Bishop;" situation="player let's bishop group know that he is starting the noise/chaos">
             <Key ID="str_a3_showcase_night2_25_firstcontact_fox_0">
               <Original>Bishop, I've made contact.</Original>
               <Chinese>"主教"，我跟敵人交戰了。</Chinese>
@@ -2066,7 +2066,7 @@
               <Chinesesimp>确认，"狐狸"，我们从这里看到一些动静了，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_Report_Arrival" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="20_Report_Arrival" dubbingLanguage="english" namePrefix="showcase_night2_20_report_arrival" note=" participants="PB B Fox;PB B Bishop;" situation="player let's bishop group know that he is starting the noise/chaos">
+          <Container name="20_Report_Arrival" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="20_Report_Arrival" dubbingLanguage="english" namePrefix="showcase_night2_20_report_arrival" note="" participants="PB B Fox;PB B Bishop;" situation="player let's bishop group know that he is starting the noise/chaos">
             <Key ID="str_a3_showcase_night2_20_report_arrival_fox_0">
               <Original>Bishop, I've just reached the bay. Be ready, over.</Original>
               <Chinese>"主教"，我剛抵達港灣。請準備，完畢。</Chinese>
@@ -2078,14 +2078,14 @@
               <Chinesesimp>收到，"狐狸"。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_Good_Luck" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="15_Good_Luck" dubbingLanguage="english" namePrefix="showcase_night2_15_good_luck" note=" participants="PB B Rook;" situation="boat driver wishes good luck to the player">
+          <Container name="15_Good_Luck" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="15_Good_Luck" dubbingLanguage="english" namePrefix="showcase_night2_15_good_luck" note="" participants="PB B Rook;" situation="boat driver wishes good luck to the player">
             <Key ID="str_a3_showcase_night2_15_good_luck_rok_0">
               <Original>We're here. Good Luck.</Original>
               <Chinese>我們到了。祝好運。</Chinese>
               <Chinesesimp>我们到了。祝好运。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="13_QuickBriefing3" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="13_QuickBriefing3" dubbingLanguage="english" namePrefix="showcase_night2_13_quickbriefing3" note=" participants="PB B Rook;PB B Fox;" situation="player orders boat driver to slow down in order to stay undetected">
+          <Container name="13_QuickBriefing3" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="13_QuickBriefing3" dubbingLanguage="english" namePrefix="showcase_night2_13_quickbriefing3" note="" participants="PB B Rook;PB B Fox;" situation="player orders boat driver to slow down in order to stay undetected">
             <Key ID="str_a3_showcase_night2_13_quickbriefing3_fox_0">
               <Original>Got it. We've been over this a thousand times.</Original>
               <Chinese>了解。我們已經演練不下一千次了。</Chinese>
@@ -2102,7 +2102,7 @@
               <Chinesesimp>搞出动静，行动要迅速，并等待确认。当你的任务成功之后，"主教"会拯救"大天使"。了解吗?</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_QuickBriefing2" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="10_QuickBriefing2" dubbingLanguage="english" namePrefix="showcase_night2_10_quickbriefing2" note=" participants="PB B Bishop;PB B Rook;" situation="player orders boat driver to slow down in order to stay undetected">
+          <Container name="10_QuickBriefing2" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="10_QuickBriefing2" dubbingLanguage="english" namePrefix="showcase_night2_10_quickbriefing2" note="" participants="PB B Bishop;PB B Rook;" situation="player orders boat driver to slow down in order to stay undetected">
             <Key ID="str_a3_showcase_night2_10_quickbriefing2_rok_0">
               <Original>Acknowledged, Bishop. Executing. Out.</Original>
               <Chinese>收到，"主教"。開始執行任務。通話完畢。</Chinese>
@@ -2119,14 +2119,14 @@
               <Chinesesimp>现在看你们了。开始执行任务。把敌人引向南方。收到吗?</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_QuickBriefing1" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="05_QuickBriefing1" dubbingLanguage="english" namePrefix="showcase_night2_05_quickbriefing1" note=" participants="PB B Bishop;" situation="player orders boat driver to slow down in order to stay undetected">
+          <Container name="05_QuickBriefing1" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="05_QuickBriefing1" dubbingLanguage="english" namePrefix="showcase_night2_05_quickbriefing1" note="" participants="PB B Bishop;" situation="player orders boat driver to slow down in order to stay undetected">
             <Key ID="str_a3_showcase_night2_05_quickbriefing1_sho_0">
               <Original>Bishop in position. Eyes on objective. Multiple alpha victors -- wait one.</Original>
               <Chinese>"主教"就定位了。看到目標。多名敵人--請稍待。</Chinese>
               <Chinesesimp>"主教"就位了。看到目标。多名敌人--请稍等。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="03_Report_In" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="03_Report_In" dubbingLanguage="english" namePrefix="showcase_night2_03_report_in" note=" participants="PB B Rook;PB B Bishop;" situation="the boat reports in to bishop">
+          <Container name="03_Report_In" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="03_Report_In" dubbingLanguage="english" namePrefix="showcase_night2_03_report_in" note="" participants="PB B Rook;PB B Bishop;" situation="the boat reports in to bishop">
             <Key ID="str_a3_showcase_night2_03_report_in_rok_0">
               <Original>Bishop, this is Rook. Approaching insertion point.</Original>
               <Chinese>"主教"，這裡是"白嘴鴉"。正在接近滲透點。</Chinese>
@@ -2138,7 +2138,7 @@
               <Chinesesimp>了解。"主教"正接近目标中，通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_Slow_Down" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="01_Slow_Down" dubbingLanguage="english" namePrefix="showcase_night2_01_slow_down" note=" participants="PB B Fox;PB B Rook;" situation="player orders boat driver to slow down in order to stay undetected">
+          <Container name="01_Slow_Down" audioFilePath="\a3\dubbing_f_beta\showcase_night2" dialogName="01_Slow_Down" dubbingLanguage="english" namePrefix="showcase_night2_01_slow_down" note="" participants="PB B Fox;PB B Rook;" situation="player orders boat driver to slow down in order to stay undetected">
             <Key ID="str_a3_showcase_night2_01_slow_down_fox_0">
               <Original>Ok, slow it down... quiet as possible from here on in.</Original>
               <Chinese>Ok，慢下來...保持安靜直到裡面。</Chinese>
@@ -2432,7 +2432,7 @@
             <Chinese>儘管面對強烈的攻勢，你還是成功的守住了村莊並且沒有損失任何一個人。幹得好，"Bravo"小隊。在此時此刻，我們正需要你這種人才。</Chinese>
             <Chinesesimp>尽管面对强烈的攻势，你还是成功的守住了村庄并且没有损失任何人。干得好，"布拉沃"小组。在此时此刻，我们正需要你这种人才。</Chinesesimp>
           </Key>
-          <Container name="x20_Not_Reporting" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x20_Not_Reporting" dubbingLanguage="english" namePrefix="showcase_commanding_i_x20_not_reporting" note=" participants="PB B HQ;PB B Bravo Lead;" situation="hq calling player why is he not reporting">
+          <Container name="x20_Not_Reporting" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x20_Not_Reporting" dubbingLanguage="english" namePrefix="showcase_commanding_i_x20_not_reporting" note="" participants="PB B HQ;PB B Bravo Lead;" situation="hq calling player why is he not reporting">
             <Key ID="str_a3_showcase_commanding_i_x20_not_reporting_bhq_0">
               <Original>Bravo, Papa Bear, SITREP.</Original>
               <Chinese>"Bravo"，"熊爸爸"，狀況回報。</Chinese>
@@ -2449,21 +2449,21 @@
               <Chinesesimp>长官，我们正尽我们最大的努力。请再等一下我们就准备好了。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x15_Away" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x15_Away" dubbingLanguage="english" namePrefix="showcase_commanding_i_x15_away" note=" participants="PB B Bravo Lead;" situation="player outside of ao">
+          <Container name="x15_Away" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x15_Away" dubbingLanguage="english" namePrefix="showcase_commanding_i_x15_away" note="" participants="PB B Bravo Lead;" situation="player outside of ao">
             <Key ID="str_a3_showcase_commanding_i_x15_away_bra_0">
               <Original>Where the hell am I? I should take a look at the map...</Original>
               <Chinese>我在哪裡阿?我應該看一下地圖...</Chinese>
               <Chinesesimp>我在哪里啊?我应该看一下地图...</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x10_Late" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x10_Late" dubbingLanguage="english" namePrefix="showcase_commanding_i_x10_late" note=" participants="PB B Bravo Lead;" situation="player to himself when he takes too much time to get into the village">
+          <Container name="x10_Late" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x10_Late" dubbingLanguage="english" namePrefix="showcase_commanding_i_x10_late" note="" participants="PB B Bravo Lead;" situation="player to himself when he takes too much time to get into the village">
             <Key ID="str_a3_showcase_commanding_i_x10_late_bra_0">
               <Original>Dammit, we need to get a move on! Foxtrot can't hold the village alone!</Original>
               <Chinese>他媽的，我們必須趕快移動!"Foxtrot"無法獨自守住村莊!</Chinese>
               <Chinesesimp>他妈的，我们必须赶快移动!"狐步舞"无法独自守住村庄!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x05_Retreat" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x05_Retreat" dubbingLanguage="english" namePrefix="showcase_commanding_i_x05_retreat" note=" participants="PB B Bravo Lead;PB B HQ;" situation="player informing hq about mission failure">
+          <Container name="x05_Retreat" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x05_Retreat" dubbingLanguage="english" namePrefix="showcase_commanding_i_x05_retreat" note="" participants="PB B Bravo Lead;PB B HQ;" situation="player informing hq about mission failure">
             <Key ID="str_a3_showcase_commanding_i_x05_retreat_bhq_0">
               <Original>Understood Bravo, get out of there now. We'll have to regroup and reassess.</Original>
               <Chinese>了解，"Bravo"，趕快離開那裡。我們必須重新集結並評估。</Chinese>
@@ -2485,14 +2485,14 @@
               <Chinesesimp>"布拉沃"致"熊爸爸"，我们遭受重大的伤亡，我们必须后撤，完毕!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_Transport_Immobile" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x01_Transport_Immobile" dubbingLanguage="english" namePrefix="showcase_commanding_i_x01_transport_immobile" note=" participants="PB B Bravo Lead;" situation="player mumbling to himself about immobilized vehicle">
+          <Container name="x01_Transport_Immobile" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="x01_Transport_Immobile" dubbingLanguage="english" namePrefix="showcase_commanding_i_x01_transport_immobile" note="" participants="PB B Bravo Lead;" situation="player mumbling to himself about immobilized vehicle">
             <Key ID="str_a3_showcase_commanding_i_x01_transport_immobile_bra_0">
               <Original>Oh, for fucks sake...</Original>
               <Chinese>Oh，可惡...</Chinese>
               <Chinesesimp>哦，可恶...</Chinesesimp>
             </Key>
           </Container>
-          <Container name="35_Victory" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="35_Victory" dubbingLanguage="english" namePrefix="showcase_commanding_i_35_victory" note=" participants="PB B Bravo Lead;PB B HQ;" situation="player informing hq of his success">
+          <Container name="35_Victory" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="35_Victory" dubbingLanguage="english" namePrefix="showcase_commanding_i_35_victory" note="" participants="PB B Bravo Lead;PB B HQ;" situation="player informing hq of his success">
             <Key ID="str_a3_showcase_commanding_i_35_victory_bhq_0">
               <Original>Outstanding! Dig in and await further orders.</Original>
               <Chinese>幹的好!留在原地並等待進一步命令。</Chinese>
@@ -2514,7 +2514,7 @@
               <Chinesesimp>"熊爸爸"，这里是"布拉沃"，我们成功防守住吉尔纳村了，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="30_Attack" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="30_Attack" dubbingLanguage="english" namePrefix="showcase_commanding_i_30_attack" note=" participants="PB B Hawkeye;PB B Bravo Lead;" situation="hawkeye informing player about incoming enemies">
+          <Container name="30_Attack" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="30_Attack" dubbingLanguage="english" namePrefix="showcase_commanding_i_30_attack" note="" participants="PB B Hawkeye;PB B Bravo Lead;" situation="hawkeye informing player about incoming enemies">
             <Key ID="str_a3_showcase_commanding_i_30_attack_bra_0">
               <Original>Solid copy, Hawkeye, we'll keep our eyes open. Thanks for the heads up. Out.</Original>
               <Chinese>收到，"鷹眼"，我們會持續觀察。感謝你的情報。通話完畢。</Chinese>
@@ -2536,7 +2536,7 @@
               <Chinesesimp>同时，请注意，一艘突击艇刚离开他们的基地。它将会从你们的西面靠近。有收到吗?</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_Reporting" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="25_Reporting" dubbingLanguage="english" namePrefix="showcase_commanding_i_25_reporting" note=" participants="PB B Bravo Lead;PB B HQ;" situation="player informing hq that he is prepared">
+          <Container name="25_Reporting" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="25_Reporting" dubbingLanguage="english" namePrefix="showcase_commanding_i_25_reporting" note="" participants="PB B Bravo Lead;PB B HQ;" situation="player informing hq that he is prepared">
             <Key ID="str_a3_showcase_commanding_i_25_reporting_bhq_0">
               <Original>Negative, none at this time. We're facing the same situation all across the island.</Original>
               <Chinese>否定，現在沒有。現在全島都面臨這種狀況。</Chinese>
@@ -2558,7 +2558,7 @@
               <Chinesesimp>我们已经准备好了-村庄正在我们的保护之下-但我们的人数过于稀少。有任何可以使用的支援吗?</Chinesesimp>
             </Key>
           </Container>
-          <Container name="23_Girna_Advice" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="23_Girna_Advice" dubbingLanguage="english" namePrefix="showcase_commanding_i_23_girna_advice" note=" participants="PB B Bravo Lead;" situation="the player gives advice to his team about what to do">
+          <Container name="23_Girna_Advice" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="23_Girna_Advice" dubbingLanguage="english" namePrefix="showcase_commanding_i_23_girna_advice" note="" participants="PB B Bravo Lead;" situation="the player gives advice to his team about what to do">
             <Key ID="str_a3_showcase_commanding_i_23_girna_advice_bra_0">
               <Original>Ok, listen up. OPFOR are advancing on our position from the north. A group on point and a main force in support.</Original>
               <Chinese>Ok，聽好了。敵軍正從北方接近我們當中。一個小隊將會前來，而且他們有主力部隊的支援。</Chinese>
@@ -2575,7 +2575,7 @@
               <Chinesesimp>我们会守住，然后给他们好看。有问题吗?...非常好。我们走吧。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_Girna" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="20_Girna" dubbingLanguage="english" namePrefix="showcase_commanding_i_20_girna" note=" participants="PB B Bravo Lead;PB B HQ;" situation="rendezvous with remains of foxtrot squad in girna">
+          <Container name="20_Girna" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="20_Girna" dubbingLanguage="english" namePrefix="showcase_commanding_i_20_girna" note="" participants="PB B Bravo Lead;PB B HQ;" situation="rendezvous with remains of foxtrot squad in girna">
             <Key ID="str_a3_showcase_commanding_i_20_girna_bhq_0">
               <Original>Copy. Report in once you've prepared your defences, over.</Original>
               <Chinese>收到。當你們準備好防禦措施時像我們回報，完畢。</Chinese>
@@ -2592,7 +2592,7 @@
               <Chinesesimp>了解，通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_Situation" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="15_Situation" dubbingLanguage="english" namePrefix="showcase_commanding_i_15_situation" note=" participants="PB B Bravo Lead;PB B Hawkeye;" situation="hawkeye informs player about situation">
+          <Container name="15_Situation" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="15_Situation" dubbingLanguage="english" namePrefix="showcase_commanding_i_15_situation" note="" participants="PB B Bravo Lead;PB B Hawkeye;" situation="hawkeye informs player about situation">
             <Key ID="str_a3_showcase_commanding_i_15_situation_bra_0">
               <Original>Acknowledged, Hawkeye, thanks for the intel. Keep us updated.</Original>
               <Chinese>確認，"鷹眼"，感謝你的情報。保持聯繫。</Chinese>
@@ -2609,7 +2609,7 @@
               <Chinesesimp>两个班，人数大概...二十人左右-分为尖刀分队和主力，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="13_En_Route" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="13_En_Route" dubbingLanguage="english" namePrefix="showcase_commanding_i_13_en_route" note=" participants="PB B Bravo Lead;PB B HQ;" situation="player reporting to hq, than speaking to his subordinates">
+          <Container name="13_En_Route" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="13_En_Route" dubbingLanguage="english" namePrefix="showcase_commanding_i_13_en_route" note="" participants="PB B Bravo Lead;PB B HQ;" situation="player reporting to hq, than speaking to his subordinates">
             <Key ID="str_a3_showcase_commanding_i_13_en_route_bhq_0">
               <Original>Understood, Bravo. Proceed as planned. Out.</Original>
               <Chinese>了解，"Bravo"。按計畫進行。通話完畢。</Chinese>
@@ -2621,7 +2621,7 @@
               <Chinesesimp>"熊爸爸"，这里是"布拉沃":我已经与我的小队会合，我们已经在前往村庄的路上了，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_Beach" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="10_Beach" dubbingLanguage="english" namePrefix="showcase_commanding_i_10_beach" note=" participants="PB B Bravo Lead;" situation="player reporting to hq, than speaking to his subordinates">
+          <Container name="10_Beach" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="10_Beach" dubbingLanguage="english" namePrefix="showcase_commanding_i_10_beach" note="" participants="PB B Bravo Lead;" situation="player reporting to hq, than speaking to his subordinates">
             <Key ID="str_a3_showcase_commanding_i_10_beach_bra_0">
               <Original>Ok, gentlemen, quick SITREP. Enemy forces advancing on our position from the north.</Original>
               <Chinese>Ok，先生們，快速簡報一下。敵軍部隊正從北方向我們的位置挺進。</Chinese>
@@ -2633,14 +2633,14 @@
               <Chinesesimp>我们的任务是拦截他们并确保吉尔纳村。我们走。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_Landing" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="05_Landing" dubbingLanguage="english" namePrefix="showcase_commanding_i_05_landing" note=" participants="PB B Bravo Lead;" situation="player - first half silently to himself, second normally to his subordinate, levine">
+          <Container name="05_Landing" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="05_Landing" dubbingLanguage="english" namePrefix="showcase_commanding_i_05_landing" note="" participants="PB B Bravo Lead;" situation="player - first half silently to himself, second normally to his subordinate, levine">
             <Key ID="str_a3_showcase_commanding_i_05_landing_bra_0">
               <Original>Here we go... Levine, get set for landing. We need to link up with the rest of the squad and move out ASAP.</Original>
               <Chinese>讓我們開始吧...萊文，準備著陸。我必須盡快與剩下的隊員會合。</Chinese>
               <Chinesesimp>让我们开始吧...莱文，准备着陆。我必须尽快与剩下的队员会合。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_Prolog" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="01_Prolog" dubbingLanguage="english" namePrefix="showcase_commanding_i_01_prolog" note=" participants="PB B Bravo Lead;PB B HQ;" situation="prolog, player and hq discussing situation">
+          <Container name="01_Prolog" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="01_Prolog" dubbingLanguage="english" namePrefix="showcase_commanding_i_01_prolog" note="" participants="PB B Bravo Lead;PB B HQ;" situation="prolog, player and hq discussing situation">
             <Key ID="str_a3_showcase_commanding_i_01_prolog_bhq_0">
               <Original>Copy that, Bravo - good to hear from you.</Original>
               <Chinese>收到，"Bravo"-真高興聽到你的聲音。</Chinese>
@@ -2672,7 +2672,7 @@
             <Chinese>任務展示:指揮-基礎小隊指揮，防禦城鎮，進步的無線電對答</Chinese>
             <Chinesesimp>任务展示:指挥-基础小队指挥，防御城镇，进步的无线电对答</Chinesesimp>
           </Key>
-          <Container name="45_Away" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="45_Away" dubbingLanguage="english" namePrefix="showcase_commanding_i_45_away" note=" participants="PB B Bravo Lead;" situation="player outside of ao">
+          <Container name="45_Away" audioFilePath="\a3\dubbing_f_beta\showcase_commanding_i" dialogName="45_Away" dubbingLanguage="english" namePrefix="showcase_commanding_i_45_away" note="" participants="PB B Bravo Lead;" situation="player outside of ao">
             <Key ID="str_a3_showcase_commanding_i_45_away_bra_0">
               <Original>Where the hell am I? I should take a look at the map...</Original>
               <Chinese>我在哪裡阿?我應該看一下地圖...</Chinese>
@@ -2811,14 +2811,14 @@
             <Chinese>任務展示:聯合作戰I。-密接空中支援，武裝載具，反坦克武器</Chinese>
             <Chinesesimp>任务展示:联合作战I。-近距离空中支援，武装载具，反坦克武器</Chinesesimp>
           </Key>
-          <Container name="01_Ready_up" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="01_Ready_up" dubbingLanguage="english" namePrefix="showcase_combined_arms_01_ready_up" note=" participants="PB B Golf Two;" situation="insertion chopper pilot lets troops know that they are approaching the lz and should be ready to leave the chopper">
+          <Container name="01_Ready_up" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="01_Ready_up" dubbingLanguage="english" namePrefix="showcase_combined_arms_01_ready_up" note="" participants="PB B Golf Two;" situation="insertion chopper pilot lets troops know that they are approaching the lz and should be ready to leave the chopper">
             <Key ID="str_a3_showcase_combined_arms_01_ready_up_got_0">
               <Original>60 Seconds!</Original>
               <Chinese>60秒!</Chinese>
               <Chinesesimp>60秒!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x05_ImpossibleTask" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="x05_ImpossibleTask" dubbingLanguage="english" namePrefix="showcase_combined_arms_x05_impossibletask" note=" participants="PB B HQ;" situation="the objective can't be met for some reason, e.g., no way to defeat apcs, etc">
+          <Container name="x05_ImpossibleTask" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="x05_ImpossibleTask" dubbingLanguage="english" namePrefix="showcase_combined_arms_x05_impossibletask" note="" participants="PB B HQ;" situation="the objective can't be met for some reason, e.g., no way to defeat apcs, etc">
             <Key ID="str_a3_showcase_combined_arms_x05_impossibletask_bhq_0">
               <Original>All teams, fall back - I say again - fall back!</Original>
               <Chinese>所有小隊，撤退-我再說一遍-撤退!</Chinese>
@@ -2830,14 +2830,14 @@
               <Chinesesimp>与援军在伽马点会合后等待进一步命令。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_Extraction_Leaves" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="x01_Extraction_Leaves" dubbingLanguage="english" namePrefix="showcase_combined_arms_x01_extraction_leaves" note=" participants="PB B Golf Two;" situation="transport warns players it won't wait for them any longer to board the choppers and will leave">
+          <Container name="x01_Extraction_Leaves" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="x01_Extraction_Leaves" dubbingLanguage="english" namePrefix="showcase_combined_arms_x01_extraction_leaves" note="" participants="PB B Golf Two;" situation="transport warns players it won't wait for them any longer to board the choppers and will leave">
             <Key ID="str_a3_showcase_combined_arms_x01_extraction_leaves_got_0">
               <Original>Bravo, this is Golf-2, we can't stay here any longer. You're on your own! Out.</Original>
               <Chinese>"Bravo"，這裡是"Golf-2"，我們不能再待在這裡。你們只能靠自己了!通話完畢。</Chinese>
               <Chinesesimp>"布拉沃"，这里是"高尔夫-2"，我们不能再待在这里。你们只能靠自己了!通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="40_Reinforcements_Eliminated" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="40_Reinforcements_Eliminated" dubbingLanguage="english" namePrefix="showcase_combined_arms_40_reinforcements_eliminated" note=" participants="PB B HQ;" situation="hq informs alpha about extraction">
+          <Container name="40_Reinforcements_Eliminated" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="40_Reinforcements_Eliminated" dubbingLanguage="english" namePrefix="showcase_combined_arms_40_reinforcements_eliminated" note="" participants="PB B HQ;" situation="hq informs alpha about extraction">
             <Key ID="str_a3_showcase_combined_arms_40_reinforcements_eliminated_bhq_0">
               <Original>Outstanding, Bravo. OPFOR are falling back.</Original>
               <Chinese>幹的好，"Bravo"。敵人正在撤退。</Chinese>
@@ -2849,7 +2849,7 @@
               <Chinesesimp>"阿尔法"，请守住现在的位置。"布拉沃"，我们将派遣"高尔夫-2"去接应你们。肃清降落点并搭乘直升机。我们需要你们去南方支援。"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="35_Defeat_Reinforcements" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="35_Defeat_Reinforcements" dubbingLanguage="english" namePrefix="showcase_combined_arms_35_defeat_reinforcements" note=" participants="PB B HQ;" situation="hq confirms objective seized">
+          <Container name="35_Defeat_Reinforcements" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="35_Defeat_Reinforcements" dubbingLanguage="english" namePrefix="showcase_combined_arms_35_defeat_reinforcements" note="" participants="PB B HQ;" situation="hq confirms objective seized">
             <Key ID="str_a3_showcase_combined_arms_35_defeat_reinforcements_bhq_0">
               <Original>Alpha, Bravo, be advised, enemy counter-attack inbound.</Original>
               <Chinese>"Alpha"，"Bravo"，請注意，敵人援軍接近中。</Chinese>
@@ -2861,14 +2861,14 @@
               <Chinesesimp>他们很可能会从你们的东方前来。守住你们的位置。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="30_Seized_Base" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="30_Seized_Base" dubbingLanguage="english" namePrefix="showcase_combined_arms_30_seized_base" note=" participants="PB B HQ;" situation="hq confirms objective seized">
+          <Container name="30_Seized_Base" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="30_Seized_Base" dubbingLanguage="english" namePrefix="showcase_combined_arms_30_seized_base" note="" participants="PB B HQ;" situation="hq confirms objective seized">
             <Key ID="str_a3_showcase_combined_arms_30_seized_base_bhq_0">
               <Original>All teams, objective secured. Good work out there. Papa Bear Out.</Original>
               <Chinese>所有小隊，目標已肅清。你們做的不錯。"熊爸爸"通話完畢。</Chinese>
               <Chinesesimp>所有小队，目标已肃清。你们做的不错。"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_CAS_Leaves" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="25_CAS_Leaves" dubbingLanguage="english" namePrefix="showcase_combined_arms_25_cas_leaves" note=" participants="PB B Wisky Six;" situation="cas warns ground troops he is leaving to base">
+          <Container name="25_CAS_Leaves" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="25_CAS_Leaves" dubbingLanguage="english" namePrefix="showcase_combined_arms_25_cas_leaves" note="" participants="PB B Wisky Six;" situation="cas warns ground troops he is leaving to base">
             <Key ID="str_a3_showcase_combined_arms_25_cas_leaves_whi_0">
               <Original>This is Whisky-6, we're moving on to our next strike target.</Original>
               <Chinese>這裡是"Whisky-6"，我們正前往下一個攻擊目標。</Chinese>
@@ -2880,14 +2880,14 @@
               <Chinesesimp>祝你们好运，"布拉沃"。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_Start_Assault" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="20_Start_Assault" dubbingLanguage="english" namePrefix="showcase_combined_arms_20_start_assault" note=" participants="PB B HQ;" situation="hq warns all units that the assault will begin">
+          <Container name="20_Start_Assault" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="20_Start_Assault" dubbingLanguage="english" namePrefix="showcase_combined_arms_20_start_assault" note="" participants="PB B HQ;" situation="hq warns all units that the assault will begin">
             <Key ID="str_a3_showcase_combined_arms_20_start_assault_bhq_0">
               <Original>Papa Bear to Alpha, Bravo, Echo, Whiskey-6 - commence the assault. Out.</Original>
               <Chinese>"熊爸爸"致"Alpha"，"Bravo"，"Echo"，"Whiskey-6"-開始突擊。通話完畢。</Chinese>
               <Chinesesimp>"熊爸爸"致"阿尔法"，"布拉沃"，"回声"，"威士忌-6"-开始突击。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_Insertion_Complete" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="15_Insertion_Complete" dubbingLanguage="english" namePrefix="showcase_combined_arms_15_insertion_complete" note=" participants="PB B Golf One;PB B Golf Two;PB B HQ;" situation="choppers confirm the insertion">
+          <Container name="15_Insertion_Complete" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="15_Insertion_Complete" dubbingLanguage="english" namePrefix="showcase_combined_arms_15_insertion_complete" note="" participants="PB B Golf One;PB B Golf Two;PB B HQ;" situation="choppers confirm the insertion">
             <Key ID="str_a3_showcase_combined_arms_15_insertion_complete_bhq_0">
               <Original>Roger.</Original>
               <Chinese>了解。</Chinese>
@@ -2904,7 +2904,7 @@
               <Chinesesimp>"高尔夫"-2，部队都已经下来了!前往等待地点。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_Ambient_Chatter_2" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="10_Ambient_Chatter_2" dubbingLanguage="english" namePrefix="showcase_combined_arms_10_ambient_chatter_2" note=" participants="PB B Wisky Six;PB B HQ;" situation="ambient chatter from whisky-6 (cas)">
+          <Container name="10_Ambient_Chatter_2" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="10_Ambient_Chatter_2" dubbingLanguage="english" namePrefix="showcase_combined_arms_10_ambient_chatter_2" note="" participants="PB B Wisky Six;PB B HQ;" situation="ambient chatter from whisky-6 (cas)">
             <Key ID="str_a3_showcase_combined_arms_10_ambient_chatter_2_bhq_0">
               <Original>Copy that. Be advised, friendly forces approaching objective from the west, over.</Original>
               <Chinese>收到。請注意，友軍部隊正從目標西側接近中，完畢。</Chinese>
@@ -2921,7 +2921,7 @@
               <Chinesesimp>了解，"熊爸爸"，友军正在任务区域中。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_Ambient_Chatter_1" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="05_Ambient_Chatter_1" dubbingLanguage="english" namePrefix="showcase_combined_arms_05_ambient_chatter_1" note=" participants="PB B Golf Two;PB B HQ;PB B Echo Lead;" situation="ambient chatter from echo (apc)">
+          <Container name="05_Ambient_Chatter_1" audioFilePath="\a3\dubbing_f_beta\showcase_combined_arms" dialogName="05_Ambient_Chatter_1" dubbingLanguage="english" namePrefix="showcase_combined_arms_05_ambient_chatter_1" note="" participants="PB B Golf Two;PB B HQ;PB B Echo Lead;" situation="ambient chatter from echo (apc)">
             <Key ID="str_a3_showcase_combined_arms_05_ambient_chatter_1_bhq_0">
               <Original>Acknowledged, Golf-2. Wait one.</Original>
               <Chinese>確認，"Golf-2"。請稍待。</Chinese>

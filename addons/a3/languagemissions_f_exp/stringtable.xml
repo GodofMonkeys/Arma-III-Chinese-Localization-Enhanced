@@ -2582,7 +2582,7 @@
             <Chinese>肅清'內布拉斯加'點</Chinese>
             <Chinesesimp>肃清'内布拉斯加'点</Chinesesimp>
           </Key>
-          <Key ID='str_a3_exp_m06_position4_description">
+          <Key ID="str_a3_exp_m06_position4_description">
             <Original>Remove all hostiles from the vicinity of the north-western outpost, codename %1'Nebraska'%2.</Original>
             <Chinese>殲滅西北邊前哨裡的所有敵人。</Chinese>
             <Chinesesimp>歼灭西北边前哨里的所有敌人。</Chinesesimp>

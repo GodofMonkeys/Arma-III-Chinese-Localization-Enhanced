@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: languagemissions_f_mp_mark\config.bin
-//Produced from mikero's Dos Tools Dll version 6.44
-//'now' is Mon Apr 30 18:30:16 2018 : 'file' last modified on Fri Apr 06 01:25:40 2018
+//DeRap: 新增資料夾\languagemissions_f_mp_mark\config.bin
+//Produced from mikero's Dos Tools Dll version 6.80
+//'now' is Sun Mar 31 23:01:51 2019 : 'file' last modified on Fri Jan 18 22:27:39 2019
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 

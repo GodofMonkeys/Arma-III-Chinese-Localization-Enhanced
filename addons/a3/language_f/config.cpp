@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: language_f\config.bin
-//Produced from mikero's Dos Tools Dll version 6.44
-//'now' is Mon Apr 30 18:29:57 2018 : 'file' last modified on Fri Apr 06 01:32:57 2018
+//DeRap: 新增資料夾\language_f\config.bin
+//Produced from mikero's Dos Tools Dll version 6.80
+//'now' is Sun Mar 31 23:01:21 2019 : 'file' last modified on Sat Feb 02 05:38:43 2019
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 
@@ -402,7 +402,7 @@ class CfgHints
 			tip = "";
 			arguments[] = {{"str_a3_cfgmagazines_directionalminerangemagazine0"},{"str_a3_cfgmagazines_directionalminerangemagazine_library0"}};
 			image = "\a3\ui_f\data\gui\cfg\hints\Miss_icon_ca.paa";
-			logicalOrder = 7;
+			logicalOrder = 8;
 			ammo = "SLAMDirectionalMine_Wire_Ammo";
 			modelScale = 1.5;
 		};
@@ -444,7 +444,7 @@ class CfgHints
 			tip = "";
 			arguments[] = {{"str_a3_cfgvehicles_underwaterminerange0"},{"str_a3_cfgvehicles_underwaterminerange_library0"}};
 			image = "\a3\ui_f\data\gui\cfg\hints\Miss_icon_ca.paa";
-			logicalOrder = 9;
+			logicalOrder = 10;
 			ammo = "UnderwaterMine_Range_Ammo";
 			modelScale = 0.4;
 		};
@@ -455,7 +455,7 @@ class CfgHints
 			tip = "";
 			arguments[] = {{"str_a3_cfgvehicles_underwaterminerangeab0"},{"str_a3_cfgvehicles_underwaterminerangeab_library0"}};
 			image = "\a3\ui_f\data\gui\cfg\hints\Miss_icon_ca.paa";
-			logicalOrder = 8;
+			logicalOrder = 9;
 			ammo = "UnderwaterMineAB_Range_Ammo";
 			modelScale = 0.5;
 		};
@@ -466,8 +466,19 @@ class CfgHints
 			tip = "";
 			arguments[] = {{"STR_A3_CFGVEHICLES_UNDERWATERMINEPDM0"},{"STR_A3_CFGVEHICLES_UNDERWATERMINEPDM_LIBRARY0"}};
 			image = "\a3\ui_f\data\gui\cfg\hints\Miss_icon_ca.paa";
-			logicalOrder = 10;
+			logicalOrder = 11;
 			ammo = "UnderwaterMinePDM_Range_Ammo";
+			modelScale = 0.5;
+		};
+		class ied
+		{
+			displayName = "$STR_A3_cfgmagazines_ied0";
+			description = "$STR_A3_cfgmagazines_ied1";
+			tip = "";
+			arguments[] = {};
+			image = "\a3\ui_f\data\gui\cfg\hints\Miss_icon_ca.paa";
+			logicalOrder = 7;
+			ammo = "IEDUrbanBig_Remote_Ammo";
 			modelScale = 0.5;
 		};
 	};

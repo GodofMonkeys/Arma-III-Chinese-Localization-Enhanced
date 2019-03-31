@@ -173,7 +173,7 @@
         <Chinesesimp>%2射击训练不是要一次成功。而是通过学习课程，找到捷径并变得更熟练。%1%1%2观察屏幕上的检查点简介指令和其它告示牌来了解使用哪种姿势和武器。%1%1%2好好计划如何换子弹和切换武器!聪明的做法会节省你很多时间。</Chinesesimp>
       </Key>
       <Key ID="str_a3_firingdrills_tips2">
-        <Original>%2Don't always trust the most direct route. Sometimes a detour can be quicker if there are no obstacles in your path.%1%1%2 Consider what will cost you more time: missing a target and re-engaging it, or moving on and taking the penalty.%1%1%2 Think about your aiming path from target to target, as well as clever use of fire modes. Remember that some targets offer bonuses for accuracy.%1%1%2 Scan for bonus targets, but balance your search time against the gained bonuses. Check your map for clues.%1%1%2 Not all targets appear upon arriving at a Check Point. Remain vigilant until the all clear is given.%1%1%2Consider your fatigue and how often you sprint. It all affects your continued performance and aiming.</Original>
+        <Original>%2Don't always trust the most direct route. Sometimes a detour can be quicker if there are no obstacles in your path.%1%1%2Consider what will cost you more time: missing a target and re-engaging it, or moving on and taking the penalty.%1%1%2Think about your aiming path from target to target, as well as clever use of fire modes. Remember that some targets offer bonuses for accuracy.%1%1%2Scan for bonus targets, but balance your search time against the gained bonuses. Check your map for clues.%1%1%2Not all targets appear upon arriving at a Check Point. Remain vigilant until the all clear is given.%1%1%2Consider your fatigue and how often you sprint. It all affects your continued performance and aiming.</Original>
         <Chinese>不要總是相信直線的路線。有時走沒有障礙的小路反而會比較快。%1%1%2考慮什麼事讓你花費了更多的時間:錯過目標並重新追?目標，或是繼續移動不管目標而獲得的懲罰。%1%1%2考慮你在目標與目標間的火線，同樣也要明智的使用射擊模式。記住，準確射擊某一些目標可以讓你獲得加成獎勵。%1%1%2搜尋加成目標，但要平衡你搜索與獲得加成的時間，不要因小失大。查看地圖來獲得線索。%1%1%2到達檢查點時並不會馬上顯示所有目標。在擊倒全部目標前請隨時保持警覺。%1%1%2考慮到疲憊與衝刺頻率。這些都影響到你的行動力與瞄準精度。</Chinese>
         <Chinesesimp>不要总是相信直线的路线。有时走没有障碍的小路反而会比较快。%1%1%2考虑什么事让你花费了更多的时间:错过目标并重新追踪目标，或是继续移动不管目标而获得的惩罚。%1%1%2考虑你在目标与目标间的火线，同样也要明智的使用射击模式。记住，准确射击某一些目标可以让你获得加成奖励。%1%1%2搜寻加成目标，但要平衡你搜索与获得加成的时间，不要因小失大。查看地图来获得线索。%1%1%2到达检查点时并不会马上显示所有目标。在击倒全部目标前请随时保持警觉。%1%1%2考虑到疲惫与冲刺频率。这些都影响到你的行动力与瞄准精度。</Chinesesimp>
       </Key>
@@ -1526,7 +1526,7 @@
             <Chinesesimp>斜背弹药带(黑色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_chestrigb_blk0">
-            <Original>Fighter Chest rig (Black)</Original>
+            <Original>Fighter Chest Rig (Black)</Original>
             <Chinese>戰士胸掛背心(黑色)</Chinese>
             <Chinesesimp>战士胸挂背心(黑色)</Chinesesimp>
           </Key>
@@ -1536,7 +1536,7 @@
             <Chinesesimp>大容量特殊胸挂背心(绿色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_chestrigb_khk0">
-            <Original>Fighter Chest rig (Khaki)</Original>
+            <Original>Fighter Chest Rig (Khaki)</Original>
             <Chinese>戰士胸掛背心(卡其色)</Chinese>
             <Chinesesimp>战士胸挂背心(卡其色)</Chinesesimp>
           </Key>
@@ -1546,7 +1546,7 @@
             <Chinesesimp>大容量特殊胸挂背心(土狼棕色)</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_chestrig_blk0">
-            <Original>Chest rig (Black)</Original>
+            <Original>Chest Rig (Black)</Original>
             <Chinese>胸掛背心(黑色)</Chinese>
             <Chinesesimp>胸挂背心(黑色)</Chinesesimp>
           </Key>
@@ -1556,7 +1556,7 @@
             <Chinesesimp>GA大容量榴弹胸挂背心(数位迷彩)</Chinesesimp>
           </Key>
           <Key ID="str_a3_v_chestrig_camo0">
-            <Original>Chest rig (Camo)</Original>
+            <Original>Chest Rig (Camo)</Original>
             <Chinese>胸掛背心(迷彩)</Chinese>
             <Chinesesimp>胸挂背心(迷彩)</Chinesesimp>
           </Key>
@@ -4656,6 +4656,11 @@ Rules of Engagement are up to you:&lt;br /&gt;
         <Original>Car Alarm</Original>
         <Chinese>汽車警報</Chinese>
         <Chinesesimp>汽车警报</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgsounds_debug0">
+        <Original>Debug</Original>
+        <Chinese>除錯</Chinese>
+        <Chinesesimp>除错</Chinesesimp>
       </Key>
     </Container>
   </Package>

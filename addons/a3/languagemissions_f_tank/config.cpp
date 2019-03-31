@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: languagemissions_f_tank\config.bin
-//Produced from mikero's Dos Tools Dll version 6.44
-//'now' is Sun May 20 20:55:42 2018 : 'file' last modified on Thu Apr 19 21:55:31 2018
+//DeRap: 新增資料夾\languagemissions_f_tank\config.bin
+//Produced from mikero's Dos Tools Dll version 6.80
+//'now' is Sun Mar 31 23:01:51 2019 : 'file' last modified on Fri Jan 18 21:37:15 2019
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 

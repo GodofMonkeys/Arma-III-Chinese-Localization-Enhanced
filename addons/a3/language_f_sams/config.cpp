@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: language_f_sams\config.bin
+//DeRap: 新增資料夾\language_f_sams\config.bin
 //Produced from mikero's Dos Tools Dll version 6.80
-//'now' is Wed Aug 29 20:48:36 2018 : 'file' last modified on Mon Jul 23 20:19:54 2018
+//'now' is Sun Mar 31 23:01:41 2019 : 'file' last modified on Fri Jan 18 21:49:40 2019
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 

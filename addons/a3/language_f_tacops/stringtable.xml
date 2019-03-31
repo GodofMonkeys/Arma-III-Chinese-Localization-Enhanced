@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Project name="武裝突襲3">
+<Project name="Arma3">
   <Package name="Language_Tacops">
     <Container name="Music_F">
       <Key ID="STR_A3_cfgmusic_leadtrack01_f_tacops">

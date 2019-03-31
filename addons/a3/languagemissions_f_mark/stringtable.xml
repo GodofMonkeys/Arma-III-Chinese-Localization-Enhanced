@@ -7,7 +7,7 @@
         <Chinese>"美杜莎3"</Chinese>
         <Chinesesimp>"美杜莎3"</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_Callsign_Kilo">
+      <Key ID="STR_A3_Callsign_Kilo1">
         <Original>Kilo 1</Original>
         <Chinese>"Kilo1"</Chinese>
         <Chinesesimp>"基洛1"</Chinesesimp>
@@ -22,7 +22,7 @@
         <Chinese>"毒蛇-黑"</Chinese>
         <Chinesesimp>"毒蛇-黑"</Chinesesimp>
       </Key>
-      <Key ID="STR_A3_Callsign_Kilo">
+      <Key ID="STR_A3_Callsign_Kilo2">
         <Original>Kilo 2</Original>
         <Chinese>"Kilo2"</Chinese>
         <Chinesesimp>"基洛2"</Chinesesimp>
@@ -231,21 +231,21 @@
             <Chinese>摧毀墜毀的阿爾蒂斯武裝力量直升機，避免其落入自由獨立同盟之手。</Chinese>
             <Chinesesimp>摧毁坠毁的阿尔蒂斯武装力量直升机，避免其落入自由独立同盟之手。</Chinesesimp>
           </Key>
-          <Container name="x15_UAV_Punish" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x15_UAV_Punish" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x15_uav_punish" note=" participants="MARK B Team A;" situation="players failed to destroy the wreck in time">
+          <Container name="x15_UAV_Punish" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x15_UAV_Punish" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x15_uav_punish" note="" participants="MARK B Team A;" situation="players failed to destroy the wreck in time">
             <Key ID="str_a3_showcase_firingfromvehicles_x15_uav_punish_sfa_0">
               <Original>Damnit, I'm taking over! Weapons hot!</Original>
               <Chinese>天殺的，我接管指揮!開火!</Chinese>
               <Chinesesimp>天杀的，我来接管!开始射击!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x10_UAV_Warning" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x10_UAV_Warning" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x10_uav_warning" note=" participants="MARK B Team A;" situation="players are taking too long to destroy the helicopter wreck">
+          <Container name="x10_UAV_Warning" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x10_UAV_Warning" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x10_uav_warning" note="" participants="MARK B Team A;" situation="players are taking too long to destroy the helicopter wreck">
             <Key ID="str_a3_showcase_firingfromvehicles_x10_uav_warning_sfa_0">
               <Original>Kilo 2, our window's closing! Connect to Archangel and destroy that wreck!</Original>
               <Chinese>"Kilo2"，我們正在失去機會!快點連接"大天使"並摧毀殘骸!</Chinese>
               <Chinesesimp>"基洛2"，我们正在失去机会!快点连接"大天使"并摧毁残骸!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x05_UAV_No_Ammo" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x05_UAV_No_Ammo" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x05_uav_no_ammo" note=" participants="MARK B HQ;" situation="the players failed to destroy the wreckage before the uav ran out of ammo. feeds into 23_orders">
+          <Container name="x05_UAV_No_Ammo" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x05_UAV_No_Ammo" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x05_uav_no_ammo" note="" participants="MARK B HQ;" situation="the players failed to destroy the wreckage before the uav ran out of ammo. feeds into 23_orders">
             <Key ID="str_a3_showcase_firingfromvehicles_x05_uav_no_ammo_bhq_0">
               <Original>Kilo, Archangel's empty.</Original>
               <Chinese>"Kilo"，"大天使"彈藥已用完。</Chinese>
@@ -257,14 +257,14 @@
               <Chinesesimp>刚刚的武装越野车分散了。我们在西尔塔城内掌握了三处可能位置。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_ROE_Failed" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x01_ROE_Failed" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x01_roe_failed" note=" participants="MARK B Team A;" situation="one of the players opened fire before they were supposed to">
+          <Container name="x01_ROE_Failed" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="x01_ROE_Failed" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_x01_roe_failed" note="" participants="MARK B Team A;" situation="one of the players opened fire before they were supposed to">
             <Key ID="str_a3_showcase_firingfromvehicles_x01_roe_failed_sfa_0">
               <Original>Kilo 2, cease fire Goddammit!</Original>
               <Chinese>"Kilo2"，天殺的快停火!</Chinese>
               <Chinesesimp>"基洛2"，天杀的快停火!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="50_Artillery" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="50_Artillery" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_50_artillery" note=" participants="MARK B Team A;MARK B HQ;" situation="friendly artillery starts hitting the civilian town">
+          <Container name="50_Artillery" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="50_Artillery" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_50_artillery" note="" participants="MARK B Team A;MARK B HQ;" situation="friendly artillery starts hitting the civilian town">
             <Key ID="str_a3_showcase_firingfromvehicles_50_artillery_bhq_0">
               <Original>Understood, Kilo 1. It's not us. Checking with AAF command. Wait one.</Original>
               <Chinese>了解，"Kilo1"。那不是我們幹的。正在與阿尔蒂斯武装力量指揮官確認中。請稍等。</Chinese>
@@ -301,7 +301,7 @@
               <Chinesesimp>了解，"百老汇"。"基洛"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="45_Extracted" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="45_Extracted" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_45_extracted" note=" participants="MARK B Team A;MARK B HQ;" situation="all units have successfully extracted from the area">
+          <Container name="45_Extracted" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="45_Extracted" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_45_extracted" note="" participants="MARK B Team A;MARK B HQ;" situation="all units have successfully extracted from the area">
             <Key ID="str_a3_showcase_firingfromvehicles_45_extracted_bhq_0">
               <Original>Outstanding. Relaying to AAF command. Broadway out.</Original>
               <Chinese>幹得好。我們會通知阿爾蒂斯武裝力量的指揮官。"百老匯"通話完畢。</Chinese>
@@ -313,14 +313,14 @@
               <Chinesesimp>"百老汇"，请注意，"基洛"正带着人质返回基地。有收到吗?</Chinesesimp>
             </Key>
           </Container>
-          <Container name="40_All_In" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="40_All_In" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_40_all_in" note=" participants="MARK B Team A;" situation="all units have boarded the helicopter">
+          <Container name="40_All_In" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="40_All_In" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_40_all_in" note="" participants="MARK B Team A;" situation="all units have boarded the helicopter">
             <Key ID="str_a3_showcase_firingfromvehicles_40_all_in_sfa_0">
               <Original>We're in! Go! Go!</Original>
               <Chinese>我們都進來了!走!走!</Chinese>
               <Chinesesimp>我们都进来了!走!走!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="35_Crew_Found" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="35_Crew_Found" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_35_crew_found" note=" participants="MARK B Team A;MARK B HQ;" situation="helicopter crew rescued by sf teams">
+          <Container name="35_Crew_Found" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="35_Crew_Found" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_35_crew_found" note="" participants="MARK B Team A;MARK B HQ;" situation="helicopter crew rescued by sf teams">
             <Key ID="str_a3_showcase_firingfromvehicles_35_crew_found_bhq_0">
               <Original>Confirmed, Kilo 1. Thunder is inbound. ETA 30 seconds. How copy?</Original>
               <Chinese>了解，"Kilo1"。"雷電"在路上了。預計30秒後抵達。有收到嗎?</Chinese>
@@ -337,21 +337,21 @@
               <Chinesesimp>完整收到，"百老汇"。我们正在预备降落点。"基洛"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="33_Church_Clear" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="33_Church_Clear" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_33_church_clear" note=" participants="MARK B Team A;" situation="the other team has cleared the church but found no hostages">
+          <Container name="33_Church_Clear" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="33_Church_Clear" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_33_church_clear" note="" participants="MARK B Team A;" situation="the other team has cleared the church but found no hostages">
             <Key ID="str_a3_showcase_firingfromvehicles_33_church_clear_sfa_0">
               <Original>Kilo 1 to Kilo 2, the church is clear. No sign of the hostages. Starting our sweep. Kilo 1 out.</Original>
               <Chinese>"Kilo1"呼叫"Kilo2"，教堂已肅清。沒有發現到人質。我們將開始掃蕩附近。"Kilo1"通話完畢。</Chinese>
               <Chinesesimp>"基洛1"呼叫"基洛2"，教堂已肃清。没有发现到人质。我们将开始扫荡附近。"基洛1"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="32_Church_Contact" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="32_Church_Contact" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_32_church_contact" note=" participants="MARK B Team A;" situation="the other team starts engaging enemies at the church">
+          <Container name="32_Church_Contact" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="32_Church_Contact" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_32_church_contact" note="" participants="MARK B Team A;" situation="the other team starts engaging enemies at the church">
             <Key ID="str_a3_showcase_firingfromvehicles_32_church_contact_sfa_0">
               <Original>Kilo 2, Kilo 1 has contacts at the church. Engaging. Out.</Original>
               <Chinese>"Kilo2"，"Kilo1"已在教堂接敵。交戰中。通話完畢。</Chinese>
               <Chinesesimp>"基洛2"，"基洛1"已在教堂接敌。交战中。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="30_Bug_Out" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="30_Bug_Out" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_30_bug_out" note=" participants="MARK B Heli;MARK B HQ;MARK B Team A;" situation="helicopter on overwatch forced to return to base">
+          <Container name="30_Bug_Out" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="30_Bug_Out" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_30_bug_out" note="" participants="MARK B Heli;MARK B HQ;MARK B Team A;" situation="helicopter on overwatch forced to return to base">
             <Key ID="str_a3_showcase_firingfromvehicles_30_bug_out_bhq_0">
               <Original>Understood, Romeo 1.</Original>
               <Chinese>了解，Romeo1。</Chinese>
@@ -398,7 +398,7 @@
               <Chinesesimp>收到，"百老汇"。"基洛"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_Plan" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="25_Plan" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_25_plan" note=" participants="MARK B Team A;MARK B HQ;MARK B Heli;" situation="sf team inserted, reiterates the plan">
+          <Container name="25_Plan" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="25_Plan" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_25_plan" note="" participants="MARK B Team A;MARK B HQ;MARK B Heli;" situation="sf team inserted, reiterates the plan">
             <Key ID="str_a3_showcase_firingfromvehicles_25_plan_bhq_0">
               <Original>Solid copy, Kilo 1.</Original>
               <Chinese>完整收到，"Kilo1"。</Chinese>
@@ -430,7 +430,7 @@
               <Chinesesimp>"基洛1"完整收到。非常感谢。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="23_Orders" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="23_Orders" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_23_orders" note=" participants="MARK B HQ;MARK B Team A;MARK B Heli;" situation="hq issues new orders">
+          <Container name="23_Orders" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="23_Orders" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_23_orders" note="" participants="MARK B HQ;MARK B Team A;MARK B Heli;" situation="hq issues new orders">
             <Key ID="str_a3_showcase_firingfromvehicles_23_orders_bhq_0">
               <Original>Standby for tasking.</Original>
               <Chinese>準備接收任務命令。</Chinese>
@@ -487,7 +487,7 @@
               <Chinesesimp>完整收到，"百老汇"。"基洛"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_Destroyed" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="20_Destroyed" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_20_destroyed" note=" participants="MARK B Team A;MARK B HQ;" situation="the downed helicopter wreckage was destroyed. feeds into 23_orders">
+          <Container name="20_Destroyed" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="20_Destroyed" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_20_destroyed" note="" participants="MARK B Team A;MARK B HQ;" situation="the downed helicopter wreckage was destroyed. feeds into 23_orders">
             <Key ID="str_a3_showcase_firingfromvehicles_20_destroyed_bhq_0">
               <Original>Copy, Kilo 1. The technicals split up. We've got 3 potential locations in the vicinity of Syrta.</Original>
               <Chinese>收到，"Kilo1"。剛剛的武裝越野車分散了。我們掌握了3個在西爾塔城市可能的位置。</Chinese>
@@ -499,7 +499,7 @@
               <Chinesesimp>"百老汇"，残骸已摧毁。机组员的下落呢?完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20b_Destroyed_Remote" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="20b_Destroyed_Remote" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_20b_destroyed_remote" note=" participants="MARK B Team A;MARK B HQ;" situation="the downed helicopter wreckage was destroyed. feeds into 23_orders">
+          <Container name="20b_Destroyed_Remote" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="20b_Destroyed_Remote" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_20b_destroyed_remote" note="" participants="MARK B Team A;MARK B HQ;" situation="the downed helicopter wreckage was destroyed. feeds into 23_orders">
             <Key ID="str_a3_showcase_firingfromvehicles_20b_destroyed_remote_bhq_0">
               <Original>Copy, Kilo 1. The technicals split up. Foxtrot have 3 potential locations in the vicinity of Syrta.</Original>
               <Chinese>收到，"Kilo1"。剛剛的武裝越野車分散了。"Foxtrot"掌握了3個在西爾塔城市可能的位置。</Chinese>
@@ -511,7 +511,7 @@
               <Chinesesimp>"百老汇"，残骸已摧毁。机组员的下落呢?完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_Technical" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="15_Technical" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_15_technical" note=" participants="MARK B Heli;MARK B Team A;MARK B HQ;" situation="helicopters spot an armed enemy vehicle and have to pull back">
+          <Container name="15_Technical" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="15_Technical" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_15_technical" note="" participants="MARK B Heli;MARK B Team A;MARK B HQ;" situation="helicopters spot an armed enemy vehicle and have to pull back">
             <Key ID="str_a3_showcase_firingfromvehicles_15_technical_bhq_0">
               <Original>10 seconds, Kilo 1. Transferring weapons authority. Wait one.</Original>
               <Chinese>10秒，"Kilo1"。正在轉移武器使用權限。請稍等。</Chinese>
@@ -553,7 +553,7 @@
               <Chinesesimp>谁快去连接"大天使"并摧毁掉那架直升机!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15b_Technical_Remote" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="15b_Technical_Remote" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_15b_technical_remote" note=" participants="MARK B Heli;MARK B Team A;MARK B HQ;" situation="helicopters spot an armed enemy vehicle and have to pull back">
+          <Container name="15b_Technical_Remote" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="15b_Technical_Remote" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_15b_technical_remote" note="" participants="MARK B Heli;MARK B Team A;MARK B HQ;" situation="helicopters spot an armed enemy vehicle and have to pull back">
             <Key ID="str_a3_showcase_firingfromvehicles_15b_technical_remote_bhq_0">
               <Original>10 seconds, Kilo 1. Transferring weapons authority. Wait one.</Original>
               <Chinese>10秒，"Kilo1"。正在轉移武器使用權限。請稍等。</Chinese>
@@ -595,7 +595,7 @@
               <Chinesesimp>谁快去连接"狐步舞"的激光指示器并照射那架直升机!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_Located" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="10_Located" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_10_located" note=" participants="MARK B Team A;MARK B Heli;MARK B HQ;" situation="helicopters spot the downed helicopter that they're looking for">
+          <Container name="10_Located" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="10_Located" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_10_located" note="" participants="MARK B Team A;MARK B Heli;MARK B HQ;" situation="helicopters spot the downed helicopter that they're looking for">
             <Key ID="str_a3_showcase_firingfromvehicles_10_located_bhq_0">
               <Original>Kilo 1, Broadway. Understood. Video feed from Archangel confirms that the hostages are no longer at the crash site. You're clear to engage all targets. Over.</Original>
               <Chinese>"Kilo1"，"百老匯"。了解。根據"大天使"的偵察畫面，我們確認人質已不在墜機點了。你們可以開始攻擊敵人。完畢。</Chinese>
@@ -617,7 +617,7 @@
               <Chinesesimp>"百老汇"，我们遭受到小型武器的攻击。我们正在回击。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10b_Located_Remote" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="10b_Located_Remote" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_10b_located_remote" note=" participants="MARK B Team A;MARK B Heli;MARK B HQ;" situation="helicopters spot the downed helicopter that they're looking for">
+          <Container name="10b_Located_Remote" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="10b_Located_Remote" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_10b_located_remote" note="" participants="MARK B Team A;MARK B Heli;MARK B HQ;" situation="helicopters spot the downed helicopter that they're looking for">
             <Key ID="str_a3_showcase_firingfromvehicles_10b_located_remote_bhq_0">
               <Original>Kilo 1, Broadway. Understood. Foxtrot confirms that the hostages are no longer at the crash site. You're clear to engage all targets. Over.</Original>
               <Chinese>"Kilo1"，"百老匯"。了解。"Foxtrot"確認人質已不在墜機點了。你們可以開始攻擊敵人。完畢。</Chinese>
@@ -639,7 +639,7 @@
               <Chinesesimp>"百老汇"，我们遭受到轻武器攻击。我们正在还击。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_Sentries" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="05_Sentries" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_05_sentries" note=" participants="MARK B Team A;MARK B HQ;" situation="helicopters spot the enemy sentries from earlier">
+          <Container name="05_Sentries" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="05_Sentries" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_05_sentries" note="" participants="MARK B Team A;MARK B HQ;" situation="helicopters spot the enemy sentries from earlier">
             <Key ID="str_a3_showcase_firingfromvehicles_05_sentries_bhq_0">
               <Original>Solid copy. Remember the ROE - do not fire unless fired upon. Akhanteros is on edge as it is. Over.</Original>
               <Chinese>完整收到。請謹記交戰守則-不要主動開火，除非他們對你開火的話。阿坎斯特羅斯正在那附近。完畢。</Chinese>
@@ -661,7 +661,7 @@
               <Chinesesimp>了解，"百老汇"。"基洛1"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_Spotted" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="01_Spotted" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_01_spotted" note=" participants="MARK B HQ;MARK B Team A;" situation="helicopters are spotted by enemy sentries">
+          <Container name="01_Spotted" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="01_Spotted" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_01_spotted" note="" participants="MARK B HQ;MARK B Team A;" situation="helicopters are spotted by enemy sentries">
             <Key ID="str_a3_showcase_firingfromvehicles_01_spotted_bhq_0">
               <Original>Acknowledged. UAV recon, callsign 'Archangel', reports 3 FIA technicals leaving the vicinity of the helo wreck. Looks like you've been spotted. Over.</Original>
               <Chinese>了解。據呼號為'大天使'的無人偵察機回報，有3輛自由獨立同盟的武裝越野車駛離了殘骸。看來你們被發現了。完畢。</Chinese>
@@ -683,7 +683,7 @@
               <Chinesesimp>收到，"百老汇"。那人质呢?完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01b_Spotted_Remote" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="01b_Spotted_Remote" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_01b_spotted_remote" note=" participants="MARK B HQ;MARK B Team A;" situation="helicopters are spotted by enemy sentries">
+          <Container name="01b_Spotted_Remote" audioFilePath="\a3\dubbing_f_mark\showcase_firingfromvehicles" dialogName="01b_Spotted_Remote" dubbingLanguage="english" namePrefix="showcase_firingfromvehicles_01b_spotted_remote" note="" participants="MARK B HQ;MARK B Team A;" situation="helicopters are spotted by enemy sentries">
             <Key ID="str_a3_showcase_firingfromvehicles_01b_spotted_remote_bhq_0">
               <Original>Acknowledged. Looks like you've been spotted. Foxtrot's pursuing 3 FIA technicals leaving the vicinity of the helo wreck. Over.</Original>
               <Chinese>了解。看來你們被發現了。"Foxtrot"正在追擊3輛駛離殘骸的自由獨立同盟武裝越野車。完畢。</Chinese>
@@ -712,14 +712,14 @@
             <Chinese>精準射手</Chinese>
             <Chinesesimp>精准射手</Chinesesimp>
           </Key>
-          <Container name="x01_Losses" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="x01_Losses" dubbingLanguage="english" namePrefix="showcase_marksman_x01_losses" note=" participants="MARK O Leader;" situation="support team has been annihilated">
+          <Container name="x01_Losses" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="x01_Losses" dubbingLanguage="english" namePrefix="showcase_marksman_x01_losses" note="" participants="MARK O Leader;" situation="support team has been annihilated">
             <Key ID="str_a3_showcase_marksman_x01_losses_led_0">
               <Original>Viper-Black, we have lost contact with Viper-Green. Presumed KIA. You are on your own. Viper-Red out.</Original>
               <Chinese>"毒蛇-黑"，我們與"毒蛇-綠"失去連繫。推測他們已經陣亡。你只能靠你自己了。"毒蛇-紅"通話完畢。</Chinese>
               <Chinesesimp>"毒蛇-黑"，我们与"毒蛇-绿"失去联系。推测他们已经阵亡。你只能靠你自己了。"毒蛇-红"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="50_Victory" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="50_Victory" dubbingLanguage="english" namePrefix="showcase_marksman_50_victory" note=" participants="MARK O Player;MARK O Leader;" situation="player secured the complex">
+          <Container name="50_Victory" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="50_Victory" dubbingLanguage="english" namePrefix="showcase_marksman_50_victory" note="" participants="MARK O Player;MARK O Leader;" situation="player secured the complex">
             <Key ID="str_a3_showcase_marksman_50_victory_led_0">
               <Original>Understood, Viper-Black. Hydra is inbound. Viper-Red out.</Original>
               <Chinese>了解，"毒蛇-黑"。"九頭蛇"正在路上。"毒蛇-紅"通話完畢。</Chinese>
@@ -731,21 +731,21 @@
               <Chinesesimp>指挥官，营地是我们的了。你可以让"九头蛇"过来了。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="45_Signal" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="45_Signal" dubbingLanguage="english" namePrefix="showcase_marksman_45_signal" note=" participants="MARK O Player;" situation="player gives supporting team the signal to attack">
+          <Container name="45_Signal" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="45_Signal" dubbingLanguage="english" namePrefix="showcase_marksman_45_signal" note="" participants="MARK O Player;" situation="player gives supporting team the signal to attack">
             <Key ID="str_a3_showcase_marksman_45_signal_pla_0">
               <Original>Viper-Green, Viper-Black - engage when ready! Engage when ready! Out.</Original>
               <Chinese>"毒蛇-綠"，"毒蛇-黑"-可以開始進攻!可以開始進攻!通話完畢。</Chinese>
               <Chinesesimp>"毒蛇-绿"，"毒蛇-黑"-准备好了就攻击!准备好了就攻击!通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="40_LiveFeed" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="40_LiveFeed" dubbingLanguage="english" namePrefix="showcase_marksman_40_livefeed" note=" participants="MARK O Leader;" situation="player's leader informing them of the incoming uav feed">
+          <Container name="40_LiveFeed" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="40_LiveFeed" dubbingLanguage="english" namePrefix="showcase_marksman_40_livefeed" note="" participants="MARK O Leader;" situation="player's leader informing them of the incoming uav feed">
             <Key ID="str_a3_showcase_marksman_40_livefeed_led_0">
               <Original>Viper-Black, standby for UAV video feed.</Original>
               <Chinese>"毒蛇-黑"，請接收無人偵察機畫面。</Chinese>
               <Chinesesimp>"毒蛇-黑"，请接收无人侦察机画面。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="35_CampInfo" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="35_CampInfo" dubbingLanguage="english" namePrefix="showcase_marksman_35_campinfo" note=" participants="MARK O Player;MARK O Leader;" situation="player's leader gives them even more info on the objective">
+          <Container name="35_CampInfo" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="35_CampInfo" dubbingLanguage="english" namePrefix="showcase_marksman_35_campinfo" note="" participants="MARK O Player;MARK O Leader;" situation="player's leader gives them even more info on the objective">
             <Key ID="str_a3_showcase_marksman_35_campinfo_led_0">
               <Original>Roger. Viper-Green is standing by.</Original>
               <Chinese>了解。"毒蛇-綠"正在待命。</Chinese>
@@ -772,7 +772,7 @@
               <Chinesesimp>了解。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="30_Details" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="30_Details" dubbingLanguage="english" namePrefix="showcase_marksman_30_details" note=" participants="MARK O Player;MARK O Leader;" situation="player receives more information on their new objective">
+          <Container name="30_Details" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="30_Details" dubbingLanguage="english" namePrefix="showcase_marksman_30_details" note="" participants="MARK O Player;MARK O Leader;" situation="player receives more information on their new objective">
             <Key ID="str_a3_showcase_marksman_30_details_led_0">
               <Original>Okay, here is the situation. The camp is in a small industrial complex north of Alikampos.</Original>
               <Chinese>好的，狀況如下。該營地設立在阿利卡姆波斯北方的小工業區裡面。</Chinese>
@@ -809,7 +809,7 @@
               <Chinesesimp>收到。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_ChangeOfPlan" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="25_ChangeOfPlan" dubbingLanguage="english" namePrefix="showcase_marksman_25_changeofplan" note=" participants="MARK O Leader;MARK O Player;" situation="player's commander informs them of the change in plan">
+          <Container name="25_ChangeOfPlan" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="25_ChangeOfPlan" dubbingLanguage="english" namePrefix="showcase_marksman_25_changeofplan" note="" participants="MARK O Leader;MARK O Player;" situation="player's commander informs them of the change in plan">
             <Key ID="str_a3_showcase_marksman_25_changeofplan_led_0">
               <Original>Viper-Black, I have received an update from Griffin.</Original>
               <Chinese>"毒蛇-黑"，我從"獅鷲"得知了些新訊息。</Chinese>
@@ -831,14 +831,14 @@
               <Chinesesimp>了解。"毒蛇-黑"待命中。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_GetIn" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="20_GetIn" dubbingLanguage="english" namePrefix="showcase_marksman_20_getin" note=" participants="MARK O Leader;" situation="rest of player's team arrives at the ao">
+          <Container name="20_GetIn" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="20_GetIn" dubbingLanguage="english" namePrefix="showcase_marksman_20_getin" note="" participants="MARK O Leader;" situation="rest of player's team arrives at the ao">
             <Key ID="str_a3_showcase_marksman_20_getin_led_0">
               <Original>Hydra is waiting, Sergeant.</Original>
               <Chinese>"九頭蛇"正在等待，中士。</Chinese>
               <Chinesesimp>"九头蛇"正在等待，中士。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_LZClear" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="15_LZClear" dubbingLanguage="english" namePrefix="showcase_marksman_15_lzclear" note=" participants="MARK O Player;MARK O Leader;" situation="player reporting after clearing the newly discovered compound">
+          <Container name="15_LZClear" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="15_LZClear" dubbingLanguage="english" namePrefix="showcase_marksman_15_lzclear" note="" participants="MARK O Player;MARK O Leader;" situation="player reporting after clearing the newly discovered compound">
             <Key ID="str_a3_showcase_marksman_15_lzclear_led_0">
               <Original>Roger. We are inbound with Hydra.</Original>
               <Chinese>了解。我們正與"九頭蛇"一同過去。</Chinese>
@@ -865,7 +865,7 @@
               <Chinesesimp>请继续保持警戒。"毒蛇-红"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_IntelFound" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="10_IntelFound" dubbingLanguage="english" namePrefix="showcase_marksman_10_intelfound" note=" participants="MARK O Player;MARK O Leader;" situation="player reports in after finding the guerrilla intel">
+          <Container name="10_IntelFound" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="10_IntelFound" dubbingLanguage="english" namePrefix="showcase_marksman_10_intelfound" note="" participants="MARK O Player;MARK O Leader;" situation="player reports in after finding the guerrilla intel">
             <Key ID="str_a3_showcase_marksman_10_intelfound_led_0">
               <Original>Understood. Dispatching Hydra to your position. Over.</Original>
               <Chinese>了解。正在派遣"九頭蛇"前往你的位置。完畢。</Chinese>
@@ -897,7 +897,7 @@
               <Chinesesimp>收到。当我有结果时会向你回报。"毒蛇-黑"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_VillaCleared" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="05_VillaCleared" dubbingLanguage="english" namePrefix="showcase_marksman_05_villacleared" note=" participants="MARK O Player;MARK O Leader;" situation="player reporting after he clears the fia hq">
+          <Container name="05_VillaCleared" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="05_VillaCleared" dubbingLanguage="english" namePrefix="showcase_marksman_05_villacleared" note="" participants="MARK O Player;MARK O Leader;" situation="player reporting after he clears the fia hq">
             <Key ID="str_a3_showcase_marksman_05_villacleared_led_0">
               <Original>Copy, Viper-Black.</Original>
               <Chinese>收到，"毒蛇-黑"。</Chinese>
@@ -909,7 +909,7 @@
               <Chinesesimp>"毒蛇-红"，"毒蛇-黑"。叛军指挥部已肃清完成。正在搜索情报。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_Prologue" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="01_Prologue" dubbingLanguage="english" namePrefix="showcase_marksman_01_prologue" note=" participants="MARK O Player;MARK O Leader;" situation="mission start, player is moving to objective">
+          <Container name="01_Prologue" audioFilePath="\a3\dubbing_f_mark\showcase_marksman" dialogName="01_Prologue" dubbingLanguage="english" namePrefix="showcase_marksman_01_prologue" note="" participants="MARK O Player;MARK O Leader;" situation="mission start, player is moving to objective">
             <Key ID="str_a3_showcase_marksman_01_prologue_led_0">
               <Original>Roger. Report back when the insurgent HQ is clear. Over.</Original>
               <Chinese>了解。當叛軍指揮部肅清完成時請回報。完畢。</Chinese>

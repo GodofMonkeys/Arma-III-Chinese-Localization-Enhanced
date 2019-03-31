@@ -395,9 +395,9 @@
         <Chinesesimp>行走速度</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_commandbar0">
-        <Original>The command bar displays information about subordinate units. Each unit under your command shows: %1%2ID: 1, 2, 3 ...%1%2Rank (&lt;img size='1' image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa' /&gt; &lt;img size='1' image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa' /&gt; &lt;img size='1' image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa' /&gt; &lt;img size='1' image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa' /&gt;...) %1%2Specialization (&lt;img size='1' image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa' /&gt; &lt;img size='1' image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa' /&gt; &lt;img size='1' image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa' /&gt; &lt;img size='1' image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa' /&gt; &lt;img size='1' image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa' /&gt; &lt;img size='1' image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa' /&gt;)%1%2Vehicle occupation%1%2Vehicle role (&lt;img size='1' image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa' /&gt; &lt;img size='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa' /&gt; &lt;img size='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa' /&gt; &lt;img size='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa' /&gt;)%1%2Health Condition: Wounded &lt;img size='1' %12 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa' /&gt;, No Ammo &lt;img size='1' %13 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa' /&gt;%1%2Combat mode: Hold Fire &lt;img size='1' %11 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa' /&gt;%1%2Behavior: Stealth &lt;img size='1' %14 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa' /&gt;, Combat &lt;img size='1' %15 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa' /&gt;%1%2Current orders: 'Move'</Original>
-        <Chinese>命令欄會顯示出下屬單位的基本狀態。每個受你掌控的單位都會顯示在上面:%1%2ID:1，2，3...%1%2軍階(&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...)%1%2單位的專精項目(&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;)%1%2載具的類型%1%2載具的功能(&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;)%1%2健康狀況:受傷&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，彈藥用盡&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作戰模式:停止射擊&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行為:潛行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，戰鬥&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2當前命令:'移動'</Chinese>
-        <Chinesesimp>命令栏会显示出下属单位的基本状态。每个受你掌控的单位都会显示在上面:%1%2ID:1，2，3...%1%2军阶(&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...)%1%2单位的专精项目(&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;)%1%2载具的类型%1%2载具的功能(&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;)%1%2健康状况:受伤&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，弹药用尽&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作战模式:停止射击&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行为:潜行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，战斗&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2当前命令:'移动'</Chinesesimp>
+        <Original>The command bar displays information about subordinate units. Each unit under your command shows: %1%2ID: 1, 2, 3 ...%1%2Rank (&lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa' /&gt;...) %1%2Specialization (&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa' /&gt; &lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa' /&gt;)%1%2Vehicle occupation%1%2Vehicle role (&lt;img size='1'   image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa' /&gt; &lt;img size='1'  image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa' /&gt; &lt;img size='1'  image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa' /&gt; &lt;img size='1'  image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa' /&gt;)%1%2Health Condition: Wounded &lt;img size='1' %12 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa' /&gt;, No Ammo &lt;img size='1' %13 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa' /&gt;%1%2Combat mode: Hold Fire &lt;img size='1' %11 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa' /&gt;%1%2Behavior: Stealth &lt;img size='1' %14 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa' /&gt;, Combat &lt;img size='1' %15 image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa' /&gt;%1%2Current orders: 'Move'</Original>
+        <Chinese>命令欄會顯示出下屬單位的基本狀態。每個受你掌控的單位都會顯示在上面:%1%2ID:1，2，3...%1%2軍階(&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...)%1%2單位的專精項目(&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;)%1%2載具的類型%1%2載具的功能(&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;)%1%2健康狀況:受傷&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，彈藥用盡&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作戰模式:停止射擊&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行為:潛行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，戰鬥&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2當前命令:'移動'</Chinese>
+        <Chinesesimp>命令栏会显示出下属单位的基本状态。每个受你掌控的单位都会显示在上面:%1%2ID:1，2，3...%1%2军阶(&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\private_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\sergeant_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\corporal_gs.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Ranks\major_gs.paa'/&gt;...)%1%2单位的专精项目(&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\aa_ca.paa'/&gt;&lt;imgsize='1'   image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\at_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\gl_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\mg_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\scuba_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\WeaponIcons\srifle_ca.paa'/&gt;)%1%2载具的类型%1%2载具的功能(&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageDriver_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCargo_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageCommander_ca.paa'/&gt;&lt;imgsize='1'image='a3\UI_F\data\IGUI\Cfg\CommandBar\imageGunner_ca.paa'/&gt;)%1%2健康状况:受伤&lt;imgsize='1'%12image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;，弹药用尽&lt;imgsize='1'%13image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitNameBackground_normal_ca.paa'/&gt;%1%2作战模式:停止射击&lt;imgsize='1'%11image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitCombatMode_ca.paa'/&gt;%1%2行为:潜行&lt;imgsize='1'%14image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;，战斗&lt;imgsize='1'%15image='a3\UI_F\data\IGUI\Cfg\CommandBar\unitBehavior_ca.paa'/&gt;%1%2当前命令:'移动'</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_commandbar1">
         <Original>Command Bar</Original>
@@ -515,9 +515,9 @@
         <Chinesesimp>白组被用来表示任何未指派的单位。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_unittype0">
-        <Original>In High Command, various unit types are indicated by an icon. The most common symbols are:%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa' /&gt; – Infantry%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa' /&gt; – Armor%1&lt;img size='1' image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa' /&gt; – Motorized Infantry%1&lt;img size='1' image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa' /&gt; – Mechanized Infantry%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa' /&gt; – UAV%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa' /&gt; – Artillery%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa' /&gt; – Recon%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa' /&gt; – Airplanes%1&lt;img size='1' image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa' /&gt; – Helicopters%1Marks are further labeled by size:%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa' /&gt; – Fireteam (2-4)%1&lt;img size=1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa' /&gt; – Section (&gt; 4)%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa' /&gt; – Squad (&gt; 12)%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa' /&gt; – Platoon (&gt; 25)%1&lt;img size='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa' /&gt; – Company (&gt; 60)</Original>
-        <Chinese>在最高指揮模式下，不同部隊類型將由不同的圖標來表示。最常見的符號是:%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa'/&gt;–步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa'/&gt;–裝甲%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa'/&gt;–摩托化步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa'/&gt;–機械化步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa'/&gt;–無人載具%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa'/&gt;–火砲%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa'/&gt;–偵察%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa'/&gt;–飛機%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa'/&gt;–直升機%1而組別的大小則由以下標記來代表:%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa'/&gt;–火力伍(2-4人)%1&lt;imgsize=1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa'/&gt;–小隊(&gt;4人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa'/&gt;–班(&gt;12人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa'/&gt;–排(&gt;25人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa'/&gt;–連(&gt;60人)</Chinese>
-        <Chinesesimp>在最高指挥模式下，不同部队类型将由不同的图标来表示。最常见的符号是:%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa'/&gt;–步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa'/&gt;–装甲%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa'/&gt;–摩托化步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa'/&gt;–机械化步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa'/&gt;–无人载具%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa'/&gt;–火炮%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa'/&gt;–侦察%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa'/&gt;–飞机%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa'/&gt;–直升机%1而组别的大小则由以下标记来代表:%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa'/&gt;–火力伍(2-4人)%1&lt;imgsize=1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa'/&gt;–小队(&gt;4人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa'/&gt;–班(&gt;12人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa'/&gt;–排(&gt;25人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa'/&gt;–连(&gt;60人)</Chinesesimp>
+        <Original>In High Command, various unit types are indicated by an icon. The most common symbols are:%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa' /&gt; – Infantry%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa' /&gt; – Armor%1&lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa' /&gt; – Motorized Infantry%1&lt;img size='1' image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa' /&gt; – Mechanized Infantry%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa' /&gt; – UAV%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa' /&gt; – Artillery%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa' /&gt; – Recon%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa' /&gt; – Airplanes%1&lt;img size='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa' /&gt; – Helicopters%1Marks are further labeled by size:%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa' /&gt; – Fireteam (2-4)%1&lt;img size=1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa' /&gt; – Section (&gt; 4)%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa' /&gt; – Squad (&gt; 12)%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa' /&gt; – Platoon (&gt; 25)%1&lt;img size='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa' /&gt; – Company (&gt; 60)</Original>
+        <Chinese>在最高指揮模式下，不同部隊類型將由不同的圖標來表示。最常見的符號是:%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa'/&gt;–步兵%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa'/&gt;–裝甲%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa'/&gt;–摩托化步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa'/&gt;–機械化步兵%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa'/&gt;–無人載具%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa'/&gt;–火砲%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa'/&gt;–偵察%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa'/&gt;–飛機%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa'/&gt;–直升機%1而組別的大小則由以下標記來代表:%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa'/&gt;–火力伍(2-4人)%1&lt;imgsize=1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa'/&gt;–小隊(&gt;4人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa'/&gt;–班(&gt;12人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa'/&gt;–排(&gt;25人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa'/&gt;–連(&gt;60人)</Chinese>
+        <Chinesesimp>在最高指挥模式下，不同部队类型将由不同的图标来表示。最常见的符号是:%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_inf_ca.paa'/&gt;–步兵%1&lt;imgsize='1'  image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_armor_ca.paa'/&gt;–装甲%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_motor_inf_ca.paa'/&gt;–摩托化步兵%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_mech_inf_ca.paa'/&gt;–机械化步兵%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_UAV_ca.paa'/&gt;–无人载具%1&lt;imgsize='1'   image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_artillery_ca.paa'/&gt;–火炮%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_recon_ca.paa'/&gt;–侦察%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_air_ca.paa'/&gt;–飞机%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\b_plane_ca.paa'/&gt;–直升机%1而组别的大小则由以下标记来代表:%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_0_ca.paa'/&gt;–火力伍(2-4人)%1&lt;imgsize=1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_1_ca.paa'/&gt;–小队(&gt;4人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_2_ca.paa'/&gt;–班(&gt;12人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_3_ca.paa'/&gt;–排(&gt;25人)%1&lt;imgsize='1'image='a3\UI_F\data\GUI\Cfg\Hints\icon_text\group_4_ca.paa'/&gt;–连(&gt;60人)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_unittype1">
         <Original>Group Type Markers</Original>
@@ -525,9 +525,9 @@
         <Chinesesimp>小队类型标记</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_waypoints0">
-        <Original>When in command, you can issue move orders to your subordinates. %1To issue a single waypoint without entering the map:%1%2Select units with %3[F2–F10] keys%4.%1%2Point at the target location.%1%2Select %3Move there%4.%1%2Confirm with %12.%1Issue a waypoint &lt;img size='1' %5image='A3\Ui_f\data\Map\MapControl\waypoint_ca.paa'/&gt; using the map: %1%2Open the map %11.%1%2Select units with %3[F2–F10] keys%4.%1%2Select %3Move there%4.%1%2Confirm with %12.</Original>
-        <Chinese>擔任負責指揮的角色時，你可以對下屬發佈移動的指令。%1在不進入地圖的情況下發佈一個路徑點指令:%1%2按%3[F2–F10]%4來選擇單位。%1%2選擇%3移動到那裡%4。%1%2按%12來確認。%1利用地圖發布一個路徑點指令&lt;imgsize='1'%5image='A3\Ui_f\data\Map\MapControl\waypoint_ca.paa'/&gt;:%1%2用%11來打開地圖。%1%2按%3[F2–F10]%4來選擇單位。%1%2選擇%3移動到那裡%4。%1%2按%12來確認。</Chinese>
-        <Chinesesimp>担任负责指挥的角色时，你可以对下属发布移动的指令。%1在不进入地图的情况下发布一个路径点指令:%1%2按%3[F2–F10]%4来选择单位。%1%2选择%3移动到那里%4。%1%2按%12来确认。%1利用地图发布一个路径点指令&lt;imgsize='1'%5image='A3\Ui_f\data\Map\MapControl\waypoint_ca.paa'/&gt;:%1%2用%11来打开地图。%1%2按%3[F2–F10]%4来选择单位。%1%2选择%3移动到那里%4。%1%2按%12来确认。</Chinesesimp>
+        <Original>When in command, you can issue move orders to your subordinates. %1To issue a single waypoint without entering the map:%1%2Select units with %3[F2–F10] keys%4.%1%2Point at the target location.%1%2Select %3Move there%4.%1%2Confirm with %12.%1Issue a waypoint &lt;img size='1' %5  image='A3\Ui_f\data\Map\MapControl\waypoint_ca.paa'/&gt; using the map: %1%2Open the map %11.  %1%2Select units with %3[F2–F10] keys%4.%1%2Select %3Move there%4.%1%2Confirm with %12.</Original>
+        <Chinese>擔任負責指揮的角色時，你可以對下屬發佈移動的指令。%1在不進入地圖的情況下發佈一個路徑點指令:%1%2按%3[F2–F10]%4來選擇單位。%1%2選擇%3移動到那裡%4。%1%2按%12來確認。%1利用地圖發布一個路徑點指令&lt;imgsize='1'%5  image='A3\Ui_f\data\Map\MapControl\waypoint_ca.paa'/&gt;:%1%2用%11來打開地圖。%1%2按%3[F2–F10]%4來選擇單位。%1%2選擇%3移動到那裡%4。%1%2按%12來確認。</Chinese>
+        <Chinesesimp>担任负责指挥的角色时，你可以对下属发布移动的指令。%1在不进入地图的情况下发布一个路径点指令:%1%2按%3[F2–F10]%4来选择单位。%1%2选择%3移动到那里%4。%1%2按%12来确认。%1利用地图发布一个路径点指令&lt;imgsize='1'%5  image='A3\Ui_f\data\Map\MapControl\waypoint_ca.paa'/&gt;:%1%2用%11来打开地图。%1%2按%3[F2–F10]%4来选择单位。%1%2选择%3移动到那里%4。%1%2按%12来确认。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_waypoints1">
         <Original>Move!</Original>
@@ -550,7 +550,7 @@
         <Chinesesimp>把一个背包换成较小容量的背包后，一些过大的物品可能无法放入里面。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpace0">
-        <Original>Combat pace is a move stance with weapon raised permanently to the shoulder. It trades movement speed for situational awareness and faster reaction time. This is particularly useful in urban areas. Use %11 to toggle combat pace on and off. </Original>
+        <Original>Combat pace is a move stance with weapon raised permanently to the shoulder. It trades movement speed for situational awareness and faster reaction time. This is particularly useful in urban areas. Use %11 to toggle combat pace on and off.   </Original>
         <Chinese>戰鬥步伐是一種一直將武器舉在肩膀上的行進姿態。這種姿態會犧牲移動速度但提高對周圍的警覺性和反應速度。該姿態在城市地區十分有用。使用%11來切換戰鬥步伐。</Chinese>
         <Chinesesimp>战斗步伐是一种一直将武器抵肩端起的行进姿态。这种姿态会牺牲移动速度但提高对周围的警觉性和反应速度。该姿态在城市地区十分有用。使用%11来切换战斗步伐。</Chinesesimp>
       </Key>
@@ -685,9 +685,9 @@
         <Chinesesimp>定向地雷</Chinesesimp>
       </Key>
       <Key ID="str_a3_disarm0">
-        <Original>To deactivate an explosive, you have to be an %3Explosives expert%4 or an %3Engineer%4, have a %3Toolkit%4 and know the location of the explosive.%1%2Crawl %11 to the explosive.%1%2Select %3Deactivate%4&lt;img size='1' %5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa' /&gt; from the action menu.%1WARNING: if you don't approach the explosive carefully in a prone position, it will detonate.</Original>
-        <Chinese>要拆除炸藥，你必須是一名%3爆破專精兵%4或是一名%3工兵%4，以及擁有一個%3工具包%4，並清楚了解炸藥的位置。%1%2使用%11來爬向炸藥。%1%2從動作選單中選擇%3拆除%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你沒有以匍匐姿態謹慎地接近炸藥，它將會引爆。</Chinese>
-        <Chinesesimp>要拆除炸药，你必须是一名%3爆破专精兵%4或是一名%3工兵%4，以及拥有一个%3工具包%4，并清楚了解炸药的位置。%1%2使用%11来爬向炸药。%1%2从动作菜单中选择%3拆除%4&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你没有以匍匐姿态谨慎地接近炸药，它将会引爆。</Chinesesimp>
+        <Original>To deactivate an explosive, you have to be an %3Explosives expert%4 or an %3Engineer%4, have a %3Toolkit%4 and know the location of the explosive.%1%2Crawl %11 to the explosive.%1%2Select %3Deactivate%4&lt;img size='1' %5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa' /&gt; from the action menu.%1WARNING: if you don't approach the explosive carefully in a prone position, it will detonate.</Original>
+        <Chinese>要拆除炸藥，你必須是一名%3爆破專精兵%4或是一名%3工兵%4，以及擁有一個%3工具包%4，並清楚了解炸藥的位置。%1%2使用%11來爬向炸藥。%1%2從動作選單中選擇%3拆除%4&lt;imgsize='1'%5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你沒有以匍匐姿態謹慎地接近炸藥，它將會引爆。</Chinese>
+        <Chinesesimp>要拆除炸药，你必须是一名%3爆破专精兵%4或是一名%3工兵%4，以及拥有一个%3工具包%4，并清楚了解炸药的位置。%1%2使用%11来爬向炸药。%1%2从动作菜单中选择%3拆除%4&lt;imgsize='1'%5  image='A3\UI_F\data\IGUI\Cfg\Actions\ico_OFF_ca.paa'/&gt;。%1警告:如果你没有以匍匐姿态谨慎地接近炸药，它将会引爆。</Chinesesimp>
       </Key>
       <Key ID="str_a3_disarm1">
         <Original>Deactivating</Original>
@@ -700,7 +700,7 @@
         <Chinesesimp>解除水雷时，不需要以卧姿来进行拆除动作。</Chinesesimp>
       </Key>
       <Key ID="str_a3_doors0">
-        <Original>Most doors can be opened.%1%2Point the cursor at a door until the icon appears.%1%2Press %11. %1%2You can also %3open/close doors%4 through the action menu.</Original>
+        <Original>Most doors can be opened.%1%2Point the cursor at a door until the icon appears.  %1%2Press %11. %1%2You can also %3open/close doors%4 through the action menu.</Original>
         <Chinese>大多數的門都能被打開。%1%2把游標對著門直到圖標出現。%1%2點擊%11。%1%2你也可以通過動作選單來%3開/關門%4。</Chinese>
         <Chinesesimp>大多数的门都能被打开。%1%2把游标对着门直到图标出现。%1%2点击%11。%1%2你也可以通过动作菜单来%3开/关门%4。</Chinesesimp>
       </Key>
@@ -710,9 +710,9 @@
         <Chinesesimp>门</Chinesesimp>
       </Key>
       <Key ID="str_a3_dots0">
-        <Original>Peripheral vision indicators &lt;img size='1' %5image='A3\UI_F\data\IGUI\Cfg\PeripheralVision\cueTexture_gs.paa' /&gt; represent units outside of your current view. These transparent dots change with the direction and distance of the units. </Original>
-        <Chinese>周邊視角指示器&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\PeripheralVision\cueTexture_gs.paa'/&gt;，能顯示在你目前視野之外的單位。這些半透明的點會根據單位的方向和距離而發生變化。</Chinese>
-        <Chinesesimp>周边视角指示器&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\PeripheralVision\cueTexture_gs.paa'/&gt;，能显示在你目前视野之外的单位。这些半透明的点会根据单位的方向和距离而发生变化。</Chinesesimp>
+        <Original>Peripheral vision indicators &lt;img size='1' %5  image='A3\UI_F\data\IGUI\Cfg\PeripheralVision\cueTexture_gs.paa' /&gt; represent units outside of your current view. These transparent dots change with the direction and distance of the units. </Original>
+        <Chinese>周邊視角指示器&lt;imgsize='1'%5  image='A3\UI_F\data\IGUI\Cfg\PeripheralVision\cueTexture_gs.paa'/&gt;，能顯示在你目前視野之外的單位。這些半透明的點會根據單位的方向和距離而發生變化。</Chinese>
+        <Chinesesimp>周边视角指示器&lt;imgsize='1'%5  image='A3\UI_F\data\IGUI\Cfg\PeripheralVision\cueTexture_gs.paa'/&gt;，能显示在你目前视野之外的单位。这些半透明的点会根据单位的方向和距离而发生变化。</Chinesesimp>
       </Key>
       <Key ID="str_a3_dots1">
         <Original>Peripheral Vision</Original>
@@ -755,9 +755,9 @@
         <Chinesesimp>第三人称视角和自由观看视角在驾驶时可能会特别有用。%1%2按%17来切换到第三人称视角。%1%2或者按%18来使用自由观看视角。</Chinesesimp>
       </Key>
       <Key ID="str_a3_entering0">
-        <Original>To enter a vehicle:%1%2Point the cursor at it until the icon &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa' /&gt; appears.%1%2Use default action %11.%1Alternatively:%1%2Open the action menu %12.%1%2Select %3Enter%4.%1You will be given a seat associated with a role in the vehicle. For example enter as a driver to drive, enter as a gunner to shoot. Certain roles might not be available for some vehicles.</Original>
-        <Chinese>要進入載具:%1%2將鼠標指向它直到圖標&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;出現。%1%2使用%11來開啟默認動作。%1除此之外，你也可以使用以下步驟:%1%2使用%12來打開動作選單。%1%2選擇%3進入%4。%1你會被分配到一個與載具有關的角色座位。比如以駕駛的身份進入載具去進行駕駛，或者以砲手的身份進入載具去射擊。在一些特定的載具上，是沒有某些角色的。</Chinese>
-        <Chinesesimp>要进入载具:%1%2将鼠标指向它直到图标&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;出现。%1%2使用%11来开启默认动作。%1除此之外，你也可以使用以下步骤:%1%2使用%12来打开动作菜单。%1%2选择%3进入%4。%1你会被分配到一个与载具有关的角色座位。比如以驾驶的身份进入载具去进行驾驶，或者以炮手的身份进入载具去射击。在一些特定的载具上，是没有某些角色的。</Chinesesimp>
+        <Original>To enter a vehicle:%1%2Point the cursor at it until the icon &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa' /&gt; appears.%1%2Use default action %11.%1Alternatively:%1%2Open the action menu %12.%1%2Select %3Enter%4.%1You will be given a seat associated with a role in the vehicle. For example enter as a driver to drive, enter as a gunner to shoot. Certain roles might not be available for some vehicles.</Original>
+        <Chinese>要進入載具:%1%2將鼠標指向它直到圖標&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;出現。%1%2使用%11來開啟默認動作。%1除此之外，你也可以使用以下步驟:%1%2使用%12來打開動作選單。%1%2選擇%3進入%4。%1你會被分配到一個與載具有關的角色座位。比如以駕駛的身份進入載具去進行駕駛，或者以砲手的身份進入載具去射擊。在一些特定的載具上，是沒有某些角色的。</Chinese>
+        <Chinesesimp>要进入载具:%1%2将鼠标指向它直到图标&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;出现。%1%2使用%11来开启默认动作。%1除此之外，你也可以使用以下步骤:%1%2使用%12来打开动作菜单。%1%2选择%3进入%4。%1你会被分配到一个与载具有关的角色座位。比如以驾驶的身份进入载具去进行驾驶，或者以炮手的身份进入载具去射击。在一些特定的载具上，是没有某些角色的。</Chinesesimp>
       </Key>
       <Key ID="str_a3_entering1">
         <Original>Entering a Vehicle</Original>
@@ -765,9 +765,9 @@
         <Chinesesimp>进入载具</Chinesesimp>
       </Key>
       <Key ID="str_a3_entering2">
-        <Original>Different roles in a vehicle have a different action icon indicating the default action &lt;img size='1'%5 image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa' /&gt; &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\getincargo_ca.paa' /&gt; &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\getincommander_ca.paa' /&gt; &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\getingunner_ca.paa' /&gt;. Use them to quickly determine the role you are taking by entering the vehicle.</Original>
-        <Chinese>不同的載具角色，各自擁有不同的圖案以利預設動作選單的進入&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getincargo_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getincommander_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getingunner_ca.paa'/&gt;。使用它們來快速辨別你將要進入的載具角色。</Chinese>
-        <Chinesesimp>不同的载具角色，各自拥有不同的图案以便预设动作菜单的进入&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getincargo_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getincommander_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getingunner_ca.paa'/&gt;。使用它们来快速辨别你将要进入的载具角色。</Chinesesimp>
+        <Original>Different roles in a vehicle have a different action icon indicating the default action &lt;img size='1'  %5 image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa' /&gt; &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getincargo_ca.paa' /&gt; &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getincommander_ca.paa' /&gt; &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getingunner_ca.paa' /&gt;. Use them to quickly determine the role you are taking by entering the vehicle.</Original>
+        <Chinese>不同的載具角色，各自擁有不同的圖案以利預設動作選單的進入&lt;imgsize='1'  %5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getincargo_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getincommander_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getingunner_ca.paa'/&gt;。使用它們來快速辨別你將要進入的載具角色。</Chinese>
+        <Chinesesimp>不同的载具角色，各自拥有不同的图案以便预设动作菜单的进入&lt;imgsize='1'  %5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getincargo_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getincommander_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getingunner_ca.paa'/&gt;。使用它们来快速辨别你将要进入的载具角色。</Chinesesimp>
       </Key>
       <Key ID="str_a3_exit0">
         <Original>There are two ways to exit a vehicle (accessible also from the action menu).%1%2%11 or %3Get out%4 &lt;img size='1' %5 image='A3\Ui_f\data\IGUI\Cfg\Actions\getout_ca.paa' /&gt; stands for a proper exit, when the vehicle is at a full stop and it's safe to get out. %1%2%12 or %3Eject%4 &lt;img size='1' %5 image='A3\Ui_f\data\IGUI\Cfg\Actions\eject_ca.paa' /&gt; is an immediate, emergency exit from a moving or flying vehicle and can lead to injury or death.</Original>
@@ -900,9 +900,9 @@
         <Chinesesimp>战术灯</Chinesesimp>
       </Key>
       <Key ID="str_a3_gear0">
-        <Original>%2Access your Inventory &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa' /&gt; by pressing %11. %1%2Use %3drag and drop%4 to move items between slots and containers. %1%2Close the Inventory window by pressing %11 again. </Original>
-        <Chinese>%2按%11來開啟你的裝備欄&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;%1%2使用%3拖曳%4使物品在容器和裝備欄裡移動。%1%2再次點擊%11來關閉裝備欄。</Chinese>
-        <Chinesesimp>%2按%11来开启你的装备栏&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;%1%2使用%3拖拽%4使物品在容器和装备栏里移动。%1%2再次点击%11来关闭装备栏。</Chinesesimp>
+        <Original>%2Access your Inventory &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa' /&gt; by pressing %11. %1%2Use %3drag and drop%4 to move items between slots and containers. %1%2Close the Inventory window by pressing %11 again. </Original>
+        <Chinese>%2按%11來開啟你的裝備欄&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;%1%2使用%3拖曳%4使物品在容器和裝備欄裡移動。%1%2再次點擊%11來關閉裝備欄。</Chinese>
+        <Chinesesimp>%2按%11来开启你的装备栏&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;%1%2使用%3拖拽%4使物品在容器和装备栏里移动。%1%2再次点击%11来关闭装备栏。</Chinesesimp>
       </Key>
       <Key ID="str_a3_gear1">
         <Original>Inventory</Original>
@@ -1000,9 +1000,9 @@
         <Chinesesimp>被击中和坠落所造成的伤害，会因为身上的护甲而被部分抵消。这种情况对载具中的人员尤其有效，当在载具中时，人员会因为受到载具装甲的保护而免受伤害。</Chinesesimp>
       </Key>
       <Key ID="str_a3_actionmenu0">
-        <Original>The action menu is a context sensitive list of available actions. It changes depending on the object pointed at with the cursor. %3Icons%4 &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa' /&gt; &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa' /&gt; &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\reload_ca.paa' /&gt; near the weapon cursor indicate a new default action. %1%2Execute the given action directly with %14.%1Other actions are listed in the action menu. %1%2Open the menu with %11 or %12.%1%2Select an action.%1%2Execute the selected action with %13.</Original>
-        <Chinese>動作選單是一個實用的功能列表。它會隨著游標所指向的目標而有不同的變化。%3圖示%4&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\reload_ca.paa'/&gt;在十字準心中間，會顯示預設的動作。%1%2要直接執行預設的動作，請按下%14。%1而當你要使用其他的動作時。%1%2使用%11或%12來打開動作選單。%1%2選擇一個動作。%1%2使用%13來執行選定的動作。</Chinese>
-        <Chinesesimp>动作菜单是一个实用的功能列表。它会随着游标所指向的目标而有不同的变化。%3图示%4&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\reload_ca.paa'/&gt;在十字准星中间，会显示预设的动作。%1%2要直接执行预设的动作，请按下%14。%1而当你要使用其他的动作时。%1%2使用%11或%12来打开动作菜单。%1%2选择一个动作。%1%2使用%13来执行选定的动作。</Chinesesimp>
+        <Original>The action menu is a context sensitive list of available actions. It changes depending on the object pointed at with the cursor. %3Icons%4 &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa' /&gt; &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa' /&gt; &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Actions\reload_ca.paa' /&gt; near the weapon cursor indicate a new default action. %1%2Execute the given action directly with %14.%1Other actions are listed in the action menu. %1%2Open the menu with %11 or %12.%1%2Select an action.%1%2Execute the selected action with %13.</Original>
+        <Chinese>動作選單是一個實用的功能列表。它會隨著游標所指向的目標而有不同的變化。%3圖示%4&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\reload_ca.paa'/&gt;在十字準心中間，會顯示預設的動作。%1%2要直接執行預設的動作，請按下%14。%1而當你要使用其他的動作時。%1%2使用%11或%12來打開動作選單。%1%2選擇一個動作。%1%2使用%13來執行選定的動作。</Chinese>
+        <Chinesesimp>动作菜单是一个实用的功能列表。它会随着游标所指向的目标而有不同的变化。%3图示%4&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\getindriver_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa'/&gt;&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\reload_ca.paa'/&gt;在十字准星中间，会显示预设的动作。%1%2要直接执行预设的动作，请按下%14。%1而当你要使用其他的动作时。%1%2使用%11或%12来打开动作菜单。%1%2选择一个动作。%1%2使用%13来执行选定的动作。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Alpha_Feedback1">
         <Original>Reports and Feedback</Original>
@@ -1045,9 +1045,9 @@
         <Chinesesimp>步兵控制</Chinesesimp>
       </Key>
       <Key ID="str_a3_injury0">
-        <Original>A few hits usually result in death, but for now you are just injured &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa' /&gt;. Your condition affects your view, aim and speed, but it is treatable. Now, call for a medic: %1%2Press %11 to open fast commands.%1%2Report %3Injured%4.%1Alternative call procedure:%1%2Press %3[5]%4 for status reports.%1%2Press %3[4]%4 for %3Injured%4.</Original>
-        <Chinese>通常被幾發子彈命中後就會喪命，但現在你只會受傷&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa'/&gt;。你的狀態會影響你的視野，精準度和速度，但這一切都可以醫治。現在，請你呼叫醫護兵:%1%2按下%11來打開快捷命令選單。%1%2回報%3受傷%4。%1除此之外，你還可以使用以下步驟:%1%2按下%3[5]%4來回報狀況。%1%2按下%3[4]%4來回報%3受傷%4。</Chinese>
-        <Chinesesimp>通常被几发子弹命中后就会丧命，但现在你只会受伤&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa'/&gt;。你的状态会影响你的视野，精准度和速度，但这一切都可以医治。现在，请你呼叫卫生兵:%1%2按下%11来打开快捷命令菜单。%1%2回报%3受伤%4。%1除此之外，你还可以使用以下步骤:%1%2按下%3[5]%4来回报状况。%1%2按下%3[4]%4来回报%3受伤%4。</Chinesesimp>
+        <Original>A few hits usually result in death, but for now you are just injured &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa' /&gt;. Your condition affects your view, aim and speed, but it is treatable. Now, call for a medic: %1%2Press %11 to open fast commands.%1%2Report %3Injured%4.%1Alternative call procedure:%1%2Press %3[5]%4 for status reports.%1%2Press %3[4]%4 for %3Injured%4.</Original>
+        <Chinese>通常被幾發子彈命中後就會喪命，但現在你只會受傷&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa'/&gt;。你的狀態會影響你的視野，精準度和速度，但這一切都可以醫治。現在，請你呼叫醫護兵:%1%2按下%11來打開快捷命令選單。%1%2回報%3受傷%4。%1除此之外，你還可以使用以下步驟:%1%2按下%3[5]%4來回報狀況。%1%2按下%3[4]%4來回報%3受傷%4。</Chinese>
+        <Chinesesimp>通常被几发子弹命中后就会丧命，但现在你只会受伤&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Cursors\unitInjured_ca.paa'/&gt;。你的状态会影响你的视野，精准度和速度，但这一切都可以医治。现在，请你呼叫卫生兵:%1%2按下%11来打开快捷命令菜单。%1%2回报%3受伤%4。%1除此之外，你还可以使用以下步骤:%1%2按下%3[5]%4来回报状况。%1%2按下%3[4]%4来回报%3受伤%4。</Chinesesimp>
       </Key>
       <Key ID="str_a3_injury1">
         <Original>Injury</Original>
@@ -1060,9 +1060,9 @@
         <Chinesesimp>荧光棒</Chinesesimp>
       </Key>
       <Key ID="str_a3_launcher0">
-        <Original>Launchers give infantry a way to neutralize armored vehicles. %1%2Equip the launcher by pressing %11.%1%2You can press %12 to see through the launcher's optics.%1%2Point at the target.%1%2Shoot with %13.&lt;br /&gt;For launchers armed with guided missiles, press %14 to lock the target and wait for the missile to lock &lt;img size='1' %5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa' /&gt; before shooting.</Original>
-        <Chinese>步兵能使用發射器摧毀裝甲載具。%1%2按下%11來裝備發射器。%1%2你可以使用%12來使用發射器瞄具。%1%2瞄準目標。%1%2按下%13來發射火箭彈。&lt;br/&gt;而對於可以發射導引飛彈的發射器，發射之前請按下%14，並等待幾秒來鎖定目標。&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa'/&gt;</Chinese>
-        <Chinesesimp>发射器让步兵也能摧毁装甲车辆。%1%2按%11来装备发射器。%1%2你可以使用%12来使用发射器瞄具。%1%2瞄准目标。%1%2按%13来发射火箭弹。&lt;br/&gt;而对于可以发射制导导弹的发射器，发射之前请按下%14，并等待几秒来锁定目标。&lt;imgsize='1'%5image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa'/&gt;</Chinesesimp>
+        <Original>Launchers give infantry a way to neutralize armored vehicles. %1%2Equip the launcher by pressing %11.%1%2You can press %12 to see through the launcher's optics.%1%2Point at the target.%1%2Shoot with %13.&lt;br /&gt;For launchers armed with guided missiles, press %14 to lock the target and wait for the missile to lock &lt;img size='1' %5  image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa' /&gt; before shooting.</Original>
+        <Chinese>步兵能使用發射器摧毀裝甲載具。%1%2按下%11來裝備發射器。%1%2你可以使用%12來使用發射器瞄具。%1%2瞄準目標。%1%2按下%13來發射火箭彈。&lt;br/&gt;而對於可以發射導引飛彈的發射器，發射之前請按下%14，並等待幾秒來鎖定目標。&lt;imgsize='1'%5  image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa'/&gt;</Chinese>
+        <Chinesesimp>发射器让步兵也能摧毁装甲车辆。%1%2按%11来装备发射器。%1%2你可以使用%12来使用发射器瞄具。%1%2瞄准目标。%1%2按%13来发射火箭弹。&lt;br/&gt;而对于可以发射制导导弹的发射器，发射之前请按下%14，并等待几秒来锁定目标。&lt;imgsize='1'%5  image='A3\Ui_f\data\GUI\Cfg\Hints\Cursor_lock_target_ca.paa'/&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_launcher1">
         <Original>Launchers</Original>
@@ -1096,8 +1096,8 @@
       </Key>
       <Key ID="str_a3_lowering2">
         <Original>A lowered weapon makes movement slower and less tiring.</Original>
-        <Chinese>放下武器會使得行動速度變慢，但比較不疲勞。</Chinese>
-        <Chinesesimp>放低武器会提升移动速度，同时降低疲劳。</Chinesesimp>
+        <Chinese>放下武器時可以提高移動速度同時降低疲勞。</Chinese>
+        <Chinesesimp>放下武器时可以提高移动速度同时降低疲劳。</Chinesesimp>
       </Key>
       <Key ID="str_a3_map0">
         <Original>The map is a powerful tool for navigation and commanding.%1%2Open it by pressing %11.%1%2Zoom in or out on the map with %3[mouse-wheel up and down]%4.%1%2Try hiding or showing map %3textures%4 or centering on your position. Buttons are located on the top toolbar.%1%2Close the map by pressing %12 or %3[Esc]%4.</Original>
@@ -1285,9 +1285,9 @@
         <Chinesesimp>文字聊天是三种沟通方式的其中一种。它会显示在画面的左下角。%1%2用%11来打开文本输入。%1%2按%3[上]%4，%3[下]%4来切换频道。%1%2按%3[Enter]%4来发送信息。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rearm0">
-        <Original>You can easily replenish your magazines without opening the inventory.%1%2Approach an ammo box or a vehicle, point your cursor at it and open the action menu with %11.%1%2Select %3Rearm &lt;img size='1' %5image='a3\UI_F\data\IGUI\Cfg\Actions\reammo_ca.paa' /&gt;%4. This will replenish your magazines up to your default loadout count.</Original>
-        <Chinese>你可以不用打開裝備欄而輕鬆獲得彈匣。%1%2走近一個彈藥箱或一部載具，把游標對準它，並按%11打開動作選單。%1%2選擇%3重新武裝&lt;imgsize='1'%5image='a3\UI_F\data\IGUI\Cfg\Actions\reammo_ca.paa'/&gt;%4。這樣做會把你的彈匣全部補滿。</Chinese>
-        <Chinesesimp>你可以不用打开装备栏而轻松获得弹匣。%1%2走近一个弹药箱或一部载具，把游标对准它，并按%11打开动作菜单。%1%2选择%3重新武装&lt;imgsize='1'%5image='a3\UI_F\data\IGUI\Cfg\Actions\reammo_ca.paa'/&gt;%4。这样做会把你的弹匣全部补满。</Chinesesimp>
+        <Original>You can easily replenish your magazines without opening the inventory.%1%2Approach an ammo box or a vehicle, point your cursor at it and open the action menu with %11.%1%2Select %3Rearm &lt;img size='1' %5  image='a3\UI_F\data\IGUI\Cfg\Actions\reammo_ca.paa' /&gt;%4. This will replenish your magazines up to your default loadout count.</Original>
+        <Chinese>你可以不用打開裝備欄而輕鬆獲得彈匣。%1%2走近一個彈藥箱或一部載具，把游標對準它，並按%11打開動作選單。%1%2選擇%3重新武裝&lt;imgsize='1'%5  image='a3\UI_F\data\IGUI\Cfg\Actions\reammo_ca.paa'/&gt;%4。這樣做會把你的彈匣全部補滿。</Chinese>
+        <Chinesesimp>你可以不用打开装备栏而轻松获得弹匣。%1%2走近一个弹药箱或一部载具，把游标对准它，并按%11打开动作菜单。%1%2选择%3重新武装&lt;imgsize='1'%5  image='a3\UI_F\data\IGUI\Cfg\Actions\reammo_ca.paa'/&gt;%4。这样做会把你的弹匣全部补满。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rearm1">
         <Original>Rearm</Original>
@@ -1310,9 +1310,9 @@
         <Chinesesimp>后座力</Chinesesimp>
       </Key>
       <Key ID="str_a3_reload0">
-        <Original>An empty magazine is indicated by the magazine icon in the center of the screen.%1%2Press %11 to reload anytime.%1Alternatively, use the default action %12 to reload your weapon when the icon &lt;img size='1' %5image='A3\UI_F\data\IGUI\Cfg\Actions\reload_ca.paa' /&gt; is present.</Original>
-        <Chinese>當你打空彈匣，螢幕中間會有一個彈匣圖標顯示來提醒你該重新裝填彈藥了。%1%2按%11可隨時重新裝填彈藥。%1當出現這個圖標&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\reload_ca.paa'/&gt;的時候，也可以使用默認動作%12來重新裝填彈藥。</Chinese>
-        <Chinesesimp>当你打空弹匣，中间会有一个弹匣图标显示来提醒你该重新装填弹药了。%1%2按%11可随时重新装填弹药。%1当出现这个图标&lt;imgsize='1'%5image='A3\UI_F\data\IGUI\Cfg\Actions\reload_ca.paa'/&gt;的时候，也可以使用默认动作%12来重新装填弹药。</Chinesesimp>
+        <Original>An empty magazine is indicated by the magazine icon in the center of the screen.%1%2Press %11 to reload anytime.%1Alternatively, use the default action %12 to reload your weapon when the icon &lt;img size='1' %5  image='A3\UI_F\data\IGUI\Cfg\Actions\reload_ca.paa' /&gt; is present.</Original>
+        <Chinese>當你打空彈匣，螢幕中間會有一個彈匣圖標顯示來提醒你該重新裝填彈藥了。%1%2按%11可隨時重新裝填彈藥。%1當出現這個圖標&lt;imgsize='1'%5  image='A3\UI_F\data\IGUI\Cfg\Actions\reload_ca.paa'/&gt;的時候，也可以使用默認動作%12來重新裝填彈藥。</Chinese>
+        <Chinesesimp>当你打空弹匣，中间会有一个弹匣图标显示来提醒你该重新装填弹药了。%1%2按%11可随时重新装填弹药。%1当出现这个图标&lt;imgsize='1'%5  image='A3\UI_F\data\IGUI\Cfg\Actions\reload_ca.paa'/&gt;的时候，也可以使用默认动作%12来重新装填弹药。</Chinesesimp>
       </Key>
       <Key ID="str_a3_reload1">
         <Original>Reload</Original>
@@ -1470,9 +1470,9 @@
         <Chinesesimp>烟雾弹被用于隐蔽单位或发送信号用。%1%2按%12可以循环切换手榴弹与其他可掷出的装备。%1%2按%11来扔出一枚手榴弹。%1扔的角度对距离会有很大的影响。</Chinesesimp>
       </Key>
       <Key ID="str_a3_take0">
-        <Original>To pick up a single item from the ground:%1%2Move close to the item.%1%2Point the cursor at the item until the &lt;img size='1' %5image='A3\Ui_f\data\IGUI\Cfg\Actions\take_ca.paa' /&gt; icon appears.%1%2Press %13 to take the item.%1Or you can choose to %3Take%4 the item through the action menu %11.</Original>
-        <Chinese>要從地上撿起一件物品:%1%2移動並接近物品。%1%2將游標指向物品直到&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\take_ca.paa'/&gt;圖示出現。%1%2按%13來撿起物品。%1或者你也可以使用%11來開啟動作選單，並選擇%3拿取%4來撿起物品。</Chinese>
-        <Chinesesimp>要从地上捡起一件物品:%1%2移动并接近物品。%1%2将游标指向物品直到&lt;imgsize='1'%5image='A3\Ui_f\data\IGUI\Cfg\Actions\take_ca.paa'/&gt;图示出现。%1%2按%13来捡起物品。%1或者你也可以使用%11来开启动作菜单，并选择%3拿取%4来捡起物品。</Chinesesimp>
+        <Original>To pick up a single item from the ground:%1%2Move close to the item.%1%2Point the cursor at the item until the &lt;img size='1' %5  image='A3\Ui_f\data\IGUI\Cfg\Actions\take_ca.paa' /&gt; icon appears.%1%2Press %13 to take the item.%1Or you can choose to %3Take%4 the item through the action menu %11.</Original>
+        <Chinese>要從地上撿起一件物品:%1%2移動並接近物品。%1%2將游標指向物品直到&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\take_ca.paa'/&gt;圖示出現。%1%2按%13來撿起物品。%1或者你也可以使用%11來開啟動作選單，並選擇%3拿取%4來撿起物品。</Chinese>
+        <Chinesesimp>要从地上捡起一件物品:%1%2移动并接近物品。%1%2将游标指向物品直到&lt;imgsize='1'%5  image='A3\Ui_f\data\IGUI\Cfg\Actions\take_ca.paa'/&gt;图示出现。%1%2按%13来捡起物品。%1或者你也可以使用%11来开启动作菜单，并选择%3拿取%4来捡起物品。</Chinesesimp>
       </Key>
       <Key ID="str_a3_take1">
         <Original>Take</Original>
@@ -1700,9 +1700,9 @@
         <Chinesesimp>路径点</Chinesesimp>
       </Key>
       <Key ID="str_a3_waypoint2">
-        <Original>Task related waypoints &lt;img size='1' %5image='A3\UI_F\data\Map\MapControl\taskIcon_ca.paa' /&gt; are shown on the map. The displaying of waypoints depends on chosen difficulty settings.</Original>
-        <Chinese>與任務有關的路徑點&lt;imgsize='1'%5image='A3\UI_F\data\Map\MapControl\taskIcon_ca.paa'/&gt;會顯示在地圖上。路徑點會不會顯示，與難易度的設定有關。</Chinese>
-        <Chinesesimp>与任务有关的路径点&lt;imgsize='1'%5image='A3\UI_F\data\Map\MapControl\taskIcon_ca.paa'/&gt;会显示在地图上。路径点会不会显示，与难易度的设定有关。</Chinesesimp>
+        <Original>Task related waypoints &lt;img size='1' %5  image='A3\UI_F\data\Map\MapControl\taskIcon_ca.paa' /&gt; are shown on the map. The displaying of waypoints depends on chosen difficulty settings.</Original>
+        <Chinese>與任務有關的路徑點&lt;imgsize='1'%5  image='A3\UI_F\data\Map\MapControl\taskIcon_ca.paa'/&gt;會顯示在地圖上。路徑點會不會顯示，與難易度的設定有關。</Chinese>
+        <Chinesesimp>与任务有关的路径点&lt;imgsize='1'%5  image='A3\UI_F\data\Map\MapControl\taskIcon_ca.paa'/&gt;会显示在地图上。路径点会不会显示，与难易度的设定有关。</Chinesesimp>
       </Key>
       <Key ID="str_a3_weaponhandling">
         <Original>Weapons (Advanced)</Original>
@@ -2365,6 +2365,16 @@
         <Original>Effects</Original>
         <Chinese>效果</Chinese>
         <Chinesesimp>效果</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_mdl_category_ambient">
+        <Original>Ambient</Original>
+        <Chinese>環境</Chinese>
+        <Chinesesimp>环境</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_mdl_category_keyframeanimation">
+        <Original>Keyframe Animation</Original>
+        <Chinese>動畫關鍵影格</Chinese>
+        <Chinesesimp>动画关键影格</Chinesesimp>
       </Key>
       <Container name="Supports">
         <Key ID="str_a3_mdl_supp_task_lz">
@@ -3111,6 +3121,373 @@
           <Chinesesimp>目的地:</Chinesesimp>
         </Key>
       </Container>
+      <Container name="KeyframeAnimation">
+        <Key ID="str_a3_keyframeanimation_visionmode1">
+          <Original>The vision mode of this camera</Original>
+          <Chinese>攝影機使用的視覺模式</Chinese>
+          <Chinesesimp>摄影机使用的视觉模式</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_visionmode0">
+          <Original>Vision Mode</Original>
+          <Chinese>視覺模式</Chinese>
+          <Chinesesimp>视觉模式</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_KeyframeAnimation_Timeline">
+          <Original>Timeline</Original>
+          <Chinese>時間軸</Chinese>
+          <Chinesesimp>时间轴</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_timeinseconds1">
+          <Original>Whether the time set in this key is in seconds, if false time is alpha (between 0 - 1)</Original>
+          <Chinese>多少秒內執行完動畫，如果值為false則為透明(值介於0到1)</Chinese>
+          <Chinesesimp>多少秒内执行完动画，如果值为false则为透明(值介于0到1)</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_timeinseconds0">
+          <Original>Time In Seconds</Original>
+          <Chinese>以秒為單位</Chinese>
+          <Chinesesimp>以秒为单位</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_tangenttype1">
+          <Original>This control point type</Original>
+          <Chinese>這個控制點類型</Chinese>
+          <Chinesesimp>这个控制点类型</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_tangenttype0">
+          <Original>Tangent Type</Original>
+          <Chinese>正切類型</Chinese>
+          <Chinesesimp>正切类型</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_switchtoatstart1">
+          <Original>Whether to switch to this camera when mission starts</Original>
+          <Chinese>任務開始時就切換到此鏡頭</Chinese>
+          <Chinesesimp>任务开始时就切换到此镜头</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_switchtoatstart0">
+          <Original>Switch To At Start</Original>
+          <Chinese>開始時切換至此鏡頭</Chinese>
+          <Chinesesimp>开始时切换至此镜头</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_showcinemaborders1">
+          <Original>Whether tor not to show cinema borders when this camera is the view point of a player</Original>
+          <Chinese>當玩家使用這個鏡頭時是否顯示電影式邊框</Chinese>
+          <Chinesesimp>当玩家使用这个镜头时是否显示电影式边框</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_showcinemaborders0">
+          <Original>Show Cinema Borders</Original>
+          <Chinese>顯示電影邊框</Chinese>
+          <Chinesesimp>显示电影边框</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_reverse1">
+          <Original>Whether this timeline should be played in reverse</Original>
+          <Chinese>是否反著播此時間軸</Chinese>
+          <Chinesesimp>是否反着播此时间轴</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_reverse0">
+          <Original>Reverse</Original>
+          <Chinese>倒轉</Chinese>
+          <Chinesesimp>倒转</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_playrate1">
+          <Original>The play rate of this timeline</Original>
+          <Chinese>播放此時間軸的速率</Chinese>
+          <Chinesesimp>播放此时间轴的速率</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_playrate0">
+          <Original>Play Rate</Original>
+          <Chinese>播放速率</Chinese>
+          <Chinesesimp>播放速率</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_playfromstart1">
+          <Original>Whether this timeline should start playing once scenario begins</Original>
+          <Chinese>想定開始時就執行此時間軸</Chinese>
+          <Chinesesimp>想定开始时就执行此时间轴</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_playfromstart0">
+          <Original>Play From Start</Original>
+          <Chinese>任務開始時啟動</Chinese>
+          <Chinesesimp>任务开始时启动</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_paused1">
+          <Original>Whether this timeline is paused</Original>
+          <Chinese>時間軸是否為暫停</Chinese>
+          <Chinesesimp>时间轴是否为暂停</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_paused0">
+          <Original>Paused</Original>
+          <Chinese>暫停</Chinese>
+          <Chinesesimp>暂停</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_orientationmode_none">
+          <Original>None</Original>
+          <Chinese>無</Chinese>
+          <Chinesesimp>无</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_orientationmode_movement">
+          <Original>Movement</Original>
+          <Chinese>移動</Chinese>
+          <Chinesesimp>移动</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_orientationmode_lookat">
+          <Original>Look At</Original>
+          <Chinese>看向</Chinese>
+          <Chinesesimp>看向</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_orientationmode_animation">
+          <Original>Animation</Original>
+          <Chinese>動畫</Chinese>
+          <Chinesesimp>动画</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_orientationmode1">
+          <Original>The orientation mode of the animated object</Original>
+          <Chinese>此動畫物件的旋轉模式</Chinese>
+          <Chinesesimp>此动画物件的旋转模式</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_orientationmode0">
+          <Original>Orientation Mode</Original>
+          <Chinese>旋轉模式</Chinese>
+          <Chinesesimp>旋转模式</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_loop1">
+          <Original>Whether this timeline should loop</Original>
+          <Chinese>是否重複播放此時間軸</Chinese>
+          <Chinesesimp>是否重复播放此时间轴</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_loop0">
+          <Original>Loop</Original>
+          <Chinese>循環</Chinese>
+          <Chinesesimp>循环</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_lookat1">
+          <Original>The look at target &lt;EdenId, ObjectName&gt;</Original>
+          <Chinese>看向的目標&lt;EdenId, ObjectName&gt;</Chinese>
+          <Chinesesimp>看向的目标&lt;EdenId, ObjectName&gt;</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_lookat0">
+          <Original>Look At</Original>
+          <Chinese>看向</Chinese>
+          <Chinesesimp>看向</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_lockcontrolpoints1">
+          <Original>Whether to lock the control points, moving one will also move the other with inversed relative location</Original>
+          <Chinese>是否要鎖定控制點，這樣只要移動一個點也會移動另一個點</Chinese>
+          <Chinesesimp>是否要锁定控制点，这样只要移动一个点也会移动另一个点</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_lockcontrolpoints0">
+          <Original>Lock Control Points</Original>
+          <Chinese>鎖定控制點s</Chinese>
+          <Chinesesimp>锁定控制点</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_length1">
+          <Original>The length of this timeline in seconds</Original>
+          <Chinese>此時間軸的長度(秒)</Chinese>
+          <Chinesesimp>此时间轴的长度(秒)</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_length0">
+          <Original>Length</Original>
+          <Chinese>長度</Chinese>
+          <Chinesesimp>长度</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_leavetangentweight1">
+          <Original>This key leave tangent weight</Original>
+          <Chinese>此幀保留正切權重</Chinese>
+          <Chinesesimp>此帧保留正切权重</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_leavetangentweight0">
+          <Original>Leave Tangent Weight</Original>
+          <Chinese>保留正切權重</Chinese>
+          <Chinesesimp>保留正切权重</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_leavetangent1">
+          <Original>This key leave tangent</Original>
+          <Chinese>此幀保留正切</Chinese>
+          <Chinesesimp>此帧保留正切</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_leavetangent0">
+          <Original>Leave Tangent</Original>
+          <Chinese>保留正切</Chinese>
+          <Chinesesimp>保留正切</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_keytime1">
+          <Original>The time at which to place this key on it's owner curve</Original>
+          <Chinese>此幀要放在時間曲線的哪裡</Chinese>
+          <Chinesesimp>此帧要放在时间曲线的哪里</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_keytime0">
+          <Original>Time</Original>
+          <Chinese>時間</Chinese>
+          <Chinesesimp>时间</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_keyinterpmode1">
+          <Original>The Interpolation Mode defines how this point will be interpolated with the next and previous keys</Original>
+          <Chinese>差值模式將決定上一個點到下一個點時的差值算法</Chinese>
+          <Chinesesimp>差值模式将决定上一个点到下一个点时的差值算法</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_keyinterpmode0">
+          <Original>Interpolation Mode</Original>
+          <Chinese>差值模式</Chinese>
+          <Chinesesimp>差值模式</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_interpmode1">
+          <Original>The Interpolation Mode defines how the alpha from this timeline is computed and applied on simulated objects, note that will affect the whole animation</Original>
+          <Chinese>差值模式決定了在此時間軸上要如何計算與模擬出物件的透明度，此設定將影響整個動畫</Chinese>
+          <Chinesesimp>差值模式决定了在此时间轴上要如何计算与模拟出物件的透明度，此设定将影响整个动画</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_KeyframeAnimation_Key">
+          <Original>Rich Curve Key</Original>
+          <Chinese>豐富曲線影格</Chinese>
+          <Chinesesimp>丰富曲线影格</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_interpmode0">
+          <Original>Interpolation Mode</Original>
+          <Chinese>差值模式</Chinese>
+          <Chinesesimp>差值模式</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_fov1">
+          <Original>The default field of view of this camera</Original>
+          <Chinese>攝影機使用的預設視角</Chinese>
+          <Chinesesimp>摄影机使用的预设视角</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_fov0">
+          <Original>Field Of View</Original>
+          <Chinese>視角</Chinese>
+          <Chinesesimp>视角</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_focus1">
+          <Original>Focus Range is in format [distance, blur] and it sets the camera focus blur</Original>
+          <Chinese>聚焦的距離格式為 [距離, 模糊度] ，這樣就可以改變攝影機的聚焦距離</Chinese>
+          <Chinesesimp>聚焦的距离格式为 [距离, 模糊度] ，这样就可以改变摄影机的聚焦距离</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_focus0">
+          <Original>Focus</Original>
+          <Chinese>聚焦</Chinese>
+          <Chinesesimp>聚焦</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_eventstarted1">
+          <Original>The timeline started playing, here you can script the desired behavior</Original>
+          <Chinese>你可以使用腳本來決定動畫開始執行的時間</Chinese>
+          <Chinesesimp>你可以使用脚本来决定动画开始执行的时间</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_eventstarted0">
+          <Original>Event Started</Original>
+          <Chinese>事件開始</Chinese>
+          <Chinesesimp>事件开始</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_eventlooped1">
+          <Original>The timeline loop happens, here you can script the desired behavior</Original>
+          <Chinese>你可以使用腳本來決定是否要循環播放動畫</Chinese>
+          <Chinesesimp>你可以使用脚本来决定是否要循环播放动画</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_eventlooped0">
+          <Original>Event Looped</Original>
+          <Chinese>事件循環</Chinese>
+          <Chinesesimp>事件循环</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_eventfinished1">
+          <Original>The timeline finished playing, here you can script the desired behavior</Original>
+          <Chinese>你可以使用腳本來決定動畫啥時要結束</Chinese>
+          <Chinesesimp>你可以使用脚本来决定动画啥时要结束</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_eventfinished0">
+          <Original>Event Finished</Original>
+          <Chinese>事件結束</Chinese>
+          <Chinesesimp>事件结束</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_event1">
+          <Original>This key is reached during an animation, place here any scripted behavior</Original>
+          <Chinese>當影格播放到此處，要執行的腳本事件</Chinese>
+          <Chinesesimp>当影格播放到此处，要执行的脚本事件</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_event0">
+          <Original>Event</Original>
+          <Chinese>事件</Chinese>
+          <Chinesesimp>事件</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_enablehud1">
+          <Original>Whether tor not to allow HUD to be visible when this camera is the view point of a player</Original>
+          <Chinese>使用攝影機時是否要顯示抬頭顯示器</Chinese>
+          <Chinesesimp>使用摄影机时是否要显示抬头显示器</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_enablehud0">
+          <Original>Enable HUD</Original>
+          <Chinese>開啟抬頭顯示器</Chinese>
+          <Chinesesimp>开启抬头显示器</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_destroywhenfinished1">
+          <Original>Whether this timeline should be destroyed when it finishes playing</Original>
+          <Chinese>當時間軸完成播放後是否要刪除</Chinese>
+          <Chinesesimp>当时间轴完成播放后是否要删除</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_destroywhenfinished0">
+          <Original>Destroy When Finished</Original>
+          <Chinese>完成後刪除</Chinese>
+          <Chinesesimp>完成后删除</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_camerafov1">
+          <Original>If animating one or several cameras, use this Field of View at this key</Original>
+          <Chinese>假如要使用單或多個攝影機，請在這邊設置視角</Chinese>
+          <Chinesesimp>假如要使用单或多个摄影机，请在这边设置视角</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_camerafov0">
+          <Original>Field of View</Original>
+          <Chinese>視角</Chinese>
+          <Chinesesimp>视角</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_KeyframeAnimation_Curve">
+          <Original>Rich Curve</Original>
+          <Chinese>豐富曲線</Chinese>
+          <Chinesesimp>丰富曲线</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_arrivetangentweight1">
+          <Original>This key arrive tangent weight</Original>
+          <Chinese>此影格達到正切權重</Chinese>
+          <Chinesesimp>此影格达到正切权重</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_arrivetangentweight0">
+          <Original>Arrive Tangent Weight</Original>
+          <Chinese>抵達正切權重</Chinese>
+          <Chinesesimp>抵达正切权重</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_KeyframeAnimation_ControlPoint">
+          <Original>Rich Curve Key Control Point</Original>
+          <Chinese>豐富曲線關鍵控制點</Chinese>
+          <Chinesesimp>丰富曲线关键控制点</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_arrivetangent1">
+          <Original>This key arrive tangent</Original>
+          <Chinese>此影格達到正切</Chinese>
+          <Chinesesimp>此影格达到正切</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_KeyframeAnimation_Camera">
+          <Original>Camera</Original>
+          <Chinese>攝影機</Chinese>
+          <Chinesesimp>摄影机</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_arrivetangent0">
+          <Original>Arrive Tangent</Original>
+          <Chinese>抵達正切</Chinese>
+          <Chinesesimp>抵达正切</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_3dendrawprecisiondrag1">
+          <Original>When editing in 3DEN, this is the curve drawing precision when dragging, so it can be manually scaled per curve</Original>
+          <Chinese>當在伊甸編輯器中編輯時，當拖曳時這是曲線精度，所以可以按著曲線手動進行縮放</Chinese>
+          <Chinesesimp>当在伊甸编辑器中编辑时，当拖曳时这是曲线精度，所以可以按着曲线手动进行缩放</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_3dendrawprecisiondrag0">
+          <Original>3DEN Draw Precision Drag</Original>
+          <Chinese>伊甸編輯器繪製精度拖曳</Chinese>
+          <Chinesesimp>伊甸编辑器绘制精度拖曳</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_3dendrawprecision1">
+          <Original>When editing in 3DEN, this is the curve drawing precision, so it can be manually scaled per curve</Original>
+          <Chinese>當在伊甸編輯器中編輯時，這是曲線精度，所以可以按著曲線手動進行縮放</Chinese>
+          <Chinesesimp>当在伊甸编辑器中编辑时，这是曲线精度，所以可以按着曲线手动进行缩放</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_keyframeanimation_3dendrawprecision0">
+          <Original>3DEN Draw Precision</Original>
+          <Chinese>伊甸編輯器繪製精度</Chinese>
+          <Chinesesimp>伊甸编辑器绘制精度</Chinesesimp>
+        </Key>
+      </Container>
     </Container>
     <Container name="Equipment">
       <Container name="Boxes_Containers">
@@ -3219,6 +3596,11 @@
             <Original>Bergen (Sage)</Original>
             <Chinese>野戰背包(草綠色)</Chinese>
             <Chinesesimp>野战背包(草绿色)</Chinesesimp>
+          </Key>
+          <Key ID="str_a3_b_kitback_tan0">
+            <Original>Kitbag (Tan)</Original>
+            <Chinese>行軍袋(沙色)</Chinese>
+            <Chinesesimp>行军袋(沙色)</Chinesesimp>
           </Key>
         </Container>
         <Container name="Boxes">
@@ -3446,7 +3828,7 @@
           <Chinesesimp>炸药包</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_classicminerangemagazine1">
-          <Original>Type: Anti-personnelmine&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Original>
+          <Original>Type: Anti-personnel  mine&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</Original>
           <Chinese>類型:反人員地雷&lt;br/&gt;發數:1&lt;br/&gt;使用於:地面</Chinese>
           <Chinesesimp>类型:反人员地雷&lt;br/&gt;发数:1&lt;br/&gt;使用于:地面</Chinesesimp>
         </Key>
@@ -3476,7 +3858,7 @@
           <Chinesesimp>类型:反人员绊雷&lt;br/&gt;发数:1&lt;br/&gt;使用于:地面</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmagazines_classicminewiremagazine_library0">
-          <Original>Tripwire anti-personnel mines consist of a dug-in mine and a 5m wire.They are very hard to spot, but carry a smaller explosive charge than more typical mines.</Original>
+          <Original>Tripwire anti-personnel mines consist of a dug-in mine and a 5m wire.  They are very hard to spot, but carry a smaller explosive charge than more typical mines.</Original>
           <Chinese>反人員絆線雷會被埋入土裡，並架設一條長5公尺的絆線。這種地雷非常難被察覺，但它攜帶的炸藥比其他類型的地雷少。</Chinese>
           <Chinesesimp>反人员绊雷会被埋入土里，并拉设一条长5公尺的绊线。这种地雷非常难被察觉，但它携带的炸药比其他类型的地雷少。</Chinesesimp>
         </Key>
@@ -3524,6 +3906,16 @@
           <Original>A Claymore fragmentation charge is one of the deadliest anti-personnel charges available. On a timed or remote-triggered detonation, the Claymore sends deadly steel balls in a frontal direction. Effective kill radius is up to 50 meters. Unlike dug-in mines the Claymore is placed on the ground and is easier to spot.</Original>
           <Chinese>闊劍地雷是一種反人員殺傷地雷，也能經由設置定時器和遙控引爆。這種地雷引爆時會向前方範圍炸射出許多鋼珠，有效殺傷範圍達50公尺。它非常容易裝設，不像其他必須埋在地下的埋設式地雷。</Chinese>
           <Chinesesimp>阔剑地雷是一种反人员杀伤地雷，也能经由设置定时器和遥控引爆。这种地雷引爆时会向前方范围炸射出许多钢珠，有效杀伤范围达50米。与敷设式地雷不同，该地雷被放置在地表上，使其比较容易被肉眼发现。</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_ied0">
+          <Original>IEDs</Original>
+          <Chinese>簡易爆炸裝置</Chinese>
+          <Chinesesimp>简易爆炸装置</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgmagazines_ied1">
+          <Original>Improvised Explosive Devices of various kinds are usually used by irregular forces against regular army adversary. Made out of artillery shells, land mines or basically any explosive materials, remotely-detonated IEDs are capable of inflicting heavy casualties on unsuspecting patrols and convoys.</Original>
+          <Chinese>就地取材製作的爆炸裝置，種類繁多，地方勢力通常用它來對抗正規部隊。遠端引爆的土製炸彈，成分包括彈殼、地雷或者任何會爆炸的材料，能對大意的巡邏隊與車隊造成重大傷亡。</Chinese>
+          <Chinesesimp>各种简易爆炸装置通常由非正规部队用来对付敌方正规军。遥控引爆的简易爆炸装置可用炮弹、地雷或几乎任何爆炸性材料制成，能够给没有防备的巡逻队和车队造成重大伤亡。</Chinesesimp>
         </Key>
       </Container>
       <Container name="Magazines">
@@ -4496,7 +4888,7 @@
             <Chinesesimp>口径:6.5x39毫米曳光弹(绿色)-无壳弹&lt;br/&gt;发数:30&lt;br/&gt;使用于:Katiba，Type115</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_green1">
-            <Original>6.5mm 30Rnd Caseless Mag</Original>
+            <Original>6.5 mm 30Rnd Caseless Mag</Original>
             <Chinese>6.5公厘30發無殼彈彈匣</Chinese>
             <Chinesesimp>6.5毫米30发无壳弹弹匣</Chinesesimp>
           </Key>
@@ -6494,6 +6886,36 @@
         </Key>
       </Container>
       <Container name="Faces">
+        <Key ID="str_a3_cfgfaces_man_a3_pettka0">
+          <Original>Pettka</Original>
+          <Chinese>Pettka</Chinese>
+          <Chinesesimp>Pettka</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgfaces_man_a3_jay0">
+          <Original>Jay</Original>
+          <Chinese>Jay</Chinese>
+          <Chinesesimp>Jay</Chinesesimp>
+        </Key>
+        <Key ID="STR_A3_character_Kerry">
+          <Original>Kerry</Original>
+          <Chinese>克里</Chinese>
+          <Chinesesimp>克里</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgfaces_man_a3_ivan0">
+          <Original>Ivan</Original>
+          <Chinese>Ivan</Chinese>
+          <Chinesesimp>Ivan</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgfaces_man_a3_hladas0">
+          <Original>Dr. Hladík</Original>
+          <Chinese>Dr. Hladík</Chinese>
+          <Chinesesimp>Dr. Hladík</Chinesesimp>
+        </Key>
+        <Key ID="str_a3_cfgfaces_man_a3_dwarden0">
+          <Original>Dwarden</Original>
+          <Chinese>Dwarden</Chinese>
+          <Chinesesimp>Dwarden</Chinesesimp>
+        </Key>
         <Key ID="str_a3_cfgfaces_man_a3_miller0">
           <Original>Miller</Original>
           <Chinese>米勒</Chinese>
@@ -6503,11 +6925,6 @@
           <Original>Nikos</Original>
           <Chinese>尼科斯</Chinese>
           <Chinesesimp>尼科斯</Chinesesimp>
-        </Key>
-        <Key ID="STR_A3_character_Kerry">
-          <Original>Kerry</Original>
-          <Chinese>克里</Chinese>
-          <Chinesesimp>克里</Chinesesimp>
         </Key>
       </Container>
       <Container name="Various">
@@ -15390,7 +15807,7 @@
           <Chinesesimp>%2.1-停火</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___target_____2___grid___4">
-          <Original>%1 - Target -%2 - Grid: %4</Original>
+          <Original>%1 - Target -  %2 - Grid: %4</Original>
           <Chinese>%1-瞄準-%2-座標:%4</Chinese>
           <Chinesesimp>%1-瞄准-%2-座标:%4</Chinesesimp>
         </Key>
@@ -15400,17 +15817,17 @@
           <Chinesesimp>%1-瞄准-%2-%6.101</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___target_____2____6_3">
-          <Original>%1 - Target -%2 - %6.3</Original>
+          <Original>%1 - Target -  %2 - %6.3</Original>
           <Chinese>%1-瞄準-%2-%6。3</Chinese>
           <Chinesesimp>%1-瞄准-%2-%6。3</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___target_____2____6">
-          <Original>%1 - Target -%2 - %6</Original>
+          <Original>%1 - Target -  %2 - %6</Original>
           <Chinese>%1-瞄準-%2-%6</Chinese>
           <Chinesesimp>%1-瞄准-%2-%6</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___target_____2">
-          <Original>%1 - Target -%2</Original>
+          <Original>%1 - Target -  %2</Original>
           <Chinese>%1-瞄準-%2</Chinese>
           <Chinesesimp>%1-瞄准-%2</Chinesesimp>
         </Key>
@@ -15455,7 +15872,7 @@
           <Chinesesimp>%1-开火-%2</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___engage_____2___grid___4">
-          <Original>%1 - Engage -%2 - Grid: %4</Original>
+          <Original>%1 - Engage -  %2 - Grid: %4</Original>
           <Chinese>%1-交戰-%2-座標:%4</Chinese>
           <Chinesesimp>%1-交战-%2-座标:%4</Chinesesimp>
         </Key>
@@ -15465,17 +15882,17 @@
           <Chinesesimp>%1-交战-%2-%6.101</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___engage_____2____6_3">
-          <Original>%1 - Engage -%2 - %6.3</Original>
+          <Original>%1 - Engage -  %2 - %6.3</Original>
           <Chinese>%1-交戰-%2-%6。3</Chinese>
           <Chinesesimp>%1-交战-%2-%6。3</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___engage_____2____6">
-          <Original>%1 - Engage -%2 - %6</Original>
+          <Original>%1 - Engage -  %2 - %6</Original>
           <Chinese>%1-交戰-%2-%6</Chinese>
           <Chinesesimp>%1-交战-%2-%6</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___engage_____2">
-          <Original>%1 - Engage -%2</Original>
+          <Original>%1 - Engage -  %2</Original>
           <Chinese>%1-交戰-%2</Chinese>
           <Chinesesimp>%1-交战-%2</Chinesesimp>
         </Key>
@@ -15955,12 +16372,12 @@
           <Chinesesimp>%1.1-观看-%4.101</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___engage____2____6_clck">
-          <Original>%1 - Engage -%2 - %6.201</Original>
+          <Original>%1 - Engage -  %2 - %6.201</Original>
           <Chinese>%1-交戰-%2-%6。201</Chinese>
           <Chinesesimp>%1-交战-%2-%6。201</Chinesesimp>
         </Key>
         <Key ID="STR_A3___1___Target_____2____6_3_3_1">
-          <Original>%1 - Target -%2 - %6.3</Original>
+          <Original>%1 - Target -  %2 - %6.3</Original>
           <Chinese>%1-瞄準-%2-%6。3</Chinese>
           <Chinesesimp>%1-瞄准-%2-%6。3</Chinesesimp>
         </Key>
@@ -15970,12 +16387,12 @@
           <Chinesesimp>增援部队在路上了。</Chinesesimp>
         </Key>
         <Key ID="STR_A3___1___Target_____2____6_3_3_2">
-          <Original>%1 - Target -%2 - %6.3</Original>
+          <Original>%1 - Target -  %2 - %6.3</Original>
           <Chinese>%1-瞄準-%2-%6。3</Chinese>
           <Chinesesimp>%1-瞄准-%2-%6。3</Chinesesimp>
         </Key>
         <Key ID="STR_A3___1___Target_____2____6_3_3_3">
-          <Original>%1 - Target -%2 - %6.3</Original>
+          <Original>%1 - Target -  %2 - %6.3</Original>
           <Chinese>%1-瞄準-%2-%6。3</Chinese>
           <Chinesesimp>%1-瞄准-%2-%6。3</Chinesesimp>
         </Key>
@@ -15985,7 +16402,7 @@
           <Chinesesimp>你正在离开作战区域。</Chinesesimp>
         </Key>
         <Key ID="str_a3___1___target____2____6_clck">
-          <Original>%1 - Target -%2 - %6.201</Original>
+          <Original>%1 - Target -  %2 - %6.201</Original>
           <Chinese>%1-瞄準-%2-%6。201</Chinese>
           <Chinesesimp>%1-瞄准-%2-%6。201</Chinesesimp>
         </Key>
@@ -16447,7 +16864,7 @@
         <Chinesesimp>基菲湾</Chinesesimp>
       </Key>
       <Key ID="str_a3_limeri_bay0">
-        <Original>LimeriBay</Original>
+        <Original>Limeri Bay</Original>
         <Chinese>利梅里海灣</Chinese>
         <Chinesesimp>利梅里湾</Chinesesimp>
       </Key>

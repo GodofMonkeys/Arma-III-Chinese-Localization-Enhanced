@@ -4762,7 +4762,7 @@
           </Key>
           <Container name="15_Sabotage_Request_Artillery" audioFilePath="\a3\dubbing_f_epb\b_m05" dialogName="15_Sabotage_Request_Artillery" dubbingLanguage="english" namePrefix="b_m05_15_sabotage_request_artillery" note="" participants="EPB I Orestes;EPB O Griffin;" situation="the aaf officer requests arty support">
             <Key ID="str_a3_b_m05_15_sabotage_request_artillery_grf_0">
-              <Original>Understood, Spartan-Actual. We cannot allow them to raid our positions with such impunity.</Original>
+              <Original>Understood, Spartan-actual. We cannot allow them to raid our positions with such impunity.</Original>
               <Chinese>了解，"斯巴達-隊長"。我們不能讓他們這麼囂張。</Chinese>
               <Chinesesimp>了解，"斯巴达-领队"。我们不能让他们这么嚣张地突袭我们的阵地。</Chinesesimp>
             </Key>
@@ -7553,9 +7553,9 @@
           <Chinesesimp>教导连</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgorbat.fsmbis_o_4_t0">
-          <Original>Reinforcement &amp;amp; Training Company</Original>
-          <Chinese>後援&amp;amp;代訓部隊</Chinese>
-          <Chinesesimp>加强&amp;amp;教导连</Chinesesimp>
+          <Original>Reinforcement and Training Company</Original>
+          <Chinese>後援和代訓部隊</Chinese>
+          <Chinesesimp>加强和教导连</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgorbat.fsmbis_b_i_fia0">
           <Original>A loosely organised band of anti-governmental fighters formed in the aftermath the 2026 Kavala coup d'etat.</Original>

@@ -37,20 +37,40 @@
         <Chinese>維修站</Chinese>
         <Chinesesimp>维修站</Chinesesimp>
       </Key>
+      <Key ID="str_a3_cfgvehicles_land_dragonsteeth_01_4x2_old_redwhite_f0">
+        <Original>Dragon's Teeth (Row, Red-White, old)</Original>
+        <Chinese>龍牙陣列(成排，紅白，舊)</Chinese>
+        <Chinesesimp>龙牙阵列(成排，红白，旧)</Chinesesimp>
+      </Key>
       <Key ID="str_a3_cfgvehicles_land_dragonsteeth_01_4x2_old_f0">
         <Original>Dragon's Teeth (Row, old)</Original>
         <Chinese>龍牙陣列(成排，舊)</Chinese>
         <Chinesesimp>龙牙阵列(成排，旧)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_dragonsteeth_01_4x2_new_redwhite_f0">
+        <Original>Dragon's Teeth (Row, Red-White, new)</Original>
+        <Chinese>龍牙陣列(成排，紅白，新)</Chinese>
+        <Chinesesimp>龙牙阵列(成排，红白，新)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_dragonsteeth_01_4x2_new_f0">
         <Original>Dragon's Teeth (Row, new)</Original>
         <Chinese>龍牙陣列(成排，新)</Chinese>
         <Chinesesimp>龙牙阵列(成排，新)</Chinesesimp>
       </Key>
+      <Key ID="str_a3_cfgvehicles_land_dragonsteeth_01_1x1_old_redwhite_f0">
+        <Original>Dragon's Tooth (Single, Red-White, old)</Original>
+        <Chinese>龍牙(單個，紅白，舊)</Chinese>
+        <Chinesesimp>龙牙(单个，红白，旧)</Chinesesimp>
+      </Key>
       <Key ID="str_a3_cfgvehicles_land_dragonsteeth_01_1x1_old_f0">
         <Original>Dragon's Tooth (Single, old)</Original>
         <Chinese>龍牙(單個，舊)</Chinese>
         <Chinesesimp>龙牙(单个，旧)</Chinesesimp>
+      </Key>
+      <Key ID="str_a3_cfgvehicles_land_dragonsteeth_01_1x1_new_redwhite_f0">
+        <Original>Dragon's Tooth (Single, Red-White, new)</Original>
+        <Chinese>龍牙(單個，紅白，新)</Chinese>
+        <Chinesesimp>龙牙(单个，红白，新)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_dragonsteeth_01_1x1_new_f0">
         <Original>Dragon's Tooth (Single, new)</Original>
@@ -471,9 +491,9 @@
         <Chinesesimp>坦克兵外套[阿尔蒂斯武装力量]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_h_tank_black_f0">
-        <Original>Crew Helmet [CSAT]</Original>
-        <Chinese>乘員頭盔[廣協同盟]</Chinese>
-        <Chinesesimp>乘员头盔[广协同盟]</Chinesesimp>
+        <Original>Crew Helmet (Soft) [CSAT]</Original>
+        <Chinese>乘員頭盔(軟式)[廣協同盟]</Chinese>
+        <Chinesesimp>乘员头盔(软式)[广协同盟]</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_soldier_hat_f0">
         <Original>Rifleman (Heavy AT)</Original>
@@ -946,7 +966,7 @@
         <Chinesesimp>高爆弹药可能产生不想看到的结果。在发射前一定注意在目标地域没有友方单位。</Chinesesimp>
       </Key>
       <Key ID="str_a3_loal2">
-        <Original>Some guided missiles are able to lock-on after launch (LOAL) and can be used against targets beyond immediate line of sight.%1%2Press %11 to pick a desired target. This gives the missile an initial position to fly to%1%2Select appropriate fire mode %12 to clear terrain between you and the target, if needed (top or terrain-following if available)%1%2Fire the missile in the target's direction%1%1The missile will now fly towards the marked position. If no target was marked,  then the position under the crosshair or a preset distance is used. Once there, the missile will try to lock on the nearest available target within the seeker's field of regard.</Original>
+        <Original>Some guided missiles are able to lock-on after launch (LOAL) and can be used against targets beyond immediate line of sight.%1%2Press %11 to pick a desired target. This gives the missile an initial position to fly to.%1%2Select appropriate fire mode %12 to clear terrain between you and the target, if needed (top or terrain-following if available).%1%2Fire the missile in the target's direction.%1%1The missile will now fly towards the marked position. If no target was marked, then the position under the crosshair or a preset distance is used. Once there, the missile will try to lock on the nearest available target within the seeker's field of regard.</Original>
         <Chinese>有些飛彈可以在發射後鎖定(LOAL)，可以用來對付超越直接瞄準線的目標。%1%2按%11以選擇一個合適的目標。這將給飛彈一個初始的飛行目標位置%1%2選擇合適的發射模式%12以避開在你和目標之間的地形，如果必要的話(如果可用就選擇攻頂模式或地形匹配模式)%1%2向目標的方向發射飛彈%1%1飛彈現在將會飛向你標出的地點。如果沒有標記目標，那麼可以通過十字線瞄準或預設距離來設置。一旦抵達，飛彈就會嘗試自行鎖定導引頭視場內最近的目標。</Chinese>
         <Chinesesimp>有些导弹可以在发射后锁定(LOAL)，可以用来对付超越直接瞄准线的目标。%1%2按%11以选择一个合适的目标。这将给导弹一个初始的飞行目标位置%1%2选择合适的发射模式%12以避开在你和目标之间的地形，如果必要的话(如果可用就选择攻顶模式或地形匹配模式)%1%2向目标的方向发射导弹%1%1导弹现在将会飞向你标出的地点。如果没有标记目标，那么可以通过十字线瞄准或预设距离来设置。一旦抵达，导弹就会尝试自行锁定导引头视场内最近的目标。</Chinesesimp>
       </Key>

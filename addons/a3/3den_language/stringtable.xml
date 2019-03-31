@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project name="3DEN">
   <Package name="3DEN_Language">
     <Container name="UI">
@@ -31,6 +31,7 @@
               <Chinesesimp>%1米/像素</Chinesesimp>
             </Key>
           </Container>
+          <Container name="Toolbar" />
           <Container name="EntityMenu">
             <Key ID="str_3den_display3den_entitymenu_transform_text">
               <Original>Transform</Original>
@@ -734,6 +735,11 @@
               <Chinese>顯示需求模組</Chinese>
               <Chinesesimp>显示需求模组</Chinesesimp>
             </Key>
+            <Key ID="str_3den_display3den_menubar_missionexportsqf_text">
+              <Original>Export to SQF</Original>
+              <Chinese>輸出成SQF</Chinese>
+              <Chinesesimp>输出成SQF</Chinesesimp>
+            </Key>
             <Key ID="str_3den_display3den_menubar_missionmerge_text">
               <Original>Merge</Original>
               <Chinese>合併</Chinese>
@@ -959,6 +965,7 @@
             </Key>
           </Container>
         </Container>
+        <Container name="Display3DENCopy" />
         <Container name="Display3DENEditAttributes">
           <Key ID="STR_3DEN_Display3DENEditAttributes_Title_text">
             <Original>Edit: %s</Original>
@@ -1207,6 +1214,8 @@
         </Container>
       </Container>
     </Container>
+    <Container name="Group" />
+    <Container name="Functions" />
     <Container name="Default">
       <Key ID="STR_3DEN_Eden">
         <Original>Eden Editor</Original>
@@ -3084,10 +3093,10 @@
             <Chinese>材質#4</Chinese>
             <Chinesesimp>材质#4</Chinesesimp>
           </Key>
-          <Key ID="str_3den_object_attribute_objectmaterialcustom_tooltip">
-            <Original>Custom material applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myMaterial.rvmat") or relative to the game's directory (e.g., "\a3\Data_F\default.rvmat").</Original>
-            <Chinese>自定義目標物件的材質。請使用任務資料夾的相對路徑(例如"Textures\myMaterial.rvmat")或者你也可以指定到遊戲資料夾中(例如"\a3\Data_F\default.rvmat")。</Chinese>
-            <Chinesesimp>自定义目标物件的材质。请使用任务文件夹的相对路径(例如"Textures\myMaterial.rvmat")或者你也可以指定到游戏文件夹中(例如"\a3\Data_F\default.rvmat")。</Chinesesimp>
+          <Key ID="str_3den_object_attribute_objectmaterialcustom5_displayname">
+            <Original>Material #5</Original>
+            <Chinese>材質#5</Chinese>
+            <Chinesesimp>材质#5</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_simpleobject_displayName">
             <Original>Simple Object</Original>
@@ -3099,10 +3108,45 @@
             <Chinese>當本功能開啟時，此物件的表現就會像是一般的地形物件(例如房子或是樹)，這可顯著的節省遊戲效能。這功能只會在該載具內並無任何機組員時才可啟用。\n\n警告:此功能將會在遊戲開始後啟用，爾後不能再做任何更改!</Chinese>
             <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件(例如房子或是树)，这可显着的节省游戏性能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，之后不能再做任何更改!</Chinesesimp>
           </Key>
+          <Key ID="str_3den_object_attribute_objectmaterialcustom6_displayname">
+            <Original>Material #6</Original>
+            <Chinese>材質#6</Chinese>
+            <Chinesesimp>材质#6</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_object_attribute_objectmaterialcustom7_displayname">
+            <Original>Material #7</Original>
+            <Chinese>材質#7</Chinese>
+            <Chinesesimp>材质#7</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_object_attribute_objectmaterialcustom8_displayname">
+            <Original>Material #8</Original>
+            <Chinese>材質#8</Chinese>
+            <Chinesesimp>材质#8</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_object_attribute_objectmaterialcustom9_displayname">
+            <Original>Material #9</Original>
+            <Chinese>材質#9</Chinese>
+            <Chinesesimp>材质#9</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_object_attribute_objectmaterialcustom_tooltip">
+            <Original>Custom material applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myMaterial.rvmat") or relative to the game's directory (e.g., "\a3\Data_F\default.rvmat").</Original>
+            <Chinese>自定義目標物件的材質。請使用任務資料夾的相對路徑(例如"Textures\myMaterial.rvmat")或者你也可以指定到遊戲資料夾中(例如"\a3\Data_F\default.rvmat")。</Chinese>
+            <Chinesesimp>自定义目标物件的材质。请使用任务文件夹的相对路径(例如"Textures\myMaterial.rvmat")或者你也可以指定到游戏文件夹中(例如"\a3\Data_F\default.rvmat")。</Chinesesimp>
+          </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom0_displayname">
             <Original>Texture #0</Original>
             <Chinese>貼圖#0</Chinese>
             <Chinesesimp>纹理#0</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_object_attribute_wakeupdynsim_displayname">
+            <Original>Wake-Up Dynamic Simulation</Original>
+            <Chinese>喚醒動態運算物件</Chinese>
+            <Chinesesimp>唤醒动态运算物件</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_object_attribute_wakeupdynsim_tooltip">
+            <Original>Controls unit capability to activate dynamically simulated entities.</Original>
+            <Chinese>啟用此功能後，此單位在靠近動態運算之物件時可以使其開始進行運算。</Chinese>
+            <Chinesesimp>启用此功能后，此单位在靠近动态运算之物件时可以使其开始进行运算。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom1_displayname">
             <Original>Texture #1</Original>
@@ -3124,20 +3168,15 @@
             <Chinese>貼圖#4</Chinese>
             <Chinesesimp>纹理#4</Chinesesimp>
           </Key>
-          <Key ID="str_3den_object_attribute_objecttexturecustom_tooltip">
-            <Original>Custom texture applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myTexture_ca.paa", relative to the game's directory (e.g., "\a3\Ui_f\data\Logos\arma3_white_ca.paa" or a procedural texture (e.g., "#(argb,8,8,3_color(1,0,1,1)").</Original>
-            <Chinese>自定義目標物件的貼圖。請使用任務資料夾的相對路徑(例如"Textures\myTexture_ca.paa")，你也可以指定到遊戲資料夾中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用腳本貼圖(例如"#(argb，8，8，3_color(1，0，1，1)")。</Chinese>
-            <Chinesesimp>自定义目标物件的纹理。请使用任务文件夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏文件夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如"#(argb，8，8，3_color(1，0，1，1)")。</Chinesesimp>
+          <Key ID="str_3den_object_attribute_objecttexturecustom5_displayname">
+            <Original>Texture #5</Original>
+            <Chinese>貼圖#5</Chinese>
+            <Chinesesimp>纹理#5</Chinesesimp>
           </Key>
-          <Key ID="str_3den_object_attribute_wakeupdynsim_displayname">
-            <Original>Wake-Up Dynamic Simulation</Original>
-            <Chinese>喚醒動態運算物件</Chinese>
-            <Chinesesimp>唤醒动态运算物件</Chinesesimp>
-          </Key>
-          <Key ID="str_3den_object_attribute_wakeupdynsim_tooltip">
-            <Original>Controls unit capability to activate dynamically simulated entities.</Original>
-            <Chinese>啟用此功能後，此單位在靠近動態運算之物件時可以使其開始進行運算。</Chinese>
-            <Chinesesimp>启用此功能后，此单位在靠近动态运算之物件时可以使其开始进行运算。</Chinesesimp>
+          <Key ID="str_3den_object_attribute_objecttexturecustom6_displayname">
+            <Original>Texture #6</Original>
+            <Chinese>貼圖#6</Chinese>
+            <Chinesesimp>纹理#6</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexture_displayname">
             <Original>Skin</Original>
@@ -3149,10 +3188,40 @@
             <Chinese>設定物件的外觀貼圖。</Chinese>
             <Chinesesimp>设定物件的外观纹理。</Chinesesimp>
           </Key>
+          <Key ID="str_3den_object_attribute_objecttexturecustom7_displayname">
+            <Original>Texture #7</Original>
+            <Chinese>貼圖#7</Chinese>
+            <Chinesesimp>纹理#7</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_object_attribute_objecttexturecustom8_displayname">
+            <Original>Texture #8</Original>
+            <Chinese>貼圖#8</Chinese>
+            <Chinesesimp>纹理#8</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_object_attribute_objecttexturecustom9_displayname">
+            <Original>Texture #9</Original>
+            <Chinese>貼圖#9</Chinese>
+            <Chinesesimp>纹理#9</Chinesesimp>
+          </Key>
+          <Key ID="str_3den_object_attribute_objecttexturecustom_tooltip">
+            <Original>Custom texture applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myTexture_ca.paa", relative to the game's directory (e.g., "\a3\Ui_f\data\Logos\arma3_white_ca.paa" or a procedural texture (e.g., "#(argb,8,8,3)color(1,0,1,1)").</Original>
+            <Chinese>自定義目標物件的貼圖。請使用任務資料夾的相對路徑(例如"Textures\myTexture_ca.paa")，你也可以指定到遊戲資料夾中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用腳本貼圖(例如""#(argb,8,8,3)color(1,0,1,1)")。</Chinese>
+            <Chinesesimp>自定义目标物件的纹理。请使用任务文件夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏文件夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如""#(argb,8,8,3)color(1,0,1,1)")。</Chinesesimp>
+          </Key>
+          <Key ID="STR_3DEN_Object_Attribute_VisionModes_tooltip">
+            <Original>Disables individual spectrum modes of the vehicle optics (visual, night vision, thermal)</Original>
+            <Chinese>禁用指定的瞄準器光學模式(光學，夜視鏡，熱成像)</Chinese>
+            <Chinesesimp>禁用指定的瞄准器光学模式(光学，夜视镜，热成像)</Chinesesimp>
+          </Key>
           <Key ID="STR_3DEN_Object_Attribute_PylonsMirror_displayName">
             <Original>Mirror</Original>
             <Chinese>鏡像複製</Chinese>
             <Chinesesimp>镜像复制</Chinesesimp>
+          </Key>
+          <Key ID="STR_3DEN_Object_Attribute_VisionModes_displayName">
+            <Original>Optics spectrum modes</Original>
+            <Chinese>瞄準器光學模式</Chinese>
+            <Chinesesimp>瞄准器光学模式</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_PylonsMirror_tooltip">
             <Original>Mirror selected munition to the opposite side.</Original>
@@ -3179,6 +3248,16 @@
             <Chinese>設定AI使用雷達的原則</Chinese>
             <Chinesesimp>设定AI使用雷达的原则</Chinesesimp>
           </Key>
+          <Key ID="STR_3DEN_Object_Attribute_ReportRemoteTargets_displayName">
+            <Original>Data Link Send</Original>
+            <Chinese>發送目標數據</Chinese>
+            <Chinesesimp>发送目标数据</Chinesesimp>
+          </Key>
+          <Key ID="STR_3DEN_Object_Attribute_ReportRemoteTargets_tooltip">
+            <Original>Vehicle will broadcast targets tracked by its sensors to any other unit on the same side with Data Link enabled.</Original>
+            <Chinese>此載具會發送自己掃描到的目標資訊給其他已經開啟接收數據的友方單位。</Chinese>
+            <Chinesesimp>此载具会发送自己扫描到的目标信息给其他已经开启接收数据的友方单位。</Chinesesimp>
+          </Key>
           <Key ID="STR_3DEN_Object_Attribute_ReceiveRemoteTargets_displayName">
             <Original>Data Link Receive</Original>
             <Chinese>接收數據</Chinese>
@@ -3199,26 +3278,6 @@
             <Chinese>此載具會發送自己的位置資訊給其他已經開啟接收數據的友方單位。</Chinese>
             <Chinesesimp>此载具会发送自己的位置信息给其他已经开启接收数据的友方单位。</Chinesesimp>
           </Key>
-          <Key ID="STR_3DEN_Object_Attribute_VisionModes_tooltip">
-            <Original>Disables individual spectrum modes of the vehicle optics (visual, night vision, thermal)</Original>
-            <Chinese>禁用指定的瞄準器光學模式(光學，夜視鏡，熱成像)</Chinese>
-            <Chinesesimp>禁用指定的瞄准器光学模式(光学，夜视镜，热成像)</Chinesesimp>
-          </Key>
-          <Key ID="STR_3DEN_Object_Attribute_ReportRemoteTargets_displayName">
-            <Original>Data Link Send</Original>
-            <Chinese>發送目標數據</Chinese>
-            <Chinesesimp>发送目标数据</Chinesesimp>
-          </Key>
-          <Key ID="STR_3DEN_Object_Attribute_VisionModes_displayName">
-            <Original>Optics spectrum modes</Original>
-            <Chinese>瞄準器光學模式</Chinese>
-            <Chinesesimp>瞄准器光学模式</Chinesesimp>
-          </Key>
-          <Key ID="STR_3DEN_Object_Attribute_ReportRemoteTargets_tooltip">
-            <Original>Vehicle will broadcast targets tracked by its sensors to any other unit on the same side with Data Link enabled.</Original>
-            <Chinese>此載具會發送自己掃描到的目標資訊給其他已經開啟接收數據的友方單位。</Chinese>
-            <Chinesesimp>此载具会发送自己扫描到的目标信息给其他已经开启接收数据的友方单位。</Chinesesimp>
-          </Key>
         </Container>
         <Container name="Mode">
           <Key ID="STR_3DEN_Object_Mode_Empty">
@@ -3228,6 +3287,106 @@
           </Key>
         </Container>
         <Container name="AttributeCategories">
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_1">
+            <Original>1</Original>
+            <Chinese>1</Chinese>
+            <Chinesesimp>1</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_2">
+            <Original>2</Original>
+            <Chinese>2</Chinese>
+            <Chinesesimp>2</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_3">
+            <Original>3</Original>
+            <Chinese>3</Chinese>
+            <Chinesesimp>3</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_4">
+            <Original>4</Original>
+            <Chinese>4</Chinese>
+            <Chinesesimp>4</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_5">
+            <Original>5</Original>
+            <Chinese>5</Chinese>
+            <Chinesesimp>5</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_6">
+            <Original>6</Original>
+            <Chinese>6</Chinese>
+            <Chinesesimp>6</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_7">
+            <Original>7</Original>
+            <Chinese>7</Chinese>
+            <Chinesesimp>7</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_8">
+            <Original>8</Original>
+            <Chinese>8</Chinese>
+            <Chinesesimp>8</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_9">
+            <Original>9</Original>
+            <Chinese>9</Chinese>
+            <Chinesesimp>9</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_Random">
+            <Original>Random</Original>
+            <Chinese>隨機</Chinese>
+            <Chinesesimp>随机</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_CustomShipFlagTexture0_displayname">
+            <Original>Custom Flag Texture</Original>
+            <Chinese>自訂旗幟貼圖</Chinese>
+            <Chinesesimp>自订旗帜纹理</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_CustomShipNameTexture0_displayname">
+            <Original>Custom Ship Name</Original>
+            <Chinese>自訂船名</Chinese>
+            <Chinesesimp>自订船名</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_CustomShipNumber1_displayname">
+            <Original>Ship Hull Number 1</Original>
+            <Chinese>船體編號第1碼</Chinese>
+            <Chinesesimp>船体编号第1码</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_CustomShipNumber1_tooltip">
+            <Original>This attribute enables customisation of the first digit on the ship's hull number.</Original>
+            <Chinese>自訂船體編號第1碼。</Chinese>
+            <Chinesesimp>自订船体编号第1码。</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_CustomShipNumber2_displayname">
+            <Original>Ship Hull Number 2</Original>
+            <Chinese>船體編號第2碼</Chinese>
+            <Chinesesimp>船体编号第2码</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_CustomShipNumber2_tooltip">
+            <Original>This attribute enables customisation of the second digit on the ship's hull number.</Original>
+            <Chinese>自訂船體編號第2碼。</Chinese>
+            <Chinesesimp>自订船体编号第2码。</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_CustomShipNumber3_displayname">
+            <Original>Ship Hull Number 3</Original>
+            <Chinese>船體編號第3碼</Chinese>
+            <Chinesesimp>船体编号第3码</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_CustomShipNumber3_tooltip">
+            <Original>This attribute enables customisation of the third digit on the ship's hull number.</Original>
+            <Chinese>自訂船體編號第3碼。</Chinese>
+            <Chinesesimp>自订船体编号第3码。</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_ShipHangarDoorState_displayname">
+            <Original>Hangar Doors Open</Original>
+            <Chinese>開啟艙門</Chinese>
+            <Chinesesimp>开启舱门</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_ShipHangarDoorState_tooltip">
+            <Original>This attribute enables customisation of the ship's main hangar door initial animation state (open/closed).</Original>
+            <Chinese>自訂船隻主艙門初始化時的動畫狀態(開啟/關閉)。</Chinese>
+            <Chinesesimp>自订船只主舱门初始化时的动画状态(开启/关闭)。</Chinesesimp>
+          </Key>
           <Key ID="STR_3DEN_Object_AttributeCategory_Init">
             <Original>Init</Original>
             <Chinese>初始化腳本</Chinese>
@@ -3282,6 +3441,11 @@
             <Original>Equipment Storage</Original>
             <Chinese>保存的裝備</Chinese>
             <Chinesesimp>保存的装备</Chinesesimp>
+          </Key>
+          <Key ID="STR_3den_object_attribute_Combo_DisplayName_0">
+            <Original>0</Original>
+            <Chinese>0</Chinese>
+            <Chinesesimp>0</Chinesesimp>
           </Key>
         </Container>
         <Key ID="STR_3DEN_Object_textPlural">
@@ -3867,6 +4031,7 @@
             <Chinesesimp>预设</Chinesesimp>
           </Key>
         </Container>
+        <Container name="EditXYZ" />
         <Container name="Date">
           <Key ID="str_3den_attributes_date_month9_text">
             <Original>September</Original>
@@ -4306,6 +4471,7 @@
             <Chinesesimp>全速</Chinesesimp>
           </Key>
         </Container>
+        <Container name="TimeoutType" />
         <Container name="SharedObjectives">
           <Key ID="str_3den_attributes_sharedobjectives_disabled_tooltip">
             <Original>Tasks assigned by friendlies are not marked.</Original>

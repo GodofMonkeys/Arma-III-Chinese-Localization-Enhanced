@@ -353,7 +353,7 @@
         <Chinesesimp>自旋的产生是由于空气经过桨片所产生的旋转，并不是因为引擎所带动的结果。感谢有这个自旋的作用，我们才能在失去引擎动力时进行迫降。%1%1当引擎发生故障停转时，请先降低集体杆%11。你也可以降低机鼻%12来获得足够的前进速度。保持正常的转速并持续向地面滑翔。在接触地面之前再提高集体杆%13来安全降落。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiumheli1">
-        <Original>Start the engines! Jump into new cargo helicopters and master a new sling loading feature to gain an advantage on the battlefield in the Arma 3 Helicopters DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa' /&gt;%1%2CH-67 Huron - NATO's twin-engine, tandem rotor heavy-lift helicopter.%1%2Mi-290 Taru - CSAT heavy utility helicopter using a coaxial rotor design%1%2M-900 - Civilian variant of the existing H-9 family of helicopters%1%2Sling Loading Objects%1%2Helicopter Objects%1%2F.O.B. Objects%1%2Support Multiplayer - a new mode in which battlefield logistics play a major role%1%2&lt;t&gt;&lt;/t&gt;4 VR Helicopter Training Course%1%2Showcase Sling Loading%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2Set of extra Steam Achievements</Original>
+        <Original>Start the engines! Jump into new cargo helicopters and master a new sling loading feature to gain an advantage on the battlefield in the Arma 3 Helicopters DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa' /&gt;%1%2CH-67 Huron - NATO's twin-engine, tandem rotor heavy-lift helicopter%1%2Mi-290 Taru - CSAT heavy utility helicopter using a coaxial rotor design%1%2M-900 - Civilian variant of the existing H-9 family of helicopters%1%2Sling Loading Objects%1%2Helicopter Objects%1%2F.O.B. Objects%1%2Support Multiplayer - a new mode in which battlefield logistics play a major role%1%2&lt;t&gt;&lt;/t&gt;4 VR Helicopter Training Course%1%2Showcase Sling Loading%1%2&lt;t&gt;&lt;/t&gt;5 Singleplayer Time Trial Challenges%1%2Set of extra Steam Achievements</Original>
         <Chinese>啟動引擎!駕駛新的運輸直升機，投入武裝突襲3戰場中體驗新的吊掛系統，一切盡在直升機資料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休倫"-北約的雙引擎，綜列式旋翼，重型吊掛直升機。%1%2米-290"塔魯"-廣協同盟的重型多用途直升機，使用同軸式旋翼設計%1%2M-900-現有的H-9系列的民用版本%1%2吊掛物件%1%2直升機物件%1%2前線作戰基地物件%1%2多人支援任務-一個新的多人遊戲模式，你將在這邊體驗到支援的樂趣%1%2&lt;t&gt;&lt;/t&gt;4虛擬直升機訓練課程%1%2吊掛任務展示%1%2&lt;t&gt;&lt;/t&gt;5個單人計時挑戰賽%1%2一組額外的Steam成就</Chinese>
         <Chinesesimp>启动引擎!驾驶新的运输直升机，投入武装突袭3战场中体验新的吊挂系统，一切尽在直升机资料片中。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Heli\data\img\Showcase_SlingLoading_overview_CA.paa'/&gt;%1%2CH-67"休伦"-北约的双引擎，综列式旋翼，重型吊挂直升机。%1%2米-290"塔鲁"-广协同盟的重型多用途直升机，使用同轴式旋翼设计%1%2M-900-现有的H-9系列的民用版本%1%2吊挂物件%1%2直升机物件%1%2前线作战基地物件%1%2多人支援任务-一个新的多人游戏模式，你将在这边体验到支援的乐趣%1%2&lt;t&gt;&lt;/t&gt;4虚拟直升机训练课程%1%2吊挂任务展示%1%2&lt;t&gt;&lt;/t&gt;5个单人计时挑战赛%1%2一组额外的Steam成就</Chinesesimp>
       </Key>
@@ -368,9 +368,9 @@
         <Chinesesimp>自动盘旋</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AutoHover2">
-        <Original>Activating auto-hover will automatically stabilize your aircraft. Note that while auto-hover is active, the controls will have a reduced effect.%1%2Select %3Auto hover%4 from the action menu%1%2Or quickly press %11 to activate it</Original>
-        <Chinese>啟動自動盤旋將會使你的直升機自動進入盤旋狀態。請注意，當自動盤旋啟動時，操縱桿的所有輸入效果都會降低。%1%2你可以從動作選單中來選擇%3自動盤旋%4%1%2或者按下%11來快速啟動此功能</Chinese>
-        <Chinesesimp>启动自动盘旋将会使你的直升机自动进入盘旋状态。请注意，当自动盘旋启动时，操纵杆的所有输入效果都会降低。%1%2你可以从动作选单中来选择%3自动盘旋%4%1%2或者按下%11来快速启动此功能</Chinesesimp>
+        <Original>Activating auto-hover will automatically stabilize your aircraft. Note that while auto-hover is active, the controls will have a reduced effect.%1%2Select %3Auto hover%4 from the action menu.%1%2Or quickly press %11 to activate it.</Original>
+        <Chinese>啟動自動盤旋將會使你的直升機自動進入盤旋狀態。請注意，當自動盤旋啟動時，操縱桿的所有輸入效果都會降低。%1%2你可以從動作選單中來選擇%3自動盤旋%4。%1%2或者按下%11來快速啟動此功能。</Chinese>
+        <Chinesesimp>启动自动盘旋将会使你的直升机自动进入盘旋状态。请注意，当自动盘旋启动时，操纵杆的所有输入效果都会降低。%1%2你可以从动作选单中来选择%3自动盘旋%4。%1%2或者按下%11来快速启动此功能。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CargoHook1">
         <Original>Hooking Up</Original>

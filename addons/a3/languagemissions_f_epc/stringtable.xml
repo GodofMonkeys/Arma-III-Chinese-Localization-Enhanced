@@ -2600,8 +2600,8 @@
           </Container>
           <Container name="x00_vehicleStolen" audioFilePath="\a3\dubbing_f_epc\c_out1" dialogName="x00_vehicleStolen" dubbingLanguage="english" namePrefix="c_out1_x00_vehiclestolen" note="" participants="EPC B Player;" situation="kerry's team enters enemy armoured vehicle and he reports to friendly units">
             <Key ID="str_a3_c_out1_x00_vehiclestolen_ker_0">
-              <Original>All teams, be advised, Nomad handling the enemy Gorgon at Kappa. Out.</Original>
-              <Chinese>所有小隊，請注意，"游牧民"在卡帕截獲了一臺"蛇髮女妖"。通話完畢。</Chinese>
+              <Original>All teams, be advised, Nomad's handling the enemy Gorgon at Kappa. Out.</Original>
+              <Chinese>所有小队，请注意，"游牧民"正在处理那台在卡帕内的"蛇发女妖"装甲车。通话完毕。</Chinese>
               <Chinesesimp>所有小队，请注意，"游牧民"正在处理那台在卡帕内的"蛇发女妖"装甲车。通话完毕。</Chinesesimp>
             </Key>
           </Container>

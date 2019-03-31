@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: language_f_exp_a\config.bin
-//Produced from mikero's Dos Tools Dll version 6.44
-//'now' is Mon Apr 30 18:29:57 2018 : 'file' last modified on Fri Apr 06 01:00:43 2018
+//DeRap: 新增資料夾\language_f_exp_a\config.bin
+//Produced from mikero's Dos Tools Dll version 6.80
+//'now' is Sun Mar 31 23:01:21 2019 : 'file' last modified on Fri Jan 18 20:37:29 2019
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 

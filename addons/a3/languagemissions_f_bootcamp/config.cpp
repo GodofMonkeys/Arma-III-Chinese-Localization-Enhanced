@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
-//DeRap: languagemissions_f_bootcamp\config.bin
-//Produced from mikero's Dos Tools Dll version 6.44
-//'now' is Mon Apr 30 18:30:16 2018 : 'file' last modified on Fri Apr 06 01:28:24 2018
+//DeRap: 新增資料夾\languagemissions_f_bootcamp\config.bin
+//Produced from mikero's Dos Tools Dll version 6.80
+//'now' is Sun Mar 31 23:01:41 2019 : 'file' last modified on Fri Jan 18 22:31:46 2019
 //http://dev-heaven.net/projects/list_files/mikero-pbodll
 ////////////////////////////////////////////////////////////////////
 

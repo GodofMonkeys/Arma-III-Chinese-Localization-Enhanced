@@ -106,7 +106,7 @@
       </Key>
       <Container name="Scenarios">
         <Container name="Faction_INDEPENDENT">
-          <Container name="x05_I_Nonsense" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="x05_I_Nonsense" dubbingLanguage="english" namePrefix="faction_independent_x05_i_nonsense" note=" participants="RC I Expo;" situation="player goes into a hazardous area">
+          <Container name="x05_I_Nonsense" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="x05_I_Nonsense" dubbingLanguage="english" namePrefix="faction_independent_x05_i_nonsense" note="" participants="RC I Expo;" situation="player goes into a hazardous area">
             <Key ID="str_a3_faction_independent_x05_i_nonsense_exi_0">
               <Original>Dinosaurs are prohibited from riding the quad bikes.</Original>
               <Chinese>恐龍被禁止騎四輪摩托車。</Chinese>
@@ -123,7 +123,7 @@
               <Chinesesimp>请记住，因为今天要为夏尔曼庆祝28岁的生日派对，所以展演活动将会提早结束。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_I_SafetyRegs" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="x01_I_SafetyRegs" dubbingLanguage="english" namePrefix="faction_independent_x01_i_safetyregs" note=" participants="RC B Expo;" situation="player goes into a hazardous area">
+          <Container name="x01_I_SafetyRegs" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="x01_I_SafetyRegs" dubbingLanguage="english" namePrefix="faction_independent_x01_i_safetyregs" note="" participants="RC B Expo;" situation="player goes into a hazardous area">
             <Key ID="str_a3_faction_independent_x01_i_safetyregs_exi_0">
               <Original>Please respect expo regulations!</Original>
               <Chinese>請尊重展場規則!</Chinese>
@@ -145,7 +145,7 @@
               <Chinesesimp>参观者在限制区!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_I_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="25_I_Auto" dubbingLanguage="english" namePrefix="faction_independent_25_i_auto" note=" participants="RC I Expo;" situation="player visits the weapons area of the expo">
+          <Container name="25_I_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="25_I_Auto" dubbingLanguage="english" namePrefix="faction_independent_25_i_auto" note="" participants="RC I Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_independent_25_i_auto_exi_0">
               <Original>The AR-2 Darter is a miniature remote-controlled quadrocopter designed for recon and surveillance roles.</Original>
               <Chinese>AR-2"短刀"是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
@@ -162,7 +162,7 @@
               <Chinesesimp>MQ-4A"灰鹰"是一架武装无人侦察机，装载着空地导弹。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_I_Weapons" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="20_I_Weapons" dubbingLanguage="english" namePrefix="faction_independent_20_i_weapons" note=" participants="RC I Expo;" situation="player visits the weapons area of the expo">
+          <Container name="20_I_Weapons" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="20_I_Weapons" dubbingLanguage="english" namePrefix="faction_independent_20_i_weapons" note="" participants="RC I Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_independent_20_i_weapons_exi_0">
               <Original>The Mk32 GMG is a static grenade launcher that fires 20mm grenades.</Original>
               <Chinese>Mk32 GMG是一臺固定式的榴彈發射器，發射20公厘榴彈。</Chinese>
@@ -179,7 +179,7 @@
               <Chinesesimp>Mk200是一种导气式轻机枪，使用无壳弹弹链供弹。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_I_Water" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="15_I_Water" dubbingLanguage="english" namePrefix="faction_independent_15_i_water" note=" participants="RC I Expo;" situation="player visits the naval area of the expo">
+          <Container name="15_I_Water" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="15_I_Water" dubbingLanguage="english" namePrefix="faction_independent_15_i_water" note="" participants="RC I Expo;" situation="player visits the naval area of the expo">
             <Key ID="str_a3_faction_independent_15_i_water_exi_0">
               <Original>The assault boat is a fast, lightweight, inflatable vessel used in a variety of roles.</Original>
               <Chinese>突擊艇擁有快速，輕量化，可充氣等特色，使他能在各種任務中扮演特殊角色。</Chinese>
@@ -196,7 +196,7 @@
               <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置"米尼岗"机枪或重机枪。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_I_Air" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="10_I_Air" dubbingLanguage="english" namePrefix="faction_independent_10_i_air" note=" participants="RC I Expo;" situation="player visits the aerial area of the expo">
+          <Container name="10_I_Air" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="10_I_Air" dubbingLanguage="english" namePrefix="faction_independent_10_i_air" note="" participants="RC I Expo;" situation="player visits the aerial area of the expo">
             <Key ID="str_a3_faction_independent_10_i_air_exi_0">
               <Original>The CH-49 Mohawk is a powerful transport helicopter with a large capacity.</Original>
               <Chinese>CH-49"莫霍克"是一臺有著高乘載量的強大運輸直升機。</Chinese>
@@ -208,7 +208,7 @@
               <Chinesesimp>A-143"秃鹰"是一种单座多用途战斗机，被设计成可以装载各种武器。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_I_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="05_I_Ground" dubbingLanguage="english" namePrefix="faction_independent_05_i_ground" note=" participants="RC I Expo;" situation="player visits the ground vehicles area of the expo">
+          <Container name="05_I_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="05_I_Ground" dubbingLanguage="english" namePrefix="faction_independent_05_i_ground" note="" participants="RC I Expo;" situation="player visits the ground vehicles area of the expo">
             <Key ID="str_a3_faction_independent_05_i_ground_exi_0">
               <Original>The Strider is a medium armored personnel carrier designed for recon and troop transport roles.</Original>
               <Chinese>"挺進者"是一臺中型的裝甲運兵車，被設計用來做偵察與小隊運輸的任務。</Chinese>
@@ -225,7 +225,7 @@
               <Chinesesimp>四轮摩托车是一台全地形载具，被用作侦察或是进入一般重型载具到不了的地形。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_I_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="01_I_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_independent_01_i_expowelcome" note=" participants="RC I Expo;" situation="player starts the expo, offered intyroduction">
+          <Container name="01_I_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_independent" dialogName="01_I_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_independent_01_i_expowelcome" note="" participants="RC I Expo;" situation="player starts the expo, offered intyroduction">
             <Key ID="str_a3_faction_independent_01_i_expowelcome_exi_0">
               <Original>Welcome to the Altis Armed Forces expo.</Original>
               <Chinese>歡迎參加阿爾蒂斯武裝力量的軍武展示大會。</Chinese>
@@ -244,7 +244,7 @@
           </Container>
         </Container>
         <Container name="Faction_BLUFOR">
-          <Container name="x05_B_Nonsense" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="x05_B_Nonsense" dubbingLanguage="english" namePrefix="faction_blufor_x05_b_nonsense" note=" participants="RC B Expo;" situation="easter eggs nonsense with a very small probability of being played at random/silly triggers">
+          <Container name="x05_B_Nonsense" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="x05_B_Nonsense" dubbingLanguage="english" namePrefix="faction_blufor_x05_b_nonsense" note="" participants="RC B Expo;" situation="easter eggs nonsense with a very small probability of being played at random/silly triggers">
             <Key ID="str_a3_faction_blufor_x05_b_nonsense_exb_0">
               <Original>Dinosaurs are prohibited from riding the quad bikes.</Original>
               <Chinese>恐龍被禁止騎四輪摩托車。</Chinese>
@@ -261,7 +261,7 @@
               <Chinesesimp>请记住，因为今天要为夏尔曼庆祝28岁的生日派对，所以展演活动将会提早结束。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_B_SafetyRegs" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="x01_B_SafetyRegs" dubbingLanguage="english" namePrefix="faction_blufor_x01_b_safetyregs" note=" participants="RC B Expo;" situation="player goes into a hazardous area">
+          <Container name="x01_B_SafetyRegs" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="x01_B_SafetyRegs" dubbingLanguage="english" namePrefix="faction_blufor_x01_b_safetyregs" note="" participants="RC B Expo;" situation="player goes into a hazardous area">
             <Key ID="str_a3_faction_blufor_x01_b_safetyregs_exb_3">
               <Original>Attendee in restricted area!</Original>
               <Chinese>參觀者在限制區!</Chinese>
@@ -283,7 +283,7 @@
               <Chinesesimp>展示暂停!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_B_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="25_B_Auto" dubbingLanguage="english" namePrefix="faction_blufor_25_b_auto" note=" participants="RC B Expo;" situation="player visits the weapons area of the expo">
+          <Container name="25_B_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="25_B_Auto" dubbingLanguage="english" namePrefix="faction_blufor_25_b_auto" note="" participants="RC B Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_blufor_25_b_auto_exb_0">
               <Original>The AR-2 Darter is a miniature remote-controlled quadrocopter designed for recon and surveillance roles.</Original>
               <Chinese>AR-2"短刀"是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
@@ -310,7 +310,7 @@
               <Chinesesimp>MQ-12"猎隼"配备着两座火箭发射舱，各舱都有12枚无导引火箭弹，额外还有6枚"手术刀"空对地导弹。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_B_Weapons" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="20_B_Weapons" dubbingLanguage="english" namePrefix="faction_blufor_20_b_weapons" note=" participants="RC B Expo;" situation="player visits the weapons area of the expo">
+          <Container name="20_B_Weapons" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="20_B_Weapons" dubbingLanguage="english" namePrefix="faction_blufor_20_b_weapons" note="" participants="RC B Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_blufor_20_b_weapons_exb_0">
               <Original>The M320 Long Range Rifle is a .408 caliber sniper rifle developed in the US.</Original>
               <Chinese>M320是一把配備.408口徑的狙擊槍，在美國開發完成。</Chinese>
@@ -327,7 +327,7 @@
               <Chinesesimp>北约新式的高科技特殊用途突击步枪系列，有着7.62毫米与5.56毫米两种口径，可以再选配榴弹发射器来配合不同的任务，使这把武器深获特种部队的青睐。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_B_Water" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="15_B_Water" dubbingLanguage="english" namePrefix="faction_blufor_15_b_water" note=" participants="RC B Expo;" situation="player visits the naval area of the expo">
+          <Container name="15_B_Water" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="15_B_Water" dubbingLanguage="english" namePrefix="faction_blufor_15_b_water" note="" participants="RC B Expo;" situation="player visits the naval area of the expo">
             <Key ID="str_a3_faction_blufor_15_b_water_exb_0">
               <Original>The assault boat is a fast, lightweight, inflatable vessel used in a variety of roles.</Original>
               <Chinese>突擊艇擁有快速，輕量化，可充氣等特色，使他能在各種任務中扮演特殊角色。</Chinese>
@@ -344,7 +344,7 @@
               <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置"米尼岗"机枪或重机枪。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_B_Air" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="10_B_Air" dubbingLanguage="english" namePrefix="faction_blufor_10_b_air" note=" participants="RC B Expo;" situation="player visits the aerial area of the expo">
+          <Container name="10_B_Air" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="10_B_Air" dubbingLanguage="english" namePrefix="faction_blufor_10_b_air" note="" participants="RC B Expo;" situation="player visits the aerial area of the expo">
             <Key ID="str_a3_faction_blufor_10_b_air_exb_0">
               <Original>The UH-80 Ghost Hawk is a medium-lift multi-role helicopter originally developed for special operations.</Original>
               <Chinese>UH-80"鬼鷹"是一臺多用途的中型運輸直升機，被開發來用在特種作戰上。</Chinese>
@@ -376,7 +376,7 @@
               <Chinesesimp>武装版本的V-44X"黑鱼"配备着40毫米，105毫米火炮以及使用高爆弹药的20毫米"米尼岗"机枪，使其能有效担任进攻或是防御的角色。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_B_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="05_B_Ground" dubbingLanguage="english" namePrefix="faction_blufor_05_b_ground" note=" participants="RC B Expo;" situation="player visits the ground vehicles area of the expo">
+          <Container name="05_B_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="05_B_Ground" dubbingLanguage="english" namePrefix="faction_blufor_05_b_ground" note="" participants="RC B Expo;" situation="player visits the ground vehicles area of the expo">
             <Key ID="str_a3_faction_blufor_05_b_ground_exb_0">
               <Original>The Scorcher M4 is a 155mm self-propelled gun with an advanced artillery computer.</Original>
               <Chinese>"炙烤者"M4是一臺配備有155公厘口徑大砲與先進射控電腦的自走砲。</Chinese>
@@ -403,7 +403,7 @@
               <Chinesesimp>武装版本的"徘徊者"装备着两挺.50与.338口径的机枪。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_B_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="01_B_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_blufor_01_b_expowelcome" note=" participants="RC B Expo;" situation="player starts the expo, offered introduction">
+          <Container name="01_B_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_blufor" dialogName="01_B_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_blufor_01_b_expowelcome" note="" participants="RC B Expo;" situation="player starts the expo, offered introduction">
             <Key ID="str_a3_faction_blufor_01_b_expowelcome_exb_0">
               <Original>Welcome to the NATO military expo.</Original>
               <Chinese>歡迎參加北約軍武展示大會。</Chinese>
@@ -422,7 +422,7 @@
           </Container>
         </Container>
         <Container name="Faction_OPFOR">
-          <Container name="x01_O_SafetyRegs" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="x01_O_SafetyRegs" dubbingLanguage="english" namePrefix="faction_opfor_x01_o_safetyregs" note=" participants="RC O Expo;" situation="player goes into a hazardous area">
+          <Container name="x01_O_SafetyRegs" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="x01_O_SafetyRegs" dubbingLanguage="english" namePrefix="faction_opfor_x01_o_safetyregs" note="" participants="RC O Expo;" situation="player goes into a hazardous area">
             <Key ID="str_a3_faction_opfor_x01_o_safetyregs_exo_0">
               <Original>Please respect expo regulations!</Original>
               <Chinese>請遵守展場規則!</Chinese>
@@ -444,7 +444,7 @@
               <Chinesesimp>参观者在限制区!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_O_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="25_O_Auto" dubbingLanguage="english" namePrefix="faction_opfor_25_o_auto" note=" participants="RC O Expo;" situation="player visits the weapons area of the expo">
+          <Container name="25_O_Auto" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="25_O_Auto" dubbingLanguage="english" namePrefix="faction_opfor_25_o_auto" note="" participants="RC O Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_opfor_25_o_auto_exo_0">
               <Original>The Tayran AR-2 is a miniature remote-controlled quadrocopter designed for recon and surveillance roles.</Original>
               <Chinese>"泰蘭"AR-2是一臺微型的遙控四軸飛行器，被設計用來做偵察與監視等任務。</Chinese>
@@ -471,7 +471,7 @@
               <Chinesesimp>它配备4枚空地导弹和激光指示器。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_O_Weapons" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="20_O_Weapons" dubbingLanguage="english" namePrefix="faction_opfor_20_o_weapons" note=" participants="RC O Expo;" situation="player visits the weapons area of the expo">
+          <Container name="20_O_Weapons" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="20_O_Weapons" dubbingLanguage="english" namePrefix="faction_opfor_20_o_weapons" note="" participants="RC O Expo;" situation="player visits the weapons area of the expo">
             <Key ID="str_a3_faction_opfor_20_o_weapons_exo_0">
               <Original>The Gepard GM6 Lynx is a semi-automatic anti-materiel rifle with advanced barrel recoil technology.</Original>
               <Chinese>"傑帕德"GM6"山貓"是一把半自動反物質步槍，配備先進的槍管後座力技術。</Chinese>
@@ -493,7 +493,7 @@
               <Chinesesimp>CMR-76是一把指定精准射手步枪，被配给于广协同盟的太平洋部队中。其架构使用气体传动机构与无托构造来组成一把半自动步枪。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_O_Water" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="15_O_Water" dubbingLanguage="english" namePrefix="faction_opfor_15_o_water" note=" participants="RC O Expo;" situation="player visits the naval area of the expo">
+          <Container name="15_O_Water" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="15_O_Water" dubbingLanguage="english" namePrefix="faction_opfor_15_o_water" note="" participants="RC O Expo;" situation="player visits the naval area of the expo">
             <Key ID="str_a3_faction_opfor_15_o_water_exo_0">
               <Original>The assault boat is a fast, lightweight, inflatable vessel used in a variety of roles.</Original>
               <Chinese>突擊艇擁有快速，輕量化，可充氣等特色，使他能在各種任務中扮演特殊角色。</Chinese>
@@ -510,7 +510,7 @@
               <Chinesesimp>快艇有前向的榴弹机枪塔，在后面会设置"米尼岗"机枪或重机枪。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_O_Air" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="10_O_Air" dubbingLanguage="english" namePrefix="faction_opfor_10_o_air" note=" participants="RC O Expo;" situation="player visits the aerial area of the expo">
+          <Container name="10_O_Air" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="10_O_Air" dubbingLanguage="english" namePrefix="faction_opfor_10_o_air" note="" participants="RC O Expo;" situation="player visits the aerial area of the expo">
             <Key ID="str_a3_faction_opfor_10_o_air_exo_0">
               <Original>The PO-30 Orca is a transport and utility helicopter, originally intended to replace the Mi-8.</Original>
               <Chinese>PO-3"逆戟鯨"是一臺多功能運輸直升機，原本計劃用來取代米-8。</Chinese>
@@ -537,7 +537,7 @@
               <Chinesesimp>两种版本的Y-32"西安"均配备着30毫米机炮，"天火"火箭弹与"手术刀"反坦克导弹。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_O_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="05_O_Ground" dubbingLanguage="english" namePrefix="faction_opfor_05_o_ground" note=" participants="RC O Expo;" situation="player visits the ground vehicles area of the expo">
+          <Container name="05_O_Ground" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="05_O_Ground" dubbingLanguage="english" namePrefix="faction_opfor_05_o_ground" note="" participants="RC O Expo;" situation="player visits the ground vehicles area of the expo">
             <Key ID="str_a3_faction_opfor_05_o_ground_exo_0">
               <Original>The MSE-3 Marid is a maneuverable, amphibious 6-wheeled APC.</Original>
               <Chinese>MSE-3"馬里德"是一臺具有高機動性，與兩棲作戰能力的6輪裝甲運兵車。</Chinese>
@@ -564,7 +564,7 @@
               <Chinesesimp>武装版本的"麒麟"可以运送7名士兵，并配有一挺6.5毫米"米尼岗"机枪。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_O_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="01_O_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_opfor_01_o_expowelcome" note=" participants="RC O Expo;" situation="player starts the expo, offered introduction">
+          <Container name="01_O_ExpoWelcome" audioFilePath="\a3\dubbing_f_gamma\faction_opfor" dialogName="01_O_ExpoWelcome" dubbingLanguage="english" namePrefix="faction_opfor_01_o_expowelcome" note="" participants="RC O Expo;" situation="player starts the expo, offered introduction">
             <Key ID="str_a3_faction_opfor_01_o_expowelcome_exo_0">
               <Original>Thank you for attending the CSAT military expo.</Original>
               <Chinese>感謝你來參加廣協同盟軍武展示大會。</Chinese>
@@ -583,7 +583,7 @@
           </Container>
         </Container>
         <Container name="Showcase_Gunships">
-          <Container name="x15_ReconDead" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x15_ReconDead" dubbingLanguage="english" namePrefix="showcase_gunships_x15_recondead" note=" participants="RC O Viper Green;RC O HQ;RC O Pilot;" situation="recon team gets killed.">
+          <Container name="x15_ReconDead" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x15_ReconDead" dubbingLanguage="english" namePrefix="showcase_gunships_x15_recondead" note="" participants="RC O Viper Green;RC O HQ;RC O Pilot;" situation="recon team gets killed.">
             <Key ID="str_a3_showcase_gunships_x15_recondead_grn_0">
               <Original>Griffin, this is Viper-Green! They have broken through our defenses! We can't hold out much longer!</Original>
               <Chinese>"獅鷲"，這裡是"毒蛇-綠"!他們打破了我們的防線!我們沒法再多守住一會兒了!</Chinese>
@@ -610,7 +610,7 @@
               <Chinesesimp>了解，"狮鹫"。调整航线中。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x10_ShotDown" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x10_ShotDown" dubbingLanguage="english" namePrefix="showcase_gunships_x10_shotdown" note=" participants="RC O Pilot;RC O HQ;" situation="player's helicopter was shot down.">
+          <Container name="x10_ShotDown" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x10_ShotDown" dubbingLanguage="english" namePrefix="showcase_gunships_x10_shotdown" note="" participants="RC O Pilot;RC O HQ;" situation="player's helicopter was shot down.">
             <Key ID="str_a3_showcase_gunships_x10_shotdown_ohq_0">
               <Original>Copy that, Hydra, we have your location. Dispatching rescue team. Out.</Original>
               <Chinese>收到，"九頭蛇"，我們有你的位置。派遣搜救隊中。通話完畢。</Chinese>
@@ -622,7 +622,7 @@
               <Chinesesimp>求救!求救!"九头蛇"正在坠落!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_PyrgosLost" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x01_PyrgosLost" dubbingLanguage="english" namePrefix="showcase_gunships_x01_pyrgoslost" note=" participants="RC O HQ;" situation="pyrgos was overrun.">
+          <Container name="x01_PyrgosLost" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x01_PyrgosLost" dubbingLanguage="english" namePrefix="showcase_gunships_x01_pyrgoslost" note="" participants="RC O HQ;" situation="pyrgos was overrun.">
             <Key ID="str_a3_showcase_gunships_x01_pyrgoslost_ohq_0">
               <Original>Griffin to all units, Pyrgos is lost. Our forces are pulling out.</Original>
               <Chinese>"獅鷲"致所有單位，皮爾戈斯已淪陷。我們的部隊正往後撤。</Chinese>
@@ -634,7 +634,7 @@
               <Chinesesimp>撤退至你们的防御位置。并等待更进一步的命令。"狮鹫"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="50_ReconSaved" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="50_ReconSaved" dubbingLanguage="english" namePrefix="showcase_gunships_50_reconsaved" note=" participants="RC O Pilot;RC O HQ;" situation="player successfully extracted viper.">
+          <Container name="50_ReconSaved" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="50_ReconSaved" dubbingLanguage="english" namePrefix="showcase_gunships_50_reconsaved" note="" participants="RC O Pilot;RC O HQ;" situation="player successfully extracted viper.">
             <Key ID="str_a3_showcase_gunships_50_reconsaved_ohq_0">
               <Original>Great work, Hydra. We will have a medical team standing by at the helipad. Griffin out.</Original>
               <Chinese>幹的好，"九頭蛇"。我們將會有一支醫療團隊在直升機停機坪旁待命。"獅鷲"通話完畢。</Chinese>
@@ -646,7 +646,7 @@
               <Chinesesimp>"狮鹫"，这里是"九头蛇"。"毒蛇-绿"已安全。返回基地中。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="40_ReconDistressCall" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="40_ReconDistressCall" dubbingLanguage="english" namePrefix="showcase_gunships_40_recondistresscall" note=" participants="RC O Viper Green;RC O HQ;RC O Pilot;" situation="recon team calls for help.">
+          <Container name="40_ReconDistressCall" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="40_ReconDistressCall" dubbingLanguage="english" namePrefix="showcase_gunships_40_recondistresscall" note="" participants="RC O Viper Green;RC O HQ;RC O Pilot;" situation="recon team calls for help.">
             <Key ID="str_a3_showcase_gunships_40_recondistresscall_grn_0">
               <Original>Viper-Green to Griffin! Viper-Green to Griffin! Do you copy?!</Original>
               <Chinese>"毒蛇-綠"呼叫"獅鷲"!"毒蛇-綠"呼叫"獅鷲"!是否收到?!</Chinese>
@@ -673,7 +673,7 @@
               <Chinesesimp>了解，"狮鹫"。更改航线中。"九头蛇"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_NewTasks" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="20_NewTasks" dubbingLanguage="english" namePrefix="showcase_gunships_20_newtasks" note=" participants="RC O HQ;RC O Pilot;" situation="griffin assigns the player two new tasks.">
+          <Container name="20_NewTasks" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="20_NewTasks" dubbingLanguage="english" namePrefix="showcase_gunships_20_newtasks" note="" participants="RC O HQ;RC O Pilot;" situation="griffin assigns the player two new tasks.">
             <Key ID="str_a3_showcase_gunships_20_newtasks_ohq_0">
               <Original>Hydra, proceed west into enemy territory. You have two objectives.</Original>
               <Chinese>"九頭蛇"，向西移動到敵軍的領土。你在那裡有兩個目標。</Chinese>
@@ -700,7 +700,7 @@
               <Chinesesimp>了解，"狮鹫"。都很清楚。开始向第一个目标进发。"九头蛇"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_PyrgosDefended" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="15_PyrgosDefended" dubbingLanguage="english" namePrefix="showcase_gunships_15_pyrgosdefended" note=" participants="RC O HQ;RC O Pilot;" situation="griffin informs the player that pyrgos is secure.">
+          <Container name="15_PyrgosDefended" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="15_PyrgosDefended" dubbingLanguage="english" namePrefix="showcase_gunships_15_pyrgosdefended" note="" participants="RC O HQ;RC O Pilot;" situation="griffin informs the player that pyrgos is secure.">
             <Key ID="str_a3_showcase_gunships_15_pyrgosdefended_ohq_0">
               <Original>Griffin to Hydra, Pyrgos reports enemy forces are in retreat.</Original>
               <Chinese>"獅鷲"致"九頭蛇"，皮爾戈斯回報敵軍已開始撤退。</Chinese>
@@ -717,7 +717,7 @@
               <Chinesesimp>待命中，"狮鹫"。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_InTheAir" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="05_InTheAir" dubbingLanguage="english" namePrefix="showcase_gunships_05_intheair" note=" participants="RC O Pilot;RC O HQ;" situation="player reports that he's airborne and en route.">
+          <Container name="05_InTheAir" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="05_InTheAir" dubbingLanguage="english" namePrefix="showcase_gunships_05_intheair" note="" participants="RC O Pilot;RC O HQ;" situation="player reports that he's airborne and en route.">
             <Key ID="str_a3_showcase_gunships_05_intheair_ohq_0">
               <Original>Good to hear, Hydra. Pyrgos is reporting an imminent amphibious assault. Griffin out.</Original>
               <Chinese>真高興聽見這消息，"九頭蛇"。皮爾戈斯回報現在已經快要發生兩棲登陸戰了。"獅鷲"通話完畢。</Chinese>
@@ -729,7 +729,7 @@
               <Chinesesimp>"狮鹫"，这里是"九头蛇"。我们升空了。正赶往目标。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_Prologue" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="01_Prologue" dubbingLanguage="english" namePrefix="showcase_gunships_01_prologue" note=" participants="RC O HQ;RC O Pilot;" situation="hydra riding to the airfield in a truck.">
+          <Container name="01_Prologue" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="01_Prologue" dubbingLanguage="english" namePrefix="showcase_gunships_01_prologue" note="" participants="RC O HQ;RC O Pilot;" situation="hydra riding to the airfield in a truck.">
             <Key ID="str_a3_showcase_gunships_01_prologue_ohq_0">
               <Original>Griffin to Hydra, what is your status? Over.</Original>
               <Chinese>"獅鷲"致"九頭蛇"，你的狀況怎樣?完畢。</Chinese>
@@ -751,7 +751,7 @@
               <Chinesesimp>正在靠近机场中，"狮鹫"，现在皮尔戈斯的状况如何?</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x25_ReconDead_Backup" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x25_ReconDead_Backup" dubbingLanguage="english" namePrefix="showcase_gunships_x25_recondead_backup" note=" participants="RC O Viper Green;RC O HQ;RC O Pilot;" situation="viper is dead. god job, idiot.">
+          <Container name="x25_ReconDead_Backup" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x25_ReconDead_Backup" dubbingLanguage="english" namePrefix="showcase_gunships_x25_recondead_backup" note="" participants="RC O Viper Green;RC O HQ;RC O Pilot;" situation="viper is dead. god job, idiot.">
             <Key ID="str_a3_showcase_gunships_x25_recondead_backup_grn_0">
               <Original>...</Original>
               <Chinese>...</Chinese>
@@ -773,7 +773,7 @@
               <Chinesesimp>了解，"狮鹫"。调整航线中。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x20_ReconDistressCall_Backup" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x20_ReconDistressCall_Backup" dubbingLanguage="english" namePrefix="showcase_gunships_x20_recondistresscall_backup" note=" participants="RC O HQ;RC O Pilot;" situation="base informs player about viper green in trouble">
+          <Container name="x20_ReconDistressCall_Backup" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x20_ReconDistressCall_Backup" dubbingLanguage="english" namePrefix="showcase_gunships_x20_recondistresscall_backup" note="" participants="RC O HQ;RC O Pilot;" situation="base informs player about viper green in trouble">
             <Key ID="str_a3_showcase_gunships_x20_recondistresscall_backup_ohq_0">
               <Original>Hydra, urgent message: one of our special operations teams is pinned down and requires immediate assistance.</Original>
               <Chinese>"九頭蛇"，緊急訊息:我們其中一支特種部隊正被壓制中，他們已經請求了立即支援。</Chinese>
@@ -790,7 +790,7 @@
               <Chinesesimp>了解，"狮鹫"。更改航线中。"九头蛇"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x05_OutOfAmmo" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x05_OutOfAmmo" dubbingLanguage="english" namePrefix="showcase_gunships_x05_outofammo" note=" participants="RC O Pilot;RC O HQ;" situation="player asks for a rearm.">
+          <Container name="x05_OutOfAmmo" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="x05_OutOfAmmo" dubbingLanguage="english" namePrefix="showcase_gunships_x05_outofammo" note="" participants="RC O Pilot;RC O HQ;" situation="player asks for a rearm.">
             <Key ID="str_a3_showcase_gunships_x05_outofammo_ohq_0">
               <Original>Our forces in Pyrgos should be able to help you, Hydra. Land there and they will take care of it. Out.</Original>
               <Chinese>我們在皮爾戈斯的部隊應該能幫助你，"九頭蛇"。降落在那邊然後他們就會給你彈藥了。通話完畢。</Chinese>
@@ -802,21 +802,21 @@
               <Chinesesimp>"九头蛇"致"狮鹫"，我们这里弹药快耗尽了。有什么地方可以给我们进行补给吗?完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="45_AllIn" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="45_AllIn" dubbingLanguage="english" namePrefix="showcase_gunships_45_allin" note=" participants="RC O Viper Green;" situation="viper tells the player they're all in.">
+          <Container name="45_AllIn" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="45_AllIn" dubbingLanguage="english" namePrefix="showcase_gunships_45_allin" note="" participants="RC O Viper Green;" situation="viper tells the player they're all in.">
             <Key ID="str_a3_showcase_gunships_45_allin_grn_0">
               <Original>We're all aboard! Go!</Original>
               <Chinese>我們都上機了!快走!</Chinese>
               <Chinesesimp>我们都上来了!快走!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="35_ObjectivesCompleted" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="35_ObjectivesCompleted" dubbingLanguage="english" namePrefix="showcase_gunships_35_objectivescompleted" note=" participants="RC O Pilot;" situation="player informs griffin that all objectives have been met.">
+          <Container name="35_ObjectivesCompleted" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="35_ObjectivesCompleted" dubbingLanguage="english" namePrefix="showcase_gunships_35_objectivescompleted" note="" participants="RC O Pilot;" situation="player informs griffin that all objectives have been met.">
             <Key ID="str_a3_showcase_gunships_35_objectivescompleted_pla_0">
               <Original>Hydra to Griffin, all objectives complete. Adjusting course back to Pyrgos, over.</Original>
               <Chinese>"九頭蛇"致"獅鷲"，所有目標皆已完成。將調整航線返回皮爾戈斯，完畢。</Chinese>
               <Chinesesimp>"九头蛇"致"狮鹫"，所有目标皆已完成。将调整航线返回皮尔戈斯，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="30_SPGsDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="30_SPGsDestroyed" dubbingLanguage="english" namePrefix="showcase_gunships_30_spgsdestroyed" note=" participants="RC O Pilot;RC O HQ;" situation="player destroyed the artillery platforms.">
+          <Container name="30_SPGsDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="30_SPGsDestroyed" dubbingLanguage="english" namePrefix="showcase_gunships_30_spgsdestroyed" note="" participants="RC O Pilot;RC O HQ;" situation="player destroyed the artillery platforms.">
             <Key ID="str_a3_showcase_gunships_30_spgsdestroyed_ohq_0">
               <Original>Roger. Good work, Hydra. Out.</Original>
               <Chinese>了解。幹的好，"九頭蛇"。通話完畢。</Chinese>
@@ -828,7 +828,7 @@
               <Chinesesimp>"九头蛇"致"狮鹫"，所有火炮都被摧毁。继续按任务计划进行，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_NavalBaseDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="25_NavalBaseDestroyed" dubbingLanguage="english" namePrefix="showcase_gunships_25_navalbasedestroyed" note=" participants="RC O Pilot;RC O HQ;" situation="player destroyed the naval base.">
+          <Container name="25_NavalBaseDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="25_NavalBaseDestroyed" dubbingLanguage="english" namePrefix="showcase_gunships_25_navalbasedestroyed" note="" participants="RC O Pilot;RC O HQ;" situation="player destroyed the naval base.">
             <Key ID="str_a3_showcase_gunships_25_navalbasedestroyed_ohq_0">
               <Original>Roger that, Hydra. Keep us posted. Griffin out.</Original>
               <Chinese>了解，"九頭蛇"。保持聯繫。"獅鷲"通話完畢。</Chinese>
@@ -840,7 +840,7 @@
               <Chinesesimp>"狮鹫"，请注意，我们已经歼灭了敌军的海军基地。往下一个目标前进，完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_Contact" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="10_Contact" dubbingLanguage="english" namePrefix="showcase_gunships_10_contact" note=" participants="RC O Pilot;" situation="first contact with the enemy.">
+          <Container name="10_Contact" audioFilePath="\a3\dubbing_f_gamma\showcase_gunships" dialogName="10_Contact" dubbingLanguage="english" namePrefix="showcase_gunships_10_contact" note="" participants="RC O Pilot;" situation="first contact with the enemy.">
             <Key ID="str_a3_showcase_gunships_10_contact_pla_0">
               <Original>We have several enemy contacts on radar. Prepare to engage.</Original>
               <Chinese>我們有多起敵軍雷達回報。準備好接戰。</Chinese>
@@ -849,7 +849,7 @@
           </Container>
         </Container>
         <Container name="Showcase_Drones">
-          <Container name="x10_DronesDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x10_DronesDestroyed" dubbingLanguage="english" namePrefix="showcase_drones_x10_dronesdestroyed" note=" participants="RC B Fox;RC B Rook;RC B Bishop;" situation="fox comments on the stomper being destroyed.">
+          <Container name="x10_DronesDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x10_DronesDestroyed" dubbingLanguage="english" namePrefix="showcase_drones_x10_dronesdestroyed" note="" participants="RC B Fox;RC B Rook;RC B Bishop;" situation="fox comments on the stomper being destroyed.">
             <Key ID="str_a3_showcase_drones_x10_dronesdestroyed_pla_0">
               <Original>Rook, be advised, we just lost the last drone. Over.</Original>
               <Chinese>"白嘴鴉"，請注意，我們剛失去了最後一架無人載具。完畢。</Chinese>
@@ -876,7 +876,7 @@
               <Chinesesimp>"狐狸"-除非你能找到方法来挽救这个烂摊子-不然就直接撤回"白嘴鸦"的位置。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x30_NoMates" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x30_NoMates" dubbingLanguage="english" namePrefix="showcase_drones_x30_nomates" note=" participants="RC B Rook;RC B Fox;" situation="bishop informs fox that they're out of time and the assault has been called off.">
+          <Container name="x30_NoMates" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x30_NoMates" dubbingLanguage="english" namePrefix="showcase_drones_x30_nomates" note="" participants="RC B Rook;RC B Fox;" situation="bishop informs fox that they're out of time and the assault has been called off.">
             <Key ID="str_a3_showcase_drones_x30_nomates_pla_0">
               <Original>They're - I took a different route. It was my call.</Original>
               <Chinese>他們-我挑了一個不一樣的路線。這都是我的錯。</Chinese>
@@ -903,7 +903,7 @@
               <Chinesesimp>我们将会慢一点抵达撤离点。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x25_OutOfTime" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x25_OutOfTime" dubbingLanguage="english" namePrefix="showcase_drones_x25_outoftime" note=" participants="RC B Bishop;" situation="bishop informs fox that they're out of time and the assault has been called off.">
+          <Container name="x25_OutOfTime" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x25_OutOfTime" dubbingLanguage="english" namePrefix="showcase_drones_x25_outoftime" note="" participants="RC B Bishop;" situation="bishop informs fox that they're out of time and the assault has been called off.">
             <Key ID="str_a3_showcase_drones_x25_outoftime_sho_0">
               <Original>Rook, Fox, this is Bishop. We've got to pull you out. Operation scrubbed.</Original>
               <Chinese>"白嘴鴉"，"狐狸"，這裡是"主教"。我們必須把你們撤回來了。任務取消。</Chinese>
@@ -915,7 +915,7 @@
               <Chinesesimp>撤回会合点后向撤退点前进。现在马上行动，先生们。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x20_OutOfTimeWarning" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x20_OutOfTimeWarning" dubbingLanguage="english" namePrefix="showcase_drones_x20_outoftimewarning" note=" participants="RC B Rook;RC B Fox;RC B Bishop;" situation="bishop informs fox that they're out of time and the assault has been called off.">
+          <Container name="x20_OutOfTimeWarning" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x20_OutOfTimeWarning" dubbingLanguage="english" namePrefix="showcase_drones_x20_outoftimewarning" note="" participants="RC B Rook;RC B Fox;RC B Bishop;" situation="bishop informs fox that they're out of time and the assault has been called off.">
             <Key ID="str_a3_showcase_drones_x20_outoftimewarning_pla_0">
               <Original>Negative, Rook. We're still in progress. Over.</Original>
               <Chinese>否定，"白嘴鴉"。我們還在進行當中。完畢。</Chinese>
@@ -932,14 +932,14 @@
               <Chinesesimp>快一点。这一行动最关键的就是时间。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x15_HVTLeft" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x15_HVTLeft" dubbingLanguage="english" namePrefix="showcase_drones_x15_hvtleft" note=" participants="RC B Bishop;" situation="bishop informs bishop that the enemy commander escaped.">
+          <Container name="x15_HVTLeft" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x15_HVTLeft" dubbingLanguage="english" namePrefix="showcase_drones_x15_hvtleft" note="" participants="RC B Bishop;" situation="bishop informs bishop that the enemy commander escaped.">
             <Key ID="str_a3_showcase_drones_x15_hvtleft_sho_0">
               <Original>Fox, update, Pegasus has left your operational area. Objective cancelled. Out.</Original>
               <Chinese>"狐狸"，狀況更新，"飛馬"已經離開了你們的任務區域。目標取消。通話完畢。</Chinese>
               <Chinesesimp>"狐狸"，状况更新，"飞马"已经离开了你们的任务区域。目标取消。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x05_UGVDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x05_UGVDestroyed" dubbingLanguage="english" namePrefix="showcase_drones_x05_ugvdestroyed" note=" participants="RC B Fox;RC B Rook;" situation="fox comments on the stomper being destroyed.">
+          <Container name="x05_UGVDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x05_UGVDestroyed" dubbingLanguage="english" namePrefix="showcase_drones_x05_ugvdestroyed" note="" participants="RC B Fox;RC B Rook;" situation="fox comments on the stomper being destroyed.">
             <Key ID="str_a3_showcase_drones_x05_ugvdestroyed_pla_0">
               <Original>Rook, be advised, we just lost the UGV. Over.</Original>
               <Chinese>"白嘴鴉"，請注意，我們剛失去我們的地面無人載具。完畢。</Chinese>
@@ -951,7 +951,7 @@
               <Chinesesimp>该死...好吧，了解了。请小心。继续你们的任务。把它搞定，"狐狸"。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_UAVDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x01_UAVDestroyed" dubbingLanguage="english" namePrefix="showcase_drones_x01_uavdestroyed" note=" participants="RC B Fox;RC B Rook;" situation="fox comments on the skylark being destroyed.">
+          <Container name="x01_UAVDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="x01_UAVDestroyed" dubbingLanguage="english" namePrefix="showcase_drones_x01_uavdestroyed" note="" participants="RC B Fox;RC B Rook;" situation="fox comments on the skylark being destroyed.">
             <Key ID="str_a3_showcase_drones_x01_uavdestroyed_pla_0">
               <Original>Rook, be advised, we just lost the bird. Over.</Original>
               <Chinese>"白嘴鴉"，請注意，我們剛失去我們的飛行器。完畢。</Chinese>
@@ -963,7 +963,7 @@
               <Chinesesimp>该死...好吧，了解了。请小心。继续你们的任务。把它搞定，"狐狸"。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="30_ExfilRV" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="30_ExfilRV" dubbingLanguage="english" namePrefix="showcase_drones_30_exfilrv" note=" participants="RC B Rook;RC B Bishop;" situation="bishop orders fox to exfil and other squads to engage.">
+          <Container name="30_ExfilRV" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="30_ExfilRV" dubbingLanguage="english" namePrefix="showcase_drones_30_exfilrv" note="" participants="RC B Rook;RC B Bishop;" situation="bishop orders fox to exfil and other squads to engage.">
             <Key ID="str_a3_showcase_drones_30_exfilrv_rok_0">
               <Original>Alright, move it. Get in the vehicle.</Original>
               <Chinese>好的，快移動。進入載具。</Chinese>
@@ -980,7 +980,7 @@
               <Chinesesimp>了解。各组都有，开始前往撤离点。让我们离开这个地方。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_ExfilNotification" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="25_ExfilNotification" dubbingLanguage="english" namePrefix="showcase_drones_25_exfilnotification" note=" participants="RC B Fox;RC B Rook;" situation="bishop orders fox to exfil and other squads to engage.">
+          <Container name="25_ExfilNotification" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="25_ExfilNotification" dubbingLanguage="english" namePrefix="showcase_drones_25_exfilnotification" note="" participants="RC B Fox;RC B Rook;" situation="bishop orders fox to exfil and other squads to engage.">
             <Key ID="str_a3_showcase_drones_25_exfilnotification_pla_0">
               <Original>Rook, be advised, approaching your position. Eyes open, finger off the trigger. Over.</Original>
               <Chinese>"白嘴鴉"，請注意，正在接近你們位置中。注意一點，手指請離開板機。完畢。</Chinese>
@@ -992,7 +992,7 @@
               <Chinesesimp>了解，"狐狸"。直接过来就是了。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_AADestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="20_AADestroyed" dubbingLanguage="english" namePrefix="showcase_drones_20_aadestroyed" note=" participants="RC B Fox;RC B Bishop;" situation="fox reports to bishop that both aa sites have been neutralized.">
+          <Container name="20_AADestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="20_AADestroyed" dubbingLanguage="english" namePrefix="showcase_drones_20_aadestroyed" note="" participants="RC B Fox;RC B Bishop;" situation="fox reports to bishop that both aa sites have been neutralized.">
             <Key ID="str_a3_showcase_drones_20_aadestroyed_pla_0">
               <Original>Bishop, this is Fox. Be advised, both enemy AA sites neutralized. Over.</Original>
               <Chinese>"主教"，這裡是"狐狸"。請注意，全部的防空陣地皆已殲滅。完畢。</Chinese>
@@ -1004,7 +1004,7 @@
               <Chinesesimp>干的好。与"白嘴鸦"会合后往撤离点移动。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_HVTDown" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="15_HVTDown" dubbingLanguage="english" namePrefix="showcase_drones_15_hvtdown" note=" participants="RC B Fox;RC B Bishop;" situation="fox reports that he's taken out the high value target.">
+          <Container name="15_HVTDown" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="15_HVTDown" dubbingLanguage="english" namePrefix="showcase_drones_15_hvtdown" note="" participants="RC B Fox;RC B Bishop;" situation="fox reports that he's taken out the high value target.">
             <Key ID="str_a3_showcase_drones_15_hvtdown_pla_0">
               <Original>Bishop, update, Pegasus neutralized. Over.</Original>
               <Chinese>"主教"，狀況更新，"飛馬"已殲滅。完畢。</Chinese>
@@ -1016,7 +1016,7 @@
               <Chinesesimp>干的好，"狐狸"。所有单位，请注意，"飞马"已解决。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_HVT" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="10_HVT" dubbingLanguage="english" namePrefix="showcase_drones_10_hvt" note=" participants="RC B Bishop;RC B Fox;" situation="high value target operating in the area">
+          <Container name="10_HVT" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="10_HVT" dubbingLanguage="english" namePrefix="showcase_drones_10_hvt" note="" participants="RC B Bishop;RC B Fox;" situation="high value target operating in the area">
             <Key ID="str_a3_showcase_drones_10_hvt_pla_0">
               <Original>Understood, Bishop, no risks. Out.</Original>
               <Chinese>了解，"主教"，不會有風險的。通話完畢。</Chinese>
@@ -1033,7 +1033,7 @@
               <Chinesesimp>允许交战，但不要搞砸任务。了解吗?</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_Regrouped" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="05_Regrouped" dubbingLanguage="english" namePrefix="showcase_drones_05_regrouped" note=" participants="RC B Fox;RC B Bishop;" situation="fox checks in after linking up with rest of his team.">
+          <Container name="05_Regrouped" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="05_Regrouped" dubbingLanguage="english" namePrefix="showcase_drones_05_regrouped" note="" participants="RC B Fox;RC B Bishop;" situation="fox checks in after linking up with rest of his team.">
             <Key ID="str_a3_showcase_drones_05_regrouped_pla_0">
               <Original>Bishop, this is Fox, I've regrouped with my team. Over.</Original>
               <Chinese>"主教"，這裡是"狐狸"，我已經與我的隊員會合了。完畢。</Chinese>
@@ -1045,7 +1045,7 @@
               <Chinesesimp>确认，"狐狸"。加快速度。我们必须在时间内完成任务。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="03_GetItGotIt" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="03_GetItGotIt" dubbingLanguage="english" namePrefix="showcase_drones_03_getitgotit" note=" participants="RC B Rook;RC B Fox;" situation="fox knows, ok.">
+          <Container name="03_GetItGotIt" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="03_GetItGotIt" dubbingLanguage="english" namePrefix="showcase_drones_03_getitgotit" note="" participants="RC B Rook;RC B Fox;" situation="fox knows, ok.">
             <Key ID="str_a3_showcase_drones_03_getitgotit_pla_0">
               <Original>Yeah, I got it.</Original>
               <Chinese>是呀，我收到了。</Chinese>
@@ -1062,7 +1062,7 @@
               <Chinesesimp>Ok，我会在这里。等你们成功后通知我。祝好运。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_Situation" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="01_Situation" dubbingLanguage="english" namePrefix="showcase_drones_01_situation" note=" participants="RC B Rook;RC B Bishop;" situation="rook giving a sitrep to bishop">
+          <Container name="01_Situation" audioFilePath="\a3\dubbing_f_gamma\showcase_drones" dialogName="01_Situation" dubbingLanguage="english" namePrefix="showcase_drones_01_situation" note="" participants="RC B Rook;RC B Bishop;" situation="rook giving a sitrep to bishop">
             <Key ID="str_a3_showcase_drones_01_situation_rok_0">
               <Original>Bishop, this is Rook. We're in position.</Original>
               <Chinese>"主教"，這裡是"白嘴鴉"。我們已就定位了。</Chinese>
@@ -1081,7 +1081,7 @@
           </Container>
         </Container>
         <Container name="Showcase_Tanks">
-          <Container name="x05_KeepGoing" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="x05_KeepGoing" dubbingLanguage="english" namePrefix="showcase_tanks_x05_keepgoing" note=" participants="RC B Nomad Lead;" situation="generic motivational line">
+          <Container name="x05_KeepGoing" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="x05_KeepGoing" dubbingLanguage="english" namePrefix="showcase_tanks_x05_keepgoing" note="" participants="RC B Nomad Lead;" situation="generic motivational line">
             <Key ID="str_a3_showcase_tanks_x05_keepgoing_nom_0">
               <Original>Ok, Nomads! Keep it up!</Original>
               <Chinese>Ok，"游牧民"!繼續努力!</Chinese>
@@ -1093,14 +1093,14 @@
               <Chinesesimp>让我们再往南推进!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x01_WhereYouGo" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="x01_WhereYouGo" dubbingLanguage="english" namePrefix="showcase_tanks_x01_whereyougo" note=" participants="RC B Nomad Lead;" situation="generic player fucking around handling">
+          <Container name="x01_WhereYouGo" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="x01_WhereYouGo" dubbingLanguage="english" namePrefix="showcase_tanks_x01_whereyougo" note="" participants="RC B Nomad Lead;" situation="generic player fucking around handling">
             <Key ID="str_a3_showcase_tanks_x01_whereyougo_nom_0">
               <Original>Nomad-2, what's your status? We're still waiting for you up here. Get a move on!</Original>
               <Chinese>"游牧民"-2"，你的狀況如何?我們還在這邊等你。快點過來!</Chinese>
               <Chinesesimp>"游牧民"-2"，你的状况如何?我们还在这边等你。快点过来!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_Village_Seized" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="10_Village_Seized" dubbingLanguage="english" namePrefix="showcase_tanks_10_village_seized" note=" participants="RC B Nomad Lead;RC B HQ;" situation="molos seized, mission complete">
+          <Container name="10_Village_Seized" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="10_Village_Seized" dubbingLanguage="english" namePrefix="showcase_tanks_10_village_seized" note="" participants="RC B Nomad Lead;RC B HQ;" situation="molos seized, mission complete">
             <Key ID="str_a3_showcase_tanks_10_village_seized_bhq_0">
               <Original>Copy that. Charlie's en route. Papa Bear out.</Original>
               <Chinese>收到。"Charlie's"已開始移動。"熊爸爸"通話完畢。</Chinese>
@@ -1112,7 +1112,7 @@
               <Chinesesimp>"熊爸爸"，这里是"游牧民"。目标已安全，你可以开始派遣清理小组了。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_Meeting" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="05_Meeting" dubbingLanguage="english" namePrefix="showcase_tanks_05_meeting" note=" participants="RC B Nomad Lead;" situation="platoon complete, heading to battle">
+          <Container name="05_Meeting" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="05_Meeting" dubbingLanguage="english" namePrefix="showcase_tanks_05_meeting" note="" participants="RC B Nomad Lead;" situation="platoon complete, heading to battle">
             <Key ID="str_a3_showcase_tanks_05_meeting_nom_0">
               <Original>Ok, all Nomads, listen up! Good news is our AA's keeping their air support options limited.</Original>
               <Chinese>Ok，全"游牧民"隊員，聽好了!好消息是我們的防空砲一直讓對方的空中支援選擇有限。</Chinese>
@@ -1134,7 +1134,7 @@
               <Chinesesimp>所以要持续警戒。保持队形。我们上吧。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_Intro" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="01_Intro" dubbingLanguage="english" namePrefix="showcase_tanks_01_intro" note=" participants="RC B Nomad Lead;RC B Tank Driver;" situation="mission start, player reports to his platoon">
+          <Container name="01_Intro" audioFilePath="\a3\dubbing_f_gamma\showcase_tanks" dialogName="01_Intro" dubbingLanguage="english" namePrefix="showcase_tanks_01_intro" note="" participants="RC B Nomad Lead;RC B Tank Driver;" situation="mission start, player reports to his platoon">
             <Key ID="str_a3_showcase_tanks_01_intro_nom_0">
               <Original>Acknowledged, we saw you landing. Get yourselves into gear and link up with us on the frontline.</Original>
               <Chinese>已確認，我們剛看到你降落了。進入你的坦克後到前線與我們會合。</Chinese>
@@ -1153,26 +1153,26 @@
           </Container>
         </Container>
         <Container name="Showcase_Armed_Assault">
-          <Container name="40_JoinAssault" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="40_JoinAssault" dubbingLanguage="english" namePrefix="showcase_armed_assault_40_joinassault" note=" participants="RC B HQ;" situation="alpha team leader let's his team members know they will now join the main assault on the enemy base">
+          <Container name="40_JoinAssault" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="40_JoinAssault" dubbingLanguage="english" namePrefix="showcase_armed_assault_40_joinassault" note="" participants="RC B HQ;" situation="alpha team leader let's his team members know they will now join the main assault on the enemy base">
             <Key ID="str_a3_showcase_armed_assault_40_joinassault_bhq_0">
               <Original>Bravo, lock down the outpost. Sweep AO for casualties.</Original>
               <Chinese>"Bravo"，封鎖前哨。然後掃視行動區域內的傷亡。</Chinese>
               <Chinesesimp>"布拉沃"，封锁前哨。然后打扫作战区域清点伤亡。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_40_joinassault_bhq_1">
-              <Original>Alpha, "Echo", move up and support Nomad. Papa Bear out.</Original>
+              <Original>Alpha, Echo, move up and support Nomad. Papa Bear out.</Original>
               <Chinese>"Alpha"，"Echo"，移動並支援"游牧民"。"熊爸爸"通話完畢。</Chinese>
               <Chinesesimp>"阿尔法"，"回声"，移动并支援"游牧民"。"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x45_"Echo"Destroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x45_"Echo"Destroyed" dubbingLanguage="english" namePrefix="showcase_armed_assault_x45_echodestroyed" note=" participants="RC B HQ;" situation="hq tells player that they lost contact with echo team">
+          <Container name="x45_EchoDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x45_EchoDestroyed" dubbingLanguage="english" namePrefix="showcase_armed_assault_x45_echodestroyed" note="" participants="RC B HQ;" situation="hq tells player that they lost contact with echo team">
             <Key ID="str_a3_showcase_armed_assault_x45_echodestroyed_bhq_0">
-              <Original>Alpha, be advised, we can't raise "Echo". Presumed KIA. Papa Bear out.</Original>
+              <Original>Alpha, be advised, we can't raise Echo. Presumed KIA. Papa Bear out.</Original>
               <Chinese>"Alpha"，請注意，我們已經與"Echo"失去聯繫。可能全員陣亡了。"熊爸爸"通話完畢。</Chinese>
               <Chinesesimp>"阿尔法"，请注意，我们已经与"回声"失去联系。推断全员阵亡。"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x40_MinefieldImpossible" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x40_MinefieldImpossible" dubbingLanguage="english" namePrefix="showcase_armed_assault_x40_minefieldimpossible" note=" participants="RC B Kerry;RC B Alpha Lead;" situation="hq orders player to defuse the minefield but he lost his toolkit">
+          <Container name="x40_MinefieldImpossible" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x40_MinefieldImpossible" dubbingLanguage="english" namePrefix="showcase_armed_assault_x40_minefieldimpossible" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="hq orders player to defuse the minefield but he lost his toolkit">
             <Key ID="str_a3_showcase_armed_assault_x40_minefieldimpossible_alp_0">
               <Original>Corporal Kerry, can you assist? Over.</Original>
               <Chinese>克里下士，你能支援嗎?完畢。</Chinese>
@@ -1194,7 +1194,7 @@
               <Chinesesimp>恕难从命，长官。我-我没有带着我的工具包，长官。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x35_DestroyArty" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x35_DestroyArty" dubbingLanguage="english" namePrefix="showcase_armed_assault_x35_destroyarty" note=" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader orders player to destroy arty vehicle">
+          <Container name="x35_DestroyArty" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x35_DestroyArty" dubbingLanguage="english" namePrefix="showcase_armed_assault_x35_destroyarty" note="" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader orders player to destroy arty vehicle">
             <Key ID="str_a3_showcase_armed_assault_x35_destroyarty_alp_0">
               <Original>Kerry, we need to put that gun out of action. Set up your charges.</Original>
               <Chinese>克里，我們必須讓這些火砲失去作用。設置你的炸藥。</Chinese>
@@ -1211,7 +1211,7 @@
               <Chinesesimp>正在做了，长官。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x30_DestroyAa" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x30_DestroyAa" dubbingLanguage="english" namePrefix="showcase_armed_assault_x30_destroyaa" note=" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader orders player to destroy aa vehicle">
+          <Container name="x30_DestroyAa" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x30_DestroyAa" dubbingLanguage="english" namePrefix="showcase_armed_assault_x30_destroyaa" note="" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader orders player to destroy aa vehicle">
             <Key ID="str_a3_showcase_armed_assault_x30_destroyaa_alp_0">
               <Original>Kerry, we need to put that AAA out of action. Set up your charges.</Original>
               <Chinese>克里，我們必須讓這些高射炮失去作用。設置你的炸藥。</Chinese>
@@ -1228,7 +1228,7 @@
               <Chinesesimp>正在做了，长官。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x20_DestroyVehiclesHurryUp" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x20_DestroyVehiclesHurryUp" dubbingLanguage="english" namePrefix="showcase_armed_assault_x20_destroyvehicleshurryup" note=" participants="RC B Alpha Lead;" situation="alpha squad leader order player to destroy the vehicles asap">
+          <Container name="x20_DestroyVehiclesHurryUp" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x20_DestroyVehiclesHurryUp" dubbingLanguage="english" namePrefix="showcase_armed_assault_x20_destroyvehicleshurryup" note="" participants="RC B Alpha Lead;" situation="alpha squad leader order player to destroy the vehicles asap">
             <Key ID="str_a3_showcase_armed_assault_x20_destroyvehicleshurryup_alp_0">
               <Original>Corporal Kerry, get a move on!</Original>
               <Chinese>克里下士，開始動作!</Chinese>
@@ -1240,7 +1240,7 @@
               <Chinesesimp>我们需要解决那些车辆，尽快!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x15_HeavyCasualtiesTeamRoadBlockWin" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x15_HeavyCasualtiesTeamRoadBlockWin" dubbingLanguage="english" namePrefix="showcase_armed_assault_x15_heavycasualtiesteamroadblockwin" note=" participants="RC B Kerry;RC B Alpha Lead;" situation="player tells alpha squad leader that he was able to secure the road block all by himself">
+          <Container name="x15_HeavyCasualtiesTeamRoadBlockWin" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x15_HeavyCasualtiesTeamRoadBlockWin" dubbingLanguage="english" namePrefix="showcase_armed_assault_x15_heavycasualtiesteamroadblockwin" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="player tells alpha squad leader that he was able to secure the road block all by himself">
             <Key ID="str_a3_showcase_armed_assault_x15_heavycasualtiesteamroadblockwin_alp_0">
               <Original>Say again, Corporal Kerry? Road block is clear? Over.</Original>
               <Chinese>再說一次，克里下士?路障清除了?完畢。</Chinese>
@@ -1262,7 +1262,7 @@
               <Chinesesimp>我看到一丝机会，长官，而且我把握住了。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x10_HeavyCasualtiesTeamRoadBlock" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x10_HeavyCasualtiesTeamRoadBlock" dubbingLanguage="english" namePrefix="showcase_armed_assault_x10_heavycasualtiesteamroadblock" note=" participants="RC B Kerry;RC B Alpha Lead;" situation="player tells alpha squad leader that all his team members are dead">
+          <Container name="x10_HeavyCasualtiesTeamRoadBlock" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x10_HeavyCasualtiesTeamRoadBlock" dubbingLanguage="english" namePrefix="showcase_armed_assault_x10_heavycasualtiesteamroadblock" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="player tells alpha squad leader that all his team members are dead">
             <Key ID="str_a3_showcase_armed_assault_x10_heavycasualtiesteamroadblock_alp_0">
               <Original>Dammit, we needed that flank secured.</Original>
               <Chinese>該死，我們必須確保那邊是安全的。</Chinese>
@@ -1284,7 +1284,7 @@
               <Chinesesimp>"熊爸爸"，请注意，"阿尔法"有重大伤亡。路障未肃清-我重复一次-路障未肃清。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x05_HeavyCasualtiesTeamFactory" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x05_HeavyCasualtiesTeamFactory" dubbingLanguage="english" namePrefix="showcase_armed_assault_x05_heavycasualtiesteamfactory" note=" participants="RC B Kerry;RC B Alpha Lead;" situation="player tells alpha squad leader that all his team members are dead">
+          <Container name="x05_HeavyCasualtiesTeamFactory" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x05_HeavyCasualtiesTeamFactory" dubbingLanguage="english" namePrefix="showcase_armed_assault_x05_heavycasualtiesteamfactory" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="player tells alpha squad leader that all his team members are dead">
             <Key ID="str_a3_showcase_armed_assault_x05_heavycasualtiesteamfactory_alp_0">
               <Original>Dammit, we needed that flank secured.</Original>
               <Chinese>該死，我們必須確保那邊是安全的。</Chinese>
@@ -1306,7 +1306,7 @@
               <Chinesesimp>"熊爸爸"，请注意，"阿尔法"有重大伤亡。工业区未肃清-我重复一次-工业区未肃清。反坦克威胁依然存在。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="x00_HeavyCasualtiesSquad" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x00_HeavyCasualtiesSquad" dubbingLanguage="english" namePrefix="showcase_armed_assault_x00_heavycasualtiessquad" note=" participants="RC B HQ;RC B Alpha Lead;" situation="alpha leader tells hq that his squad has taken too many casualties, hq orders them to fall back">
+          <Container name="x00_HeavyCasualtiesSquad" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="x00_HeavyCasualtiesSquad" dubbingLanguage="english" namePrefix="showcase_armed_assault_x00_heavycasualtiessquad" note="" participants="RC B HQ;RC B Alpha Lead;" situation="alpha leader tells hq that his squad has taken too many casualties, hq orders them to fall back">
             <Key ID="str_a3_showcase_armed_assault_x00_heavycasualtiessquad_alp_0">
               <Original>Papa Bear, we've taken too many casualties, we've got to abort! Over!</Original>
               <Chinese>"熊爸爸"，我們已經傷亡太多了，我們必須撤退!完畢!</Chinese>
@@ -1318,7 +1318,7 @@
               <Chinesesimp>该死，"阿尔法"。撤退。我重覆一次，撤退!通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="95_Ending" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="95_Ending" dubbingLanguage="english" namePrefix="showcase_armed_assault_95_ending" note=" participants="RC B HQ;" situation="hq gives a brief sitrep before mission ends">
+          <Container name="95_Ending" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="95_Ending" dubbingLanguage="english" namePrefix="showcase_armed_assault_95_ending" note="" participants="RC B HQ;" situation="hq gives a brief sitrep before mission ends">
             <Key ID="str_a3_showcase_armed_assault_95_ending_bhq_0">
               <Original>Ok, Kilo-8, move in and clear that wreck out of the way.</Original>
               <Chinese>Ok，"Kilo-8"，移動並清理那擋在路面上的殘骸。</Chinese>
@@ -1330,7 +1330,7 @@
               <Chinesesimp>让那些卡车开始移动;我们要开始向北推进了!"熊爸爸"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="90_MinefieldDefused" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="90_MinefieldDefused" dubbingLanguage="english" namePrefix="showcase_armed_assault_90_minefielddefused" note=" participants="RC B HQ;RC B Kerry;" situation="player tells hq that the minefield is defused">
+          <Container name="90_MinefieldDefused" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="90_MinefieldDefused" dubbingLanguage="english" namePrefix="showcase_armed_assault_90_minefielddefused" note="" participants="RC B HQ;RC B Kerry;" situation="player tells hq that the minefield is defused">
             <Key ID="str_a3_showcase_armed_assault_90_minefielddefused_bhq_0">
               <Original>Copy that. Outstanding work, Alpha-5. Out.</Original>
               <Chinese>收到。幹的好，"Alpha-5"。通話完畢。</Chinese>
@@ -1342,7 +1342,7 @@
               <Chinesesimp>"熊爸爸"，状况更新，地雷已解除。道路已净空。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="85_Minefield" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="85_Minefield" dubbingLanguage="english" namePrefix="showcase_armed_assault_85_minefield" note=" participants="RC B HQ;RC B Kerry;" situation="logistics hit a mine field and find that more mines are still active in the area, player is sent to defuse them">
+          <Container name="85_Minefield" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="85_Minefield" dubbingLanguage="english" namePrefix="showcase_armed_assault_85_minefield" note="" participants="RC B HQ;RC B Kerry;" situation="logistics hit a mine field and find that more mines are still active in the area, player is sent to defuse them">
             <Key ID="str_a3_showcase_armed_assault_85_minefield_bhq_0">
               <Original>Copy that. It's imperative we get these supplies moving, Alpha-5.</Original>
               <Chinese>收到。我們必須讓這些補給卡車移動，"Alpha"-5。</Chinese>
@@ -1359,29 +1359,29 @@
               <Chinesesimp>"熊爸爸"，这里是"阿尔法"-5，如果有需要帮忙的话我人在附近。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="80_LogisticsMinefield" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="80_LogisticsMinefield" dubbingLanguage="english" namePrefix="showcase_armed_assault_80_logisticsminefield" note=" participants="RC B HQ;RC B Kerry;RC B "Kilo" Lead;" situation="logistics hit a mine field and find that more mines are still active in the area, player is sent to defuse them">
+          <Container name="80_LogisticsMinefield" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="80_LogisticsMinefield" dubbingLanguage="english" namePrefix="showcase_armed_assault_80_logisticsminefield" note="" participants="RC B HQ;RC B Kerry;RC B Kilo Lead;" situation="logistics hit a mine field and find that more mines are still active in the area, player is sent to defuse them">
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_bhq_0">
-              <Original>Roger that, "Kilo". Status report?</Original>
+              <Original>Roger that, Kilo. Status report?</Original>
               <Chinese>收到，"Kilo"。狀況回報?</Chinese>
               <Chinesesimp>收到，"基洛"。状态报告?</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_bhq_1">
-              <Original>Acknowledged, "Kilo". Wait one.</Original>
+              <Original>Acknowledged, Kilo. Wait one.</Original>
               <Chinese>了解，"Kilo"。請稍等。</Chinese>
               <Chinesesimp>了解，"基洛"。请稍等。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_kil_0">
-              <Original>Shit! Papa Bear, this is "Kilo"! Our lead vehicle's just hit a mine, over.</Original>
+              <Original>Shit! Papa Bear, this is Kilo! Our lead vehicle's just hit a mine, over.</Original>
               <Chinese>天殺的!"熊爸爸"，這裡是"Kilo"!我們的領頭車剛被一個地雷擊中，完畢。</Chinese>
               <Chinesesimp>天杀的!"熊爸爸"，这里是"基洛"!我们的头车刚压中了地雷，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_80_logisticsminefield_kil_1">
-              <Original>We're fine - "Kilo"-2's a mess - but no casualties. Looks like we've got a minefield, Papa Bear. Orders?</Original>
+              <Original>We're fine - Kilo-2's a mess - but no casualties. Looks like we've got a minefield, Papa Bear. Orders?</Original>
               <Chinese>我們還好-"Kilo"-2已成為一團垃圾了-但所幸沒有傷亡。看來我們遇到地雷區了，"熊爸爸"。命令?</Chinese>
               <Chinesesimp>我们还好-"基洛-2"一团糟-但所幸没有伤亡。看来我们遇到地雷区了，"熊爸爸"。命令?</Chinesesimp>
             </Key>
           </Container>
-          <Container name="75_Logistics" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="75_Logistics" dubbingLanguage="english" namePrefix="showcase_armed_assault_75_logistics" note=" participants="RC B HQ;RC B Kerry;RC B Alpha Lead;" situation="hq requests alpha to send someone to meet with logistics and coordinate a good setup position">
+          <Container name="75_Logistics" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="75_Logistics" dubbingLanguage="english" namePrefix="showcase_armed_assault_75_logistics" note="" participants="RC B HQ;RC B Kerry;RC B Alpha Lead;" situation="hq requests alpha to send someone to meet with logistics and coordinate a good setup position">
             <Key ID="str_a3_showcase_armed_assault_75_logistics_alp_0">
               <Original>Affirmative, Papa Bear. Dispatching Alpha-5.</Original>
               <Chinese>可以的，"熊爸爸"。將派出"Alpha-5"。</Chinese>
@@ -1408,7 +1408,7 @@
               <Chinesesimp>正要过去了，长官。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="70_RoadBlockClear" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="70_RoadBlockClear" dubbingLanguage="english" namePrefix="showcase_armed_assault_70_roadblockclear" note=" participants="RC B Kerry;RC B Alpha Lead;" situation="player let's his squad leader know that the road block is clear of enemy">
+          <Container name="70_RoadBlockClear" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="70_RoadBlockClear" dubbingLanguage="english" namePrefix="showcase_armed_assault_70_roadblockclear" note="" participants="RC B Kerry;RC B Alpha Lead;" situation="player let's his squad leader know that the road block is clear of enemy">
             <Key ID="str_a3_showcase_armed_assault_70_roadblockclear_alp_0">
               <Original>Good work, Kerry, I'll radio command. Out.</Original>
               <Chinese>幹的好，克里，我會通知指揮官。通話完畢。</Chinese>
@@ -1420,19 +1420,19 @@
               <Chinesesimp>长官，状况更新，路障已肃清。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="65_Support" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="65_Support" dubbingLanguage="english" namePrefix="showcase_armed_assault_65_support" note=" participants="RC B Kerry;RC B "Echo" Lead;" situation="player call's apc support to the road block">
+          <Container name="65_Support" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="65_Support" dubbingLanguage="english" namePrefix="showcase_armed_assault_65_support" note="" participants="RC B Kerry;RC B Echo Lead;" situation="player call's apc support to the road block">
             <Key ID="str_a3_showcase_armed_assault_65_support_ech_0">
               <Original>Copy that, moving up. Out.</Original>
               <Chinese>收到，正趕過去。通話完畢。</Chinese>
               <Chinesesimp>收到，正赶过去。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_65_support_pla_0">
-              <Original>"Echo", we need support at the road block. Can you assist? Over.</Original>
+              <Original>Echo, we need support at the road block. Can you assist? Over.</Original>
               <Chinese>"Echo"，我們在路障需要支援。你們能過來嗎?完畢。</Chinese>
               <Chinesesimp>"回声"，我们在路障需要支援。你们能过来吗?完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="60_RoadBlock" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="60_RoadBlock" dubbingLanguage="english" namePrefix="showcase_armed_assault_60_roadblock" note=" participants="RC B Kerry;RC B Alpha Lead;RC B "Echo" Lead;" situation="alpha squad leader orders player to move in and secure the road block, mentions that his now can call echo as a support">
+          <Container name="60_RoadBlock" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="60_RoadBlock" dubbingLanguage="english" namePrefix="showcase_armed_assault_60_roadblock" note="" participants="RC B Kerry;RC B Alpha Lead;RC B Echo Lead;" situation="alpha squad leader orders player to move in and secure the road block, mentions that his now can call echo as a support">
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_alp_0">
               <Original>Kerry, we need you to clear out an enemy road block north east of your position.</Original>
               <Chinese>克里，我需要你去你位置的東北方清理掉一個敵軍路障。</Chinese>
@@ -1449,7 +1449,7 @@
               <Chinesesimp>太棒了。开始移动，肃清该区，然后向我回报。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_alp_3">
-              <Original>"Echo", this is Alpha, be advised, we're advancing. Are you ready to assist? Over.</Original>
+              <Original>Echo, this is Alpha, be advised, we're advancing. Are you ready to assist? Over.</Original>
               <Chinese>"Echo"，這裡是"Alpha"，請注意，我們開始推進了。你們準備好支援了嗎?完畢。</Chinese>
               <Chinesesimp>"回声"，这里是"阿尔法"，请注意，我们开始推进了。你们准备好支援了吗?完毕。</Chinesesimp>
             </Key>
@@ -1459,12 +1459,12 @@
               <Chinesesimp>是的，长官。只要你下达命令，长官。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_alp_4">
-              <Original>Kerry, "Echo" is in support if necessary. Make damn sure that it's clear for the IFVs before calling them in. Understood? Over.</Original>
+              <Original>Kerry, Echo is in support if necessary. Make damn sure that it's clear for the IFVs before calling them in. Understood? Over.</Original>
               <Chinese>克里，假如你有需要的話，"Echo"可以隨時支援。請務必確認該區已無可以對裝甲運兵車造成威脅的武器，在請求他們的支援。了解嗎?完畢。</Chinese>
               <Chinesesimp>克里，假如你有需要的话，"回声"可以随时支援。请务必确认该区已无可以对装甲运兵车造成威胁的武器，再请求他们的支援。了解吗?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_60_roadblock_ech_0">
-              <Original>Affirmative, Alpha, "Echo" standing by.</Original>
+              <Original>Affirmative, Alpha, Echo standing by.</Original>
               <Chinese>是的，"Alpha"，"Echo"已經準備好了。</Chinese>
               <Chinesesimp>是的，"阿尔法"，"回声"已经准备好了。</Chinesesimp>
             </Key>
@@ -1474,14 +1474,14 @@
               <Chinesesimp>收到，长官。我们在路上了。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="55_FactoryClear" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="55_FactoryClear" dubbingLanguage="english" namePrefix="showcase_armed_assault_55_factoryclear" note=" participants="RC B Kerry;RC B Alpha Lead;RC B "Echo" Lead;" situation="player let's his leader know that the factory complex is seized of enemy, his leader sends the apc's to secure the factory">
+          <Container name="55_FactoryClear" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="55_FactoryClear" dubbingLanguage="english" namePrefix="showcase_armed_assault_55_factoryclear" note="" participants="RC B Kerry;RC B Alpha Lead;RC B Echo Lead;" situation="player let's his leader know that the factory complex is seized of enemy, his leader sends the apc's to secure the factory">
             <Key ID="str_a3_showcase_armed_assault_55_factoryclear_alp_0">
               <Original>Good job, Kerry. Wait one.</Original>
               <Chinese>幹的好，克里。請稍等。</Chinese>
               <Chinesesimp>干的好，克里。请稍等。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_55_factoryclear_alp_1">
-              <Original>"Echo"-lead this is Alpha. Route is secure; you're clear to move up. Acknowledge, over.</Original>
+              <Original>Echo-lead this is Alpha. Route is secure; you're clear to move up. Acknowledge, over.</Original>
               <Chinese>"Echo"隊長，這裡是"Alpha"。路已安全;你們可以開始移動了。是否收到，完畢。</Chinese>
               <Chinesesimp>"回声"领队，这里是"阿尔法"。路已安全;你们可以开始移动了。是否收到，完毕。</Chinesesimp>
             </Key>
@@ -1491,14 +1491,14 @@
               <Chinesesimp>长官，反坦克威胁已清除!完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_55_factoryclear_ech_0">
-              <Original>Roger that, we're rolling. Thanks for the assist, Alpha. "Echo" out.</Original>
+              <Original>Roger that, we're rolling. Thanks for the assist, Alpha. Echo out.</Original>
               <Chinese>了解，我們正在移動。感謝你們的支援，"Alpha"。"Echo"通話完畢。</Chinese>
               <Chinesesimp>了解，我们正在移动。感谢你们的支援，"阿尔法"。"回声"通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="50_SplitTeam" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="50_SplitTeam" dubbingLanguage="english" namePrefix="showcase_armed_assault_50_splitteam" note=" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader gives player the command of half the squad so he can lead them and engage anti-tank position">
+          <Container name="50_SplitTeam" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="50_SplitTeam" dubbingLanguage="english" namePrefix="showcase_armed_assault_50_splitteam" note="" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader gives player the command of half the squad so he can lead them and engage anti-tank position">
             <Key ID="str_a3_showcase_armed_assault_50_splitteam_alp_0">
-              <Original>Ok, new orders! We've got to clear a path for "Echo".</Original>
+              <Original>Ok, new orders! We've got to clear a path for Echo.</Original>
               <Chinese>Ok，新命令!我們必須為"Echo"清理道路。</Chinese>
               <Chinesesimp>Ok，新命令!我们必须为"回声"清理道路。</Chinesesimp>
             </Key>
@@ -1518,14 +1518,14 @@
               <Chinesesimp>好的，你们都听到了，大伙。让我们开始移动吧!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="45_Factory" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="45_Factory" dubbingLanguage="english" namePrefix="showcase_armed_assault_45_factory" note=" participants="RC B HQ;RC B Alpha Lead;" situation="hq let's alpha know about multiple enemy anti-tank positions that need to be neutralized before apc's can move in">
+          <Container name="45_Factory" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="45_Factory" dubbingLanguage="english" namePrefix="showcase_armed_assault_45_factory" note="" participants="RC B HQ;RC B Alpha Lead;" situation="hq let's alpha know about multiple enemy anti-tank positions that need to be neutralized before apc's can move in">
             <Key ID="str_a3_showcase_armed_assault_45_factory_alp_0">
               <Original>Solid copy, Papa Bear. We're on it. Alpha out.</Original>
               <Chinese>完整收到，"熊爸爸"。我們在路上了。"Alpha"通話完畢。</Chinese>
               <Chinesesimp>完整收到，"熊爸爸"。我们在路上了。"阿尔法"通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_45_factory_bhq_0">
-              <Original>Alpha, priority. We've got anti-tank units blocking "Echo"'s advance.</Original>
+              <Original>Alpha, priority. We've got anti-tank units blocking Echo's advance.</Original>
               <Chinese>"Alpha"，優先級任務。我們發現有反坦克單位擋在"Echo"的必經之路上。</Chinese>
               <Chinesesimp>"阿尔法"，优先级任务。我们发现有反坦克单位挡在"回声"的必经之路上。</Chinesesimp>
             </Key>
@@ -1540,26 +1540,26 @@
               <Chinesesimp>移动并肃清那些位置。立即执行，有收到吗?完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="43_AssaultPlan" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="43_AssaultPlan" dubbingLanguage="english" namePrefix="showcase_armed_assault_43_assaultplan" note=" participants="RC B Alpha Lead;" situation="alpha team leader let's his team members know they will now join the main assault on the enemy base">
+          <Container name="43_AssaultPlan" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="43_AssaultPlan" dubbingLanguage="english" namePrefix="showcase_armed_assault_43_assaultplan" note="" participants="RC B Alpha Lead;" situation="alpha team leader let's his team members know they will now join the main assault on the enemy base">
             <Key ID="str_a3_showcase_armed_assault_43_assaultplan_alp_0">
               <Original>Listen up! Heavy armor's rolling in from the west.</Original>
               <Chinese>聽好了!我方坦克正從西面開始向這裡移動。</Chinese>
               <Chinesesimp>听好了!我方坦克正从西面开始向这里移动。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_43_assaultplan_alp_1">
-              <Original>We'll move up with "Echo" in support of the main assault from the south. Move out!</Original>
+              <Original>We'll move up with Echo in support of the main assault from the south. Move out!</Original>
               <Chinese>我們要與"Echo"一同從南方支援主要攻擊。開始移動!</Chinese>
               <Chinesesimp>我们要与"回声"一同从南方支援主要攻击。开始移动!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="37_MainAssault" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="37_MainAssault" dubbingLanguage="english" namePrefix="showcase_armed_assault_37_mainassault" note=" participants="RC B HQ;" situation="main assault is signalled">
+          <Container name="37_MainAssault" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="37_MainAssault" dubbingLanguage="english" namePrefix="showcase_armed_assault_37_mainassault" note="" participants="RC B HQ;" situation="main assault is signalled">
             <Key ID="str_a3_showcase_armed_assault_37_mainassault_bhq_0">
               <Original>All callsigns, we are go for main objective. Commence the assault - give 'em hell!</Original>
               <Chinese>所有單位，我們要開始前往主要目標了。開始突擊-打的他們屎尿齊發!</Chinese>
               <Chinesesimp>所有单位，我们要开始前往主要目标了。开始突击-把他们往死里打!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="35_OutpostSitrep" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="35_OutpostSitrep" dubbingLanguage="english" namePrefix="showcase_armed_assault_35_outpostsitrep" note=" participants="RC B Alpha Lead;RC B HQ;" situation="alpha squad leader orders player to destroy enemy vehicles at the outpost">
+          <Container name="35_OutpostSitrep" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="35_OutpostSitrep" dubbingLanguage="english" namePrefix="showcase_armed_assault_35_outpostsitrep" note="" participants="RC B Alpha Lead;RC B HQ;" situation="alpha squad leader orders player to destroy enemy vehicles at the outpost">
             <Key ID="str_a3_showcase_armed_assault_35_outpostsitrep_alp_0">
               <Original>Alpha to Papa Bear, support vehicles neutralized, outpost secure. Over.</Original>
               <Chinese>"Alpha"致"熊爸爸"，支援載具已摧毀，前哨已肅清。完畢。</Chinese>
@@ -1571,7 +1571,7 @@
               <Chinesesimp>干的好，"阿尔法"。请等待更进一步命令。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="30_DestroyVehicles" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="30_DestroyVehicles" dubbingLanguage="english" namePrefix="showcase_armed_assault_30_destroyvehicles" note=" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader orders player to destroy enemy vehicles at the outpost">
+          <Container name="30_DestroyVehicles" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="30_DestroyVehicles" dubbingLanguage="english" namePrefix="showcase_armed_assault_30_destroyvehicles" note="" participants="RC B Alpha Lead;RC B Kerry;" situation="alpha squad leader orders player to destroy enemy vehicles at the outpost">
             <Key ID="str_a3_showcase_armed_assault_30_destroyvehicles_alp_0">
               <Original>Kerry, we need to put those vehicles out of action. Set up your charges.</Original>
               <Chinese>克里，我們必須讓這些載具失去作用。設置你的炸藥。</Chinese>
@@ -1588,47 +1588,47 @@
               <Chinesesimp>正在做了，长官。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="25_OutpostClear" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="25_OutpostClear" dubbingLanguage="english" namePrefix="showcase_armed_assault_25_outpostclear" note=" participants="RC B Alpha Lead;" situation="alpha squad leader let's his team members know they did a good job and the enemy outpost is clear">
+          <Container name="25_OutpostClear" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="25_OutpostClear" dubbingLanguage="english" namePrefix="showcase_armed_assault_25_outpostclear" note="" participants="RC B Alpha Lead;" situation="alpha squad leader let's his team members know they did a good job and the enemy outpost is clear">
             <Key ID="str_a3_showcase_armed_assault_25_outpostclear_alp_0">
               <Original>Great work, gentlemen, the outpost is secure!</Original>
               <Chinese>幹的好，先生們，前哨是我們的了!</Chinese>
               <Chinesesimp>干的好，先生们，前哨是我们的了!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="23_GoGoGo" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="23_GoGoGo" dubbingLanguage="english" namePrefix="showcase_armed_assault_23_gogogo" note=" participants="RC B Alpha Lead;" situation="alpha talks shouts to his team">
+          <Container name="23_GoGoGo" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="23_GoGoGo" dubbingLanguage="english" namePrefix="showcase_armed_assault_23_gogogo" note="" participants="RC B Alpha Lead;" situation="alpha talks shouts to his team">
             <Key ID="str_a3_showcase_armed_assault_23_gogogo_alp_0">
               <Original>Ok, let's go!</Original>
               <Chinese>Ok，我們走!</Chinese>
               <Chinesesimp>Ok，我们走!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="20_StagingArea" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="20_StagingArea" dubbingLanguage="english" namePrefix="showcase_armed_assault_20_stagingarea" note=" participants="RC B Alpha Lead;RC B HQ;" situation="infantry teams let hq know they are ready at staging area, hq orders them to move in and assault enemy outpost">
+          <Container name="20_StagingArea" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="20_StagingArea" dubbingLanguage="english" namePrefix="showcase_armed_assault_20_stagingarea" note="" participants="RC B Alpha Lead;RC B HQ;" situation="infantry teams let hq know they are ready at staging area, hq orders them to move in and assault enemy outpost">
             <Key ID="str_a3_showcase_armed_assault_20_stagingarea_alp_0">
               <Original>Papa Bear, this is Alpha. In position at the staging area. Over.</Original>
               <Chinese>"熊爸爸"，這裡是"Alpha"。已經在等待區就定位了。完畢。</Chinese>
               <Chinesesimp>"熊爸爸"，这里是"阿尔法"。已经在等待区就定位了。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_20_stagingarea_bhq_0">
-              <Original>Copy that. Alpha, Bravo, "Echo", move in!</Original>
+              <Original>Copy that. Alpha, Bravo, Echo, move in!</Original>
               <Chinese>收到。"Alpha"，"Bravo"，"Echo"，開始攻擊!</Chinese>
               <Chinesesimp>收到。"阿尔法"，"布拉沃"，"回声"，开始攻击!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="17_UavDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="17_UavDestroyed" dubbingLanguage="english" namePrefix="showcase_armed_assault_17_uavdestroyed" note=" participants="RC B HQ;" situation="hq let's teams know that contact with uav was lost, probably destroyed">
+          <Container name="17_UavDestroyed" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="17_UavDestroyed" dubbingLanguage="english" namePrefix="showcase_armed_assault_17_uavdestroyed" note="" participants="RC B HQ;" situation="hq let's teams know that contact with uav was lost, probably destroyed">
             <Key ID="str_a3_showcase_armed_assault_17_uavdestroyed_bhq_0">
               <Original>Be advised, we've just lost contact with our UAV. Out.</Original>
               <Chinese>請注意，我們剛與無人偵察機失去聯繫。通話完畢。</Chinese>
               <Chinesesimp>请注意，我们刚与无人侦察机失去联系。通话完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="15_UAVOnline" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="15_UAVOnline" dubbingLanguage="english" namePrefix="showcase_armed_assault_15_uavonline" note=" participants="RC B HQ;" situation="hq lets infantry teams know that uav feed is now available">
+          <Container name="15_UAVOnline" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="15_UAVOnline" dubbingLanguage="english" namePrefix="showcase_armed_assault_15_uavonline" note="" participants="RC B HQ;" situation="hq lets infantry teams know that uav feed is now available">
             <Key ID="str_a3_showcase_armed_assault_15_uavonline_bhq_0">
               <Original>All callsigns, be advised, drone coming online now.</Original>
               <Chinese>所有單位，請注意，無人偵察機已上線。</Chinese>
               <Chinesesimp>所有单位，请注意，无人侦察机已上线。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="10_MoveThroughCover" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="10_MoveThroughCover" dubbingLanguage="english" namePrefix="showcase_armed_assault_10_movethroughcover" note=" participants="RC B Alpha Lead;" situation="alpha squad leader orders his team to move to staging point through cover, inside the ditch">
+          <Container name="10_MoveThroughCover" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="10_MoveThroughCover" dubbingLanguage="english" namePrefix="showcase_armed_assault_10_movethroughcover" note="" participants="RC B Alpha Lead;" situation="alpha squad leader orders his team to move to staging point through cover, inside the ditch">
             <Key ID="str_a3_showcase_armed_assault_10_movethroughcover_alp_0">
               <Original>Ok, listen up. We're moving to the staging area.</Original>
               <Chinese>Ok，聽好了。我們開始向等待區移動。</Chinese>
@@ -1640,26 +1640,26 @@
               <Chinesesimp>沿着沟渠前进并保持低调。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="05_InsertionFinished" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="05_InsertionFinished" dubbingLanguage="english" namePrefix="showcase_armed_assault_05_insertionfinished" note=" participants="RC B Alpha Lead;" situation="alpha signals the team to move.">
+          <Container name="05_InsertionFinished" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="05_InsertionFinished" dubbingLanguage="english" namePrefix="showcase_armed_assault_05_insertionfinished" note="" participants="RC B Alpha Lead;" situation="alpha signals the team to move.">
             <Key ID="str_a3_showcase_armed_assault_05_insertionfinished_alp_0">
               <Original>Let's go, gentlemen.</Original>
               <Chinese>我們走，先生們。</Chinese>
               <Chinesesimp>我们走，先生们。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="03_ObjectivesOverview" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="03_ObjectivesOverview" dubbingLanguage="english" namePrefix="showcase_armed_assault_03_objectivesoverview" note=" participants="RC B "Echo" Lead;RC B HQ;RC B Alpha Lead;" situation="echo team provide sitrep for command">
+          <Container name="03_ObjectivesOverview" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="03_ObjectivesOverview" dubbingLanguage="english" namePrefix="showcase_armed_assault_03_objectivesoverview" note="" participants="RC B Echo Lead;RC B HQ;RC B Alpha Lead;" situation="echo team provide sitrep for command">
             <Key ID="str_a3_showcase_armed_assault_03_objectivesoverview_alp_0">
               <Original>Wilco, Papa Bear. Out.</Original>
               <Chinese>照辦，"熊爸爸"。通話完畢。</Chinese>
               <Chinesesimp>照办，"熊爸爸"。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_03_objectivesoverview_bhq_0">
-              <Original>Acknowledged, "Echo".</Original>
+              <Original>Acknowledged, Echo.</Original>
               <Chinese>已確認，"Echo"。</Chinese>
               <Chinesesimp>已确认，"回声"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_showcase_armed_assault_03_objectivesoverview_ech_0">
-              <Original>Papa Bear, this is "Echo", approaching objective. Over.</Original>
+              <Original>Papa Bear, this is Echo, approaching objective. Over.</Original>
               <Chinese>"熊爸爸"，這裡是"Echo"，靠近目標中。完畢。</Chinese>
               <Chinesesimp>"熊爸爸"，这里是"回声"，靠近目标中。完毕。</Chinesesimp>
             </Key>
@@ -1669,7 +1669,7 @@
               <Chinesesimp>"阿尔法"，请注意，所有单位皆已就位。请前往等待区并回报。完毕。</Chinesesimp>
             </Key>
           </Container>
-          <Container name="01_ReadyUp" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="01_ReadyUp" dubbingLanguage="english" namePrefix="showcase_armed_assault_01_readyup" note=" participants="RC B "Echo" Lead;" situation="echo team signals to alpha, sitting in the back">
+          <Container name="01_ReadyUp" audioFilePath="\a3\dubbing_f_gamma\showcase_armed_assault" dialogName="01_ReadyUp" dubbingLanguage="english" namePrefix="showcase_armed_assault_01_readyup" note="" participants="RC B Echo Lead;" situation="echo team signals to alpha, sitting in the back">
             <Key ID="str_a3_showcase_armed_assault_01_readyup_ech_0">
               <Original>Ready up, Alpha, we're in the AO.</Original>
               <Chinese>準備好，"Alpha"，我們已經在行動區域內了。</Chinese>
@@ -1678,7 +1678,7 @@
           </Container>
         </Container>
         <Container name="Firing_Drills">
-          <Container name="MiscRC" audioFilePath="\a3\dubbing_f_gamma\firing_drills" dialogName="MiscRC" dubbingLanguage="english" namePrefix="firing_drills_miscrc" note=" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
+          <Container name="MiscRC" audioFilePath="\a3\dubbing_f_gamma\firing_drills" dialogName="MiscRC" dubbingLanguage="english" namePrefix="firing_drills_miscrc" note="" participants="PB B Range Officer;" situation="radio feedback from the range officer to the competitor">
             <Key ID="str_a3_firing_drills_miscrc_rof_0">
               <Original>Bull's eye!</Original>
               <Chinese>命中靶心!</Chinese>
@@ -1780,7 +1780,7 @@
               <Chinesesimp>弯曲之星!</Chinesesimp>
             </Key>
           </Container>
-          <Container name="COFGreenRC" audioFilePath="\a3\dubbing_f_gamma\firing_drills" dialogName="COFGreenRC" dubbingLanguage="english" namePrefix="firing_drills_cofgreenrc" note=" participants="PB B Range Officer;" situation="radio tutorial instructions from the range officer to the competitor for training. brevity and quick speech are key for timing (especially during the course)!">
+          <Container name="COFGreenRC" audioFilePath="\a3\dubbing_f_gamma\firing_drills" dialogName="COFGreenRC" dubbingLanguage="english" namePrefix="firing_drills_cofgreenrc" note="" participants="PB B Range Officer;" situation="radio tutorial instructions from the range officer to the competitor for training. brevity and quick speech are key for timing (especially during the course)!">
             <Key ID="str_a3_firing_drills_cofgreenrc_rof_0">
               <Original>Find and shoot optional targets to win bonuses.</Original>
               <Chinese>尋找並射擊獎勵目標來獲得獎勵。</Chinese>
@@ -1912,7 +1912,7 @@
           <Chinesesimp>占领敌人沿岸的强力据点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_coop_06_briefing_execution_text">
-          <Original>1. Seize Alpha&lt;br /&gt;2. Seize Bravo&lt;br /&gt;3. Seize Charlie&lt;br /&gt;4. Seize Delta&lt;br /&gt;5. Seize "Echo"</Original>
+          <Original>1. Seize Alpha&lt;br /&gt;2. Seize Bravo&lt;br /&gt;3. Seize Charlie&lt;br /&gt;4. Seize Delta&lt;br /&gt;5. Seize Echo</Original>
           <Chinese>1. 佔領"Alpha"&lt;br/&gt;2. 佔領"Bravo"&lt;br/&gt;3. 佔領"Charlie"&lt;br/&gt;4. 佔領"Delta"&lt;br/&gt;5. 佔領"Echo"</Chinese>
           <Chinesesimp>1. 占领"阿尔法"&lt;br/&gt;2. 占领"布拉沃"&lt;br/&gt;3. 占领"查理"&lt;br/&gt;4. 占领"德尔塔"&lt;br/&gt;5. 占领"回声"</Chinesesimp>
         </Key>
@@ -2108,7 +2108,7 @@
           <Chinesesimp>占领敌军在阿尔蒂斯东南方的强力据点。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mp_coop_07_briefing_execution_text">
-          <Original>1. Seize Alpha&lt;br /&gt;2. Seize Bravo&lt;br /&gt;3. Seize Charlie&lt;br /&gt;4. Seize Delta&lt;br /&gt;5. Seize "Echo"</Original>
+          <Original>1. Seize Alpha&lt;br /&gt;2. Seize Bravo&lt;br /&gt;3. Seize Charlie&lt;br /&gt;4. Seize Delta&lt;br /&gt;5. Seize Echo</Original>
           <Chinese>1. 佔領"Alpha"&lt;br/&gt;2. 佔領"Bravo"&lt;br/&gt;3. 佔領"Charlie"&lt;br/&gt;4. 佔領"Delta"&lt;br/&gt;5。佔領"Echo"</Chinese>
           <Chinesesimp>1. 占领"阿尔法"&lt;br/&gt;2. 占领"布拉沃"&lt;br/&gt;3. 占领"查理"&lt;br/&gt;4. 占领"德尔塔"&lt;br/&gt;5。占领"回声"</Chinesesimp>
         </Key>
@@ -2554,12 +2554,12 @@
           <Chinesesimp>你的队伍因为伤亡惨重而被迫败阵下来。在没有占领敌军的前哨之下，我们无法执行我们的主要攻势，并且让敌人有机会再度加强他们的防御。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_situation_text">
-          <Original>Having seized Kavala - the largest settlement on the west coast - with surprisingly little resistance, our forces pushed north and were met with a heavily fortified &lt;marker name='BIS_base'&gt;position&lt;/marker&gt;. At the same time, we have opened up a new front, with the goal of flanking the enemy and, ultimately, securing the entire west coast of the island.&lt;br /&gt;&lt;br /&gt;An armored platoon, &lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt;, has moved into position to the north west - securing a key &lt;marker name='BIS_friendlies_1'&gt;power station&lt;/marker&gt; - and is poised to strike against our primary objective, the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt;. However, we must first secure a key outpost to the south, so as to remove the risk of our forces being outflanked.&lt;br /&gt;&lt;br /&gt;Mechanized infantry, callsign &lt;marker name='BIS_start'&gt;"Echo"&lt;/marker&gt;, will push north and deploy infantry squads, &lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt;, your team, and &lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt;, near the &lt;marker name='BIS_outpost'&gt;Outpost&lt;/marker&gt;. Together, they'll execute a coordinated assault and, with armored support, immediately strike against the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt; before the enemy can regroup and counterattack.&lt;br /&gt;&lt;br /&gt;Once the Area of Operation is under our control, a logistics convoy, "Kilo", will move up and establish a supply route in support of our forces in the north. It's vital that we maintain the momentum of our offensive.</Original>
+          <Original>Having seized Kavala - the largest settlement on the west coast - with surprisingly little resistance, our forces pushed north and were met with a heavily fortified &lt;marker name='BIS_base'&gt;position&lt;/marker&gt;. At the same time, we have opened up a new front, with the goal of flanking the enemy and, ultimately, securing the entire west coast of the island.&lt;br /&gt;&lt;br /&gt;An armored platoon, &lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt;, has moved into position to the north west - securing a key &lt;marker name='BIS_friendlies_1'&gt;power station&lt;/marker&gt; - and is poised to strike against our primary objective, the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt;. However, we must first secure a key outpost to the south, so as to remove the risk of our forces being outflanked.&lt;br /&gt;&lt;br /&gt;Mechanized infantry, callsign &lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt;, will push north and deploy infantry squads, &lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt;, your team, and &lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt;, near the &lt;marker name='BIS_outpost'&gt;Outpost&lt;/marker&gt;. Together, they'll execute a coordinated assault and, with armored support, immediately strike against the &lt;marker name='BIS_base'&gt;main base&lt;/marker&gt; before the enemy can regroup and counterattack.&lt;br /&gt;&lt;br /&gt;Once the Area of Operation is under our control, a logistics convoy, Kilo, will move up and establish a supply route in support of our forces in the north. It's vital that we maintain the momentum of our offensive.</Original>
           <Chinese>在佔領卡瓦拉(西海岸最大的城鎮)的時候，我們出乎意料只遇到了一些零星的反擊，在我們部隊繼續向北挺進的時候，我們卻遇到了一個戒備森嚴的敵軍&lt;markername='BIS_base'&gt;防禦工事&lt;/marker&gt;。與此同時，我們在敵軍的側翼開闢了一條新戰線，期望最終能把整個西海岸給拿下。&lt;br/&gt;&lt;br/&gt;一個呼號為&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的裝甲排，已經移動到了西北方(確保一個關鍵的&lt;markername='BIS_friendlies_1'&gt;發電站&lt;/marker&gt;)並且準備開始突擊我們的首要目標，&lt;markername='BIS_base'&gt;敵軍主基地&lt;/marker&gt;。然而，我們必須先佔領一座敵軍的前哨，以移除我們被包抄的危險。&lt;br/&gt;&lt;br/&gt;呼號為&lt;markername='BIS_start'&gt;"Echo"&lt;/marker&gt;的多功能步兵車，將會向北挺進並部屬兩支步兵小隊在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小隊&lt;markername='BIS_startOne'&gt;"Alpha"&lt;/marker&gt;，與前來支援的&lt;markername='BIS_startTwo'&gt;"Bravo"&lt;/marker&gt;。你們兩隊，將一起突擊該前哨，然後與裝甲部隊協同，在敵人反應過來之前攻擊他們的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦區域落入我們的控制，呼號為"Kilo"的後勤車隊即會開始北上，為我們建立起補給線。他們非常重要，因為這樣我們才能維持我們的攻勢。</Chinese>
           <Chinesesimp>在占领卡瓦拉(西海岸最大的城镇)的过程中，我们出乎意料地只遇到了一些零星的反击，在我们部队继续向北挺进的时候，我们却遇到了一支戒备森严的敌军&lt;markername='BIS_base'&gt;防御工事&lt;/marker&gt;。与此同时，我们在敌军的侧翼开辟了一条新战线，期望最终能把整个西海岸给拿下。&lt;br/&gt;&lt;br/&gt;一个呼号为&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;的装甲排，已经移动到了西北方(确保一个关键的&lt;markername='BIS_friendlies_1'&gt;发电站&lt;/marker&gt;)并且准备开始突击我们的首要目标，&lt;markername='BIS_base'&gt;敌军主基地&lt;/marker&gt;。然而，我们必须先占领一座敌军的前哨，以移除我们被包抄的危险。&lt;br/&gt;&lt;br/&gt;呼号为&lt;markername='BIS_start'&gt;回声&lt;/marker&gt;的多功能步兵车，将会向北挺进并部属两支步兵小队在&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;附近，包括你的小队&lt;markername='BIS_startOne'&gt;"阿尔法"&lt;/marker&gt;，与前来支援的&lt;markername='BIS_startTwo'&gt;"布拉沃"&lt;/marker&gt;。你们两队，将一起突击该前哨，然后与装甲部队协同，在敌人反应过来之前攻击他们的&lt;markername='BIS_base'&gt;主基地&lt;/marker&gt;。&lt;br/&gt;&lt;br/&gt;一旦区域落入我们的控制，呼号为"基洛"的后勤车队即会开始北上，为我们建立起补给线。他们非常重要，因为这样我们才能维持我们的攻势。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_signal_text">
-          <Original>Papa Bear - HQ&lt;br /&gt;&lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt; - Your team&lt;br /&gt;&lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt; - Infantry Squad&lt;br /&gt;&lt;marker name='BIS_start'&gt;"Echo"&lt;/marker&gt; - 2 IFVs&lt;br /&gt;&lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt; - Armored Platoon&lt;br /&gt;"Kilo" - Logistics Convoy</Original>
+          <Original>Papa Bear - HQ&lt;br /&gt;&lt;marker name='BIS_startOne'&gt;Alpha&lt;/marker&gt; - Your team&lt;br /&gt;&lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt; - Infantry Squad&lt;br /&gt;&lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt; - 2 IFVs&lt;br /&gt;&lt;marker name='BIS_friendlies'&gt;Nomad&lt;/marker&gt; - Armored Platoon&lt;br /&gt;Kilo - Logistics Convoy</Original>
           <Chinese>"熊爸爸"-總部&lt;br/&gt;&lt;markername='BIS_startOne'&gt;"Alpha"&lt;/marker&gt;-你的小隊&lt;br/&gt;&lt;markername='BIS_startTwo'&gt;"Bravo"&lt;/marker&gt;-步兵小隊&lt;br/&gt;&lt;markername='BIS_start'&gt;"Echo"&lt;/marker&gt;-2臺多功能步兵車&lt;br/&gt;&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;-裝甲排&lt;br/&gt;"Kilo"-後勤車隊</Chinese>
           <Chinesesimp>"熊爸爸"-指挥部&lt;br/&gt;&lt;markername='BIS_startOne'&gt;"阿尔法"&lt;/marker&gt;-你的小组&lt;br/&gt;&lt;markername='BIS_startTwo'&gt;"布拉沃"&lt;/marker&gt;-步兵班&lt;br/&gt;&lt;markername='BIS_start'&gt;"回声"&lt;/marker&gt;-2辆步兵战车&lt;br/&gt;&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;-装甲排&lt;br/&gt;"基洛"-后勤车队</Chinesesimp>
         </Key>
@@ -2569,7 +2569,7 @@
           <Chinesesimp>在机械化步兵的协同下占领一个加强的&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;，然后支援针对敌&lt;markername='BIS_base'&gt;基地&lt;/marker&gt;的主要攻势。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_briefing_execution_text">
-          <Original>1. Move to the &lt;marker name='BIS_stagingPoint'&gt;staging area&lt;/marker&gt; and await the signal from HQ&lt;br /&gt;2. Seize the fortified &lt;marker name='BIS_outpost'&gt;Outpost&lt;/marker&gt; with the support of &lt;marker name='BIS_start'&gt;"Echo"&lt;/marker&gt; and &lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt;&lt;br /&gt;3. Support &lt;marker name='BIS_friendlies'&gt;Nomad's&lt;/marker&gt; assault on the main &lt;marker name='BIS_base'&gt;Base&lt;/marker&gt;</Original>
+          <Original>1. Move to the &lt;marker name='BIS_stagingPoint'&gt;staging area&lt;/marker&gt; and await the signal from HQ&lt;br /&gt;2. Seize the fortified &lt;marker name='BIS_outpost'&gt;Outpost&lt;/marker&gt; with the support of &lt;marker name='BIS_start'&gt;Echo&lt;/marker&gt; and &lt;marker name='BIS_startTwo'&gt;Bravo&lt;/marker&gt;&lt;br /&gt;3. Support &lt;marker name='BIS_friendlies'&gt;Nomad's&lt;/marker&gt; assault on the main &lt;marker name='BIS_base'&gt;Base&lt;/marker&gt;</Original>
           <Chinese>1. 移動到&lt;markername='BIS_stagingPoint'&gt;等待區&lt;/marker&gt;並等待總部的信號&lt;br/&gt;2. 在&lt;markername='BIS_start'&gt;"Echo"&lt;/marker&gt;與&lt;markername='BIS_startTwo'&gt;"Bravo"&lt;/marker&gt;小隊的幫忙下佔領強化過的&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;&lt;br/&gt;3. 支援&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;突擊主要的&lt;markername='BIS_base'&gt;基地&lt;/marker&gt;</Chinese>
           <Chinesesimp>1. 移动到&lt;markername='BIS_stagingPoint'&gt;准备地域&lt;/marker&gt;并等待指挥部的信号&lt;br/&gt;2. 在&lt;markername='BIS_start'&gt;回声&lt;/marker&gt;与&lt;markername='BIS_startTwo'&gt;"布拉沃"&lt;/marker&gt;的支援下占领经加强的&lt;markername='BIS_outpost'&gt;前哨&lt;/marker&gt;&lt;br/&gt;3. 支援&lt;markername='BIS_friendlies'&gt;"游牧民"&lt;/marker&gt;突击敌主要&lt;markername='BIS_base'&gt;基地&lt;/marker&gt;</Chinesesimp>
         </Key>
@@ -2749,7 +2749,7 @@
           <Chinesesimp>任务展示:合成作战II-大规模作战，合成作战，压倒性军力</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_arma_support">
-          <Original>"Echo" Support</Original>
+          <Original>Echo Support</Original>
           <Chinese>呼叫"Echo"支援</Chinese>
           <Chinesesimp>呼叫"回声"支援</Chinesesimp>
         </Key>
