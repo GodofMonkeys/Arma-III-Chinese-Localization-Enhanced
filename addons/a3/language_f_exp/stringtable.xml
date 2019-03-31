@@ -418,7 +418,7 @@
         <Key ID="str_a3_cfgvehicles_uav_04_base_f_library0">
           <Original>The KH-3A Fenghuang is an unmanned aerial drone based on a Chinese design. The UAV adopts the unusual canard layout and is propelled by a pusher engine. This multipurpose drone is equipped with modern tracking and tracing systems, countermeasures and also carries four air-to-ground laser guided missiles.</Original>
           <Chinese>KH-3A"鳳凰"是一臺由中國設計與製造的無人偵察機。此臺偵察機使用了不一樣的鴨式布局，推進器則選用後推式螺旋槳。這臺多用途的無人機裝有現代化的追蹤與循跡系統，反制措施以及4枚空對地雷射導引飛彈。</Chinese>
-          <Chinesesimp>KH-3A"凤凰"是一台由中国设计与制造的无人侦察机。此台侦察机使用了不一样的鸭式布局，推进器则选用后推式螺旋桨。这台多用途的无人机装有现代化的追踪循迹系统与反制措施，同时携带4枚空对地激光引导导弹。</Chinesesimp>
+          <Chinesesimp>KH-3A"凤凰"是一台由中国设计与制造的无人侦察机。此台侦察机使用了不一样的鸭式布局，推进器则选用后推式螺旋桨。这台多用途的无人机装有现代化的追踪循迹系统与反制措施，同时携带4枚空对地激光制导导弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_scooter_transport_01_base_f_library0">
           <Original>Personal watercraft (PWC) of the sit-down type. This small-hulled craft driven by a jet-propulsion system offers seats for 3 people and is easy to mount or dismount on the water thanks to the open stern construction. The powerful engine and great maneuverability makes this craft truly fun to ride. And of course it is a small and useful water transport vehicle for military use as well.</Original>
@@ -447,8 +447,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_lsv_02_base_f_library0">
           <Original>An agile (maximum speed 160 km/h) light protected vehicle for up to 7 soldiers – depending on the configuration. The Qilin provides safe and fast operating speeds with superior levels of mobility and maneuverability. It is highly adaptable to severe, rugged and restrictive terrains while providing off-road, cross-country mobility under all types of weather conditions. The vehicle was produced in China with Russian cooperation, so some minor influence from Ifrit MRAP can be seen in the Qilin design. The Qilin is a highly customizable platform which can be fitted according to the mission. CSAT Pacific forces primarily use the unarmed variant and the armed variants fitted with either a 6.5 mm minigun or a Vorona missile launcher.</Original>
-          <Chinese>一臺可供最多7名士兵搭乘的敏捷輕型防護載具(最高時速可達160公里)。"麒麟"在高速行駛下也有一定的安全性，這使他成為高機動，高操控性的一臺載具。它可以迅速適應各種崎嶇難走的越野地形。此臺載具由中國與俄羅斯共同開發，所以不難見到有些防地雷反伏擊車的影子在"麒麟"上出現。"麒麟"是個可以高度客製化的平臺，使其適應各式類型的任務。廣協同盟太平洋部隊主要使用無武裝與裝配6.5mm機槍或"沃羅納"反坦克飛彈等三種版本。</Chinese>
-          <Chinesesimp>一台可供最多7名士兵搭乘的敏捷轻型防护载具(最高时速可达160千米)。"麒麟"在高速行驶下也有一定的安全性，这使他成为高机动，高操控性的一台载具。它可以迅速适应各种崎岖难走的越野地形。此台载具由中国与俄罗斯共同开发，所以不难见到有些防地雷反伏击车的影子在"麒麟"上出现。"麒麟"是个可以高度客制化的平台，使其适应各式类型的任务。广协同盟太平洋部队主要使用无武装与装配6.5mm机枪或"沃罗纳"反坦克导弹等三种版本。</Chinesesimp>
+          <Chinese>一臺可供最多7名士兵搭乘的敏捷輕型防護載具(最高時速可達160公里)。"麒麟"在高速行駛下也有一定的安全性，這使他成為高機動，高操控性的一臺載具。它可以迅速適應各種崎嶇難走的越野地形。此臺載具由中國與俄羅斯共同開發，所以不難見到有些防地雷反伏擊車的影子在"麒麟"上出現。"麒麟"是個可以高度客製化的平臺，使其適應各式類型的任務。廣協同盟太平洋部隊主要使用無武裝與裝配6.5公厘機槍或"沃羅納"反坦克飛彈等三種版本。</Chinese>
+          <Chinesesimp>一台可供最多7名士兵搭乘的敏捷轻型防护载具(最高时速可达160千米)。"麒麟"在高速行驶下也有一定的安全性，这使他成为高机动，高操控性的一台载具。它可以迅速适应各种崎岖难走的越野地形。此台载具由中国与俄罗斯共同开发，所以不难见到有些防地雷反伏击车的影子在"麒麟"上出现。"麒麟"是个可以高度客制化的平台，使其适应各式类型的任务。广协同盟太平洋部队主要使用无武装与装配6.5毫米机枪或"沃罗纳"反坦克导弹等三种版本。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_plane_civil_01_base_f_library0">
           <Original>Caesar BTT is a single-engine, fixed-gear, low-wing general aviation aircraft built from composite materials. The Caesar BTT is one of the fastest fixed-gear, single-engined piston aircraft, reaching a speed of 235 knots (435 km/h) true air speed at 25,000 feet (7,600 m). It is used by civilians and smaller shipping companies all around the world.</Original>
@@ -462,8 +462,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_boat_transport_02_base_f_library0">
           <Original>The rigid-hulled inflatable boat, (RHIB) is a light-weight but high-performance and high-capacity boat constructed with a solid, shaped hull and flexible tubes at the gunwale. The boat can fit 7 passengers and a driver. RHIB can be used for multiple tasks. It can be a simple transport boat with some countries deploying them for coast guarding. This is in contrast to criminals on Tanoa who uses RHIBs as a fast and small smuggling boat.</Original>
-          <Chinese>硬殼充氣快艇是臺重量輕但有著高效率的一種快艇，其船體使用了硬殼與橡皮充氣管所製作，使它的類別介於一般船隻與橡皮艇之間。該船可以搭載7名乘客和1員駕駛。硬殼充氣快艇可被用作在許多不同的任務上。有些國家使用它來當作海岸巡防快艇，而在Tanoa上的犯罪組織則使用它當作走私船。</Chinese>
-          <Chinesesimp>硬壳充气快艇是台重量轻但有着高效率的一种快艇，其船体使用了硬壳与橡皮充气管所制作，使它的类别介于一般船只与橡皮艇之间。该船可以搭载7名乘客和1员驾驶。硬壳充气快艇可被用作在许多不同的任务上。有些国家使用它来当作海岸巡防快艇，而在Tanoa上的犯罪组织则使用它当作走私船。</Chinesesimp>
+          <Chinese>硬殼充氣快艇是臺重量輕但有著高效率的一種快艇，其船體使用了硬殼與橡皮充氣管所製作，使它的類別介於一般船隻與橡皮艇之間。該船可以搭載7名乘客和1員駕駛。硬殼充氣快艇可被用作在許多不同的任務上。有些國家使用它來當作海岸巡防快艇，而在塔諾亞上的犯罪組織則使用它當作走私船。</Chinese>
+          <Chinesesimp>硬壳充气快艇是台重量轻但有着高效率的一种快艇，其船体使用了硬壳与橡皮充气管所制作，使它的类别介于一般船只与橡皮艇之间。该船可以搭载7名乘客和1员驾驶。硬壳充气快艇可被用作在许多不同的任务上。有些国家使用它来当作海岸巡防快艇，而在塔诺亚上的犯罪组织则使用它当作走私船。</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -2230,7 +2230,7 @@
           <Key ID="str_a3_cfgvehicles_land_pierwooden_01_10m_norails_f0">
             <Original>Wooden Pier (10 m, No Rails)</Original>
             <Chinese>木製碼頭(10公尺，無護欄)</Chinese>
-            <Chinesesimp>木制码头(10公尺，无护栏)</Chinesesimp>
+            <Chinesesimp>木制码头(10米，无护栏)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pierconcrete_01_steps_f0">
             <Original>Concrete Pier (Steps)</Original>
@@ -2245,7 +2245,7 @@
           <Key ID="str_a3_cfgvehicles_land_pierconcrete_01_4m_ladders_f0">
             <Original>Concrete Pier (4 m, Ladders)</Original>
             <Chinese>混凝土碼頭(4公尺，梯子)</Chinese>
-            <Chinesesimp>混凝土码头(4公尺，梯子)</Chinesesimp>
+            <Chinesesimp>混凝土码头(4米，梯子)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_pierconcrete_01_30deg_f0">
             <Original>Concrete Pier (Bend)</Original>
@@ -2352,8 +2352,8 @@
         <Container name="AncientRelics">
           <Key ID="str_a3_cfgvehicles_land_stonetanoa_01_f0">
             <Original>Stone Tanoa</Original>
-            <Chinese>Tanoa遺跡石</Chinese>
-            <Chinesesimp>Tanoa遗迹石</Chinesesimp>
+            <Chinese>塔諾亞遺跡石</Chinese>
+            <Chinesesimp>塔诺亚遗迹石</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_land_raistone_01_f0">
             <Original>Rai Stone</Original>
@@ -3878,7 +3878,7 @@
         <Key ID="str_a3_i_c_soldier_camo_f0">
           <Original>Solomon Maru</Original>
           <Chinese>所羅門·馬洛</Chinese>
-          <Chinesesimp>所罗门·马吕</Chinesesimp>
+          <Chinesesimp>所罗门·马洛</Chinesesimp>
         </Key>
         <Key ID="str_a3_i_c_soldier_bandit_2_f0">
           <Original>Hireling (Launcher)</Original>
@@ -4158,12 +4158,12 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_box_aaf_uniforms_f0">
           <Original>Uniforms Box [AAF]</Original>
-          <Chinese>制服箱[Altis政府軍]</Chinese>
+          <Chinese>制服箱[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>制服箱[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_box_aaf_equip_f0">
           <Original>Equipment Box [AAF]</Original>
-          <Chinese>裝備箱[Altis政府軍]</Chinese>
+          <Chinese>裝備箱[阿爾蒂斯武裝力量]</Chinese>
           <Chinesesimp>装备箱[阿尔蒂斯武装力量]</Chinesesimp>
         </Key>
       </Container>
@@ -4571,7 +4571,7 @@
         </Key>
         <Key ID="str_a3_cfgvoice_male03chi0">
           <Original>Chinese 03</Original>
-          <Chinese>??03</Chinese>
+          <Chinese>漢語03</Chinese>
           <Chinesesimp>汉语03</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvoice_male02fre0">
@@ -4586,7 +4586,7 @@
         </Key>
         <Key ID="str_a3_cfgvoice_male02chi0">
           <Original>Chinese 02</Original>
-          <Chinese>??02</Chinese>
+          <Chinese>漢語02</Chinese>
           <Chinesesimp>汉语02</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvoice_male01fre0">
@@ -4601,7 +4601,7 @@
         </Key>
         <Key ID="str_a3_cfgvoice_male01chi0">
           <Original>Chinese 01</Original>
-          <Chinese>??01</Chinese>
+          <Chinese>漢語01</Chinese>
           <Chinesesimp>汉语01</Chinesesimp>
         </Key>
       </Container>
@@ -4715,7 +4715,7 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_list19">
         <Original>modding support, &lt;a href='%2' color='%1'&gt;Tools&lt;/a&gt; &amp;amp; &lt;a href='%3' color='%1'&gt;Samples&lt;/a&gt; updates, &lt;a href='%4' color='%1'&gt;client ports&lt;/a&gt;, &lt;a href='%5' color='%1'&gt;script commands&lt;/a&gt;, &lt;a href='%6' color='%1'&gt;documentation&lt;/a&gt;</Original>
         <Chinese>支援製作模組，&lt;ahref='%2'color='%1'&gt;工具&lt;/a&gt;&amp;amp;&lt;ahref='%3'color='%1'&gt;範例&lt;/a&gt;等程式的更新，&lt;ahref='%4'color='%1'&gt;客戶端端口&lt;/a&gt;，&lt;ahref='%5'color='%1'&gt;腳本命令&lt;/a&gt;，&lt;ahref='%6'color='%1'&gt;文件資料&lt;/a&gt;</Chinese>
-        <Chinesesimp>支持制作模组，&lt;ahref='%2'color='%1'&gt;工具&lt;/a&gt;&amp;amp;&lt;ahref='%3'color='%1'&gt;范例&lt;/a&gt;等程式的更新，&lt;ahref='%4'color='%1'&gt;客户端端口&lt;/a&gt;，&lt;ahref='%5'color='%1'&gt;脚本命令&lt;/a&gt;，&lt;ahref='%6'color='%1'&gt;文件资料&lt;/a&gt;</Chinesesimp>
+        <Chinesesimp>支持制作模组，&lt;ahref='%2'color='%1'&gt;工具&lt;/a&gt;&amp;amp;&lt;ahref='%3'color='%1'&gt;范例&lt;/a&gt;等程序的更新，&lt;ahref='%4'color='%1'&gt;客户端端口&lt;/a&gt;，&lt;ahref='%5'color='%1'&gt;脚本命令&lt;/a&gt;，&lt;ahref='%6'color='%1'&gt;文件资料&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_list18_title">
         <Original>&lt;a href='%2' color='%1'&gt;Arma 3 Units&lt;/a&gt;</Original>
@@ -4775,7 +4775,7 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_list13">
         <Original>compositions, bindable camera controls, Comment entities, drag &amp;amp; scale area entities, foliage toggle, environment preview, asset previews</Original>
         <Chinese>組件，可設定的攝影機控制，備註，拖曳&amp;amp;伸縮區域素材，切換葉子顯示，預覽環境，預覽素材</Chinese>
-        <Chinesesimp>组件，可设定的摄影机控制，备注，拖曳&amp;amp;伸缩区域素材，切换叶子显示，预览环境，预览素材</Chinesesimp>
+        <Chinesesimp>组件，可设定的摄影机控制，备注，拖拽&amp;amp;伸缩区域素材，切换叶子显示，预览环境，预览素材</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_list12_title">
         <Original>Limping</Original>
@@ -4814,17 +4814,17 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard_footer2">
         <Original>Even at its apex, there is a long and bright future ahead for Arma 3. We are all supported by an army of modders, entertained by hordes of streamers, serviced by battalions of server admins and motivated by legions of players. Hope you enjoy your time together!</Original>
-        <Chinese>即使現在遊戲已經很頂尖，但我們仍看的到武裝突襲3更光明且璀璨的未來在前方的路上。我們之所以可以做到這些，都是因為各種軍隊模組的製作人，遊戲實況者，伺服器管理員與各戰隊的支持才能走到今天。希望你們能繼續在這邊享受款遊戲!</Chinese>
-        <Chinesesimp>即使现在游戏已经很顶尖，但我们仍看的到武装突袭3更光明且璀璨的未来在前方的路上。我们之所以可以做到这些，都是因为各种军队模组的制作人，游戏实况者，服务器管理员与各战队的支持才能走到今天。希望你们能继续在这边享受款游戏!</Chinesesimp>
+        <Chinese>即使現在遊戲已經很頂尖，但我們仍看的到武裝突襲3更光明且璀璨的未來在前方的路上。我們之所以可以做到這些，都是因為各種軍隊模組的製作人，遊戲實況者，伺服器管理員與各戰隊的支持才能走到今天。希望你們能繼續在這邊享受這款遊戲!</Chinese>
+        <Chinesesimp>即使现在游戏已经很顶尖，但我们仍看的到武装突袭3更光明且璀璨的未来在前方的路上。我们之所以可以做到这些，都是因为各种军队模组的制作人，游戏实况者，服务器管理员与各战队的支持才能走到今天。希望你们能继续享受这款游戏!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_pard">
         <Original>We've worked on the &lt;t color='%1'&gt;#RoadToApex&lt;/t&gt; for a long time, releasing improvements in various large updates. Many usability improvements, new features and other forms of support have &lt;t color='%1'&gt;freely enhanced the platform&lt;/t&gt; for every player out there. Let's reflect on the highlights:</Original>
         <Chinese>我們已經在&lt;tcolor='%1'&gt;#前往頂尖之路&lt;/t&gt;上奮鬥許久，在這之中釋出了許多重要更新。許多實用的改進，新的特色與&lt;tcolor='%1'&gt;其他各種玩家有感的形式&lt;/t&gt;在這遊戲平臺上。現在讓我們來回頭看看有那些亮點吧:</Chinese>
-        <Chinesesimp>我们已经在&lt;tcolor='%1'&gt;#前往顶尖之路&lt;/t&gt;上奋斗许久，在这之中释出了许多重要更新。许多实用的改进，新的特色与&lt;tcolor='%1'&gt;其他各种玩家有感的形式&lt;/t&gt;在这游戏平台上。现在让我们来回头看看有那些亮点吧:</Chinesesimp>
+        <Chinesesimp>我们已经在&lt;tcolor='%1'&gt;#前往顶尖之路&lt;/t&gt;上奋斗许久，在这之中放出了许多重要更新。许多实用的改进，新的特色与&lt;tcolor='%1'&gt;其他各种玩家有感的形式&lt;/t&gt;在这游戏平台上。现在让我们来回头看看有那些亮点吧:</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parc_title">
         <Original>TANOA_</Original>
-        <Chinese>TANOA_</Chinese>
+        <Chinese>塔諾亞_</Chinese>
         <Chinesesimp>塔诺亚_</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parc_list3_title">
@@ -4940,7 +4940,7 @@
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list3">
         <Original>AKS-74U 5.45 mm Assault Rifle, AKM 7.62 mm Assault Rifle, AK-12 7.62 mm Assault Rifle, RPG-7 Launcher, PM 9 mm Pistol, SPAR-16/S/17 Assault Rifles, CAR-95 5.8 mm Assault Rifle, CAR-95-1 5.8 mm Light Support Weapon, LIM-85 5.56 mm Light Machine Gun, Type 115 6.5 mm / .50 cal Assault Rifle, Protector 9 mm Sub-Machine Gun, CMR-76 6.5 mm Designated Marksman Rifle, ERCO Optics</Original>
         <Chinese>AKS-74U 5.45公厘突擊步槍，AKM 7.62公厘突擊步槍，AK-12 7.62公厘突擊步槍，RPG-7發射器，PM 9公厘手槍，SPAR-16/S/17突擊步槍，CAR-95 5.8公厘突擊步槍，CAR-95-1 5.8公厘輕型支援武器，LIM-85 5.56公厘輕機槍，115式 6.5公厘/.50口徑突擊步槍，"保護者"9公厘衝鋒槍，CMR-76 6.5公厘指定精準射手步槍，增強型步槍戰鬥光學瞄準鏡</Chinese>
-        <Chinesesimp>AKS-74U 5.45毫米突击步枪，AKM 7.62毫米突击步枪，AK-12 7.62毫米突击步枪，RPG-7火箭筒，PM9毫米手枪，SPAR-16/S/17突击步枪，CAR-95 5.8毫米突击步枪，CAR-95-1 5.8毫米轻型支援武器，LIM-85 5.56毫米轻机枪，115式 6.5毫米/.50口径突击步枪，"保护者"9毫米冲锋枪，CMR-76 6.5毫米指定精准射手步枪，增强型步枪战斗光学瞄准镜</Chinesesimp>
+        <Chinesesimp>AKS-74U 5.45毫米突击步枪，AKM 7.62毫米突击步枪，AK-12 7.62毫米突击步枪，RPG-7火箭筒，PM 9毫米手枪，SPAR-16/S/17突击步枪，CAR-95 5.8毫米突击步枪，CAR-95-1 5.8毫米轻型支援武器，LIM-85 5.56毫米轻机枪，115式 6.5毫米/.50口径突击步枪，"保护者"9毫米冲锋枪，CMR-76 6.5毫米指定精准射手步枪，增强型步枪战斗光学瞄准镜</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_exp_parb_list2_title">
         <Original>Vehicles</Original>
@@ -5526,7 +5526,7 @@
         </Key>
         <Key ID="str_a3_cfgmods_apex_loading">
           <Original>Arma 3 Apex brings you the brand new 100 km² South Pacific island of Tanoa, a co-op campaign and new weapons and vehicles such as the VTOL aircraft or LSV.</Original>
-          <Chinese>武裝突襲3頂尖資料片為您帶來全新的100平方公里以及多人合作戰役，新武器與載具等等超值內容。</Chinese>
+          <Chinese>武裝突襲3頂尖資料片為您帶來全新的100平方公里南太平洋群島塔諾亞，以及多人合作戰役，新武器與載具等等超值內容。</Chinese>
           <Chinesesimp>武装突袭3顶尖资料片为您带来全新的100平方千米南太平洋群岛塔诺亚，以及多人合作战役，新武器与载具等等超值内容。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmods_apex_itemprevnotiftext">
@@ -6196,7 +6196,7 @@
         <Key ID="str_a3_cfgweapons_hgun_pistol_01_f_library0">
           <Original>The PM is an Ukrainian semi-automatic pistol. It is based on a Soviet Union's standard military and police side arm designed by Nikolay Fyodorovich Makarov. It has been produced since 1970s and has been used ever since in Ukraine, Yugoslavia, and places where black market reached from those countries. It uses 9x21 mm caliber instead of the original 9x19 mm. The actual bullet is 9.22 mm in diameter, since caliber in Russia is measured between the grooves and not the lands of the rifling. Being shorter and wider, the 9 mm cartridge is incompatible with pistols chambered for 9x21 mm cartridges and vice-versa.</Original>
           <Chinese>PM是一把烏克蘭製的半自動手槍。其設計參考至前蘇聯槍械設計師尼古拉·費奧多羅維奇·馬卡羅夫為軍方與警察所設計的手槍。此槍從1970年代開始生產，並在烏克蘭，南斯拉夫及各個黑市中皆可看到。它使用9x21公厘口徑的子彈來取代原本的9x19公厘口徑。但實際子彈的直徑卻是9.22公厘，這是由於俄羅斯習慣從槍身環槽起算長度而並非膛線起算長度。由於較短且寬的緣故，使用9公厘口徑的手槍並沒辦法與這把使用9x21公厘口徑的手槍交換彈藥來使用。</Chinese>
-          <Chinesesimp>PM是一把乌克兰制的半自动手枪。其设计参考至苏联枪械设计师尼古拉·费奥多罗维奇·马卡罗夫为军方与警察所设计的手枪。此枪从1970年代开始生产，并在乌克兰，南斯拉夫及能涉及到这两个国家的各个黑市中都可看到。它使用9x21毫米口径的子弹来取代原本的9x19毫米口径。但实际子弹的直径却是9。22毫米，这是由于俄罗斯习惯从枪身阳线而非阴线起算直径。由于较短且宽的缘故，使用9毫米口径的手枪并没办法与这把使用9x21毫米口径的手枪互换弹药。</Chinesesimp>
+          <Chinesesimp>PM是一把乌克兰制的半自动手枪。其设计参考至苏联枪械设计师尼古拉·费奥多罗维奇·马卡罗夫为军方与警察所设计的手枪。此枪从1970年代开始生产，并在乌克兰，南斯拉夫及能涉及到这两个国家的各个黑市中都可看到。它使用9x21毫米口径的子弹来取代原本的9x19毫米口径。但实际子弹的直径却是9.22毫米，这是由于俄罗斯习惯从枪身阳线而非阴线起算直径。由于较短且宽的缘故，使用9毫米口径的手枪并没办法与这把使用9x21毫米口径的手枪互换弹药。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_hgun_pistol_01_f1">
           <Original>Handgun&lt;br /&gt;Caliber: 9x21 mm</Original>
@@ -6438,12 +6438,12 @@
         <Key ID="str_a3_cfgweapons_arifle_arx_blk_f0">
           <Original>Type 115 6.5 mm (Black)</Original>
           <Chinese>115式 6.5公厘(黑色)</Chinese>
-          <Chinesesimp>115式6.5毫米(黑色)</Chinesesimp>
+          <Chinesesimp>115式 6.5毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_arx_base_f0">
           <Original>Type 115 6.5 mm</Original>
           <Chinese>115式 6.5公厘</Chinese>
-          <Chinesesimp>115式6.5毫米</Chinesesimp>
+          <Chinesesimp>115式 6.5毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_arifle_aks_f0">
           <Original>AKS-74U 5.45 mm</Original>
@@ -6770,8 +6770,8 @@
         </Key>
         <Key ID="str_a3_cfgweapons_lmg_03_base_f_library0">
           <Original>The light infantry machine gun 85 is an iteration of a special purpose weapon. Combining a high fire-rate and relatively easy maintenance with high reliability, it was adopted by several armies around the world. It features standard accessory rails and 200-round box 5.56x45 mm magazines. Its weight is 7.1 kilograms which is less than its predecessors.</Original>
-          <Chinese>這把輕步兵機槍85是新一代的特殊用途武器。其結合了高射速，易於維護且非常可靠等特性，使他被世上不同國家的軍隊所採用。它配備著標準的戰術導軌並使用了5.56x45mm200發裝彈盒。它的重量比它的前輩還輕，僅有7。1公斤。</Chinese>
-          <Chinesesimp>轻步兵机枪85(LIM-85)是新一代的特殊用途武器。其结合了高射速，易于维护且非常可靠等特性，使它被世上不同国家的军队所采用。它配备着标准的战术导轨并使用了5.56x4毫米200发弹链盒。重量比它的前身还轻，仅有7。1公斤。</Chinesesimp>
+          <Chinese>這把輕步兵機槍85是新一代的特殊用途武器。其結合了高射速，易於維護且非常可靠等特性，使他被世上不同國家的軍隊所採用。它配備著標準的戰術導軌並使用了5.56x45mm200發裝彈盒。它的重量比它的前輩還輕，僅有7.1公斤。</Chinese>
+          <Chinesesimp>轻步兵机枪85(LIM-85)是新一代的特殊用途武器。其结合了高射速，易于维护且非常可靠等特性，使它被世上不同国家的军队所采用。它配备着标准的战术导轨并使用了5.56x4毫米200发弹链盒。重量比它的前身还轻，仅有7.1千克。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_lmg_03_base_f1">
           <Original>Light Machine Gun&lt;br /&gt;Caliber: 5.56x45 mm</Original>
@@ -6782,7 +6782,7 @@
       <Container name="SMGs">
         <Key ID="str_a3_cfgweapons_smg_05_base_f_library0">
           <Original>A lightweight, air-cooled, selective fire, delayed blowback operated submachine gun with a roller-delayed bolt. The compact size, accuracy and high rate of fire of the Protector are highly regarded and the gun is used in many variants by numerous military, law enforcement, intelligence and security organizations all around the world.</Original>
-          <Chinese>這是一把輕量，可選開火模式，滾輪延遲反沖作用的衝鋒槍。Protector有著尺寸輕巧，可靠的準確度與高射速等特性，這些使這把衝鋒槍被世上許多國家的軍隊，執法單位，情報部門與維安部門所使用。</Chinese>
+          <Chinese>這是一把輕量，可選開火模式，滾輪延遲反沖作用的衝鋒槍。"保護者"有著尺寸輕巧，可靠的準確度與高射速等特性，這些使這把衝鋒槍被世上許多國家的軍隊，執法單位，情報部門與維安部門所使用。</Chinese>
           <Chinesesimp>这是一把轻量级，气冷式，可选开火模式，滚筒延迟闭锁，半自由式枪机的冲锋枪。"保护者"有着尺寸轻巧，可靠的准确度与高射速等特性，这些特性使这把冲锋枪被世上许多国家的军队，执法单位，情报部门与维和部门所使用。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_smg_05_base_f1">
@@ -6792,8 +6792,8 @@
         </Key>
         <Key ID="str_a3_cfgweapons_smg_05_base_f0">
           <Original>Protector 9 mm</Original>
-          <Chinese>"保護者" 9公厘冲锋枪</Chinese>
-          <Chinesesimp>"保护者" 9毫米冲锋枪</Chinesesimp>
+          <Chinese>"保護者"9公厘冲锋枪</Chinese>
+          <Chinesesimp>"保护者"9毫米冲锋枪</Chinesesimp>
         </Key>
       </Container>
       <Container name="Magazines">
@@ -7151,7 +7151,7 @@
       </Key>
       <Key ID="str_a3_sugarcanefactory010">
         <Original>Tanoa Sugar Company</Original>
-        <Chinese>Tanoa糖業公司</Chinese>
+        <Chinese>塔諾亞糖業公司</Chinese>
         <Chinesesimp>塔诺亚糖业公司</Chinesesimp>
       </Key>
       <Key ID="str_a3_straitmadman010">

@@ -1162,7 +1162,7 @@
           <Key ID="str_a3_rscdisplaymain_buttoncommunityguide_tooltip">
             <Original>Watch our official 'Community Guide' video series.</Original>
             <Chinese>觀看我們官方的'社群指導'影片。</Chinese>
-            <Chinesesimp>观看我们官方的‘社区指导’影片。</Chinesesimp>
+            <Chinesesimp>观看我们官方的'社区指导'影片。</Chinesesimp>
           </Key>
           <Key ID="str_a3_rscdisplaymain_buttoncommunityguide">
             <Original>Community Guides</Original>
@@ -1565,13 +1565,13 @@
     <Container name="Structures_F">
       <Key ID="str_a3_cfgvehicles_vr_sector_01_60deg_50_red_f0">
         <Original>VR Sector (60deg, 50m, Red)</Original>
-        <Chinese>虛擬實境防禦區(60度，50m，紅色)</Chinese>
-        <Chinesesimp>虚拟实境防御区(60度，50m，红色)</Chinesesimp>
+        <Chinese>虛擬實境防禦區(60度，50公尺，紅色)</Chinese>
+        <Chinesesimp>虚拟实境防御区(60度，50米，红色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_sector_01_60deg_50_grey_f0">
         <Original>VR Sector (60deg, 50m, Grey)</Original>
-        <Chinese>虛擬實境防禦區(60度，50m，灰色)</Chinese>
-        <Chinesesimp>虚拟实境防御区(60度，50m，灰色)</Chinesesimp>
+        <Chinese>虛擬實境防禦區(60度，50公尺，灰色)</Chinese>
+        <Chinesesimp>虚拟实境防御区(60度，50米，灰色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_helper_base_f0">
         <Original>VR Area</Original>
@@ -1625,13 +1625,13 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_area_01_circle_4_yellow_f0">
         <Original>VR Area (Circle, 4m, Yellow)</Original>
-        <Chinese>虛擬實境區域(圓形，4m，黃色)</Chinese>
-        <Chinesesimp>虚拟实境区域(圆形，4m，黄色)</Chinesesimp>
+        <Chinese>虛擬實境區域(圓形，4公尺，黃色)</Chinese>
+        <Chinesesimp>虚拟实境区域(圆形，4米，黄色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_vr_area_01_circle_4_grey_f0">
         <Original>VR Area (Circle, 4m, Grey)</Original>
-        <Chinese>虛擬實境區域(圓形，4m，灰色)</Chinese>
-        <Chinesesimp>虚拟实境区域(圆形，4m，灰色)</Chinesesimp>
+        <Chinese>虛擬實境區域(圓形，4公尺，灰色)</Chinese>
+        <Chinesesimp>虚拟实境区域(圆形，4米，灰色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_watercooler_01_old_f0">
         <Original>Water Cooler (Old)</Original>
@@ -1690,8 +1690,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_tent_02_small_sand_f0">
         <Original>Tent (Dome-shaped, CSAT, Sand)</Original>
-        <Chinese>帳篷(圓頂形，CSAT，沙色)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，CSAT，沙色)</Chinesesimp>
+        <Chinese>帳篷(圓頂形，廣協同盟，沙色)</Chinese>
+        <Chinesesimp>帐篷(圆顶形，广协同盟，沙色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_carbattery_02_f0">
         <Original>Car Battery (Car)</Original>
@@ -1700,8 +1700,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_tent_02_small_forest_f0">
         <Original>Tent (Dome-shaped, CSAT, Forest)</Original>
-        <Chinese>帳篷(圓頂形，CSAT，森林)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，CSAT，森林)</Chinesesimp>
+        <Chinese>帳篷(圓頂形，廣協同盟，森林)</Chinese>
+        <Chinesesimp>帐篷(圆顶形，广协同盟，森林)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_carbattery_01_f0">
         <Original>Car Battery (Truck)</Original>
@@ -1710,8 +1710,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_tent_01_small_sand_f0">
         <Original>Tent (Dome-shaped, NATO, Sand)</Original>
-        <Chinese>帳篷(圓頂形，NATO，沙色)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，NATO，沙色)</Chinesesimp>
+        <Chinese>帳篷(圓頂形，北約，沙色)</Chinese>
+        <Chinesesimp>帐篷(圆顶形，北约，沙色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_cargo10_vr_f0">
         <Original>Cargo Container (Short, VR)</Original>
@@ -1720,12 +1720,12 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_tent_01_small_forest_f0">
         <Original>Tent (Dome-shaped, NATO, Forest)</Original>
-        <Chinese>帳篷(圓頂形，NATO，森林)</Chinese>
+        <Chinese>帳篷(圓頂形，北約，森林)</Chinese>
         <Chinesesimp>帐篷(圆顶形，北约，森林)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_usertexture_1x2_f0">
         <Original>User Texture (1x2m)</Original>
-        <Chinese>使用者紋理(1x2m)</Chinese>
+        <Chinese>使用者紋理(1x2公尺)</Chinese>
         <Chinesesimp>用户纹理(1x2米)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_concretebunker_01_small_closed_f0">
@@ -1875,8 +1875,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_land_vr_block_04_f0">
         <Original>VR Obstacle (10.5x10.5x9)</Original>
-        <Chinese>虛擬實境障礙(10。5x10。5x9)</Chinese>
-        <Chinesesimp>虚拟实境障碍(10。5x10。5x9)</Chinesesimp>
+        <Chinese>虛擬實境障礙(10.5x10.5x9)</Chinese>
+        <Chinesesimp>虚拟实境障碍(10.5x10.5x9)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_medium_end_f0">
         <Original>Sandbags (Medium, End)</Original>
@@ -1950,8 +1950,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tent_02_small_f0">
         <Original>Tent (Dome-shaped, CSAT)</Original>
-        <Chinese>帳篷(圓頂形，CSAT)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，CSAT)</Chinesesimp>
+        <Chinese>帳篷(圓頂形，廣協同盟)</Chinese>
+        <Chinesesimp>帐篷(圆顶形，广协同盟)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbags_01_medium_short_f0">
         <Original>Sandbags (Medium, Short)</Original>
@@ -1960,8 +1960,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_land_tent_01_small_f0">
         <Original>Tent (Dome-shaped, NATO)</Original>
-        <Chinese>帳篷(圓頂形，NATO)</Chinese>
-        <Chinesesimp>帐篷(圆顶形，NATO)</Chinesesimp>
+        <Chinese>帳篷(圓頂形，北約)</Chinese>
+        <Chinesesimp>帐篷(圆顶形，北约)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_land_sandbagsentrypost_01_f0">
         <Original>Sandbag Sentry Post</Original>
@@ -2072,7 +2072,7 @@
       </Key>
       <Key ID="str_a3_h_cap_blk_raven0_boot">
         <Original>Cap [AAF]</Original>
-        <Chinese>小帽子[Altis政府軍]</Chinese>
+        <Chinese>小帽子[阿爾蒂斯武裝力量]</Chinese>
         <Chinesesimp>小帽子[阿尔蒂斯武装力量]</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_booniehat_tan0_boot">
@@ -2460,7 +2460,7 @@
       <Key ID="str_a3_rscdisplaywelcome_boot_parc_list1">
         <Original>a new 'Virtual Reality' world offers a blank canvas for VR training and more!</Original>
         <Chinese>新增了一個'虛擬實境'地圖，讓玩家可以運用來測試與訓練!</Chinese>
-        <Chinesesimp>新增了一个‘虚拟实境’地图，让玩家可以运用来测试与训练!</Chinesesimp>
+        <Chinesesimp>新增了一个'虚拟实境’地图，让玩家可以运用来测试与训练!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_boot_parc">
         <Original>Supporting these tutorials, you'll find several new items that expand the platform:</Original>

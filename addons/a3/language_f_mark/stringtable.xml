@@ -160,7 +160,7 @@
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_whitehead_22_l0">
           <Original>Kirby (Lush)</Original>
-          <Chinese>Kirby(深色)</Chinese>
+          <Chinese>科比(深色)</Chinese>
           <Chinesesimp>科比(深色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgfaces_man_a3_whitehead_22_a0">
@@ -402,7 +402,7 @@
       </Key>
       <Key ID="str_a3_cfgmods_mark_assets_dlcbscope010">
         <Original>Kahlia is a new CSAT designated marksman scope with illuminated iron sights, chosen to enhance the marksman rifles.</Original>
-        <Chinese>Kahlia是個CSAT的精準射手瞄準鏡，上面還裝有光學瞄準鏡，可讓精準射手步槍近距離和中距離都能交戰。</Chinese>
+        <Chinese>"喀利亞"是個廣協同盟的精準射手瞄準鏡，上面還裝有光學瞄準鏡，可讓精準射手步槍近距離和中距離都能交戰。</Chinese>
         <Chinesesimp>"喀利亚"是广协同盟的一种新型精准射手瞄准镜，上面还装有光学瞄具，可让精准射手步枪在近距离和中距离都能交战。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_mark_assets_dlcbremotedesignator0">
@@ -724,8 +724,8 @@
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiummark1">
         <Original>Hone your shooting skills and engage in ranged combat with the seven new weapons in the Arma 3 Marksmen DLC.%1&lt;img size='9' shadow='0' image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa' /&gt;%1%2&lt;t&gt;&lt;\t&gt;Weapon: Cyrus 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk14 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: ASP-1 Kir 12.7 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: SPMG .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Navid 9.3 mm%1%2&lt;t&gt;&lt;\t&gt;Weapon: MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;Weapon: Mk-I EMR 7.62 mm%1%2&lt;t&gt;&lt;\t&gt;Character: Sniper - with a new full ghillie suit%1%2&lt;t&gt;&lt;\t&gt;Character: Grenadier - with a new heavy vest%1%2&lt;t&gt;&lt;\t&gt;3 Singleplayer Firing Drills%1%2&lt;t&gt;&lt;\t&gt;End Game - a team based multiplayer mode%1%2&lt;t&gt;&lt;\t&gt;Showcase Firing From Vehicles%1%2&lt;t&gt;&lt;\t&gt;Showcase Marksmen%1%2&lt;t&gt;&lt;\t&gt;VR Training courses%1%2&lt;t&gt;&lt;\t&gt;Remote Designators%1%2&lt;t&gt;&lt;\t&gt;Laser Designators%1%2&lt;t&gt;&lt;\t&gt;Facepaints - 9 faces with camouflage%1%2&lt;t&gt;&lt;\t&gt;Kahlia Scope%1%2&lt;t&gt;&lt;\t&gt;AMS Scope%1%2&lt;t&gt;&lt;\t&gt;Weapon Accessories%1%2&lt;t&gt;&lt;\t&gt;Firing Drills Decorative Objects%1%2&lt;t&gt;&lt;\t&gt;Set of extra Steam Achievements%1&lt;t&gt;&lt;\t&gt;</Original>
-        <Chinese>使用新增的7把武器，在武裝突襲3精準射手資料片中磨練你的射擊技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:"塞魯斯" 9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1"基爾" 12.7公厘%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器:Navid 9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-I EMR 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;角色:狙擊手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴彈兵-有著新的防彈背心%1%2&lt;t&gt;&lt;\t&gt;3個新的射擊訓練%1%2&lt;t&gt;&lt;\t&gt;終戰-一個新的多人遊戲模式%1%2&lt;t&gt;&lt;\t&gt;任務展示-從載具中射擊%1%2&lt;t&gt;&lt;\t&gt;任務展示-精準射手%1%2&lt;t&gt;&lt;\t&gt;虛擬訓練課程%1%2&lt;t&gt;&lt;\t&gt;遙控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;臉譜-9張新的迷彩臉譜%1%2&lt;t&gt;&lt;\t&gt;喀利亞瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;先進精準射手瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射擊訓練物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinese>
-        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手资料片中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:"塞鲁斯" 9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1"基尔" 12.7毫米%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器:Navid 9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-I EMR 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;角色:狙击手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴弹兵-有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战-一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示-从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示-精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;激光指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;喀利亚瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
+        <Chinese>使用新增的7把武器，在武裝突襲3精準射手資料片中磨練你的射擊技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:"塞魯斯"9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1"基爾"12.7公厘%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器:"納維德"9.3公厘%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-I EMR 7.62公厘%1%2&lt;t&gt;&lt;\t&gt;角色:狙擊手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴彈兵-有著新的防彈背心%1%2&lt;t&gt;&lt;\t&gt;3個新的射擊訓練%1%2&lt;t&gt;&lt;\t&gt;終戰-一個新的多人遊戲模式%1%2&lt;t&gt;&lt;\t&gt;任務展示-從載具中射擊%1%2&lt;t&gt;&lt;\t&gt;任務展示-精準射手%1%2&lt;t&gt;&lt;\t&gt;虛擬訓練課程%1%2&lt;t&gt;&lt;\t&gt;遙控指示器%1%2&lt;t&gt;&lt;\t&gt;雷射指示器%1%2&lt;t&gt;&lt;\t&gt;臉譜-9張新的迷彩臉譜%1%2&lt;t&gt;&lt;\t&gt;"喀利亞"瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;先進精準射手瞄準鏡%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射擊訓練物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinese>
+        <Chinesesimp>使用新增的7把武器，在武装突袭3精准射手资料片中磨练你的射击技巧。%1&lt;imgsize='9'shadow='0'image='A3\Missions_F_Mark\data\img\Showcase_Marksman_overview_CA.paa'/&gt;%1%2&lt;t&gt;&lt;\t&gt;武器:"塞鲁斯"9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:Mk14 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;武器:ASP-1"基尔"12.7毫米%1%2&lt;t&gt;&lt;\t&gt;武器:SPMG .338%1%2&lt;t&gt;&lt;\t&gt;武器:"纳维德"9.3毫米%1%2&lt;t&gt;&lt;\t&gt;武器:MAR-10 .338%1%2&lt;t&gt;&lt;\t&gt;武器:Mk-I EMR 7.62毫米%1%2&lt;t&gt;&lt;\t&gt;角色:狙击手-穿有新的全身吉利服%1%2&lt;t&gt;&lt;\t&gt;角色:榴弹兵-有着新的防弹背心%1%2&lt;t&gt;&lt;\t&gt;3个新的射击训练%1%2&lt;t&gt;&lt;\t&gt;终战-一个新的多人游戏模式%1%2&lt;t&gt;&lt;\t&gt;任务展示-从载具中射击%1%2&lt;t&gt;&lt;\t&gt;任务展示-精准射手%1%2&lt;t&gt;&lt;\t&gt;虚拟训练课程%1%2&lt;t&gt;&lt;\t&gt;遥控指示器%1%2&lt;t&gt;&lt;\t&gt;激光指示器%1%2&lt;t&gt;&lt;\t&gt;脸谱-9张新的迷彩脸谱%1%2&lt;t&gt;&lt;\t&gt;"喀利亚"瞄准镜%1%2&lt;t&gt;&lt;\t&gt;先进精准射手瞄准镜%1%2&lt;t&gt;&lt;\t&gt;武器配件%1%2&lt;t&gt;&lt;\t&gt;射击训练物件%1%2&lt;t&gt;&lt;\t&gt;新的Steam成就%1&lt;t&gt;&lt;\t&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_premiumcontent_premiummark0">
         <Original>Marksmen DLC</Original>
@@ -887,33 +887,33 @@
       <Container name="Acc">
         <Key ID="str_a3_cfgweapons_optic_khs_tan0">
           <Original>Kahlia (Tan)</Original>
-          <Chinese>喀利亞(黃褐色)</Chinese>
-          <Chinesesimp>喀利亚(黄褐色)</Chinesesimp>
+          <Chinese>"喀利亞"(黃褐色)</Chinese>
+          <Chinesesimp>"喀利亚"(黄褐色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_old0">
           <Original>Kahlia (Old)</Original>
-          <Chinese>喀利亞(舊)</Chinese>
-          <Chinesesimp>喀利亚(旧)</Chinesesimp>
+          <Chinese>"喀利亞"(舊)</Chinese>
+          <Chinesesimp>"喀利亚"(旧)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_hex0">
           <Original>Kahlia (Hex)</Original>
-          <Chinese>喀利亞(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>喀利亚(蜂巢迷彩)</Chinesesimp>
+          <Chinese>"喀利亞"(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>"喀利亚"(蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_blk1">
           <Original>Kahlia&lt;br /&gt;Magnification: 5x–11x</Original>
-          <Chinese>喀利亞&lt;br/&gt;倍率:5x–11x</Chinese>
+          <Chinese>"喀利亞"&lt;br/&gt;倍率:5x–11x</Chinese>
           <Chinesesimp>"喀利亚"&lt;br/&gt;倍率:5x–11x</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_blk0">
           <Original>Kahlia (Black)</Original>
-          <Chinese>喀利亞(黑色)</Chinese>
-          <Chinesesimp>喀利亚(黑色)</Chinesesimp>
+          <Chinese>"喀利亞"(黑色)</Chinese>
+          <Chinesesimp>"喀利亚"(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_khs_base0">
           <Original>Kahlia</Original>
-          <Chinese>喀利亞</Chinese>
-          <Chinesesimp>喀利亚</Chinesesimp>
+          <Chinese>"喀利亞"</Chinese>
+          <Chinesesimp>"喀利亚"</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_optic_ams_snd0">
           <Original>AMS (Sand)</Original>
@@ -1113,13 +1113,13 @@
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_tan_f0">
           <Original>Cyrus 9.3 mm (Tan)</Original>
-          <Chinese>"塞魯斯" 9.3公厘(黃褐色)</Chinese>
-          <Chinesesimp>"塞鲁斯" 9.3毫米(黄褐色)</Chinesesimp>
+          <Chinese>"塞魯斯"9.3公厘(黃褐色)</Chinese>
+          <Chinesesimp>"塞鲁斯"9.3毫米(黄褐色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_hex_f0">
           <Original>Cyrus 9.3 mm (Hex)</Original>
-          <Chinese>"塞魯斯" 9.3公厘(數位蜂巢迷彩)</Chinese>
-          <Chinesesimp>"塞鲁斯" 9.3毫米(蜂巢迷彩)</Chinesesimp>
+          <Chinese>"塞魯斯"9.3公厘(數位蜂巢迷彩)</Chinese>
+          <Chinesesimp>"塞鲁斯"9.3毫米(蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_blk_f_library0">
           <Original>Thanks to the 9.3x64 mm ammunition, Cyrus offers better performance than standard 7.62 marksman rifles. At the same time, it is lighter and more versatile than heavy sniper rifles. Cyrus is a gas operated action rifle with single and full auto fire modes. It is a very precise and deadly weapon at a medium distance.</Original>
@@ -1133,13 +1133,13 @@
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_05_blk_f0">
           <Original>Cyrus 9.3 mm (Black)</Original>
-          <Chinese>"塞魯斯" 9.3公厘(黑色)</Chinese>
-          <Chinesesimp>"塞鲁斯" 9.3毫米(黑色)</Chinesesimp>
+          <Chinese>"塞魯斯"9.3公厘(黑色)</Chinese>
+          <Chinesesimp>"塞鲁斯"9.3毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_04_tan_f0">
           <Original>ASP-1 Kir 12.7 mm (Tan)</Original>
-          <Chinese>ASP-1"基爾" 12.7公厘(黃褐色)</Chinese>
-          <Chinesesimp>ASP-1"基尔" 12.7毫米(黄褐色)</Chinesesimp>
+          <Chinese>ASP-1"基爾"12.7公厘(黃褐色)</Chinese>
+          <Chinesesimp>ASP-1"基尔"12.7毫米(黄褐色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_04_f_library0">
           <Original>The ASP-1 Kir is a special purpose weapon. This semi-automatic rifle is unique thanks to the built-in silencer and ammunition it uses. The special 12.7x54 mm subsonic round can penetrate heavy body armor at 100 m. Kir is a devastating weapon at short ranges but above 200 m it very quickly loses efficiency.</Original>
@@ -1153,8 +1153,8 @@
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_04_f0">
           <Original>ASP-1 Kir 12.7 mm (Black)</Original>
-          <Chinese>ASP-1"基爾" 12.7公厘(黑色)</Chinese>
-          <Chinesesimp>ASP-1"基尔" 12.7毫米(黑色)</Chinesesimp>
+          <Chinese>ASP-1"基爾"12.7公厘(黑色)</Chinese>
+          <Chinesesimp>ASP-1"基尔"12.7毫米(黑色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_srifle_dmr_03_woodland_f0">
           <Original>Mk-I EMR 7.62 mm (Woodland)</Original>
@@ -1223,13 +1223,13 @@
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_05_base_f0">
           <Original>Cyrus 9.3 mm</Original>
-          <Chinese>"塞魯斯" 9.3公厘</Chinese>
+          <Chinese>"塞魯斯"9.3公厘</Chinese>
           <Chinesesimp>"塞鲁斯"9.3毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_04_base_f0">
           <Original>ASP-1 Kir 12.7 mm</Original>
-          <Chinese>ASP-1"基爾" 12.7公厘</Chinese>
-          <Chinesesimp>ASP-1"基尔" 12.7毫米</Chinesesimp>
+          <Chinese>ASP-1"基爾"12.7公厘</Chinese>
+          <Chinesesimp>ASP-1"基尔"12.7毫米</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_dmr_03_base_f0">
           <Original>Mk-I EMR 7.62 mm</Original>
@@ -1275,8 +1275,8 @@
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_tan_f0">
           <Original>Navid 9.3 mm (Tan)</Original>
-          <Chinese>"納維德" 9.3公厘(黃褐色)</Chinese>
-          <Chinesesimp>"纳维德" 9.3毫米(黄褐色)</Chinesesimp>
+          <Chinese>"納維德"9.3公厘(黃褐色)</Chinese>
+          <Chinesesimp>"纳维德"9.3毫米(黄褐色)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_hex_f_library0">
           <Original>Navid is a medium machine gun serving as a powerful support weapon. It uses the 9.3x64 mm ammunition. Navid's weight over 12 kg makes it quite difficult to fire from the standing position, but when deployed, it is a precise and deadly machine gun with outstanding suppressive effect.</Original>
@@ -1290,12 +1290,12 @@
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_hex_f0">
           <Original>Navid 9.3 mm (Hex)</Original>
-          <Chinese>"納維德" 9.3公厘(數位蜂巢迷彩)</Chinese>
+          <Chinese>"納維德"9.3公厘(數位蜂巢迷彩)</Chinese>
           <Chinesesimp>"纳维德"9.3毫米(蜂巢迷彩)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_mmg_01_base_f0">
           <Original>Navid 9.3 mm</Original>
-          <Chinese>"納維德" 9.3公厘</Chinese>
+          <Chinese>"納維德"9.3公厘</Chinese>
           <Chinesesimp>"纳维德"9.3毫米</Chinesesimp>
         </Key>
       </Container>
@@ -1484,7 +1484,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list7_title">
         <Original>Navid 9.3 mm</Original>
-        <Chinese>"納維德" 9.3公尺</Chinese>
+        <Chinese>"納維德"9.3公厘</Chinese>
         <Chinesesimp>"纳维德"9.3毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list7">
@@ -1604,8 +1604,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list1_title">
         <Original>Cyrus 9.3mm</Original>
-        <Chinese>"塞魯斯" 9.3公厘</Chinese>
-        <Chinesesimp>"塞鲁斯" 9.3毫米</Chinesesimp>
+        <Chinese>"塞魯斯"9.3公厘</Chinese>
+        <Chinesesimp>"塞鲁斯"9.3毫米</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_mark_pard_list19_title">
         <Original>End Game</Original>

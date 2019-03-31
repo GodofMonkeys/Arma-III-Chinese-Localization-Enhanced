@@ -3606,48 +3606,48 @@
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioj_text">
             <Original>Radio Juliet</Original>
-            <Chinese>無線電Juliet</Chinese>
-            <Chinesesimp>无线电朱丽叶</Chinesesimp>
+            <Chinese>無線電"Juliet"</Chinese>
+            <Chinesesimp>无线电"朱丽叶"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioi_text">
             <Original>Radio India</Original>
-            <Chinese>無線電India</Chinese>
-            <Chinesesimp>无线电印第安</Chinesesimp>
+            <Chinese>無線電"India"</Chinese>
+            <Chinesesimp>无线电"印第安"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioh_text">
             <Original>Radio Hotel</Original>
-            <Chinese>無線電Hotel</Chinese>
-            <Chinesesimp>无线电旅馆</Chinesesimp>
+            <Chinese>無線電"Hotel"</Chinese>
+            <Chinesesimp>无线电"旅馆"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radiog_text">
             <Original>Radio Golf</Original>
-            <Chinese>無線電Golf</Chinese>
-            <Chinesesimp>无线电高尔夫</Chinesesimp>
+            <Chinese>無線電"Golf"</Chinese>
+            <Chinesesimp>无线电"高尔夫"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radiof_text">
             <Original>Radio Foxtrot</Original>
-            <Chinese>無線電Foxtrot</Chinese>
-            <Chinesesimp>无线电狐步舞</Chinesesimp>
+            <Chinese>無線電"Foxtrot"</Chinese>
+            <Chinesesimp>无线电"狐步舞"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioe_text">
             <Original>Radio Echo</Original>
-            <Chinese>無線電Echo</Chinese>
-            <Chinesesimp>无线电回声</Chinesesimp>
+            <Chinese>無線電"Echo"</Chinese>
+            <Chinesesimp>无线电"回声"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radiod_text">
             <Original>Radio Delta</Original>
-            <Chinese>無線電Delta</Chinese>
-            <Chinesesimp>无线电德尔塔</Chinesesimp>
+            <Chinese>無線電"Delta"</Chinese>
+            <Chinesesimp>无线电"德尔塔"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioc_text">
             <Original>Radio Charlie</Original>
-            <Chinese>無線電Charlie</Chinese>
-            <Chinesesimp>无线电查理</Chinesesimp>
+            <Chinese>無線電"Charlie"</Chinese>
+            <Chinesesimp>无线电"查理"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radiob_text">
             <Original>Radio Bravo</Original>
-            <Chinese>無線電Bravo</Chinese>
-            <Chinesesimp>无线电布拉沃</Chinesesimp>
+            <Chinese>無線電"Bravo"</Chinese>
+            <Chinesesimp>无线电"布拉沃"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioa_tooltip">
             <Original>Activated by a player using a radio command (accessible for the player by pressing 0-0 on a standard keyboard). The trigger 'Text' will be used as the command title.</Original>
@@ -3656,8 +3656,8 @@
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_radioa_text">
             <Original>Radio Alpha</Original>
-            <Chinese>無線電Alpha</Chinese>
-            <Chinesesimp>无线电阿尔法</Chinesesimp>
+            <Chinese>無線電"Alpha"</Chinese>
+            <Chinesesimp>无线电"阿尔法"</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_none_tooltip">
             <Original>No default activation, only a custom condition expression can activate the trigger.</Original>

@@ -254,12 +254,9 @@
           <Chinesesimp>设置属性</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfghints_curator_attributes_description">
-          <Original>Scenarios can allow you to set specific entity attributes.%1Doubleclick %3[LMB]%4 on the entity icon or its name in the entity list to open the attributes window.&lt;br /&gt;&lt;br /&gt;Available attributes can be:%1%2Objects - health, skill, fuel, lock, ...%1%2Groups - callsign, combat mode, formation, ...%1%2Waypoints - combat mode, speed, ...%1%2Markers - text, color, ...
-</Original>
-          <Chinese>任務可以讓你設定一些特殊的屬性。%1雙擊%3[滑鼠左鍵]%4在單位圖示上或他在清單上的名字，即可開始編輯他的屬性。&lt;br/&gt;&lt;br/&gt;可以設定的屬性有以下幾種:%1%2單位-生命值，戰鬥技巧，燃料，載具鎖定...%1%2群組-呼號，交戰模式，隊形...%1%2路徑點-交戰模式，速度...%1%2標誌-文本，顏色...
-</Chinese>
-          <Chinesesimp>任务可以让你设定一些特殊的属性。%1双击%3[鼠标左键]%4在单位图示上或它在清单上的名字，即可开始编辑它的属性。&lt;br/&gt;&lt;br/&gt;可以设定的属性有以下几种:%1%2单位-生命值，战斗技巧，燃料，载具锁定...%1%2群组-呼号，交战模式，队形...%1%2路径点-交战模式，速度...%1%2标志-文本，颜色...
-</Chinesesimp>
+          <Original>Scenarios can allow you to set specific entity attributes.%1Doubleclick %3[LMB]%4 on the entity icon or its name in the entity list to open the attributes window.&lt;br /&gt;&lt;br /&gt;Available attributes can be:%1%2Objects - health, skill, fuel, lock, ...%1%2Groups - callsign, combat mode, formation, ...%1%2Waypoints - combat mode, speed, ...%1%2Markers - text, color, ...</Original>
+          <Chinese>任務可以讓你設定一些特殊的屬性。%1雙擊%3[滑鼠左鍵]%4在單位圖示上或他在清單上的名字，即可開始編輯他的屬性。&lt;br/&gt;&lt;br/&gt;可以設定的屬性有以下幾種:%1%2單位-生命值，戰鬥技巧，燃料，載具鎖定...%1%2群組-呼號，交戰模式，隊形...%1%2路徑點-交戰模式，速度...%1%2標誌-文本，顏色...</Chinese>
+          <Chinesesimp>任务可以让你设定一些特殊的属性。%1双击%3[鼠标左键]%4在单位图示上或它在清单上的名字，即可开始编辑它的属性。&lt;br/&gt;&lt;br/&gt;可以设定的属性有以下几种:%1%2单位-生命值，战斗技巧，燃料，载具锁定...%1%2群组-呼号，交战模式，队形...%1%2路径点-交战模式，速度...%1%2标志-文本，颜色...</Chinesesimp>
         </Key>
         <Key ID="str_a3_dlc_curator_description">
           <Original>Project Zeus is a new concept where scenarios are curated by one or more Game Masters. Using a 3D real-time editor, they can expand and manipulate scenario content in order to provide more interesting gameplay for other players.&lt;br /&gt;Specific goals and limitations prevent them from becoming too powerful and ensures they also have some challenges to overcome themselves.</Original>
@@ -2578,128 +2575,128 @@
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostz">
           <Original>Camp Zeal</Original>
-          <Chinese>熱情營地</Chinese>
-          <Chinesesimp>热情营地</Chinesesimp>
+          <Chinese>"熱情"營地</Chinese>
+          <Chinesesimp>"热情"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposty">
           <Original>Camp Yearning</Original>
-          <Chinese>懷念營地</Chinese>
-          <Chinesesimp>怀念营地</Chinesesimp>
+          <Chinese>"懷念"營地</Chinese>
+          <Chinesesimp>"怀念营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostw">
           <Original>Camp Willpower</Original>
-          <Chinese>意志營地</Chinese>
-          <Chinesesimp>意志营地</Chinesesimp>
+          <Chinese>"意志"營地</Chinese>
+          <Chinesesimp>"意志"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostv">
           <Original>Camp Valor</Original>
-          <Chinese>勇氣營地</Chinese>
-          <Chinesesimp>勇气营地</Chinesesimp>
+          <Chinese>"勇氣"營地</Chinese>
+          <Chinesesimp>"勇气"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostu">
           <Original>Camp Unity</Original>
-          <Chinese>統一營地</Chinese>
-          <Chinesesimp>统一营地</Chinesesimp>
+          <Chinese>"統一"營地</Chinese>
+          <Chinesesimp>"统一"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostt">
           <Original>Camp Tenacity</Original>
-          <Chinese>韌性營地</Chinese>
-          <Chinesesimp>韧性营地</Chinesesimp>
+          <Chinese>"韌性"營地</Chinese>
+          <Chinesesimp>"韧性"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposts">
           <Original>Camp Spirit</Original>
-          <Chinese>精神營地</Chinese>
-          <Chinesesimp>精神营地</Chinesesimp>
+          <Chinese>"精神"營地</Chinese>
+          <Chinesesimp>"精神"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostr">
           <Original>Camp Resolve</Original>
-          <Chinese>解決營地</Chinese>
-          <Chinesesimp>解决营地</Chinesesimp>
+          <Chinese>"解決"營地</Chinese>
+          <Chinesesimp>"解决"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostq">
           <Original>Camp Quality</Original>
-          <Chinese>質量營地</Chinese>
-          <Chinesesimp>质量营地</Chinesesimp>
+          <Chinese>"質量"營地</Chinese>
+          <Chinesesimp>"质量"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostp">
           <Original>Camp Prowess</Original>
-          <Chinese>實力營地</Chinese>
-          <Chinesesimp>实力营地</Chinesesimp>
+          <Chinese>"實力"營地</Chinese>
+          <Chinesesimp>"实力"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposto">
           <Original>Camp Omnipotence</Original>
-          <Chinese>全能營地</Chinese>
-          <Chinesesimp>全能营地</Chinesesimp>
+          <Chinese>"全能"營地</Chinese>
+          <Chinesesimp>"全能"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostn">
           <Original>Camp Nobility</Original>
-          <Chinese>貴族營地</Chinese>
-          <Chinesesimp>贵族营地</Chinesesimp>
+          <Chinese>"貴族"營地</Chinese>
+          <Chinesesimp>"贵族"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostm">
           <Original>Camp Might</Original>
-          <Chinese>威力營地</Chinese>
-          <Chinesesimp>威力营地</Chinesesimp>
+          <Chinese>"威力"營地</Chinese>
+          <Chinesesimp>"威力"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostl">
           <Original>Camp Loyalty</Original>
-          <Chinese>忠誠營地</Chinese>
-          <Chinesesimp>忠诚营地</Chinesesimp>
+          <Chinese>"忠誠"營地</Chinese>
+          <Chinesesimp>"忠诚"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostk">
           <Original>Camp Knight</Original>
-          <Chinese>騎士營地</Chinese>
-          <Chinesesimp>骑士营地</Chinesesimp>
+          <Chinese>"騎士"營地</Chinese>
+          <Chinesesimp>"骑士"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostj">
           <Original>Camp Judgement</Original>
-          <Chinese>判斷營地</Chinese>
-          <Chinesesimp>判断营地</Chinesesimp>
+          <Chinese>"判斷"營地</Chinese>
+          <Chinesesimp>"判断"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposti">
           <Original>Camp Independence</Original>
-          <Chinese>獨立營地</Chinese>
-          <Chinesesimp>独立营地</Chinesesimp>
+          <Chinese>"獨立"營地</Chinese>
+          <Chinesesimp>"独立"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposth">
           <Original>Camp Honor</Original>
-          <Chinese>榮譽營地</Chinese>
-          <Chinesesimp>荣誉营地</Chinesesimp>
+          <Chinese>"榮譽"營地</Chinese>
+          <Chinesesimp>"荣誉"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostg">
           <Original>Camp Grit</Original>
-          <Chinese>沙礫營地</Chinese>
-          <Chinesesimp>沙砾营地</Chinesesimp>
+          <Chinese>"沙礫"營地</Chinese>
+          <Chinesesimp>"沙砾"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostf">
           <Original>Camp Fortitude</Original>
-          <Chinese>堅毅營地</Chinese>
-          <Chinesesimp>坚毅营地</Chinesesimp>
+          <Chinese>"堅毅"營地</Chinese>
+          <Chinesesimp>"坚毅"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposte">
           <Original>Camp Endurance</Original>
-          <Chinese>耐力營地</Chinese>
-          <Chinesesimp>耐力营地</Chinesesimp>
+          <Chinese>"耐力"營地</Chinese>
+          <Chinesesimp>"耐力"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostd">
           <Original>Camp Defiance</Original>
-          <Chinese>蔑視營地</Chinese>
-          <Chinesesimp>蔑视营地</Chinesesimp>
+          <Chinese>"蔑視"營地</Chinese>
+          <Chinesesimp>"蔑视"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostc">
           <Original>Camp Courage</Original>
-          <Chinese>勇氣營地</Chinese>
-          <Chinesesimp>勇气营地</Chinesesimp>
+          <Chinese>"勇氣"營地</Chinese>
+          <Chinesesimp>"勇气"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outpostb">
           <Original>Camp Bravery</Original>
-          <Chinese>勇敢營地</Chinese>
-          <Chinesesimp>勇敢营地</Chinesesimp>
+          <Chinese>"勇敢"營地</Chinese>
+          <Chinesesimp>"勇敢"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts_outposta">
           <Original>Camp Audacity</Original>
-          <Chinese>大膽營地</Chinese>
-          <Chinesesimp>大胆营地</Chinesesimp>
+          <Chinese>"大膽"營地</Chinese>
+          <Chinesesimp>"大胆"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_military_outposts">
           <Original>Outposts</Original>
@@ -2713,118 +2710,118 @@
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campz">
           <Original>Camp Zebra</Original>
-          <Chinese>斑馬營地</Chinese>
-          <Chinesesimp>斑马营地</Chinesesimp>
+          <Chinese>"斑馬"營地</Chinese>
+          <Chinesesimp>"斑马"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campy">
           <Original>Camp Yak</Original>
-          <Chinese>氂牛營地</Chinese>
-          <Chinesesimp>牦牛营地</Chinesesimp>
+          <Chinese>"氂牛"營地</Chinese>
+          <Chinesesimp>"牦牛"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campw">
           <Original>Camp Wolf</Original>
-          <Chinese>狼營地</Chinese>
-          <Chinesesimp>狼营地</Chinesesimp>
+          <Chinese>"狼"營地</Chinese>
+          <Chinesesimp>"狼"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campv">
           <Original>Camp Vulture</Original>
-          <Chinese>禿鷹營地</Chinese>
-          <Chinesesimp>秃鹰营地</Chinesesimp>
+          <Chinese>"禿鷹"營地</Chinese>
+          <Chinesesimp>"秃鹰"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campt">
           <Original>Camp Tiger</Original>
-          <Chinese>虎營地</Chinese>
-          <Chinesesimp>虎营地</Chinesesimp>
+          <Chinese>"虎"營地</Chinese>
+          <Chinesesimp>"虎"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_camps">
           <Original>Camp Snake</Original>
-          <Chinese>蛇營地</Chinese>
-          <Chinesesimp>蛇营地</Chinesesimp>
+          <Chinese>"蛇"營地</Chinese>
+          <Chinesesimp>"蛇"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campr">
           <Original>Camp Raccoon</Original>
-          <Chinese>狸營地</Chinese>
-          <Chinesesimp>狸营地</Chinesesimp>
+          <Chinese>"狸"營地</Chinese>
+          <Chinesesimp>"狸"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campp">
           <Original>Camp Puma</Original>
-          <Chinese>美洲獅營地</Chinese>
-          <Chinesesimp>美洲狮营地</Chinesesimp>
+          <Chinese>"美洲獅"營地</Chinese>
+          <Chinesesimp>"美洲狮"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campo">
           <Original>Camp Ocelot</Original>
-          <Chinese>山貓營地</Chinese>
-          <Chinesesimp>山猫营地</Chinesesimp>
+          <Chinese>"山貓"營地</Chinese>
+          <Chinesesimp>"山猫"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campn">
           <Original>Camp Nighthawk</Original>
-          <Chinese>貓頭鷹營地</Chinese>
-          <Chinesesimp>猫头鹰营地</Chinesesimp>
+          <Chinese>"貓頭鷹"營地</Chinese>
+          <Chinesesimp>"猫头鹰"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campm">
           <Original>Camp Moose</Original>
-          <Chinese>駝鹿營地</Chinese>
-          <Chinesesimp>驼鹿营地</Chinesesimp>
+          <Chinese>"駝鹿"營地</Chinese>
+          <Chinesesimp>"驼鹿"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campl">
           <Original>Camp Lion</Original>
-          <Chinese>獅子營地</Chinese>
-          <Chinesesimp>狮子营地</Chinesesimp>
+          <Chinese>"獅子"營地</Chinese>
+          <Chinesesimp>"狮子"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campk">
           <Original>Camp Kangaroo</Original>
-          <Chinese>袋鼠營地</Chinese>
-          <Chinesesimp>袋鼠营地</Chinesesimp>
+          <Chinese>"袋鼠"營地</Chinese>
+          <Chinesesimp>"袋鼠"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campj">
           <Original>Camp Jackal</Original>
-          <Chinese>狐狼營地</Chinese>
-          <Chinesesimp>狐狼营地</Chinesesimp>
+          <Chinese>"狐狼"營地</Chinese>
+          <Chinesesimp>"狐狼"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campi">
           <Original>Camp Iguana</Original>
-          <Chinese>鬣蜥營地</Chinese>
-          <Chinesesimp>鬣蜥营地</Chinesesimp>
+          <Chinese>"鬣蜥"營地</Chinese>
+          <Chinesesimp>"鬣蜥"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_camph">
           <Original>Camp Hawk</Original>
-          <Chinese>鷹營地</Chinese>
-          <Chinesesimp>鹰营地</Chinesesimp>
+          <Chinese>"鷹"營地</Chinese>
+          <Chinesesimp>"鹰"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campg">
           <Original>Camp Goat</Original>
-          <Chinese>山羊營地</Chinese>
-          <Chinesesimp>山羊营地</Chinesesimp>
+          <Chinese>"山羊"營地</Chinese>
+          <Chinesesimp>"山羊"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campf">
           <Original>Camp Falcon</Original>
-          <Chinese>鶻營地</Chinese>
-          <Chinesesimp>鹘营地</Chinesesimp>
+          <Chinese>"鶻"營地</Chinese>
+          <Chinesesimp>"鹘"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campe">
           <Original>Camp Eagle</Original>
-          <Chinese>鷹營地</Chinese>
-          <Chinesesimp>鹰营地</Chinesesimp>
+          <Chinese>"鷹"營地</Chinese>
+          <Chinesesimp>"鹰"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campd">
           <Original>Camp Deer</Original>
-          <Chinese>鹿營地</Chinese>
-          <Chinesesimp>鹿营地</Chinesesimp>
+          <Chinese>"鹿"營地</Chinese>
+          <Chinesesimp>"鹿"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campc">
           <Original>Camp Crow</Original>
-          <Chinese>烏鴉營地</Chinese>
-          <Chinesesimp>乌鸦营地</Chinesesimp>
+          <Chinese>"烏鴉"營地</Chinese>
+          <Chinesesimp>"乌鸦"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campb">
           <Original>Camp Bear</Original>
-          <Chinese>熊營地</Chinese>
-          <Chinesesimp>熊营地</Chinesesimp>
+          <Chinese>"熊"營地</Chinese>
+          <Chinesesimp>"熊"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps_campa">
           <Original>Camp Ant</Original>
-          <Chinese>螞蟻營地</Chinese>
-          <Chinesesimp>蚂蚁营地</Chinesesimp>
+          <Chinese>"螞蟻"營地</Chinese>
+          <Chinesesimp>"蚂蚁"营地</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfggroups_empty_guerrilla_camps">
           <Original>Camps</Original>

@@ -512,7 +512,7 @@
       </Key>
       <Key ID="str_a3_AchToLifeline_description">
         <Original>Transported all injured soldiers to the LZ Blazer in the Breaking Through mission of the Steel Pegasus operation.</Original>
-        <Chinese>在"鋼鐵飛馬"行動的"突破重圍"任務中將所有受傷的士兵運送到Blazer著陸場。</Chinese>
+        <Chinese>在"鋼鐵飛馬"行動的"突破重圍"任務中將所有受傷的士兵運送到布雷澤著陸場。</Chinese>
         <Chinesesimp>在"钢铁天马"行动的"突破"任务中将所有受伤的士兵运送到布雷泽着陆区。</Chinesesimp>
       </Key>
       <Key ID="str_a3_AchToSteelPegasus_title">
@@ -577,7 +577,7 @@
       </Key>
       <Key ID="str_a3_AchToForwardObserver_description">
         <Original>Destroyed all APCs defending Orino by artillery strike in the Beyond Hope operation.</Original>
-        <Chinese>在"毫無指望"行動中，成功以砲擊摧毀防守Orino的所有裝甲運兵車。</Chinese>
+        <Chinese>在"毫無指望"行動中，成功以砲擊摧毀防守奧里諾的所有裝甲運兵車。</Chinese>
         <Chinesesimp>已在"毫无希望"行动中利用炮击摧毁防守奥里诺的所有装甲运兵车。</Chinesesimp>
       </Key>
       <Key ID="str_a3_AchToForwardObserver_title">
@@ -594,8 +594,8 @@
       </Key>
       <Key ID="STR_A3_TacOps_CfgHints_PremiumTacOps_description">
         <Original>%11%1%12 %1%2"Beyond Hope" - nine years prior to the "East Wind" conflict, civil war rages through the Republic of Altis and Stratis. %1%2"Stepping Stone" - NATO reinforcements responding to the "East Wind" crisis must first secure the strategic island of Malden. %1%2"Steel Pegasus" - during the invasion of Altis, NATO forces stage a daring air assault to open a second front. %1%2After Action Report (AAR) Videos - re-visit the operations with one of Bohemia's military consultants via in-depth videos. %1%2HoldKey function - executes a user-defined code when a key has been held down for a specified period of time. %1%2Basic Civilian Behavior - provides an Eden Editor module which enhances civilian behavior during fight scenes, and improves performance by using agent entities. %1%2Animated Briefing Framework - used for creating briefings with animated markers (resizing, non-linear moving, coloring), including a timeline function for better timing and synchronization. %1%2Official Soundtrack – listen to newly composed music tracks. %1%2Achievements - a set of extra &lt;a href='%13'&gt;Steam Achievements&lt;/a&gt;</Original>
-        <Chinese>%11%1%12%1%2"毫無指望"--時間回到"東風"衝突爆發九年前，Altis與Stratis共和國內戰劇烈。%1%2"墊腳石"--NATO增援部隊為回應"東風"危機，必須先清剿具戰略價值的小島Malden。%1%2"鋼鐵飛馬"--NATO部隊在侵攻Altis期間，安排了一次大膽的空中攻擊，拉開第二戰線。%1%2行動後報告(AAR)影片--跟著Bohemia的軍事顧問，深入回顧整場作戰。%1%2長按功能--當持續按住指定按鍵一段時間後，自動執行玩家自訂的代碼。%1%2基本平民行為--是EdenEditor中的模組，強化作戰中平民的行為，以及代理人實體的表現。%1%2動畫簡報框架--可將動畫標記(縮放、非線性移動、上色)用於製作簡報，包括時間線功能，方便校準時間與同步。%1%2原聲帶--傾聽最新譜曲製作的遊戲音樂。%1%2成就--新增多種&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
-        <Chinesesimp>%11%1%12%1%2"毫无希望"-"东风"冲突之前九年，内战席卷阿尔蒂斯和斯特拉蒂斯共和国。%1%2"垫脚石"-对"东风"危机做出反应的北约增援部队首先必须夺取马尔登的战略性岛屿。%1%2"钢铁天马"-入侵阿尔蒂斯期间，北约部队展开一场猛烈的空袭，以开启第二前线。%1%2行动后报告(AAR)视频-观看深度视频，和波希米亚的一位军事顾问一起回顾军事行动。%1%2保持键功能-在指定的一段时间内按住按键时执行用户定义代码。%1%2基本平民行为-提供EdenEditor模块，优化战斗场景中的平民行为，同时通过使用代理实体提高性能。%1%2动画简报框架-用于通过动画标记(调整大小、非线性移动、着色)创建简报，包括实现更佳计时和同步的时间线功能。%1%2官方音轨-倾听最新创作的乐曲。%1%2成就-一组额外的&lt;ahref='%13'&gt;&gt;Steam成就&lt;/a&gt;</Chinesesimp>
+        <Chinese>%11%1%12%1%2"毫無指望"--時間回到"東風"衝突爆發9年前，阿爾蒂斯與斯特拉蒂斯共和國內戰劇烈。%1%2"墊腳石"--北約增援部隊為回應"東風"危機，必須先清剿具戰略價值的小島馬爾登。%1%2"鋼鐵飛馬"--北約部隊在侵攻阿爾蒂斯期間，安排了一次大膽的空中攻擊，拉開第二戰線。%1%2行動後報告(AAR)影片--跟著波西米亞的軍事顧問，深入回顧整場作戰。%1%2長按功能--當持續按住指定按鍵一段時間後，自動執行玩家自訂的代碼。%1%2基本平民行為--是伊甸編輯器中的模組，強化作戰中平民的行為，以及代理人實體的表現。%1%2動畫簡報框架--可將動畫標記(縮放、非線性移動、上色)用於製作簡報，包括時間線功能，方便校準時間與同步。%1%2原聲帶--傾聽最新譜曲製作的遊戲音樂。%1%2成就--新增多種&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
+        <Chinesesimp>%11%1%12%1%2"毫无希望"-"东风"冲突之前9年，内战席卷阿尔蒂斯和斯特拉蒂斯共和国。%1%2"垫脚石"-对"东风"危机做出反应的北约增援部队首先必须夺取马尔登的战略性岛屿。%1%2"钢铁天马"-入侵阿尔蒂斯期间，北约部队展开一场猛烈的空袭，以开启第二前线。%1%2行动后报告(AAR)视频-观看深度视频，和波希米亚的一位军事顾问一起回顾军事行动。%1%2保持键功能-在指定的一段时间内按住按键时执行用户自定义代码。%1%2基本平民行为-提供伊甸编辑器模块，优化战斗场景中的平民行为，同时通过使用代理实体提高性能。%1%2动画简报框架-用于通过动画标记(调整大小、非线性移动、着色)创建简报，包括实现更佳计时和同步的时间线功能。%1%2官方音轨-倾听最新创作的乐曲。%1%2成就-一组额外的&lt;ahref='%13'&gt;&gt;Steam成就&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="STR_A3_TacOps_CfgMods_name">
         <Original>Arma 3 Tac-Ops</Original>
@@ -641,8 +641,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_to_parc_list4">
         <Original>provides an Eden Editor module which enhances civilian behavior during fight scenes, and improves performance by using agent entities.</Original>
-        <Chinese>是EdenEditor中的模組，強化作戰中平民的行為，以及代理人實體的表現。</Chinese>
-        <Chinesesimp>提供EdenEditor模块，优化战斗场景中的平民行为，同时通过使用代理实体提高性能。</Chinesesimp>
+        <Chinese>是伊甸編輯器中的模組，強化作戰中平民的行為，以及代理人實體的表現。</Chinese>
+        <Chinesesimp>提供伊甸编辑器模块，优化战斗场景中的平民行为，同时通过使用代理实体提高性能。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_to_parc_list3_title">
         <Original>HoldKey Function</Original>
@@ -652,7 +652,7 @@
       <Key ID="str_a3_rscdisplaywelcome_to_parc_list3">
         <Original>executes a user-defined code when a key has been held down for a specified period of time.</Original>
         <Chinese>當持續按住指定按鍵一段時間後，自動執行玩家自訂的代碼。</Chinese>
-        <Chinesesimp>在指定的一段时间内按住按键时执行用户定义代码。</Chinesesimp>
+        <Chinesesimp>在指定的一段时间内按住按键时执行用户自定义代码。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_to_parc_list2_title">
         <Original>After Action Report (AAR) Videos</Original>
@@ -661,7 +661,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_to_parc_list2">
         <Original>re-visit the operations with one of Bohemia's military consultants via in-depth videos.</Original>
-        <Chinese>跟著Bohemia的軍事顧問，深入回顧整場作戰。</Chinese>
+        <Chinese>跟著波西米亞的軍事顧問，深入回顧整場作戰。</Chinese>
         <Chinesesimp>观看深度视频，和波希米亚的一位军事顾问一起回顾军事行动。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_to_parc_list1_title">
@@ -681,8 +681,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_to_parc_list1a">
         <Original>nine years prior to the "East Wind" conflict, civil war rages through the Republic of Altis and Stratis.</Original>
-        <Chinese>時間回到"東風"衝突爆發九年前，阿爾蒂斯和斯特拉蒂斯共和國內戰劇烈。</Chinese>
-        <Chinesesimp>"东风"冲突之前九年，内战正在阿尔蒂斯和斯特拉蒂斯共和国肆虐。</Chinesesimp>
+        <Chinese>時間回到"東風"衝突爆發9年前，阿爾蒂斯和斯特拉蒂斯共和國內戰劇烈。</Chinese>
+        <Chinesesimp>"东风"冲突之前9年，内战正在阿尔蒂斯和斯特拉蒂斯共和国肆虐。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_to_parc">
         <Original>Go over all of the premium content and platform additions that Arma 3 Tac-Ops offers:</Original>

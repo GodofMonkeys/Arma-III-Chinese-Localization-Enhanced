@@ -668,7 +668,7 @@
         <Container name="DescriptionShort">
           <Key ID="str_cfgweapons_launch_mprl_short_f1">
             <Original>Rocket Launcher&lt;br /&gt;Ammo: 127 mm Titan Rocket</Original>
-            <Chinese>火箭發射器&lt;br/&gt;彈藥:127毫米"泰坦"火箭彈</Chinese>
+            <Chinese>火箭發射器&lt;br/&gt;彈藥:127公厘"泰坦"火箭彈</Chinese>
             <Chinesesimp>火箭发射器&lt;br/&gt;弹药:127毫米"泰坦"火箭弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_lmg_zafir_f1">
@@ -1253,7 +1253,7 @@
           </Key>
           <Key ID="str_a3_h_helmetcrewia0">
             <Original>Crew Helmet [AAF]</Original>
-            <Chinese>機組員頭盔[Altis政府軍]</Chinese>
+            <Chinese>機組員頭盔[阿爾蒂斯武裝力量]</Chinese>
             <Chinesesimp>机组员头盔[阿尔蒂斯武装力量]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_crewhelmetheli_b0">
@@ -1263,7 +1263,7 @@
           </Key>
           <Key ID="str_a3_h_crewhelmetheli_ia0">
             <Original>Heli Crew Helmet [AAF]</Original>
-            <Chinese>直升機機組員頭盔[Altis政府軍]</Chinese>
+            <Chinese>直升機機組員頭盔[阿爾蒂斯武裝力量]</Chinese>
             <Chinesesimp>直升机机组员头盔[阿尔蒂斯武装力量]</Chinesesimp>
           </Key>
           <Key ID="str_a3_h_crewhelmetheli_o0">
@@ -1400,8 +1400,8 @@
           </Key>
           <Key ID="str_a3_kaiberoi_leader_outfit">
             <Original>Kabeiroi Leader's Outfit</Original>
-            <Chinese>Kabeiroi領導的套裝</Chinese>
-            <Chinesesimp>Kabeiroi领导的套装</Chinesesimp>
+            <Chinese>偉大領導的套裝</Chinese>
+            <Chinesesimp>伟大领导的套装</Chinesesimp>
           </Key>
           <Key ID="str_a3_novak_leiser_suit">
             <Original>Novak's Leisure Suit</Original>
@@ -2195,7 +2195,7 @@
       </Key>
       <Key ID="str_a3_cfghqidentities_ind_0">
         <Original>Phalanx</Original>
-        <Chinese>密集陣</Chinese>
+        <Chinese>"密集陣"</Chinese>
         <Chinesesimp>"密集阵"</Chinesesimp>
       </Key>
       <Container name="Vehicles" />
@@ -4513,7 +4513,7 @@ Rules of Engagement are up to you:&lt;br /&gt;
       <Key ID="str_a3_bis_fnc_titlecard_pressspace">
         <Original>%1PRESS %2[SPACE]%3 TO ADVANCE%4</Original>
         <Chinese>%1按下%2[空白鍵]%3來繼續%4</Chinese>
-        <Chinesesimp>%1按下%2[空白键]%3来继续%4</Chinesesimp>
+        <Chinesesimp>%1按下%2[空格键]%3来继续%4</Chinesesimp>
       </Key>
       <Key ID="str_a3_bis_fnc_respawnmenuposition_random">
         <Original>Random</Original>

@@ -9,7 +9,7 @@
       </Key>
       <Key ID="STR_A3_cfgvests_rebreather_aaf0">
         <Original>Rebreather [AAF]</Original>
-        <Chinese>密閉式循環水肺[Altis政府軍]</Chinese>
+        <Chinese>密閉式循環水肺[阿爾蒂斯武裝力量]</Chinese>
         <Chinesesimp>密闭式循环水肺[阿尔蒂斯武装力量]</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgweapons_nvg_green0">
@@ -849,7 +849,7 @@
       <Key ID="str_a3_guide_listening1">
         <Original>A sharp ear is often as valuable as a sharp eye, and there are several things you will want to listen for at all times, such as the sounds of combat, vehicles, movement, and voices.%1%1%2%3Combat.%4 If you hear firing, figure out what direction it’s coming from. The more experienced you are, the more likely you’ll be able to distinguish the different types of rifle fire from a distance.%1%2%3Vehicles.%4 Being able to hear a vehicle from a distance, as well as to identify the class by the sound it makes (such as being able to distinguish the noise of tracks from wheels, or rotors from jet engines) can help to prevent surprise and maintain the initiative.%1%2%3Movement.%4 Soldiers make noise as they move around the battlefield, so listen for it. Observe the sound of boots on gravel, uniforms brushing against trees, the thumping and rustling of someone running through underbrush, or anything else that catches the ear. This is particularly important in dense terrain.%1%2%3Voices.%4 Know who your teammates are, and know their voices. If you hear someone you don’t recognize, it could quite possibly be the enemy. If you know you’re in enemy territory, stay particularly alert for any unknown voices, and use any that you hear to help guide you towards the enemy and deal some damage to them.</Original>
         <Chinese>一個耳聽八方的耳朵，其帶來的效果不比眼睛觀察差，你必須時常注意戰鬥，載具，移動，講話聲音等等。%1%1%2%3戰鬥。%4假如你聽到槍聲，請先搞清楚大致方向在哪。如果你經驗豐富，你甚至可以辨別開火的槍枝是哪一種類型。%1%2%3載具。%4從遠處辨別載具的聲音，如螺旋槳，噴射引擎或車輪的聲音，藉此提早戒備並維持主動權。%1%2%3移動。%4士兵在移動的時候，多多少少都會發出一點聲音，所以請仔細留意它們。敵人的皮靴經常有可能會在碎石，樹木，草叢間發出聲音。留意它們將使你的生存率提高。%1%2%3講話聲音。%4了解你的隊友，謹記他們的聲音。假如你聽到了你不認識的聲音，它就有可能是由敵人所發出的。假如你好好應用以上幾招，你將能在敵人的領土上獲得先機，給敵人一個驚喜並重創他們。</Chinese>
-        <Chinesesimp>一对耳听八方的耳朵，其带来的效果不比眼睛观察差，你必须时常注意战斗，载具，移动，讲话声音等等。%1%1%2%3战斗。%4假如你听到枪声，请先搞清楚大致方向在哪。如果你经验丰富，你甚至可以辨别开火的枪枝是哪一种类型。%1%2%3载具。%4从远处辨别载具的声音，如螺旋桨，喷射引擎或车轮的声音，藉此提早戒备并维持主动权。%1%2%3移动。%4士兵在移动的时候，多多少少都会发出一点声音，所以请仔细留意它们。敌人的皮靴经常有可能会在碎石，树木，草丛间发出声音。留意它们将使你的生存率提高。%1%2%3讲话声音。%4了解你的队友，谨记他们的声音。假如你听到了你不认识的声音，它就有可能是由敌人所发出的。假如你好好应用以上几招，你将能在敌人的领土上获得先机，给敌人一个惊喜并重创他们。</Chinesesimp>
+        <Chinesesimp>一对耳听八方的耳朵，其带来的效果不比眼睛观察差，你必须时常注意战斗，载具，移动，讲话声音等等。%1%1%2%3战斗。%4假如你听到枪声，请先搞清楚大致方向在哪。如果你经验丰富，你甚至可以辨别开火的枪支是哪一种类型。%1%2%3载具。%4从远处辨别载具的声音，如螺旋桨，喷射引擎或车轮的声音，藉此提早戒备并维持主动权。%1%2%3移动。%4士兵在移动的时候，多多少少都会发出一点声音，所以请仔细留意它们。敌人的皮靴经常有可能会在碎石，树木，草丛间发出声音。留意它们将使你的生存率提高。%1%2%3讲话声音。%4了解你的队友，谨记他们的声音。假如你听到了你不认识的声音，它就有可能是由敌人所发出的。假如你好好应用以上几招，你将能在敌人的领土上获得先机，给敌人一个惊喜并重创他们。</Chinesesimp>
       </Key>
     </Container>
     <Container name="Temp" />

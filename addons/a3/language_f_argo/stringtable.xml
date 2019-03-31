@@ -1566,7 +1566,7 @@
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_list1">
         <Original>this 62 km2 terrain is a re-imagining of the original Malden from &lt;a href='%2' color='%1'&gt;Arma: Cold War Assault&lt;/a&gt;</Original>
         <Chinese>這個62平方公里的小島是以&lt;ahref='%2'color='%1'&gt;武裝突襲:冷戰危機&lt;/a&gt;的經典地圖製作而成</Chinese>
-        <Chinesesimp>这个62平方公里的小岛是以&lt;ahref='%2'color='%1'&gt;武装突袭:冷战危机&lt;/a&gt;的经典地图制作而成</Chinesesimp>
+        <Chinesesimp>这个62平方千米的小岛是以&lt;ahref='%2'color='%1'&gt;武装突袭:冷战危机&lt;/a&gt;的经典地图制作而成</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_pard_footer">
         <Original>See you on Malden!</Original>
@@ -1585,8 +1585,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parc">
         <Original>To (re)introduce Malden to you in a fun way, we are releasing a completely new &lt;t color='%1'&gt;multiplayer&lt;/t&gt; mode, Combat Patrol, as well as instances of the Escape mode for our two most recent terrains (Tanoa and Malden). &lt;a href='%3' color='%2'&gt;Combat Patrol&lt;/a&gt; is a quick and dynamic cooperative multiplayer mode in which you are a member of an infantry team with the possibility to select the Area of Operations. Each play-through will be different thanks to the mode's heavily randomized nature and behavior. If you want to experience authentic Arma gameplay, then Combat Patrol is a great starting point. The mode is available for all of our official terrains, including Malden. &lt;t color='%1'&gt;Escape&lt;/t&gt; is the multiplayer mode known from its original Altis variant, now also available for Malden and Tanoa (as a bonus for &lt;a href='%4' color='%2'&gt;Apex&lt;/a&gt; owners). Can you handle the challenge and escape the islands together against overwhelming odds?</Original>
-        <Chinese>為了以有趣的方式重新向你介紹馬爾登，我們釋出了一個全新的&lt;tcolor='%1'&gt;多人遊戲&lt;/t&gt;模式，戰鬥巡邏，同時也讓逃離的任務模式增加到最新的兩個地圖上(塔諾亞和馬爾登)。&lt;ahref='%3'color='%2'&gt;戰鬥巡邏&lt;/a&gt;是個快速且動態的多人合作遊戲模式，你跟你的隊友可以自行選擇要出任務的地點。感謝模組高度化的隨機性，在你每次遊玩任務的時候都會有不一樣的體驗。如果你想體驗正宗的武裝突襲遊戲體驗的話，那麼戰鬥巡邏就是個不錯的開始。這個模是可以在我們所有原版的地圖上遊玩，包括新推出的馬爾登。&lt;tcolor='%1'&gt;逃離&lt;/t&gt;這個多人遊戲模式是從原本阿爾蒂斯上的任務變化而來的，現在也可以在馬爾登與塔諾亞上玩到此模式(也當作是給擁有&lt;ahref='%4'color='%2'&gt;頂尖&lt;/a&gt;資料片玩家的額外內容)。你能突破所有挑戰並成功逃離這些島嗎?</Chinese>
-        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式(也当作是给拥有&lt;ahref='%4'color='%2'&gt;顶尖&lt;/a&gt;资料片玩家的额外内容)。你能完成所有挑战并成功逃离这些岛吗?</Chinesesimp>
+        <Chinese>為了以有趣的方式重新向你介紹馬爾登，我們釋出了一個全新的&lt;tcolor='%1'&gt;多人遊戲&lt;/t&gt;模式，戰鬥巡邏，同時也讓逃離的任務模式增加到最新的兩個地圖上(塔諾亞和馬爾登)。&lt;ahref='%3'color='%2'&gt;戰鬥巡邏&lt;/a&gt;是個快速且動態的多人合作遊戲模式，你跟你的隊友可以自行選擇要出任務的地點。感謝模組高度化的隨機性，在你每次遊玩任務的時候都會有不一樣的體驗。如果你想體驗正宗的武裝突襲遊戲體驗的話，那麼戰鬥巡邏就是個不錯的開始。這個模式是可以在我們所有原版的地圖上遊玩，包括新推出的馬爾登。&lt;tcolor='%1'&gt;逃離&lt;/t&gt;這個多人遊戲模式是從原本阿爾蒂斯上的任務變化而來的，現在也可以在馬爾登與塔諾亞上玩到此模式(也當作是給擁有&lt;ahref='%4'color='%2'&gt;頂尖&lt;/a&gt;資料片玩家的額外內容)。你能突破所有挑戰並成功逃離這些島嗎?</Chinese>
+        <Chinesesimp>为了以有趣的方式重新向你介绍马尔登，我们放出了一个全新的&lt;tcolor='%1'&gt;多人游戏&lt;/t&gt;模式，战斗巡逻，同时也让逃离的任务模式增加到最新的两个地图上(塔诺亚和马尔登)。&lt;ahref='%3'color='%2'&gt;战斗巡逻&lt;/a&gt;是个快速且动态的多人合作游戏模式，你跟你的队友可以自行选择执行任务的地点。感谢模组高度化的随机性，在你每次游玩任务的时候都会有不一样的体验。如果你想体验正宗的武装突袭游戏体验的话，那么战斗巡逻就是个不错的开始。这个模式是可以在我们所有原版的地图上游玩，包括新推出的马尔登。&lt;tcolor='%1'&gt;逃离&lt;/t&gt;这个多人游戏模式是从原本阿尔蒂斯上的任务变化而来的，现在也可以在马尔登与塔诺亚上玩到此模式(也当作是给拥有&lt;ahref='%4'color='%2'&gt;顶尖&lt;/a&gt;资料片玩家的额外内容)。你能完成所有挑战并成功逃离这些岛吗?</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_malden_parb_title">
         <Original>NEW TERRAIN_</Original>
@@ -1675,7 +1675,7 @@
         <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Argo\Images\AssetMaldenTerrain_co.paa'/&gt;
 %1找回武装突袭系列作最初的感动。马尔登2035不是只有1比1复制武装突袭:冷战危机经典的马尔登地图而已。它以既熟悉又新奇的样子重回大家的面前，有着新地点等你去探索，像是武装突袭:手机行动的地图或雷达塔等。虽然马尔登重新使用了许多武装突袭3原版的建筑，植被与物件等等，我们仍为它特别制作了一些亮点，像是彩色的房子，葡萄园与农场建筑等。我们希望你能享受并重新体验马尔登。希望它可以让你想起许多在武装突袭中的美好回忆!
 %1%1%3概要%4%
-%1%2大小-62平方公里的土地
+%1%2大小-62平方千米的土地
 %1%2不同的地点-沙漠，森林，田地以及城镇等等
 %1%2建筑-彩色的房子，葡萄园，谷仓和数不清的新房子
 %1%2路标-新的方向路标，公车站以及社区玩家制作的广告牌</Chinesesimp>
@@ -2016,7 +2016,7 @@
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext140">
           <Original>La Cime, Malden's highest point, reaches 523 m above sea level.</Original>
-          <Chinese>LaCime是Malden的最高點，海拔高523公尺。</Chinese>
+          <Chinese>拉·西默是馬爾登的最高點，海拔高523公尺。</Chinese>
           <Chinesesimp>拉·西默是马尔登岛的最高点，海拔523米。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgworlds_malden_loadingtext130">

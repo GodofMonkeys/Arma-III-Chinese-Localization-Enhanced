@@ -212,7 +212,7 @@
       <Key ID="str_a3_rscdisplaywelcome_expb_parc">
         <Original>The old scenario editor excelled in its game integration and ease-of-use, yet it allowed designers to create complex modes as well. Eden Editor represents a massive leap forward. Both editors will be available until the platform update coinciding with the Apex expansion is released. We recommend you try the in-editor tutorials for a quick look at the basics.</Original>
         <Chinese>舊的編輯器其簡單好用的特性，為社群創造了不少的任務，但仍然有些功能上的不足。而伊甸編輯器正是為了補齊這些功能而來，它將編輯功能帶到了一個新的境界。直到頂尖資料片上市前，兩個新舊編輯器都將同時保留。我們建議你盡快透過新編輯器中的教學文件來學習新編輯器的用法。</Chinese>
-        <Chinesesimp>旧的编辑器其简单好用的特性，为社区创造了不少的任务，但仍然有些功能上的不足。而伊甸编辑器正是为了补齐这些功能而来，它将编辑功能带到了一个新的境界。直到顶尖DLC上市前，两个新旧编辑器都将同时保留。我们建议你尽快通过新编辑器中的教学文件来学习新编辑器的用法。</Chinesesimp>
+        <Chinesesimp>旧的编辑器其简单好用的特性，为社区创造了不少的任务，但仍然有些功能上的不足。而伊甸编辑器正是为了补齐这些功能而来，它将编辑功能带到了一个新的境界。直到顶尖资料片上市前，两个新旧编辑器都将同时保留。我们建议你尽快通过新编辑器中的教学文件来学习新编辑器的用法。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_expb_parb_title">
         <Original>EDEN UPDATE</Original>
@@ -827,8 +827,8 @@
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_edenupdate_description">
         <Original>Our focus for Eden Update was on bringing %3scenario editing%4 forward in a big way. Many other exciting improvements to the core user experience were included as well:%1%2Combat Audio%1%2Launcher-Based Server Browser%1%2Font%1%2Analytics%1%2Steam Leaderboards%1%2Scripted System Optimizations%1%2Parallax Ground Surfaces%1%1&lt;a href='http://www.arma3.com/eden'&gt;More about Eden Update&lt;/a&gt;</Original>
-        <Chinese>在此次伊甸更新中，我們為%3任務編輯%4帶來了重大改變。也包括許多令人興奮的特色:%1%2交戰音效%1%2遊戲啟動器上的伺服器瀏覽器%1%2字型%1%2分析%1%2Steam排行榜%1%2腳本系統優化%1%2表面凹凸優化%1%1&lt;ahref='http://www。arma3。com/eden'&gt;更多資訊請見官方網站&lt;/a&gt;</Chinese>
-        <Chinesesimp>在此次伊甸更新中，我们为%3任务编辑%4带来了重大改变。也包括许多令人兴奋的特色:%1%2交战音效%1%2游戏启动器上的服务器浏览器%1%2字体%1%2分析%1%2Steam排行榜%1%2脚本系统优化%1%2表面凹凸优化%1%1&lt;ahref='http://www。arma3。com/eden'&gt;更多信息请见官方网站&lt;/a&gt;</Chinesesimp>
+        <Chinese>在此次伊甸更新中，我們為%3任務編輯%4帶來了重大改變。也包括許多令人興奮的特色:%1%2交戰音效%1%2遊戲啟動器上的伺服器瀏覽器%1%2字型%1%2分析%1%2Steam排行榜%1%2腳本系統優化%1%2表面凹凸優化%1%1&lt;ahref='https://www.arma3.com/eden'&gt;更多資訊請見官方網站&lt;/a&gt;</Chinese>
+        <Chinesesimp>在此次伊甸更新中，我们为%3任务编辑%4带来了重大改变。也包括许多令人兴奋的特色:%1%2交战音效%1%2游戏启动器上的服务器浏览器%1%2字体%1%2分析%1%2Steam排行榜%1%2脚本系统优化%1%2表面凹凸优化%1%1&lt;ahref='https://www.arma3.com/eden'&gt;更多信息请见官方网站&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_font_description">
         <Original>We've changed Arma 3's font for a more %3legible one%4 - in-game, in our Launcher and on our &lt;a href='https://arma3.com/'&gt;website&lt;/a&gt;. In addition, we've improved our font rendering technology for better %3kerning%4 of characters.</Original>
@@ -842,8 +842,8 @@
       </Key>
       <Key ID="str_a3_cfghints_edenupdate_steamleaderboards_description">
         <Original>You can now %3compete%4 with your friends in the game's %3Firing Drill%4 and %3Time Trial Challenges%4. These modes will log your best competitive times onto &lt;a href='http://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam Leaderboards&lt;/a&gt;. Compare your performance to your own friends or the best competitors in the world!</Original>
-        <Chinese>現在開始你可以在遊戲的%3射擊訓練%4與%3計時賽%4中與好友一較高下。這些模式將會上傳你的最佳成績至&lt;ahref='http://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam排行榜&lt;/a&gt;上。你可以與朋友或是世界頂尖的玩家一同競爭!</Chinese>
-        <Chinesesimp>现在开始你可以在游戏的%3射击训练%4与%3计时赛%4中与好友一较高下。这些模式将会上传你的最佳成绩至&lt;ahref='http://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam排行榜&lt;/a&gt;上。你可以与朋友或是世界顶尖的玩家一同竞争!</Chinesesimp>
+        <Chinese>現在開始你可以在遊戲的%3射擊訓練%4與%3計時賽%4中與好友一較高下。這些模式將會上傳你的最佳成績至&lt;ahref='https://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam排行榜&lt;/a&gt;上。你可以與朋友或是世界頂尖的玩家一同競爭!</Chinese>
+        <Chinesesimp>现在开始你可以在游戏的%3射击训练%4与%3计时赛%4中与好友一较高下。这些模式将会上传你的最佳成绩至&lt;ahref='https://steamcommunity.com/stats/107410/leaderboards/'&gt;Steam排行榜&lt;/a&gt;上。你可以与朋友或是世界顶尖的玩家一同竞争!</Chinesesimp>
       </Key>
     </Container>
     <Container name="Characters">

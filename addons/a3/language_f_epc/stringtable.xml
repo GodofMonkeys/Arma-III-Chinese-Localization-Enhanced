@@ -201,7 +201,7 @@
       </Key>
       <Key ID="str_a3_cfgmagazines_40rnd_105mm_apfsds0">
         <Original>105mm APFSDS</Original>
-        <Chinese>105mm尾翼穩定脫殼穿甲彈</Chinese>
+        <Chinese>105公厘尾翼穩定脫殼穿甲彈</Chinese>
         <Chinesesimp>105毫米尾翼稳定脱壳穿甲弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cannon_105mm0">
@@ -270,7 +270,7 @@
     <Container name="Soft_F">
       <Key ID="str_a3_cfgvehicles_truck_03_base_f_library0">
         <Original>The Tempest is a 6x6 mine resistant standard transport truck for the CSAT army. Its primary role is to carry troops and cargo under armor. The modular design of the truck allows several transport versions: cargo, refuel, medical, repair and ammo resupply.</Original>
-        <Chinese>"風暴"是服役於CSAT裡的一臺六輪驅動標準防地雷運輸卡車。它的主要特點有別於其他部隊的運輸卡車，它是一臺有裝甲保護的運輸卡車，用它來運輸部隊或貨物更能比其他部隊的卡車來的安全。它的設計允許能有很多種用途，除了基本的運輸還有以下幾種功能:貨物，燃油，醫療，維修和彈藥。</Chinese>
+        <Chinese>"風暴"是服役於廣協同盟裡的一臺六輪驅動標準防地雷運輸卡車。它的主要特點有別於其他部隊的運輸卡車，它是一臺有裝甲保護的運輸卡車，用它來運輸部隊或貨物更能比其他部隊的卡車來的安全。它的設計允許能有很多種用途，除了基本的運輸還有以下幾種功能:貨物，燃油，醫療，維修和彈藥。</Chinese>
         <Chinesesimp>"风暴"是服役于广协同盟部队的一种6x6驱动防地雷标准运输卡车。其主要职责是在装甲保护下运输部队和物资。卡车的模块化设计允许其拥有多种运输型号:货物运输，燃油补给，医疗救护，维修车辆和弹药补给。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_truck_03_base_f0">

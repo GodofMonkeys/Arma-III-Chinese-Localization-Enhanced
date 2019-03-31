@@ -1136,7 +1136,7 @@
         <Key ID="str_a3_cfgmarkers_loc_viewtower">
           <Original>View Tower</Original>
           <Chinese>瞭望塔</Chinese>
-          <Chinesesimp>了望塔</Chinesesimp>
+          <Chinesesimp>瞭望塔</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_loc_transmitter">
           <Original>Radio Tower</Original>
@@ -1370,7 +1370,7 @@
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_csat">
           <Original>CSAT</Original>
-          <Chinese>CSAT</Chinese>
+          <Chinese>廣協同盟</Chinese>
           <Chinesesimp>广协同盟</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_croatia">
@@ -1395,17 +1395,17 @@
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_altiscolonial">
           <Original>Altis (Colonial)</Original>
-          <Chinese>Altis(殖民地)</Chinese>
+          <Chinese>阿爾蒂斯(殖民地)</Chinese>
           <Chinesesimp>阿尔蒂斯(殖民地)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_altis">
           <Original>Altis</Original>
-          <Chinese>Altis</Chinese>
+          <Chinese>阿爾蒂斯</Chinese>
           <Chinesesimp>阿尔蒂斯</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_aaf">
           <Original>Altis Armed Forces</Original>
-          <Chinese>Altis政府軍</Chinese>
+          <Chinese>阿爾蒂斯武裝力量</Chinese>
           <Chinesesimp>阿尔蒂斯武装力量</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_ctrg">
@@ -1420,7 +1420,7 @@
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_tanoa">
           <Original>Tanoa</Original>
-          <Chinese>Tanoa</Chinese>
+          <Chinese>塔諾亞</Chinese>
           <Chinesesimp>塔诺亚</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgmarkers_flag_tanoagendarmerie">
@@ -4098,7 +4098,7 @@
         </Key>
         <Key ID="str_a3_credits_SupportB01division">
           <Original>Bravo Zero One Support Squad</Original>
-          <Chinese>BravoZeroOne支援部門</Chinese>
+          <Chinese>Bravo Zero One支援部門</Chinese>
           <Chinesesimp>Bravo Zero One支援部门</Chinesesimp>
         </Key>
         <Key ID="str_a3_credits_productionmikedivision">
@@ -16102,8 +16102,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_bravo">
           <Original>Bravo</Original>
-          <Chinese>Bravo</Chinese>
-          <Chinesesimp>布拉沃</Chinesesimp>
+          <Chinese>"Bravo"</Chinese>
+          <Chinesesimp>"布拉沃"</Chinesesimp>
         </Key>
         <Key ID="str_dn_car">
           <Original>Car</Original>
@@ -16127,7 +16127,7 @@
         </Key>
         <Key ID="str_cfg_grpnames_charlie">
           <Original>Charlie</Original>
-          <Chinese>Charlie</Chinese>
+          <Chinese>"Charlie"</Chinese>
           <Chinesesimp>查理</Chinesesimp>
         </Key>
         <Key ID="str_dn_big_ship">
@@ -16147,8 +16147,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_delta">
           <Original>Delta</Original>
-          <Chinese>Delta</Chinese>
-          <Chinesesimp>德尔塔</Chinesesimp>
+          <Chinese>"Delta"</Chinese>
+          <Chinesesimp>"德尔塔"</Chinesesimp>
         </Key>
         <Key ID="str_dn_apc">
           <Original>APC</Original>
@@ -16157,8 +16157,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_echo">
           <Original>Echo</Original>
-          <Chinese>Echo</Chinese>
-          <Chinesesimp>回声</Chinesesimp>
+          <Chinese>"Echo"</Chinese>
+          <Chinesesimp>"回声"</Chinesesimp>
         </Key>
         <Key ID="str_dn_animals">
           <Original>Animals</Original>
@@ -16167,8 +16167,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_fox">
           <Original>Fox</Original>
-          <Chinese>Fox</Chinese>
-          <Chinesesimp>狐狸</Chinesesimp>
+          <Chinese>"Fox"</Chinese>
+          <Chinesesimp>"狐狸"</Chinesesimp>
         </Key>
         <Key ID="str_dn_animal">
           <Original>Animal</Original>
@@ -16177,8 +16177,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_foxtrot">
           <Original>Foxtrot</Original>
-          <Chinese>Foxtrot</Chinese>
-          <Chinesesimp>狐步舞</Chinesesimp>
+          <Chinese>"Foxtrot"</Chinese>
+          <Chinesesimp>"狐步舞"</Chinesesimp>
         </Key>
         <Key ID="str_dn_air">
           <Original>Air</Original>
@@ -16187,13 +16187,13 @@
         </Key>
         <Key ID="str_cfg_grpnames_golf">
           <Original>Golf</Original>
-          <Chinese>Golf</Chinese>
-          <Chinesesimp>高尔夫</Chinesesimp>
+          <Chinese>"Golf"</Chinese>
+          <Chinesesimp>"高尔夫"</Chinesesimp>
         </Key>
         <Key ID="str_cfg_grpnames_guardian">
           <Original>Guardian</Original>
-          <Chinese>Guardian</Chinese>
-          <Chinesesimp>守卫者</Chinesesimp>
+          <Chinese>"守護者"</Chinese>
+          <Chinesesimp>"守护者"</Chinesesimp>
         </Key>
         <Key ID="str_dn_empty">
           <Original>No object</Original>
@@ -16207,18 +16207,18 @@
         </Key>
         <Key ID="str_cfg_grpnames_hotel">
           <Original>Hotel</Original>
-          <Chinese>Hotel</Chinese>
-          <Chinesesimp>旅店</Chinesesimp>
+          <Chinese>"Hotel"</Chinese>
+          <Chinesesimp>"旅馆"</Chinesesimp>
         </Key>
         <Key ID="str_cfg_grpnames_kilo">
           <Original>Kilo</Original>
-          <Chinese>Kilo</Chinese>
-          <Chinesesimp>基洛</Chinesesimp>
+          <Chinese>"Kilo"</Chinese>
+          <Chinesesimp>"基洛"</Chinesesimp>
         </Key>
         <Key ID="str_cfg_papabear">
           <Original>CROSSROAD</Original>
-          <Chinese>CROSSROAD</Chinese>
-          <Chinesesimp>交叉路口</Chinesesimp>
+          <Chinese>"交叉路"</Chinese>
+          <Chinesesimp>"交叉路口"</Chinesesimp>
         </Key>
         <Key ID="str_dn_cameras">
           <Original>Cameras</Original>
@@ -16227,8 +16227,8 @@
         </Key>
         <Key ID="str_cfg_grpnames_november">
           <Original>November</Original>
-          <Chinese>November</Chinese>
-          <Chinesesimp>November</Chinesesimp>
+          <Chinese>"November"</Chinese>
+          <Chinesesimp>"十一月"</Chinesesimp>
         </Key>
         <Key ID="str_cfg_grpnames_six">
           <Original>Six</Original>
@@ -16272,13 +16272,13 @@
         </Key>
         <Key ID="str_cfg_grpnames_yankee">
           <Original>Yankee</Original>
-          <Chinese>揚基</Chinese>
-          <Chinesesimp>扬基</Chinesesimp>
+          <Chinese>"Yankee"</Chinese>
+          <Chinesesimp>"扬基"</Chinesesimp>
         </Key>
         <Key ID="str_cfg_grpnames_zulu">
           <Original>Zulu</Original>
-          <Chinese>祖魯</Chinese>
-          <Chinesesimp>祖鲁</Chinesesimp>
+          <Chinese>"Zulu"</Chinese>
+          <Chinesesimp>"祖鲁"</Chinesesimp>
         </Key>
         <Key ID="str_cfg_markers_flag">
           <Original>Flag</Original>
@@ -16605,7 +16605,7 @@
         <Key ID="str_action_droptakemagazine">
           <Original>Take %1 (drop %2)%3</Original>
           <Chinese>Take%1(drop%2)%3</Chinese>
-          <Chinesesimp>Take%1(drop%2)%3</Chinesesimp>
+          <Chinesesimp>拿取%1(投下%2)%3</Chinesesimp>
         </Key>
         <Key ID="str_xbox_question_abort_mission">
           <Original>You are attempting to abort the mission. Your progress and all saves from this mission will be lost. Are you sure?</Original>
@@ -16849,8 +16849,8 @@
         </Key>
         <Key ID="str_xbox_live_hint_try_again">
           <Original>Try again.</Original>
-          <Chinese>在試ㄧ次。</Chinese>
-          <Chinesesimp>在试ㄧ次。</Chinesesimp>
+          <Chinese>在試一次。</Chinese>
+          <Chinesesimp>在试一次。</Chinesesimp>
         </Key>
         <Key ID="str_action_hover_cancel">
           <Original>Auto-Hover Off</Original>
@@ -23499,8 +23499,8 @@
         </Key>
         <Key ID="str_sensoractiv_juliet">
           <Original>Radio Juliet</Original>
-          <Chinese>無線電Juliet</Chinese>
-          <Chinesesimp>无线电朱丽叶</Chinesesimp>
+          <Chinese>無線電"Juliet"</Chinese>
+          <Chinesesimp>无线电"朱丽叶"</Chinesesimp>
         </Key>
         <Key ID="str_monday">
           <Original>Mon</Original>
@@ -23514,8 +23514,8 @@
         </Key>
         <Key ID="str_sensoractiv_india">
           <Original>Radio India</Original>
-          <Chinese>無線電India</Chinese>
-          <Chinesesimp>无线电印第安</Chinesesimp>
+          <Chinese>無線電"India"</Chinese>
+          <Chinesesimp>无线电"印第安"</Chinesesimp>
         </Key>
         <Key ID="str_mouse_format_double_click">
           <Original>2x %s</Original>
@@ -23529,8 +23529,8 @@
         </Key>
         <Key ID="str_sensoractiv_hotel">
           <Original>Radio Hotel</Original>
-          <Chinese>無線電Hotel</Chinese>
-          <Chinesesimp>无线电旅馆</Chinesesimp>
+          <Chinese>無線電"Hotel"</Chinese>
+          <Chinesesimp>无线电"旅馆"</Chinesesimp>
         </Key>
         <Key ID="str_move">
           <Original>Move</Original>
@@ -23559,8 +23559,8 @@
         </Key>
         <Key ID="str_sensoractiv_golf">
           <Original>Radio Golf</Original>
-          <Chinese>無線電Golf</Chinese>
-          <Chinesesimp>无线电高尔夫</Chinesesimp>
+          <Chinese>無線電"Golf"</Chinese>
+          <Chinesesimp>无线电"高尔夫"</Chinesesimp>
         </Key>
         <Key ID="str_mp_connect">
           <Original>Player %s connected</Original>
@@ -23574,8 +23574,8 @@
         </Key>
         <Key ID="str_sensoractiv_foxtrot">
           <Original>Radio Foxtrot</Original>
-          <Chinese>無線電Foxtrot</Chinese>
-          <Chinesesimp>无线电狐步舞</Chinesesimp>
+          <Chinese>無線電"Foxtrot"</Chinese>
+          <Chinesesimp>无线电"狐步舞"</Chinesesimp>
         </Key>
         <Key ID="str_mp_connection_loosing">
           <Original>Player %s is losing connection</Original>
@@ -23589,8 +23589,8 @@
         </Key>
         <Key ID="str_sensoractiv_echo">
           <Original>Radio Echo</Original>
-          <Chinese>無線電Echo</Chinese>
-          <Chinesesimp>无线电回声</Chinesesimp>
+          <Chinese>無線電"Echo"</Chinese>
+          <Chinesesimp>无线电"回声"</Chinesesimp>
         </Key>
         <Key ID="str_mp_kicked">
           <Original>Player %s kicked off</Original>
@@ -23604,8 +23604,8 @@
         </Key>
         <Key ID="str_sensoractiv_delta">
           <Original>Radio Delta</Original>
-          <Chinese>無線電Delta</Chinese>
-          <Chinesesimp>无线电德尔塔</Chinesesimp>
+          <Chinese>無線電"Delta"</Chinese>
+          <Chinesesimp>无线电"德尔塔"</Chinesesimp>
         </Key>
         <Key ID="str_mp_logged">
           <Original>Logged in as admin</Original>
@@ -23619,8 +23619,8 @@
         </Key>
         <Key ID="str_sensoractiv_charlie">
           <Original>Radio Charlie</Original>
-          <Chinese>無線電Charlie</Chinese>
-          <Chinesesimp>无线电查理</Chinesesimp>
+          <Chinese>無線電"Charlie"</Chinese>
+          <Chinesesimp>无线电"查理"</Chinesesimp>
         </Key>
         <Key ID="str_mp_master">
           <Original>Admin</Original>
@@ -23634,8 +23634,8 @@
         </Key>
         <Key ID="str_sensoractiv_bravo">
           <Original>Radio Bravo</Original>
-          <Chinese>無線電Bravo</Chinese>
-          <Chinesesimp>无线电布拉沃</Chinesesimp>
+          <Chinese>無線電"Bravo"</Chinese>
+          <Chinesesimp>无线电"布拉沃"</Chinesesimp>
         </Key>
         <Key ID="str_mp_players">
           <Original>Players</Original>
@@ -23659,8 +23659,8 @@
         </Key>
         <Key ID="str_sensoractiv_alpha">
           <Original>Radio Alpha</Original>
-          <Chinese>無線電Alpha</Chinese>
-          <Chinesesimp>无线电阿尔法</Chinesesimp>
+          <Chinese>無線電"Alpha"</Chinese>
+          <Chinesesimp>无线电"阿尔法"</Chinesesimp>
         </Key>
         <Key ID="str_mprole_enable">
           <Original>Enable</Original>
@@ -24009,8 +24009,8 @@
         </Key>
         <Key ID="str_radio_juliet">
           <Original>Juliet</Original>
-          <Chinese>Juliet</Chinese>
-          <Chinesesimp>朱丽叶</Chinesesimp>
+          <Chinese>"Juliet"</Chinese>
+          <Chinesesimp>"朱丽叶"</Chinesesimp>
         </Key>
         <Key ID="str_msg_confirm_purchase_content">
           <Original>Are you sure you want to purchase the content?</Original>
@@ -24024,8 +24024,8 @@
         </Key>
         <Key ID="str_radio_india">
           <Original>India</Original>
-          <Chinese>India</Chinese>
-          <Chinesesimp>印第安</Chinesesimp>
+          <Chinese>"India"</Chinese>
+          <Chinesesimp>"印第安"</Chinesesimp>
         </Key>
         <Key ID="str_msg_confirm_return_lobby">
           <Original>If you cancel this mission, all players will be returned to the lobby. Are you sure?</Original>
@@ -24039,8 +24039,8 @@
         </Key>
         <Key ID="str_radio_hotel">
           <Original>Hotel</Original>
-          <Chinese>Hotel</Chinese>
-          <Chinesesimp>旅馆</Chinesesimp>
+          <Chinese>"Hotel"</Chinese>
+          <Chinesesimp>"旅馆"</Chinesesimp>
         </Key>
         <Key ID="str_msg_confirm_revoke_invitation">
           <Original>Are you sure you don't want %s to join your game?</Original>
@@ -24054,8 +24054,8 @@
         </Key>
         <Key ID="str_radio_golf">
           <Original>Golf</Original>
-          <Chinese>Golf</Chinese>
-          <Chinesesimp>高尔夫</Chinesesimp>
+          <Chinese>"Golf"</Chinese>
+          <Chinesesimp>"高尔夫"</Chinesesimp>
         </Key>
         <Key ID="str_msg_confirm_terminate_session_client">
           <Original>Are you sure you want to leave this session?</Original>
@@ -24069,8 +24069,8 @@
         </Key>
         <Key ID="str_radio_foxtrot">
           <Original>Foxtrot</Original>
-          <Chinese>Foxtrot</Chinese>
-          <Chinesesimp>狐步舞</Chinesesimp>
+          <Chinese>"Foxtrot"</Chinese>
+          <Chinesesimp>"狐步舞"</Chinesesimp>
         </Key>
         <Key ID="str_msg_disk_full_u">
           <Original>Your Xbox doesn’t have enough free blocks to save games. Please free %d blocks.</Original>
@@ -24084,8 +24084,8 @@
         </Key>
         <Key ID="str_radio_echo">
           <Original>Echo</Original>
-          <Chinese>Echo</Chinese>
-          <Chinesesimp>回声</Chinesesimp>
+          <Chinese>"Echo"</Chinese>
+          <Chinesesimp>"回声"</Chinesesimp>
         </Key>
         <Key ID="str_msg_launch_game">
           <Original>Not all players are ready. Are you sure?</Original>
@@ -24099,8 +24099,8 @@
         </Key>
         <Key ID="str_radio_delta">
           <Original>Delta</Original>
-          <Chinese>Delta</Chinese>
-          <Chinesesimp>德尔塔</Chinesesimp>
+          <Chinese>"Delta"</Chinese>
+          <Chinesesimp>"德尔塔"</Chinesesimp>
         </Key>
         <Key ID="str_msg_live_not_signed_in">
           <Original>You need to be signed into Xbox LIVE to access this feature.</Original>
@@ -24114,8 +24114,8 @@
         </Key>
         <Key ID="str_radio_charlie">
           <Original>Charlie</Original>
-          <Chinese>Charlie</Chinese>
-          <Chinesesimp>查理</Chinesesimp>
+          <Chinese>"Charlie"</Chinese>
+          <Chinesesimp>"查理"</Chinesesimp>
         </Key>
         <Key ID="str_msg_load_templ_fail">
           <Original>Loading of mission failed!</Original>
@@ -24129,8 +24129,8 @@
         </Key>
         <Key ID="str_radio_bravo">
           <Original>Bravo</Original>
-          <Chinese>Bravo</Chinese>
-          <Chinesesimp>布拉沃</Chinesesimp>
+          <Chinese>"Bravo"</Chinese>
+          <Chinesesimp>"布拉沃"</Chinesesimp>
         </Key>
         <Key ID="str_msg_lot_units">
           <Original>Only %d units per group are supported!</Original>
@@ -24144,8 +24144,8 @@
         </Key>
         <Key ID="str_radio_alpha">
           <Original>Alpha</Original>
-          <Chinese>Alpha</Chinese>
-          <Chinesesimp>阿尔法</Chinesesimp>
+          <Chinese>"Alpha"</Chinese>
+          <Chinesesimp>"阿尔法"</Chinesesimp>
         </Key>
         <Key ID="str_msg_marker_empty">
           <Original>Marker name cannot be empty!</Original>
@@ -25539,23 +25539,23 @@
         </Key>
         <Key ID="STR_USRACT_BULD_TERRAIN_LOWER_10CM">
           <Original>Buldozer Lower Terrain 10 cm</Original>
-          <Chinese>Buldozer地形下降10cm</Chinese>
-          <Chinesesimp>Buldozer地形下降10cm</Chinesesimp>
+          <Chinese>Buldozer地形下降10公尺</Chinese>
+          <Chinesesimp>Buldozer地形下降10厘米</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_BULD_TERRAIN_LOWER_50CM">
           <Original>Buldozer Lower Terrain 50 cm</Original>
-          <Chinese>Buldozer地形下降50cm</Chinese>
-          <Chinesesimp>Buldozer地形下降50cm</Chinesesimp>
+          <Chinese>Buldozer地形下降50公尺</Chinese>
+          <Chinesesimp>Buldozer地形下降50厘米</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_BULD_TERRAIN_RAISE_10CM">
           <Original>Buldozer Raise Terrain 10 cm</Original>
-          <Chinese>Buldozer地形上升10cm</Chinese>
-          <Chinesesimp>Buldozer地形上升10cm</Chinesesimp>
+          <Chinese>Buldozer地形上升10公尺</Chinese>
+          <Chinesesimp>Buldozer地形上升10厘米</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_BULD_TERRAIN_RAISE_50CM">
           <Original>Buldozer Raise Terrain 50 cm</Original>
-          <Chinese>Buldozer地形上升50cm</Chinese>
-          <Chinesesimp>Buldozer地形上升50cm</Chinesesimp>
+          <Chinese>Buldozer地形上升50公尺</Chinese>
+          <Chinesesimp>Buldozer地形上升50厘米</Chinesesimp>
         </Key>
         <Key ID="STR_USRACT_OPTICS_MODE">
           <Original>Optics Mode</Original>
@@ -26707,12 +26707,9 @@
               <Chinesesimp>倍率:4x-12x</Chinesesimp>
             </Key>
             <Key ID="str_dss_nv_goggles">
-              <Original>Night Vision Goggles
-</Original>
-              <Chinese>夜視鏡
-</Chinese>
-              <Chinesesimp>夜视镜
-</Chinesesimp>
+              <Original>Night Vision Goggles</Original>
+              <Chinese>夜視鏡</Chinese>
+              <Chinesesimp>夜视镜</Chinesesimp>
             </Key>
           </Container>
         </Container>

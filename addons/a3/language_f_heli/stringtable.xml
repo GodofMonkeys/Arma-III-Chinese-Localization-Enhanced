@@ -95,7 +95,7 @@
       <Key ID="str_a3_helitrim_main_desc">
         <Original>%1The Advanced flight model allows you to trim the controls.%1The so-called Auto-trim feature is a game difficulty option that handles anti-torque pedal input.%1Enabling Manual Trim allows control over the center position offset (incl. pedals). When you have established your new desired flight attitude, you can disable Manual Trim %11 and return controls to neutral position. There are other keys that can be used to adjust each controller offset gradually.</Original>
         <Chinese>%1在進階飛行模式中，你可以對操縱桿進行微調。%1在遊戲難度選項中，自動微調將幫助你抵抗旋翼所產生的扭力。%1開啟手動微調將使你可以設定操縱桿的偏移量(包括尾翼)。當你調整好你的飛行姿態後，你可以使用%11來關閉微調，並回歸原始操縱桿位置。還有很多其他按鍵用來進行操縱桿的微調。</Chinese>
-        <Chinesesimp>%1在进阶飞行模式中，你可以对操纵杆进行微调。%1在游戏难度选项中，自动微调将帮助你抵抗旋翼所产生的扭力。%1开启手动微调将使你可以设定操纵杆的偏移量(包括尾翼)。当你调整好你的飞行姿态后，你可以使用%11来关闭微调，并回归原始操纵杆位置。还有很多其他按键用来进行操纵杆的微调。</Chinesesimp>
+        <Chinesesimp>%1在进阶飞行模式中，你可以对操纵杆进行微调。%1在游戏难度选项中，自动微调将帮助你抵抗旋翼所产生的扭力。%1开启手动微调将使你可以设定操纵杆的偏移量(包括尾翼)。当你调整好你的飞行姿态后，你可以使用%11来关闭微调，并回归原始操纵杆位置。还有很多其它按键用来进行操纵杆的微调。</Chinesesimp>
       </Key>
       <Key ID="str_a3_helitranslationallift_main_title">
         <Original>Translational Lift</Original>
@@ -149,8 +149,8 @@
       </Key>
       <Key ID="str_a3_heliroll_sub2_desc">
         <Original>%2To turn left while at cruising speed, use %11.%1%2To turn right, use %12.</Original>
-        <Chinese>%2要在巡航速度中進行左轉，請用%11。%1%2向右轉請用%12。</Chinese>
-        <Chinesesimp>%2要在巡航速度中进行左转，请用%11。%1%2向右转请用%12。</Chinesesimp>
+        <Chinese>%2要在巡航速度中進行左轉，請用%11.%1%2向右轉請用%12。</Chinese>
+        <Chinesesimp>%2要在巡航速度中进行左转，请用%11.%1%2向右转请用%12。</Chinesesimp>
       </Key>
       <Key ID="str_a3_heliroll_sub1_title">
         <Original>Cyclic - Strafing</Original>
@@ -524,7 +524,7 @@
       </Key>
       <Key ID="STR_A3_TARU_TITLE_F0">
         <Original>Mi-290 Taru</Original>
-        <Chinese>Mi-290Taru重型運輸直升機</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机</Chinesesimp>
       </Key>
       <Key ID="STR_A3_helivelocityvector_main_hint">
@@ -534,8 +534,8 @@
       </Key>
       <Key ID="STR_A3_TARU_DESC_F0">
         <Original>The Mi-290 Taru is a CSAT heavy utility helicopter with coaxial rotors and a unique modular construction. Its design is inspired by both Kamov Ka-226 and S-64 Skycrane aircraft. Various mission pods allow Taru to serve many different roles. Primarily it can transport cargo (up to 13,500 kg), troops (up to 16 passengers), and provide battlefield supplies (ammunition, fuel, repair facilities, and medical equipment). The helicopter can also transport light vehicles thanks to Sling Loading capabilities. While the Taru is unarmed, it does have countermeasure launchers.</Original>
-        <Chinese>Mi-290Taru是一臺CSAT的重型多用途直升機，此機採用同軸式旋翼設計，並帶有特殊的模組化結構。他的設計是採用由卡莫夫設計局所研發的Ka-226和S-64Skycrane。多種不同的吊倉，使Taru能擔任不同的任務角色。他主要能運輸貨物(上限是13500公斤)，步兵(上限是16名乘員)，和多種戰地補給(彈藥，燃油，維修設施，醫療裝備)。感謝吊掛系統的能力，此直升機也可掛載一些輕型載具。即使Taru本身是無武裝的，但他有裝設反制措施在機上。</Chinese>
-        <Chinesesimp>米-290"塔鲁"是广协同盟的一种重型多用途直升机，此机采用同轴式旋翼设计，并采取独特的模块化结构。它的设计来源于卡莫夫设计局的卡-226和西科斯基S-64"天空吊车"。多种不同的吊舱，使"塔鲁"能担任不同的任务职责。它主要能运输货物(上限是13500公斤)，步兵(上限是16名乘员)，还能提供多种战地补给(弹药，燃油，维修设施，医疗装备)。凭借吊挂系统的能力，此直升机也可挂载一些轻型载具。虽然"塔鲁"本身是无武装的，但它配备了干扰弹。</Chinesesimp>
+        <Chinese>Mi-290"塔魯"是一臺廣協同盟的重型多用途直升機，此機採用同軸式旋翼設計，並帶有特殊的模組化結構。他的設計是採用由卡莫夫設計局所研發的Ka-226和S-64S"西科斯基"。多種不同的吊倉，使"塔魯"能擔任不同的任務角色。他主要能運輸貨物(上限是13500公斤)，步兵(上限是16名乘員)，和多種戰地補給(彈藥，燃油，維修設施，醫療裝備)。感謝吊掛系統的能力，此直升機也可掛載一些輕型載具。即使"塔魯"本身是無武裝的，但它有裝設反制措施在機上。</Chinese>
+        <Chinesesimp>米-290"塔鲁"是广协同盟的一种重型多用途直升机，此机采用同轴式旋翼设计，并采取独特的模块化结构。它的设计来源于卡莫夫设计局的卡-226和"西科斯基"S-64"天空吊车"。多种不同的吊舱，使"塔鲁"能担任不同的任务职责。它主要能运输货物(上限是13500千克)，步兵(上限是16名乘员)，还能提供多种战地补给(弹药，燃油，维修设施，医疗装备)。凭借吊挂系统的能力，此直升机也可挂载一些轻型载具。虽然"塔鲁"本身是无武装的，但它配备了干扰弹。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_helivelocityvector_main_title">
         <Original>Velocity Vector</Original>
@@ -544,12 +544,12 @@
       </Key>
       <Key ID="STR_A3_HURON_DESC_F0">
         <Original>The CH-67 Huron is a twin-engine, tandem rotor heavy-lift helicopter used by NATO. Its primary role is the transportation of troops, vehicles and cargo. The maximum weight of cargo it's able to lift is 12 tons. The Huron is a modernized version of the CH-47 Chinook and exists in two variants. The armed variant with two side gunners manning 6.5 mm Miniguns offers some defensive capabilities, while the transport version replaces the gunners with additional two passengers positions.</Original>
-        <Chinese>CH-67Huron是一臺雙引擎，綜列式旋翼的重型吊掛直升機，服役於NATO軍中。他主要的功能是用來運輸步兵，載具和貨物。他能應付的貨物重量是12噸。Huron是CH-47Chinook的現代化版本，同時他有兩種不一樣的版本。武裝的版本配有兩名槍手，裝設著6.5mm的迷你砲機槍，使直升機有一定的防禦手段，而純運輸的版本則把槍手的位置置換成兩個乘員座位。</Chinese>
+        <Chinese>CH-67"休倫"是一臺雙引擎，綜列式旋翼的重型吊掛直升機，服役於北約軍中。他主要的功能是用來運輸步兵，載具和貨物。他能應付的貨物重量是12噸。"休倫"是CH-47"支奴乾"的現代化版本，同時他有兩種不一樣的版本。武裝的版本配有兩名槍手，裝設著6.5公厘的"米尼岡"速射機槍，使直升機有一定的防禦手段，而純運輸的版本則把槍手的位置置換成兩個乘員座位。</Chinese>
         <Chinesesimp>CH-67"休伦"是北约部队使用一种双发动机，串联旋翼的重型吊挂直升机。它基本职责是用来运输步兵，载具和货物。它的最大搭载重量是12吨。"休伦"是CH-47"支奴干"的现代化版本，有两种型号。武装型配有两名侧门机枪手，操作两台6.5毫米"米尼岗"速射机枪，使直升机有一定的防御手段，而纯运输的版本则把机枪手的位置置换成两个乘员座位。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_HURON_TITLE_F0">
         <Original>CH-67 Huron</Original>
-        <Chinese>CH-67Huron重型運輸直升機</Chinese>
+        <Chinese>CH-67"休倫"重型運輸直升機</Chinese>
         <Chinesesimp>CH-67"休伦"重型运输直升机</Chinesesimp>
       </Key>
       <Key ID="STR_A3_M900_DESC_F0">
@@ -581,7 +581,7 @@
       </Key>
       <Key ID="str_a3_land_heli_transport_04_repair_proxy_f0">
         <Original>Taru Repair Pod</Original>
-        <Chinese>Taru維修配件</Chinese>
+        <Chinese>"塔魯"維修配件</Chinese>
         <Chinesesimp>"塔鲁"维修舱</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_wave_f0">
@@ -591,7 +591,7 @@
       </Key>
       <Key ID="str_a3_land_heli_transport_04_medevac_proxy_f0">
         <Original>Taru Medical Pod</Original>
-        <Chinese>Taru醫療配件</Chinese>
+        <Chinese>"塔魯"醫療配件</Chinese>
         <Chinesesimp>"塔鲁"医疗舱</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_wasp_f0">
@@ -611,7 +611,7 @@
       </Key>
       <Key ID="str_a3_land_heli_transport_04_covered_proxy_f0">
         <Original>Taru Transport Pod</Original>
-        <Chinese>Taru運輸配件</Chinese>
+        <Chinese>"塔魯"運輸配件</Chinese>
         <Chinesesimp>"塔鲁"运输舱</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_sunset_f0">
@@ -621,7 +621,7 @@
       </Key>
       <Key ID="str_a3_land_heli_transport_04_box_proxy_f0">
         <Original>Taru Cargo Pod</Original>
-        <Chinese>Taru貨物配件</Chinese>
+        <Chinese>"塔魯"貨物配件</Chinese>
         <Chinesesimp>"塔鲁"货物舱</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_speedy_f0">
@@ -631,7 +631,7 @@
       </Key>
       <Key ID="str_a3_land_heli_transport_04_bench_proxy_f0">
         <Original>Taru Bench Pod</Original>
-        <Chinese>Taru板凳配件</Chinese>
+        <Chinese>"塔魯"板凳配件</Chinese>
         <Chinesesimp>"塔鲁"板凳舱</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_sheriff_f0">
@@ -641,7 +641,7 @@
       </Key>
       <Key ID="str_a3_land_heli_transport_04_ammo_proxy_f0">
         <Original>Taru Ammo Pod</Original>
-        <Chinese>Taru彈藥配件</Chinese>
+        <Chinese>"塔魯"彈藥配件</Chinese>
         <Chinesesimp>"塔鲁"弹药舱</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_shadow_f0">
@@ -651,7 +651,7 @@
       </Key>
       <Key ID="str_a3_heli_transport_04_pods_base_f0">
         <Original>Taru Pod</Original>
-        <Chinese>Taru配件</Chinese>
+        <Chinese>"塔魯"配件</Chinese>
         <Chinesesimp>"塔鲁"吊舱</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_heli_light_01_red_f0">
@@ -706,42 +706,42 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_repair_f0">
         <Original>Mi-290 Taru (Repair)</Original>
-        <Chinese>Mi-290Taru重型運輸直升機(維修)</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機(維修)</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机(维修)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_medevac_f0">
         <Original>Mi-290 Taru (Medical)</Original>
-        <Chinese>Mi-290Taru重型運輸直升機(醫療)</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機(醫療)</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机(医疗)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_fuel_f0">
         <Original>Mi-290 Taru (Fuel)</Original>
-        <Chinese>Mi-290Taru重型運輸直升機(燃油)</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機(燃油)</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机(燃油)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_covered_f0">
         <Original>Mi-290 Taru (Transport)</Original>
-        <Chinese>Mi-290Taru重型運輸直升機(運輸)</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機(運輸)</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机(运输)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_box_f0">
         <Original>Mi-290 Taru (Cargo)</Original>
-        <Chinese>Mi-290Taru重型運輸直升機(貨物)</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機(貨物)</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机(货物)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_bench_f0">
         <Original>Mi-290 Taru (Bench)</Original>
-        <Chinese>Mi-290Taru重型運輸直升機(板凳)</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機(板凳)</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机(板凳)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_transport_04_ammo_f0">
         <Original>Mi-290 Taru (Ammo)</Original>
-        <Chinese>Mi-290Taru重型運輸直升機(彈藥)</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機(彈藥)</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机(弹药)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_o_heli_light_02_v2_f0">
         <Original>PO-30 Orca (Black &amp; White)</Original>
-        <Chinese>PO-30Orca武裝直升機(黑&amp;白)</Chinese>
+        <Chinese>PO-30"逆戟鲸"武裝直升機(黑&amp;白)</Chinese>
         <Chinesesimp>PO-30"逆戟鲸"武装直升机(黑&amp;白)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_heli_transport_04_base_f_turrets_loadmasterturret0">
@@ -751,17 +751,17 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_heli_transport_04_base_f0">
         <Original>Mi-290 Taru</Original>
-        <Chinese>Mi-290Taru重型運輸直升機</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_heli_transport_03_unarmed_base_f0">
         <Original>CH-67 Huron (Unarmed)</Original>
-        <Chinese>CH-67Huron重型運輸直升機(無武裝)</Chinese>
+        <Chinese>CH-67"休倫"重型運輸直升機(無武裝)</Chinese>
         <Chinesesimp>CH-67"休伦"重型运输直升机(无武装)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_b_heli_transport_03_base_f0">
         <Original>CH-67 Huron</Original>
-        <Chinese>CH-67Huron重型運輸直升機</Chinese>
+        <Chinese>CH-67"休倫"重型運輸直升機</Chinese>
         <Chinesesimp>CH-67"休伦"重型运输直升机</Chinesesimp>
       </Key>
     </Container>
@@ -915,7 +915,7 @@
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_nato">
         <Original>NATO (BLUFOR)</Original>
-        <Chinese>NATO(藍方)</Chinese>
+        <Chinese>北約(藍方)</Chinese>
         <Chinesesimp>北约(蓝方)</Chinesesimp>
       </Key>
       <Key ID="str_a3_mp_groundsupport_modulespawnai_motorizedweighting">
@@ -1583,7 +1583,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list2_title">
         <Original>Mi-290 Taru</Original>
-        <Chinese>Mi-290Taru重型運輸直升機</Chinese>
+        <Chinese>Mi-290"塔魯"重型運輸直升機</Chinese>
         <Chinesesimp>米-290"塔鲁"重型运输直升机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_pard_list2">
@@ -1699,7 +1699,7 @@
       <Key ID="str_a3_rscdisplaywelcome_heli_parb">
         <Original>Arma 3 Helicopters is a content pack. With our &lt;a href="%3" color="%2"&gt;Karts testing DLC&lt;/a&gt;, we introduced &lt;a href="%4" color="%2"&gt;a strategy&lt;/a&gt; for premium content. Based on your feedback and results from our survey, we've iterated the 'try before you buy' approach and will continue to do so. Owners get full access to &lt;t color='%1'&gt;2 brand-new detailed rotary-wing aircraft&lt;/t&gt;: the CH-67 Huron, Mi-290 Taru, and their variants. These helicopters were selected and designed to fulfill an important logistical role on the battlefield. Combined with new features, they can carry more troops than previous aircraft as well as carry more cargo. A range of official playable modes demonstrates the helicopters and generally focuses on aerial movement, combat and logistics.</Original>
         <Chinese>武裝突襲3直升機資料片是一個加值內容。我們之前透過&lt;ahref="%3"color="%2"&gt;卡丁車資料片&lt;/a&gt;，使用一種&lt;ahref="%4"color="%2"&gt;手法&lt;/a&gt;來跟你們介紹這些優質內容。我們是透過'先試玩再購買'的方法來介紹這些資料片。已購買者可獲得&lt;tcolor='%1'&gt;2種新的直升機&lt;/t&gt;:CH-67Huron，Mi-290Taru，以及它們的變種版本。這些直升機被設計來在戰場中提供重要的後勤支援。結合新的吊掛功能，它们可以載運除了步兵以外更多的貨物。為此我們提供了一個新的多人合作模式，你可在裡面完整體驗到直升機後勤支援的任務與其重要性。</Chinese>
-        <Chinesesimp>武装突袭3直升机资料片是一个加值内容。我们之前通过&lt;ahref="%3"color="%2"&gt;卡丁车资料片&lt;/a&gt;，使用一种&lt;ahref="%4"color="%2"&gt;手法&lt;/a&gt;来跟你们介绍这些优质内容。我们是通过'先试玩再购买'的方法来介绍这些资料片。已购买者可获得&lt;tcolor='%1'&gt;2种新的直升机&lt;/t&gt;:CH-67Huron，Mi-290Taru，以及它们的变种版本。这些直升机被设计来在战场中提供重要的后勤支援。结合新的吊挂功能，它们可以载运除了步兵以外更多的货物。为此我们提供了一个新的多人合作模式，你可在里面完整体验到直升机后勤支援的任务与其重要性。</Chinesesimp>
+        <Chinesesimp>武装突袭3直升机资料片是一个加值内容。我们之前通过&lt;ahref="%3"color="%2"&gt;卡丁车资料片&lt;/a&gt;，使用一种&lt;ahref="%4"color="%2"&gt;手法&lt;/a&gt;来跟你们介绍这些优质内容。我们是通过'先试玩再购买'的方法来介绍这些资料片。已购买者可获得&lt;tcolor='%1'&gt;2种新的直升机&lt;/t&gt;:CH-67Huron，Mi-290Taru，以及它们的变种版本。这些直升机被设计来在战场中提供重要的后勤支援。结合新的吊挂功能，它们可以载运除了步兵以外更多的货物。为此我们提供了一个新的多人合作模式，你可以在里面完整体验到直升机后勤支援的任务与其重要性。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_heli_para">
         <Original>Greetings rotorheads! The &lt;t color='%1'&gt;Arma 3 Helicopters&lt;/t&gt; DLC has been released, bringing cool new content for DLC owners, while also enriching the Arma 3 sandbox for everyone else. Take a look below at what assets we've added and the huge features that were implemented, or just give it a whirl right here, right now!</Original>
@@ -1900,27 +1900,27 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_b_slingload_01_repair_f0">
           <Original>Huron Repair Container</Original>
-          <Chinese>Huron維修貨櫃</Chinese>
+          <Chinese>"休倫"維修貨櫃</Chinese>
           <Chinesesimp>"休伦"维修货柜</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_slingload_01_medevac_f0">
           <Original>Huron Medical Container</Original>
-          <Chinese>Huron醫療貨櫃</Chinese>
+          <Chinese>"休倫"醫療貨櫃</Chinese>
           <Chinesesimp>"休伦"医疗货柜</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_slingload_01_fuel_f0">
           <Original>Huron Fuel Container</Original>
-          <Chinese>Huron燃油貨櫃</Chinese>
+          <Chinese>"休倫"燃油貨櫃</Chinese>
           <Chinesesimp>"休伦"燃油货柜</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_slingload_01_cargo_f0">
           <Original>Huron Cargo Container</Original>
-          <Chinese>Huron物品貨櫃</Chinese>
+          <Chinese>"休倫"物品貨櫃</Chinese>
           <Chinesesimp>"休伦"物品货柜</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_b_slingload_01_ammo_f0">
           <Original>Huron Ammo Container</Original>
-          <Chinese>Huron彈藥貨櫃</Chinese>
+          <Chinese>"休倫"彈藥貨櫃</Chinese>
           <Chinesesimp>"休伦"弹药货柜</Chinesesimp>
         </Key>
       </Container>

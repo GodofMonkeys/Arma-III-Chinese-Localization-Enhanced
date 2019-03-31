@@ -41,7 +41,7 @@
       </Key>
       <Key ID="STR_A3_Bomb_SDB_magazine_description">
         <Original>250lb, high-explosive, infrared/laser-guided bomb</Original>
-        <Chinese>250磅，高爆，紅外/激光制導炸彈</Chinese>
+        <Chinese>250磅，高爆，紅外/激光導引炸彈</Chinese>
         <Chinesesimp>250磅，高爆，红外/激光制导炸弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Bomb_SDB_magazine_shortName">
@@ -56,12 +56,12 @@
       </Key>
       <Key ID="STR_A3_Bomb_SDB_x1_magazine_name">
         <Original>GBU SDB x1</Original>
-        <Chinese>激光制導小直徑炸彈x1</Chinese>
+        <Chinese>激光導引小直徑炸彈x1</Chinese>
         <Chinesesimp>激光制导小直径炸弹x1</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Bomb_SDB_x4_magazine_name">
         <Original>GBU SDB x4</Original>
-        <Chinese>激光制導小直徑炸彈x4</Chinese>
+        <Chinese>激光導引小直徑炸彈x4</Chinese>
         <Chinesesimp>激光制导小直径炸弹x4</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Missile_KH58_x1_magazine_name">

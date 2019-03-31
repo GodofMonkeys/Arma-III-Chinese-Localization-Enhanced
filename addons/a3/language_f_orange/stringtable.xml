@@ -476,8 +476,8 @@
       </Key>
       <Key ID="str_a3_rscdisplayaanarticle_copyright">
         <Original>©%1 AAN News Network or its affiliated companies. All rights reserved.</Original>
-        <Chinese>c%1AAN新聞網及其相關公司。所有權利保留。</Chinese>
-        <Chinesesimp>?%1AAN新闻网及其相关公司。所有权利保留。</Chinesesimp>
+        <Chinese>©%1 AAN新聞網及其相關公司。所有權利保留。</Chinese>
+        <Chinesesimp>©% 1AAN新闻网及其相关公司。所有权利保留。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplayaanarticle_box">
         <Original>Read more</Original>
@@ -911,8 +911,8 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_trainingmine_01_f0">
           <Original>Training Mine</Original>
-          <Chinese>TrainingMine</Chinese>
-          <Chinesesimp>TrainingMine</Chinesesimp>
+          <Chinese>訓練地雷</Chinese>
+          <Chinesesimp>训练地雷</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_bombcluster_03_uxo1_f0">
           <Original>UXO (Common) [AAF]</Original>
@@ -1582,8 +1582,8 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_3x3_v2_f0">
             <Original>Medical Garbage (3x3, v2)</Original>
-            <Chinese>醫療垃圾(3x3，v2)</Chinese>
-            <Chinesesimp>医疗垃圾(3x3，v2)</Chinesesimp>
+            <Chinese>醫療垃圾(3x3，2型)</Chinese>
+            <Chinesesimp>医疗垃圾(3x3，2型)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_medium_new_f0">
             <Original>Blood Splatter (Medium, New)</Original>
@@ -1592,8 +1592,8 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_3x3_v1_f0">
             <Original>Medical Garbage (3x3, v1)</Original>
-            <Chinese>醫療垃圾(3x3，v1)</Chinese>
-            <Chinesesimp>医疗垃圾(3x3，v1)</Chinesesimp>
+            <Chinese>醫療垃圾(3x3，1型)</Chinese>
+            <Chinesesimp>医疗垃圾(3x3，1型)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_medium_old_f0">
             <Original>Blood Splatter (Medium, Old)</Original>
@@ -1602,8 +1602,8 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_1x1_v3_f0">
             <Original>Medical Garbage (1x1, v3)</Original>
-            <Chinese>醫療垃圾(1x1，v3)</Chinese>
-            <Chinesesimp>医疗垃圾(1x1，v3)</Chinesesimp>
+            <Chinese>醫療垃圾(1x1，3型)</Chinese>
+            <Chinesesimp>医疗垃圾(1x1，3型)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_small_new_f0">
             <Original>Blood Splatter (Small, New)</Original>
@@ -1612,8 +1612,8 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_1x1_v2_f0">
             <Original>Medical Garbage (1x1, v2)</Original>
-            <Chinese>醫療垃圾(1x1，v2)</Chinese>
-            <Chinesesimp>医疗垃圾(1x1，v2)</Chinesesimp>
+            <Chinese>醫療垃圾(1x1，2型)</Chinese>
+            <Chinesesimp>医疗垃圾(1x1，2型)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodsplatter_01_small_old_f0">
             <Original>Blood Splatter (Small, Old)</Original>
@@ -1622,8 +1622,8 @@
           </Key>
           <Key ID="str_a3_cfgvehicles_medicalgarbage_01_1x1_v1_f0">
             <Original>Medical Garbage (1x1, v1)</Original>
-            <Chinese>醫療垃圾(1x1，v1)</Chinese>
-            <Chinesesimp>医疗垃圾(1x1，v1)</Chinesesimp>
+            <Chinese>醫療垃圾(1x1，1型)</Chinese>
+            <Chinesesimp>医疗垃圾(1x1，1型)</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgvehicles_bloodspray_01_new_f0">
             <Original>Blood Spray (New)</Original>
@@ -3212,13 +3212,13 @@
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_06_medical_f0">
           <Original>Jinaah AL-6 (Medical)</Original>
-          <Chinese>真納AL-6(醫療)</Chinese>
-          <Chinesesimp>真纳AL-6(医疗)</Chinesesimp>
+          <Chinese>"真納"AL-6(醫療)</Chinese>
+          <Chinesesimp>"真纳"AL-6(医疗)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_o_uav_06_f0">
           <Original>Jinaah AL-6</Original>
-          <Chinese>真納AL-6</Chinese>
-          <Chinesesimp>真纳AL-6</Chinesesimp>
+          <Chinese>"真納"AL-6</Chinese>
+          <Chinesesimp>"真纳"AL-6</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_i_uav_06_medical_f0">
           <Original>AL-6 Pelican (Medical)</Original>
@@ -3400,7 +3400,7 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_premiumorange_description">
         <Original>%11%1%12%1%2"Remnants of War" - a singleplayer mini-campaign that explores the laws of armed conflict (LOAC)%1%2Showcases - a humanitarian NGO's open day, and VR LOAC instruction%1%2Time Trials - races against the clock using several types of vehicle%1%2International Development &amp;amp; Aid Project - the new civilian humanitarian Armaverse faction (IDAP)%1%2Van - a range of medium-sized wheeled transport vehicles, including ambulances%1%2Utility &amp;amp; Demining Drones - unmanned aerial vehicles for small payload delivery and remote minefield clearance%1%2APERS Mine Dispenser - an effective but controversial area denial weapon system%1%2Cluster Bombs &amp;amp; UXO - aircraft-delivered submunition containers that may leave behind unexploded ordnance after strikes%1%2Vests - safety, identification, multi-pocket and EOD vests%1%2Bags - messenger and leg strap bags%1%2Headgear - safari and hard hats, head bandages, basic and press helmets, ear protectors and a wireless earpiece%1%2Facewear - respirators and safety goggles%1%2Humanitarian Aid Objects - cardboard boxes, food sacks, water bottle packages, emergency blankets, and more%1%2Tent Objects - (medical) shelter tents, separate floor canvases, an air-conditioning unit, and plastic net fences%1%2Medical Objects - stretchers, IV bags, body bags, and more%1%2Furniture Objects - tables, a sofa, an armchair, a bed, and more%1%2Miscellaneous - a paramedic outfit, construction coveralls, and a training mine%1%2Official Soundtrack - newly composed music tracks%1%2Achievements - a set of extra &lt;a href='%13'&gt;Steam Achievements&lt;/a&gt;</Original>
-        <Chinese>%11%1%12%1%2"戰爭殘留"——一個單人迷你戰役，探索武裝衝突法則(LOAC)%1%2演示任務——一個人道主義非政府組織的開放日，以及虛擬真實的武裝衝突法則指導課程%1%2計時賽——使用多種車輛進行計時競速賽%1%2國際發展&amp;amp;援助工程——新的民間人道主義武裝突襲世界派別(IDAP)%1%2麵包車——一系列中型輪式運輸車輛，包括救護車%1%2通用&amp;amp;排雷無人機——用於小型載荷投送和遙控雷場清理的無人機%1%2反人員地雷布撒器——一種有效但爭議較大的區域阻斷武器系統%1%2集束炸彈&amp;amp;未爆兵器——航空投送的子彈藥容器可能在空襲後留下未爆彈藥%1%2背心——安全，身份，多兜和排爆背心%1%2背包-郵包和腿包%1%2帽子——遊獵帽和安全帽，頭部繃帶，基本和新聞頭盔，護耳和無線耳機%1%2臉部佩戴——口罩和安全眼鏡%1%2人道主義援助物體——硬紙箱，食品包，瓶裝水包，緊急救生毯，以及其他%1%2帳篷物體——(醫療)掩體帳篷，獨立帆布地鋪，空調組建，以及塑料網牆%1%2醫療物體——擔架，血包，裝屍袋，以及其他%1%2傢俱物體——桌子，沙發，扶手椅，床，以及其他%1%2雜項——急救員服裝，建築工服裝，訓練地雷%1%2官方原聲大碟——新作的音樂%1%2成就——增加了幾個&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
+        <Chinese>%11%1%12%1%2"戰爭殘留"——一個單人迷你戰役，探索武裝衝突法則(LOAC)%1%2演示任務——一個人道主義非政府組織的開放日，以及虛擬真實的武裝衝突法則指導課程%1%2計時賽——使用多種車輛進行計時競速賽%1%2國際發展&amp;amp;援助工程——新的民間人道主義武裝突襲世界派別(囯發援)%1%2麵包車——一系列中型輪式運輸車輛，包括救護車%1%2通用&amp;amp;排雷無人機——用於小型載荷投送和遙控雷場清理的無人機%1%2反人員地雷布撒器——一種有效但爭議較大的區域阻斷武器系統%1%2集束炸彈&amp;amp;未爆兵器——航空投送的子彈藥容器可能在空襲後留下未爆彈藥%1%2背心——安全，身份，多兜和排爆背心%1%2背包-郵包和腿包%1%2帽子——遊獵帽和安全帽，頭部繃帶，基本和新聞頭盔，護耳和無線耳機%1%2臉部佩戴——口罩和安全眼鏡%1%2人道主義援助物體——硬紙箱，食品包，瓶裝水包，緊急救生毯，以及其他%1%2帳篷物體——(醫療)掩體帳篷，獨立帆布地鋪，空調組建，以及塑料網牆%1%2醫療物體——擔架，血包，裝屍袋，以及其他%1%2傢俱物體——桌子，沙發，扶手椅，床，以及其他%1%2雜項——急救員服裝，建築工服裝，訓練地雷%1%2官方原聲大碟——新作的音樂%1%2成就——增加了幾個&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinese>
         <Chinesesimp>%11%1%12%1%2"战争残留"——一个单人迷你战役，探索武装冲突法则(LOAC)%1%2演示任务——一个人道主义非政府组织的开放日，以及虚拟真实的武装冲突法则指导课程%1%2计时赛——使用多种车辆进行计时竞速赛%1%2国际发展&amp;amp;援助工程——新的民间人道主义武装突袭世界派别(国发援)%1%2面包车——一系列中型轮式运输车辆，包括救护车%1%2通用&amp;amp;排雷无人机——用于小型载荷投送和遥控雷场清理的无人机%1%2反人员地雷布撒器——一种有效但争议较大的区域阻断武器系统%1%2集束炸弹&amp;amp;未爆兵器——航空投送的子弹药容器可能在空袭后留下未爆弹药%1%2背心——安全，身份，多兜和排爆背心%1%2背包-邮包和腿包%1%2帽子——游猎帽和安全帽，头部绷带，基本和新闻头盔，护耳和无线耳机%1%2脸部佩戴——口罩和安全眼镜%1%2人道主义援助物体——硬纸箱，食品包，瓶装水包，紧急救生毯，以及其他%1%2帐篷物体——(医疗)掩体帐篷，独立帆布地铺，空调组建，以及塑料网墙%1%2医疗物体——担架，血包，装尸袋，以及其他%1%2家具物体——桌子，沙发，扶手椅，床，以及其他%1%2杂项——急救员服装，建筑工服装，训练地雷%1%2官方原声大碟——新作的音乐%1%2成就——增加了几个&lt;ahref='%13'&gt;Steam成就&lt;/a&gt;</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview">
@@ -3485,8 +3485,8 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_treatiesprotocols_tip">
         <Original>IHL can also be referred to as jus in bello - the law which regulates the conduct of war. Serious violations are called war crimes. States must establish laws to try and punish those who commit grave breaches of IHL. Military commanders should instruct IHL and report violations. The rules seem straightforward, but the application of IHL to real-life situations of conflict often creates dilemmas.</Original>
-        <Chinese>《國際人道主義法》(IHL)也稱戰時法(jusinbello)——規範戰爭執行程序的法律。嚴重違法被稱為戰爭犯罪。各國必須制定法律懲罰凡有嚴重違反《國際人道主義法》的罪犯。軍事指揮官必須遵照《國際人道主義法》並報告違法狀況。規則看起來簡明易懂，但國際人道主義法在實際情況中的執行往往會帶來一系列困境。</Chinese>
-        <Chinesesimp>《国际人道主义法》(IHL)也称战时法(jusinbello)——规范战争执行程序的法律。严重违法被称为戰争犯罪。各国必须制定法律惩罚凡有严重违反《国际人道主义法》的罪犯。军事指挥官必须遵照《国际人道主义法》并报告违法状况。规则看起来简明易懂，但国际人道主义法在实际情况中的执行往往会带来一系列困境。</Chinesesimp>
+        <Chinese>《國際人道主義法》(IHL)也稱戰時法(Jus in bello)——規範戰爭執行程序的法律。嚴重違法被稱為戰爭犯罪。各國必須制定法律懲罰凡有嚴重違反《國際人道主義法》的罪犯。軍事指揮官必須遵照《國際人道主義法》並報告違法狀況。規則看起來簡明易懂，但國際人道主義法在實際情況中的執行往往會帶來一系列困境。</Chinese>
+        <Chinesesimp>《国际人道主义法》(IHL)也称战时法(Jus in bello)——规范战争执行程序的法律。严重违法被称为戰争犯罪。各国必须制定法律惩罚凡有严重违反《国际人道主义法》的罪犯。军事指挥官必须遵照《国际人道主义法》并报告违法状况。规则看起来简明易懂，但国际人道主义法在实际情况中的执行往往会带来一系列困境。</Chinesesimp>
       </Key>
       <Key ID="str_a3_orange_cfghints_ihl_treatiesprotocols_displayname">
         <Original>Treaties and Protocols</Original>
@@ -3835,7 +3835,7 @@
       </Key>
       <Key ID="str_a3_orange_cfghints_premiumbundle2_overview_expansion">
         <Original>Save more than 25&amp;#37; by purchasing the Arma 3 DLC Bundle 2, which includes Arma 3 Jets, Arma 3 Laws of War, Arma 3 Tac-Ops, and Arma 3 Tanks DLC!</Original>
-        <Chinese>透過購買武裝突襲3資料片Bundle2(包括武裝突襲3Jets、武裝突襲3LawsofWar、武裝突襲3Tac-Ops和武裝突襲3Tanks資料片)，省25&amp;#37;以上的費用!</Chinese>
+        <Chinese>透過購買武裝突襲3資料片資料片2(包括武裝突襲3戰機、武裝突襲3戰爭法、武裝突襲3戰術行動和武裝突襲3坦克資料片)，省25&amp;#37;以上的費用!</Chinese>
         <Chinesesimp>通过购买武装突袭3资料片合集2(包括武装突袭3战机、武装突袭3战争法、武装突袭3战术行动和武装突袭3坦克资料片)，节省25&amp;#37;以上的费用!</Chinesesimp>
       </Key>
     </Container>
@@ -4047,7 +4047,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parc">
         <Original>Continuing our established &lt;a href='%3' color='%2'&gt;DLC strategy&lt;/a&gt;, we are bringing DLC owners a varied collection of premium content. While portions of the new civilian &lt;t color='%1'&gt;International Development &amp;amp; Aid Project&lt;/t&gt; (IDAP) faction are free for the platform, we've selected several new assets to make them a special and worthwhile addition. IDAP's primary ground vehicle is a large &lt;t color='%1'&gt;Van&lt;/t&gt;, available for passenger transport, cargo hauling and medical evacuations. In order to safely carry out their activities in high-risk areas, IDAP also uses several drones. The &lt;t color='%1'&gt;Utility Drone&lt;/t&gt; is its latest acquisition and they have even modified it for remote mine clearance. A wide range of IDAP and other &lt;t color='%1'&gt;character gear&lt;/t&gt; is further available for anyone wishing to wear it. Much to IDAP's frustration, military factions have started to use a particularly nasty weapon: the &lt;t color='%1'&gt;APERS Mine Dispenser&lt;/t&gt;. These and all the extra platform additions are showcased in the singleplayer &lt;t color='%1'&gt;"Remnants of War" mini-campaign&lt;/t&gt;, and as always: get a hands-on preview without restriction in the Virtual Arsenal mode.</Original>
-        <Chinese>基於我們已經構建的lt;ahref='%3'color='%2'&gt;資料片策略&lt;/a&gt;，我們將為資料片的擁有者提供一系列附加內容的集合。在新的平民組織&lt;tcolor='%1'&gt;國際發展&amp;amp;援助工程&lt;/t&gt;(IDAP)組織對平臺的所有人免費的同時，我們也選擇了一些新特性作為特別且值得一買的內容。IDAP的基本地面車輛是一種大型&lt;tcolor='%1'&gt;麵包車&lt;/t&gt;，可以運輸人員、物資和執行醫療後送。為了安全在高危地區執行任務，IDAP還使用多種無人機。&lt;tcolor='%1'&gt;通用無人機&lt;/t&gt;是其最新採購的型號，並被改裝為遙控地雷清障型號。一系列IDAP和其他組織的&lt;tcolor='%1'&gt;人物裝備&lt;/t&gt;也對任何想要穿著它們的人可用。讓IDAP非常頭痛的是，軍事組織開始使用一種特別令人不齒的武器:&lt;tcolor='%1'&gt;反人員地雷布撒器&lt;/t&gt;。這些都是平臺附加內容，並在單人的&lt;tcolor='%1'&gt;"戰爭遺留物"迷你戰役&lt;/t&gt;予以展示。像往常一樣:在虛擬軍械庫模式下不受限制地瀏覽這些東西。</Chinese>
+        <Chinese>基於我們已經構建的lt;ahref='%3'color='%2'&gt;資料片策略&lt;/a&gt;，我們將為資料片的擁有者提供一系列附加內容的集合。在新的平民組織&lt;tcolor='%1'&gt;國際發展&amp;amp;援助工程&lt;/t&gt;(IDAP)組織對平臺的所有人免費的同時，我們也選擇了一些新特性作為特別且值得一買的內容。國發援的基本地面車輛是一種大型&lt;tcolor='%1'&gt;麵包車&lt;/t&gt;，可以運輸人員、物資和執行醫療後送。為了安全在高危地區執行任務，國發援還使用多種無人機。&lt;tcolor='%1'&gt;通用無人機&lt;/t&gt;是其最新採購的型號，並被改裝為遙控地雷清障型號。一系列國發援和其他組織的&lt;tcolor='%1'&gt;人物裝備&lt;/t&gt;也對任何想要穿著它們的人可用。讓國發援非常頭痛的是，軍事組織開始使用一種特別令人不齒的武器:&lt;tcolor='%1'&gt;反人員地雷布撒器&lt;/t&gt;。這些都是平臺附加內容，並在單人的&lt;tcolor='%1'&gt;"戰爭遺留物"迷你戰役&lt;/t&gt;予以展示。像往常一樣:在虛擬軍械庫模式下不受限制地瀏覽這些東西。</Chinese>
         <Chinesesimp>基于我们已经构建的lt;ahref='%3'color='%2'&gt;资料片策略&lt;/a&gt;，我们将为资料片的拥有者提供一系列附加内容的集合。在新的平民组织&lt;tcolor='%1'&gt;国际发展&amp;amp;援助工程&lt;/t&gt;(国发援)组织对平台的所有人免费的同时，我们也选择了一些新特性作为特别且值得一买的内容。国发援的基本地面车辆是一种大型&lt;tcolor='%1'&gt;面包车&lt;/t&gt;，可以运输人员、物资和执行医疗后送。为了安全在高危地区执行任务，国发援还使用多种无人机。&lt;tcolor='%1'&gt;通用无人机&lt;/t&gt;是其最新采购的型号，并被改装为遥控地雷清障型号。一系列国发援和其他组织的&lt;tcolor='%1'&gt;人物装备&lt;/t&gt;也对任何想要穿着它们的人可用。让国发援非常头痛的是，军事组织开始使用一种特别令人不齿的武器:&lt;tcolor='%1'&gt;反人员地雷布撒器&lt;/t&gt;。这些都是平台附加内容，并在单人的&lt;tcolor='%1'&gt;"战争遗留物"迷你战役&lt;/t&gt;予以展示。像往常一样:在虚拟军械库模式下不受限制地浏览这些东西。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb_title">
@@ -4062,7 +4062,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb2">
         <Original>We've always admired this pragmatic approach to a complex topic. Rather than frustrate players with punishments and mandatory lessons, our mutual goal has been to find ways of raising awareness of IHL, while creating an even deeper and more authentic Arma experience. To that end we decided to build a DLC around IHL, which primarily delivers an Armaverse humanitarian NGO faction and gameplay to showcase them. We will also be donating a portion of the 2017 DLC proceeds to the ICRC so that they may continue their good real-world work. Thank you for your support!</Original>
-        <Chinese>我們始終贊同針對複雜議題的這種實用主義態度。與其通過嚴厲懲罰和長篇大論折磨玩家，我們的本來目的是為了尋找提高對《國際人道主義法》的注意程度的方式，從而創造更深刻、更可信的Arma遊戲體驗。最終我們決定圍繞《國際人道主義法》製作一個資料片，主要表現Arma世界觀中的非政府組織，並展示他們。我們也會為國際紅十字會捐出此次資料片的部分收入，以便他們在真實世界繼續進行他們的高尚工作。感謝你的支持!</Chinese>
+        <Chinese>我們始終贊同針對複雜議題的這種實用主義態度。與其通過嚴厲懲罰和長篇大論折磨玩家，我們的本來目的是為了尋找提高對《國際人道主義法》的注意程度的方式，從而創造更深刻、更可信的武裝突襲遊戲體驗。最終我們決定圍繞《國際人道主義法》製作一個資料片，主要表現武裝突襲世界觀中的非政府組織，並展示他們。我們也會為國際紅十字會捐出此次資料片的部分收入，以便他們在真實世界繼續進行他們的高尚工作。感謝你的支持!</Chinese>
         <Chinesesimp>我们始终赞同针对复杂议题的这种实用主义态度。与其通过严厉惩罚和长篇大论折磨玩家，我们的本来目的是为了寻找提高对《国际人道主义法》的注意程度的方式，从而创造更深刻、更可信的武装突袭游戏体验。最终我们决定围绕《国际人道主义法》制作一个资料片，主要表现武装突袭世界观中的非政府组织，并展示他们。我们也会为国际红十字会捐出此次资料片的部分收入，以便他们在真实世界继续进行他们的高尚工作。感谢你的支持!</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_orange_parb">
@@ -4139,7 +4139,7 @@
       </Key>
       <Key ID="STR_A3_AchOrangeTTBronze_Description">
         <Original>Earned the bronze medal in all official IDAP Time Trials.</Original>
-        <Chinese>在所有官方IDAP計時賽中贏得銅牌。</Chinese>
+        <Chinese>在所有官方國發援計時賽中贏得銅牌。</Chinese>
         <Chinesesimp>在所有官方国发援计时赛中赢得铜牌。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_AchOrangeTTGold_Title">
@@ -4149,7 +4149,7 @@
       </Key>
       <Key ID="STR_A3_AchOrangeTTGold_Description">
         <Original>Earned the gold medal in all official IDAP Time Trials.</Original>
-        <Chinese>在所有官方IDAP計時賽中贏得金牌。</Chinese>
+        <Chinese>在所有官方國發援計時賽中贏得金牌。</Chinese>
         <Chinesesimp>在所有官方国发援计时赛中赢得金牌。</Chinesesimp>
       </Key>
     </Container>

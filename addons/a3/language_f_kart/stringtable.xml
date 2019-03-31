@@ -1285,8 +1285,8 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_list2">
         <Original>a portion of the proceeds from the sales of the Arma 3 Karts DLC will be donated to the Czech Red Cross. The total amount raised will be announced on www.bistudio.com in June 2014.</Original>
-        <Chinese>武裝突襲3卡丁車資料片的所有收入將會捐出一小部分給捷克的紅十字會。總捐款數目將在2014年6月在www。bistudio。com上公布。</Chinese>
-        <Chinesesimp>武装突袭3卡丁车资料片的所有收入将会捐出一小部分给捷克的红十字会。总捐款数目将在2014年6月在www。bistudio。com上公布。</Chinesesimp>
+        <Chinese>武裝突襲3卡丁車資料片的所有收入將會捐出一小部分給捷克的紅十字會。總捐款數目將在2014年6月在www.bistudio.com上公布。</Chinese>
+        <Chinesesimp>武装突袭3卡丁车资料片的所有收入将会捐出一小部分给捷克的红十字会。总捐款数目将在2014年6月在www.bistudio.com上公布。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_list1_title">
         <Original>Content Licensing</Original>
@@ -1296,7 +1296,7 @@
       <Key ID="str_a3_rscdisplaywelcome_kart_parb_list1">
         <Original>before we roll on our first proper military DLC, we'd like to try out a new approach to premium content; one that does not split the community.</Original>
         <Chinese>在我們正式推出第一個軍事資料片前，我們想嘗試一點不一樣的內容;一個讓社會和諧的有趣遊戲。</Chinese>
-        <Chinesesimp>在我们正式推出首个军事DLC前，我们想尝试一点不一样的内容;一个让社会和谐的有趣游戏。</Chinesesimp>
+        <Chinesesimp>在我们正式推出首个军事资料片前，我们想尝试一点不一样的内容;一个让社会和谐的有趣游戏。</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_kart_parb">
         <Original>The premium content package has several goals:</Original>

@@ -9,7 +9,7 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_land_scrap_mrap_01_f0">
         <Original>Decommissioned Hunter</Original>
-        <Chinese>除役Hunter</Chinese>
+        <Chinese>除役"獵人"</Chinese>
         <Chinesesimp>废弃的"猎人"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_metal_ramp">
@@ -475,13 +475,13 @@
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_02_f0">
         <Original>Zubr .45 ACP</Original>
-        <Chinese>Zubr。45ACP</Chinese>
+        <Chinese>"野牛".45ACP</Chinese>
         <Chinesesimp>"野牛".45ACP</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f_library0">
-        <Original>The 4-five is a polymer-based semi-automatic pistol named for using .45 ACP ammunition. The reliability and accuracy are the most appraised features of this weapon. This weapon is favored by firing drills competitors because of an eleven rounds magazine and available collimator sight. </Original>
-        <Chinese>4-five是一種使用聚合物製做的半自動手槍，因其使用.45ACP彈藥而命名為4-five。這把槍有不錯的可靠性與準確度。這把槍也常被使用於射擊靶場的比賽中，因其彈匣有11發彈藥與可靠的準直覘孔。</Chinese>
-        <Chinesesimp>4-five是一种使用聚合物制做的半自动手枪，因其使用.45ACP弹药而命名为4-five。这把枪有不错的可靠性与准确度。这把枪也常被使用于射击靶场的比赛中，因其弹匣有11发弹药与可靠的准直觇孔。</Chinesesimp>
+        <Original>The 4-Five is a polymer-based semi-automatic pistol named for using .45 ACP ammunition. The reliability and accuracy are the most appraised features of this weapon. This weapon is favored by firing drills competitors because of an eleven rounds magazine and available collimator sight. </Original>
+        <Chinese>4-Five是一種使用聚合物製做的半自動手槍，因其使用.45ACP彈藥而命名為4-Five。這把槍有不錯的可靠性與準確度。這把槍也常被使用於射擊靶場的比賽中，因其彈匣有11發彈藥與可靠的準直覘孔。</Chinese>
+        <Chinesesimp>4-Five是一种使用聚合物制做的半自动手枪，因其使用.45ACP弹药而命名为4-Five。这把枪有不错的可靠性与准确度。这把枪也常被使用于射击靶场的比赛中，因其弹匣有11发弹药与可靠的准直觇孔。</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_optic_mrd0">
         <Original>MRD</Original>
@@ -489,9 +489,9 @@
         <Chinesesimp>挂盾式设计瞄准镜</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_hgun_pistol_heavy_01_f0">
-        <Original>4-five .45 ACP</Original>
-        <Chinese>4-five .45ACP</Chinese>
-        <Chinesesimp>4-five .45ACP</Chinesesimp>
+        <Original>4-Five .45 ACP</Original>
+        <Chinese>4-Five .45ACP</Chinese>
+        <Chinesesimp>4-Five .45ACP</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_c_supplycrate_f0">
         <Original>Supply Box [CTRG]</Original>
@@ -500,12 +500,12 @@
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder1">
         <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 6&lt;br /&gt;Used in: Zubr</Original>
-        <Chinese>口徑:。45ACP&lt;br/&gt;發數:6&lt;br/&gt;使用於:野牛</Chinese>
+        <Chinese>口徑:.45ACP&lt;br/&gt;發數:6&lt;br/&gt;使用於:野牛</Chinese>
         <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:6&lt;br/&gt;使用于:野牛</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_5rnd_127x108_apds_mag1">
         <Original>Caliber: 12.7x108 mm APDS&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: GM6 Lynx</Original>
-        <Chinese>口徑:12。7x108公厘脫殼穿甲彈&lt;br/&gt;發數:5&lt;br/&gt;使用於:GM6"山貓"</Chinese>
+        <Chinese>口徑:12.7x108公厘脫殼穿甲彈&lt;br/&gt;發數:5&lt;br/&gt;使用於:GM6"山貓"</Chinese>
         <Chinesesimp>口径:12.7x108毫米脱壳穿甲弹&lt;br/&gt;发数:5&lt;br/&gt;使用于:GM6"山猫"</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_6rnd_45acp_cylinder0">
@@ -539,9 +539,9 @@
         <Chinesesimp>.45ACP口径11发弹匣</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_11rnd_45acp_mag1">
-        <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-five</Original>
-        <Chinese>口徑:。45ACP&lt;br/&gt;發數:11&lt;br/&gt;使用於:4-five</Chinese>
-        <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:11&lt;br/&gt;使用于:4-five</Chinesesimp>
+        <Original>Caliber: .45 ACP&lt;br /&gt;Rounds: 11&lt;br /&gt;Used in: 4-Five</Original>
+        <Chinese>口徑:.45ACP&lt;br/&gt;發數:11&lt;br/&gt;使用於:4-Five</Chinese>
+        <Chinesesimp>口径:.45ACP&lt;br/&gt;发数:11&lt;br/&gt;使用于:4-Five</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgweapons_acc_dms0">
         <Original>DMS</Original>

@@ -121,17 +121,17 @@
       <Key ID="str_a3_missile_cruise_weapon_name">
         <Original>Venator Cruise Missile</Original>
         <Chinese>"獵人"巡弋飛彈</Chinese>
-        <Chinesesimp>"猎人"巡弋导弹</Chinesesimp>
+        <Chinesesimp>"猎人"巡航导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_he_x18_magazine_shortname">
         <Original>VCM HE</Original>
         <Chinese>"獵人"巡弋高爆飛彈</Chinese>
-        <Chinesesimp>"猎人"巡弋高爆导弹</Chinesesimp>
+        <Chinesesimp>"猎人"巡航高爆导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_he_x18_magazine_name">
         <Original>Cruise Missile HE</Original>
         <Chinese>巡弋高爆飛彈</Chinese>
-        <Chinesesimp>巡弋高爆导弹</Chinesesimp>
+        <Chinesesimp>巡航高爆导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_he_x18_magazine_description">
         <Original>Long-range, datalink guided, surface-to-surface missile with high-explosive warhead</Original>
@@ -141,12 +141,12 @@
       <Key ID="str_a3_missile_cruise_c_x18_magazine_shortname">
         <Original>VCM Cluster</Original>
         <Chinese>"獵人"巡弋集束飛彈</Chinese>
-        <Chinesesimp>"猎人"巡弋集束导弹</Chinesesimp>
+        <Chinesesimp>"猎人"巡航集束导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_c_x18_magazine_name">
         <Original>Cruise Missile Cluster</Original>
         <Chinese>巡弋集束飛彈</Chinese>
-        <Chinesesimp>巡弋集束导弹</Chinesesimp>
+        <Chinesesimp>巡航集束导弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_missile_cruise_c_x18_magazine_description">
         <Original>Long-range, datalink guided, surface-to-surface missile with cluster munitions</Original>

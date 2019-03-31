@@ -4,133 +4,133 @@
     <Container name="PhoneticalAlphabet">
       <Key ID="str_a3_radio_b">
         <Original>Bravo</Original>
-        <Chinese>布拉沃</Chinese>
-        <Chinesesimp>布拉沃</Chinesesimp>
+        <Chinese>"Bravo"</Chinese>
+        <Chinesesimp>"布拉沃"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_c">
         <Original>Charlie</Original>
-        <Chinese>查理</Chinese>
-        <Chinesesimp>查理</Chinesesimp>
+        <Chinese>"Charlie"</Chinese>
+        <Chinesesimp>"查理"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_d">
         <Original>Delta</Original>
-        <Chinese>德爾塔</Chinese>
-        <Chinesesimp>德尔塔</Chinesesimp>
+        <Chinese>"Delta"</Chinese>
+        <Chinesesimp>"德尔塔"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_e">
         <Original>Echo</Original>
-        <Chinese>回聲</Chinese>
-        <Chinesesimp>回声</Chinesesimp>
+        <Chinese>"Echo"</Chinese>
+        <Chinesesimp>"回声"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_f">
         <Original>Foxtrot</Original>
-        <Chinese>狐步舞</Chinese>
-        <Chinesesimp>狐步舞</Chinesesimp>
+        <Chinese>"Foxtrot"</Chinese>
+        <Chinesesimp>"狐步舞"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_g">
         <Original>Golf</Original>
-        <Chinese>高爾夫</Chinese>
-        <Chinesesimp>高尔夫</Chinesesimp>
+        <Chinese>"Golf"</Chinese>
+        <Chinesesimp>"高尔夫"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_h">
         <Original>Hotel</Original>
-        <Chinese>旅館</Chinese>
-        <Chinesesimp>旅馆</Chinesesimp>
+        <Chinese>"Hotel"</Chinese>
+        <Chinesesimp>"旅馆"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_i">
         <Original>India</Original>
-        <Chinese>印第安</Chinese>
-        <Chinesesimp>印第安</Chinesesimp>
+        <Chinese>"India"</Chinese>
+        <Chinesesimp>"印第安"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_j">
         <Original>Juliet</Original>
-        <Chinese>朱麗葉</Chinese>
-        <Chinesesimp>朱丽叶</Chinesesimp>
+        <Chinese>"Juliet"</Chinese>
+        <Chinesesimp>"朱丽叶"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_k">
         <Original>Kilo</Original>
-        <Chinese>基洛</Chinese>
-        <Chinesesimp>基洛</Chinesesimp>
+        <Chinese>"Kilo"</Chinese>
+        <Chinesesimp>"基洛"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_l">
         <Original>Lima</Original>
-        <Chinese>利馬</Chinese>
-        <Chinesesimp>利马</Chinesesimp>
+        <Chinese>"Lima"</Chinese>
+        <Chinesesimp>"利马"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_m">
         <Original>Mike</Original>
-        <Chinese>麥克</Chinese>
-        <Chinesesimp>麦克</Chinesesimp>
+        <Chinese>"Mike"</Chinese>
+        <Chinesesimp>"麦克"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_n">
         <Original>November</Original>
-        <Chinese>十一月</Chinese>
-        <Chinesesimp>十一月</Chinesesimp>
+        <Chinese>"November"</Chinese>
+        <Chinesesimp>"十一月"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_o">
         <Original>Oscar</Original>
-        <Chinese>奧斯卡</Chinese>
-        <Chinesesimp>奥斯卡</Chinesesimp>
+        <Chinese>"Oscar"</Chinese>
+        <Chinesesimp>"奥斯卡"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_p">
         <Original>Papa</Original>
-        <Chinese>帕帕</Chinese>
-        <Chinesesimp>帕帕</Chinesesimp>
+        <Chinese>"Papa"</Chinese>
+        <Chinesesimp>"帕帕"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_q">
         <Original>Quebec</Original>
-        <Chinese>魁北克</Chinese>
-        <Chinesesimp>魁北克</Chinesesimp>
+        <Chinese>"Quebec"</Chinese>
+        <Chinesesimp>"魁北克"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_r">
         <Original>Romeo</Original>
-        <Chinese>羅密歐</Chinese>
-        <Chinesesimp>罗密欧</Chinesesimp>
+        <Chinese>"Romeo"</Chinese>
+        <Chinesesimp>"罗密欧"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_s">
         <Original>Sierra</Original>
-        <Chinese>塞拉</Chinese>
-        <Chinesesimp>塞拉</Chinesesimp>
+        <Chinese>"Sierra"</Chinese>
+        <Chinesesimp>"塞拉"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_t">
         <Original>Tango</Original>
-        <Chinese>探戈</Chinese>
-        <Chinesesimp>探戈</Chinesesimp>
+        <Chinese>"Tango"</Chinese>
+        <Chinesesimp>"探戈"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_u">
         <Original>Uniform</Original>
-        <Chinese>尤尼佛</Chinese>
-        <Chinesesimp>尤尼佛</Chinesesimp>
+        <Chinese>"Uniform"</Chinese>
+        <Chinesesimp>"尤尼佛"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_v">
         <Original>Victor</Original>
-        <Chinese>維克托</Chinese>
-        <Chinesesimp>维克托</Chinesesimp>
+        <Chinese>"Victor"</Chinese>
+        <Chinesesimp>"维克托"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_w">
         <Original>Whiskey</Original>
-        <Chinese>威士忌</Chinese>
-        <Chinesesimp>威士忌</Chinesesimp>
+        <Chinese>"Whiskey"</Chinese>
+        <Chinesesimp>"威士忌"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_x">
         <Original>X-Ray</Original>
-        <Chinese>愛克斯光</Chinese>
-        <Chinesesimp>爱克斯光</Chinesesimp>
+        <Chinese>"X-Ray"</Chinese>
+        <Chinesesimp>"爱克斯光"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_y">
         <Original>Yankee</Original>
-        <Chinese>揚基</Chinese>
-        <Chinesesimp>扬基</Chinesesimp>
+        <Chinese>"Yankee"</Chinese>
+        <Chinesesimp>"扬基"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_z">
         <Original>Zulu</Original>
-        <Chinese>祖魯</Chinese>
-        <Chinesesimp>祖鲁</Chinesesimp>
+        <Chinese>"Zulu"</Chinese>
+        <Chinesesimp>"祖鲁"</Chinesesimp>
       </Key>
       <Key ID="str_a3_radio_a">
         <Original>Alpha</Original>
-        <Chinese>阿爾法</Chinese>
-        <Chinesesimp>阿尔法</Chinesesimp>
+        <Chinese>"Alpha"</Chinese>
+        <Chinesesimp>"阿尔法"</Chinesesimp>
       </Key>
     </Container>
     <Container name="FieldManual">
@@ -207,7 +207,7 @@
       <Key ID="str_a3_spectating_spectatorcamera0">
         <Original>%1%2Use %3[Space]%4 to switch between unit view and free camera.%1%2Use %3[Arrow left]%4, %3[Arrow right]%4 to scroll through watchable soldiers. The selected one is marked with an icon &lt;img size='1' %5 image='\A3\ui_f\data\igui\cfg\cursors\select_ca.paa' /&gt;.%1%2Tap %3[M]%4 to open the map. %1%2Clicking %3[LMB]%4 anywhere on the map will move the free camera under the cursor position.%1%2Press %3[N]%4 to toggle night vision.</Original>
         <Chinese>%1%2使用%3[空白鍵]%4在單位視角和自由鏡頭之間切換。%1%2使用%3[左鍵]%4，%3[右鍵]%4在可見的士兵中進行切換。被選中的單位會標記上一個圖標&lt;imgsize='1'%5image='\A3\ui_f\data\igui\cfg\cursors\select_ca.paa'/&gt;。%1%2按%3[M]%4打開地圖。%1%2使用%3[滑鼠左鍵]%4點擊地圖上的任何地方，會把自由鏡頭移動到指定的位置。%1%2按%3[N]%4來切換到夜視模式。</Chinese>
-        <Chinesesimp>%1%2使用%3[空白键]%4在单位视角和自由镜头之间切换。%1%2使用%3[左键]%4，%3[右键]%4在可见的士兵中进行切换。被选中的单位会标记上一个图标&lt;imgsize='1'%5image='\A3\ui_f\data\igui\cfg\cursors\select_ca.paa'/&gt;。%1%2按%3[M]%4打开地图。%1%2使用%3[鼠标左键]%4点击地图上的任何地方，会把自由镜头移动到指定的位置。%1%2按%3[N]%4来切换到夜视模式。</Chinesesimp>
+        <Chinesesimp>%1%2使用%3[空格键]%4在单位视角和自由镜头之间切换。%1%2使用%3[左键]%4，%3[右键]%4在可见的士兵中进行切换。被选中的单位会标记上一个图标&lt;imgsize='1'%5image='\A3\ui_f\data\igui\cfg\cursors\select_ca.paa'/&gt;。%1%2按%3[M]%4打开地图。%1%2使用%3[鼠标左键]%4点击地图上的任何地方，会把自由镜头移动到指定的位置。%1%2按%3[N]%4来切换到夜视模式。</Chinesesimp>
       </Key>
       <Key ID="str_a3_spectating_spectatorcamera1">
         <Original>Camera Controls</Original>
@@ -1783,22 +1783,22 @@
       </Key>
       <Key ID="str_a3_cfgidentities_yousuf0">
         <Original>Yousuf</Original>
-        <Chinese>Yousuf</Chinese>
+        <Chinese>優素福</Chinese>
         <Chinesesimp>优素福</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgidentities_tanny0">
         <Original>Tanny</Original>
-        <Chinese>Tanny</Chinese>
+        <Chinese>塔尼</Chinese>
         <Chinesesimp>塔尼</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgidentities_reynolds0">
         <Original>Reynolds</Original>
-        <Chinese>Reynolds</Chinese>
+        <Chinese>雷諾兹</Chinese>
         <Chinesesimp>雷诺兹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgidentities_nichols0">
         <Original>Nichols</Original>
-        <Chinese>Nichols</Chinese>
+        <Chinese>尼克爾斯</Chinese>
         <Chinesesimp>尼克尔斯</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgidentities_miller0">
@@ -1808,27 +1808,27 @@
       </Key>
       <Key ID="str_a3_cfgidentities_mckendrick0">
         <Original>McKendrick</Original>
-        <Chinese>McKendrick</Chinese>
+        <Chinese>麥肯德里克</Chinese>
         <Chinesesimp>麦肯德里克</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgidentities_levine0">
         <Original>Levine</Original>
-        <Chinese>Levine</Chinese>
+        <Chinese>萊文</Chinese>
         <Chinesesimp>莱文</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgidentities_larkin0">
         <Original>Larkin</Original>
-        <Chinese>Larkin</Chinese>
+        <Chinese>拉爾金</Chinese>
         <Chinesesimp>拉尔金</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgidentities_lacey0">
         <Original>Lacey</Original>
-        <Chinese>Lacey</Chinese>
+        <Chinese>萊西</Chinese>
         <Chinesesimp>莱西</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgidentities_khalili0">
         <Original>Khalili</Original>
-        <Chinese>Khalili</Chinese>
+        <Chinese>哈利利</Chinese>
         <Chinesesimp>哈利利</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgidentities_kerry0">
@@ -2002,7 +2002,7 @@
     <Container name="Music_F">
       <Key ID="str_a3_cfgmusic_track13_stagec_negative0">
         <Original>Down at the Girina Bay</Original>
-        <Chinese>從Girina海灣出來</Chinese>
+        <Chinese>從伊里納海灣出來</Chinese>
         <Chinesesimp>伊里纳湾外</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmusic_track12_stagec_action0">
@@ -3413,7 +3413,7 @@
         <Key ID="str_a3_cfgmagazines_bouncingminerangemagazine_library0">
           <Original>The anti-personnel bounding mine is best suitable for open areas. It is usually burried just bellow the surface of the ground. When triggered, a charge launches the body of the mine one meter into the air. The explosion covers a close area with fragments, killing the whole group. </Original>
           <Chinese>反人員彈跳雷專為開放的區域所開發。當它啟動時，一點微量的火藥炸開使地雷本體跳離地面1公尺。它的爆炸涵蓋附近的區域，進而殺傷整個小隊。</Chinese>
-          <Chinesesimp>反人员跳雷专在开放区域使用。它通常被浅埋在地表下，当被触发时，一点微量的火药炸开使地雷本体跳离到距离地表约一米的高度。其爆炸能覆盖附近的区域，杀伤整个小队。</Chinesesimp>
+          <Chinesesimp>反人员跳雷专在开放区域使用。它通常被浅埋在地表下，当被触发时，一点微量的火药炸开使地雷本体跳离到距离地表约1米的高度。其爆炸能覆盖附近的区域，杀伤整个小队。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_CFGVEHICLES_UNDERWATERMINEPDM_LIBRARY0">
           <Original>The PDM-7 is an amphibious mine used in shallow waters against light assault boats and amphibious vehicles. A fuse placed on the base serves to discourage handling of the armed mine. </Original>
@@ -3865,7 +3865,7 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_2rnd_gaa_missiles0">
             <Original>Zephyr</Original>
-            <Chinese>Zephyr長程空對空飛彈</Chinese>
+            <Chinese>"西風"長程空對空飛彈</Chinese>
             <Chinesesimp>"西风"远程空空导弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_300rnd_20mm_shells0">
@@ -3900,7 +3900,7 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_01_tracer_green0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Green) Mag</Original>
-            <Chinese>.45ACP口徑30發「惡徒」曳光彈(綠色)彈匣</Chinese>
+            <Chinese>.45ACP口徑30發"惡徒"曳光彈(綠色)彈匣</Chinese>
             <Chinesesimp>.45ACP口径30发"恶徒"曳光弹(绿色)弹匣</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_3rnd_smokeblue_grenade_shell0">
@@ -3975,7 +3975,7 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_4rnd_gaa_missiles0">
             <Original>Zephyr</Original>
-            <Chinese>「西風」長程空對空飛彈</Chinese>
+            <Chinese>"西風"長程空對空飛彈</Chinese>
             <Chinesesimp>"西风"远程空空导弹</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_500rnd_127x99_mag_tracer_green0">
@@ -4000,7 +4000,7 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_9x21_mag_smg_010">
             <Original>.45 ACP 30Rnd Vermin Mag</Original>
-            <Chinese>.45ACP口徑30發「惡徒」彈匣</Chinese>
+            <Chinese>.45ACP口徑30發"惡徒"彈匣</Chinese>
             <Chinesesimp>.45ACP口径30发"恶徒"弹匣</Chinesesimp>
           </Key>
           <Key ID="STR_A3_CfgMagazines_50Rnd_120mm_Mo_shells0">
@@ -4235,7 +4235,7 @@
           </Key>
           <Key ID="STR_A3_CFGMAGAZINES_30RND_9X21_MAG_SMG_01_TRACER_RED0">
             <Original>.45 ACP 30Rnd Vermin Tracers (Red) Mag</Original>
-            <Chinese>.45ACP口徑30發「惡徒」曳光彈(紅色)彈匣</Chinese>
+            <Chinese>.45ACP口徑30發"惡徒"曳光彈(紅色)彈匣</Chinese>
             <Chinesesimp>.45ACP口径30发"恶徒"曳光弹(红色)弹匣</Chinesesimp>
           </Key>
           <Key ID="STR_A3_cfgmagazines_chemlight_blue0">
@@ -5481,7 +5481,7 @@
         <Container name="DisplayName">
           <Key ID="str_cfgweapons_hgun_rook40_f0">
             <Original>Rook-40 9 mm</Original>
-            <Chinese>「白嘴鴉」-40 9公厘</Chinese>
+            <Chinese>"白嘴鴉-40 9公厘</Chinese>
             <Chinesesimp>"白嘴鸦"-40 9毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_lrr0">
@@ -5491,8 +5491,8 @@
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_gm60">
             <Original>GM6 Lynx 12.7 mm</Original>
-            <Chinese>GM6「山貓」12.7公厘</Chinese>
-            <Chinesesimp>GM6 "山猫" 12.7毫米</Chinesesimp>
+            <Chinese>GM6"山貓"12.7公厘</Chinese>
+            <Chinesesimp>GM6"山猫"12.7毫米</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder0">
             <Original>Rangefinder</Original>
@@ -5501,7 +5501,7 @@
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_green0">
             <Original>Caliber: 6.5x39 mm - Caseless&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: Katiba, Type 115</Original>
-            <Chinese>口徑:6.5x39公厘-無殼彈&lt;br/&gt;發數:30&lt;br/&gt;使用於:卡提巴，Type115</Chinese>
+            <Chinese>口徑:6.5x39公厘-無殼彈&lt;br/&gt;發數:30&lt;br/&gt;使用於:卡提巴，115式</Chinese>
             <Chinesesimp>口径:6.5x39毫米-无壳弹&lt;br/&gt;发数:30&lt;br/&gt;使用于:卡提巴，115式</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_30rnd_65x39_caseless_green_mag_tracer0">
@@ -5511,8 +5511,8 @@
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_gl_f0">
             <Original>Katiba GL 6.5 mm</Original>
-            <Chinese>「卡提巴」6.5公厘榴彈發射器型</Chinese>
-            <Chinesesimp>"卡提巴" 6.5毫米榴弹发射器型</Chinesesimp>
+            <Chinese>"卡提巴"6.5公厘榴彈發射器型</Chinese>
+            <Chinesesimp>"卡提巴"6.5毫米榴弹发射器型</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgmagazines_rpg32_aa_f0">
             <Original>RPG-42 HE Rocket</Original>
@@ -5536,8 +5536,8 @@
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_f0">
             <Original>Katiba 6.5 mm</Original>
-            <Chinese>「卡提巴」6.5公厘自动步枪</Chinese>
-            <Chinesesimp>"卡提巴" 6.5毫米自动步枪</Chinesesimp>
+            <Chinese>"卡提巴"6.5公厘自动步枪</Chinese>
+            <Chinesesimp>"卡提巴"6.5毫米自动步枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_nlaw0">
             <Original>PCML</Original>
@@ -5546,13 +5546,13 @@
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_c_f0">
             <Original>Katiba Carbine 6.5 mm</Original>
-            <Chinese>「卡提巴」6.5公厘卡賓槍</Chinese>
-            <Chinesesimp>"卡提巴" 6.5毫米卡宾枪</Chinesesimp>
+            <Chinese>"卡提巴"6.5公厘卡賓槍</Chinese>
+            <Chinesesimp>"卡提巴"6.5毫米卡宾枪</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_law0">
             <Original>RPG-42 Alamut</Original>
-            <Chinese>RPG-42「阿拉穆特」火箭筒</Chinese>
-            <Chinesesimp>RPG-42 "阿拉穆特" 火箭筒</Chinesesimp>
+            <Chinese>RPG-42"阿拉穆特"火箭筒</Chinese>
+            <Chinesesimp>RPG-42"阿拉穆特" 火箭筒</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_sdar0">
             <Original>SDAR 5.56 mm</Original>
@@ -5618,7 +5618,7 @@
           </Key>
           <Key ID="str_a3_cfgweapons_srifle_gm6_library0">
             <Original>The Gepard GM6 Lynx is a semi-automatic anti-material rifle using Russian 12.7x108 mm ammo. Its purpose is to stop or disable targets such as light armored vehicles, light shelters and helicopters from 600–800 m range. Due to its weight and portability, it is good for parachute, airmobile and territorial troops. The barrel recoil technology brings the recoil of the GM6 below the recoil of other rifles in the same category. The weapon is highly accurate and effective up to a range of 1500 m.</Original>
-            <Chinese>獵豹GM6「山貓」是一種半自動反物質的步槍，使用的是俄國12.7x108公厘子彈。它的目的是為了在600–800公尺的射程內阻止目標或者使目標癱瘓，例如輕型裝甲車，輕型掩蔽處以及直升機。因為它的重量和輕便性，這種步槍很適合傘兵，空軍機動部隊以及陸軍部隊。GM6的槍管後座力技術使得它的後坐力小於其他同類型的槍支。這個武器在1500公尺的射程內，具有高精確度和高效能。</Chinese>
+            <Chinese>獵豹GM6"山貓"是一種半自動反物質的步槍，使用的是俄國12.7x108公厘子彈。它的目的是為了在600–800公尺的射程內阻止目標或者使目標癱瘓，例如輕型裝甲車，輕型掩蔽處以及直升機。因為它的重量和輕便性，這種步槍很適合傘兵，空軍機動部隊以及陸軍部隊。GM6的槍管後座力技術使得它的後坐力小於其他同類型的槍支。這個武器在1500公尺的射程內，具有高精確度和高效能。</Chinese>
             <Chinesesimp>猎豹GM6"山猫"是一种半自动反器材步枪，使用俄制12.7x108毫米子弹。它的目的是为了在600–800米的射程上阻止或瘫痪目标，如轻型装甲车，轻型掩蔽处以及直升机。因为它的重量和轻便性，这种步枪很适合伞兵，空中机动部队以及地方部队。GM6的枪管后座力技术使得它的后坐力小于其他同类型的枪支。这种武器在1500米的射程内具有高精确度和高效能。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_rangefinder_library0">
@@ -5638,7 +5638,7 @@
           </Key>
           <Key ID="str_a3_cfgweapons_arifle_katiba_f_library0">
             <Original>Katiba is a bullpup assault rifle of an Eastern origin and was developed in cooperation with China. It fires 6.5 mm caseless ammunition. Thanks to its construction, the rifle is really reliable and has a low recoil. Katiba is a standard issue weapon for OPFOR armies. Three versions of Katiba exist: standard, a shorter carbine and a GL version equipped with an underslung grenade launcher.</Original>
-            <Chinese>"卡提巴"源自東歐，與中國合作研製的無托突擊步槍。他使用6.5公厘無殼彈。由於其設計，此步槍具有低後座力與相當可靠等特色。「卡提巴」是紅方的標準配備。有三種「卡提巴」的衍生型:標準版，短槍管的卡賓槍版和裝有榴彈發射器的版本。</Chinese>
+            <Chinese>"卡提巴"源自東歐，與中國合作研製的無托突擊步槍。他使用6.5公厘無殼彈。由於其設計，此步槍具有低後座力與相當可靠等特色。"卡提巴"是紅方的標準配備。有三種"卡提巴"的衍生型:標準版，短槍管的卡賓槍版和裝有榴彈發射器的版本。</Chinese>
             <Chinesesimp>"卡提巴"源自东欧，与中国合作研制的无托突击步枪。它发射6.5毫米无壳弹。由于其设计，此步枪具有低后座力和良好的可靠性。"卡提巴"是红方的标准配备。"卡提巴"有三种衍生型:标准版，短枪管的卡宾枪版和装有榴弹发射器的版本。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_hgun_p07_library0">
@@ -5653,7 +5653,7 @@
           </Key>
           <Key ID="str_a3_cfgweapons_launch_law_library0">
             <Original>The RPG-42 Alamut is a lightweight, reloadable and recoilless anti-tank weapon fired from the shoulder. It's based on modern Russian rocket launchers and produced in the Middle East. The RPG-42 Rocket is best used against light-armored vehicles and defenses, though when used against a tank, it could damage its tracks.</Original>
-            <Chinese>RPG-42「阿拉穆特」是一把輕量級，可重複裝填並且無后座力的肩扛反坦克武器。它的基礎是現代的俄羅斯火箭發射器，並在中東製造。RPG-42火箭筒最好用來對付輕型車輛或者是防禦工事，但當它面對坦克時，它通常只能損壞坦克的履帶。</Chinese>
+            <Chinese>RPG-42"阿拉穆特"是一把輕量級，可重複裝填並且無后座力的肩扛反坦克武器。它的基礎是現代的俄羅斯火箭發射器，並在中東製造。RPG-42火箭筒最好用來對付輕型車輛或者是防禦工事，但當它面對坦克時，它通常只能損壞坦克的履帶。</Chinese>
             <Chinesesimp>RPG-42"阿拉穆特"是一把轻量级，可重复装填并且无后座力的肩扛反坦克武器。它的基础是现代的俄罗斯火箭发射器，在中东制造。RPG-42火箭筒最好用来对付轻型车辆或者是防御工事，但当它面对坦克时，它通常也能损坏坦克的履带。</Chinesesimp>
           </Key>
           <Key ID="str_a3_cfgweapons_launch_nlaw_library0">
@@ -9061,7 +9061,7 @@
         </Key>
         <Key ID="str_a3_natomen_lastnames50">
           <Original>Martin</Original>
-          <Chinese>Martin</Chinese>
+          <Chinese>馬丁</Chinese>
           <Chinesesimp>马丁</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_lastnames109">
@@ -9071,7 +9071,7 @@
         </Key>
         <Key ID="str_a3_natomen_lastnames5">
           <Original>Conrad</Original>
-          <Chinese>Conrad</Chinese>
+          <Chinese>康拉德</Chinese>
           <Chinesesimp>康拉德</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_lastnames11">
@@ -9386,12 +9386,12 @@
         </Key>
         <Key ID="str_a3_civmen_lastnames34">
           <Original>Pedersen</Original>
-          <Chinese>Pedersen</Chinese>
+          <Chinese>佩德森</Chinese>
           <Chinesesimp>佩德森</Chinesesimp>
         </Key>
         <Key ID="str_a3_natomen_lastnames20">
           <Original>Thompson</Original>
-          <Chinese>Thompson</Chinese>
+          <Chinese>湯普森</Chinese>
           <Chinesesimp>汤普森</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_lastnames35">
@@ -9401,7 +9401,7 @@
         </Key>
         <Key ID="str_a3_natomen_lastnames2">
           <Original>Blackburn</Original>
-          <Chinese>Blackburn</Chinese>
+          <Chinese>布萊克本</Chinese>
           <Chinesesimp>布莱克本</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_lastnames36">
@@ -9551,7 +9551,7 @@
         </Key>
         <Key ID="str_a3_natomen_lastnames108">
           <Original>Smith</Original>
-          <Chinese>Smith</Chinese>
+          <Chinese>史密斯</Chinese>
           <Chinesesimp>史密斯</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_lastnames5">
@@ -9621,7 +9621,7 @@
         </Key>
         <Key ID="str_a3_natomen_lastnames101">
           <Original>Leahy</Original>
-          <Chinese>Leahy</Chinese>
+          <Chinese>萊希</Chinese>
           <Chinesesimp>莱希</Chinesesimp>
         </Key>
         <Key ID="str_a3_civmen_lastnames56">
@@ -14338,7 +14338,7 @@
       <Container name="Library">
         <Key ID="STR_A3_cfgvehicles_heli_light_02_lib">
           <Original>The PO-30 Orca is a transport and utility helicopter primarily developed for the Russian Air Force. The helicopter was intended to replace the Mi-8 and can be used for reconnaissance, transporting a full squad with combat gear and special operations. Armed variants of the PO-30 carry a Minigun and DAGR guided rockets.</Original>
-          <Chinese>PO-30"逆戟鯨"是俄國空軍開發用來作運輸與多用途的直升機。它的主要的目的是要取代Mi-8和用作偵察，運輸整個班用的武器與特種作戰。武裝版的PO-30載有迷你砲機槍和直接攻擊導引火箭彈。</Chinese>
+          <Chinese>PO-30"逆戟鯨"是俄國空軍開發用來作運輸與多用途的直升機。它的主要的目的是要取代米-8和用作偵察，運輸整個班用的武器與特種作戰。武裝版的PO-30載有迷你砲機槍和直接攻擊導引火箭彈。</Chinese>
           <Chinesesimp>PO-30"逆戟鲸"是为俄罗斯空军开发的运输与效用直升机。它的主要的目的是要取代米-8用作侦察，运输一个全副武装的班或执行特种作战任务。武装版的PO-30载有"米尼岗"速射机枪和直接攻击制导火箭弹。</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgvehicles_quadbike_base_f_library0">
@@ -14386,7 +14386,7 @@
         <Key ID="STR_A3_CAS_preset_displayName">
           <Original>CAS</Original>
           <Chinese>密接空中支援</Chinese>
-          <Chinesesimp>密接空中支援</Chinesesimp>
+          <Chinesesimp>近距离空中支援</Chinesesimp>
         </Key>
       </Container>
     </Container>
@@ -18385,7 +18385,7 @@
     <Container name="ParticleEf">
       <Key ID="str_a3_cfgmods_a31">
         <Original>Arma 3 Beta</Original>
-        <Chinese>Arma 3 Beta</Chinese>
+        <Chinese>武裝突襲3 Beta</Chinese>
         <Chinesesimp>武装突袭3 Beta</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmods_a30">

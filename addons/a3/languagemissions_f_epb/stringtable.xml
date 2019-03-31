@@ -4,28 +4,28 @@
     <Container name="Callsigns">
       <Key ID="STR_A3_Group_Omega">
         <Original>Omega</Original>
-        <Chinese>歐米加</Chinese>
-        <Chinesesimp>欧米加</Chinesesimp>
+        <Chinese>"歐米加"</Chinese>
+        <Chinesesimp>"欧米加"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Group_Crossroads">
         <Original>Crossroads</Original>
-        <Chinese>十字路口</Chinese>
-        <Chinesesimp>十字路口</Chinesesimp>
+        <Chinese>"交叉路"</Chinese>
+        <Chinesesimp>"交叉路口"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Group_Sigma">
         <Original>Sigma</Original>
-        <Chinese>西格瑪</Chinese>
-        <Chinesesimp>西格玛</Chinesesimp>
+        <Chinese>"西格瑪"</Chinese>
+        <Chinesesimp>"西格玛"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Group_Gamma">
         <Original>Gamma</Original>
-        <Chinese>伽馬</Chinese>
-        <Chinesesimp>伽马</Chinesesimp>
+        <Chinese>"伽馬"</Chinese>
+        <Chinesesimp>"伽马"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Group_Slingshot">
         <Original>Slingshot</Original>
-        <Chinese>彈弓</Chinese>
-        <Chinesesimp>弹弓</Chinesesimp>
+        <Chinese>"彈弓"</Chinese>
+        <Chinesesimp>"弹弓"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Group_Spotter">
         <Original>Spotter</Original>
@@ -34,8 +34,8 @@
       </Key>
       <Key ID="STR_A3_Group_Ice">
         <Original>Ice</Original>
-        <Chinese>冰</Chinese>
-        <Chinesesimp>冰</Chinesesimp>
+        <Chinese>"冰"</Chinese>
+        <Chinesesimp>"冰"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Group_Sniper">
         <Original>Sniper</Original>
@@ -44,18 +44,18 @@
       </Key>
       <Key ID="STR_A3_Group_Kappa">
         <Original>Kappa</Original>
-        <Chinese>卡帕</Chinese>
-        <Chinesesimp>卡帕</Chinesesimp>
+        <Chinese>"卡帕"</Chinese>
+        <Chinesesimp>"卡帕"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Group_Ice1">
         <Original>Ice-1</Original>
-        <Chinese>冰-1</Chinese>
-        <Chinesesimp>冰-1</Chinesesimp>
+        <Chinese>"冰-1"</Chinese>
+        <Chinesesimp>"冰-1"</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Group_Ice2">
         <Original>Ice-2</Original>
-        <Chinese>冰-2</Chinese>
-        <Chinesesimp>冰-2</Chinesesimp>
+        <Chinese>"冰-2"</Chinese>
+        <Chinesesimp>"冰-2"</Chinesesimp>
       </Key>
     </Container>
     <Container name="Missions">
@@ -380,7 +380,7 @@
             </Key>
             <Key ID="str_a3_b_hub_072_b_hub_ambient_talk_sfb_0">
               <Original>Stavrou didn't sound too impressed, though.</Original>
-              <Chinese>儘管Stavrou看起來並沒有預期中那麼的感動。</Chinese>
+              <Chinese>儘管斯塔夫魯看起來並沒有預期中那麼的感動。</Chinese>
               <Chinesesimp>尽管斯塔夫鲁看起来并没有预期中那么的感动。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_hub_072_b_hub_ambient_talk_sfb_1">
@@ -764,7 +764,7 @@
             </Key>
             <Key ID="str_a3_b_hub_218_poi_weapon_smugglers_01_gub_2">
               <Original>Apparently they were set up somewhere out in the wilderness west of Syrta, but the conflict escalated before they were able to catch them.</Original>
-              <Chinese>顯然那群走私者把根據地設立在希爾塔西方的曠野中，但在準備查緝前，內戰就爆發了。</Chinese>
+              <Chinese>顯然那群走私者把根據地設立在西爾塔西方的曠野中，但在準備查緝前，內戰就爆發了。</Chinese>
               <Chinesesimp>看起来那些走私者把根据地设立在西尔塔西方的旷野中，但在准备查缉前，内战就爆发了。</Chinesesimp>
             </Key>
           </Container>
@@ -798,7 +798,7 @@
             </Key>
             <Key ID="str_a3_b_hub_216_poi_special_forces_01_gua_2">
               <Original>We've already lost contact with two scouting teams near Syrta.</Original>
-              <Chinese>我們已經與兩支在希爾塔附近的偵察小隊失去聯繫。</Chinese>
+              <Chinese>我們已經與兩支在西爾塔附近的偵察小隊失去聯繫。</Chinese>
               <Chinesesimp>我们已经与两支在西尔塔附近的侦察小组失去联系。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_hub_216_poi_special_forces_01_gub_0">
@@ -936,8 +936,8 @@
             </Key>
             <Key ID="str_a3_b_hub_211_poi_immobile_armor_01_gua_2">
               <Original>Well, the wreck is still there for now - on the crossroad between Syrta and Kore.</Original>
-              <Chinese>話說，那團廢鐵現在應該還留在原地-就位在希爾塔和科雷之間的十字路口上。</Chinese>
-              <Chinesesimp>话说，那堆废铁现在应该还留在原地-就位于西尔塔和科雷之间的十字路口上。</Chinesesimp>
+              <Chinese>話說，那團廢鐵現在應該還留在原地-就位在西爾塔和科雷之間的交叉路口上。</Chinese>
+              <Chinesesimp>话说，那堆废铁现在应该还留在原地-就位于西尔塔和科雷之间的交叉路口上。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_hub_211_poi_immobile_armor_01_gub_0">
               <Original>Good to hear. So, who was unlucky today?</Original>
@@ -1299,7 +1299,7 @@
           </Key>
           <Key ID="STR_A3_b_hub_task_debriefing_desc">
             <Original>Stavrou has organized a debriefing. Meet with the rest of the guerrillas at his position. </Original>
-            <Chinese>Stavrou正要向大家進行報告。跟其他的反抗軍一同前往他的位置。</Chinese>
+            <Chinese>斯塔夫魯正要向大家進行報告。跟其他的反抗軍一同前往他的位置。</Chinese>
             <Chinesesimp>斯塔夫鲁正要向大家进行行动后报告。跟其他的游击队员一起去找他。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_b_hub_task_debriefing_marker">
@@ -2285,7 +2285,7 @@
           </Key>
           <Key ID="str_a3_campaign_b_m01_task_wait_description">
             <Original>Wait for further orders from Commander Stavrou.</Original>
-            <Chinese>請等待指揮官Stavrou的進一步命令。</Chinese>
+            <Chinese>請等待指揮官斯塔夫魯的進一步命令。</Chinese>
             <Chinesesimp>请等待指挥员斯塔夫鲁的进一步命令。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m01_task_truckprotect_title">
@@ -2400,8 +2400,8 @@
           </Key>
           <Key ID="str_a3_campaign_b_m01_marker_falcon">
             <Original>Falcon</Original>
-            <Chinese>獵鷹</Chinese>
-            <Chinesesimp>猎鹰</Chinesesimp>
+            <Chinese>"獵鷹"</Chinese>
+            <Chinesesimp>"猎鹰"</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m01_instructor_neutralizetargets">
             <Original>Neutralize Targets</Original>
@@ -2450,8 +2450,8 @@
           </Key>
           <Key ID="str_a3_campaign_b_m01_briefing_signal_text">
             <Original>%3Omega%2 - Your Team&lt;br /&gt;%4Sigma%2 - Support Team&lt;br /&gt;%5Gamma%2 - Support Team&lt;br /&gt;%6Kappa%2 - Supply truck&lt;br /&gt;Slingshot - Headquarters</Original>
-            <Chinese>%3歐米加%2-你的小隊&lt;br/&gt;%4西格瑪%2-支援小隊&lt;br/&gt;%5伽馬%2-支援小隊&lt;br/&gt;%6卡帕%2-補給卡車&lt;br/&gt;彈弓-指揮官</Chinese>
-            <Chinesesimp>%3欧米加%2-你的小队&lt;br/&gt;%4西格玛%2-支援小队&lt;br/&gt;%5伽马%2-支援小队&lt;br/&gt;%6卡帕%2-补给卡车&lt;br/&gt;弹弓-指挥员</Chinesesimp>
+            <Chinese>%3"歐米加"%2-你的小隊&lt;br/&gt;%4"西格瑪"%2-支援小隊&lt;br/&gt;%5"伽馬"%2-支援小隊&lt;br/&gt;%6"卡帕"%2-補給卡車&lt;br/&gt;"彈弓"-指揮官</Chinese>
+            <Chinesesimp>%3"欧米加"%2-你的小队&lt;br/&gt;%4"西格玛"%2-支援小队&lt;br/&gt;%5"伽马"%2-支援小队&lt;br/&gt;%6"卡帕"%2-补给卡车&lt;br/&gt;"弹弓"-指挥员</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m01_briefing_mission_text">
             <Original>Together with the support teams, assault the enemy %3outpost%2 and steal their %4supplies%2.</Original>
@@ -2460,8 +2460,8 @@
           </Key>
           <Key ID="str_a3_campaign_b_m01_briefing_execution_text">
             <Original>1. Assault enemy %3outpost%2&lt;br /&gt;2. Protect Kappa's %4truck%2 while re-supplying&lt;br /&gt;3. Move back to the %5forest%2</Original>
-            <Chinese>1。突擊敵人的%3前哨%2&lt;br/&gt;2。當"卡帕"正在補給物資時，保護好他的%4卡車%2&lt;br/&gt;3。撤退回%5森林%2</Chinese>
-            <Chinesesimp>1。突击敌人的%3前哨站%2&lt;br/&gt;2。当"卡帕"正在补给物资时，保护好他的%4卡车%2&lt;br/&gt;3。撤退回%5森林%2</Chinesesimp>
+            <Chinese>1. 突擊敵人的%3前哨%2&lt;br/&gt;2. 當"卡帕"正在補給物資時，保護好他的%4卡車%2&lt;br/&gt;3. 撤退回%5森林%2</Chinese>
+            <Chinesesimp>1. 突击敌人的%3前哨站%2&lt;br/&gt;2. 当"卡帕"正在补给物资时，保护好他的%4卡车%2&lt;br/&gt;3. 撤退回%5森林%2</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m01_alarm_action">
             <Original>Alarm: Deactivate</Original>
@@ -2505,7 +2505,7 @@
           <Container name="x50_casualtiesCharlie" audioFilePath="\a3\dubbing_f_epb\b_m01" dialogName="x50_casualtiesCharlie" dubbingLanguage="english" namePrefix="b_m01_x50_casualtiescharlie" note="" participants="EPB I Guerrilla B;EPB I Stavrou;" situation="charlie team suffers heavy casualties">
             <Key ID="str_a3_b_m01_x50_casualtiescharlie_gub_0">
               <Original>Slingshot, this is Sigma, Nicolo and Kostas are both down! Please advise. Over.</Original>
-              <Chinese>"彈弓"，這裡是"西格瑪"，"尼科洛"跟"科斯塔斯"都已經倒下了!請指示。完畢。</Chinese>
+              <Chinese>"彈弓"，這裡是"西格瑪"，尼科洛跟科斯塔斯都已經倒下了!請指示。完畢。</Chinese>
               <Chinesesimp>"弹弓"，这里是"西格玛"，尼科洛跟科斯塔斯都已经倒下了!请指示。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m01_x50_casualtiescharlie_sta_0">
@@ -2694,7 +2694,7 @@
             </Key>
             <Key ID="str_a3_b_m01_85_frinileave_mil_1">
               <Original>At least one mechanized unit reaching Frini in 60 seconds. What's going on there?</Original>
-              <Chinese>至少有一支機械化小隊將在60秒後抵達Frini。那邊的狀況怎樣?</Chinese>
+              <Chinese>至少有一支機械化小隊將在60秒後抵達夫里尼。那邊的狀況怎樣?</Chinese>
               <Chinesesimp>至少有一支机械化部队将在60秒后抵达夫里尼。那边的状况怎样?</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m01_85_frinileave_sta_0">
@@ -2737,7 +2737,7 @@
           <Container name="65_mortarDestroy" audioFilePath="\a3\dubbing_f_epb\b_m01" dialogName="65_mortarDestroy" dubbingLanguage="english" namePrefix="b_m01_65_mortardestroy" note="" participants="EPB B Player;EPB I Stavrou;" situation="player reports contact on the mortar in frini and hq orders him to take his team and neutralize the mortar">
             <Key ID="str_a3_b_m01_65_mortardestroy_ker_0">
               <Original>Slingshot, mortar spotted in Frini. Over.</Original>
-              <Chinese>"彈弓"，我們在Frini發現到迫擊砲。完畢。</Chinese>
+              <Chinese>"彈弓"，我們在夫里尼發現到迫擊砲。完畢。</Chinese>
               <Chinesesimp>"弹弓"，我们在夫里尼发现迫击炮。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m01_65_mortardestroy_ker_1">
@@ -2779,7 +2779,7 @@
             </Key>
             <Key ID="str_a3_b_m01_60_mortardetected_sta_1">
               <Original>Okay, Omega, try to find out the position of that mortar. Out.</Original>
-              <Chinese>好的，Omega，試著找到這些迫擊砲的位置。通話完畢。</Chinese>
+              <Chinese>好的，"歐米加"，試著找到這些迫擊砲的位置。通話完畢。</Chinese>
               <Chinesesimp>好的，"欧米加"，试着找到这些迫击炮的位置。通话完毕。</Chinesesimp>
             </Key>
           </Container>
@@ -2873,7 +2873,7 @@
             </Key>
             <Key ID="str_a3_b_m01_20_guardsdead_sta_0">
               <Original>Copy, good job Omega.</Original>
-              <Chinese>收到，幹的好Omega。</Chinese>
+              <Chinese>收到，幹的好"歐米加"。</Chinese>
               <Chinesesimp>收到，干的好"欧米加"。</Chinesesimp>
             </Key>
           </Container>
@@ -3081,13 +3081,13 @@
           </Key>
           <Key ID="str_a3_campaign_b_m02_1_briefing_situation_text">
             <Original>Ok, quiet now; I have some important news to share with you all.%1%1Since his defection, Orestes has further briefed us on what he knows about the situation. Based on this information, we believe that one of our own - Nikos - is being held by the AAF on Stratis.%1%1I don’t need to tell you how important he is to our cause, brothers. Not only is he the lynchpin of our supply network, he’s the one man that truly unifies our cause. We plan to set him free.%1%1However, time is of the essence. Orestes believes that they will move Nikos deep into CSAT territory. It’s imperative we get to him before he’s taken beyond our reach.%1%1Right now, our British friend is putting together a plan to extract him and is finding the boats we will need to get to and from Stratis. We deeply appreciate this assistance.%1%1For now, we’ll wait for Miller’s signal and move to his position when the time is right.</Original>
-            <Chinese>好的，請先安靜;我有一些重要的訊息要與你們分享。%1%1自從奧雷奧斯泰向我們投誠後，他就不斷的向我們分享他所知道的情況。基於他的情報，我們相信我們的戰友-尼科斯-被阿爾蒂斯武裝力量關在斯特拉蒂斯島上。%1%1我並不需要像你們特別說明，你們自己也明白，失去他對我們來說是有多麼大的打擊，各位弟兄。不只是因為他是我們供給網路的關鍵人物，更重要的，他是那個真正讓大家今天站在這裡的最大推手。我們計劃要去救他。%1%1然而，時間是不等人的。奧雷奧斯泰相信尼科斯即將要被轉移到廣協同盟的領地上。這任務是目前的當務之急，我們不能讓他離開到我們手不能及的地方。%1%1現在我們的英國朋友正在策畫要如何救出他，並且也在找一艘船來載我們去斯特拉蒂斯。我們很感謝他們的協助。%1%1目前，讓我們先等待米勒的信號，然後再去拯救我們的戰友出來。</Chinese>
+            <Chinese>好的，請先安靜;我有一些重要的訊息要與你們分享。%1%1自從奧雷斯泰斯向我們投誠後，他就不斷的向我們分享他所知道的情況。基於他的情報，我們相信我們的戰友-尼科斯-被阿爾蒂斯武裝力量關在斯特拉蒂斯島上。%1%1我並不需要像你們特別說明，你們自己也明白，失去他對我們來說是有多麼大的打擊，各位弟兄。不只是因為他是我們供給網路的關鍵人物，更重要的，他是那個真正讓大家今天站在這裡的最大推手。我們計劃要去救他。%1%1然而，時間是不等人的。奧雷斯泰斯相信尼科斯即將要被轉移到廣協同盟的領地上。這任務是目前的當務之急，我們不能讓他離開到我們手不能及的地方。%1%1現在我們的英國朋友正在策畫要如何救出他，並且也在找一艘船來載我們去斯特拉蒂斯。我們很感謝他們的協助。%1%1目前，讓我們先等待米勒的信號，然後再去拯救我們的戰友出來。</Chinese>
             <Chinesesimp>好的，请先安静;我有一些重要的信息要与你们分享。%1%1自从奥雷斯泰斯向我们投诚后，他就不断的向我们分享他所知道的情况。基于他的情报，我们相信我们的战友-尼科斯-被阿尔蒂斯武装力量关在斯特拉蒂斯岛上。%1%1我并不需要特别强调他对我们的事业有多重要，弟兄们。不只是因为他是我们供给网络的关键人物，更重要的，他是让我们团结在一起的灵魂人物。我们计划要去救他。%1%1然而时间不等人。奥雷斯泰斯相信尼科斯即将要被转移到广协同盟的控制区内。这任务是目前的当务之急，我们不能让他被转移到我们手不能及的地方。%1%1现在我们的英国朋友正在策划要如何救出他，并且也在找船来载我们去斯特拉蒂斯。我们很感谢他们的协助。%1%1目前，让我们先等待米勒的信号，然后再去拯救我们的战友出来。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m02_1_briefing_signal_text">
             <Original>%3Omega%2 - You&lt;br /&gt;%4Falcon%2 - Miller</Original>
-            <Chinese>%3歐米加%2-你&lt;br/&gt;%4獵鷹%2-米勒</Chinese>
-            <Chinesesimp>%3欧米加%2-你&lt;br/&gt;%4猎鹰%2-米勒</Chinesesimp>
+            <Chinese>%3"歐米加"%2-你&lt;br/&gt;%4"獵鷹"%2-米勒</Chinese>
+            <Chinesesimp>%3"欧米加"%2-你&lt;br/&gt;%4"猎鹰"%2-米勒</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m02_1_briefing_mission_text">
             <Original>CTRG are preparing %4the boats%2 that will take you to Stratis. Avoid detection and link up with them.</Original>
@@ -3096,8 +3096,8 @@
           </Key>
           <Key ID="str_a3_campaign_b_m02_1_briefing_execution_text">
             <Original>1. Inserted near %3Athanos%2&lt;br /&gt;2. Stay undetected&lt;br /&gt;3. RV with Miller at %4the beach%2</Original>
-            <Chinese>1。潛入%3阿塔諾斯%2的附近&lt;br/&gt;2。保持不被發現&lt;br/&gt;3。與米勒在%4海灘%2邊會合</Chinese>
-            <Chinesesimp>1。潜入%3阿塔诺斯%2附近&lt;br/&gt;2。保持不被发现&lt;br/&gt;3。与米勒在%4海滩%2边会合</Chinesesimp>
+            <Chinese>1. 潛入%3阿塔諾斯%2的附近&lt;br/&gt;2. 保持不被發現&lt;br/&gt;3. 與米勒在%4海灘%2邊會合</Chinese>
+            <Chinesesimp>1. 潜入%3阿塔诺斯%2附近&lt;br/&gt;2. 保持不被发现&lt;br/&gt;3. 与米勒在%4海滩%2边会合</Chinesesimp>
           </Key>
           <Key ID="STR_A3_B_m02_1_mission_name">
             <Original>Within Reach</Original>
@@ -3428,23 +3428,23 @@
           </Key>
           <Key ID="str_a3_campaign_b_m02_2_briefing_situation_text">
             <Original>After discovering that %3Nikos%2 was being held in a AAF Stratis complex, %4Miller%2 has set up an operation to get him free from the AAF.%1%1The plan is for %4Miller's%2 team to rescue %3Nikos%2 personally, leaving us with the task of diverting the enemy attention from the complex where %3Nikos%2 is being held, in order for %4Miller%2 to go in and rescue %3Nikos%2 with the least problematic situations possible.%1%1Our window of operation should end in 45 minutes, at around 2025 hours is scheduled for Nikos to be transferred to the %5Airfield%2, we need to rescue him before this happens, otherwise, it will be impossible to get him back to safety.</Original>
-            <Chinese>在我們發現%3尼科斯%2被阿爾蒂斯武裝力量囚禁在斯特拉蒂斯島上之後，%4米勒%2策劃了一場拯救行動。%1%1這行動主要是由%4米勒的小隊%2來拯救%3尼科斯尼科斯%2，把敵人放在%3尼科斯%2身上的注意力分散開來就是我們的工作了，為了使%4米勒%2拯救%3尼科斯%2的行動更為簡單。%1%1我們的任務時間只有45分鐘，在晚間2025時刻尼科斯將被移動到%5機場去%2，我們必須在那之前救他出來，要不然，我們就沒法子把他弄回來了。</Chinese>
-            <Chinesesimp>在我们发现%3尼科斯%2被阿尔蒂斯武装力量囚禁在斯特拉蒂斯岛上之后，%4米勒%2策划了一场拯救行动。%1%1这行动主要是由%4米勒的小组%2来拯救%3尼科斯%2，我们的任务则是分散敌人在%3尼科斯%2身上的注意力，为了使%4米勒%2拯救%3尼科斯%2的行动更为简单。%1%1我们的任务时间只有45分钟，在晚间2025时刻尼科斯将被移动到%5机场%2去，我们必须在那之前救他出来，要不然我们就没法子把他弄回来了。</Chinesesimp>
+            <Chinese>在我們發現%3尼科斯%2被阿爾蒂斯武裝力量囚禁在斯特拉蒂斯島上之後，%4米勒%2策劃了一場拯救行動。%1%1這行動主要是由%4米勒的小隊%2來拯救%3尼科斯尼科斯%2，把敵人放在%3尼科斯%2身上的注意力分散開來就是我們的工作了，為了使%4米勒%2拯救%3尼科斯%2的行動更為簡單。%1%1我們的任務時間只有45分鐘，在晚間20:25時刻尼科斯將被移動到%5機場去%2，我們必須在那之前救他出來，要不然，我們就沒法子把他弄回來了。</Chinese>
+            <Chinesesimp>在我们发现%3尼科斯%2被阿尔蒂斯武装力量囚禁在斯特拉蒂斯岛上之后，%4米勒%2策划了一场拯救行动。%1%1这行动主要是由%4米勒的小组%2来拯救%3尼科斯%2，我们的任务则是分散敌人在%3尼科斯%2身上的注意力，为了使%4米勒%2拯救%3尼科斯%2的行动更为简单。%1%1我们的任务时间只有45分钟，在晚间20:25时刻尼科斯将被移动到%5机场%2去，我们必须在那之前救他出来，要不然我们就没法子把他弄回来了。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m02_2_briefing_signal_text">
             <Original>Omega - Your team&lt;br /&gt;Gamma - Insertion/Extraction unit&lt;br /&gt;%4Falcon%2 - Miller's team&lt;br /&gt;%3Stawman%2 - Nikos</Original>
-            <Chinese>歐米加-你的小隊&lt;br/&gt;伽馬-滲透/撤離單位&lt;br/&gt;%4獵鷹%2-Miller的小隊&lt;br/&gt;%3稻草人%2-尼科斯</Chinese>
-            <Chinesesimp>欧米加-你的小组&lt;br/&gt;伽马-渗透/撤离单位&lt;br/&gt;%4猎鹰%2-米勒的小组&lt;br/&gt;%3稻草人%2-尼科斯</Chinesesimp>
+            <Chinese>"歐米加"-你的小隊&lt;br/&gt;"伽馬"-滲透/撤離單位&lt;br/&gt;%4"獵鷹"%2-米勒的小隊&lt;br/&gt;%3"稻草人"%2-尼科斯</Chinese>
+            <Chinesesimp>"欧米加"-你的小组&lt;br/&gt;"伽马"-渗透/撤离单位&lt;br/&gt;%4"猎鹰"%2-米勒的小组&lt;br/&gt;%3"稻草人"%2-尼科斯</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m02_2_briefing_mission_text">
             <Original>Divert enemy attention by creating as much chaos you can in the %4south%2 to provide the CTRG team a window of opportunity in the %3north%2.</Original>
             <Chinese>藉由在%4南方%2製造混亂來分散敵人的注意力，好讓戰研大隊可以在%3北邊%2救出尼科斯。</Chinese>
-            <Chinesesimp>藉由在%4南方%2制造混乱来分散敌人的注意力，让战研大队可以在%3北边%2救出尼科斯。</Chinesesimp>
+            <Chinesesimp>借由在%4南方%2制造混乱来分散敌人的注意力，让战研大队可以在%3北边%2救出尼科斯。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m02_2_briefing_execution_text">
             <Original>1. Create %3chaos%2 in order to divert the enemy attention from the %4North%2.&lt;br /&gt;2. Meet the extraction unit.&lt;br /&gt;3. Leave Stratis.</Original>
-            <Chinese>1。製造%3混亂%2好來分散敵人在%4北邊%2的注意力。&lt;br/&gt;2。與撤離單位會合。&lt;br/&gt;3。離開斯特拉蒂斯。</Chinese>
-            <Chinesesimp>1。制造%3混乱%2以分散敌人在%4北边%2的注意力。&lt;br/&gt;2。与撤离单位会合。&lt;br/&gt;3。离开斯特拉蒂斯。</Chinesesimp>
+            <Chinese>1. 製造%3混亂%2好來分散敵人在%4北邊%2的注意力。&lt;br/&gt;2. 與撤離單位會合。&lt;br/&gt;3. 離開斯特拉蒂斯。</Chinese>
+            <Chinesesimp>1. 制造%3混乱%2以分散敌人在%4北边%2的注意力。&lt;br/&gt;2. 与撤离单位会合。&lt;br/&gt;3. 离开斯特拉蒂斯。</Chinesesimp>
           </Key>
           <Key ID="STR_A3_B_m02_2_mission_name">
             <Original>Attention Deficit</Original>
@@ -3479,7 +3479,7 @@
             </Key>
             <Key ID="str_a3_b_m02_2_00_briefing_mil_4">
               <Original>This should give us a fighting chance to get in, grab Nikos, and get out.</Original>
-              <Chinese>這將使我們有機會救出並帶回Nikos，然後離開這邊。</Chinese>
+              <Chinese>這將使我們有機會救出並帶回尼科斯，然後離開這邊。</Chinese>
               <Chinesesimp>这将使我们有机会救出并带回尼科斯，然后离开。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m02_2_00_briefing_mil_5">
@@ -3554,7 +3554,7 @@
           <Container name="x15_timeoutFailure" audioFilePath="\a3\dubbing_f_epb\b_m02_2" dialogName="x15_timeoutFailure" dubbingLanguage="english" namePrefix="b_m02_2_x15_timeoutfailure" note="" participants="EPB B Miller;" situation="kerry fails the mission by not being able to cause enough chaos in time">
             <Key ID="str_a3_b_m02_2_x15_timeoutfailure_mil_0">
               <Original>Kerry, you guys have really blown this - Strawman is being moved as we speak.</Original>
-              <Chinese>克里，你們搞砸了任務-"稻草人"在我們說話的同時已經被轉移走了。</Chinese>
+              <Chinese>克里，你們搞砸了任務-"Strawman"在我們說話的同時已經被轉移走了。</Chinese>
               <Chinesesimp>克里，你们搞砸了任务-"稻草人"此时此刻已经被转移走了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m02_2_x15_timeoutfailure_mil_1">
@@ -3882,7 +3882,7 @@
           </Container>
           <Key ID="STR_A3_B_m02_2_overview">
             <Original>CTRG lead an operation to extract Nikos from Stratis.</Original>
-            <Chinese>與戰研大隊一同從Stratis島上救出Nikos。</Chinese>
+            <Chinese>與戰研大隊一同從斯特拉蒂斯島上救出尼科斯。</Chinese>
             <Chinesesimp>与战研大队一同从斯特拉蒂斯岛上救出尼科斯。</Chinesesimp>
           </Key>
         </Container>
@@ -4024,7 +4024,7 @@
           </Key>
           <Key ID="str_a3_campaign_b_m03_instructor02">
             <Original>Team Kappa</Original>
-            <Chinese>Kappa小隊</Chinese>
+            <Chinese>"卡帕"小隊</Chinese>
             <Chinesesimp>"卡帕"小组</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m03_instructor01">
@@ -4079,8 +4079,8 @@
           </Key>
           <Key ID="str_a3_campaign_b_m03_brief_signal">
             <Original>%2Omega%1 - Your team.%3%4Sigma%1 - Additional team you can link up with.%3%5Gamma%1 - Additional team you can link up with.%3Slingshot - Command.</Original>
-            <Chinese>%2歐米加%1-你的小隊。%3%4西格瑪%1-你可以與其會合的其他小隊。%3%5伽馬%1-你可以與其會合的其他小隊。%3彈弓-指揮官。</Chinese>
-            <Chinesesimp>%2欧米加%1-你的小组。%3%4西格玛%1-你可以与其会合的其他小队。%3%5伽马%1-你可以与其会合的其他小队。%3弹弓-指挥官。</Chinesesimp>
+            <Chinese>%2"歐米加"%1-你的小隊。%3%4"西格瑪"%1-你可以與其會合的其他小隊。%3%5"伽馬"%1-你可以與其會合的其他小隊。%3"彈弓"-指揮官。</Chinese>
+            <Chinesesimp>%2"欧米加"%1-你的小组。%3%4"西格玛"%1-你可以与其会合的其他小队。%3%5"伽马"%1-你可以与其会合的其他小队。%3"弹弓"-指挥官。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m03_brief_mission">
             <Original>Locate our %3cistern%1 and safely deliver it to our %2hideout%1.</Original>
@@ -4127,7 +4127,7 @@
             </Key>
             <Key ID="str_a3_b_m03_x15_miller_impressed_mil_0">
               <Original>Receiving you, Omega, what do you want?</Original>
-              <Chinese>收到了，"欧米加"，你想要什麼?</Chinese>
+              <Chinese>收到了，"歐米加"，你想要什麼?</Chinese>
               <Chinesesimp>收到了，"欧米加"，你想要什么?</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m03_x15_miller_impressed_ker_3">
@@ -4137,7 +4137,7 @@
             </Key>
             <Key ID="str_a3_b_m03_x15_miller_impressed_mil_1">
               <Original>What on earth are you talking about, Omega?</Original>
-              <Chinese>你究竟在說什麼，欧米加?</Chinese>
+              <Chinese>你究竟在說什麼，"歐米加"?</Chinese>
               <Chinesesimp>你究竟在说什么，"欧米加"?</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m03_x15_miller_impressed_mil_2">
@@ -4577,7 +4577,7 @@
           </Key>
           <Key ID="str_a3_campaign_b_m05_task07_text">
             <Original>When you're done with your mission, regroup with Orestes at the %2meeting point%1 and bring him to our base.</Original>
-            <Chinese>當你完成了任務，請返回與奧雷奧斯泰在%2碰面點%1會合，然後帶他回來。</Chinese>
+            <Chinese>當你完成了任務，請返回與奧雷斯泰斯在%2碰面點%1會合，然後帶他回來。</Chinese>
             <Chinesesimp>在完成任务后，请回去与奥雷斯泰斯在%2碰面点%1会合，然后带他回来。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m05_task06_wp">
@@ -4592,7 +4592,7 @@
           </Key>
           <Key ID="str_a3_campaign_b_m05_task06_text">
             <Original>The enemy uses a %2farm%1 north-west of Katalakos as a repair depot for their damaged vehicles. If you eliminate the depot garrison along with the vehicle guarding it, Orestes will call in a fire mission to destroy all vehicles being repaired there.</Original>
-            <Chinese>敵軍使用卡塔拉科斯西北邊的一個%2農場%1來當作維修他們載具的維修站。假如你能殲滅掉該處的守軍，奧雷奧斯泰將可呼叫轟炸支援來摧毀該處的所有載具。</Chinese>
+            <Chinese>敵軍使用卡塔拉科斯西北邊的一個%2農場%1來當作維修他們載具的維修站。假如你能殲滅掉該處的守軍，奧雷斯泰斯將可呼叫轟炸支援來摧毀該處的所有載具。</Chinese>
             <Chinesesimp>敌军将卡塔拉科斯西北的一个%2农场%1作为车辆维修站。假如你能歼灭掉该处的守军，奥雷斯泰斯将可呼叫炮火支援来摧毁该处的所有车辆。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m05_task05_wp">
@@ -4607,8 +4607,8 @@
           </Key>
           <Key ID="str_a3_campaign_b_m05_task05_text">
             <Original>Orestes will request helicopter support in the area once you've eliminated the 5-man CSAT patrol on %2overwatch%1 near the wind turbines. When the chopper's in the area, mark the LZ with smoke, wait for it to land, and destroy it. Planted explosives are ideal. Make sure the pilot doesn't spot you!</Original>
-            <Chinese>假如你能殲滅掉風力發電機附近在做%2監視%1的廣協同盟5人小隊，奧雷斯泰斯將會呼叫直升機支援。當直升機靠近時，請使用煙霧彈來標記降落點，等它一降落，就把它摧毀掉。如果能在降落點設置一顆炸藥，那就更為理想了。請確保直升機的駕駛沒有發現你，要不然他就會飛走!</Chinese>
-            <Chinesesimp>假如你能歼灭掉风力发电机附近执行%2监视%1任务的广协同盟5人巡逻队，奥雷斯泰斯将会呼叫直升机支援。当直升机靠近时，请使用烟雾弹来标记降落点，等它一降落，就把它摧毁掉。如果能在降落点设置一颗炸药，那就更为理想了。请确保直升机的驾驶没有发现你，要不然他就会飞走!</Chinesesimp>
+            <Chinese>假如你能殲滅掉風力發電機附近在做%2監視%1的廣協同盟5人小隊，奧雷斯泰斯將會呼叫直升機支援。當直升機靠近時，請使用煙霧彈來標記降落點，等它一降落，就把它摧毀掉。如果能在降落點設置一顆炸藥，那就更為理想了。請確保直升機的駕駛沒有發現你，要不然它就會飛走!</Chinese>
+            <Chinesesimp>假如你能歼灭掉风力发电机附近执行%2监视%1任务的广协同盟5人巡逻队，奥雷斯泰斯将会呼叫直升机支援。当直升机靠近时，请使用烟雾弹来标记降落点，等它一降落，就把它摧毁掉。如果能在降落点设置一颗炸药，那就更为理想了。请确保直升机的驾驶没有发现你，要不然它就会飞走!</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m05_task04_title">
             <Original>Prepare Ambush</Original>
@@ -4737,13 +4737,13 @@
           </Key>
           <Key ID="str_a3_campaign_b_m05_brief_situation">
             <Original>A sympathetic AAF officer has approached us looking for a way out. He's been uncomfortable for many months, but the recent CSAT offensive - the bloody attack on Kavala, the ongoing crackdown - has proven to be the last straw.%1Now he and a few trusted comrades are ready to defect. As part of the deal - and before our enemy learns what's going on - we'll use his position of authority to strike a blow against the very CSAT forces that decimated Kavala.%1We've arranged to link up with this officer - codename Orestes - along with some of his men at an %3abandoned farm%2 to the north. We'll then use his security clearance to set the trap.</Original>
-            <Chinese>一名阿爾蒂斯武裝力量的軍官靠近我們，表示他想投誠的決心。他的心底已經忐忑不安好幾個月了，隨著廣協同盟猛烈且血腥的掃蕩卡瓦拉，這壓倒了他的最後一根稻草。%1現在，他與幾名他信任的同志準備要投奔我們這邊。作為交易的一部分-也趕在我們的敵人了解發生什麼事之前-我們打算利用他現在的職權，設置埋伏來重創殘忍掃蕩卡瓦拉的廣協同盟部隊。%1他的代號將被稱為奧雷斯泰斯，而且我們已經跟他聯繫好了，將在北邊的一個%3廢棄農場%2中碰面。我們將利用他的職權來設置陷阱。</Chinese>
-            <Chinesesimp>一名同情游击队的阿尔蒂斯武装力量军官接近我们，表示他想投诚的决心。他已经动摇了几个月，而广协同盟针对卡瓦拉猛烈且血腥的扫荡成了压倒了他的最后一根稻草。%1现在，他与几名他信任的同志准备要投奔我们这边。作为交易的一部分-也赶在我们的敌人了解发生什么事之前-我们打算利用他现在的职权，设置埋伏来重创残忍扫荡卡瓦拉的广协同盟部队。%1他的代号为"奥雷奧斯泰斯"，而且我们已经跟他联系好了，将在北边的一个%3废弃农场%2中碰面。我们将利用他的职权来设置陷阱。</Chinesesimp>
+            <Chinese>一名阿爾蒂斯武裝力量的軍官靠近我們，表示他想投誠的決心。他的心底已經忐忑不安好幾個月了，隨著廣協同盟猛烈且血腥的掃蕩卡瓦拉，這壓倒了他的最後一根稻草。%1現在，他與幾名他信任的同志準備要投奔我們這邊。作為交易的一部分-也趕在我們的敵人了解發生什麼事之前-我們打算利用他現在的職權，設置埋伏來重創殘忍掃蕩卡瓦拉的廣協同盟部隊。%1他的代號將被稱為"奧雷斯泰斯"，而且我們已經跟他聯繫好了，將在北邊的一個%3廢棄農場%2中碰面。我們將利用他的職權來設置陷阱。</Chinese>
+            <Chinesesimp>一名同情游击队的阿尔蒂斯武装力量军官接近我们，表示他想投诚的决心。他已经动摇了几个月，而广协同盟针对卡瓦拉猛烈且血腥的扫荡成了压倒了他的最后一根稻草。%1现在，他与几名他信任的同志准备要投奔我们这边。作为交易的一部分-也赶在我们的敌人了解发生什么事之前-我们打算利用他现在的职权，设置埋伏来重创残忍扫荡卡瓦拉的广协同盟部队。%1他的代号为"奥雷斯泰斯"，而且我们已经跟他联系好了，将在北边的一个%3废弃农场%2中碰面。我们将利用他的职权来设置陷阱。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m05_brief_signal">
             <Original>%2Omega%1 - Your team.</Original>
-            <Chinese>%2歐米加%1-你的小隊。</Chinese>
-            <Chinesesimp>%2欧米加%1-你的小队。</Chinesesimp>
+            <Chinese>%2"歐米加"%1-你的小隊。</Chinese>
+            <Chinesesimp>%2"欧米加"%1-你的小队。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m05_brief_mission">
             <Original>Meet our contact and exploit his position of authority to sabotage a CSAT element in the area.</Original>
@@ -4762,9 +4762,9 @@
           </Key>
           <Container name="15_Sabotage_Request_Artillery" audioFilePath="\a3\dubbing_f_epb\b_m05" dialogName="15_Sabotage_Request_Artillery" dubbingLanguage="english" namePrefix="b_m05_15_sabotage_request_artillery" note="" participants="EPB I Orestes;EPB O Griffin;" situation="the aaf officer requests arty support">
             <Key ID="str_a3_b_m05_15_sabotage_request_artillery_grf_0">
-              <Original>Understood, Spartan-actual. We cannot allow them to raid our positions with such impunity.</Original>
+              <Original>Understood, Spartan-Actual. We cannot allow them to raid our positions with such impunity.</Original>
               <Chinese>了解，"斯巴達-隊長"。我們不能讓他們這麼囂張。</Chinese>
-              <Chinesesimp>了解，"斯巴达领队"。我们不能让他们这么嚣张地突袭我们的阵地。</Chinesesimp>
+              <Chinesesimp>了解，"斯巴达-领队"。我们不能让他们这么嚣张地突袭我们的阵地。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m05_15_sabotage_request_artillery_grf_1">
               <Original>Get to cover. We'll send heavy ordnance. Splash in 60 seconds. Griffin out.</Original>
@@ -4774,7 +4774,7 @@
             <Key ID="str_a3_b_m05_15_sabotage_request_artillery_ore_0">
               <Original>Griffin, this is Spartan-Actual, we have multiple enemy contacts at the Oreokastro depot.</Original>
               <Chinese>"獅鷲"，這裡是"斯巴達-隊長"，我們發現到有多名敵人出現在奧雷奧卡斯特羅的維修站。</Chinese>
-              <Chinesesimp>"狮鹫"，这里是"斯巴达领队"，我们在奥雷奥卡斯特罗维修站与一批敌人接触。</Chinesesimp>
+              <Chinesesimp>"狮鹫"，这里是"斯巴达-领队"，我们在奥雷奥卡斯特罗维修站与一批敌人接触。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m05_15_sabotage_request_artillery_ore_1">
               <Original>Looks like another raid on our position for weapons and vehicles - I don't think we can continue to hold them off.</Original>
@@ -4962,7 +4962,7 @@
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_grf_0">
               <Original>Understood, Spartan-Actual. Wait one.</Original>
               <Chinese>了解了，"斯巴達-隊長"。請稍等。</Chinese>
-              <Chinesesimp>了解了，"斯巴达领队"。请稍等。</Chinesesimp>
+              <Chinesesimp>了解了，"斯巴达-领队"。请稍等。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_grf_1">
               <Original>Viper-Green, this is Griffin, we have a situation in the vicinity of Point Victor.</Original>
@@ -4972,7 +4972,7 @@
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_ore_0">
               <Original>Griffin, this is Spartan-Actual, my unit has made contact near Point Victor!</Original>
               <Chinese>"獅鷲"，這裡是"斯巴達-隊長"，我的小隊在維克多點附近遇敵了!</Chinese>
-              <Chinesesimp>"狮鹫"，这里是"斯巴达领队"，我的小队在维克多点附近接敌了!</Chinesesimp>
+              <Chinesesimp>"狮鹫"，这里是"斯巴达-领队"，我的小队在维克多点附近接敌了!</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_ore_1">
               <Original>We've secured the area but need urgent support - can you dispatch QRF to our position? Over.</Original>
@@ -4987,7 +4987,7 @@
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_grf_3">
               <Original>Spartan-Actual, be advised, we're dispatching a chopper to your position, callsign Hydra.</Original>
               <Chinese>"斯巴達-隊長"，請注意，我們已經派遣了一架直升機前往你們的位置，呼號是"九頭蛇"。</Chinese>
-              <Chinesesimp>"斯巴达领队"，请注意，我们已经派遣了一架直升机前往你们的位置，呼号是"九头蛇"。</Chinesesimp>
+              <Chinesesimp>"斯巴达-领队"，请注意，我们已经派遣了一架直升机前往你们的位置，呼号是"九头蛇"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m05_10_sabotage_request_helicopter_grf_4">
               <Original>Regroup and mark the LZ. Griffin out.</Original>
@@ -5284,8 +5284,8 @@
           </Key>
           <Key ID="str_a3_campaign_b_m06_brief_signal">
             <Original>%3Falcon%2 - Your team.%1%4Omega%2 - Guerrilla team on standby.%1%Slingshot - Command.</Original>
-            <Chinese>%3獵鷹%2-你的小隊。%1%4歐米加%2-待命中的反抗軍小隊。%1%彈弓-指揮官。</Chinese>
-            <Chinesesimp>%3猎鹰%2-你的小组。%1%4欧米加%2-待命中的反抗军小组。%1%弹弓-指挥官。</Chinesesimp>
+            <Chinese>%3"獵鷹"%2-你的小隊。%1%4"歐米加"%2-待命中的反抗軍小隊。%1%"彈弓"-指揮官。</Chinese>
+            <Chinesesimp>%3"猎鹰"%2-你的小组。%1%4"欧米加"%2-待命中的反抗军小组。%1%"弹弓"-指挥官。</Chinesesimp>
           </Key>
           <Key ID="str_a3_campaign_b_m06_brief_mission">
             <Original>Attack the CSAT %2convoy%1 passing through your AO, steal the supply truck and take it to our %3hideout%1.</Original>
@@ -5590,7 +5590,7 @@
             </Key>
             <Key ID="str_a3_b_m06_06_plan_b_briefing_ker_1">
               <Original>What, are you serious? What makes you think the FIA will accept that?</Original>
-              <Chinese>什麼，你是認真的嗎?你是憑哪一點認為FIA會接受這件事?</Chinese>
+              <Chinese>什麼，你是認真的嗎?你是憑哪一點認為自由獨立同盟會接受這件事?</Chinese>
               <Chinesesimp>什么，你是认真的吗?你是凭哪一点认为自由独立同盟会接受这件事?</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m06_06_plan_b_briefing_mil_0">
@@ -5666,7 +5666,7 @@
             </Key>
             <Key ID="str_a3_b_m06_02_wait_jam_1">
               <Original>Go ahead, Falcon. Over.</Original>
-              <Chinese>請講，Falcon。完畢。</Chinese>
+              <Chinese>請講，"獵鷹"。完畢。</Chinese>
               <Chinesesimp>请讲，"猎鹰"。完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_m06_02_wait_jam_2">
@@ -5751,8 +5751,8 @@
           </Key>
           <Key ID="str_a3_b_out2_briefing_signal_text">
             <Original>%1Omega%2 - your team%3%4Sigma%5 - friendly reinforcements%6%7Slingshot%8 - HQ and main assault element</Original>
-            <Chinese>%1歐米加%2-你的小隊%3%4西格瑪%5-友軍援軍%6%7彈弓%8-指揮官與主攻單位</Chinese>
-            <Chinesesimp>%1欧米加%2-你的小队%3%4西格玛%5-友军援军%6%7弹弓%8-指挥官与主攻分队</Chinesesimp>
+            <Chinese>%1"歐米加"%2-你的小隊%3%4"西格瑪"%5-友軍援軍%6%7"彈弓"%8-指揮官與主攻單位</Chinese>
+            <Chinesesimp>%1"欧米加"%2-你的小队%3%4"西格玛"%5-友军援军%6%7"弹弓"%8-指挥官与主攻分队</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_out2_briefing_mission_text">
             <Original>As part of our assault on %1the airfield%2, we must neutralize %3a CSAT artillery position %4and assault %5the temporary command complex%6 established in Poliakko's town center.</Original>
@@ -5761,8 +5761,8 @@
           </Key>
           <Key ID="str_a3_b_out2_briefing_execution_text">
             <Original>1. Destroy %1the CSAT artillery position%2.&lt;br/&gt;2. Neutralize all hostiles at %3the command complex%4 and seize any intel you find.&lt;br/&gt;3. Await further orders from %5Slingshot%6.</Original>
-            <Chinese>1。摧毀%1廣協同盟的火炮陣地%2。&lt;br/&gt;2。殲滅敵人的%3臨時指揮中心%4並搜索有用的情報。&lt;br/&gt;3。等待%5彈弓%6更進一步的命令。</Chinese>
-            <Chinesesimp>1。摧毁%1广协同盟的炮兵阵地%2。&lt;br/&gt;2。歼灭敌人的%3临时指挥所%4并搜索有用的情报。&lt;br/&gt;3。等待%5"弹弓"%6更进一步的命令。</Chinesesimp>
+            <Chinese>1. 摧毀%1廣協同盟的火炮陣地%2。&lt;br/&gt;2. 殲滅敵人的%3臨時指揮中心%4並搜索有用的情報。&lt;br/&gt;3. 等待%5"彈弓"%6更進一步的命令。</Chinese>
+            <Chinesesimp>1. 摧毁%1广协同盟的炮兵阵地%2。&lt;br/&gt;2. 歼灭敌人的%3临时指挥所%4并搜索有用的情报。&lt;br/&gt;3. 等待%5"弹弓"%6更进一步的命令。</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_out2_bis_retreat_title">
             <Original>Retreat to the Airfield</Original>
@@ -5776,7 +5776,7 @@
           </Key>
           <Key ID="str_a3_b_out2_bis_retreat_desc">
             <Original>%1Poliakko%2 is secure, but the area is too hot. Retreat to %3the airfield%4 and link up with %5Slingshot%6.</Original>
-            <Chinese>%1P波利亞科%2已經被肅清，但該區還是很危險。請撤退回%3機場%4並與%5彈弓%6會合。</Chinese>
+            <Chinese>%1P波利亞科%2已經被肅清，但該區還是很危險。請撤退回%3機場%4並與%5"彈弓"%6會合。</Chinese>
             <Chinesesimp>%1波利亚科%2已经被肃清，但该区还是很危险。请撤退回%3机场%4并与%5"弹弓"%6会合。</Chinesesimp>
           </Key>
           <Key ID="str_a3_b_out2_bis_defend_title">
@@ -5879,7 +5879,7 @@
           <Container name="70_Cease_Fire" audioFilePath="\a3\dubbing_f_epb\b_out2" dialogName="70_Cease_Fire" dubbingLanguage="english" namePrefix="b_out2_70_cease_fire" note="" participants="EPB B Player;EPB B HQ;EPB B Larkin;" situation="pilot calls nato, tells them to cease fire, nato sends sar">
             <Key ID="str_a3_b_out2_70_cease_fire_bhq_0">
               <Original>Uh, say again, November? Over.</Original>
-              <Chinese>呃，請重發，"十一月"?完畢。</Chinese>
+              <Chinese>呃，請重發，"November"?完畢。</Chinese>
               <Chinesesimp>呃，再说一遍，"十一月"?完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_bhq_1">
@@ -5889,8 +5889,8 @@
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_lar_0">
               <Original>Crossroads, this is November, priority! Crossroads, priority!</Original>
-              <Chinese>"十字路口"，這裡是"十一月"，優先命令!"十字路口"，優先命令!</Chinese>
-              <Chinesesimp>"十字路口"，这里是"十一月"，紧急信息!"十字路口"，紧急信息!</Chinesesimp>
+              <Chinese>"交叉路"，這裡是"November"，優先命令!"交叉路"，優先命令!</Chinese>
+              <Chinesesimp>"交叉路口"，这里是"十一月"，紧急信息!"交叉路口"，紧急信息!</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_lar_1">
               <Original>Cease fire on the airfield! We're firing on friendlies! Over!</Original>
@@ -5899,7 +5899,7 @@
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_bhq_2">
               <Original>November, stay put. Keep an eye on him. We're on our way. Out.</Original>
-              <Chinese>"十一月"，請先留在原地。請盯緊他。我們在路上了。通話完畢。</Chinese>
+              <Chinese>"November"，請先留在原地。請盯緊他。我們在路上了。通話完畢。</Chinese>
               <Chinesesimp>"十一月"，请先留在原地。盯紧他。我们在路上了。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_lar_2">
@@ -5909,7 +5909,7 @@
             </Key>
             <Key ID="str_a3_b_out2_70_cease_fire_lar_3">
               <Original>I've got a US Soldier here at the crash site - Corporal Scott Miller - part of TF Aegis, sir.</Original>
-              <Chinese>我這裡有個美軍士兵在墜機點-下士斯考特·米勒-隸屬於神盾特遣隊，長官。</Chinese>
+              <Chinese>我這裡有個美軍士兵在墜機點-下士斯考特·米勒-隸屬於""神盾""特遣隊，長官。</Chinese>
               <Chinesesimp>我这里有个美军士兵在坠机点-斯考特·米勒下士-隶属于"宙斯盾"特遣队，长官。</Chinesesimp>
             </Key>
           </Container>
@@ -5984,7 +5984,7 @@
             </Key>
             <Key ID="str_a3_b_out2_75_failed_invasion_ker_0">
               <Original>Uh, no sir, there was some miscommunication. Corporal Ben Kerry, TF Aegis. Reporting for duty, sir!</Original>
-              <Chinese>呃，不，長官，你搞錯了。我是下士本·克里，神盾特遣隊。向你報到，長官!</Chinese>
+              <Chinese>呃，不，長官，你搞錯了。我是下士本·克里，"神盾"特遣隊。向你報到，長官!</Chinese>
               <Chinesesimp>呃，不，长官，你搞错了。我是本·克里下士，"宙斯盾"特遣队。向你报到，长官!</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_75_failed_invasion_bhq_3">
@@ -6031,12 +6031,12 @@
           <Container name="65_Stop_Attack" audioFilePath="\a3\dubbing_f_epb\b_out2" dialogName="65_Stop_Attack" dubbingLanguage="english" namePrefix="b_out2_65_stop_attack" note="" participants="EPB B Larkin;EPB B Player;" situation="kerry reveals himself to the pilot, tells him the situation">
             <Key ID="str_a3_b_out2_65_stop_attack_ker_0">
               <Original>Corporal Ben Kerry, Task Force Aegis, but listen to me: your helos are firing on friendlies!</Original>
-              <Chinese>下士本·克里，神盾特遣隊，請先聽我說:你們的直升機正在向友軍開火!</Chinese>
+              <Chinese>下士本·克里，"神盾"特遣隊，請先聽我說:你們的直升機正在向友軍開火!</Chinese>
               <Chinesesimp>本·克里下士，"宙斯盾"特遣队，请先听我说:你们的直升机正在向友军开火!</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_65_stop_attack_ker_1">
               <Original>Look, the FIA - the local resistance - they're assaulting that airfield, you're firing on friendly forces right now.</Original>
-              <Chinese>聽著，FIA-也就是當地的反抗軍-他們正在突擊機場，你們正在向自己人開火。</Chinese>
+              <Chinese>聽著，自由獨立同盟-也就是當地的反抗軍-他們正在突擊機場，你們正在向自己人開火。</Chinese>
               <Chinesesimp>听着，自由独立同盟-也就是当地的反抗组织-他们正在突击机场，你们正在向自己人开火。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_65_stop_attack_lar_0">
@@ -6051,7 +6051,7 @@
             </Key>
             <Key ID="str_a3_b_out2_65_stop_attack_lar_1">
               <Original>Friendlies? Aegis? Holy fuck, no, we thought we'd lost you guys!</Original>
-              <Chinese>友軍?神盾?天啊，不會吧，我們本以為已經失去你們了!</Chinese>
+              <Chinese>友軍?"神盾"?天啊，不會吧，我們本以為已經失去你們了!</Chinese>
               <Chinesesimp>友军?"宙斯盾"?天啊，不会吧，我们还以为你们全完了!</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_65_stop_attack_lar_2">
@@ -6116,7 +6116,7 @@
             <Key ID="str_a3_b_out2_55_friendly_fire_sta_0">
               <Original>Omega, we are being engaged by NATO at the airfield! I repeat, NATO are-</Original>
               <Chinese>"歐米加"，我們在機場遭受到北約的攻擊!我重複一遍，北約正在-</Chinese>
-              <Chinesesimp>"欧米加"，我们在机场遭受到北约军的攻击!我重复一遍，北约军正在-</Chinesesimp>
+              <Chinesesimp>"欧米加"，我们在机场遭受到北约军的攻击!我重复一遍，北约正在-</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_out2_55_friendly_fire_ker_2">
               <Original>Shit ... shit!</Original>
@@ -6617,7 +6617,7 @@
             <Key ID="str_a3_b_in2_65_check_1_sta_1">
               <Original>The officer. We know him as 'Orestes'. He is... Sympathetic.</Original>
               <Chinese>那個軍官。他的名字是'奧雷斯泰斯'。他是...我們的人馬。</Chinese>
-              <Chinesesimp>那个军官。我们管他叫"奥雷斯泰斯"。他是...我们的同情者。</Chinesesimp>
+              <Chinesesimp>那个军官。我们管他叫'奥雷斯泰斯'。他是...我们的同情者。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_in2_65_check_1_sta_2">
               <Original>You wait here. I will be back.</Original>
@@ -6695,7 +6695,7 @@
             </Key>
             <Key ID="str_a3_b_in2_35_plan_jam_1">
               <Original>No time to explain, Kerry. Go with them.</Original>
-              <Chinese>沒時間解釋了，Kerry。跟著他們走吧。</Chinese>
+              <Chinese>沒時間解釋了，克里。跟著他們走吧。</Chinese>
               <Chinesesimp>没时间解释了，克里。跟着他们走吧。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_in2_35_plan_jam_2">
@@ -6773,7 +6773,7 @@
             </Key>
             <Key ID="str_a3_b_in2_20_compromised_jam_1">
               <Original>Just keep moving, Kerry.</Original>
-              <Chinese>不管怎樣，請繼續移動，Kerry。</Chinese>
+              <Chinese>不管怎樣，請繼續移動，克里。</Chinese>
               <Chinesesimp>不管怎样，请继续移动，克里。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_in2_20_compromised_ker_0">
@@ -6907,7 +6907,7 @@
             </Key>
             <Key ID="str_a3_b_in2_170_sniper_mil_1">
               <Original>Ok, Kerry, there's at least four right on top of me as well. I'll open up once you move in.</Original>
-              <Chinese>好的，Kerry，在我前面至少有四個人。等你到了後我就會開火。</Chinese>
+              <Chinese>好的，克里，在我前面至少有四個人。等你到了後我就會開火。</Chinese>
               <Chinesesimp>好的，克里，在我前面至少有四个人。等你到了后我就会开火。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_in2_170_sniper_mil_2">
@@ -7157,12 +7157,12 @@
           <Container name="10_Near_RV" audioFilePath="\a3\dubbing_f_epb\b_in2" dialogName="10_Near_RV" dubbingLanguage="english" namePrefix="b_in2_10_near_rv" note="" participants="EPB B Echo Lead;EPB B Echo Member A;EPB B Player;" situation="echo lead signals that they are approaching">
             <Key ID="str_a3_b_in2_10_near_rv_eca_0">
               <Original>Understood Ice-1. Out.</Original>
-              <Chinese>了解，"冰"-1。通話完畢。</Chinese>
+              <Chinese>了解，"冰-1"。通話完畢。</Chinese>
               <Chinesesimp>了解，"冰-1"。通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_in2_10_near_rv_ech_0">
               <Original>Ice-2, Ice-1. We're inbound from the west.</Original>
-              <Chinese>"冰"-2，"冰"-1。我們正從西面靠近。</Chinese>
+              <Chinese>"冰-2"，"冰-1"。我們正從西面靠近。</Chinese>
               <Chinesesimp>"冰-2"，"冰-1"。我们正从西面靠近。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_in2_10_near_rv_ech_1">
@@ -7195,7 +7195,7 @@
           <Container name="01_Start" audioFilePath="\a3\dubbing_f_epb\b_in2" dialogName="01_Start" dubbingLanguage="english" namePrefix="b_in2_01_start" note="" participants="EPB B Echo Member A;EPB B Player;EPB B Echo Lead;EPB B James;" situation="kerry receives his new equipment">
             <Key ID="str_a3_b_in2_01_start_eca_0">
               <Original>Ice-1, Ice-2. We're in position at the RV, over.</Original>
-              <Chinese>"冰"-1，"冰"-2。我們正在監視點，完畢。</Chinese>
+              <Chinese>"冰-1"，"冰-2"。我們正在監視點，完畢。</Chinese>
               <Chinesesimp>"冰-1"，"冰-2"叫。我们正在会合点，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_b_in2_01_start_ech_0">
@@ -7226,8 +7226,8 @@
           </Key>
           <Key ID="STR_A3_B_in2_12_hours_later">
             <Original>12 HOURS LATER...</Original>
-            <Chinese>十二小時過後...</Chinese>
-            <Chinesesimp>十二小时过后...</Chinesesimp>
+            <Chinese>12小時過後...</Chinese>
+            <Chinesesimp>12小时过后...</Chinesesimp>
           </Key>
           <Key ID="STR_A3_B_in2_sometime_hours_later">
             <Original>SOMETIME LATER...</Original>
@@ -7392,7 +7392,7 @@
         </Key>
         <Key ID="STR_A3_POI_Crashed_Heli_01_Task_name">
           <Original>Hellcat Down</Original>
-          <Chinese>Hellcat直升機墜落</Chinese>
+          <Chinese>"潑婦"墜落</Chinese>
           <Chinesesimp>"泼妇"坠落</Chinesesimp>
         </Key>
         <Key ID="STR_A3_POI_Crashed_Heli_01_Task_desc">
@@ -7407,7 +7407,7 @@
         </Key>
         <Key ID="STR_A3_POI_Crashed_Heli_02_Task_desc">
           <Original>One of our comrades-in-arms hit a lucky shot through engine block of a CSAT gunship. It was last seen going down in forested area west of Abdera. Find and verify the wreckage.</Original>
-          <Chinese>我們的一位同志幸運的使用武器射中了廣協同盟武裝直升機的引擎。它最後被見到的位置，是位於Abdera西方的森林中。找到並確認殘骸。</Chinese>
+          <Chinese>我們的一位同志幸運的使用武器射中了廣協同盟武裝直升機的引擎。它最後被見到的位置，是位於阿布德拉西方的森林中。找到並確認殘骸。</Chinese>
           <Chinesesimp>我们的一位同志幸运地打中了广协同盟武装直升机的发动机。它最后被见到的位置是位于阿布德拉西面的森林中。找到并确认残骸。</Chinesesimp>
         </Key>
         <Key ID="STR_A3_POI_Crashed_Plane_01_Task_name">

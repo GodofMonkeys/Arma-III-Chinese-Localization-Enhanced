@@ -55,7 +55,7 @@
       <Key ID="STR_A3_Armor2">
         <Original>&lt;img size='9' shadow='0' image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus3_ca.paa' /&gt;%1Protective equipment now %3protects only%4 the %3hit points%4 that are %3actually covered%4 by the respective model of the given gear. Armor levels are properly adjusted for each particular hit point covered, resulting in more realistic personal protection. %3Hit reactions%4 for the characters were %3tweaked%4 to look more convincing.</Original>
         <Chinese>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus3_ca.paa'/&gt;%1個人防護裝備現在%3只能保護%4其所%3真正覆蓋到的區域%4。防護裝備的保護等級也適當的調整到各部位，藉此模擬更真實的裝備保護效果。角色被%3擊中後%4的%3反應%4也變得更加真實。</Chinese>
-        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus3_ca.paa'/&gt;%1个人防护装备现在%3只能保护%4其所%3真正覆盖到的区域%4。防护装备的保护等级也适当的调整到各部位，藉此模拟更真实的装备保护效果。角色被%3击中后%4的%3反应%4也变得更加真实。</Chinesesimp>
+        <Chinesesimp>&lt;imgsize='9'shadow='0'image='A3\Data_F_Exp_A\Data\FM_LEARN_Nexus3_ca.paa'/&gt;%1个人防护装备现在%3只能保护%4其所%3真正覆盖到的区域%4。防护装备的保护等级也适当的调整到各部位，借此模拟更真实的装备保护效果。角色被%3击中后%4的%3反应%4也变得更加真实。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Audio1">
         <Original>Audio</Original>
@@ -332,7 +332,7 @@
       <Key ID="STR_A3_Spectator_FieldManual_Description_03">
         <Original>%1%2%3First Person Perspective%4 - Look through the eyes of the spectated unit.%1%2%3Third Person Perspective%4 - Orbit around the spectated unit.%1%2%3Free Camera%4 - Fly within the battlefield and see it from different angles.%1%2Use %3[Space]%4 to switch between available camera modes.</Original>
         <Chinese>%1%2%3第一人稱視角%4-透過被觀察單位的眼睛看出去。%1%2%3第三人稱視角%4-跟隨在被觀察的單位旁邊。%1%2%3自由攝影機%4-在戰場內自由移動。%1%2使用%3[空白鍵]%4來切換不同的攝影機模式。</Chinese>
-        <Chinesesimp>%1%2%3第一人称视角%4-通过被观察单位的眼睛看出去。%1%2%3第三人称视角%4-跟随在被观察的单位旁边。%1%2%3自由摄影机%4-在战场内自由移动。%1%2使用%3[空白键]%4来切换不同的摄影机模式。</Chinesesimp>
+        <Chinesesimp>%1%2%3第一人称视角%4-通过被观察单位的眼睛看出去。%1%2%3第三人称视角%4-跟随在被观察的单位旁边。%1%2%3自由摄影机%4-在战场内自由移动。%1%2使用%3[空格键]%4来切换不同的摄影机模式。</Chinesesimp>
       </Key>
       <Key ID="STR_A3_Spectator_FieldManual_Description_04">
         <Original>%1%2Press and hold %3[RMB]%4 to look around.%1%2Scroll %3[MMB]%4 to zoom in/out.</Original>

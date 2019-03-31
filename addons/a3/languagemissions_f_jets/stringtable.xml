@@ -4,13 +4,13 @@
     <Container name="Missions">
       <Key ID="str_a3_codename_hornet">
         <Original>Hornet</Original>
-        <Chinese>大黃蜂</Chinese>
-        <Chinesesimp>大黄蜂</Chinesesimp>
+        <Chinese>"大黃蜂"</Chinese>
+        <Chinesesimp>"大黄蜂"</Chinesesimp>
       </Key>
       <Key ID="str_a3_codename_freeway">
         <Original>Freeway</Original>
-        <Chinese>自由路</Chinese>
-        <Chinesesimp>自由路</Chinesesimp>
+        <Chinese>"自由路"</Chinese>
+        <Chinesesimp>"自由路"</Chinesesimp>
       </Key>
       <Key ID="str_a3_identity_ChrisCampbell">
         <Original>Chris Campbell</Original>
@@ -95,13 +95,13 @@
         </Key>
         <Key ID="str_a3_showcase_jets_briefing_situation_text">
           <Original>After the AAF surrender, NATO continue to clean up remnants of CSAT forces to the northeast. Progress has been halted after CSAT brought in fast-air assets to interdict our ground assault. &lt;br/&gt;&lt;br/&gt;Air superiority is vital for victory. USS Freedom has been deployed to Altis. As an F/A-181 fighter pilot, your task is to secure the %4airspace%1 to allow ground assets to continue their attack.</Original>
-          <Chinese>在阿爾蒂斯政府軍投降以後，北約繼續肅清北面殘存的廣協同盟部隊。但攻勢被迫在廣協同盟高速戰鬥機的威脅下暫時停止了腳步。&lt;br/&gt;&lt;br/&gt;掌握空優將是這場戰役的關鍵。美國海軍自由號已經被佈署到Altis周邊。做為一名F/A-181"黑蜂"2型戰鬥攻擊機的飛行員，你的任務將是去肅清整片%4空域%1來讓我們的地面部隊得以繼續進攻。</Chinese>
+          <Chinese>在阿爾蒂斯政府軍投降以後，北約繼續肅清北面殘存的廣協同盟部隊。但攻勢被迫在廣協同盟高速戰鬥機的威脅下暫時停止了腳步。&lt;br/&gt;&lt;br/&gt;掌握空優將是這場戰役的關鍵。美國海軍"自由"號已經被佈署到阿爾蒂斯周邊。做為一名F/A-181"黑蜂"2型戰鬥攻擊機的飛行員，你的任務將是去肅清整片%4空域%1來讓我們的地面部隊得以繼續進攻。</Chinese>
           <Chinesesimp>在阿尔蒂斯武装力量投降以后，北约继续肃清北面残存的广协同盟部队。但攻势在广协同盟高速战斗机的威胁下被迫暂时停止了脚步。&lt;br/&gt;&lt;br/&gt;掌握空优将是这场战役的关键。美国海军"自由"号已经被布署到阿尔蒂斯岛周边。做为一名F/A-181"黑蜂"2型战斗攻击机的飞行员，你的任务是肃清整片%4空域%1来让我们的地面部队得以继续进攻。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_briefing_signal_text">
           <Original>Hornet - Your squadron &lt;br/&gt;Eagle - Friendly squadron &lt;br/&gt;Freeway - USS Freedom</Original>
-          <Chinese>大黃蜂-你的中隊&lt;br/&gt;老鷹-友軍中隊&lt;br/&gt;自由路-美國海軍自由號</Chinese>
-          <Chinesesimp>大黄蜂-你的中队&lt;br/&gt;老鹰-友军中队&lt;br/&gt;自由路-美国海军"自由"号</Chinesesimp>
+          <Chinese>"大黃蜂"-你的中隊&lt;br/&gt;"鷹"-友軍中隊&lt;br/&gt;"自由路"-美國海軍自由號</Chinese>
+          <Chinesesimp>"大黄蜂"-你的中队&lt;br/&gt;"鷹"-友军中队&lt;br/&gt;"自由路"-美国海军"自由"号</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_briefing_mission_text">
           <Original>CSAT jets have been spotted over Altis. Patrol the %4airspace%1 and eliminate hostile air assets.</Original>
@@ -110,8 +110,8 @@
         </Key>
         <Key ID="str_a3_showcase_jets_briefing_execution_text">
           <Original>1. Gear up, board your fighter jet and take off from %2USS Freedom%1. &lt;br/&gt;2. Patrol the %4airspace%1 and eliminate enemy air assets. &lt;br/&gt;3. Return to %2USS Freedom%1 and land.</Original>
-          <Chinese>1。整裝，然後搭乘你的戰鬥機從%2美國海軍自由號%1上起飛。&lt;br/&gt;2。前往該%4空域%1進行巡邏並殲滅掉敵軍的空中單位。&lt;br/&gt;3。返回%2美國海軍自由號%1上降落。</Chinese>
-          <Chinesesimp>1。整装，然后搭乘你的战斗机从%2美国海军自由号%1上起飞。&lt;br/&gt;2。前往该%4空域%1进行巡逻并歼灭掉敌军的空中单位。&lt;br/&gt;3。返回%2美国海军"自由"号%1上降落。</Chinesesimp>
+          <Chinese>1. 整裝，然後搭乘你的戰鬥機從%2美國海軍自由號%1上起飛。&lt;br/&gt;2. 前往該%4空域%1進行巡邏並殲滅掉敵軍的空中單位。&lt;br/&gt;3. 返回%2美國海軍"自由"號%1上降落。</Chinese>
+          <Chinesesimp>1. 整装，然后搭乘你的战斗机从%2美国海军自由号%1上起飞。&lt;br/&gt;2. 前往该%4空域%1进行巡逻并歼灭掉敌军的空中单位。&lt;br/&gt;3. 返回%2美国海军"自由"号%1上降落。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_bis_tsktakeoff_wp">
           <Original>TAKE OFF</Original>
@@ -141,7 +141,7 @@
         <Key ID="str_a3_showcase_jets_bis_tskrepair_desc">
           <Original>Land at %2Altis International Airport%1 for %3emergency repairs%1.</Original>
           <Chinese>如果需要%3緊急維修%1的話，你可以降落在%2阿爾蒂斯國際機場%1。</Chinese>
-          <Chinesesimp>如果需要%3紧急维修%1的话，你可以降落在%2阿尔蒂斯岛国际机场%1。</Chinesesimp>
+          <Chinesesimp>如果需要%3紧急维修%1的话，你可以降落在%2阿尔蒂斯国际机场%1。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_bis_tskrearm_wp">
           <Original>REARM</Original>
@@ -156,7 +156,7 @@
         <Key ID="str_a3_showcase_jets_bis_tskrearm_desc">
           <Original>Land at %2Altis International Airport%1 for %3rearm%1.</Original>
           <Chinese>如果需要%3彈藥補給%1的話，你可以降落在%2阿爾蒂斯國際機場%1。</Chinese>
-          <Chinesesimp>如果需要%3弹药补给%1的话，你可以降落在%2阿尔蒂斯岛国际机场%1。</Chinesesimp>
+          <Chinesesimp>如果需要%3弹药补给%1的话，你可以降落在%2阿尔蒂斯国际机场%1。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_bis_tskland_wp">
           <Original>LAND</Original>
@@ -260,18 +260,18 @@
         </Key>
         <Key ID="str_a3_showcase_jets_05_preflight_pilot_0">
           <Original>Hornet 1, Two is spooled up and ready for take-off.</Original>
-          <Chinese>大黃蜂1，2機已經啟動並準備起飛。</Chinese>
-          <Chinesesimp>大黄蜂1，2机已经启动并准备起飞。</Chinesesimp>
+          <Chinese>"大黃蜂1"，2機已經啟動並準備起飛。</Chinese>
+          <Chinesesimp>"大黄蜂1"，2机已经启动并准备起飞。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_05_preflight_tower_0">
           <Original>Hornet 1, Hornet 2, you're cleared for take-off.</Original>
-          <Chinese>大黃蜂1，大黃蜂2，你們可以起飛了。</Chinese>
-          <Chinesesimp>大黄蜂1，大黄蜂2，你们可以起飞了。</Chinesesimp>
+          <Chinese>"大黃蜂1"，"大黃蜂2"，你們可以起飛了。</Chinese>
+          <Chinesesimp>"大黄蜂1"，"大黄蜂2"，你们可以起飞了。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_05_preflight_wingman_0">
           <Original>Hornet 2, you set?</Original>
-          <Chinese>大黃蜂2，你好了嗎?</Chinese>
-          <Chinesesimp>大黄蜂2，你好了吗?</Chinesesimp>
+          <Chinese>"大黃蜂2"，你好了嗎?</Chinese>
+          <Chinesesimp>"大黄蜂2"，你好了吗?</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_05_preflight_wingman_1">
           <Original>Alright. Let's do this.</Original>
@@ -280,18 +280,18 @@
         </Key>
         <Key ID="str_a3_showcase_jets_05_preflight_wingman_2">
           <Original>Freeway, this is Hornet flight. Ready on the safe-shots. Over.</Original>
-          <Chinese>自由路，這裡是大黃蜂中隊。已經準備好進行彈射。完畢。</Chinese>
-          <Chinesesimp>自由路，这里是大黄蜂小队。已经准备好进行弹射。完毕。</Chinesesimp>
+          <Chinese>"自由路"，這裡是"大黃蜂"中隊。已經準備好進行彈射。完畢。</Chinese>
+          <Chinesesimp>"自由路"，这里是"大黄蜂"中队。已经准备好进行弹射。完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_10_takeoff_pilot_0">
           <Original>Hornet 2's up. Joining on lead.</Original>
-          <Chinese>大黃蜂2已經起飛。正在加入長機的編隊中。</Chinese>
-          <Chinesesimp>大黄蜂2已经起飞。加入编队。</Chinesesimp>
+          <Chinese>"大黃蜂2"已經起飛。正在加入長機的編隊中。</Chinese>
+          <Chinesesimp>"大黄蜂2"已经起飞。加入编队。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_10_takeoff_wingman_0">
           <Original>Hornet 1 copies. Climbing to 1500. Heading 050. Speed 720. Burner to intercept.</Original>
-          <Chinese>大黃蜂1收到。爬升至1500。航向050。空速720。使用後燃器前往攔截。</Chinese>
-          <Chinesesimp>大黄蜂1收到。爬升至1500。航向050。空速720。使用加力前往拦截。</Chinesesimp>
+          <Chinese>"大黃蜂1"收到。爬升至1500。航向050。空速720。使用後燃器前往攔截。</Chinese>
+          <Chinesesimp">"大黄蜂1"收到。爬升至1500。航向050。空速720。使用加力前往拦截。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_15_flight_pilot_0">
           <Original>Negative. Radar's clean.</Original>
@@ -315,18 +315,18 @@
         </Key>
         <Key ID="str_a3_showcase_jets_20_wingmanhit_wingman_0">
           <Original>Hornet 1, spiked!</Original>
-          <Chinese>這裡是大黃蜂1，我被照射了!</Chinese>
-          <Chinesesimp>这里是大黄蜂1，我被照射了!</Chinesesimp>
+          <Chinese>這裡是"大黃蜂1"，我被照射了!</Chinese>
+          <Chinesesimp>这里是"大黄蜂1"，我被照射了!</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_20_wingmanhit_wingman_1">
           <Original>Hornet 1, avionics fucked! Repeat! I'm...</Original>
-          <Chinese>這裡是大黃蜂1，航電失效!重複一遍!我的...</Chinese>
-          <Chinesesimp>这里是大黄蜂1，航电失效!重复一遍!我的...</Chinesesimp>
+          <Chinese>這裡是"大黃蜂1"，航電失效!重複一遍!我的...</Chinese>
+          <Chinesesimp>这里是"大黄蜂1"，航电失效!重复一遍!我的...</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_22_reportwingmanhit_pilot_0">
           <Original>Hornet 1, do you read?</Original>
-          <Chinese>大黃蜂1，你有收到嗎?</Chinese>
-          <Chinesesimp>大黄蜂1，你有收到吗?</Chinesesimp>
+          <Chinese>"大黃蜂1"，你有收到嗎?</Chinese>
+          <Chinesesimp>"大黄蜂1"，你有收到吗?</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_22_reportwingmanhit_pilot_1">
           <Original>Shit. Shit. Shit.</Original>
@@ -335,13 +335,13 @@
         </Key>
         <Key ID="str_a3_showcase_jets_22_reportwingmanhit_pilot_2">
           <Original>Freeway. Hornet 2. Hornet 1 is down. Advise, over!</Original>
-          <Chinese>自由路。這裡是大黃蜂2。大黃蜂1已被擊落。請指示，完畢!</Chinese>
-          <Chinesesimp>自由路。这里是大黄蜂2。大黄蜂1已被击落。请指示，完毕!</Chinesesimp>
+          <Chinese>"自由路"。這裡是"大黃蜂2"。"大黃蜂1"已被擊落。請指示，完畢!</Chinese>
+          <Chinesesimp>"自由路"。这里是"大黄蜂2"。"大黄蜂1"已被击落。请指示，完毕!</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_22_reportwingmanhit_tower_0">
           <Original>Acknowledged, Hornet 2. Fangs out. Rerouting Eagle squadron for immediate assist.</Original>
-          <Chinese>了解，大黃蜂2。直接還擊。我正在調派老鷹中隊前往支援。</Chinese>
-          <Chinesesimp>了解，大黄蜂2。直接还击。我正在调派老鹰中队前往支援。</Chinesesimp>
+          <Chinese>了解，"大黃蜂2"。直接還擊。我正在調派"鷹"中隊前往支援。</Chinese>
+          <Chinesesimp>了解，"大黄蜂2"。直接还击。我正在调派"鹰"中队前往支援。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_25_scratchone_pilot_0">
           <Original>Splash one!</Original>
@@ -355,18 +355,18 @@
         </Key>
         <Key ID="str_a3_showcase_jets_30_reinforcements_tower_0">
           <Original>Hornet 2, this is Freeway. Eagle's in the killbox and engaging bandits.</Original>
-          <Chinese>大黃蜂2，這裡是自由路。老鷹中隊已經進入殺戮區，開始與敵人交戰。</Chinese>
-          <Chinesesimp>大黄蜂2，这里是自由路。老鹰中队已经进入杀戮区，开始与敌人交战。</Chinesesimp>
+          <Chinese>"大黃蜂2"，這裡是"自由路"。"鷹"中隊已經進入殺戮區，開始與敵人交戰。</Chinese>
+          <Chinesesimp>"大黄蜂2"，这里是"自由路"。"鹰"中队已经进入杀戮区，开始与敌人交战。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_35_winchester_pilot_0">
           <Original>Hornet 2. Winchester.</Original>
-          <Chinese>這裡是大黃蜂2。彈藥用完。</Chinese>
-          <Chinesesimp>这里是大黄蜂2。弹药用完。</Chinesesimp>
+          <Chinese>這裡是"大黃蜂2"。彈藥用完。</Chinese>
+          <Chinesesimp>这里是"大黄蜂2"。弹药用完。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_35_winchester_tower_0">
           <Original>Copy that, Hornet 2.</Original>
-          <Chinese>收到，大黃蜂2。</Chinese>
-          <Chinesesimp>收到，大黄蜂2。</Chinesesimp>
+          <Chinese>收到，"大黃蜂2"。</Chinese>
+          <Chinesesimp>收到，"大黄蜂2"。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_35_winchester_tower_1">
           <Original>Divert to Altis International Airport or head back here - your call. Rearm, then re-engage. Out.</Original>
@@ -385,53 +385,53 @@
         </Key>
         <Key ID="str_a3_showcase_jets_45_groundclear_pilot_1">
           <Original>Hornet 2, enemy armor neutralized. Over.</Original>
-          <Chinese>這裡是大黃蜂2，敵軍裝甲車已被摧毀。完畢。</Chinese>
-          <Chinesesimp>这里是大黄蜂2，敌军装甲车已被摧毁。完毕。</Chinesesimp>
+          <Chinese>這裡是"大黃蜂2"，敵軍裝甲車已被摧毀。完畢。</Chinese>
+          <Chinesesimp>这里是"大黄蜂2"，敌军装甲车已被摧毁。完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_50_goodjobrtb_tower_0">
           <Original>Good job. Hornet 2 - come on home.</Original>
-          <Chinese>幹的好。大黃蜂2-回家吧。</Chinese>
-          <Chinesesimp>干的好。大黄蜂2-回家吧。</Chinesesimp>
+          <Chinese>幹的好。"大黃蜂2"-回家吧。</Chinese>
+          <Chinesesimp>干的好。"大黄蜂2"-回家吧。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_55_requestlanding_pilot_0">
           <Original>Freeway, Hornet 2 on approach. Request landing. Over.</Original>
-          <Chinese>自由路，這裡是大黃蜂2，進場中。請求降落許可。完畢。</Chinese>
-          <Chinesesimp>自由路，这里是大黄蜂2，进近中。请求降落许可。完毕。</Chinesesimp>
+          <Chinese>"自由路"，這裡是"大黃蜂2"，進場中。請求降落許可。完畢。</Chinese>
+          <Chinesesimp>"自由路"，这里是"大黄蜂2"，进近中。请求降落许可。完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_55_requestlanding_tower_0">
           <Original>Go ahead, Hornet-2. Your signal's Charlie.</Original>
-          <Chinese>請繼續，大黃蜂2。允許降落。</Chinese>
-          <Chinesesimp>请继续，大黄蜂2。允许降落。</Chinesesimp>
+          <Chinese>請繼續，"大黃蜂2"。允許降落。</Chinese>
+          <Chinesesimp>请继续，"大黄蜂2"。允许降落。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_60_castask_pilot_0">
           <Original>Solid copy, Freeway. Hornet-2, Out.</Original>
-          <Chinese>完整收到，自由路。大黃蜂2，通話完畢。</Chinese>
-          <Chinesesimp>完整收到，自由路。大黄蜂2，通话完毕。</Chinesesimp>
+          <Chinese>完整收到，"自由路"。"大黃蜂2"，通話完畢。</Chinese>
+          <Chinesesimp>完整收到，"自由路"。"大黄蜂2"，通话完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_60_castask_tower_0">
           <Original>Hornet-2, ground forces are reporting CSAT armor on Hill 87. I'm retasking you to take them out. How copy? Over.</Original>
-          <Chinese>大黃蜂2，地面部隊報告有廣協同盟的裝甲載具出現在87高地上。我重新指派你前往殲滅掉他們。有收到嗎?完畢。</Chinese>
-          <Chinesesimp>大黄蜂2，地面部队报告有广协同盟的装甲车辆出现在87高地上。我重新指派你前往歼灭掉他们。有收到吗?完毕。</Chinesesimp>
+          <Chinese>"大黃蜂2"，地面部隊報告有廣協同盟的裝甲載具出現在87高地上。我重新指派你前往殲滅掉他們。有收到嗎?完畢。</Chinese>
+          <Chinesesimp>"大黄蜂2"，地面部队报告有广协同盟的装甲车辆出现在87高地上。我重新指派你前往歼灭掉他们。有收到吗?完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_65_minordamage_pilot_0">
           <Original>Hornet-2, I'm hit!</Original>
-          <Chinese>這裡是大黃蜂2，我中彈了!</Chinese>
-          <Chinesesimp>这里是大黄蜂2，我中弹了!</Chinesesimp>
+          <Chinese>這裡是"大黃蜂2"，我中彈了!</Chinese>
+          <Chinesesimp>这里是"大黄蜂2"，我中弹了!</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_65_minordamage_pilot_1">
           <Original>Roger, Freeway, I'm RTB.</Original>
-          <Chinese>收到，自由路，我正在返航。</Chinese>
-          <Chinesesimp>收到，自由路，我正在返航。</Chinesesimp>
+          <Chinese>收到，"自由路"，我正在返航。</Chinese>
+          <Chinesesimp>收到，"自由路"，我正在返航。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_65_minordamage_tower_0">
           <Original>Message received, Hornet-2. Abort mission. Over.</Original>
-          <Chinese>收到訊息，大黃蜂2。中止任務。完畢。</Chinese>
-          <Chinesesimp>收到讯息，大黄蜂2。中止任务。完毕。</Chinesesimp>
+          <Chinese>收到訊息，"大黃蜂2"。中止任務。完畢。</Chinese>
+          <Chinesesimp>收到讯息，"大黄蜂2"。中止任务。完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_70_majordamage_pilot_0">
           <Original>Mayday! Mayday! Mayday! This is Hornet-2, losing altitude!</Original>
-          <Chinese>求救!求救!求救!這裡是大黃蜂2，失去高度中!</Chinese>
-          <Chinesesimp>求救!求救!求救!这里是大黄蜂2，失去高度中!</Chinesesimp>
+          <Chinese>求救!求救!求救!這裡是"大黃蜂2"，失去高度中!</Chinese>
+          <Chinesesimp>求救!求救!求救!这里是"大黄蜂2"，失去高度中!</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_70_majordamage_pilot_1">
           <Original>Christ, I - I'm punching out!</Original>
@@ -498,7 +498,7 @@
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list6">
         <Original>take to the skies over Altis and engage in Air-to-Air and Air-to-Ground operations</Original>
-        <Chinese>前往Altis體驗空對空與空對地的飛行任務</Chinese>
+        <Chinese>前往阿尔蒂斯體驗空對空與空對地的飛行任務</Chinese>
         <Chinesesimp>前往阿尔蒂斯体验空对空与空对地的飞行任务</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list5_title">
@@ -544,7 +544,7 @@
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list1_title">
         <Original>F/A-181 Black Wasp II</Original>
         <Chinese>F/A-181"黑蜂"2型戰鬥攻擊機</Chinese>
-        <Chinesesimp>F/A-181"黑蜂"2型战斗机</Chinesesimp>
+        <Chinesesimp>F/A-181"黑蜂"2型战斗攻击机</Chinesesimp>
       </Key>
       <Key ID="str_a3_rscdisplaywelcome_jets_pare_list1">
         <Original>a fifth generation NATO carrier-based fighter jet</Original>
