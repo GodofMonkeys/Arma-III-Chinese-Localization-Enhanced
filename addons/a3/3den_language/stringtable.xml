@@ -1988,7 +1988,7 @@
             <Key ID="str_3den_tutorials_editing_sections_placing_emptyvehicles_text">
               <Original>By default, vehicles are placed with crew inside. Toggle between placing manned and unmanned vehicles using a switch below the asset browser.&lt;br /&gt;You can also &lt;%2&gt;hold Alt&lt;%3&gt; while placing to inverse the functionality.</Original>
               <Chinese>在預設的設定中，載具放置時是會有組員的。要切換有人或無人的載具狀態，可以透過素材瀏覽器底下的選項來做切換。&lt;br/&gt;除此之外你也可以在放置單位時&lt;%2&gt;按住Alt&lt;%3&gt;來放置無人載具。</Chinese>
-              <Chinesesimp>在预设的设定中，载具放置时是会有组员的。要切换有人或无人的载具状态，可以通过素材浏览器底下的选项来做切换。&lt;br/&gt;除此之外你也可以在放置单位时&lt;%2&gt;按住Alt&lt;%3&gt;来放置无人载具。</Chinesesimp>
+              <Chinesesimp>在默认设定中，载具放置时是会有组员的。要切换有人或无人的载具状态，可以通过素材浏览器底下的选项来做切换。&lt;br/&gt;除此之外你也可以在放置单位时&lt;%2&gt;按住Alt&lt;%3&gt;来放置无人载具。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_placing_drag_text">
               <Original>Alternatively, you can place an entity by &lt;%2&gt;dragging&lt;%3&gt; it from the asset browser to the desired position in the view.</Original>
@@ -2025,7 +2025,7 @@
             <Key ID="str_3den_tutorials_editing_sections_transforming_verticalmode_text">
               <Original>By default, the entity's altitude above the terrain is maintained while dragging it, and it cannot be moved underground.&lt;br /&gt;&lt;%2&gt;Toggle Vertical Mode&lt;%3&gt; to make it follow the sea surface instead, allowing it to be moved underground as well.</Original>
               <Chinese>在預設的設定中，物件會隨著地形的起伏來調整相應的高度，並且不能埋入地底下。&lt;br/&gt;透過&lt;%2&gt;切換垂直模式&lt;%3&gt;的按鈕就能使物件鎖定在海拔高度上，這樣物件便能實現埋入地底的效果。</Chinese>
-              <Chinesesimp>在预设的设定中，物件会随着地形的起伏来调整相应的高度，并且不能埋入地底下。&lt;br/&gt;通过&lt;%2&gt;切换垂直模式&lt;%3&gt;的按钮就能使物件锁定在海拔高度上，这样物件便能实现埋入地底的效果。</Chinesesimp>
+              <Chinesesimp>在默认设定中，物件会随着地形的起伏来调整相应的高度，并且不能埋入地底下。&lt;br/&gt;通过&lt;%2&gt;切换垂直模式&lt;%3&gt;的按钮就能使物件锁定在海拔高度上，这样物件便能实现埋入地底的效果。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_editing_sections_transforming_surfacesnap_text">
               <Original>When an entity gets near any surface while its altitude is being changed, it will be snapped to it. This is useful for quick positioning on building floors or terraces. You can &lt;%2&gt;Toggle Surface Snap&lt;%3&gt; to disable this behavior when necessary.</Original>
@@ -2443,12 +2443,12 @@
             <Key ID="str_3den_tutorials_scenario_sections_preview_return_text">
               <Original>When you return from the preview, the scenario will be in the same state in which you started it. Anything that happened during the preview (e.g. you moving or killing enemies) is reverted.</Original>
               <Chinese>當你結束預覽後，任務狀態會回復到開始之前的樣子。所有預覽中的變動(像是移動角色或擊殺敵人)皆會回復到預設狀態。</Chinese>
-              <Chinesesimp>当你结束预览后，任务状态会恢复到开始之前的样子。所有预览中的变动(像是移动角色或击杀敌人)都会恢复到预设状态。</Chinesesimp>
+              <Chinesesimp>当你结束预览后，任务状态会恢复到开始之前的样子。所有预览中的变动(像是移动角色或击杀敌人)都会恢复到初始状态。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_preview_previewsp_text">
               <Original>The most basic type of preview is &lt;%2&gt;Play In Singleplayer&lt;%3&gt;. It starts the scenario from the beginning, starting where the player is placed in the editor. By default, this preview starts after pressing &lt;%2&gt;%10&lt;%3&gt;.</Original>
               <Chinese>最基礎的預覽模式是&lt;%2&gt;在單人模式下遊玩&lt;%3&gt;。它會讓任務從最剛開始的地方出發，使用設定為玩家操控的角色進行預覽。你可以使用預設的快捷鍵&lt;%2&gt;%10&lt;%3&gt;來啟動預覽。</Chinese>
-              <Chinesesimp>最基础的预览模式是&lt;%2&gt;在单人模式下游玩&lt;%3&gt;。它会让任务从最刚开始的地方出发，使用设定为玩家操控的角色进行预览。你可以使用预设的快捷键&lt;%2&gt;%10&lt;%3&gt;来启动预览。</Chinesesimp>
+              <Chinesesimp>最基础的预览模式是&lt;%2&gt;在单人模式下游玩&lt;%3&gt;。它会让任务从最刚开始的地方出发，使用设定为玩家操控的角色进行预览。你可以使用默认的快捷键&lt;%2&gt;%10&lt;%3&gt;来启动预览。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_preview_previewspbriefing_text">
               <Original>&lt;%2&gt;Play In SP with Briefing&lt;%3&gt; is a variant of singleplayer preview which will show the briefing before the scenario starts, the same as when you start a scenario from the main menu. Please note that the briefing will not appear when you restart the preview from the pause menu.</Original>
@@ -2458,7 +2458,7 @@
             <Key ID="str_3den_tutorials_scenario_sections_preview_previewmp_text">
               <Original>&lt;%2&gt;Play In Multiplayer&lt;%3&gt; allows you to try the scenario on the hosted server, and the other players will be able to join you. If no server exists as yet, you will be prompted to host one before continuing.&lt;br /&gt;After the first use, the &lt;%2&gt;%10&lt;%3&gt; key will be assigned to the multiplayer preview instead.</Original>
               <Chinese>&lt;%2&gt;在多人模式下遊玩&lt;%3&gt;允許你在伺服器上進行測試，並能讓其他的玩家加入其中一同遊玩。假如沒有已架設的伺服器，系統會自動提醒並幫助你架設伺服器。&lt;br/&gt;在用過這個模式後，&lt;%2&gt;%10&lt;%3&gt;快捷鍵的預設模式將會被這個[在多人模式下遊玩]所取代。</Chinese>
-              <Chinesesimp>&lt;%2&gt;在多人模式下游玩&lt;%3&gt;允许你在服务器上进行测试，并能让其他的玩家加入其中一同游玩。假如没有已架设的服务器，系统会自动提醒并帮助你架设服务器。&lt;br/&gt;在用过这个模式后，&lt;%2&gt;%10&lt;%3&gt;快捷键的预设模式将会被这个[在多人模式下游玩]所取代。</Chinesesimp>
+              <Chinesesimp>&lt;%2&gt;在多人模式下游玩&lt;%3&gt;允许你在服务器上进行测试，并能让其他的玩家加入其中一同游玩。假如没有已架设的服务器，系统会自动提醒并帮助你架设服务器。&lt;br/&gt;在用过这个模式后，&lt;%2&gt;%10&lt;%3&gt;快捷键的默认模式将会被这个[在多人模式下游玩]所取代。</Chinesesimp>
             </Key>
             <Key ID="str_3den_tutorials_scenario_sections_preview_previewmp2_text">
               <Original>When you return to the editor from the multiplayer preview, the server will keep running and already connected players will not be kicked out. However, running a singleplayer preview afterwards will terminate the server.</Original>
@@ -2776,7 +2776,7 @@
           <Key ID="str_3den_object_attribute_unitname_tooltip">
             <Original>Character name, by default automatically generated based on faction.</Original>
             <Chinese>角色名稱。如該欄為空的話，預設名稱將使用同派別的姓名資料亂數生成。</Chinese>
-            <Chinesesimp>角色名称。如该栏为空的话，预设名称将使用同派别的姓名资料自动生成。</Chinesesimp>
+            <Chinesesimp>角色名称。如该栏为空的话，默认名称将使用同派别的姓名资料自动生成。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_allowdamage_displayname">
             <Original>Enable Damage</Original>
@@ -3105,8 +3105,8 @@
           </Key>
           <Key ID="str_3den_object_attribute_simpleobject_tooltip">
             <Original>When enabled, the object will behave like a map object (e.g. rocks or trees), which significantly saves performance. This option is available only for objects where it leads to improved performance.\n\nWarning: If set, the setting is enforced at the start of the scenario and is irreversible during its runtime!</Original>
-            <Chinese>當本功能開啟時，此物件的表現就會像是一般的地形物件(例如房子或是樹)，這可顯著的節省遊戲效能。這功能只會在該載具內並無任何機組員時才可啟用。\n\n警告:此功能將會在遊戲開始後啟用，爾後不能再做任何更改!</Chinese>
-            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件(例如房子或是树)，这可显着的节省游戏性能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，之后不能再做任何更改!</Chinesesimp>
+            <Chinese>當本功能開啟時，此物件的表現就會像是一般的地形物件(例如房子或是樹)，這可顯著的節省遊戲效能。這功能只會在該載具內並無任何機組員時才可啟用。\n\n警告:此功能將會在遊戲開始後啟用，爾後不能再做任何更改！</Chinese>
+            <Chinesesimp>当本功能开启时，此物件的表现就会像是一般的地形物件(例如房子或是树)，这可显着的节省游戏性能。这功能只会在该载具内并无任何机组员时才可启用。\n\n警告:此功能将会在游戏开始后启用，之后不能再做任何更改！</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objectmaterialcustom6_displayname">
             <Original>Material #6</Original>
@@ -3136,7 +3136,7 @@
           <Key ID="str_3den_object_attribute_objecttexturecustom0_displayname">
             <Original>Texture #0</Original>
             <Chinese>貼圖#0</Chinese>
-            <Chinesesimp>纹理#0</Chinesesimp>
+            <Chinesesimp>贴图#0</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_wakeupdynsim_displayname">
             <Original>Wake-Up Dynamic Simulation</Original>
@@ -3151,32 +3151,32 @@
           <Key ID="str_3den_object_attribute_objecttexturecustom1_displayname">
             <Original>Texture #1</Original>
             <Chinese>貼圖#1</Chinese>
-            <Chinesesimp>纹理#1</Chinesesimp>
+            <Chinesesimp>贴图#1</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom2_displayname">
             <Original>Texture #2</Original>
             <Chinese>貼圖#2</Chinese>
-            <Chinesesimp>纹理#2</Chinesesimp>
+            <Chinesesimp>贴图#2</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom3_displayname">
             <Original>Texture #3</Original>
             <Chinese>貼圖#3</Chinese>
-            <Chinesesimp>纹理#3</Chinesesimp>
+            <Chinesesimp>贴图#3</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom4_displayname">
             <Original>Texture #4</Original>
             <Chinese>貼圖#4</Chinese>
-            <Chinesesimp>纹理#4</Chinesesimp>
+            <Chinesesimp>贴图#4</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom5_displayname">
             <Original>Texture #5</Original>
             <Chinese>貼圖#5</Chinese>
-            <Chinesesimp>纹理#5</Chinesesimp>
+            <Chinesesimp>贴图#5</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom6_displayname">
             <Original>Texture #6</Original>
             <Chinese>貼圖#6</Chinese>
-            <Chinesesimp>纹理#6</Chinesesimp>
+            <Chinesesimp>贴图#6</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexture_displayname">
             <Original>Skin</Original>
@@ -3186,27 +3186,27 @@
           <Key ID="str_3den_object_attribute_objecttexture_tooltip">
             <Original>Texture and material set applied on the object.</Original>
             <Chinese>設定物件的外觀貼圖。</Chinese>
-            <Chinesesimp>设定物件的外观纹理。</Chinesesimp>
+            <Chinesesimp>设定物件的外观贴图。</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom7_displayname">
             <Original>Texture #7</Original>
             <Chinese>貼圖#7</Chinese>
-            <Chinesesimp>纹理#7</Chinesesimp>
+            <Chinesesimp>贴图#7</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom8_displayname">
             <Original>Texture #8</Original>
             <Chinese>貼圖#8</Chinese>
-            <Chinesesimp>纹理#8</Chinesesimp>
+            <Chinesesimp>贴图#8</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom9_displayname">
             <Original>Texture #9</Original>
             <Chinese>貼圖#9</Chinese>
-            <Chinesesimp>纹理#9</Chinesesimp>
+            <Chinesesimp>贴图#9</Chinesesimp>
           </Key>
           <Key ID="str_3den_object_attribute_objecttexturecustom_tooltip">
             <Original>Custom texture applied on the object. Use a path relative to the scenario's directory (e.g., "Textures\myTexture_ca.paa", relative to the game's directory (e.g., "\a3\Ui_f\data\Logos\arma3_white_ca.paa" or a procedural texture (e.g., "#(argb,8,8,3)color(1,0,1,1)").</Original>
             <Chinese>自定義目標物件的貼圖。請使用任務資料夾的相對路徑(例如"Textures\myTexture_ca.paa")，你也可以指定到遊戲資料夾中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用腳本貼圖(例如""#(argb,8,8,3)color(1,0,1,1)")。</Chinese>
-            <Chinesesimp>自定义目标物件的纹理。请使用任务文件夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏文件夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如""#(argb,8,8,3)color(1,0,1,1)")。</Chinesesimp>
+            <Chinesesimp>自定义目标物件的贴图。请使用任务文件夹的相对路径(例如"Textures\myTexture_ca.paa")，你也可以指定到游戏文件夹中(例如"\a3\Ui_f\data\Logos\arma3_white_ca.paa")，或者你也可以使用脚本纹理(例如""#(argb,8,8,3)color(1,0,1,1)")。</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_VisionModes_tooltip">
             <Original>Disables individual spectrum modes of the vehicle optics (visual, night vision, thermal)</Original>
@@ -3266,7 +3266,7 @@
           <Key ID="STR_3DEN_Object_Attribute_ReceiveRemoteTargets_tooltip">
             <Original>Vehicle will receive targeting and positional data from any other broadcasting vehicle on the same side.</Original>
             <Chinese>開啟本功能後，此載具就可以接收任何同陣營載具發送的數據包，包括友軍載具位置與已掃描到的敵方目標。</Chinese>
-            <Chinesesimp>开启本功能后，此载具就可以接收任何同阵营载具发送的数据包，包括友军载具位置与已扫描到的敌方目标。</Chinesesimp>
+            <Chinesesimp>开启本功能后，此载具就可以接收任何同阵营载具发送的数据，包括友军载具位置与已扫描到的敌方目标。</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_Attribute_ReportOwnPosition_displayName">
             <Original>Data Link Position</Original>
@@ -3340,12 +3340,12 @@
           <Key ID="STR_3den_object_attribute_CustomShipFlagTexture0_displayname">
             <Original>Custom Flag Texture</Original>
             <Chinese>自訂旗幟貼圖</Chinese>
-            <Chinesesimp>自订旗帜纹理</Chinesesimp>
+            <Chinesesimp>自定义旗帜贴图</Chinesesimp>
           </Key>
           <Key ID="STR_3den_object_attribute_CustomShipNameTexture0_displayname">
             <Original>Custom Ship Name</Original>
             <Chinese>自訂船名</Chinese>
-            <Chinesesimp>自订船名</Chinesesimp>
+            <Chinesesimp>自定义船名</Chinesesimp>
           </Key>
           <Key ID="STR_3den_object_attribute_CustomShipNumber1_displayname">
             <Original>Ship Hull Number 1</Original>
@@ -3355,7 +3355,7 @@
           <Key ID="STR_3den_object_attribute_CustomShipNumber1_tooltip">
             <Original>This attribute enables customisation of the first digit on the ship's hull number.</Original>
             <Chinese>自訂船體編號第1碼。</Chinese>
-            <Chinesesimp>自订船体编号第1码。</Chinesesimp>
+            <Chinesesimp>自定义船体编号第1码。</Chinesesimp>
           </Key>
           <Key ID="STR_3den_object_attribute_CustomShipNumber2_displayname">
             <Original>Ship Hull Number 2</Original>
@@ -3365,7 +3365,7 @@
           <Key ID="STR_3den_object_attribute_CustomShipNumber2_tooltip">
             <Original>This attribute enables customisation of the second digit on the ship's hull number.</Original>
             <Chinese>自訂船體編號第2碼。</Chinese>
-            <Chinesesimp>自订船体编号第2码。</Chinesesimp>
+            <Chinesesimp>自定义船体编号第2码。</Chinesesimp>
           </Key>
           <Key ID="STR_3den_object_attribute_CustomShipNumber3_displayname">
             <Original>Ship Hull Number 3</Original>
@@ -3375,7 +3375,7 @@
           <Key ID="STR_3den_object_attribute_CustomShipNumber3_tooltip">
             <Original>This attribute enables customisation of the third digit on the ship's hull number.</Original>
             <Chinese>自訂船體編號第3碼。</Chinese>
-            <Chinesesimp>自订船体编号第3码。</Chinesesimp>
+            <Chinesesimp>自定义船体编号第3码。</Chinesesimp>
           </Key>
           <Key ID="STR_3den_object_attribute_ShipHangarDoorState_displayname">
             <Original>Hangar Doors Open</Original>
@@ -3385,7 +3385,7 @@
           <Key ID="STR_3den_object_attribute_ShipHangarDoorState_tooltip">
             <Original>This attribute enables customisation of the ship's main hangar door initial animation state (open/closed).</Original>
             <Chinese>自訂船隻主艙門初始化時的動畫狀態(開啟/關閉)。</Chinese>
-            <Chinesesimp>自订船只主舱门初始化时的动画状态(开启/关闭)。</Chinesesimp>
+            <Chinesesimp>自定义船只主舱门初始化时的动画状态(开启/关闭)。</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Object_AttributeCategory_Init">
             <Original>Init</Original>
@@ -3469,33 +3469,33 @@
       <Container name="Messages">
         <Key ID="STR_3DEN_Messages_missionRequiredAddons">
           <Original>Error when loading the scenario! It requires the missing addons:</Original>
-          <Chinese>讀取任務時發生錯誤!有些模組並沒有被載入:</Chinese>
-          <Chinesesimp>读取任务时发生错误!有些模组并没有被载入:</Chinesesimp>
+          <Chinese>讀取任務時發生錯誤！有些模組並沒有被載入：</Chinese>
+          <Chinesesimp>读取任务时发生错误！有些模组并没有被载入：</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_customCompositionDelete">
           <Original>Do you want to delete the composition?</Original>
-          <Chinese>你想要刪掉組件嗎?</Chinese>
-          <Chinesesimp>你想要删掉组件吗?</Chinesesimp>
+          <Chinese>你想要刪掉組件嗎？</Chinese>
+          <Chinesesimp>你想要删掉组件吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionSaveError">
           <Original>Error when saving the scenario!</Original>
-          <Chinese>儲存任務時發生錯誤!</Chinese>
-          <Chinesesimp>储存任务时发生错误!</Chinesesimp>
+          <Chinese>儲存任務時發生錯誤！</Chinese>
+          <Chinesesimp>储存任务时发生错误！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionSaveInvalidChar">
           <Original>Scenario name contains an invalid character!</Original>
-          <Chinese>任務檔案名稱包含不支援的字元!</Chinese>
-          <Chinesesimp>任务档案名称包含不支持的字符!</Chinesesimp>
+          <Chinese>任務檔案名稱包含不支援的字元！</Chinese>
+          <Chinesesimp>任务档案名称包含不支持的字符！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_customCompositionEmptyName">
           <Original>Composition name cannot be empty!</Original>
-          <Chinese>組件名稱不能為空!</Chinese>
-          <Chinesesimp>组件名称不能为空!</Chinesesimp>
+          <Chinese>組件名稱不能為空！</Chinese>
+          <Chinesesimp>组件名称不能为空！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_customCompositionOverwrite">
           <Original>Do you want to overwrite the composition?</Original>
-          <Chinese>你想要覆蓋掉組件嗎?</Chinese>
-          <Chinesesimp>你想要覆盖掉组件吗?</Chinesesimp>
+          <Chinese>你想要覆蓋掉組件嗎？</Chinese>
+          <Chinesesimp>你想要覆盖掉组件吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_editCrewType">
           <Original>Object type cannot be changed when a crew member is selected.</Original>
@@ -3504,38 +3504,38 @@
         </Key>
         <Key ID="STR_3DEN_Messages_missionDiscard">
           <Original>You have unsaved changes in the currently opened scenario. Do you want to load another scenario?</Original>
-          <Chinese>你當前的任務包含尚未儲存的改變。你想要讀取別的任務嗎?</Chinese>
-          <Chinesesimp>你当前的任务包含尚未储存的改变。你想要读取别的任务吗?</Chinesesimp>
+          <Chinese>你當前的任務包含尚未儲存的改變。你想要讀取別的任務嗎？</Chinese>
+          <Chinesesimp>你当前的任务包含尚未储存的改变。你想要读取别的任务吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionPreviewWillEndServer">
           <Original>You have a hosted server running in the background. Do you want to shut it down?</Original>
-          <Chinese>你有一個伺服器正在後臺運行。你想要關掉它嗎?</Chinese>
-          <Chinesesimp>你有一个服务器正在后台运行。你想要关掉它吗?</Chinesesimp>
+          <Chinese>你有一個伺服器正在後臺運行。你想要關掉它嗎？</Chinese>
+          <Chinesesimp>你有一个服务器正在后台运行。你想要关掉它吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_MissionLoadImported">
           <Original>Importing the scenario will update it to a new format. A backup will be created in the scenario folder. Do you want to import the scenario?</Original>
-          <Chinese>匯入的任務將會更新到新的檔案格式中。一個備用檔案將會被建立在任務資料夾中。你想要匯入任務嗎?</Chinese>
-          <Chinesesimp>汇入的任务将会更新到新的档案格式中。一个备用档案将会被建立在任务文件夹中。你想要汇入任务吗?</Chinesesimp>
+          <Chinese>匯入的任務將會更新到新的檔案格式中。一個備用檔案將會被建立在任務資料夾中。你想要匯入任務嗎？</Chinese>
+          <Chinesesimp>汇入的任务将会更新到新的档案格式中。一个备用档案将会被建立在任务文件夹中。你想要汇入任务吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_editorClose">
           <Original>Do you want to close Eden Editor?</Original>
-          <Chinese>你想要關掉伊甸編輯器嗎?</Chinese>
-          <Chinesesimp>你想要关掉伊甸编辑器吗?</Chinesesimp>
+          <Chinese>你想要關掉伊甸編輯器嗎？</Chinese>
+          <Chinesesimp>你想要关掉伊甸编辑器吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_editorCloseServer">
           <Original>Do you want to close Eden Editor? The server will be shut down and all players disconnected!</Original>
-          <Chinese>你想要關掉伊甸編輯器嗎?伺服器將會被關閉，所有玩家將會斷線!</Chinese>
-          <Chinesesimp>你想要关掉伊甸编辑器吗?服务器将会被关闭，所有玩家将会断线!</Chinesesimp>
+          <Chinese>你想要關掉伊甸編輯器嗎？伺服器將會被關閉，所有玩家將會斷線！</Chinese>
+          <Chinesesimp>你想要关掉伊甸编辑器吗？服务器将会被关闭，所有玩家将会断线！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_groupLimitExceeded">
           <Original>Only 288 groups per side are supported!</Original>
-          <Chinese>遊戲只能支援每個陣營各加入288個群組!</Chinese>
-          <Chinesesimp>游戏只能支持每个阵营各加入288个群组!</Chinesesimp>
+          <Chinese>遊戲只能支援每個陣營各加入288個群組！</Chinese>
+          <Chinesesimp>游戏只能支持每个阵营各加入288个群组！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_emptyFileName">
           <Original>Scenario file name cannot be empty!</Original>
-          <Chinese>任務檔案名稱不能為空!</Chinese>
-          <Chinesesimp>任务档案名称不能为空!</Chinesesimp>
+          <Chinese>任務檔案名稱不能為空！</Chinese>
+          <Chinesesimp>任务档案名称不能为空！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_uniqueAttributeUsed">
           <Original>Value of the attribute %s is already used in a different entity.</Original>
@@ -3544,33 +3544,33 @@
         </Key>
         <Key ID="STR_3DEN_Messages_missionOverwrite">
           <Original>Do you want to overwrite the scenario?</Original>
-          <Chinese>你想要覆蓋掉該任務嗎?</Chinese>
-          <Chinesesimp>你想要覆盖掉该任务吗?</Chinesesimp>
+          <Chinese>你想要覆蓋掉該任務嗎！</Chinese>
+          <Chinesesimp>你想要覆盖该任务吗！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_folderDelete">
           <Original>Do you want to delete the folder?</Original>
-          <Chinese>你想要刪掉資料夾嗎?</Chinese>
-          <Chinesesimp>你想要删掉文件夹吗?</Chinesesimp>
+          <Chinese>你想要刪掉資料夾嗎！</Chinese>
+          <Chinesesimp>你想要删除文件夹吗！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionDelete">
           <Original>Do you want to delete the scenario?</Original>
-          <Chinese>你想要刪除任務嗎?</Chinese>
-          <Chinesesimp>你想要删除任务吗?</Chinesesimp>
+          <Chinese>你想要刪除任務嗎？</Chinese>
+          <Chinesesimp>你想要删除任务吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionLoadError">
           <Original>Error when loading the scenario!</Original>
-          <Chinese>讀取任務時發生錯誤!</Chinese>
-          <Chinesesimp>读取任务时发生错误!</Chinesesimp>
+          <Chinese>讀取任務時發生錯誤！</Chinese>
+          <Chinesesimp>读取任务时发生错误！</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionMerge">
           <Original>Merging will include all entities in the selected scenario into the currently opened scenario. No external files will be included. Do you want to merge into the scenario?</Original>
-          <Chinese>合併會將選擇任務的所有物件匯進至目前已開啟的任務當中。而外部文件並不會跟著匯入。請問你想要合併任務嗎?</Chinese>
-          <Chinesesimp>合并会将选择任务的所有物件汇进至目前已开启的任务当中。而外部文件并不会跟着汇入。请问你想要合并任务吗?</Chinesesimp>
+          <Chinese>合併會將選擇任務的所有物件匯進至目前已開啟的任務當中。而外部文件並不會跟著匯入。請問你想要合併任務嗎？</Chinese>
+          <Chinesesimp>合并会将选择任务的所有物件汇进至目前已开启的任务当中。而外部文件并不会跟着汇入。请问你想要合并任务吗？</Chinesesimp>
         </Key>
         <Key ID="STR_3DEN_Messages_missionMergeErrorOldSQM">
           <Original>Cannot merge 2D editor scenario into the current scenario!</Original>
-          <Chinese>無法合併2D編輯器的任務至當前任務中!</Chinese>
-          <Chinesesimp>无法合并2D编辑器的任务至当前任务中!</Chinesesimp>
+          <Chinese>無法合併2D編輯器的任務至當前任務中！</Chinese>
+          <Chinesesimp>无法合并2D编辑器的任务至当前任务中！</Chinesesimp>
         </Key>
       </Container>
       <Container name="Marker">
@@ -3578,7 +3578,7 @@
           <Key ID="str_3den_marker_attribute_type_tooltip">
             <Original>Icon texture.</Original>
             <Chinese>圖標貼圖。</Chinese>
-            <Chinesesimp>图标纹理。</Chinesesimp>
+            <Chinesesimp>图标贴图。</Chinesesimp>
           </Key>
           <Key ID="str_3den_marker_attribute_alpha_displayname">
             <Original>Alpha</Original>
@@ -3623,7 +3623,7 @@
           <Key ID="str_3den_marker_attribute_color_tooltip">
             <Original>Marker color. 'Default' is based on the selected marker type.</Original>
             <Chinese>設定標誌的顏色。'預設'顏色將取決於標誌的類型。</Chinese>
-            <Chinesesimp>设定标志的颜色。'预设'颜色将取决于标志的类型。</Chinesesimp>
+            <Chinesesimp>设定标志的颜色。'默认'颜色将取决于标志的类型。</Chinesesimp>
           </Key>
           <Key ID="str_3den_marker_attribute_name_tooltip">
             <Original>Unique system name. Can contain any characters. The name is not case sensitive, so 'someName' and 'SOMENAME' are treated as the same variables.</Original>
@@ -3633,7 +3633,7 @@
           <Key ID="str_3den_marker_attribute_custom_displayname">
             <Original>Marker Specific - %s</Original>
             <Chinese>標誌細項-%s</Chinese>
-            <Chinesesimp>标志细项-%s</Chinesesimp>
+            <Chinesesimp>标志细节-%s</Chinesesimp>
           </Key>
         </Container>
         <Container name="AttributeCategories">
@@ -3683,7 +3683,7 @@
           <Key ID="STR_3DEN_Logic_Attribute_Custom_displayName">
             <Original>System Specific - %s</Original>
             <Chinese>系統細項-%s</Chinese>
-            <Chinesesimp>系统细项-%s</Chinesesimp>
+            <Chinesesimp>系统细节-%s</Chinesesimp>
           </Key>
           <Key ID="str_3den_logic_attribute_type_tooltip">
             <Original>****TO TRANSLATE****</Original>
@@ -3826,7 +3826,7 @@
           <Key ID="str_3den_attributes_triggeractivation_none_tooltip">
             <Original>No default activation, only a custom condition expression can activate the trigger.</Original>
             <Chinese>不設定預設的啟用條件，只有自定的條件表達式能觸發這個觸發器。</Chinese>
-            <Chinesesimp>不设定预设的启用条件，只有自定义的条件表达式能触发这个触发器。</Chinesesimp>
+            <Chinesesimp>不设定默认的启用条件，只有自定义的条件表达式能触发这个触发器。</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_triggeractivation_none_text">
             <Original>None</Original>
@@ -3965,7 +3965,7 @@
           <Key ID="str_3den_attributes_triggertype_eastguard_text">
             <Original>Guarded by OPFOR</Original>
             <Chinese>被紅方防守著</Chinese>
-            <Chinesesimp>被红方防守着</Chinesesimp>
+            <Chinesesimp>由红方防守</Chinesesimp>
           </Key>
         </Container>
         <Container name="RscTitle">
@@ -4028,7 +4028,7 @@
           <Key ID="str_3den_attributes_lock_default_text">
             <Original>Default</Original>
             <Chinese>預設</Chinese>
-            <Chinesesimp>预设</Chinesesimp>
+            <Chinesesimp>默认</Chinesesimp>
           </Key>
         </Container>
         <Container name="EditXYZ" />
@@ -4098,7 +4098,7 @@
           <Key ID="str_3den_attributes_combatmode_yellow_tooltip">
             <Original>Default combat mode. Group members will fire upon any target in range, while staying in formation. The group leader may order individual members to engage specific targets.</Original>
             <Chinese>預設的交戰模式。該群組會保持隊形，並對進入範圍內的目標進行射擊。群組的隊長可能會指定不同的目標給各個隊員。</Chinese>
-            <Chinesesimp>预设的交战模式。该群组会保持队形，并对进入范围内的目标进行射击。群组的队长可能会指定不同的目标给各个队员。</Chinesesimp>
+            <Chinesesimp>默认的交战模式。该群组会保持队形，并对进入范围内的目标进行射击。群组的队长可能会指定不同的目标给各个队员。</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_combatmode_yellow_text">
             <Original>Open Fire, Keep Formation</Original>
@@ -4253,14 +4253,14 @@
           <Key ID="str_3den_attributes_stance_default">
             <Original>Default Stance</Original>
             <Chinese>預設姿態</Chinese>
-            <Chinesesimp>预设姿态</Chinesesimp>
+            <Chinesesimp>默认姿态</Chinesesimp>
           </Key>
         </Container>
         <Container name="Default">
           <Key ID="str_3den_attributes_default_unchanged_text">
             <Original>Unchanged</Original>
             <Chinese>無變化</Chinese>
-            <Chinesesimp>无变化</Chinesesimp>
+            <Chinesesimp>不改变</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_default_unchanged_tooltip">
             <Original>No change compared to the previous state.</Original>
@@ -4272,7 +4272,7 @@
           <Key ID="str_3den_attributes_ammobox_type_default">
             <Original>Default</Original>
             <Chinese>預設</Chinese>
-            <Chinesesimp>预设</Chinesesimp>
+            <Chinesesimp>默认</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_ammobox_type_Virtual">
             <Original>Virtual</Original>
@@ -4294,12 +4294,12 @@
           <Key ID="str_3den_attributes_enabledebugconsole_host_text">
             <Original>Available for the host or logged-in admin</Original>
             <Chinese>允許伺服器主持人或管理員使用</Chinese>
-            <Chinesesimp>允许服务器主持人或管理员使用</Chinesesimp>
+            <Chinesesimp>允许服务器或管理员使用</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_enabledebugconsole_disabled_text">
             <Original>Available only in editor</Original>
             <Chinese>只允許給編輯者使用</Chinese>
-            <Chinesesimp>只允许给编辑者使用</Chinesesimp>
+            <Chinesesimp>只在编辑器中可用</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_enabledebugconsole_all_text">
             <Original>Available for everyone</Original>
@@ -4527,14 +4527,14 @@
           <Key ID="str_3den_attributes_namesound_none_text">
             <Original>No Call Sign</Original>
             <Chinese>沒有呼號</Chinese>
-            <Chinesesimp>没有呼号</Chinesesimp>
+            <Chinesesimp>无呼号</Chinesesimp>
           </Key>
         </Container>
         <Container name="Radar">
           <Key ID="STR_3DEN_Attributes_Radar_Default_text">
             <Original>Default</Original>
             <Chinese>預設</Chinese>
-            <Chinesesimp>预设</Chinesesimp>
+            <Chinesesimp>默认</Chinesesimp>
           </Key>
           <Key ID="STR_3DEN_Attributes_Radar_Default_tooltip">
             <Original>AI will use the Radar when in Aware or Combat behavior.</Original>
@@ -4608,7 +4608,7 @@
           <Key ID="str_3den_attributes_behaviour_aware_tooltip">
             <Original>Default behavior. Characters are in ready position. Vehicles prefer roads, do not use lights and their passengers will disembark to counter threats.</Original>
             <Chinese>預設的行為模式。角色將手持武器。載具則是盡量開在道路上，但不使用車燈，載具的乘客也會自動下車來反擊威脅。</Chinese>
-            <Chinesesimp>预设的行为模式。角色将手持武器。载具则是尽量开在道路上，但不使用车灯，载具的乘客也会自动下车来反击威胁。</Chinesesimp>
+            <Chinesesimp>默认的行为模式。角色将手持武器。载具则是尽量开在道路上，但不使用车灯，载具的乘客也会自动下车来反击威胁。</Chinesesimp>
           </Key>
           <Key ID="str_3den_attributes_behaviour_careless_tooltip">
             <Original>The same as 'Safe', except that it will not be switched automatically after spotting a threat. Use with caution, player may perceive AIs in this behavior as defective.</Original>
@@ -5204,7 +5204,7 @@
             <Key ID="str_3den_multiplayer_attribute_disabledai_tooltip">
               <Original>When AI is enabled, all playable characters are created at the scenario start, controlled by AI. Upon joining, a player takes control of an existing character.\nWhen AI is disabled, a new character is created for each connecting player.\nServer host can disable AI even when it is allowed by default.</Original>
               <Chinese>當本功能開啟時，所有'玩家可扮演'角色將在任務開始時被創建，並交由AI操控。當有新玩家加入遊戲，便會接管該角色。\n當本功能關閉時，'玩家可扮演'角色只會在有新玩家加入遊戲後才被創建。\n就算任務預設是開啟本功能，伺服器主持人仍可以決定此功能是否開啟或關閉。</Chinese>
-              <Chinesesimp>当本功能开启时，所有'玩家可扮演'角色将在任务开始时被创建，并交由AI操控。当有新玩家加入游戏，便会接管该角色。\n当本功能关闭时，'玩家可扮演'角色只会在有新玩家加入游戏后才被创建。\n就算任务预设是开启本功能，服务器主持人仍可以决定此功能是否开启或关闭。</Chinesesimp>
+              <Chinesesimp>当本功能开启时，所有'玩家可扮演'角色将在任务开始时被创建，并交由AI操控。当有新玩家加入游戏，便会接管该角色。\n当本功能关闭时，'玩家可扮演'角色只会在有新玩家加入游戏后才被创建。\n就算任务默认开启本功能，服务器主持人仍可以决定此功能是否开启或关闭。</Chinesesimp>
             </Key>
             <Key ID="str_3den_multiplayer_attribute_disabledai_displayname">
               <Original>Enable AI</Original>
@@ -5300,7 +5300,7 @@
             <Key ID="str_3den_preferences_attribute_cameraspeedcoefmodified_tooltip">
               <Original>Fast camera speed coefficient. Influences movement with 'Turbo' key held. Affected also by the default speed.</Original>
               <Chinese>設定攝影機快速移動的速度。此速度為使用加速移動按鍵的速度。本功能也被預設移動速度的設定所影響。</Chinese>
-              <Chinesesimp>设定摄影机快速移动的速度。此速度为使用加速移动按键的速度。本功能也被预设移动速度的设定所影响。</Chinesesimp>
+              <Chinesesimp>设定摄影机快速移动的速度。此速度为使用加速移动按键的速度。本功能也受到默认移动速度设定的影响。</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_cameraspeedcoefmodified_displayname">
               <Original>Fast Speed</Original>
@@ -5310,12 +5310,12 @@
             <Key ID="str_3den_preferences_attribute_cameraspeedcoefdefault_tooltip">
               <Original>Default camera speed coefficient. Influences movement without 'Turbo' key held.</Original>
               <Chinese>設定攝影機預設移動的速度。此速度為不加速移動的速度。</Chinese>
-              <Chinesesimp>设定摄影机预设移动的速度。此速度为不加速移动的速度。</Chinesesimp>
+              <Chinesesimp>设定摄影机默认移动的速度。此速度为不加速移动的速度。</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_cameraspeedcoefdefault_displayname">
               <Original>Default Speed</Original>
               <Chinese>預設移動速度</Chinese>
-              <Chinesesimp>预设移动速度</Chinesesimp>
+              <Chinesesimp>默认移动速度</Chinesesimp>
             </Key>
             <Key ID="str_3den_preferences_attribute_cameraatl_tooltip">
               <Original>When enabled, the camera altitude will remain constant above the terrain while moving, otherwise it remains constant above the sea level.</Original>
@@ -5768,12 +5768,12 @@
           <Key ID="str_3den_group_attribute_speedmode_tooltip">
             <Original>Default travel speed of the group. In Combat and Stealth behavior modes, group members will try to prioritize this setting.</Original>
             <Chinese>預設群組單位的行軍速度。如果群組單位正在'交戰'或是'隱蔽'，群組單位將會盡量使用該速度。</Chinese>
-            <Chinesesimp>预设群组单位的行军速度。如果群组单位正在'交战'或是'隐蔽'，群组单位将会尽量使用该速度。</Chinesesimp>
+            <Chinesesimp>默认群组单位的行军速度。如果群组单位正在'交战'或是'隐蔽'，群组单位将会尽量使用该速度。</Chinesesimp>
           </Key>
           <Key ID="str_3den_group_attribute_formation_tooltip">
             <Original>Default group formation. Based on the combat mode, group members may ignore the formation in 'Combat' and 'Stealth' modes.</Original>
             <Chinese>預設隊形。如果群組單位正在'交戰'或是'隱蔽'，群組單位將會忽略隊形。</Chinese>
-            <Chinesesimp>预设队形。如果群组单位正在'交战'或是'隐蔽'，群组单位将会忽略队形。</Chinesesimp>
+            <Chinesesimp>默认队形。如果群组单位正在'交战'或是'隐蔽'，群组单位将会忽略队形。</Chinesesimp>
           </Key>
           <Key ID="str_3den_group_attribute_combatmode_tooltip">
             <Original>Controls how and when the group will choose to engage enemy targets.</Original>
