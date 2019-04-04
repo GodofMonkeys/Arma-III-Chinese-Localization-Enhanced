@@ -5501,7 +5501,7 @@
             <Key ID="str_3den_scenario_attribute_showcompass_displayname">
               <Original>Show Compass</Original>
               <Chinese>顯示指北針</Chinese>
-              <Chinesesimp>显示指南针</Chinesesimp>
+              <Chinesesimp>显示指北针</Chinesesimp>
             </Key>
             <Key ID="str_3den_scenario_attribute_saving_tooltip">
               <Original>When disabled, the 'SAVE' option in the pause menu will be disabled and scripted autosaves will not do anything.</Original>
