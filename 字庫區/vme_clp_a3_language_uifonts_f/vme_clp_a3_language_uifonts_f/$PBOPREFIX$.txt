@@ -1,5 +1,0 @@
-///<'vme_clp_a3_language_uifonts_f.pbo' properties via Mikero's dos tools, dll version 6.80>///
-prefix=vme_clp_a3_language_uifonts_f
-//Pbo Type is: Arma Addon
-//Sha: 'B4C8E796B5EBC6DDC1DD62D0F9EB8324F2FD338B'
-//////</properties>//////
