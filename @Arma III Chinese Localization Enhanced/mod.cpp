@@ -1,4 +1,4 @@
-﻿name = "ARMA III 官方中文增強包 版本：3.1";
+﻿name = "ARMA III 官方中文增強包 版本：4.0";
 picture = "mod.paa";
 hidePicture = "false";
 hideName = "false";

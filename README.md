@@ -55,6 +55,7 @@
 **翻譯暨潤飾成員 - (簡中/大陸軍語)**
 <br/>Nikolai E
 <br/>Orangenschalen
+<br/>GoldJohnKing
 
 **字庫技術開發**
 <br/>Alex.Xp
