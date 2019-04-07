@@ -1,0 +1,5 @@
+///<'vme_clp_a3_language_uifonts_f_data.pbo' properties via Mikero's dos tools, dll version 6.80>///
+prefix=vme_clp_a3_language_uifonts_f_data
+//Pbo Type is: Arma Unknown pbo typ (no config).
+//Sha: '31AC4DBF6E7E56BD810FA421A1FBF8D54D870E67'
+//////</properties>//////
