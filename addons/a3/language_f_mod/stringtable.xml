@@ -1,429 +1,130 @@
-<?xml version="1.0" encoding="UTF-8"?><Project name="Arma3">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
   <Package name="Language_Mod">
     <Key ID="str_a3_cfgweapons_smg_03_tr_khaki0">
       <Original>ADR-97 TR 5.7 mm (Khaki)</Original>
-      <Chinese>ADR-97 TR 5.7 公釐（卡其色）</Chinese>
-      <French>ADR-97 TR 5,7 mm (kaki)</French>
-      <Spanish>ADR-97 TR 5,7 mm (caqui)</Spanish>
-      <Italian>ADR-97 TR 5.7 mm (kaki)</Italian>
-      <Polish>ADR-97 TR 5,7 mm (khaki)</Polish>
-      <Russian>ADR-97 TR 5,7 мм (хаки)</Russian>
-      <German>ADR-97 TR 5,7 mm (khaki)</German>
-      <Czech>ADR-97 TR 5,7 mm (khaki)</Czech>
-      <English>ADR-97 TR 5.7 mm (Khaki)</English>
-      <Portuguese>ADR-97 TR 5,7 mm (cáqui)</Portuguese>
-      <Korean>ADR-97 TR 5.7mm (카키)</Korean>
-      <Chinesesimp>ADR-97 TR 5.7 毫米（卡其色）</Chinesesimp>
-      <Japanese>ADR-97 TR 5.7 mm（カーキ）</Japanese>
-      <Turkish>ADR-97 TR 5.7 mm (Haki)</Turkish>
+      <Chinese>ADR-97 TR 5.7公厘（卡其色）</Chinese>
+      <Chinesesimp>ADR-97 TR 5.7毫米（卡其色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_hex0">
       <Original>ADR-97 TR 5.7 mm (Hex)</Original>
-      <Chinese>ADR-97 TR 5.7 公釐（六角形）</Chinese>
-      <French>ADR-97 TR 5,7 mm (hex)</French>
-      <Spanish>ADR-97 TR 5,7 mm (Hex)</Spanish>
-      <Italian>ADR-97 TR 5.7 mm (esag.)</Italian>
-      <Polish>ADR-97 TR 5,7 mm (hex)</Polish>
-      <Russian>ADR-97 TR 5,7 мм (гекс)</Russian>
-      <German>ADR-97 TR 5,7 mm (hex)</German>
-      <Czech>ADR-97 TR 5,7 mm (hex)</Czech>
-      <English>ADR-97 TR 5.7 mm (Hex)</English>
-      <Portuguese>ADR-97 TR 5,7 mm (hex)</Portuguese>
-      <Korean>ADR-97 TR 5.7mm (헥스)</Korean>
-      <Chinesesimp>ADR-97 TR 5.7 毫米（六角形）</Chinesesimp>
-      <Japanese>ADR-97 TR 5.7 mm（六角形）</Japanese>
-      <Turkish>ADR-97 TR 5.7 mm (Hex)</Turkish>
+      <Chinese>ADR-97 TR 5.7公厘（數位蜂巢迷彩）</Chinese>
+      <Chinesesimp>ADR-97 TR 5.7毫米（蜂巢迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_camo0">
       <Original>ADR-97 TR 5.7 mm (Camo)</Original>
-      <Chinese>ADR-97 TR 5.7 公釐（迷彩）</Chinese>
-      <French>ADR-97 TR 5,7 mm (camouflage)</French>
-      <Spanish>ADR-97 TR 5,7 mm (camuflaje)</Spanish>
-      <Italian>ADR-97 TR 5.7 mm (mimetico)</Italian>
-      <Polish>ADR-97 TR 5,7 mm (kamuflaż)</Polish>
-      <Russian>ADR-97 TR 5,7 мм (камуфляж)</Russian>
-      <German>ADR-97 TR 5,7 mm (tarn)</German>
-      <Czech>ADR-97 TR 5.7 mm (kamufláž)</Czech>
-      <English>ADR-97 TR 5.7 mm (Camo)</English>
-      <Portuguese>ADR-97 TR 5,7 mm (camuflada)</Portuguese>
-      <Korean>ADR-97 TR 5.7mm (위장)</Korean>
-      <Chinesesimp>ADR-97 TR 5.7 毫米（迷彩）</Chinesesimp>
-      <Japanese>ADR-97 TR 5.7 mm（迷彩）</Japanese>
-      <Turkish>ADR-97 TR 5.7 mm (Kamuflaj)</Turkish>
+      <Chinese>ADR-97 TR 5.7公厘（迷彩）</Chinese>
+      <Chinesesimp>ADR-97 TR 5.7毫米（迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_black0">
       <Original>ADR-97 TR 5.7 mm (Black)</Original>
-      <Chinese>ADR-97 TR 5.7 公釐 （黑色）</Chinese>
-      <French>ADR-97 TR 5,7 mm (noir)</French>
-      <Spanish>ADR-97 TR 5,7 mm (negra)</Spanish>
-      <Italian>ADR-97 TR 5.7 mm (nero)</Italian>
-      <Polish>ADR-97 TR 5,7 mm (czarny)</Polish>
-      <Russian>ADR-97 TR 5,7 мм (черный)</Russian>
-      <German>ADR-97 TR 5,7 mm (schwarz)</German>
-      <Czech>ADR-97 TR 5,7 mm (černá)</Czech>
-      <English>ADR-97 TR 5.7 mm (Black)</English>
-      <Portuguese>ADR-97 TR 5,7 mm (preta)</Portuguese>
-      <Korean>ADR-97 TR 5.7mm (흑색)</Korean>
-      <Chinesesimp>ADR-97 TR 5.7 毫米 （黑色）</Chinesesimp>
-      <Japanese>ADR-97 TR 5.7 mm（黒）</Japanese>
-      <Turkish>ADR-97 TR 5.7 mm (Siyah)</Turkish>
+      <Chinese>ADR-97 TR 5.7公厘（黑色）</Chinese>
+      <Chinesesimp>ADR-97 TR 5.7毫米（黑色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_base_library0">
       <Original>The ADR-97 is a lightweight, highly maneuverable firearm with a high rate of fire, which stands out due to the 50-round magazine positioned on top of the weapon. The basic weapon comes with inbuilt collimator sights, but some variants can also be fitted with custom optics.</Original>
-      <Chinese>ADR-97 是一種操作極其方便的高射速輕型槍支，它的突出特點是其 50 發的彈匣位於槍的頂部。這款基本型武器配備內置準直式瞄具，但有些變款也裝有定制的光學元件。</Chinese>
-      <French>L'ADR-97 est une arme à feu légère, très maniable et dotée d'une cadence de tir élevée. Elle se distingue par son profil caractéristique, avec son chargeur de 50 munitions positionné sur le dessus de l'arme. La version de base comprend un collimateur, mais certaines variantes peuvent accepter différentes lunettes de visée.</French>
-      <Spanish>La ADR-97 es un arma de fuego ligera y muy manejable, con una cadencia de tiro elevada. Destaca por el cargador de 50 proyectiles que se coloca encima. El arma básica incluye una mira con colimador integrada, pero hay algunas variantes a las que se les pueden añadir ópticas personalizadas.</Spanish>
-      <Italian>L'ADR-97 è un'arma da fuoco leggera e altamente manovrabile con un'elevata cadenza di tiro, che si distingue per via del caricatore da 50 munizioni posizionato in cima. L'arma di base è munita di collimatori incorporati, ma è anche possibile montare delle varianti con ottiche personalizzate.</Italian>
-      <Polish>ADR-97 to lekki i poręczny pistolet maszynowy. Wyjątkowo wysoką szybkostrzelność zapewnia 50-nabojowy magazynek, umieszczony na górze. Podstawowy wariant broni posiada wbudowany celownik kolimatorowy, lecz istnieją również warianty wyposażone w specjalistyczne przyrządy optyczne.</Polish>
-      <Russian>ADR-97 – легкое, высокоманевренное огнестрельное оружие с высокой скоростью стрельбы, выделяющееся на фоне других благодаря магазину на 50 патронов, который располагается поверх оружия. Базовая комплектация поставляется со встроенными коллиматорным прицелом, однако некоторые варианты также могут быть оснащены специальной оптикой.</Russian>
-      <German>Das ADR-97 ist eine leichte, hochflexible Waffe mit hoher Schussfrequenz, die durch das darauf montierte 50-Schuss-Magazin seine volle Wirkung entfaltet. Die Grundausführung beinhaltet ein integriertes Kollimator-Visier, aber andere Ausführungen können mit unterschiedlichen Visieren ausgestattet werden.</German>
-      <Czech>ADR-97 je lehká, skvěle ovladatelná palná zbraň s vysokou kadencí, která je dobře rozpoznatelná díky 50rannému zásobníku v horní části zbraně. Základní verze je k dostání se zabudovaným kolimátorem, ale některé varianty lze osadit také optikou.</Czech>
-      <English>The ADR-97 is a lightweight, highly maneuverable firearm with a high rate of fire, which stands out due to the 50-round magazine positioned on top of the weapon. The basic weapon comes with inbuilt collimator sights, but some variants can also be fitted with custom optics.</English>
-      <Portuguese>A ADR-97 é uma arma de fogo leve e bastante flexível com uma alta taxa de disparo, destacando-se graças ao cartucho de 50 projéteis em seu topo. A arma básica traz mira com colimador acoplado, porém algumas variantes também podem ser equipadas com mira ótica personalizada.</Portuguese>
-      <Korean>ADR-97은 기동성과 사격률이 매우 높은 경량 화기로, 무기 상부에 위치한 50발 탄창이 특징입니다. 이 기본적인 무기는 내장 시준기와 함께 제공되며, 일부 변종은 사용자 지정 광학조준기를 적용할 수 있습니다.</Korean>
-      <Chinesesimp>ADR-97 是一种可操作性强的高射速轻型枪支，其突出特点是弹匣位于枪的顶部，装弹量 50 发。这款基本武器配备内置准直瞄具，但有些变款也装有定制的光学器件。</Chinesesimp>
-      <Japanese>ADR-97 は軽量で操作性に優れた、発射速度が高い火器で、上部にある 50 発装填マガジンが目立つ。基本バージョンはコリメータ照準が備わっているが、カスタムの照準器が装備可能な派生型も存在する。</Japanese>
-      <Turkish>Üzerindeki 50 mermilik şarjörle göz olduran ADR-97, yüksek atış oranına ve yüksek manevra kabiliyetine sahip, hafif bir ateşli silahtır. Temel silah, dahili kolimatörlü görüşlere sahiptir. Ancak bazı varyantları da özel optiklerle donatılmış olabilir.</Turkish>
+      <Chinese>ADR-97是一種操作極其方便的高射速輕型槍支，它的突出特點是其50發的彈匣位於槍的頂部。這款基本型武器配備內置準直式瞄具，但有些變款也裝有定制的光學元件。</Chinese>
+      <Chinesesimp>ADR-97是一种可操作性强的高射速轻型枪支，其突出特点是弹匣位于枪的顶部，装弹量50发。这款基本武器配备内置准直瞄具，但有些变款也装有定制的光学器件。</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_base1">
       <Original>Submachine Gun</Original>
       <Chinese>衝鋒槍</Chinese>
-      <French>Pistolet mitrailleur</French>
-      <Spanish>Metralleta</Spanish>
-      <Italian>Mitra</Italian>
-      <Polish>Pistolet maszynowy</Polish>
-      <Russian>Пистолет-пулемет</Russian>
-      <German>Maschinenpistole</German>
-      <Czech>Samopal</Czech>
-      <English>Submachine Gun</English>
-      <Portuguese>Metralhadora</Portuguese>
-      <Korean>기관단총</Korean>
       <Chinesesimp>冲锋枪</Chinesesimp>
-      <Japanese>サブマシンガン</Japanese>
-      <Turkish>Makineli Tabanca</Turkish>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_tr_base0">
       <Original>ADR-97 5.7 mm</Original>
-      <Chinese>ADR-97 5.7 公釐</Chinese>
-      <French>ADR-97 5,7 mm</French>
-      <Spanish>ADR-97 5,7 mm</Spanish>
-      <Italian>ADR-97 5.7 mm</Italian>
-      <Polish>ADR-97 5,7 mm</Polish>
-      <Russian>ADR-97 5,7 мм</Russian>
-      <German>ADR-97 5,7 mm</German>
-      <Czech>ADR-97 5,7 mm</Czech>
-      <English>ADR-97 5.7 mm</English>
-      <Portuguese>ADR-97 5,7 mm</Portuguese>
-      <Korean>ADR-97 5.7mm</Korean>
-      <Chinesesimp>ADR-97 5.7 毫米</Chinesesimp>
-      <Japanese>ADR-97 5.7 mm</Japanese>
-      <Turkish>ADR-97 5.7 mm</Turkish>
+      <Chinese>ADR-97 5.7公厘</Chinese>
+      <Chinesesimp>ADR-97 5.7毫米</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_khaki0">
       <Original>ADR-97 5.7 mm (Khaki)</Original>
-      <Chinese>ADR-97 5.7 公釐（卡其色）</Chinese>
-      <French>ADR-97 5,7 mm (kaki)</French>
-      <Spanish>ADR-97 5,7 mm (caqui)</Spanish>
-      <Italian>ADR-97 5.7 mm (kaki)</Italian>
-      <Polish>ADR-97 5,7 mm (khaki)</Polish>
-      <Russian>ADR-97 5,7 мм (хаки)</Russian>
-      <German>ADR-97 5,7 mm (khaki)</German>
-      <Czech>ADR-97 5,7 mm (khaki)</Czech>
-      <English>ADR-97 5.7 mm (Khaki)</English>
-      <Portuguese>ADR-97 5,7 mm (cáqui)</Portuguese>
-      <Korean>ADR-97 5.7mm (카키)</Korean>
-      <Chinesesimp>ADR-97 5.7 毫米（卡其色）</Chinesesimp>
-      <Japanese>ADR-97 5.7 mm（カーキ）</Japanese>
-      <Turkish>ADR-97 5,7 mm (Haki)</Turkish>
+      <Chinese>ADR-97 5.7公厘（卡其色）</Chinese>
+      <Chinesesimp>ADR-97 5.7毫米（卡其色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_hex0">
       <Original>ADR-97 5.7 mm (Hex)</Original>
-      <Chinese>ADR-97 5.7 公釐（六角形）</Chinese>
-      <French>ADR-97 5,7 mm (hex)</French>
-      <Spanish>ADR-97 5,7 mm (Hex)</Spanish>
-      <Italian>ADR-97 5.7 mm (esag.)</Italian>
-      <Polish>ADR-97 5,7 mm (hex)</Polish>
-      <Russian>ADR-97 5,7 мм (гекс)</Russian>
-      <German>ADR-97 5,7 mm (hex)</German>
-      <Czech>ADR-97 5,7 mm (hex)</Czech>
-      <English>ADR-97 5.7 mm (Hex)</English>
-      <Portuguese>ADR-97 5,7 mm (hex)</Portuguese>
-      <Korean>ADR-97 5.7mm (헥스)</Korean>
-      <Chinesesimp>ADR-97 5.7 毫米（六角形）</Chinesesimp>
-      <Japanese>ADR-97 5.7 mm（六角形）</Japanese>
-      <Turkish>ADR-97 5.7 mm (Hex)</Turkish>
+      <Chinese>ADR-97 5.7公厘（數位蜂巢迷彩）</Chinese>
+      <Chinesesimp>ADR-97 5.7毫米（蜂巢迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_tr_khaki0">
       <Original>ADR-97C TR 5.7 mm (Khaki)</Original>
-      <Chinese>ADR-97C TR 5.7 公釐（卡其色）</Chinese>
-      <French>ADR-97C TR 5,7 mm (kaki)</French>
-      <Spanish>ADR-97C TR 5,7 mm (caqui)</Spanish>
-      <Italian>ADR-97C TR 5.7 mm (kaki)</Italian>
-      <Polish>ADR-97C TR 5,7 mm (khaki)</Polish>
-      <Russian>ADR-97C TR 5,7 мм (хаки)</Russian>
-      <German>ADR-97C TR 5,7 mm (khaki)</German>
-      <Czech>ADR-97C TR 5,7 mm (khaki)</Czech>
-      <English>ADR-97C TR 5.7 mm (Khaki)</English>
-      <Portuguese>ADR-97C TR 5,7 mm (cáqui)</Portuguese>
-      <Korean>ADR-97C TR 5.7mm (카키)</Korean>
-      <Chinesesimp>ADR-97C TR 5.7 毫米（卡其色）</Chinesesimp>
-      <Japanese>ADR-97C TR 5.7 mm（カーキ）</Japanese>
-      <Turkish>ADR-97C TR 5.7 mm (Haki)</Turkish>
+      <Chinese>ADR-97C TR 5.7公厘（卡其色）</Chinese>
+      <Chinesesimp>ADR-97C TR 5.7毫米（卡其色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_tr_hex0">
       <Original>ADR-97C TR 5.7 mm (Hex)</Original>
-      <Chinese>ADR-97C TR 5.7 公釐（六角形）</Chinese>
-      <French>ADR-97C TR 5,7 mm (hex)</French>
-      <Spanish>ADR-97C TR 5,7 mm (negra)</Spanish>
-      <Italian>ADR-97C TR 5.7 mm (esag.)</Italian>
-      <Polish>ADR-97C TR 5,7 mm (hex)</Polish>
-      <Russian>ADR-97C TR 5,7 мм (гекс)</Russian>
-      <German>ADR-97C TR 5,7 mm (hex)</German>
-      <Czech>ADR-97C TR 5,7 mm (hex)</Czech>
-      <English>ADR-97C TR 5.7 mm (Hex)</English>
-      <Portuguese>ADR-97C TR 5,7 mm (hex)</Portuguese>
-      <Korean>ADR-97C TR 5.7mm (헥스)</Korean>
-      <Chinesesimp>ADR-97C TR 5.7 毫米（六角形）</Chinesesimp>
-      <Japanese>ADR-97C TR 5.7 mm（六角形）</Japanese>
-      <Turkish>ADR-97C TR 5.7 mm (Hex)</Turkish>
+      <Chinese>ADR-97C TR 5.7公厘（數位蜂巢迷彩）</Chinese>
+      <Chinesesimp>ADR-97C TR 5.7毫米（蜂巢迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_tr_camo0">
       <Original>ADR-97C TR 5.7 mm (Camo)</Original>
-      <Chinese>ADR-97C TR 5.7 公釐（迷彩）</Chinese>
-      <French>ADR-97C TR 5,7 mm (camouflage)</French>
-      <Spanish>ADR-97C TR 5,7 mm (camuflaje)</Spanish>
-      <Italian>ADR-97C TR 5.7 mm (mimetico)</Italian>
-      <Polish>ADR-97C TR 5,7 mm (kamuflaż)</Polish>
-      <Russian>ADR-97C TR 5,7 мм (камуфляж)</Russian>
-      <German>ADR-97C TR 5,7 mm (tarn)</German>
-      <Czech>ADR-97C TR 5.7 mm (kamufláž)</Czech>
-      <English>ADR-97C TR 5.7 mm (Camo)</English>
-      <Portuguese>ADR-97C TR 5,7 mm (camuflada)</Portuguese>
-      <Korean>ADR-97C TR 5.7mm (위장)</Korean>
-      <Chinesesimp>ADR-97C TR 5.7 毫米（迷彩）</Chinesesimp>
-      <Japanese>ADR-97C TR 5.7 mm（迷彩）</Japanese>
-      <Turkish>ADR-97C TR 5.7 mm (Kamuflaj)</Turkish>
+      <Chinese>ADR-97C TR 5.7公厘（迷彩）</Chinese>
+      <Chinesesimp>ADR-97C TR 5.7毫米（迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_tr_black0">
       <Original>ADR-97C TR 5.7 mm (Black)</Original>
-      <Chinese>ADR-97C TR 5.7 公釐 （黑色）</Chinese>
-      <French>ADR-97C TR 5,7 mm (noir)</French>
-      <Spanish>ADR-97C TR 5,7 mm (negra)</Spanish>
-      <Italian>ADR-97C TR 5.7 mm (nero)</Italian>
-      <Polish>ADR-97C TR 5,7 mm (czarny)</Polish>
-      <Russian>ADR-97C TR 5,7 мм (черный)</Russian>
-      <German>ADR-97C TR 5,7 mm (schwarz)</German>
-      <Czech>ADR-97C TR 5,7 mm (černá)</Czech>
-      <English>ADR-97C TR 5.7 mm (Black)</English>
-      <Portuguese>ADR-97C TR 5,7 mm (preta)</Portuguese>
-      <Korean>ADR-97C TR 5.7mm (흑색)</Korean>
-      <Chinesesimp>ADR-97C TR 5.7 毫米 （黑色）</Chinesesimp>
-      <Japanese>ADR-97C TR 5.7 mm（黒）</Japanese>
-      <Turkish>ADR-97C TR 5.7 mm (Siyah)</Turkish>
+      <Chinese>ADR-97C TR 5.7公厘 （黑色）</Chinese>
+      <Chinesesimp>ADR-97C TR 5.7毫米 （黑色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_khaki0">
       <Original>ADR-97C 5.7 mm (Khaki)</Original>
-      <Chinese>ADR-97C 5.7 公釐（卡其色）</Chinese>
-      <French>ADR-97C 5,7 mm (kaki)</French>
-      <Spanish>ADR-97C 5,7 mm (caqui)</Spanish>
-      <Italian>ADR-97C 5.7 mm (kaki)</Italian>
-      <Polish>ADR-97C 5,7 mm (khaki)</Polish>
-      <Russian>ADR-97C 5,7 мм (хаки)</Russian>
-      <German>ADR-97C 5,7 mm (khaki)</German>
-      <Czech>ADR-97C 5,7 mm (khaki)</Czech>
-      <English>ADR-97C 5.7 mm (Khaki)</English>
-      <Portuguese>ADR-97C 5,7 mm (cáqui)</Portuguese>
-      <Korean>ADR-97C 5.7mm (카키)</Korean>
-      <Chinesesimp>ADR-97C 5.7 毫米（卡其色）</Chinesesimp>
-      <Japanese>ADR-97C 5.7 mm（カーキ）</Japanese>
-      <Turkish>ADR-97C 5,7 mm (Haki)</Turkish>
+      <Chinese>ADR-97C 5.7公厘（卡其色）</Chinese>
+      <Chinesesimp>ADR-97C 5.7毫米（卡其色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_hex0">
       <Original>ADR-97C 5.7 mm (Hex)</Original>
-      <Chinese>ADR-97C 5.7 公釐（六角形）</Chinese>
-      <French>ADR-97C 5,7 mm (hex)</French>
-      <Spanish>ADR-97C 5,7 mm (Hex)</Spanish>
-      <Italian>ADR-97C 5.7 mm (esag.)</Italian>
-      <Polish>ADR-97C 5,7 mm (hex)</Polish>
-      <Russian>ADR-97C 5,7 мм (гекс)</Russian>
-      <German>ADR-97C 5,7 mm (hex)</German>
-      <Czech>ADR-97C 5,7 mm (hex)</Czech>
-      <English>ADR-97C 5.7 mm (Hex)</English>
-      <Portuguese>ADR-97C 5,7 mm (hex)</Portuguese>
-      <Korean>ADR-97C 5.7mm (헥스)</Korean>
-      <Chinesesimp>ADR-97C 5.7 毫米（六角形）</Chinesesimp>
-      <Japanese>ADR-97C 5.7 mm（六角形）</Japanese>
-      <Turkish>ADR-97C 5.7 mm (Hex)</Turkish>
+      <Chinese>ADR-97C 5.7公厘（數位蜂巢迷彩）</Chinese>
+      <Chinesesimp>ADR-97C 5.7毫米（蜂巢迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_camo0">
       <Original>ADR-97C 5.7 mm (Camo)</Original>
-      <Chinese>ADR-97C 5.7 公釐（迷彩）</Chinese>
-      <French>ADR-97C 5,7 mm (camouflage)</French>
-      <Spanish>ADR-97C 5,7 mm (camuflaje)</Spanish>
-      <Italian>ADR-97C 5.7 mm (mimetico)</Italian>
-      <Polish>ADR-97C 5,7 mm (kamuflaż)</Polish>
-      <Russian>ADR-97C 5,7 мм (камуфляж)</Russian>
-      <German>ADR-97C 5,7 mm (tarn)</German>
-      <Czech>ADR-97C 5,7 mm (kamufláž)</Czech>
-      <English>ADR-97C 5.7 mm (Camo)</English>
-      <Portuguese>ADR-97C 5,7 mm (camuflada)</Portuguese>
-      <Korean>ADR-97C 5.7mm (위장)</Korean>
-      <Chinesesimp>ADR-97C 5.7 毫米（迷彩）</Chinesesimp>
-      <Japanese>ADR-97C 5.7 mm（迷彩）</Japanese>
-      <Turkish>ADR-97C 5.7 mm (Kamuflaj)</Turkish>
+      <Chinese>ADR-97C 5.7公厘（迷彩）</Chinese>
+      <Chinesesimp>ADR-97C 5.7毫米（迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03c_black0">
       <Original>ADR-97C 5.7 mm (Black)</Original>
-      <Chinese>ADR-97C 5.7 公釐 （黑色）</Chinese>
-      <French>ADR-97C 5,7 mm (noir)</French>
-      <Spanish>ADR-97C 5,7 mm (negra)</Spanish>
-      <Italian>ADR-97C 5.7 mm (nero)</Italian>
-      <Polish>ADR-97C 5,7 mm (czarny)</Polish>
-      <Russian>ADR-97C 5,7 мм (черный)</Russian>
-      <German>ADR-97C 5,7 mm (schwarz)</German>
-      <Czech>ADR-97C 5,7 mm (černá)</Czech>
-      <English>ADR-97C 5.7 mm (Black)</English>
-      <Portuguese>ADR-97C 5,7 mm (preta)</Portuguese>
-      <Korean>ADR-97C 5.7mm (흑색)</Korean>
-      <Chinesesimp>ADR-97C 5.7 毫米 （黑色）</Chinesesimp>
-      <Japanese>ADR-97C 5.7 mm（黒）</Japanese>
-      <Turkish>ADR-97C 5.7 mm (Siyah)</Turkish>
+      <Chinese>ADR-97C 5.7公厘（黑色）</Chinese>
+      <Chinesesimp>ADR-97C 5.7毫米（黑色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_camo0">
       <Original>ADR-97 5.7 mm (Camo)</Original>
-      <Chinese>ADR-97 5.7 公釐（迷彩）</Chinese>
-      <French>ADR-97 5,7 mm (camouflage)</French>
-      <Spanish>ADR-97 5,7 mm (camuflaje)</Spanish>
-      <Italian>ADR-97 5.7 mm (mimetico)</Italian>
-      <Polish>ADR-97 5,7 mm (kamuflaż)</Polish>
-      <Russian>ADR-97 5,7 мм (камуфляж)</Russian>
-      <German>ADR-97 5,7 mm (tarn)</German>
-      <Czech>ADR-97 5,7 mm (kamufláž)</Czech>
-      <English>ADR-97 5.7 mm (Camo)</English>
-      <Portuguese>ADR-97 5,7 mm (camuflada)</Portuguese>
-      <Korean>ADR-97 5.7mm (위장)</Korean>
-      <Chinesesimp>ADR-97 5.7 毫米（迷彩）</Chinesesimp>
-      <Japanese>ADR-97 5.7 mm（迷彩）</Japanese>
-      <Turkish>ADR-97 5.7 mm (Kamuflaj)</Turkish>
+      <Chinese>ADR-97 5.7公厘（迷彩）</Chinese>
+      <Chinesesimp>ADR-97 5.7毫米（迷彩）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgweapons_smg_03_black0">
       <Original>ADR-97 5.7 mm (Black)</Original>
-      <Chinese>ADR-97 5.7 公釐 （黑色）</Chinese>
-      <French>ADR-97 5,7 mm (noir)</French>
-      <Spanish>ADR-97 5,7 mm (negra)</Spanish>
-      <Italian>ADR-97 5.7 mm (nero)</Italian>
-      <Polish>ADR-97 5,7 mm (czarny)</Polish>
-      <Russian>ADR-97 5,7 мм (черный)</Russian>
-      <German>ADR-97 5,7 mm (schwarz)</German>
-      <Czech>ADR-97 5,7 mm (černá)</Czech>
-      <English>ADR-97 5.7 mm (Black)</English>
-      <Portuguese>ADR-97 5,7 mm (preta)</Portuguese>
-      <Korean>ADR-97 5.7mm (흑색)</Korean>
-      <Chinesesimp>ADR-97 5.7 毫米 （黑色）</Chinesesimp>
-      <Japanese>ADR-97 5.7 mm（黒）</Japanese>
-      <Turkish>ADR-97 5.7 mm (Siyah)</Turkish>
+      <Chinese>ADR-97 5.7公厘（黑色）</Chinese>
+      <Chinesesimp>ADR-97 5.7毫米（黑色）</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_031">
       <Original>5.7 mm 50Rnd ADR-97 Mag</Original>
-      <Chinese>5.7 mm 50 發 ADR-97 彈匣</Chinese>
-      <French>Chargeur 50 balles 5,7 mm ADR-97</French>
-      <Spanish>Cargador de ADR-97, 50 proyectiles, 5,7 mm</Spanish>
-      <Italian>Caricatore ADR-97 50 muniz. 5.7 mm </Italian>
-      <Polish>50-nab. mag. 5,7 mm ADR-97</Polish>
-      <Russian>Магазин для ADR-97 на 50 патронов 5,7 мм</Russian>
-      <German>5.7mm-50Schuss-ADR-97-Magazin</German>
-      <Czech>Zásobník ADR-97, 5,7mm, 50ks</Czech>
-      <English>5.7 mm 50Rnd ADR-97 Mag</English>
-      <Portuguese>Cartucho ADR-97 com 50 tiros de 5,7 mm</Portuguese>
-      <Korean>5.7mm 50발 ADR-97 탄창</Korean>
-      <Chinesesimp>5.7 毫米 50 发 ADR-97 弹匣</Chinesesimp>
-      <Japanese>5.7mm 50Rnd ADR-97 マガジン</Japanese>
-      <Turkish>5.7 mm 50 Merm. ADR-97 Şarjörü</Turkish>
+      <Chinese>5.7公厘50發ADR-97彈匣</Chinese>
+      <Chinesesimp>5.7毫米50发ADR-97弹匣</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_030">
       <Original>ADR-97 Mag</Original>
-      <Chinese>ADR-97 彈匣</Chinese>
-      <French>Chargeur ADR-97</French>
-      <Spanish>Cargador de ADR-97</Spanish>
-      <Italian>Caricatore ADR-97</Italian>
-      <Polish>Magazynek ADR-97</Polish>
-      <Russian>Магазин для ADR-97</Russian>
-      <German>ADR-97-Mag</German>
-      <Czech>Zásobník ADR-97</Czech>
-      <English>ADR-97 Mag</English>
-      <Portuguese>Cartucho ADR-97</Portuguese>
-      <Korean>ADR-97 탄창</Korean>
-      <Chinesesimp>ADR-97 弹匣</Chinesesimp>
-      <Japanese>ADR-97 弾倉</Japanese>
-      <Turkish>ADR-97 Şarjörü</Turkish>
+      <Chinese>ADR-97彈匣</Chinese>
+      <Chinesesimp>ADR-97弹匣</Chinesesimp>
     </Key>
     <Key ID="str_a3_cfgmagazines_50rnd_570x28_smg_032">
       <Original>Caliber: 5.7x28 mm&lt;br /&gt;Rounds: 50&lt;br /&gt;Used in: ADR-97, ADR-97C, ADR-97C TR</Original>
-      <Chinese>口徑：5.7x28 mm&lt;br /&gt;個數：50&lt;br /&gt;用於：ADR-97、ADR-97C、ADR-97C TR</Chinese>
-      <French>Calibre : 5,7x28 mm&lt;br /&gt;Munitions : 50&lt;br /&gt;Application : ADR-97, ADR-97C, ADR-97C TR</French>
-      <Spanish>Calibre: 5,7x28 mm&lt;br /&gt;Proyectiles: 50&lt;br /&gt;Se usa con: ADR-97, ADR-97C, ADR-97C TR</Spanish>
-      <Italian>Calibro: 5.7x28 mm&lt;br /&gt;Munizioni: 50&lt;br /&gt;Si usa in: ADR-97, ADR-97C, ADR-97C TR</Italian>
-      <Polish>Kaliber: 5,7x28 mm&lt;br /&gt;Runda: 50&lt;br /&gt;Zastosowanie: ADR-97, ADR-97C, ADR-97C TR</Polish>
-      <Russian>Калибр: 5,7x28 мм&lt;br/&gt;Патроны: 50&lt;br/&gt;Применение: ADR-97, ADR-97C, ADR-97C TR</Russian>
-      <German>Kaliber: 5.7x28 mm&lt;br /&gt;Patronen: 50&lt;br /&gt;genutzt in: ADR-97, ADR-97C, ADR-97C TR</German>
-      <Czech>Ráže: 5,7x28 mm&lt;br /&gt;Kapacita: 50&lt;br /&gt;Použití: ADR-97, ADR-97C, ADR-97C TR</Czech>
-      <English>Caliber: 5.7x28 mm&lt;br /&gt;Rounds: 50&lt;br /&gt;Used in: ADR-97, ADR-97C, ADR-97C TR</English>
-      <Portuguese>Calibre: 5.7x28 mm&lt;br /&gt;Tiros: 50&lt;br /&gt;Uso: ADR-97, ADR-97C, ADR-97C TR</Portuguese>
-      <Korean>구경: 5.7x28 mm&lt;br /&gt;탄 수: 50&lt;br /&gt;사용 가능: ADR-97, ADR-97C, ADR-97C TR</Korean>
-      <Chinesesimp>口径：5.7x28 毫米&lt;br /&gt;容弹量：50&lt;br /&gt;用于：ADR-97、ADR-97C、ADR-97C TR</Chinesesimp>
-      <Japanese>口径：5.7x28 mm&lt;br /&gt;弾数：50&lt;br /&gt;使用武器：ADR-97, ADR-97C, ADR-97C TR</Japanese>
-      <Turkish>Kalibre: 5.7x28 mm&lt;br /&gt;Mermi: 50&lt;br /&gt;Kullanıldığı Yer: ADR-97, ADR-97C, ADR-97C TR</Turkish>
+      <Chinese>口徑：5.7x28公厘&lt;br /&gt;個數：50&lt;br /&gt;用於：ADR-97、ADR-97C、ADR-97C TR</Chinese>
+      <Chinesesimp>口径：5.7x28毫米&lt;br /&gt;容弹量：50&lt;br /&gt;用于：ADR-97、ADR-97C、ADR-97C TR</Chinesesimp>
     </Key>
     <Key ID="STR_A3_cfgMods_OfficialMod_name0">
       <Original>ADR-97 Weapon Pack</Original>
-      <Chinese>ADR-97 武器包</Chinese>
-      <French>Pack d'armes ADR-97</French>
-      <Spanish>Paquete de armas ADR-97</Spanish>
-      <Italian>Pacchetto Armi ADR-97</Italian>
-      <Polish>Pakiet broni ADR-97</Polish>
-      <Russian>Комплект оружия ADR-97</Russian>
-      <German>ADR-97-Waffenpaket</German>
-      <Czech>Zbraňový balíček ADR-97</Czech>
-      <English>ADR-97 Weapon Pack</English>
-      <Portuguese>Pacote de armas ADR-97</Portuguese>
-      <Korean>ADR-97 무기팩</Korean>
-      <Chinesesimp>ADR-97 武器包</Chinesesimp>
-      <Japanese>ADR-97 ウェポンパック</Japanese>
-      <Turkish>ADR-97 Silah Paketi</Turkish>
+      <Chinese>ADR-97武器包</Chinese>
+      <Chinesesimp>ADR-97武器包</Chinesesimp>
     </Key>
     <Key ID="STR_A3_cfgMods_OfficialMod_overview0">
       <Original>The ADR-97 Weapon Pack consists of a collection of variants of the ADR-97 submachine gun. It was originally created by Jakub Horyna (aka BXBX), an Arma 3 Programmer, in his spare time and was released as an 'official mod' to help players discover the possibilities of custom content. Enjoy!</Original>
-      <Chinese>ADR-97 武器包含有 ADR-97 衝鋒槍的一系列變款。它最初由 Arma 3 程式師 Jakub Horyna (aka BXBX) 利用業餘時間設計而成，並以“官方修改模組”的形式發佈，以便玩家探索定制內容的諸多潛能。盡情遊玩吧！</Chinese>
-      <French>Le pack d'armes ADR-97 comprend différentes variantes du pistolet mitrailleur ADR-97. Il a été créé par Jakub Horyna (aussi connu sous le nom de BXBX), un programmeur d'Arma 3. Il l'a conçu sur son temps libre et ce pack a été publié en tant que "mod officiel" dans le but de faire connaître aux joueurs la qualité du contenu proposé par la communauté. Amusez-vous bien !</French>
-      <Spanish>El paquete de armas ADR-97 está compuesto por una colección de variantes de la metralleta ADR-97. Inicialmente, la creó un programador de Arma 3, Jakub Horyna (alias BXBX), en su tiempo libre y se lanzó como «mod oficial» para ayudar a los jugadores a descubrir las posibilidades del contenido personalizado. ¡Disfrútala!</Spanish>
-      <Italian>Il Pacchetto Armi ADR-97 consiste in una collezione di varianti del mitra ADR-97. È stato originariamente creato da Jakub Horyna (alias BXBX), un programmatore di Arma 3, durante il suo tempo libero e rilasciato come "mod ufficiale" per aiutare i giocatori a scoprire le possibilità offerte dai contenuti personalizzati. Buon divertimento!</Italian>
-      <Polish>Pakiet broni ADR-97 składa się z kompletu wariantów pistoletu maszynowego ADR-97. Jego autorem jest programista Arma 3 Jakub Horyna (vel BXBX), który stworzył go w czasie wolnym i udostępnił jako „oficjalny mod”, aby zaprezentować możliwości, jakie oferuje tworzona przez graczy zawartość. Dobrej zabawy!</Polish>
-      <Russian>Комплект оружия ADR-97 включает в себя набор пистолетов-пулеметов ADR-97 различной комплектации. Он изначально был разработан программистом Arma 3 Якубом Хорина (также известным как BXBX). Якуб разработал его в свободное от работы время. Комплект был выпущен в качестве «официального мода», чтобы помочь игрокам раскрыть полный потенциал пользовательского контента. Приятной вам игры!</Russian>
-      <German>Das ADR97-Waffenpaket beinhaltet eine Reihe verschiedener Ausführungen der ADR-97-Maschinenpistole. Es wurde ursprünglich von Jakub Horyna (alias BXBX), einem Arma 3-Programmierer, als Freizeitprojekt geschaffen und jetzt als "offizieller Mod" veröffentlicht, um Spielern die Möglichkeiten selbst kreierter Inhalte zu präsentieren. Viel Spaß damit!</German>
-      <Czech>Zbraňový balíček ADR-97 sestává ze sady variant samopalu ADR-97. Balíček původně ve svém volném čase vytvořil Jakub Horyna (alias BXBX), programátor hry Arma 3. Balíček jsme původně vydali jako „oficiální mod“, abychom hráčům pomohli objevit možnosti vlastního obsahu. Tak ať to střílí!</Czech>
-      <English>The ADR-97 Weapon Pack consists of a collection of variants of the ADR-97 submachine gun. It was originally created by Jakub Horyna (aka BXBX), an Arma 3 Programmer, in his spare time and was released as an 'official mod' to help players discover the possibilities of custom content. Enjoy!</English>
-      <Portuguese>O Pacote de Armas ADR-97 consiste em uma coleção de variantes da submetralhadora ADR-97. Foi originalmente projetado no tempo livre do programador de Arma 3 Jakub Horyna (também conhecido como BXBX), sendo lançado como um “mod oficial” para ajudar os jogadores a descobrirem as possibilidades do conteúdo personalizado. Divirta-se!</Portuguese>
-      <Korean>ADR-97 무기팩은 ADR-97 기관단총의 다양한 변종으로 구성되어 있습니다. 이 팩은 원래 Arma 3 프로그래머인 Jakub Horyna (aka BXBX)가 취미로 개발했지만 추후 플레이어가 사용자 지정 콘텐츠의 가능성을 발견할 수 있도록 '공식적인 모드'로 출시되었습니다. 화이팅하십시오!</Korean>
-      <Chinesesimp>ADR-97 武器包含有 ADR-97 冲锋枪的一系列变款。它最初由 Arma 3 程序员 Jakub Horyna (aka BXBX) 利用业余时间设计，并以“官方修改模块”的形式发布，以帮助玩家发掘定制内容的各种可能性。尽情享用吧！</Chinesesimp>
-      <Japanese>ADR-97 ウェポンパックには ADR-97 サブマシンガンの派生型が含まれています。本来 Arma 3 のプログラマーである Jakub Horyna（別名 BXBX）が暇な時に作ったもので、プレイヤーにカスタムコンテンツのあらゆる可能性を紹介するために「公式 MOD」としてリリースされました。お楽しみください！</Japanese>
-      <Turkish>ADR-97 Silah Paketi, ADR-97 makineli tabancanın çeşitli varyantlarını içerir. Arma 3 Programcısı Jakub Horyna'nın (diğer adıyla BXBX) boş vaktinde oluşturduğu bu paket, oyuncuların, özel içeriklerin sağladığı olanakları keşfetmesine yardımcı olmak için “resmi mod” olarak sunulmuştur. İyi eğlenceler!</Turkish>
+      <Chinese>ADR-97武器包含有ADR-97衝鋒槍的一系列變款。它最初由武裝突襲3程式師Jakub Horyna (aka BXBX)利用業餘時間設計而成，並以"官方修改模組"的形式發佈，以便玩家探索定制內容的諸多潛能。盡情遊玩吧！</Chinese>
+      <Chinesesimp>ADR-97武器包含有ADR-97冲锋枪的一系列变款。它最初由武装突袭3程序员Jakub Horyna (aka BXBX)利用业余时间设计，并以"官方修改模块"的形式发布，以帮助玩家发掘定制内容的各种可能性。尽情享用吧！</Chinesesimp>
     </Key>
     <Key ID="STR_A3_cfgWeapons_muzzle_snds_570">
       <Original>Sound Suppressor (5.7 mm)</Original>
-      <Chinese>消聲器（5.7 公釐）</Chinese>
-      <French>Silencieux (5,7 mm)</French>
-      <Spanish>Silenciador (5,7 mm)</Spanish>
-      <Italian>Silenziatore (5.7 mm)</Italian>
-      <Polish>Tłumik (5,7 mm)</Polish>
-      <Russian>Глушитель (5,7 мм)</Russian>
-      <German>Schalldämpfer (5,7 mm)</German>
-      <Czech>Tlumič (5,7 mm)</Czech>
-      <English>Sound Suppressor (5.7 mm)</English>
-      <Portuguese>Supressor de som (5,7 mm)</Portuguese>
-      <Korean>소음기 (5.7mm)</Korean>
-      <Chinesesimp>消声器（5.7 毫米）</Chinesesimp>
-      <Japanese>サウンドサプレッサー(5.7 mm)</Japanese>
-      <Turkish>Ses Susturucusu (5.7 mm)</Turkish>
+      <Chinese>消聲器（5.7公厘）</Chinese>
+      <Chinesesimp>消声器（5.7毫米）</Chinesesimp>
     </Key>
   </Package>
 </Project>
