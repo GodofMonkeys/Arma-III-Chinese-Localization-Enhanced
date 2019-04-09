@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/GodofMonkeys/Arma-III-Chinese-Localization-Enhanced/releases/latest">
-        <img src="https://img.shields.io/badge/Version-3.1-blue.svg?style=flat-square" alt="Arma 3 Chinese Localization Enhanced Version">
+        <img src="https://img.shields.io/badge/Version-4.0-blue.svg?style=flat-square" alt="Arma 3 Chinese Localization Enhanced Version">
     </a>
     <a href="https://github.com/GodofMonkeys/Arma-III-Chinese-Localization-Enhanced/issues">
         <img src="https://img.shields.io/github/issues-raw/GodofMonkeys/Arma-III-Chinese-Localization-Enhanced.svg?style=flat-square&label=Issues" alt="Arma 3 Chinese Localization Enhanced Issues">
