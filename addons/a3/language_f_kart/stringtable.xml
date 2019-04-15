@@ -398,8 +398,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_c_driver_1_f0">
         <Original>Driver (Fuel)</Original>
-        <Chinese>賽車手(Fuel)</Chinese>
-        <Chinesesimp>赛车手(Fuel)</Chinesesimp>
+        <Chinese>賽車手(燃油公司)</Chinese>
+        <Chinesesimp>赛车手(燃油公司)</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_cap_marshal0">
         <Original>Marshal Cap</Original>
@@ -413,8 +413,8 @@
       </Key>
       <Key ID="str_a3_karts_uniform00">
         <Original>Driver Coverall (Fuel)</Original>
-        <Chinese>賽車手連身服(Fuel)</Chinese>
-        <Chinesesimp>赛车手连身服(Fuel)</Chinesesimp>
+        <Chinese>賽車手連身服(燃油公司)</Chinese>
+        <Chinesesimp>赛车手连身服(燃油公司)</Chinesesimp>
       </Key>
       <Key ID="str_a3_karts_uniform01">
         <Original>Driver Coverall (Bluking)</Original>
@@ -473,8 +473,8 @@
       </Key>
       <Key ID="str_a3_kart_uniforms13">
         <Original>Driver Coverall (Fuel)</Original>
-        <Chinese>賽車手連身服(Fuel)</Chinese>
-        <Chinesesimp>赛车手连身服(Fuel)</Chinesesimp>
+        <Chinese>賽車手連身服(燃油公司)</Chinese>
+        <Chinesesimp>赛车手连身服(燃油公司)</Chinesesimp>
       </Key>
       <Key ID="str_a3_h_racinghelmet_1_blue_f0">
         <Original>Racing Helmet (Blue)</Original>
@@ -659,8 +659,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_c_kart_01_fuel_f0">
         <Original>Kart (Fuel)</Original>
-        <Chinese>卡丁車(Fuel)</Chinese>
-        <Chinesesimp>卡丁车(Fuel)</Chinesesimp>
+        <Chinese>卡丁車(燃油公司)</Chinese>
+        <Chinesesimp>卡丁车(燃油公司)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_c_kart_01_red_f0">
         <Original>Kart (Redstone)</Original>
@@ -721,13 +721,13 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsors_fuel_white_f0">
         <Original>Sign (Fuel, white - Small)</Original>
-        <Chinese>標誌(Fuel，白色-小)</Chinese>
-        <Chinesesimp>标志(Fuel，白色-小)</Chinesesimp>
+        <Chinese>標誌(燃油公司，白色-小)</Chinese>
+        <Chinesesimp>标志(燃油公司，白色-小)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsors_fuel_green_f0">
         <Original>Sign (Fuel, green - Small)</Original>
-        <Chinese>標誌(Fuel，綠色-小)</Chinese>
-        <Chinesesimp>标志(Fuel，绿色-小)</Chinesesimp>
+        <Chinese>標誌(燃油公司，綠色-小)</Chinese>
+        <Chinesesimp>标志(燃油公司，绿色-小)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsors_burstkoke_f0">
         <Original>Sign (Burstkoke - Small)</Original>
@@ -751,8 +751,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsor_fuel_white_f0">
         <Original>Sign (Fuel, white)</Original>
-        <Chinese>標誌(Fuel，白色)</Chinese>
-        <Chinesesimp>标志(Fuel，白色)</Chinesesimp>
+        <Chinese>標誌(燃油公司，白色)</Chinese>
+        <Chinesesimp>标志(燃油公司，白色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_tyrebarrier_01_black_f0">
         <Original>Tire Barrier (Black, 1)</Original>
@@ -766,8 +766,8 @@
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsor_fuel_green_f0">
         <Original>Sign (Fuel, green)</Original>
-        <Chinese>標誌(Fuel，綠色)</Chinese>
-        <Chinesesimp>标志(Fuel，绿色)</Chinesesimp>
+        <Chinese>標誌(燃油公司，綠色)</Chinese>
+        <Chinesesimp>标志(燃油公司，绿色)</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgvehicles_signad_sponsor_burstkoke_f0">
         <Original>Sign (Burstkoke)</Original>

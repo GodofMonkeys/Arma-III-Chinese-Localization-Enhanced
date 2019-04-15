@@ -215,7 +215,7 @@
       <Key ID="str_a3_combatpatrol_mission_68">
         <Original>Search the AO for the three SIGINT arrays and download any intel available.</Original>
         <Chinese>搜索任務區中的三個訊號終端機，並從上面下載情報。</Chinese>
-        <Chinesesimp>搜索任务区中的三个讯号终端机，并从上面下载情报。</Chinesesimp>
+        <Chinesesimp>搜索任务区中的三个信号终端机，并从上面下载情报。</Chinesesimp>
       </Key>
       <Key ID="str_a3_combatpatrol_mission_67">
         <Original>Find and kill the high-ranking enemy officer before he leaves the AO.</Original>

@@ -1808,8 +1808,8 @@
             </Key>
             <Key ID="str_a3_exp_m05_x15_keystonesuppressed_rik_2">
               <Original>Raider 2, we need to move from here, now! Keep moving!</Original>
-              <Chinese>"突襲者2"，我們必需馬上離開這裡!趕快移動!</Chinese>
-              <Chinesesimp>"突袭者2"，我们必需马上离开这里!赶快移动!</Chinesesimp>
+              <Chinese>"突襲者2"，我們必須馬上離開這裡!趕快移動!</Chinese>
+              <Chinesesimp>"突袭者2"，我们必须马上离开这里!赶快移动!</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m05_x15_keystonesuppressed_rik_3">
               <Original>Raider 2, support-fire!</Original>
@@ -2281,8 +2281,8 @@
             </Key>
             <Key ID="str_a3_exp_m05_25_boatdestroyed_rik_2">
               <Original>We need to move, get into cover!</Original>
-              <Chinese>我們必需移動，快找掩護!</Chinese>
-              <Chinesesimp>我们必需移动，快找掩护!</Chinesesimp>
+              <Chinese>我們必須移動，快找掩護!</Chinese>
+              <Chinesesimp>我们必须移动，快找掩护!</Chinesesimp>
             </Key>
           </Container>
           <Container name="20_WaitForBoat" audioFilePath="\a3\dubbing_f_exp\exp_m05" dialogName="20_WaitForBoat" dubbingLanguage="english" namePrefix="exp_m05_20_waitforboat" note="" participants="EXC B CTRG Commander;EXC B Riker;" situation="players reach the extraction position and have to wait for the boat which will transport them">
@@ -2826,8 +2826,8 @@
             </Key>
             <Key ID="str_a3_exp_m06_b20_projecteastwind_lia_0">
               <Original>'Viper'? Where have I heard that before..?</Original>
-              <Chinese>'"毒蛇"'?我好像在哪裡有聽過...?</Chinese>
-              <Chinesesimp>'"毒蛇"'?我好像在哪里有听过...?</Chinesesimp>
+              <Chinese>"毒蛇"?我好像在哪裡有聽過...?</Chinese>
+              <Chinesesimp>"毒蛇"?我好像在哪里有听过...?</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b20_projecteastwind_mil_0">
               <Original>The fact is, we have scant intel. The little we have is classified.</Original>
@@ -2836,8 +2836,8 @@
             </Key>
             <Key ID="str_a3_exp_m06_b20_projecteastwind_mil_1">
               <Original>CTRG has been tracking a clandestine network of CSAT operatives. We know them as 'Viper'.</Original>
-              <Chinese>戰研小組一直都在追蹤廣協同盟秘密部隊的通訊網路。這就是我們所知道的'"毒蛇"'。</Chinese>
-              <Chinesesimp>战研大队一直都在追踪广协同盟秘密部队的通信网络。这就是我们所知道的'"毒蛇"'。</Chinesesimp>
+              <Chinese>戰研小組一直都在追蹤廣協同盟秘密部隊的通訊網路。這就是我們所知道的"毒蛇"。</Chinese>
+              <Chinesesimp>战研大队一直都在追踪广协同盟秘密部队的通信网络。这就是我们所知道的"毒蛇"。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m06_b20_projecteastwind_mil_2">
               <Original>Group 14 got close in the Med, but the opportunity slipped away.</Original>
@@ -4234,8 +4234,8 @@
             </Key>
             <Key ID="str_a3_exp_m02_b30_context_3_com_1">
               <Original>We ran your intel. 'Warlock', right?</Original>
-              <Chinese>我們讀了你的情報。'"術士"'，對吧?</Chinese>
-              <Chinesesimp>我们读了你的情报。'"术士"'，对吧?</Chinesesimp>
+              <Chinese>我們讀了你的情報。'術士'，對吧?</Chinese>
+              <Chinesesimp>我们读了你的情报。'术士'，对吧?</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m02_b30_context_3_lia_0">
               <Original>We've been tracking 'Syndikat' for a while. Face value? Bunch of thugs. Guns, drugs. Very violent.</Original>
@@ -5645,8 +5645,8 @@
             </Key>
             <Key ID="str_a3_exp_m04_15_defeated_rik_1">
               <Original>Be advised, multiple enemy dead; 1 times friendly, type 3 casualty, walking wounded. Truck's on his feet now.</Original>
-              <Chinese>請注意，我們已擊斃多名敵軍;1名友軍，3型傷員，還可步行。"卡車"他撐住了。</Chinese>
-              <Chinesesimp>请注意，我们已击毙多名敌军;1名友军，3型伤员，还可步行。"卡车"可以走路了。</Chinesesimp>
+              <Chinese>請注意，我們已擊斃多名敵軍;1名友軍，3名傷員，還可步行。"卡車"他撐住了。</Chinese>
+              <Chinesesimp>请注意，我们已击毙多名敌军;1名友军，3名伤员，还可步行。"卡车"可以走路了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_exp_m04_15_defeated_rik_2">
               <Original>Further to my last, the enemy we engaged were not Syndikat. They look way higher up the food chain.</Original>
@@ -7111,8 +7111,8 @@
           </Key>
           <Key ID="str_a3_exp_m01_sitrep02">
             <Original>CTRG Group 15, Team 2 - 'Raider 2'</Original>
-            <Chinese>戰研小組15分隊，2號小隊-'"突襲者2"'</Chinese>
-            <Chinesesimp>战研大队15大队，2号小队-'"突袭者2"'</Chinesesimp>
+            <Chinese>戰研小組15分隊，2號小隊-"突襲者2"</Chinese>
+            <Chinesesimp>战研大队15大队，2号小队-"突袭者2"</Chinesesimp>
           </Key>
           <Key ID="str_a3_exp_m01_sitrep01">
             <Original>Southern Tanoa, deep in enemy territory</Original>

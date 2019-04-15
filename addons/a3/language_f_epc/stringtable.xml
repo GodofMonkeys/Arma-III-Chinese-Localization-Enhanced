@@ -187,7 +187,7 @@
       <Key ID="str_a3_cfgmagazines_20rnd_105mm_heat0">
         <Original>105mm HEAT-MP</Original>
         <Chinese>105公厘高爆穿甲多用途彈</Chinese>
-        <Chinesesimp>105毫米破甲多用途弹</Chinesesimp>
+        <Chinesesimp>105毫米高爆破甲多用途弹</Chinesesimp>
       </Key>
       <Key ID="str_a3_cfgmagazines_40rnd_105mm_apfsds_t0">
         <Original>105mm APFSDS-T</Original>
@@ -212,7 +212,7 @@
       <Key ID="STR_A3_CfgMagazines_12Rnd_125mm_HEAT_T0">
         <Original>125mm HEAT-T</Original>
         <Chinese>125公厘高爆穿甲曳光彈</Chinese>
-        <Chinesesimp>125毫米破甲曳光弹</Chinesesimp>
+        <Chinesesimp>125毫米高爆破甲曳光弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMagazines_12Rnd_125mm_HE_T0">
         <Original>125mm HE-T</Original>
@@ -227,12 +227,12 @@
       <Key ID="STR_A3_cfgmagazines_heat_mp0">
         <Original>HEAT-MP</Original>
         <Chinese>高爆穿甲多用途彈</Chinese>
-        <Chinesesimp>破甲多用途弹</Chinesesimp>
+        <Chinesesimp>高爆破甲多用途弹</Chinesesimp>
       </Key>
       <Key ID="STR_A3_cfgmagazines_heat_mp_t0">
         <Original>HEAT-MP-T</Original>
         <Chinese>高爆穿甲多用途曳光彈</Chinese>
-        <Chinesesimp>破甲多用途曳光弹</Chinesesimp>
+        <Chinesesimp>高爆破甲多用途曳光弹</Chinesesimp>
       </Key>
     </Container>
     <Container name="Air_F">
@@ -839,7 +839,7 @@
       </Key>
       <Key ID="STR_A3_CfgMusic_BackgroundTrack03_F_EPC">
         <Original>Stage C: Background Track 03 (Altis Requiem)</Original>
-        <Chinese>第三章:背景音軌03(Altis的輓歌)</Chinese>
+        <Chinese>第三章:背景音軌03(阿爾蒂斯的輓歌)</Chinese>
         <Chinesesimp>第三章:背景音轨03(阿尔蒂斯挽歌)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_BackgroundTrack04_F_EPC">
@@ -849,7 +849,7 @@
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack01_F_EPC">
         <Original>Stage C: Event Track 01 (Farewell Altis)</Original>
-        <Chinese>第三章:事件音軌01(永別了Altis)</Chinese>
+        <Chinese>第三章:事件音軌01(永別了阿爾蒂斯)</Chinese>
         <Chinesesimp>第三章:事件音轨01(永别了阿尔蒂斯)</Chinesesimp>
       </Key>
       <Key ID="STR_A3_CfgMusic_EventTrack02b_F_EPC">

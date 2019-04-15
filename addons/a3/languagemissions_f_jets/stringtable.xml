@@ -426,7 +426,7 @@
         <Key ID="str_a3_showcase_jets_65_minordamage_tower_0">
           <Original>Message received, Hornet-2. Abort mission. Over.</Original>
           <Chinese>收到訊息，"大黃蜂2"。中止任務。完畢。</Chinese>
-          <Chinesesimp>收到讯息，"大黄蜂2"。中止任务。完毕。</Chinesesimp>
+          <Chinesesimp>收到信息，"大黄蜂2"。中止任务。完毕。</Chinesesimp>
         </Key>
         <Key ID="str_a3_showcase_jets_70_majordamage_pilot_0">
           <Original>Mayday! Mayday! Mayday! This is Hornet-2, losing altitude!</Original>

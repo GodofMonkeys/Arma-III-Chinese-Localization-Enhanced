@@ -41,7 +41,7 @@
     <Container name="ModuleTexts">
       <Key ID="str_a3_wl_param9_desc">
         <Original>Enables/disables the fatigue effect.</Original>
-        <Chinese>開啟／關閉疲勞效果。</Chinese>
+        <Chinese>開啟/關閉疲勞效果。</Chinese>
         <Chinesesimp>启用/禁用疲劳效果。</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_param8_title">
@@ -256,8 +256,8 @@
       </Key>
       <Key ID="str_a3_wl_param21_desc">
         <Original>CfgDebriefing classname.</Original>
-        <Chinese>CfgDebriefing 等級名稱。</Chinese>
-        <Chinesesimp>CfgDebriefing 分类名称。</Chinesesimp>
+        <Chinese>CfgDebriefing等級名稱。</Chinese>
+        <Chinesesimp>CfgDebriefing分类名称。</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_param20_title">
         <Original>Automatic scenario end</Original>
@@ -286,8 +286,8 @@
       </Key>
       <Key ID="str_a3_wl_param19_desc">
         <Original>Assets available in the Request menu. Array of CfgWLRequisitionPresets config entries.</Original>
-        <Chinese>索取選單中可使用的資產。CfgWLRequisitionPresets 設定輸入陣列。</Chinese>
-        <Chinesesimp>"请求"菜单中的可用资产。CfgWLRequisitionPresets 配置项目列表。</Chinesesimp>
+        <Chinese>索取選單中可使用的資產。CfgWLRequisitionPresets設定輸入陣列。</Chinese>
+        <Chinesesimp>"请求"菜单中的可用资产。CfgWLRequisitionPresets配置项目列表。</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_param18_title">
         <Original>Independent Faction Config</Original>
@@ -357,12 +357,12 @@
       </Key>
       <Key ID="str_a3_wl_param11_desc">
         <Original>Enables/disables voice notifications.</Original>
-        <Chinese>開啟／關閉語音通知。</Chinese>
+        <Chinese>開啟/關閉語音通知。</Chinese>
         <Chinesesimp>启用/禁用语音通知。</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_param10_desc">
         <Original>Enables/disables random background music.</Original>
-        <Chinese>開啟／關閉隨機背景音樂。</Chinese>
+        <Chinese>開啟/關閉隨機背景音樂。</Chinese>
         <Chinesesimp>启用/禁用随机背景音乐。</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_module_spawn_name">
@@ -407,8 +407,8 @@
       </Key>
       <Key ID="str_a3_wl_moduledesc_init">
         <Original>Warlords initialization module. Place it anywhere on the map.</Original>
-        <Chinese>軍閥 初始模組。可放置在地圖上的任意位置。</Chinese>
-        <Chinesesimp>军阀 初始化模块。将其放在地图上的任意地方。</Chinesesimp>
+        <Chinese>軍閥初始模組。可放置在地圖上的任意位置。</Chinese>
+        <Chinesesimp>军阀初始化模块。将其放在地图上的任意地方。</Chinesesimp>
       </Key>
       <Key ID="str_a3_wl_moduledesc_base">
         <Original>Place the module in the spot you want to have a faction base. One of these modules needs to be used for each faction (BLUFOR and OPFOR). Don't forget to set the proper side in the module dialog.</Original>
@@ -1127,8 +1127,8 @@
       </Key>
       <Key ID="str_a3_wl_moddescription">
         <Original>%11%1Warlords is a fully modular and vastly scalable multiplayer mode where players participate in a %3Capture the Island%4 scenario through %3sector control%4. It offers both COOP and PVP gameplay, as well as a Singleplayer experience with AI teammates and opponents.%1%1BLUFOR and OPFOR are tasked with securing sectors guarded by the Independent faction. These sectors form a link between bases and generate Command Points which can then be used as currency to purchase additional troops, hardware, or other strategic advantages, such as fast travel. The first faction to capture the opposing side's starting base wins the match.</Original>
-        <Chinese>%11%1軍閥是一個可大幅延展的全模組式多人遊戲模式，在此模式下，玩家將透過%3防區控制%4參與 %3Capture the Island%4 場景。它提供合作和PVP兩種遊戲玩法，並透過AI隊員和對手賦予單人遊戲體驗。%1%1藍方和紅方的任務是奪取由獨立陣營把守的防區。這些防區將基地銜接起來，並能生成指揮點數，用作貨幣來購買額外的部隊、裝備或其他戰略優勢，如快速行進。最先奪取敵方初始基地的陣營將在比賽中獲勝。</Chinese>
-        <Chinesesimp>%11%1军阀是一个可大幅扩展的全模块式多人游戏模式，在此模式下，玩家将通过%3防区控制%4参与 %3Capture the Island%4 场景。它提供合作和PVP两种游戏玩法，并在AI队员和对手的配合下赋予单人游戏体验。%1%1蓝方和红方的任务是夺取由独立阵营守卫的防区。这些防区将基地连接起来，并能生成指挥点数，用作货币来购买更多部队、装备或其他战略优势，如快速行进。最先夺取敌方初始基地的阵营将赢得比赛。</Chinesesimp>
+        <Chinese>%11%1軍閥是一個可大幅延展的全模組式多人遊戲模式，在此模式下，玩家將透過%3防區控制%4參與%3Capture the Island%4場景。它提供合作和PVP兩種遊戲玩法，並透過AI隊員和對手賦予單人遊戲體驗。%1%1藍方和紅方的任務是奪取由獨立陣營把守的防區。這些防區將基地銜接起來，並能生成指揮點數，用作貨幣來購買額外的部隊、裝備或其他戰略優勢，如快速行進。最先奪取敵方初始基地的陣營將在比賽中獲勝。</Chinese>
+        <Chinesesimp>%11%1军阀是一个可大幅扩展的全模块式多人游戏模式，在此模式下，玩家将通过%3防区控制%4参与%3Capture the Island%4场景。它提供合作和PVP两种游戏玩法，并在AI队员和对手的配合下赋予单人游戏体验。%1%1蓝方和红方的任务是夺取由独立阵营守卫的防区。这些防区将基地连接起来，并能生成指挥点数，用作货币来购买更多部队、装备或其他战略优势，如快速行进。最先夺取敌方初始基地的阵营将赢得比赛。</Chinesesimp>
  
       </Key>
       <Key ID="str_a3_wl_popup_voting_reset_user">

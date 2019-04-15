@@ -3683,7 +3683,7 @@
         </Key>
         <Key ID="str_a3_credits_andeverybodyelse">
           <Original>...and everybody else involved!</Original>
-          <Chinese>......以及所有相關人士!</Chinese>
+          <Chinese>...以及所有相關人士!</Chinese>
           <Chinesesimp>...以及所有其他参与者!</Chinesesimp>
         </Key>
         <Key ID="str_a3_credits_additionalvoiceactors">
@@ -8431,8 +8431,8 @@
       </Key>
       <Key ID="STR_MSG_RESTART_EDITOR">
         <Original>All unsaved progress will be lost (editor restart is required).</Original>
-        <Chinese>將丟失所有未保存的進度(編輯器必需重新啟動)。</Chinese>
-        <Chinesesimp>将丢失所有未保存的进度(编辑器必需重新启动)。</Chinesesimp>
+        <Chinese>將丟失所有未保存的進度(編輯器必須重新啟動)。</Chinese>
+        <Chinesesimp>将丢失所有未保存的进度(编辑器必须重新启动)。</Chinesesimp>
       </Key>
       <Key ID="STR_MSG_SITE_EMPTY">
         <Original>Site name is empty.</Original>
@@ -24584,8 +24584,8 @@
         </Key>
         <Key ID="str_msg_wait_connecting">
           <Original>Connecting … wait for host.</Original>
-          <Chinese>連線中......等待伺服器。</Chinese>
-          <Chinesesimp>连线中......等待服务器。</Chinesesimp>
+          <Chinese>連線中...等待伺服器。</Chinese>
+          <Chinesesimp>连线中...等待服务器。</Chinesesimp>
         </Key>
         <Key ID="str_msg_wait_for_others">
           <Original>Wait for others.</Original>

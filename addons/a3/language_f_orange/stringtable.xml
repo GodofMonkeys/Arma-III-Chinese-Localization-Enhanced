@@ -2368,8 +2368,8 @@
       </Key>
       <Key ID="str_a3_c_man_constructionworker_01_vrana_f0">
         <Original>Construction Worker (Vrana)</Original>
-        <Chinese>建築工人(Vrana)</Chinese>
-        <Chinesesimp>建筑工人(Vrana)</Chinesesimp>
+        <Chinese>建築工人(沃爾納企業)</Chinese>
+        <Chinesesimp>建筑工人(沃尔纳企业)</Chinesesimp>
       </Key>
       <Key ID="str_a3_c_man_constructionworker_01_red_f0">
         <Original>Construction Worker (Red)</Original>
@@ -2678,8 +2678,8 @@
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_headset_vrana_f0">
           <Original>Hard Hat (Vrana, Headset)</Original>
-          <Chinese>安全帽(Vrana，耳機)</Chinese>
-          <Chinesesimp>安全帽(Vrana，耳机)</Chinesesimp>
+          <Chinese>安全帽(沃爾納企業，耳機)</Chinese>
+          <Chinesesimp>安全帽(沃尔纳企业，耳机)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_headset_red_f0">
           <Original>Hard Hat (Red, Headset)</Original>
@@ -2708,8 +2708,8 @@
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_earprot_vrana_f0">
           <Original>Hard Hat (Vrana, Ear Protectors)</Original>
-          <Chinese>安全帽(Vrana，護耳)</Chinese>
-          <Chinesesimp>安全帽(Vrana，护耳)</Chinesesimp>
+          <Chinese>安全帽(沃爾納企業，護耳)</Chinese>
+          <Chinesesimp>安全帽(沃尔纳企业，护耳)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_earprot_red_f0">
           <Original>Hard Hat (Red, Ear Protectors)</Original>
@@ -2738,8 +2738,8 @@
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_basic_vrana_f0">
           <Original>Hard Hat (Vrana)</Original>
-          <Chinese>安全帽(Vrana)</Chinese>
-          <Chinesesimp>安全帽(Vrana)</Chinesesimp>
+          <Chinese>安全帽(沃爾納企業)</Chinese>
+          <Chinesesimp>安全帽(沃尔纳企业)</Chinesesimp>
         </Key>
         <Key ID="str_a3_cfgweapons_h_construction_basic_red_f0">
           <Original>Hard Hat (Red)</Original>
@@ -2835,8 +2835,8 @@
         </Key>
         <Key ID="str_a3_cfgweapons_u_c_constructioncoverall_vrana_f0">
           <Original>Construction Coverall (Vrana)</Original>
-          <Chinese>建築工工作服(Vrana)</Chinese>
-          <Chinesesimp>建筑工工作服(Vrana)</Chinesesimp>
+          <Chinese>建築工工作服(沃爾納企業)</Chinese>
+          <Chinesesimp>建筑工工作服(沃尔纳企业)</Chinesesimp>
         </Key>
       </Container>
       <Container name="Vests">

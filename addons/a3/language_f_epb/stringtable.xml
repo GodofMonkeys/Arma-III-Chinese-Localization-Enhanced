@@ -1138,8 +1138,8 @@
         </Key>
         <Key ID="str_a3_mdl_poster_description">
           <Original>Creates posters and leafets on walls of buildings. Those buildings are made indestructible.</Original>
-          <Chinese>創建抗議標語與傳單到建築物的牆壁上。這些建築物必需是堅不可摧的。</Chinese>
-          <Chinesesimp>创建抗议标语与传单到建筑物的墙壁上。这些建筑物必需是坚不可摧的。</Chinesesimp>
+          <Chinese>創建抗議標語與傳單到建築物的牆壁上。這些建築物必須是堅不可摧的。</Chinese>
+          <Chinesesimp>创建抗议标语与传单到建筑物的墙壁上。这些建筑物必须是坚不可摧的。</Chinesesimp>
         </Key>
         <Key ID="str_a3_mdl_poster_radius">
           <Original>Radius</Original>

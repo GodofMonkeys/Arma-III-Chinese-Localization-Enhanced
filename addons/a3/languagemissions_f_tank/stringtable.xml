@@ -229,8 +229,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m02_033_ex_insubordination_arhq_1">
               <Original>Have you lost your fucking mind...?</Original>
-              <Chinese>你他媽的傻了嗎......?</Chinese>
-              <Chinesesimp>你他妈的傻了吗......?</Chinesesimp>
+              <Chinese>你他媽的傻了嗎...?</Chinese>
+              <Chinesesimp>你他妈的傻了吗...?</Chinesesimp>
             </Key>
           </Container>
           <Container name="032_ex_fubar" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m02" dialogName="032_ex_fubar" dubbingLanguage="english" namePrefix="ta_tanks_m02_032_ex_fubar" note="" participants="TA_arplayer;" situation="player's vehicle is beyond repair.">
@@ -248,8 +248,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m02_031_ex_left_ao_arhq_1">
               <Original>You better have a fucking good reason for veering off like this... Pantheon, out.</Original>
-              <Chinese>你最好給你玩脫成這樣找個特麼的好理由......"萬神殿"，通話完畢。</Chinese>
-              <Chinesesimp>你最好给你玩脱成这样找个特么的好理由......"万神殿"，通话完毕。</Chinesesimp>
+              <Chinese>你最好給你玩脫成這樣找個特麼的好理由..."萬神殿"，通話完畢。</Chinese>
+              <Chinesesimp>你最好给你玩脱成这样找个特么的好理由..."万神殿"，通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="030_ex_leaving_ao" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m02" dialogName="030_ex_leaving_ao" dubbingLanguage="english" namePrefix="ta_tanks_m02_030_ex_leaving_ao" note="" participants="TA_arhq;" situation="player attempts to leave the ao.">
@@ -324,8 +324,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m02_023_eve_support_tank_destroyed_arhq_2">
               <Original>Copy, Sergeant - Ares, proceed with caution... out.</Original>
-              <Chinese>收到，軍士-"阿瑞斯"，小心繼續......通話完畢。</Chinese>
-              <Chinesesimp>收到，军士-"阿瑞斯"，小心继续......通话完毕。</Chinesesimp>
+              <Chinese>收到，軍士-"阿瑞斯"，小心繼續...通話完畢。</Chinese>
+              <Chinesesimp>收到，军士-"阿瑞斯"，小心继续...通话完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m02_023_eve_support_tank_destroyed_arinfantrya_0">
               <Original>Pantheon, it's Apollo, we see smoke. Looks like Hades didn't make it, over.</Original>
@@ -456,13 +456,13 @@
           <Container name="012_eve_earthquake_02" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m02" dialogName="012_eve_earthquake_02" dubbingLanguage="english" namePrefix="ta_tanks_m02_012_eve_earthquake_02" note="" participants="TA_arplayer;" situation="the player experiences an earthquake.">
             <Key ID="str_a3_ta_tanks_m02_012_eve_earthquake_02_arplayer_0">
               <Original>The fuck...</Original>
-              <Chinese>特麼的......</Chinese>
-              <Chinesesimp>特么的......</Chinesesimp>
+              <Chinese>特麼的...</Chinese>
+              <Chinesesimp>特么的...</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m02_012_eve_earthquake_02_arplayer_1">
               <Original>They getting worse, or is it me...?</Original>
-              <Chinese>是越來越糟了，還是我......?</Chinese>
-              <Chinesesimp>是越来越糟了，还是我......?</Chinesesimp>
+              <Chinese>是越來越糟了，還是我...?</Chinese>
+              <Chinesesimp>是越来越糟了，还是我...?</Chinesesimp>
             </Key>
           </Container>
           <Container name="011_eve_earthquake_01" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m02" dialogName="011_eve_earthquake_01" dubbingLanguage="english" namePrefix="ta_tanks_m02_011_eve_earthquake_01" note="" participants="TA_apollo;TA_arhq;" situation="the player experiences another earthquake.">
@@ -490,8 +490,8 @@
           <Container name="010_ta_depot_destroyed" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m02" dialogName="010_ta_depot_destroyed" dubbingLanguage="english" namePrefix="ta_tanks_m02_010_ta_depot_destroyed" note="" participants="TA_arplayer;TA_arhq;" situation="player destroys nato's encampment.">
             <Key ID="str_a3_ta_tanks_m02_010_ta_depot_destroyed_arhq_0">
               <Original>Alright, Captain, good job. Turn around and get out of there, we just lost Kavala and the airport...</Original>
-              <Chinese>好了，上尉，幹得漂亮。掉頭離開那裡，我們剛剛丟掉了卡瓦拉和機場......</Chinese>
-              <Chinesesimp>好了，上尉，干得漂亮。掉头离开那里，我们刚刚丢掉了卡瓦拉和机场......</Chinesesimp>
+              <Chinese>好了，上尉，幹得漂亮。掉頭離開那裡，我們剛剛丟掉了卡瓦拉和機場...</Chinese>
+              <Chinesesimp>好了，上尉，干得漂亮。掉头离开那里，我们刚刚丢掉了卡瓦拉和机场...</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m02_010_ta_depot_destroyed_arhq_1">
               <Original>Troops are regrouping outside Pyrgos, we're going to have to make a stand.</Original>
@@ -874,8 +874,8 @@
             </Key>
             <Key ID="str_a3_tanks_m03_outro_01">
               <Original>Somehow, I survived that final battle...</Original>
-              <Chinese>不知怎的，我活過了最後一場戰鬥......</Chinese>
-              <Chinesesimp>不知怎的，我活过了最后一场战斗......</Chinesesimp>
+              <Chinese>不知怎的，我活過了最後一場戰鬥...</Chinese>
+              <Chinesesimp>不知怎的，我活过了最后一场战斗...</Chinesesimp>
             </Key>
             <Key ID="str_a3_tanks_m03_outro_06b_01">
               <Original>Now - as a prisoner - I await my fate.</Original>
@@ -909,8 +909,8 @@
             </Key>
             <Key ID="str_a3_tanks_m03_outro_05b">
               <Original>They singled me out, claiming I had murdered civilians...</Original>
-              <Chinese>他們把我單提出去，聲稱我謀殺了平民......</Chinese>
-              <Chinesesimp>他们把我单提出去，声称我谋杀了平民......</Chinesesimp>
+              <Chinese>他們把我單提出去，聲稱我謀殺了平民...</Chinese>
+              <Chinesesimp>他们把我单提出去，声称我谋杀了平民...</Chinesesimp>
             </Key>
             <Key ID="str_a3_tanks_m03_outro_02_02">
               <Original>But we came off the worst. Over a third of our forces were either dead or wounded.</Original>
@@ -982,8 +982,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m03_035_ex_angara_destroyed_alone_arplayer_1">
               <Original>Maybe there's still something I can do on foot...</Original>
-              <Chinese>可能我還能靠著兩條腿幹點什麼......</Chinese>
-              <Chinesesimp>可能我还能靠着两条腿干点什么......</Chinesesimp>
+              <Chinese>可能我還能靠著兩條腿幹點什麼...</Chinese>
+              <Chinesesimp>可能我还能靠着两条腿干点什么...</Chinesesimp>
             </Key>
           </Container>
           <Container name="034_ex_angara_destroyed" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m03" dialogName="034_ex_angara_destroyed" dubbingLanguage="english" namePrefix="ta_tanks_m03_034_ex_angara_destroyed" note="" participants="TA_arplayer;" situation="player's tanks is knocked out.">
@@ -994,8 +994,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m03_034_ex_angara_destroyed_arplayer_1">
               <Original>Alright... out! This shit ain't over, we'll do what we can on foot.</Original>
-              <Chinese>好吧......棄車!這事情可沒完，我們還得徒步接著干。</Chinese>
-              <Chinesesimp>好吧......弃车!这事情可没完，我们还得徒步接着干。</Chinesesimp>
+              <Chinese>好吧...棄車!這事情可沒完，我們還得徒步接著干。</Chinese>
+              <Chinesesimp>好吧...弃车!这事情可没完，我们还得徒步接着干。</Chinesesimp>
             </Key>
           </Container>
           <Container name="033_ex_angara01_destroyed" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m03" dialogName="033_ex_angara01_destroyed" dubbingLanguage="english" namePrefix="ta_tanks_m03_033_ex_angara01_destroyed" note="" participants="TA_arplayer;" situation="player does not need to destroy their tank, because it was destroyed in the fighting around panagia.">
@@ -1332,8 +1332,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m03_015_am_tanks_passed_arhq_2">
               <Original>Zeus...?</Original>
-              <Chinese>"宙斯"......?</Chinese>
-              <Chinesesimp>"宙斯"......?</Chinesesimp>
+              <Chinese>"宙斯"...?</Chinese>
+              <Chinesesimp>"宙斯"...?</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m03_015_am_tanks_passed_arhq_3">
               <Original>Acknowledge my last, over.</Original>
@@ -1496,8 +1496,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m03_008_ta_angara02_report_arhq_2">
               <Original>Copy that, destroy it completely...</Original>
-              <Chinese>明白了，把它完全摧毀......</Chinese>
-              <Chinesesimp>明白了，把它完全摧毁......</Chinesesimp>
+              <Chinese>明白了，把它完全摧毀...</Chinese>
+              <Chinesesimp>明白了，把它完全摧毁...</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m03_008_ta_angara02_report_arhq_3">
               <Original>NATO can't be allowed to capture it intact.</Original>
@@ -1547,8 +1547,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m03_005_ta_angara02_discovered_arplayer_1">
               <Original>I'm gonna look inside and check for survivors...</Original>
-              <Chinese>我得進去看看有沒有生還者......</Chinese>
-              <Chinesesimp>我得进去看看有没有生还者......</Chinesesimp>
+              <Chinese>我得進去看看有沒有生還者...</Chinese>
+              <Chinesesimp>我得进去看看有没有生还者...</Chinesesimp>
             </Key>
           </Container>
           <Container name="004_ta_angara_unknown" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m03" dialogName="004_ta_angara_unknown" dubbingLanguage="english" namePrefix="ta_tanks_m03_004_ta_angara_unknown" note="" participants="TA_arhq;TA_arplayer;" situation="hq attempts to contact a friendly tank but does not receive a response. hq tasks player to investigate.">
@@ -1630,8 +1630,8 @@
           <Container name="001_int_introduction_in" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m03" dialogName="001_int_introduction_in" dubbingLanguage="english" namePrefix="ta_tanks_m03_001_int_introduction_in" note="" participants="TA_arplayer;" situation="player passes some wounded comrades.">
             <Key ID="str_a3_ta_tanks_m03_001_int_introduction_in_arplayer_0">
               <Original>Hang in there, boys...</Original>
-              <Chinese>停一下，小伙子們......</Chinese>
-              <Chinesesimp>停一下，小伙子们......</Chinesesimp>
+              <Chinese>停一下，小伙子們...</Chinese>
+              <Chinesesimp>停一下，小伙子们...</Chinesesimp>
             </Key>
           </Container>
         </Container>
@@ -1879,8 +1879,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m01_073_ex_fuel_leak_arplayer_1">
               <Original>Gonna have to see to that...</Original>
-              <Chinese>早該預料到的......</Chinese>
-              <Chinesesimp>早该预料到的......</Chinesesimp>
+              <Chinese>早該預料到的...</Chinese>
+              <Chinesesimp>早该预料到的...</Chinesesimp>
             </Key>
           </Container>
           <Container name="072_ex_nyx_overturned_04" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="072_ex_nyx_overturned_04" dubbingLanguage="english" namePrefix="ta_tanks_m01_072_ex_nyx_overturned_04" note="" participants="TA_arplayer;" situation="player's vehicle has overturned.">
@@ -1974,8 +1974,8 @@
           <Container name="063_ex_toolkit_timeout" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="063_ex_toolkit_timeout" dubbingLanguage="english" namePrefix="ta_tanks_m01_063_ex_toolkit_timeout" note="" participants="TA_arplayer;TA_ardriver;" situation="player does not collect the toolkit in time and the task is cancelled. new task assigned, go to nyx.">
             <Key ID="str_a3_ta_tanks_m01_063_ex_toolkit_timeout_ardriver_0">
               <Original>No...?</Original>
-              <Chinese>蛤......?</Chinese>
-              <Chinesesimp>蛤......?</Chinesesimp>
+              <Chinese>蛤...?</Chinese>
+              <Chinesesimp>蛤...?</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_063_ex_toolkit_timeout_arplayer_0">
               <Original>I can't be assed with that toolkit, Gekas.</Original>
@@ -2034,8 +2034,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m01_058_loc_house_01_arplayer_1">
               <Original>I wonder what happened here...</Original>
-              <Chinese>這地方是怎麼了啊......</Chinese>
-              <Chinesesimp>这地方是怎么了啊......</Chinesesimp>
+              <Chinese>這地方是怎麼了啊...</Chinese>
+              <Chinesesimp>这地方是怎么了啊...</Chinesesimp>
             </Key>
           </Container>
           <Container name="057_eve_fia_report_out_ignored" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="057_eve_fia_report_out_ignored" dubbingLanguage="english" namePrefix="ta_tanks_m01_057_eve_fia_report_out_ignored" note="" participants="TA_arplayer;TA_arhq;" situation="the player does not neutralize fia guerrillas and continues on their task.">
@@ -2120,8 +2120,8 @@
           <Container name="050_eve_support_nyx_m_kill" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="050_eve_support_nyx_m_kill" dubbingLanguage="english" namePrefix="ta_tanks_m01_050_eve_support_nyx_m_kill" note="" participants="TA_arvehicle;" situation="supporting vehicle informs player that it is immobile.">
             <Key ID="str_a3_ta_tanks_m01_050_eve_support_nyx_m_kill_arvehicle_0">
               <Original>Ares, it's Hermes, we can't move...</Original>
-              <Chinese>"阿瑞斯"，這是"赫爾墨斯"，我們動不了了......</Chinese>
-              <Chinesesimp>"阿瑞斯"，这是"赫尔墨斯"，我们动不了了......</Chinesesimp>
+              <Chinese>"阿瑞斯"，這是"赫爾墨斯"，我們動不了了...</Chinese>
+              <Chinesesimp>"阿瑞斯"，这是"赫尔墨斯"，我们动不了了...</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_050_eve_support_nyx_m_kill_arvehicle_1">
               <Original>Nothing for it, we're gonna have to abandon stations and take it to 'em on foot.</Original>
@@ -2288,8 +2288,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m01_036_in_hunter_consequences_dead_arhq_1">
               <Original>Those locals? Bad call... they were hunters - not insurgents.</Original>
-              <Chinese>那些當地人?糟透了......他們是獵人-不是叛軍。</Chinese>
-              <Chinesesimp>那些当地人?糟透了......他们是猎人-不是叛军。</Chinesesimp>
+              <Chinese>那些當地人?糟透了...他們是獵人-不是叛軍。</Chinese>
+              <Chinesesimp>那些当地人?糟透了...他们是猎人-不是叛军。</Chinesesimp>
             </Key>
           </Container>
           <Container name="035_in_hunter_consequences_alive" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="035_in_hunter_consequences_alive" dubbingLanguage="english" namePrefix="ta_tanks_m01_035_in_hunter_consequences_alive" note="" participants="TA_arhq;" situation="player is informed that the hunter was indeed a civilian and that they did the right thing.">
@@ -2312,8 +2312,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m01_034_ta_village_captured_terrible_out_arhq_1">
               <Original>Those locals? Bad call... they were hunters - not insurgents.</Original>
-              <Chinese>那些當地人?糟透了......他們是獵人-不是叛軍。</Chinese>
-              <Chinesesimp>那些当地人?糟透了......他们是猎人-不是叛军。</Chinesesimp>
+              <Chinese>那些當地人?糟透了...他們是獵人-不是叛軍。</Chinese>
+              <Chinesesimp>那些当地人?糟透了...他们是猎人-不是叛军。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_034_ta_village_captured_terrible_out_arhq_2">
               <Original>A MEDEVAC's inbound.</Original>
@@ -2538,8 +2538,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m01_021_eve_checkpoint_b_report_arhq_2">
               <Original>Goddamn it... okay, come on back to base. Another group are en route to pick up the trail.</Original>
-              <Chinese>該死的......好吧，回基地來。另一支分隊已經來收集證據了。</Chinese>
-              <Chinesesimp>该死的......好吧，回基地来。另一支分队已经来收集证据了。</Chinesesimp>
+              <Chinese>該死的...好吧，回基地來。另一支分隊已經來收集證據了。</Chinese>
+              <Chinesesimp>该死的...好吧，回基地来。另一支分队已经来收集证据了。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_021_eve_checkpoint_b_report_arplayer_2">
               <Original>Negative. I don't think so. This is desertion.</Original>
@@ -2555,8 +2555,8 @@
           <Container name="074_intro" dialogName="074_intro" participants="TA_arplayer;">
             <Key ID="str_a3_tanks_m01_intro_06_02">
               <Original>So I began a conversion course and took command of one of their lighter cousins...</Original>
-              <Chinese>因此我參加了改裝訓練，開始指揮它們的一個更輕的"表兄弟"......</Chinese>
-              <Chinesesimp>因此我参加了改装训练，开始指挥它们的一个更轻的"表兄弟"......</Chinesesimp>
+              <Chinese>因此我參加了改裝訓練，開始指揮它們的一個更輕的"表兄弟"...</Chinese>
+              <Chinesesimp>因此我参加了改装训练，开始指挥它们的一个更轻的"表兄弟"...</Chinesesimp>
             </Key>
             <Key ID="str_a3_tanks_m01_intro_01">
               <Original>My name is Kyros Kalogeros. I was born in Kavala, at the turn of the millennium.</Original>
@@ -2617,8 +2617,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m01_020_ap_checkpoint_b_alone_arplayer_1">
               <Original>I better see what the fuck is going on...</Original>
-              <Chinese>我最好去看看到底特麼的發生什麼了......</Chinese>
-              <Chinesesimp>我最好去看看到底特么的发生什么了......</Chinesesimp>
+              <Chinese>我最好去看看到底特麼的發生什麼了...</Chinese>
+              <Chinesesimp>我最好去看看到底特么的发生什么了...</Chinesesimp>
             </Key>
           </Container>
           <Container name="019_ap_checkpoint_b" audioFilePath="\a3\dubbing_f_tank\ta_tanks_m01" dialogName="019_ap_checkpoint_b" dubbingLanguage="english" namePrefix="ta_tanks_m01_019_ap_checkpoint_b" note="" participants="TA_arplayer;TA_ardriver;" situation="player approaches second checkpoint.">
@@ -2765,8 +2765,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m01_011_ta_checkpoint_a_arofficer_5">
               <Original>Claims they go shooting together...</Original>
-              <Chinese>說他們一起去打獵......</Chinese>
-              <Chinesesimp>说他们一起去打猎......</Chinesesimp>
+              <Chinese>說他們一起去打獵...</Chinese>
+              <Chinesesimp>说他们一起去打猎...</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_011_ta_checkpoint_a_arofficer_6">
               <Original>That offroad though? It's been seen a few times on patrol.</Original>
@@ -2863,8 +2863,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m01_007_fil_conv_02_ardriver_1">
               <Original>They arrived in Pyrgos yesterday...</Original>
-              <Chinese>它們昨天到了皮爾戈斯......</Chinese>
-              <Chinesesimp>它们昨天到了皮尔戈斯......</Chinesesimp>
+              <Chinese>它們昨天到了皮爾戈斯...</Chinese>
+              <Chinesesimp>它们昨天到了皮尔戈斯...</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_007_fil_conv_02_ardriver_2">
               <Original>CSAT drove 'em to Almyra overnight.</Original>
@@ -2999,8 +2999,8 @@
             </Key>
             <Key ID="str_a3_ta_tanks_m01_004_ap_nyx_close_arplayer_1">
               <Original>Jesus, I forgot how small she is...</Original>
-              <Chinese>耶穌啊，我都忘了她有多小了......</Chinese>
-              <Chinesesimp>耶稣啊，我都忘了她有多小了......</Chinesesimp>
+              <Chinese>耶穌啊，我都忘了她有多小了...</Chinese>
+              <Chinesesimp>耶稣啊，我都忘了她有多小了...</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_tanks_m01_004_ap_nyx_close_arplayer_2">
               <Original>Sure, whatever gets you through the night.</Original>
@@ -3134,8 +3134,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_032_ex_leaving_ao_tdhq_1">
               <Original>You're leaving the AO... check your map and stay on task! Out.</Original>
-              <Chinese>你在離開作戰地域......檢查地圖，執行任務!通話完畢。</Chinese>
-              <Chinesesimp>你在离开作战地域......检查地图，执行任务!通话完毕。</Chinesesimp>
+              <Chinese>你在離開作戰地域...檢查地圖，執行任務!通話完畢。</Chinese>
+              <Chinesesimp>你在离开作战地域...检查地图，执行任务!通话完毕。</Chinesesimp>
             </Key>
           </Container>
           <Container name="031_ex_win_zulu_gone" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="031_ex_win_zulu_gone" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_031_ex_win_zulu_gone" note="" participants="TA_tdplayer;TA_tdhq;" situation="all friendly tanks are destroyed and player is ordered to retreat.">
@@ -3239,8 +3239,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_027_ex_rhino_lost_accident_tdplayer_1">
               <Original>I dunno how else to say this... our Rhino's wrecked, over.</Original>
-              <Chinese>我不知道我該怎麼說......我們的"犀牛"給撞壞了，完畢。</Chinese>
-              <Chinesesimp>我不知道我该怎么说......我们的"犀牛"给撞坏了，完毕。</Chinesesimp>
+              <Chinese>我不知道我該怎麼說...我們的"犀牛"給撞壞了，完畢。</Chinese>
+              <Chinesesimp>我不知道我该怎么说...我们的"犀牛"给撞坏了，完毕。</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_027_ex_rhino_lost_accident_tdhq_2">
               <Original>Abort the mission and return to the staging area. Out.</Original>
@@ -3251,8 +3251,8 @@
           <Container name="026_eve_goats_killed" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="026_eve_goats_killed" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_026_eve_goats_killed" note="" participants="TA_tdcharlie;" situation="player fires at a herd of goats.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_026_eve_goats_killed_tdcharlie_0">
               <Original>I hate goats...</Original>
-              <Chinese>我恨山羊......</Chinese>
-              <Chinesesimp>我恨山羊......</Chinesesimp>
+              <Chinese>我恨山羊...</Chinese>
+              <Chinesesimp>我恨山羊...</Chinesesimp>
             </Key>
           </Container>
           <Container name="025_eve_goats_killed_charlie" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="025_eve_goats_killed_charlie" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_025_eve_goats_killed_charlie" note="" participants="TA_tdcharlie;" situation="player fires at a herd of goats.">
@@ -3309,8 +3309,8 @@
           <Container name="022_am_win_bet_lower" audioFilePath="\a3\dubbing_f_tank\ta_showcase_tank_destroyers" dialogName="022_am_win_bet_lower" dubbingLanguage="english" namePrefix="ta_showcase_tank_destroyers_022_am_win_bet_lower" note="" participants="TA_tdplayer;TA_tdzulu;" situation="player loses his bet with zulu.">
             <Key ID="str_a3_ta_showcase_tank_destroyers_022_am_win_bet_lower_tdplayer_0">
               <Original>Ah, shit...</Original>
-              <Chinese>啊見鬼......</Chinese>
-              <Chinesesimp>啊见鬼......</Chinesesimp>
+              <Chinese>啊見鬼...</Chinese>
+              <Chinesesimp>啊见鬼...</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_022_am_win_bet_lower_tdzulu_0">
               <Original>Yup, that's what I thought. See you at the RV, clown dick. Out.</Original>
@@ -3424,8 +3424,8 @@
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_017_ta_destroy_aa_missed_tdplayer_0">
               <Original>Damn, we tried, but, uh, I dunno...</Original>
-              <Chinese>該死，我們試過了，但，呃，我不知道......</Chinese>
-              <Chinesesimp>该死，我们试过了，但，呃，我不知道......</Chinesesimp>
+              <Chinese>該死，我們試過了，但，呃，我不知道...</Chinese>
+              <Chinesesimp>该死，我们试过了，但，呃，我不知道...</Chinesesimp>
             </Key>
             <Key ID="str_a3_ta_showcase_tank_destroyers_017_ta_destroy_aa_missed_tdplayer_1">
               <Original>Bad datalink, maybe?</Original>
