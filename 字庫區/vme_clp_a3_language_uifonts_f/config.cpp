@@ -1,15 +1,10 @@
-////////////////////////////////////////////////////////////////////
-//DeRap: Produced from mikero's Dos Tools Dll version 4.17
-//Sun Mar 20 02:09:34 2016 : Source 'file' date Sun Mar 20 02:09:34 2016
-//http://dev-heaven.net/projects/list_files/mikero-pbodll
-////////////////////////////////////////////////////////////////////
+#include "BIS_AddonInfo.hpp"
 
 #define _ARMA_
 
 class CfgPatches
 {
-	class VME_CLP_A3_FONTS
-	{
+	class VME_CLP_A3_FONTS {
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 0.1;
@@ -18,46 +13,346 @@ class CfgPatches
 };
 class CfgFontFamilies
 {
-	class EtelkaMonospacePro
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+	class EtelkaMonospacePro {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46"
+		};
 	};
-	class EtelkaMonospaceProBold
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold30"};
+	class EtelkaMonospaceProBold {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46_b"
+		};
 	};
-	class EtelkaNarrowMediumPro
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+	class EtelkaNarrowMediumPro {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46"
+		};
 		spaceWidth = 0.9;
 		spacing = 0.17;
 	};
-	class PuristaBold
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold30"};
+	class PuristaBold {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46_b"
+		};
 	};
-	class PuristaLight
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+	class PuristaLight {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46"
+		};
 	};
-	class PuristaMedium
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+	class PuristaMedium {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46"
+		};
 	};
-	class PuristaSemibold
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold30"};
+	class PuristaSemibold {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46_b"
+		};
 	};
-	class RobotoCondensed
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+	class RobotoCondensed {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46"
+		};
 	};
-	class RobotoCondensedBold
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK-Bold30"};
+	class RobotoCondensedBold {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37_b",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46_b"
+		};
 	};
-	class RobotoCondensedLight
-	{
-		fonts[] = {"\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK13","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK15","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK20","\vme_clp_a3_language_uifonts_f_data\fonts\NotoSansCJK30"};
+	class RobotoCondensedLight {
+		fonts[] = {
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_6",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_7",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_8",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_9",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_10",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_11",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_12",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_13",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_14",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_15",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_16",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_17",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_18",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_19",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_20",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_21",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_22",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_23",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_24",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_25",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_26",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_27",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_28",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_29",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_30",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_31",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_34",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_35",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_37",
+			"\vme_clp_a3_language_uifonts_f_data\fonts\WenQuanYi_Micro_Hei_46"
+		};
 	};
 };
