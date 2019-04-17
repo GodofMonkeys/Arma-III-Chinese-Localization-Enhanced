@@ -1,14 +1,65 @@
 if not exist Fonts md Fonts
 
-fontToTga.exe -maxTexSize=2048 -size=20 "Noto Sans CJK TC Regular" Fonts\NotoSansCJK20
-fontToTga.exe -maxTexSize=2048 -size=30 "Noto Sans CJK TC Regular" Fonts\NotoSansCJK30
+fontToTga.exe -maxTexSize=2048 -size=6 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_6"
+fontToTga.exe -maxTexSize=2048 -size=7 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_7"
+fontToTga.exe -maxTexSize=2048 -size=8 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_8"
+fontToTga.exe -maxTexSize=2048 -size=9 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_9"
+fontToTga.exe -maxTexSize=2048 -size=10 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_10"
+fontToTga.exe -maxTexSize=2048 -size=11 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_11"
+fontToTga.exe -maxTexSize=2048 -size=12 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_12"
+fontToTga.exe -maxTexSize=2048 -size=13 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_13"
+fontToTga.exe -maxTexSize=2048 -size=14 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_14"
+fontToTga.exe -maxTexSize=2048 -size=15 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_15"
+fontToTga.exe -maxTexSize=2048 -size=16 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_16"
+fontToTga.exe -maxTexSize=2048 -size=17 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_17"
+fontToTga.exe -maxTexSize=2048 -size=18 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_18"
+fontToTga.exe -maxTexSize=2048 -size=19 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_19"
+fontToTga.exe -maxTexSize=2048 -size=20 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_20"
+fontToTga.exe -maxTexSize=2048 -size=21 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_21"
+fontToTga.exe -maxTexSize=2048 -size=22 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_22"
+fontToTga.exe -maxTexSize=2048 -size=23 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_23"
+fontToTga.exe -maxTexSize=2048 -size=24 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_24"
+fontToTga.exe -maxTexSize=2048 -size=25 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_25"
+fontToTga.exe -maxTexSize=2048 -size=26 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_26"
+fontToTga.exe -maxTexSize=2048 -size=27 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_27"
+fontToTga.exe -maxTexSize=2048 -size=28 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_28"
+fontToTga.exe -maxTexSize=2048 -size=29 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_29"
+fontToTga.exe -maxTexSize=2048 -size=30 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_30"
+fontToTga.exe -maxTexSize=2048 -size=31 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_31"
+fontToTga.exe -maxTexSize=2048 -size=34 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_34"
+fontToTga.exe -maxTexSize=2048 -size=35 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_35"
+fontToTga.exe -maxTexSize=2048 -size=37 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_37"
+fontToTga.exe -maxTexSize=2048 -size=46 "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_46"
 
-fontToTga.exe -maxTexSize=2048 -size=20 "Noto Sans CJK TC Bold" Fonts\NotoSansCJK-Bold20
-fontToTga.exe -maxTexSize=2048 -size=30 "Noto Sans CJK TC Bold" Fonts\NotoSansCJK-Bold30
+fontToTga.exe -maxTexSize=2048 -size=6 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_6_b"
+fontToTga.exe -maxTexSize=2048 -size=7 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_7_b"
+fontToTga.exe -maxTexSize=2048 -size=8 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_8_b"
+fontToTga.exe -maxTexSize=2048 -size=9 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_9_b"
+fontToTga.exe -maxTexSize=2048 -size=10 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_10_b"
+fontToTga.exe -maxTexSize=2048 -size=11 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_11_b"
+fontToTga.exe -maxTexSize=2048 -size=12 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_12_b"
+fontToTga.exe -maxTexSize=2048 -size=13 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_13_b"
+fontToTga.exe -maxTexSize=2048 -size=14 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_14_b"
+fontToTga.exe -maxTexSize=2048 -size=15 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_15_b"
+fontToTga.exe -maxTexSize=2048 -size=16 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_16_b"
+fontToTga.exe -maxTexSize=2048 -size=17 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_17_b"
+fontToTga.exe -maxTexSize=2048 -size=18 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_18_b"
+fontToTga.exe -maxTexSize=2048 -size=19 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_19_b"
+fontToTga.exe -maxTexSize=2048 -size=20 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_20_b"
+fontToTga.exe -maxTexSize=2048 -size=21 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_21_b"
+fontToTga.exe -maxTexSize=2048 -size=22 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_22_b"
+fontToTga.exe -maxTexSize=2048 -size=23 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_23_b"
+fontToTga.exe -maxTexSize=2048 -size=24 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_24_b"
+fontToTga.exe -maxTexSize=2048 -size=25 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_25_b"
+fontToTga.exe -maxTexSize=2048 -size=26 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_26_b"
+fontToTga.exe -maxTexSize=2048 -size=27 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_27_b"
+fontToTga.exe -maxTexSize=2048 -size=28 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_28_b"
+fontToTga.exe -maxTexSize=2048 -size=29 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_29_b"
+fontToTga.exe -maxTexSize=2048 -size=30 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_30_b"
+fontToTga.exe -maxTexSize=2048 -size=31 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_31_b"
+fontToTga.exe -maxTexSize=2048 -size=34 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_34_b"
+fontToTga.exe -maxTexSize=2048 -size=35 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_35_b"
+fontToTga.exe -maxTexSize=2048 -size=37 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_37_b"
+fontToTga.exe -maxTexSize=2048 -size=46 -bold "WenQuanYi Micro Hei" "Fonts\WenQuanYi_Micro_Hei_46_b"
 
-PATH I:\Game\steamapps\common\Arma 3 Tools\TexView2;%PATH%
-for %%a in (Fonts\*.tga) do (
-    Pal2PacE %%a
-    del %%a
-)
 pause
